@@ -107,6 +107,7 @@ Often bestimmt aber auch der GM den HW für Aktionen, die nicht klar in den Rege
 |   Heldenhaft   |          20          | eine glatte Oberfläche erklimmen, über eine 15'-Lücke springen, einen Text in unbekannter Sprache übersetzen, eine neutrale Partei überzeugen ein Risiko für dich einzugehen |
 |     Episch     |          25          |                                        einen Text in einer Sprache aus einer völlig anderen Welt übersetzen, eine Eisentür aufbrechen                                        |
 |    Legendär    |          30          |                      über einen 25'-Spalt springen, eine makellose Oberfläche erklimmen, sich mit einem Feind mit einer Vendetta gegen dich anfreunden                       |
+
 Es sollte angemerkt werden, dass Herausforderungswerte generell nicht an das Level der Gruppe angepasst sind. Eine starke Holztür niederzutreten ist HW 15, egal ob die Gruppe auf Level 1 oder Level 10 ist. Gleichzeitig kann es aber für den GM auch nützlich beim Erstellen von Szenarios sein, die typischen Kapazitäten von Charakteren anhand ihrer Attributwerte zu kennen. Die *Durchschnittliche Herausforderung vs. Attributwert*-Tabelle führt Herausforderungswerte auf, die für verschiedene Attributwerte durchschnittlich schwierig zu erreichen sind. Ein Charakter mit dem jeweiligen Wert kann erwarten, beim aufgelisteten Herausforderungswert bei etwa **50%** der Versuche Erfolg zu haben.
 #### Durchschnittliche Herausforderung vs. Attributwert
 | Attributwert | Durchschnittlicher Herausforderungswert |
@@ -185,5 +186,3 @@ Der GM kann auch frei andere Regeln etablieren, nach denen Legendenpunkte verdie
 Ein Charakter kann maximal die Anzahl an Legendenpunkten entsprechend seinem eigenen Level plus 1 einsetzen, um einen einzigen Aktionswurf zu verstärken.
 
 Bevor er den Aktionswurf durchführt, gibt der Spieler an, wie viele Legendenpunkte er ausgibt und bekommt Vorteil 1 auf den Wurf pro eingesetztem Legendenpunkt. Zusätzlich wird auf das Ergebnis des Wurfes pro Legendenpunkt +1 aufgerechnet.
-
-> Example[?]
