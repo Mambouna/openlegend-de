@@ -107,7 +107,6 @@ Wenn du mehr Kontrolle über deine Attribute haben möchtest, kannst du dein eig
 | 5            | 15     |
 ### Attributwürfel erfassen
 Jeder Attributwert über 0 gibt dir Bonuswürfel, die deine Chancen auf Erfolg erhöhen. Nutze die *Attributwürfel*-Tabelle für jedes deiner Attribute und notiere die passenden Würfel. (Du wirst später lernen, was man mit diesen Würfeln tut.)
-
 #### Attributwürfel
 | Attributwert | Attributwürfel |
 | ------------ | -------------- |
