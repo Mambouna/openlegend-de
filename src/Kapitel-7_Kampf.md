@@ -178,7 +178,7 @@ Gebietsattacken sind grundsätzlich nur mit außergewöhnlichen Attributen mögl
 	</tr>
 </table>
 #### Mit einem Fluch angreifen
-Anstatt zu versuchen, einem Ziel Schaden zuzufügen, kannst du dich stattdessen entscheiden, einen Fluch auf einen Feind zu wirken. Um einen Fluch zu wirken, musst du ein passendes Attribut mit einem Wert gleich des Kraftlevels des Fluchen haben, wie in der [Fluchbeschreibung](http://openlegendrpg.com/banes)[TODO] aufgeführt. Ziele können unter mehreren Flüchen leiden, aber der gleiche Fluch kann nicht mehrmals auf einem Ziel liegen, außer dies ist im Effekt des Fluches explizit angegeben (z.B. [*erschöpft*](http://openlegendrpg.com/banes/fatigued)[TODO]).
+Anstatt zu versuchen, einem Ziel Schaden zuzufügen, kannst du dich stattdessen entscheiden, einen Fluch auf einen Feind zu wirken. Um einen Fluch zu wirken, musst du ein passendes Attribut mit einem Wert gleich des Kraftlevels des Fluchen haben, wie in der [Fluchbeschreibung](http://openlegendrpg.com/banes) [TODO] aufgeführt. Ziele können unter mehreren Flüchen leiden, aber der gleiche Fluch kann nicht mehrmals auf einem Ziel liegen, außer dies ist im Effekt des Fluches explizit angegeben (z.B. [*erschöpft*](http://openlegendrpg.com/banes/fatigued) [TODO]).
 
 Einen Fluchangriff abzuhandeln funktioniert ähnlich, wie einen Angriff mit Schaden auszuführen:
 1. **Attribut vs. Verteidigung feststellen.** Die [Fluchbeschreibung](http://openlegendrpg.com/banes) gibt an, welche Attribute für den Fluch benutzt werden können und gegen welche Verteidigung sie gehen.
