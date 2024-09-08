@@ -346,9 +346,11 @@ Manche GMs mögen dieses Maß an Anspruch eventuell, sodass **sie die Kernmechan
 	<tr>
 		<td>kleiner als der Herausforderungswert ist</td>
 		<td>der GM und Spieler wählen beide jeweils 1:
-- Füge 3 Schaden zu
-- Wirke einen Harm von Kraftlevel &lt;= 3
-- 10' bewegen ohne Gelegenheitsattacken
+			<ul>
+				<li>Füge 3 Schaden zu</li>
+				<li>Wirke einen Harm von Kraftlevel &lt;= 3</li>
+				<li>10' bewegen ohne Gelegenheitsattacken</li>
+			</ul>
 		</td>
 	</tr>
 </table>
