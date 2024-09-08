@@ -43,7 +43,7 @@ Jede Beschreibung eines Fluches enthält die folgenden Elemente.
 
 **Wirkzeit.** Die Zeit, die benötigt wird, um den Segen zu wirken. Die meisten Segen haben eine Wirkzeit von 1 großen Aktion. Für Segen, die eine längere Wirkzeit haben, kannst du dich die gesamte Zeit nur darauf konzentrieren, den Segen zu wirken. Falls du unterbrochen wirst, musst du neu beginnen.
 
-**Dauer.** Die meisten Segen haben eine Dauer von *aufrechterhalten verlängert*[?], was bedeutet, dass der den Segen wirkende Charakter jede Runde eine aufrechterhalten-Aktion benutzen muss, um den Segen anhalten zu lassen. Falls du einen Segen nicht aufrechterhältst, endet der Effekt des Segens mit dem Ende der Runde. Weil das Aufrechterhalten eines Segens eine kleine Aktion ist, die man nur einmal pro Runde nutzen kann, kann man generell nur einen Segen auf einmal aktiv halten. Du musst einen Segen nicht in der Runde aufrechterhalten, in dem er gewirkt wird, solange du keine anderen Segen aktiv hältst.
+**Dauer.** Die meisten Segen haben eine Dauer von *Aufrechterhalten verlängert*[?], was bedeutet, dass der den Segen wirkende Charakter jede Runde eine aufrechterhalten-Aktion benutzen muss, um den Segen anhalten zu lassen. Falls du einen Segen nicht aufrechterhältst, endet der Effekt des Segens mit dem Ende der Runde. Weil das Aufrechterhalten eines Segens eine kleine Aktion ist, die man nur einmal pro Runde nutzen kann, kann man generell nur einen Segen auf einmal aktiv halten. Du musst einen Segen nicht in der Runde aufrechterhalten, in dem er gewirkt wird, solange du keine anderen Segen aktiv hältst.
 
 **Beschreibung.** Dieser Eintrag gibt einfach eine grundlegende Idee davon, wie der Segen im Kontext der Geschichte aussehen könnte.
 
