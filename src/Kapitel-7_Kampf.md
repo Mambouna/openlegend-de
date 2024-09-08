@@ -58,6 +58,7 @@ Sobald dein Zug in der Reihenfolge der Initiative dran ist, kannst du eine groß
 		<td>1 Fokusaktion</td>
 	</tr>
 </table>
+
 *Eine große Aktion kann für eine Bewegungsaktion eingetauscht werden.*
 ### Große Aktionen
 Große Aktionen sind die Handlungen, die das Kampfgeschehen stark beeinflussen. Deine große Aktion kann für eine der folgenden Handlungen benutzt werden:
@@ -177,6 +178,7 @@ Gebietsattacken sind grundsätzlich nur mit außergewöhnlichen Attributen mögl
 		<td>Nachteil = 1 pro 5' Länge des Kegels</td>
 	</tr>
 </table>
+
 #### Mit einem Fluch angreifen
 Anstatt zu versuchen, einem Ziel Schaden zuzufügen, kannst du dich stattdessen entscheiden, einen Fluch auf einen Feind zu wirken. Um einen Fluch zu wirken, musst du ein passendes Attribut mit einem Wert gleich des Kraftlevels des Fluchen haben, wie in der [Fluchbeschreibung](http://openlegendrpg.com/banes) [TODO] aufgeführt. Ziele können unter mehreren Flüchen leiden, aber der gleiche Fluch kann nicht mehrmals auf einem Ziel liegen, außer dies ist im Effekt des Fluches explizit angegeben (z.B. [*erschöpft*](http://openlegendrpg.com/banes/fatigued) [TODO]).
 
