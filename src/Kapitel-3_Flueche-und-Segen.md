@@ -13,9 +13,9 @@ Weil Open Legend darauf bedacht ist, Spielmechaniken von der Geschichte zu trenn
 ## Harme und Wohle wirken
 Um einen Harm zu wirken, ist die primäre Methode, bei einem passenden Attributwurf mit einem Verteidigungswert deines Ziels als Herausforderungwert des Wurfes (wie in der Beschreibung des Harms angegeben), Erfolg zu haben. Eine alternative Methode ist es, einen erfolgreichen Angriff durchzuführen, der die Verteidigung des Ziels um 10 oder mehr übertrifft. Wenn das passiert, kannst du einen Harm des Kraftlevels gleich oder kleiner des Attributs, das für die Attacke eingesetzt wurde, wirken. Damit der Harm wirkt, muss der ursprüngliche Angriffswurf, der mehr als 10 über der Verteidigung des Ziels lag, auch größer sein als die Verteidigung des Ziels, auf welche der Harm wirkt. Übertrifft ein Angriff mit Wert 21 die Deckung des Ziels um 11, der daraufhin gewählte Harm zielt aber auf die Verteidigung Entschlossenheit, in welcher das Ziel 22 hat, wirkt der Harm trotz herausragendem Erfolg beim Angriff nicht. Falls dein Angriff auf mehrere Feinde zielt, kannst du den Harm auf alle Ziele wirken lassen, bei denen die Verteidigung um 10 oder mehr überschritten wurde. Ziele können mehrere Harme auf sich liegen haben, aber niemals *gestapelte* Harme. Das bedeutet, ein Ziel kann von keinem Harm betroffen werden, unter dem es schon leidet, außer dies wird explizit im Effekt des Harmes erlaubt (z.B. [*erschöpft*](http://www.openlegendrpg.com/banes/fatigued)[?]).
 
-Um einen Segen zu wirken, musst du bei einem Attributwurf Erfolg habe, dessen Herausforderungswert anhand des Kraftlevels des Segens bestimmt wird. Der HW entspricht 10 + 2 x Kraftlevel. Falls ein Segen mit verschiedenen Kraftleveln genutzt werden kann, entscheidest du nach dem Attributwurf, auf welchem Kraftlevel du es tun möchtest. Während Ziele verschiedene Segen auf sich liegen haben können, können auch Segen nicht gestapelt werden. Falls ein zweites Wirken eines gleichen Segens einen Charakter betreffen würde, entscheidet der Charakter welche Instanz des Segens er behalten möchte und welche negiert wird. 
+Um ein Wohl zu wirken, musst du bei einem Attributwurf Erfolg habe, dessen Herausforderungswert anhand des Kraftlevels des Wohls bestimmt wird. Der HW entspricht 10 + 2 x Kraftlevel. Falls ein Wohl mit verschiedenen Kraftleveln genutzt werden kann, entscheidest du nach dem Attributwurf, auf welchem Kraftlevel du es tun möchtest. Während Ziele verschiedene Wohle auf sich liegen haben können, können auch Wohle nicht gestapelt werden. Falls ein zweites Wirken eines gleichen Wohls einen Charakter betreffen würde, entscheidet der Charakter welche Instanz des Wohls er behalten möchte und welche negiert wird. 
 
-Weitere Details zum Wirken von Harmen und Segen wie zum Beispiel Reichweite und das Zielen auf mehrere Kreaturen, können in Kapitel 7: Kampf gefunden werden.
+Weitere Details zum Wirken von Harmen und Wohlen wie zum Beispiel Reichweite und das Zielen auf mehrere Kreaturen, können in Kapitel 7: Kampf gefunden werden.
 ### Die Beschreibung eines Harmes lesen
 Die vollständige Liste an Harmen kann [hier](http://openlegendrpg.com/banes)[TODO] in einer durchsuchbaren Liste gefunden werden.
 
@@ -32,19 +32,19 @@ Jede Beschreibung eines Harmes enthält die folgenden Elemente.
 **Beschreibung.** Dieser Eintrag gibt einfach eine grundlegende Idee davon, wie der Harm im Kontext der Geschichte aussehen könnte.
 
 **Effekt.** Dieser Eintrag führt den spielmechanischen Einfluss des Harmes nach den Regeln auf.
-### Die Beschreibung eines Segens lesen
-Die vollständige Liste an Segen kann [hier](http://openlegendrpg.com/boons)[TODO] in einer durchsuchbaren Liste gefunden werden.
+### Die Beschreibung eines Wohles lesen
+Die vollständige Liste an Wohlen kann [hier](http://openlegendrpg.com/boons) [TODO] in einer durchsuchbaren Liste gefunden werden.
 
-Jede Beschreibung eines Harmes enthält die folgenden Elemente.
+Jede Beschreibung eines Wohls enthält die folgenden Elemente.
 
-**Kraftlevel.** Diese Zahl zeigt den Attributwert an, der nötig ist, um diesen Segen zu wirken. Falls mehrere Kraftlevel aufgeführt sind (z.B. 2 / 4 / 6), kann der Segen mit unterschiedlichen Kraftleveln gewirkt werden. Der Segen *heilen*[?] stellt auf ansteigenden Kraftleveln jeweils mehr Trefferpunkte wieder her. Das Kraftlevel eines Segens bestimmt auch den Herausforderungswert des Attributwurfes, der nötig ist, um den Segen zu wirken. Der HW ist 10 + 2 x Kraftlevel.
+**Kraftlevel.** Diese Zahl zeigt den Attributwert an, der nötig ist, um dieses Wohl zu wirken. Falls mehrere Kraftlevel aufgeführt sind (z.B. 2 / 4 / 6), kann das Wohl mit unterschiedlichen Kraftleveln gewirkt werden. Das Wohl *heilen*[?] stellt auf ansteigenden Kraftleveln jeweils mehr Trefferpunkte wieder her. Das Kraftlevel eines Wohls bestimmt auch den Herausforderungswert des Attributwurfes, der nötig ist, um das Wohl zu wirken. Der HW ist 10 + 2 x Kraftlevel.
 
-**Attribute.** Dies ist eine Liste von Attributen, mit denen der Segen gewirkt werden kann. Solange du zumindest ein Attribut mit einem Attributwert gleich oder höher dem Kraftlevel hast, kannst du den Segen wirken.
+**Attribute.** Dies ist eine Liste von Attributen, mit denen das Wohl gewirkt werden kann. Solange du zumindest ein Attribut mit einem Attributwert gleich oder höher dem Kraftlevel hast, kannst du das Wohl wirken.
 
-**Wirkzeit.** Die Zeit, die benötigt wird, um den Segen zu wirken. Die meisten Segen haben eine Wirkzeit von 1 großen Aktion. Für Segen, die eine längere Wirkzeit haben, kannst du dich die gesamte Zeit nur darauf konzentrieren, den Segen zu wirken. Falls du unterbrochen wirst, musst du neu beginnen.
+**Wirkzeit.** Die Zeit, die benötigt wird, um das Wohl zu wirken. Die meisten Wohle haben eine Wirkzeit von 1 großen Aktion. Für Wohle, die eine längere Wirkzeit haben, musst du dich die gesamte Zeit nur darauf konzentrieren, das Wohl zu wirken. Falls du unterbrochen wirst, musst du neu beginnen.
 
-**Dauer.** Die meisten Segen haben eine Dauer von *Aufrechterhalten verlängert*[?], was bedeutet, dass der den Segen wirkende Charakter jede Runde eine aufrechterhalten-Aktion benutzen muss, um den Segen anhalten zu lassen. Falls du einen Segen nicht aufrechterhältst, endet der Effekt des Segens mit dem Ende der Runde. Weil das Aufrechterhalten eines Segens eine kleine Aktion ist, die man nur einmal pro Runde nutzen kann, kann man generell nur einen Segen auf einmal aktiv halten. Du musst einen Segen nicht in der Runde aufrechterhalten, in dem er gewirkt wird, solange du keine anderen Segen aktiv hältst.
+**Dauer.** Die meisten Wohle haben eine Dauer von *Aufrechterhalten verlängert*[?], was bedeutet, dass der das Wohl wirkende Charakter jede Runde eine aufrechterhalten-Aktion benutzen muss, um das Wohl anhalten zu lassen. Falls du ein Wohl nicht aufrechterhältst, endet der Effekt des Wohls mit dem Ende der Runde. Weil das Aufrechterhalten eines Wohls eine kleine Aktion ist, die man nur einmal pro Runde nutzen kann, kann man generell nur ein Wohl auf einmal aktiv halten. Du musst ein Wohl nicht in der Runde aufrechterhalten, in dem er gewirkt wird, solange du keine anderen Wohle aktiv hältst.
 
-**Beschreibung.** Dieser Eintrag gibt einfach eine grundlegende Idee davon, wie der Segen im Kontext der Geschichte aussehen könnte.
+**Beschreibung.** Dieser Eintrag gibt einfach eine grundlegende Idee davon, wie das Wohl im Kontext der Geschichte aussehen könnte.
 
-**Effekt.** Dieser Eintrag führt den spielmechanischen Einfluss des Segens nach den Regeln auf.
+**Effekt.** Dieser Eintrag führt den spielmechanischen Einfluss des Wohls nach den Regeln auf.
