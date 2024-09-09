@@ -33,15 +33,15 @@ Jede Beschreibung eines Fluches enthält die folgenden Elemente.
 
 **Effekt.** Dieser Eintrag führt den spielmechanischen Einfluss des Fluches nach den Regeln auf.
 ### Die Beschreibung eines Segens lesen
-Die vollständige Liste an Segen kann [hier](http://openlegendrpg.com/boons)[TODO] in einer durchsuchbaren Liste gefunden werden.
+Die vollständige Liste an Segen kann [hier](http://openlegendrpg.com/boons) [TODO] in einer durchsuchbaren Liste gefunden werden.
 
-Jede Beschreibung eines Fluches enthält die folgenden Elemente.
+Jede Beschreibung eines Segens enthält die folgenden Elemente.
 
 **Kraftlevel.** Diese Zahl zeigt den Attributwert an, der nötig ist, um diesen Segen zu wirken. Falls mehrere Kraftlevel aufgeführt sind (z.B. 2 / 4 / 6), kann der Segen mit unterschiedlichen Kraftleveln gewirkt werden. Der Segen *heilen*[?] stellt auf ansteigenden Kraftleveln jeweils mehr Trefferpunkte wieder her. Das Kraftlevel eines Segens bestimmt auch den Herausforderungswert des Attributwurfes, der nötig ist, um den Segen zu wirken. Der HW ist 10 + 2 x Kraftlevel.
 
 **Attribute.** Dies ist eine Liste von Attributen, mit denen der Segen gewirkt werden kann. Solange du zumindest ein Attribut mit einem Attributwert gleich oder höher dem Kraftlevel hast, kannst du den Segen wirken.
 
-**Wirkzeit.** Die Zeit, die benötigt wird, um den Segen zu wirken. Die meisten Segen haben eine Wirkzeit von 1 großen Aktion. Für Segen, die eine längere Wirkzeit haben, kannst du dich die gesamte Zeit nur darauf konzentrieren, den Segen zu wirken. Falls du unterbrochen wirst, musst du neu beginnen.
+**Wirkzeit.** Die Zeit, die benötigt wird, um den Segen zu wirken. Die meisten Segen haben eine Wirkzeit von 1 großen Aktion. Für Segen, die eine längere Wirkzeit haben, musst du dich die gesamte Zeit nur darauf konzentrieren, den Segen zu wirken. Falls du unterbrochen wirst, musst du neu beginnen.
 
 **Dauer.** Die meisten Segen haben eine Dauer von *Aufrechterhalten verlängert*[?], was bedeutet, dass der den Segen wirkende Charakter jede Runde eine aufrechterhalten-Aktion benutzen muss, um den Segen anhalten zu lassen. Falls du einen Segen nicht aufrechterhältst, endet der Effekt des Segens mit dem Ende der Runde. Weil das Aufrechterhalten eines Segens eine kleine Aktion ist, die man nur einmal pro Runde nutzen kann, kann man generell nur einen Segen auf einmal aktiv halten. Du musst einen Segen nicht in der Runde aufrechterhalten, in dem er gewirkt wird, solange du keine anderen Segen aktiv hältst.
 
