@@ -154,7 +154,7 @@ Wenn ein Gegner versucht, dich anzugreifen - egal ob mit dem Schuss eines Gewehr
 
 **Trefferpunkte** (TP abgekürzt) sind eine abstrakte Repräsentation deiner Fähigkeit, Schmerzen zu ignorieren, tödlichen Angriffen zu entgehen und deine Präsenz auf dem Schlachtfeld trotz Wunden und Erschöpfung aufrechtzuerhalten. Falls sie 0 erreichen, fällst du in Ohnmacht und bist in Lebensgefahr.
 
-**Geschwindigkeit** stellt dar, wie weit dein Charakter sich in einer einzigen Bewegungsaktion fortbewegen kann (siehe Kapitel 7: Kampf). Deine Grundgeschwindigkeit sind 30 Fuß. Andere Effekte wie Flüche, Segen und Fertigkeiten können deine Geschwindigkeit erhöhen oder verringern.
+**Geschwindigkeit** stellt dar, wie weit dein Charakter sich in einer einzigen Bewegungsaktion fortbewegen kann (siehe Kapitel 7: Kampf). Deine Grundgeschwindigkeit sind 30 Fuß. Andere Effekte wie Harme[?], Wohle[?] und Fertigkeiten können deine Geschwindigkeit erhöhen oder verringern.
 ## Schritt 4: Fertigkeiten kaufen
 Während die Attribute deines Charakters seine Expertise im erbringen heroischer Taten ausmachen, machen seine **Fertigkeiten** ihn einzigartig unter anderen Charakteren. Fertigkeiten erlauben dir, deinen Charakter anzupassen, sodass er spezifischen Anforderungen besonders gut begegnen kann.
 
@@ -184,7 +184,7 @@ Diese Sektion enthält eine Ansammlung an typischen Charakterarten, die für ver
 
 ***Merke: Die Liste der Charakterarchetypen ist noch in Arbeit.***
 ## EP erhalten und im Level aufsteigen
-Während die Legende, die du erschaffst, ihren Lauf nimmt und in Gefahr und Gravitas steigt, wird die Macht deines Charakters ebenso wachsen, um den Herausforderungen zu entsprechen. Diese Macht erhält er in Form von Erfahrungspunkten (EP), die der GM als Belohnung vergibt und die es dir erlauben, im Level aufzusteigen und so Zugang zu neuen Fertigkeiten, Attributen, Flüchen und Segen zu erhalten.
+Während die Legende, die du erschaffst, ihren Lauf nimmt und in Gefahr und Gravitas steigt, wird die Macht deines Charakters ebenso wachsen, um den Herausforderungen zu entsprechen. Diese Macht erhält er in Form von Erfahrungspunkten (EP), die der GM als Belohnung vergibt und die es dir erlauben, im Level aufzusteigen und so Zugang zu neuen Fertigkeiten, Attributen, Harmen und Wohlen zu erhalten.
 
 Deine gesamten gesammelten EP bestimmen dein Level, wobei jede 3 EP dir erlauben, auf das nächste Level aufzusteigen. Dein Level bestimmt dabei die möglichen Höchstwerte für deine Attributwerte und gibt einen groben Hinweis deiner Macht im Vergleich mit anderen Charakteren, NPCs[?] und Monstern. Die *Spielercharakter Levelfortschritt*-Tabelle gibt die EP-Voraussetzungen und Höchstwerte für Attribute jedes Levels an.
 ##### Spielercharakter Levelfortschritt
@@ -220,7 +220,7 @@ Die vollständige Liste aller verfügbaren Fertigkeiten kann auf der [Open Legen
 | 9            | 45     | 3d10           |
 | 10           | -      | 4d8            |
 
-**Anmerkung:** Ein Attributwert von 10 kann nicht mit Attributpunkten gekauft werden. Er kann nur durch Fertigkeiten, Segen oder andere besondere Umstände erreicht werden. Kein Attribut kann über den Wert 10 hinaus ansteigen.
+**Anmerkung:** Ein Attributwert von 10 kann nicht mit Attributpunkten gekauft werden. Er kann nur durch Fertigkeiten, Wohle oder andere besondere Umstände erreicht werden. Kein Attribut kann über den Wert 10 hinaus ansteigen.
 ### Neue Trefferpunkte
 In *Open Legend* sind Attribute der Weg, wie du deine Trefferpunkte erhöhen kann. Wenn du deinen Charakter widerstandsfähiger machen willst, erhöhe dein Zähigkeit-, Präsenz- oder Willenskraft-Attribut. Wie in der Gleichung der Standardtrefferpunkte dargelegt, wirst du jedes Mal, wenn du eines dieser Attribute um 1 erhöhst, 2 Trefferpunkte gewinnen.
 ## Jenseits dem ersten Level starten
