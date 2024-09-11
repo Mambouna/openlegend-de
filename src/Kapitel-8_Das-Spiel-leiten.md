@@ -26,6 +26,7 @@ Um zu beginnen, epische Quests zu planen, brauchst du drei wichtige Zutaten:
 - **Gefahr**
 - **Motivation**
 - **Twist**
+
 Die **Gefahr** sind die schlechten Konsequenzen, die eintreten, falls die Spielenden im Geschehen nicht eingreifen:
 - *Fünf Kinder wurden durch eine Hexe entführt, die sie zum Sonnenuntergang in einem Kessel kochen will.*
 - *Das Librim Protectis ist aus der Universität ihrer Majestät verschwunden und in ihm sind die Wörter eines Rituals, das unerdenkliches Böse aus einer anderen Dimension beschwören kann.*
@@ -277,7 +278,9 @@ Sobald du die grundlegenden Werte notiert hast, wähle ein paar der folgenden Fe
 - **Fataler Angriff (Grad anhand des NPC-Level, max. 9):** Deine Angriffe zählen als fatale Angriffe, wann immer mindestens eine der folgenden Bedingungen erfüllt ist:
 	- Dein Ziel ist sich der kommenden Attacke nicht bewusst, zum Beispiel wenn du vor ihnen verborgen bist, dich verkleidest oder sie erfolgreich getäuscht hast.
 	- Dein Ziel ist in Nahkampfreichweite eines Verbündeten.
+	
 	Du hast auf alle fatalen Angriffe Vorteil mit Wert anhand des Grades dieser Fertigkeit. Zusätzlich wird ein Teil des Schadens bei fatalen Angriffen als tödlicher Schaden (siehe Kapitel 7: Kampf) zugefügt (maximal der gesamte Schaden).
+	
 	- **Grad 1** - Vorteil 1, bis zu 5 tödlicher Schaden
 	- **Grad 2** - Vorteil 2, bis zu 5 tödlicher Schaden
 	- **Grad 3** - Vorteil 3, bis zu 10 tödlicher Schaden
@@ -364,12 +367,13 @@ Benutze die Tabelle *Szenarioschwierigkeit*, um zu bestimmen, wie viele Level di
 | Einfach       | Gesamtlevel der Gruppe x 0,5 |
 | Moderat       | Gesamtlevel der Gruppe x 1   |
 | Schwierig     | Gesamtlevel der Gruppe x 2   |
+
 Ein Beispiel: Ein moderates Szenario für eine Gruppe aus 4 Spieler\*innen, die alle auf Level 5 sind, hätte ein totales NPC-Level von 20. Ein einfaches Szenario für die gleiche Gruppe hätte ein totales NPC-Level von 10, während ein schweres ein totales Level von 40 hätte.
 
 Egal, ob du die einfache oder komplexe Aufbaumethode nutzt, kannst du NPCs für das Szenario erstellen, bis du etwa dieses totale NPC-Level erreicht hast.
-##### Bosse
+#### Bosse
 Falls das Szenario auch Bossgegner enthält, multipliziere ihr Level mit 4 zum Aufbrauchen der gesamten NPC-Level (ein Boss auf Level 5 würde zum Beispiel 20 Level kosten).
-##### Schergen
+#### Schergen
 Wenn du ein Szenario erstellst, möchtest du vielleicht einige Gegner als leicht ausschaltbare Schergen nutzen, die aber trotzdem eine Gefahr darstellen. Du kannst einen normalen NPC gegen 3 Schergen des gleichen Levels eintauschen. Schergen haben die gleichen Eigenschaften wie jeder andere NPC auch, aber ihre TP werden durch 4 geteilt.
 
 Vielleicht möchtest du ein einfaches Szenario mit einer Gruppe aus sechs Helden auf Level 1 gegen eine Horde Goblins gestalten. Dein NPC-Budget würde dir nur 3 normale NPC als Gegner auf Level 1 gestatten, aber du entscheidest dich, sie alle gegen Schergen einzutauschen. Nun kannst du 9 Goblin-Schergen in den Kampf werfen, wobei jeder Goblin-Scherge statt 12 TP für einen normalen Goblin nun nur noch 3 TP hat.
@@ -404,6 +408,7 @@ In solchen Situationen kannst du einfach Würfel werfen, um den genauen Schaden 
 | 8           | 3d8     | 80' fallen, Flugzeugabsturz                                                   |
 | 9           | 3d10    | 90' fallen, in Lava stürzen                                                   |
 | 10          | 4d8     | 100'+ fallen, zwischen zwei harten Oberflächen vollständig zerquetscht werden |
+
 Der GM hat die Chance, beliebigen Schaden auf die Schnelle als *tödlichen Schaden* gelten zu lassen. Dies ist normalerweise der Fall, wenn Schaden außerhalb von Kämpfen genommen wird.
 ### Szenariokonsequenzen
 Nicht jeder Kampf, in den deine Gruppe gerät, muss ein Ringen bis zum Tod sein. Genauso muss es nicht immer einen klaren Sieg oder eine klare Niederlage geben. Wenn du überlegst, wie ein Kampf enden sollte, denk an die Motivationen der Charaktere darin und die Ansprüche der Geschichte. Sind die Spieler\*innen dem Orkhäuptling mehr lebendig wert als tot? Ist die Geschichte besser, wenn der Drache nicht die ganze Gruppe niedermäht? Behalte die folgenden Tipps für das Beenden von Kämpfen im Kopf.
