@@ -158,6 +158,7 @@ Kapitel 6 erklärt das vereinfachte Wohlstandssystem von Open Legend und die *Wo
 | 7              | König, Präsident                                         | eine Festung, ein Kampfjet, eine verdeckte Spezialeinheit[?]                                         |
 | 8              | Intergalaktischer Herrscher, Level 10 Charakter          | ein großes Landgut, eine große Konzernübernahme, eine Armee von 10.000                               |
 | 9              | Imperator[?]                                             | ein Schloss, eine Raumstation, eine Armee von 50.000, eine Flotte Kriegsschiffe                      |
+
 Du kannst diese Tabelle als grobe Richtlinie dafür sehen, wann du Spieler\*innen mehr Wohlstand geben solltest, vor allem, wenn du auch mit einem Meilensteinsystem für EP arbeitest. Ein Charakter auf Level 4 zum Beispiel sollte nach der Tabelle generell auch einen WW von 4 haben. Wenn wir uns am Plan der Meilensteine von vorher orientieren, könnten wir auch festmachen, dass die Helden nach der Befreiung von Woodshold vom Dorf belohnt werden und der Kult des Drachen einen Hort an Schätzen birgt, der auch den Reichtum der Spieler\*innen mehrt.
 
 Egal wie du planst, Wohlstand zu vergeben, kannst du anhand der Tabelle erkennen, dass die generelle Empfehlung ist, dass Charaktere für jede 3 Level 2 Erhöhungen ihres Wohlstands erfahren.
