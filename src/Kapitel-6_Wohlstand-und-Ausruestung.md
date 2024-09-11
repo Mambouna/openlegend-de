@@ -5,7 +5,7 @@ Anstatt jedes einzelne Goldstück, jeden Kredit oder jedes Kunstwerk im Blick zu
 
 Jeder Charakter hat einen Wohlstandswert, welcher bei 2 beginnt und die Werte 0 bis 9 annehmen kann, wenn du Reichtum anhäufst oder ausgibst. Dein Wohlstandswert gibt dir eine grundlegende Idee davon, wie dein momentaner Lebensstandard ist und was für Güter und Dienstleistungen du dir leisten kannst. Die *Wohlstandsüberblick*-Tabelle beschreibt den typischen Lifestyle und verfügbare Güter für jeden Wert.
 #### Wohlstandsüberblick
-| Wohlstandswort | Lifestyle                                                | bsp. Ausgaben                                                                                        |
+| Wohlstandswert | Lifestyle                                                | bsp. Ausgaben                                                                                        |
 | -------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | 0              | Bettler, Straßenkind                                     | 3 Mahlzeiten und ein warmes Bett für die Nacht                                                       |
 | 1              | Tagelöhner                                               | eine Zechnacht, Lederrüstung, einfache Waffen                                                        |
