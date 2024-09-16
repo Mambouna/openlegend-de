@@ -430,4 +430,374 @@ Rollenspiele andererseits müssen nicht immer ausgewogen sein. Sie sollen die Sp
 
 Als GM musst du dir keine Sorgen machen, eine unmögliche Gefahr in den Weg deiner Gruppe zu legen. Du musst dies aber fair tun. Du bist dafür verantwortlich, die Gruppe vorzuwarnen, dass eine Bedrohung vor ihnen liegt. Es wäre unfair, einen uralten Wyrm auf eine überraschte Gruppe auf Level 1 loszulassen, ohne ihnen eine Chance auf Flucht zu geben. Die gleiche Begegnung wäre aber völlig fair, wenn die Gruppe den Drachen in den alten Ruinen antrifft, vor denen sie alle Menschen in der Umgebung gewarnt haben und in denen mit jedem weiteren Schritt das Beben unter ihren Füßen stärker wird.
 ## Attribute und Aktionswürfe im Spiel
-[TODO]
+Der größte Fokus dieses Kapitels bisher war es, GMs dabei zu helfen, ihre Spiele vorzubereiten: Kampagnen skizzieren, Abenteuer schreiben und Kampfszenarien erstellen. Letztendlich wird all diese Arbeit ihre Früchte tragen und es wird Zeit, die Sitzung mit deinen Spieler\*innen zu leiten. Um diesen Kapitel abzuschließen, wollen wir dir noch etwas Inspiration für eine der größten Herausforderungen als GM in Open Legend mitgeben: Aktionswürfe interpretieren.
+
+Wie zuvor beschrieben, machst du einen Aktionswurf mit einem passenden Attribut, wann immer du eine bedeutende Handlung durchführen möchtest. Manchmal wird das Ergebnis klar in den Regeln definiert, zum Beispiel bei Angriffen, Flüchen oder Segen. Häufig wirst du aber Aktionen versuchen, die von den Regeln keine klaren Resultate definiert bekommen haben. In diesem Abschnitt findest du Beispiele dieser Art von Aktion mit allen verschiedenen Attributen und einige Vorschläge, wie du "Erfolg mit einem Haken" und "Fehlschlag, aber die Geschichte schreitet voran" interpretieren könntest, wenn die Würfel der Gruppe mal nicht gewogen sind.
+
+Für jedes Attribut bieten wir drei Beispiele, basierend auf ihrer Schwierigkeit und ihrem Einfluss auf die erzählte Geschichte:
+
+**Herausfordernd (HW 15):** Erfolg bei dieser Handlung bedeutet, eine kleine Herausforderung überwunden zu haben oder die Geschichte in einer Weise beeinfllusst zu haben, die sie nicht stark abändert.
+
+**Heldenhaft (HW 20):** Erfolg bei dieser Handlung bedeutet, eine große Herausforderung überwunden zu haben oder die Geschichte auf eine mäßig starke Weise verändert zu haben.
+
+**Episch (HW 25):** Erfolg bei dieser Handlung bedeutet, eine fast unmögliche Herausforderung überwunden zu haben oder die Geschichte stark verändert zu haben.
+### Kraft
+Kraft ist das Attribut reiner körperlicher Stärke. Dein Kraftwert bestimmt deine Fähigkeit, Feinde zu überwältigen oder die Umgebung mit deinen Muskeln zu beeinflussen.
+#### Herausfordernder Test der Kraft (HW 15)
+Mitten im Kampf ist ein kleiner Felsen im Weg, sodass Rogar seine Kraft nutzt, um ihn 10 Fuß aus dem Weg zu schieben.
+
+**Erfolg mit einem Haken:** Rogar schafft es, den Fels zu bewegen, allerdings zieht er sich dabei eine Sehne und leidet danach unter dem Fluch *verlangsamt*.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Rogar ist so auf das Bewegen des Felsens konzentriert, dass er das Paar Goblins nicht bemerkt, die ihn nun flankiert haben.
+#### Heldenhafter Test der Kraft (HW 20)
+Während die Gruppe auf einem Fluß mitten im tosenden Fluß ficht, wird Lily ins Wasser gestoßen. Sie versucht, gegen die Strömung anzuschwimmen, bevor sie von ihren Verbündeten getrennt wird.
+
+**Erfolg mit einem Haken:** Lily schafft es zurück zum Floß, muss zum Schwimmen aber ihre Klinge und ihren Schild im Wasser zurücklassen.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** In ihrem nutzlosen Versuch, gegen die Strömung anzukommen, fällt Lily bewusstlos, als ihr Kopf gegen einen Felsvorsprung stößt. Ihre Verbündeten sehen dies und müssen nun schnell handeln, damit sie nicht ertrinkt.
+#### Epischer Test der Kraft (HW 25)
+Während die Gruppe sich damit beschäftigt, Pläne zu schmieden um auf Schleichpfaden, durch geheime Eingänge oder anders in die Eisenfestung zu gelangen, tritt Krund an das eiserne Fallgatter heran und macht sich für einen Deadlift epischen Ausmaßes bereit.
+
+**Erfolg mit einem Haken:** Krund hebt das Gatter an und mehrere Gruppenmitglieder schaffen es hindurch, doch seine Kraft gibt nach, bevor alle auf der anderen Seite sind. Die Gruppe ist nun getrennt.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Trotz seiner großen Stärke kann Krund das Gatter nicht mehr als einen Fuß anheben. Als er es loslässt, macht der laute Knall des Aufpralls auf dem Boden die Wachen auf die Gruppe aufmerksam.
+### Beweglichkeit
+Beweglichkeit ist ein Maß der Schnelligkeit, Ausdauer, Feinmotorik und Reaktionszeit deines Charakters. Sie bestimmt Handlungen wie das Schleichen, Akkrobatik, manövrieren mit Fahrzeugen und das Aufbrechen von Schlössern.
+#### Herausfordernder Test der Beweglichkeit (HW 15)
+Während Terri Gizmo den gnomigen Kopfgeldjäger durch die Korridore der Raumstation jagt, lässt der seine patentierte Schlüpf-Schleimbombe los, sodass der Boden zwischen ihnen mit glitschigem Öl bedeckt ist. Terri versucht, gewandt durch den Schleim zu rutschen, anstatt sich davon verlangsamen zu lassen.
+
+**Erfolg mit einem Haken:** Terri gleitet elegant über den Schleim, bemerkt aber erst im letzten Moment das Rohr, dass aus der Decke hervorsteht. Sie schafft es, auszuweichen, indem sie sich mit den Händen davon abstößt, muss aber ihre Schrotflinte fallen lassen. Wenn sie Gizmo weiterverfolgen will, muss sie es unbewaffnet tun.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Mit all der Grazie eines betrunkenen Elefanten fällt Terri im Schleim auf die Nase. Als sie wieder hochkommt, ist Gizmo schon nicht mehr zu sehen. Jetzt muss sie blitzschnell eine Entscheidung an der nächsten Kreuzung treffen, wenn sie ihr Ziel nicht völlig verlieren will.
+#### Heldenhafter Test der Beweglichkeit (HW 20)
+Jax sitzt am Steuer seines Raumjets inmitten eines Raumkampfes gegen zwei dalturische Zerstörer. Sie sind ihm beide auf den Fersen und wenn er sie nicht bald abschüttelt, werden sie ihre Suchraketen feuern können. Jax rammt den Schubhebel nach vorn und versucht, durch einen schmalen Canyon vor sich zu entkommen.
+
+**Erfolg mit einem Haken:** Jax rast mit mörderischer Geschwindigkeit durch den Canyon. Auf der anderen Seite sieht er auf dem Radar, dass er einen der Zerstörer erfolgreich abgeschüttelt hat. Der andere Dalturier ist ihm noch immer auf den Fersen.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Jax flitzt zwischen zwei Felsenkanten hindurch, verschätzt aber die Breite der Öffnung um ein paar Zentimeter. Er hört ein lautes metallisches Knirschen als einer seiner Flügel zerrissen wird und stürzt ab. Nach dem Crash schafft es Jax, aus dem Wrack zu kriechen. Er hat überlebt, aber sein Flieger ist hinüber.
+### Epischer Test der Beweglichkeit (HW 25)
+Winston, der beste Bogenschütze im Land, wurde vom Riesenfürst Glorrg gefangen genommen. Glorrg verlangt, dass Winston sich ihm beweist. Der Riese lässt einen Diener vier Vögel freilassen und verlangt, dass Winston sie alle niederschießt, bevor sie wegfliegen.
+
+**Erfolg mit einem Haken:** Mit seinem wohlbekannten Geschick legt Winston vier Pfeile gleichzeitig an und lässt sie fliegen. Alle vier Vögel stürzen zu , aber Winston hat seine Umgebung nicht bedacht. Einer der Pfeile durchschlägt auch noch einen Diener Glorrgs, was den Riesen sofort in Wut versetzt.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Winston schießt Pfeil um Pfeil, doch nur drei der Vögel fallen zu Boden. Glorrg ist nicht beeindruckt und befiehlt, dem Schützen seinen Bogen zu nehmen und ihn in die Biestgrube zu werfen.
+### Konstitution
+Konstitution bestimmt deine Fähigkeit, physischer Belastung zu widerstehen. Tests der Konstitution beinhalten es, Krankheiten zu überwinden, Hunger auszuhalten oder lange Strecken ohne Rast zu marschieren. In den meisten Fällen wirst du Konstitutionswürfe auf Ansage des GM machen, anstatt selbst eine Handlung auszuführen, die Konstitution bedingt.
+#### Herausfordernder Test der Konstitution (HW 15)
+Scheriff Bates und seine Deputies verfolgen ein Paar Banditen durch die Wüste. Um verlorene Zeit wett zu machen, wollen sie ihren Marsch trotz der sengenden Hitze verschnellern. Der GM ruft Konstitutionswürfe auf, um die Temperatur auszuhalten.
+
+**Erfolg mit einem Haken:** Diejenigen, die ihren Wurf nicht schaffen, können Schritt halten, erleiden aber eine Instanz des Fluches *erschöpft*.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Alle, die ihren Wurf verfehlen, können nicht mithalten. Rasten sie nicht, werden sie unweigerlich in Ohnmacht fallen. Die Truppe muss eine schwere Entscheidung treffen: riskieren, dass die Banditen entkommen oder aber die Gruppe aufteilen, sodass die stärkeren Mitglieder weitermarschieren.
+#### Heldenhafter Test der Konstitution (HW 20)
+Während er die Tiefen des Weltraums durchwanderte hat sich Zak mit der Chronos-Plage angesteckt - eine Krankheit, die die Wahrnehmung der Raumzeit für den Leidenden verzerrt. Er liegt in der Krankenstation des Regel HQ und kämpft mit der Maledie. Er macht einen Konstitutionswurf um zu schauen, wie gut er sich erholen kann.
+
+**Erfolg mit einem Haken:** Nach ein zwei Tagen Erholung ist Zak genesen und nun vollständig immun. Ohne das er es weiß, trägt er den Erreger aber immer noch mit sich, sodass seine Verbündeten nun unwissend in Gefahr schweben.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Zaks Immunsystem kann die Krankheit nicht erfolgreich bekämpfen. Während Zak in der Station bleiben muss such sein Verbündeter Dr. Vreck rastlos nach einer möglichen Heilmethode. Vreck erfährt von einer seltenen subthermalen Mosart, die nur auf den Asteroiden des Alpha-Systems wächst. Diese Mos könnte das Geheimnis zur Heilung der Plage beinhalten.
+#### Epischer Test der Konstitution (HW 25)
+Eine Gruppe legendärer Helden hat den Schattendämon Yrrllx zu seinem Nest in der Entropieebene verfolgt. Jeder Moment in diesem Reich der Schatten und des Chaos lässt die Existenz der Tapferen wanken und der GM fordert Konstitutionswürfe um festzustellen, ob die Gruppe diesen übernatürlichen Kräften widerstehen kann.
+
+**Erfolg mit einem Haken:** Die Helden (die ihren Wurf verfehlen) sind nicht in der Lage, ihre Realität gegen das Wirren dieser Welt durchzusetzen. Wenn sie in ihre eigene Dimension zurückkehren, werden sie auf immer verändert sein, da ein Teil ihrer Wirklichkeit in diesem Reich zurückbleiben wird.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Die Helden (die ihren Wurf verfehlen) fallen der Entropie dieser Welt zum Opfer und ihre materiellen Körper entschwinden der Existenz. Sie können die Entropieebene frei erkunden, können aber nicht in die Realität zurückkehren, wenn sie keinen Weg finden, ihren Körper wiederherzustellen.
+### Lernen
+Lernen ist das Attribut reinen Wissens, Erinnerung und der Fähigkeit, in einer Situation die wichtigen Fakten anzuwenden. Du machst einen Lernenwurf wann immer du dich an wichtige Informationen erinnern willst, widersprüchliche Fakten auswerten willst oder bisher unbekanntes Wissen einordnen willst. Ein wichtiger Hinweis zu Lernen ist, dass Lernen sowohl das Wissen repräsentiert, dass du schon hast, als auch die Fähigkeit, neues Wissen schnell zu erlernen. Ein Fremder in einem Land könnte also nicht historische Fakten daraus erinnern, nur weil sein Lernen-Attribut hoch. Sich mit den passenden Ressourcen schnell einen Überblick über die Geschichte des Landes zu verschaffen und die wichtigen Fakten darin zu erkennen, geht aber besser mit einem hohen Lernen-Attribut.
+#### Herausfordernder Test des Lernens (HW 15)
+Gregory, ein Student der arkanen Künste, reist mit seinen Kameraden durch das Grab der Sharakandra, als sie auf einen Torbogen treffen, der von alten Runen überzogen ist. Gregory versucht, die Runen mit dem Wissen aus seinen Studien zu entziffern.
+
+**Erfolg mit einem Haken:** Gregory identifiziert die Runen erfolgreich als einen Schutzwillen. Um zu diesem Ergebnis zu kommen muss er aber fast eine ganze Stunde durch seine Quellen forsten, sodass sich die Reise der Gruppe verzögert.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Während Gregory versucht, die Runen zu entziffern, streift er aus Versehen eine davon mit der Hand, was eine Falle auslöst. Er wird von einem Blitzschlag getroffen und der Donnerschlag weckt die Aufmerksamkeit des gesamten Grabs.
+#### Heldenhafter Test des Lernens (HW 20)
+Während sie über den Jungleplanet Thox reist, trifft Selena auf eine Spezies intelligenter Oktopusmänner, die mit Gurgeln und Zischen sprechen. Obwohl ihre Sprache ihr fremd ist, ist Selena in mehreren anderen Aliensprachen geübt und versucht, auch diese neue zu verstehen.
+
+**Erfolg mit einem Haken:** Selena kann ihre Sprache gut genug verstehen, um einen Groben Eindruck ihrer Kommunikation zu erhalten, aber komplexere Verständigung ist unmöglich.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** In ihren Versuchen, die Sprache zu lernen, ahmt Selena mehrere der Klänge der Oktopusmänner nach. Sie fassen ihre Versuche als Beleidigung auf und sind kurz davor, sie gefangen zu nehmen, wenn sie keinen Weg findet, die Situation zu deeskalieren.
+#### Epischer Test des Lernens (HW 25)
+Belmont der Barde versucht, einen Frieden zwischen zwei Gnollstämmen zu verhandeln, die seit fast einem Jahrhundert im Krieg liegen. Er durchforstet seinen Wissensschatz an Sagen und Gerüchten über die Region, um sich an etwas zu erinnern, was ihm bei den Verhandlungen helfen kann.
+
+**Erfolg mit einem Haken:** Belmont kann sich an nichts hilfreiches erinnern, doch in seinen Überlegungen fällt ihm ein, dass er eine Geschichte über eine Gnollhexe gehört hat, die seit fast 200 Jahren in der Mitte der Märsche des Landstrichs lebt. Sie hat wahrscheinlich Wissen davon, wie der Konflikt begann.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Belmont kann sich an nichts hilfreiches erinnern und dem Gnollhäuptling geht die Geduld mit dem Außerseiter aus. Er ordnet sofort einen weiteren Überfall auf den Feind an.
+### Logik
+Logik ist das geistige Attribut der Deduktion und des Problemlösens. Charaktere, die einen hohen Wert in Logik haben, können Meister des Rätsellösens sein, geschickte Programmierer, taktische Genies oder clevere Fallensteller. Der GM ruft einen Logikwurf auf, wenn du versuchst, ein Mysterium zu entwirren, das Handeln eines Feindes vorauszusehen oder einen wasserdichten Plan zu schmieden.
+#### Herausfordernder Test der Logik (HW 15)
+Kommandantin Grimms Luftschiff, *Die Gefahr*, wird von einem halben Dutzend gegnerischen Gleitern angegriffen. Die Gleiter können Haarnadelkurven fliegen und manövrieren ohne Probleme um die Zielbereiche der Gatlingkanonen der *Gefahr*. Grimm nimmt sich einen Moment Zeit, die Formation der Gleiter zu analysieren und ihre Fluglinie im nächsten Angriff vorauszusehen.
+
+**Erfolg mit einem Haken:** Grimms Erfahrung macht sich bezahlt und er führt seine Crew erfolgreich durch die Wende, die drei der Gleiter in ihre Fadenkreute bringen. Das Manöver hat die *Gefahr* aber selbst in eine ungünstige Position vor den anderen drei Gleitern gebracht. Sie erhalten in ihrer nächsten Runde Vorteil auf ihren Angriff.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Grimm denkt, sie hätte die Gleiter durchschaut, doch ihre Befehle bringen sie in eine noch schlechtere Position als zuvor. Diese Runde kann keine Gatlingkanone die Gleiter treffen.
+#### Heldenhafter Test der Logik (HW 20)
+Cyril der Android ist in Junkland gestrandet, einer kilometerlangen Insel aus Schrott, die im Ozean vor New L.A. schwimmt. Cyrils Kernbatterie ist schwer beschädigt, sodass seine CPU nur mit halber Leistung laufen kann. Der Android durchforstet die Müllhügel nach genug Ersatzteilen, um eine temporäre Reparatur zusammenzusetzen.
+
+**Erfolg mit einem Haken:** Cyril findet genug Teile, um seine Batterie notdürftig zu reparieren, aber die Materialien sind instabil. Der GM entscheidet, dass Cyril den Fluch *betäubt* erleidet, wann immer er mit seinem d20 eine 5 oder niedriger bei Aktionswürfen wirft. Erst mit besseren Materialien, wird es sich vollständig reparieren können.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Cyril findet nichts nutzbares in den nahen Müllhaufen. Stattdessen findet er ein Paar Technoratten, die seine Verkablung und Panzerplatten mit Gier beobachten.
+#### Epischer Test der Logik (HW 25)
+Azure und seine Gruppe versuchen, mit dem Drachenrat darüber zu verhandeln, ob die Wyrme ihren Schwur der Neutralität brechen und mit den anderen edlen Spezies in den Dämonenkrieg ziehen würden. Es sieht nicht gut aus, aber Azure ist gut mit dem Drachencodex vertraut und versucht, ein Schlupfloch im Argument des Rats zu finden. Der Rat besteht darauf, dass das Gesetz des Goldes gewahrt werden muss, nach dem jeder Drache, der seine Kraft niederen Wesen leiht, dafür mit seinem Gewicht in Gold bezahlt werden muss. Selbst wenn ihre Brüder und Schwestern in den Kampf ziehen wollten, bestehen die Drachen darauf, dass das Gesetz des Goldes aufrechterhalten wird.
+
+**Erfolg mit einem Haken:** Azure merkt an, dass die Bezahlung der Drachen auch in der Chaosebene stattfinden könnte, in der Gesetze der Realität wie Masse und Gewicht instabil sind und sich schnell wandeln können. Im richtigen Moment könnte die Bezahlung für die Menschen ohne Probleme aufgewandt werden. Obwohl ein großer Teil des Rates mit der Lösung unzufrieden ist, wird der Vorschlag bei einer Abstimmung knapp akzeptiert. Um aber die teilnehmenden Drachen für die Unnanehmlichkeit interdimensionaler Reise zu entschädigen, verlangt der Rat, dass neben dem Gold jedem Drachen auch ein magisches Artefakt akzeptabler Macht zu überreichen sei.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Azure fällt kein passender Kompromiss ein und die Drachen warnen davor, dass jeder Wyrm, der im Krieg mitkämpft, ohne dass das Gesetz des Goldes gewahrt wird, aus der Drachenrasse verbannt würde.
+### Wahrnehmung
+Wahrnehmung bestimmt deine Fähigkeit, wichtige Details in Personen, Orten oder Dingen zu bemerken. Du wirfst auf Wahrnehmung, wenn du versucht, geheime Türen zu finden, einer Spur zu folgen oder versteckte Feinde zu erkennen. Besonders für Wahrnehmungswürfe ist wichtig, dass der GM sichergeht, dass *jeder Wurf zählt*. Der GM sollte nur zu Wahrnehmungswürfen aufrufen, wenn es tatsächlich etwas zu merken gibt. Weiterhin sollte er das auch nur tun, wenn das Ergebnis des Wurfes relevant ist. Wenn ein Schurke einen Dungeon betritt und deklariert, dass er nun jeden Raum nach Fallen absuchen wird, heißt das nicht, dass er in jedem Raum werfen sollte. Erst, wenn es tatsächlich etwas aufzufinden gibt, sollte ein Wurf gefordert werden. So ist das Ergebnis des Wurfes tatsächlich wichtig und gleichzeitig verschwendet man keine Zeit mit Würfen, bei denen eh nichts passieren kann.
+#### Herausfordernder Test der Wahrnehmung (HW 15)
+Yldris verhört einen gefangenen Goblin, um mehr über die Gefahren im Goblinlager herauszufinden. Der Gefangene enthüllt den Ort von mehreren Fallgruben und zwei Wachposten. Er hält aber einige Informationen zurück und der GM ruft Yldris zu einem Wahrnehmungswurf auf. Bei Erfolg würde Yldris bemerken, dass der Goblin aus Furcht vor der Rache seines Königs noch nicht alles offengelegt hat.
+
+**Erfolg mit einem Haken:** Yldris erkennt, dass der Goblin etwas geheim hält, aber er denkt, dass er dies aus Gier tut, nicht aus Furcht.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Yldris denkt fälschlicherweise, dass der Goblin gleich einen Fluchtversuch starten will.
+#### Heldenhafter Test der Wahrnehmung (HW 20)
+Zak und seine Gruppe erkunden die zurückgebliebenen Ruinen einer verlassenen Raumkolonie. Mehrere Anzeichen deuten darauf hin, dass etwas Neues sich hier eingenistet hat, also sagt Zak der Gruppe, dass er nach Fallen suchen wird. Nachdem sie mehrere Korridore weitergegangen sind, fordert der GM einen Wahrnehmungswurf von Zak, da die Gruppe auf eine Mine zuläuft.
+
+**Erfolg mit einem Haken:** Zak bemerkt die Mine gerade als er in ihre Reichweite tritt. Er warnt die Gruppe rechtzeitig, wird selbst aber von der Explosion getroffen.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Zak löst die Falle aus und die Explosion lässt den Korridor einstürzen, sodass er von seiner Gruppe getrennt wird.
+#### Epischer Test der Wahrnehmung (HW 25)
+Therilas will einer Fee durch den Elbwald folgen. Die Spur ist zwei Tage alt und weil die Fee fliegen kann, muss Therilas hoffen, dass er den Feenstaub finden kann, der zuweil auf Blättern und Ästen zurückbleibt.
+
+**Erfolg mit einem Haken:** Therilas verliert die Spur etwa nach etwa einer Meile im Wald. Während er frustriert nach der Spur sucht, wird er von einem intelligenten Fuchs angesprochen, der ihm anbieten, das Ziel der Fee zu enthüllen - für einen Preis.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Therilas wandert stundenlang auf der Suche nach der Spur im Elbwald umher. Letztendlich findet er sie, wobei sie seltsam frisch wirkt. Zu spät fällt ihm auf, dass er hereingelegt wurde und die Fee ihm eine Falle gestellt hat. Er bemerkt, dass er von Bewohnern des Elbwalds umzingelt ist und hört das keckische Lachen der Fee aus dem Geäst.
+### Willenskraft
+Willenskraft ist das Attribut der mentalen Widerstandskraft und des Willens. Sie repräsentiert die Fähigkeit deines Charakters gegen Bedrohungen des Verstands, Mutes oder Fokus anzukämpfen. Während deine Willenskraft oft eine passive Rolle dabei spielt, deine Entschlossenheit-Verteidigung auszumachen, wirst du auch aktive Tests dieses Attributes bestehen müssen, wenn du rein mentalen Gefahren begegnest oder deinen Willen direkt gegen jemand anders einsetzt.
+#### Herausfordernder Test der Willenskraft (HW 15)
+Sinkende Sonne und seine Kameraden haben sich in der Wüste verirrt. Sie haben seit zwei Tagen kein Essen und Wasser mehr und der GM fragt, wie sie den negativen Konsequenzen der Dehydrierung und des Hungers entgegenwirken wollen. Während die Verbündeten des Mönches ihre Konstitution oder Wandlung nutzen, um der Pein zu widerstehen oder ihre Bedürfnisse zu verändern, zieht sich Sinkende Sonne in die Gefilde seines Meditationsgeistes zurück, wobei er sich auf seine Willenskraft verlässt.
+
+**Erfolg mit einem Haken:** Der Mönch hat teilweise Erfolg. Er kann seinen Hunger von sich gehen lassen, aber nicht seinen Durst, sodass er eine Instanz des Fluches *erschöpft* erleidet.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Das Training von Sinkende Sonne war umfassend, aber vor den Hürden des Moments ist es schwer, sich in den Frieden der Monasterei zurückzuversetzen. Von Hunger und Durst überkommen, erleidet der Mönch *erschöpft 2*.
+#### Heldenhafter Test der Willenskraft (HW 20)
+Tief in der niederen Kammer des Overhill-Asylums finden die Ermittler ein uraltes, außerweltliches Böse, dass die Existenz der physischen Ebene selbst bedroht. Nicht in der Lage, ihr Verständnis der physischen Realität mit den gleitenden Massen der materielosen Gestalt vor sich in Einklang zu bringen, ist die Gruppe in Gefahr, ihren Halt der Realität zu verlieren. Der GM fordert von allen Willenskraftwürfe.
+
+**Erfolg mit einem Haken:** Die Spielercharaktere sind von überwältigendem aber temporären Horror gepackt. Während sie im Asylum bleiben, leiden sie unter einer speziellen Form des *demoralisiert* Fluches (Kraftlevel 3). Er kann nicht widerstanden werden, bis sie das Asylum verlassen haben.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Zusätzlich zum Fluch *demoralisiert* erhalten die Spielercharaktere auch noch die Charakterschwäche *psychotisch*[?], bis sie einen Weg finden, ihr Verständnis der Realität wieder mit dem Rest des Universums in Einklang zu bringen.
+#### Epischer Test der Willenskraft (HW 25)
+Während er tief in Netzwerk eingeklinkt ist, trifft Snitch auf eine Datei, die von Prime - angeblich dem ersten Klinker des Netzwerks - verschlüsselt wurde. Prime bemerkt den Einbruch, doch der übermütige Snitch entscheidet sich, sich direkt mit der Legende zu messen, anstatt auszuklinken. Snitch wendet seine gesamte Willenskraft gegen Prime auf, um dessen Kontrolle über die Firewall zu brechen.
+
+**Erfolg mit einem Haken:** Snitch findet einen Weg, um Prime herumzuschlüpfen und einige seiner Daten abzuzapfen. Der älteste Klinger im Netz ist aber auch kein Grünohr. Während der Auseinandersetzung entdeckt er eine Schwachstelle in Snitchs Datenverteidigung. Als Snitch ausklingt, entdeckt er, dass jedes seiner Bankkonten leergeräumt wurde.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Snitchs Willenskraft ist dem ersten Klinker nicht gewachsen. Prime verteidigt seine Daten und klinkt Snitch gewaltsam aus.
+### Täuschung
+Täuschung ist das Attribut, mit dem man andere hinters Licht führt, sowohl direkt als auch indirekt. Du wirfst auf Täuschung, wann immer du blöffst, lügst, gewandt eine Frage umgehst oder anderweitig jemand davon überzeugen willst, dass falsche Informationen wahr sind. In Täuschung geschickte Charaktere können Ermittler auf die falsche Spur leiten, glaubhafte Deckidentitäten aufrechterhalten oder Dokumente fälschen.
+#### Herausfordernder Test der Täuschung (HW 15)
+Slade hat eine passende Uniform erlangt, mit der er sich als Stadtwache ausgeben kann. Während er versucht, Zugang zur Rüstkammer zu gewinnen, fordert der GM einen Täuschungswurf, um zu sehen, ob er sich natürlich genug aufführen kann, um die anderen Wachen zu überzeugen.
+
+**Erfolg mit einem Haken:** Slade hält seine Verkleidung gut aufrecht, doch er spricht einen Vorgesetzten während dem Eindringen falsch an. Er hat den Zugang zur Rüstkammer, doch der Vorgesetzte wird sich an den rüden Rekruten erinnern, falls es zu einer Ermittlung kommen sollte.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Der Vorfall mit dem Vorgesetzten ist so auffällig, dass der Offizier direkt verlangt, mit Slades Kommandant zu sprechen um die Beleidigung anzuzeigen.
+#### Heldenhafter Test der Täuschung (HW 20)
+Adele scannt ihren Multipass, um im Bürogebäude Eintritt zu Level 5 bekommen, obwohl sie nur eine Berechtigung bis Level 4 hat. Sobald der Sicherheitsagent beginnt, sie zu befragen, fängt sie an eine Geschichte über einen Multipass zu spinnen, der seit ihrer Fahrt durch einen Mag-Sturm schon den ganzen Tag nicht mehr richtig funktioniert. Sie will doch nur schnell ins Büro zurück, um ihr Mittagessen zu holen.
+
+**Erfolg mit einem Haken:** Die Wache glaubt Adeles Geschichte, aber er will sie zum Büro begleiten, damit er nicht in Schwierigkeiten gerät, wenn jemand sie sieht.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Die Wache verdächtigt etwas und meint, er müsse seinen Kommandanten kontaktieren.
+#### Epischer Test der Täuschung (HW 25)
+Der Chronomancer Rapture hat Sarge und seine Crew gefesselt, während er sich darauf vorbereitet, seine gefürchete Zeitkanone auf die nichts ahnende Kolonie unter ihnen abzufeuern. Um den Angriff mit Energie zu versorgen, läd Rapture den Voidkristall, den er vor kurzem von den Helden zurückgestohlen hat. In einem letzten Versuch, Zeit zu schinden, lügt Sarge, dass sich die Balken biegen: "Versuchs ruhig, Rapture. Den Kristall haben wir auf Alpha Prime ausgetauscht. Ich kanns kaum abwarten, zu sehen, was mit deiner Zeitkanone passiert, wenn du sie mit dem Ding da drin abfeuerst. Das ganze Schiff wird uns um die Ohren fliegen!"
+
+**Erfolg mit einem Haken:** Rapture wird unsicher und bricht den Ladevorgang der Kanone ab, verfällt aber über die Täuschung in solche Rage, dass er einem seiner Leutnants befiehlt, Sarges Kehle durchzuschneiden und so den Fluch *tot* zu applizieren.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Rapture durchschaut den Blöff und gibt sofort den Befehl zu feuern.
+### Überzeugung
+Überzeugung ist das soziale Attribut der Verhandlung und der gewandten Rede. Du wirfst auf Überzeugung, wann immer du versuchst, jemanden deine Sichtweise einnehmen zu lassen oder die von dir vorgeschlagenen Handlungen zu verfolgen. Überzeugung dreht sich darum, deine Ideen anderen schmackhaft zu machen, sei es mit klaren Beweismitteln, emotionalen Argumenten, politischem Druck, Bestechung oder anderen Wegen. Ein Überzeugungswurf wird oft bei einem längeren Gespräch oder anderem Rollenspiel gefordert. In diesen Fällen sollte der GM erst dann um den Wurf bitten, wenn von diesem Moment der Erfolg oder Fehlschlag der Diskussion abhängt.
+#### Herausfordernder Test der Überzeugung (HW 15)
+Pelias möchte dem Barkeeper einen wertvollen Rubin für die Namen dreier Gentlemen geben, die am letzten Abend in der Taverne getrunken haben. Der Barkeeper meint, er würde dem Schurken einen Namen verraten, also versucht Pelias, ihn vom großen Wert des Juwels zu überzeugen, um mehr herauszuschlagen.
+
+**Erfolg mit einem Haken:** Der Barkeeper bietet ihm zwei Namen an. Will Pelias auch den dritten, wird es ihn zusätzlich ein schweres Säckel Gold kosten.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Es wird offensichtlich, dass der Barkeeper sich über mehr Sorgen macht als nur das Geld. Die Fragen des Schurken haben ihn misstrauisch gemacht und nun wird er ihm nicht mal mehr den einen Namen nennen.
+### Heldenhafter Test der Überzeugung (HW 20)
+Als sie endlich das Tor von Haven erreichen, finden die Überlebenden es geschlossen vor. Die Wachen teilen ihnen mit, dass der Overseer entschieden hat, aufgrund von Berichten über Infizierte mit einer neuen Variante Virus Z, keine Außenseiter mehr herein zu lassen. Mit einigen samtigen Worten schafft es Wendell, den Overseer zum Tor rufen zu lassen. Jetzt muss er ihn überzeugen, dass die Gruppe nicht infiziert ist und dass sie dem Dorf eine große Hilfe sein könnten.
+
+**Erfolg mit einem Haken:** Der Overseer glaubt Wendell und ist beeindruckt von ihren Taten, aber er wird sie nur hereinlassen, wenn sie zustimmen, sich eine Woche in Quarantäne zu begeben.
+
+**Fehlschlag, doch die Geschichte schreitet voran:** Den Overseer interessiert nicht, wie wertvoll die Gruppe sein könnte, er will sein Dorf nicht dem erneuten Risiko einer Infektionswelle aussetzen. Er weist der Gruppe, zu gehen und befiehlt seinen Wachen, zu schießen, falls sie zurückkehren.
+#### Epischer Test der Überzeugung (HW 25)
+Professor Durst und sein Team haben erfolgreich ein Mitglied des Schwarzklaue-Kults lebendig gefangengenommen. Die Kultisten sind für ihre Loyalität bis in den Tod bekannt, doch Durst ist mit psychologischer Befragung wohl vertraut. Er nutzt jedes mentale Werkzeug, das ihm bekannt ist, um den Kultisten seine Verfehlungen klar zu machen und den Ermittlern zu helfen.
+
+**Erfolg mit einem Haken:** Durst hat erfolgreich die unterdrückten Emotionen der Scham des Kultisten zur Oberfläche gebracht, sodass dieser dem Kult abschwört. Den Terror seiner dunklen Taten kann er aber nicht mit seinem früheren Selbst vereinbaren, sodass er in Wahnsinn verfällt. Der Kultist kann den Ermittlern eventuell einige wertvolle Informationen geben, doch sie sind zwischen dem irren Gemurmel und den diabolischen Rätseln versteckt, die er von sich gibt.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Durst denkt, dass er den Willen des Kultisten gebrochen hat und nimmt ihm aus gutem Willen die Fesseln ab. Doch sobald die Ketten gelöst sind springt er durch ein nahes Fenster und bricht sich beim Fall den Hals.
+## Präsenz
+Präsenz ist das soziale Attribut von Führungsvermögen und Charisma. Ein Charakter mit hoher Präsenz kann mächtige Verbündete gewinnen, diejenigen unter seinem Befehl inspirieren und Furcht in die Herzen seiner Feinde schlagen. Du wirst Präsenzwürfe machen, wann immer du andere mit der Kraft deiner Persönlichkeit beeinflussen willst, zum Beispiel bei Ansprachen, Performances oder Einschüchtern eines Feindes.
+#### Herausfordernder Test der Präsenz (HW 15)
+Shazben Hazben - der Halblingbarde - betritt die Taverne mit seiner gut gestimmten Mandoline aber nicht mal zwei Stück Kupfer. Nachdem er ein Gespräch mit dem Barkeeper angestoßen hat, bietet Shazben an, die Gäste für ein Zimmer und Mahl zu unterhalten. Der Barkeeper mag Shazben, also gibt er ihm die Chance, diesen Abend die Bühne einzunehmen.
+
+**Erfolg mit einem Haken:** Die Menge liebt den Halbling, sodass ihm sogar ein paar Silberstücke springen. Der gierige Barkeeper will aber nur den Handeln einhalten, wenn er außerdem die Hälfte der Einnahmen des Barden einbehält.
+
+**Fehlschlag, doch die Geschichte schreitet voran:** Shazben wird von der Bühne gebuht nachdem er aus Versehen einen lokalen Volksheld in seinem Lied beschmiert hat. Er ist nicht mehr in der Taverne willkommen.
+#### Heldenhafter Test der Präsenz (HW 20)
+Gunner Dag hat sich wieder mal in eine haarige Situation gebracht. Er hat mein Poker mit den örtlichen Minenarbeitern einiges an Geld verloren, etwas starke Sprache in Bezug auf eine ihrer Mütter verwendet und findet sich nun zum Mittag uf der Hauptstraße. Seine Voltpistole hängt an seiner Hüfte und seine Augen starren einen weiteren Mann an, den er eigentlich nicht töten will. Er knirscht mit den Zähnen, stählt seinen Blick und versucht, den Landburschen mit seinem Auftritt zum Rückzug zu bringen, bevor es ein Blutbad gibt.
+
+**Erfolg mit einem Haken:** Der Arbeiter sieht Dag an, dass er ein geborener Killer ist. Er wirft seine Pistole in den Staub, will aber weiter Rache. Er wird Dag nachher mit so vielen Männern auflauern, wie er auf die Schnelle finden kann.
+
+**Fehlschlag, doch die Geschichte schreitet voran:** Dags kalte Augen schocken den Arbeiter und er zieht seinen Colt. Jetzt muss Gunner entscheiden, ob er den Mann töten wird oder versucht, einen anderen Weg zu finden.
+#### Epischer Test der Präsenz (HW 25)
+Die Bauernmiliz ist schlecht trainiert, hat zu wenig Waffen und nicht genug Männer. Ihre Chancen sind verschwindend gering. Trotzdem weiß Maximus, dass ihr Ablenkungsmanöver der einzige Weg ist, der Eliteeinheit genug Zeit zu geben, zum Schamanen der vorrückenden Orkamee vorzudringen - aber nur, wenn sie gewillt sind, zu kämpfen. Der Paladin sieht die Furcht in ihren Augen, also gibt er eine aufbauende Rede um ihre Herzen zu heben und ihnen den Mut zu geben, ihre Aufgabe zu erfüllen.
+
+**Erfolg mit einem Haken:** Ohne das es Maximus weiß, hat der feige Bürgermeister schon hinter seinem Rücken mit der Hälfte der Männer einen Rückzug ausgemacht, wenn die Orks kommen. Die andere Hälfte aber sind nach Maximus Rede bereit, für ihre Heimat zu sterben, wenn es nötig ist.
+
+**Fehlschlag, doch die Geschichte schreitet voran:** Maximus konnte nicht die richtigen Worte finden und den Männern sinkt die Brust. Die Miliz bricht auseinander und das Dorf ist verloren.
+### Wandlung
+Wandlung ist das Attribut der Veränderung von Materie, dem Übergang von einer Form in eine andere. Sie kann genutzt werden um Baumwurzeln zu beleben, Statuen aus Felsen zu formen, sich in einen Drachen zu verwandeln und Fleisch zu versteinern.
+#### Herausfordernder Test der Wandlung (HW 15)
+Svyll muss eine kleine Klippe erklimmen, kann aber nicht gut klettern. Er ist jedoch eins mit der Erde um ihn, also will er eine krude Steinleiter aus der Klippe heraus formen, die er hochsteigen kann.
+
+**Erfolg mit einem Haken:** Svylls Magie wirkt, doch die Leiter ist nicht gerade praktisch geformt. Sein Aufstieg dauert doppelt so lange wie geplant.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Svyll bedenkt die fragile Natur der Klippe nicht und verursacht so einen kleinen Erdrutsch, der seine Gruppe begräbt. Nachdem sie sich wieder aufgerappelt haben finden die Helden aber eine zuvor nicht sichtbare Höhle, die durch die bewegte Erde freigelegt wurde.
+#### Heldenhafter Test der Wandlung (HW 20)
+Wrench und sein Squad werden von einer Horde kannibalistischer Mutanten durch die Korridore der ruinierten Raumstation gejagt. Während die Mutanten kurzzeitig durch eine Schutztür aufgehalten werden, versucht Wrench die elektronischen Geräte im anliegenden Raum zu animieren, die Feinde weiter aufzuhalten und der Gruppe so genug Zeit zu geben, auf ihr Schiff zu fliehen.
+
+**Erfolg mit einem Haken:** Es sieht so aus, als würde Wrench etwas länger benötigen als gedacht, um die Falle zu legen. Der GM entscheidet, dass die restlichen Spieler\*innen die Mutanten für fünf Runden zurückhalten müssen, wenn sie Wrenchs Plan weiter verfolgen wollen. Eine schwierige Entscheidung.
+
+**Fehlschlag, doch die Geschichte schreitet voran:** Die Ersatzteile im Raum sind nicht groß genug, um mit ihnen etwas gescheites anzufangen. Während der Suche nach Teilen fällt Wrench aber ein Belüftungsschacht in der Decke auf, der eine Alternative zur Flucht darstellen könnte - solange die Mutanten nicht auch davon wissen.
+#### Epischer Test der Wandlung (HW 25)
+Artemis wird sich den Schatz des Königs nicht durch eine dreifach verschlossene Tür verbieten lassen. Mit arkanen Wörtern und Gesten wirkt er einen Zauber, um ein Loch direkt durch die Tür zu graben.
+
+**Erfolg mit einem Haken:** Artemis hat nicht die nötige Macht, durch die Tür zu kommen. Es sieht aus, als würde arkane Magie den Stein schützen. Seine Magie hat aber wenigstens erfolgreich eines der drei Schlösser zerstört.
+
+**Fehlschlag, doch die Geschichte schreitet voran:** Bevor seine Magie ihr Wunder am Stein wirken kann, löst eine magische Falle aus und trifft den Zauberer mit einem Blitz. Er hat TP verloren und kann die Tür nicht durchdringen.
+### Schöpfung
+Schöpfung ist das Attribut der Heilung und kann auch Etwas aus Nichts schaffen. Sie kann genutzt werden, um Wunden zu heilen, Kreaturen zu beschwören oder auch Tote wiederzubeleben. Schöpfung ist außerdem das Werkzeug, um höhere Mächte zu leiten und kann so benutzt werden, um Verbündete mit heiliger Kraft zu stärken, zu inspirieren oder ähnliche Wunder zu wirken.
+#### Herausfordernder Test der Schöpfung (HW 15)
+Jaaxy möchte Zugang zum Order des Außenseiters erhalten, hat aber keinen passenden Schlüsselstein mit ihren kodierten biometrischen Daten, den die Wachen von ihr verlangen. Nachdem sie die zerbrochenen Stücke eines alten Schlüsselsteins studiert hat, den sie von einem vorigen Mitglied des Orders erhalten hat, sitzt sie in ihrem Labor und versucht, einen neuen zu schaffen.
+
+**Erfolg mit einem Haken:** Jaaxys Schlüsselstein öffnet ihr erfolgreich die Tür, aber ohne dass sie es merkt, werden die Daten darauf durch ein magentisches Feld beim Eintreten gelöscht.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Jaaxy denkt, ihr Produkt wäre perfekt, aber die Türwachen lassen sich nicht so leicht täuschen. Sie erkennen die Fälschung und sperren Jaaxy ein. Sie ist im Hauptquartier angekommen, nur nicht nach ihrem ursprünglichen Plan.
+#### Heldenhafter Test der Schöpfung (HW 20)
+Therilas ist dabei, eine Gruppe Flüchtlinge sicher durch die Verwesende Wüste zu führen. Wäre er im Wald könnte der Druide problemlos genug Wasser und Essen finden, um sie am Leben zu halten. In der Wüste verloren muss er stattdessen seine Magie zur Hand nehmen, um Proviant für die hungrigen Massen zu erschaffen.
+
+**Erfolg mit einem Haken:** Nur indem Therilas seine eigene Lebenskraft als Katalyst benutzt, kann er genug Energie aufbringen, genug Essen und Wasser für alle zu schaffen. Der GM entscheidet, dass er ein Level *erschöpft* erleidet.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Trotz all seiner Anstrengungen schafft Therilas es nur, die Hälfte der nötigen Menge an Essen und Wasser zu schaffen. Ohne weitere Hilfe wird die Hälfte von ihnen die Wüste nicht überleben.
+#### Epischer Test der Schöpfung (HW 25)
+Vater Ezekiel ist auf einer Djungelinsel gestrandet. Er versucht, seine heiligen Kräfte zu bündeln, um ein riesiges Luftschiff aus dem Nichts zu schaffen, damit er und seine Kameraden entkommen können.
+
+**Erfolg mit einem Haken:** Der GM entscheidet, dass die Magie des Vaters nur mit einem magischen Fokus stark genug ist, um das Luftschiff zu erzeugen. Nun müssen sie auf der Insel nach etwas passendem suchen.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Der Vater denkt, dass er ein lufttüchtiges Schiff geschaffen hat. Kurz nachdem sie mit dem Schiff abgehoben sind, fängt die Magie des Schiffes an, sich zu verlaufen. Die Gruppe muss schnell handeln, während das Schiff beginnt, dem Boden entgegenzufallen.
+### Energie
+Energie ist das übernatürliche Attribut, das die Kontrolle und Schaffung von elementaren Energien abdeckt. Obwohl diese Liste nicht abschließend ist, umfassen typische Energieformen Feuer, Eis, Elektrizität, Wasser, Erde, Säure, Plasma und Laser. Du kannst aufgerufen werden, einen Energiewurf zu machen, wenn du versucht, eine Flamme zu erzeugen, eine raue See zu glätten oder eine futuristische Plasmakanone jenseits der normalen Reichweite des Settings einzusetzen. Der Energiewert eines Charakters bestimmt seine Fähigkeit, alle Arten von Energie zu manipulieren, wobei der Charakter trotzdem eine logische Erklärug für die Nutzung des Attributs in spezifischen Situationen braucht. Beispielsweise könnte ein Sturmmagier Energie benutzen, um Elektrizität, Blitz und Donner, Wasser und Wind zu manipulieren - aber der GM könnte ihm verwehren, Eis und Feuer zu beschwören.
+#### Herausfordernder Test der Energie (HW 15)
+Asger und Hertha stapfen schon stundenlang durch die gefrorenen Fjords der Titanen. Als die Nacht hereinfällt, finden die beiden Schutz in einer Höhle, bevor die Kälte des Windes tödlich wird. Trotzdem ist auch die Höhle kalt und obwohl Hertha es schafft, ein kleines Feuer zu starten, versucht Hertha, ihre Magie zu nutzen, um ihnen beiden Wärme zu spenden und Erfrierungen abzuwenden.
+
+**Erfolg mit einem Haken:** Herthas Zauber wirkt, obwohl die Kälte stärker ist, als sie gehofft hatte. Um gegen die Temperaturen anzukommen, muss sie ein Objekt kleiner Macht opfern. Mit der Zustimmung des GM schmilzt sie ihr Goldarmband, um dem Zauber Kraft zu verleihen.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Asgers Feuer hält die beiden am Leben, aber ohne Herthas Magie erleiden beide kleinere Erfrierungen und können die Nacht keine Ruhe finden. Am nächsten Morgen leiden sie unter einer Instanz *erschöpft*.
+#### Heldenhafter Test der Energie (HW 20)
+Doktor Heller begleitet seine Bande beim Überfall auf einen Zug, der eine große Menge Gelder der Pinkertons transportiert. Sie haben die Wachen ausgeschaltet und die Kontrolle über den Zug übernommen, aber sie müssen noch den Safe knacken. Doc schaltet seinen patentierten Lahmtropf-Säurespender an und versucht, das Schloss mit Präzision durchzuschmelzen.
+
+**Erfolg mit einem Haken:** Doks Maschine funktioniert, aber leider etwas zu gut. Der Säurespender brennt durch die ganze Safetür und vernichtet auch etwa ein Fünftel der Beute darin.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Der Safe wurde offenbar mit einer korrosionsbeständigen Chemikalie überzogen, sodass die Säure nicht wirkt. Immerhin ist der Doktor schlau genug, dies zu erkennen. Leider ist in der Zeit seiner Untersuchung Verstärkung der Pinkertons angekommen.
+#### Epischer Test der Energie (HW 25)
+Hamlin Harbuckle sitzt friedlich auf dem deck der *Ruhe*, einem Handelsschiff, dass seine Gruppe gegen Lohn beschützen soll. Das Schiff wankt und wiegt sich unter ihm, während Taifunregen Blitz und Donner auf sie niederschleudert. Während die Crew das Schiff bereit für den Sturm machen, öffnet der ruhige Halbling Sturmrufer seine Augen. Sein Haar beginnt, ihm zu Berge zu stehen, während er versucht, die Kontrolle über den Sturm zu erlangen und die See zu glätten.
+
+**Erfolg mit einem Haken:** Während Hamlin mit der Macht des Taifuns kämpft, stellt er fest, dass der einzige Weg, die Kontrolle zu übernehmen, ist, selbst die Macht in sich aufzunehmen. Um seine Freunde und Auftraggeber zu schützen, kanalisiert er die gesamte Macht in einen mächtigen Blitzschlag, der ihn bewusstlos und halb tot schlägt.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Hamlins Versuch ist vergebens, weder die Wellen noch Winde legen sich. Ein massiver Blitz schlägt den Mast entzwei.
+### Vergehen
+Vergehen ist das übernatürliche Attribut der Zerstörung, dem Tod und negativer Energie. Es ist die Domäne der Nekromanten und Antimateriestrahlen, Geister und Dämonen. Du würdest Vergehenwürfe machen, um Materie zu zerstören, ein dunkles Ritual zu vollziehen oder ein Portal zu einer Dimension des Bösen und der Dunkelheit zu schließen.
+#### Herausfordernder Test des Vergehens (HW 15)
+Gizmo macht sich daran, ein Türschloss mit seinem Taschenmaterielöscher zu umgehen. Er fokussiert den Strahl auf das Schloss, um es aus der Existenz zu löschen.
+
+**Erfolg mit einem Haken:** Das Werkzeug wirkt, überhitzt aber im Prozess aufgrund von Gizmos verschrobenen Wissenschaftskenntnissen. Er kann es nicht noch einmal benutzen, bis er Zeit und Material gefunden hat, es zu reparieren.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Das Werkzeug überhitzt, bevor es genug Energie aufbauen kann und zerbirst in Gizmos Händen. Er erleidet den *geblendet* Fluch und der lauten Knall ruft die Wachen am Ende des Korridors auf den Plan.
+#### Heldenhafter Test des Vergehens (HW 20)
+Balthazar ist tief in das Grab des Aliki eingedrungen, um zu angeblich darin schlummernden Magien des Todes Zugang zu erlangen. Der Nekromant trifft auf den Schatten des Aliki selbst, der von Balthazar verlangt, seine Macht über die Nacht zu demonstrieren oder sonst selbst zu sterben. Balthazar sammelt seine Magie, um die Schatten in der Kammer zu manipulieren und nach seinem Willen zu formen und zu bewegen.
+
+**Erfolg mit einem Haken:** Die Magie wirkt, doch der Geist ist unbeeindruckt. Aliki animiert die Schatten, den Nekromanten anzugreifen. Nun will er, dass Balthazar seinen Wert durch das Bezwingen der Schatten beweist.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Balthazars Magie wirkt nicht und die Schatten beugen sich ihm nicht. Mit einem manischen Lachen greift Aliki den Nekromanten an, indem er versucht, den *tot* Fluch zu wirken.
+#### Epischer Test des Vergehens (HW 25)
+Xu Ming und sein Team aus Überlebenden sind mit ihrem Sternenkreuzer zu einem verlassenen Sektor der Galaxis gereist, der eine seltsame Energiesignatur verströmt. Als sie auf der Oberfläche ankommen, entdecken sie Horden alptraumhafter Aliens, die durch ein riesiges Portal einströmen. Während der Rest des Teams die anrückende Horde niedermäht, konzentriert der nichtsberührte Psioniker Stryx sich darauf, höhere Nichtsenergien zu rufen, um das Portal zu schließen.
+
+**Erfolg mit einem Haken:** Stryx muss sich mit einer furcheinflößenden Alienbrutmutter messen, die das Portal offenhält und sich vorbereitet, selbst hindurchzutreten. Sie nutzt all ihre Geistesmacht, um Stryx Selbst zu brechen. Stryx hält ihren Geist und schafft es, das Portal zu schließen, doch der mentale Kampf lässt sie mit permanenten Wunden zurück. Sie leidet fortan konstant unter *erschöpft*, bis sie einen Weg finden kann, sich zu heilen.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Obwohl sie nicht die Kraft hat, das Portal zu schließen, erkennt Stryx, dass es von einer Alienbrutmutter auf der anderen Seite offengehalten wird. Wenn ihr Team das Portal durchquert und diese auf der anderen Seite tötet, sollte es sich schließen.
+### Einfluss
+Einfluss stellt übernatürliche Fähigkeiten dar, wie zum Beispiel unsichtbar werden, jemandes Geist kontrollieren oder illusorische Phantome zu beschwören, um andere zu täuschen. Wann immer du übernatürliche Mittel nutzt, um zu beeinflussen, was andere wahrnehmen oder jemandes mentalen Zustand zu beeinflussen, wirst du einen Einflusswurf werfen. Einfluss unterscheidet sich von Präsenz, Täuschung und Überzeugung darin, dass Einfluss für extreme oder übernatürliche Effekte genutzt wird. Während Überzeugung dazu genutzt werden könnte, eine Kreatur dir mit einem guten Argument zustimmen zu lassen, könnte das gleiche Ziel mit Einfluss erreicht werden, indem man den Geist der Kreatur bezirzt oder kontrolliert.
+#### Herausfordernder Test des Einflusses (HW 15)
+Eingeschriebener Destiny versucht, den Rausschmeißer der Kantine zu überzeugen, dass sie und ihre Freunde friedlich gehen dürfen sollten. Um ganz sicherzugehen, aktiviert Destiny ihre Pheromonverstärkungsmatrix-Cyberware, um dessen Entscheidungsvermögen zu trüben.
+
+**Erfolg mit einem Haken:** Der Trick funktioniert, aber ihre Cyberwear ist offenbar flasch kalibiriert. Anstatt einfach etwas glaubseliger zu sein, ist der Rausschmeißer gleich verführt und denkt, Destiny würde ihn anmachen.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Leider ist der Rausschmeißer schonmal mit dieser Art Cyberwear überlistet worden, was seinem Boss gar nicht gefiel. Er erkennt den Versuch und die Situation eskaliert schnell zum Kampf.
+#### Heldenhafter Test des Einflusses (HW 20)
+Auf einer abgelegenen Djungelinsel gestrandet finden Allister und seine Kameraden sich von einer Horde winziger Stammesreptilien umgeben, die nach ihrem Blut lechzen. Mit einer Show illusorischer Lichter möchte Allister die kleinen Wesen überzeugen, dass er von den Sternen gesandt wurde, sie zu führen.
+
+**Erfolg mit einem Haken:** Die Reptilien sind von Allisters Götternatur überzeugt, trauen aber seinen Kumpanen dadurch nicht. Sie halten sie für Sklaven des Gottes.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Ein Schamane unter den Reptilien erkennt die Illusion und enthüllt diese. Die Reptilien sind blass vor Zorn und greifen an.
+#### Epischer Test des Einflusses (HW 25)
+Das einzige, was zwischen Sir Thomas und dem Schwert des Lichts steht, ist ein untoter Skelettdrache namens Char. Char misst den Paladin mit einem Rätselraten und versucht dabei, Thomas mit seiner Wyrmzunge zu verzaubern. Sir Thomas, der nie mit Worten gewandt war, verlässt sich stattdessen auf seine heilige Magie, indem er die Macht seiner Göttin leitet, um Furcht in das Herz des untoten Drachen zu schlagen und ihn zu zwingen, sein Wortspiel zu beenden.
+
+**Erfolg mit einem Haken:** Sir Thomas Gebet wurde erhört, aber Chars Macht ist größer als erwartet. Der Drache schafft es nicht, den Paladin seinem Willen zu unterwerfen, aber trotzdem erleidet dieser den Fluch *betäubt*, als der Kampf beginnt.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Thomas Göttin ist in dieser feuchten Grube weit weg und er kann nicht genug Macht leiten, um die Wyrmzunge des Drachen zu überwinden. Ganz im Gegenteil, hat sein Versuch dem Drachen tiefe Einsicht in sein Wesen und seine Verbindung zur Göttin gegeben. Als der Kampf beginnt, erleidet Thomas *betäubt* und der Drache hat auf alle Aktionswürfe im Kampf Vorteil 1 gegen den Paladin.
+### Bewegung
+Bewegung behandelt übernatürliche Wege, sich zu bewegen, zu reisen und Geschwindigkeit zu manipulieren - sowie Sekundäreffekte, die an diese Konzepte gebunden sind. Bewegung wird meist benutzt, um Segen wie *fliegen*, *Hast* und *teleportieren* zu benutzen. Der GM kann aber auch Bewegungswürfe fordern, wenn der Erfolg bei einer Aktion nicht vom Wirken eines Segens abhängt, sondern von den Umständen der Aktion. Die unteren Beispiele verdeutlichen dieses Prinzip.
+#### Herausfordernder Test der Bewegung (HW 15)
+Viktoria versucht, eine Ablenkung zu schaffen, damit ihr Verbündeter Nick von den zwei Müllhaldenhooligans entkommen kann, die ihn mit ihrer Waffe bedrohen. Sie zapft ihre telekinetischen Kräfte an, um einen Sturm aus Schrott zu erzeugen, um die Aufmerksamkeit der Hooligans von Nick wegzuziehen.
+
+**Erfolg mit einem Haken:** Der Wirbel aus Müll lenkt die Rüpel lange genug ab, dass Nick in Deckung springen und eine improvisierte Waffe greifen kann, aber die beiden Gegner sind ihm heiß auf den Versen.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Nick denkt, dass er seine Chance sieht, aber Viktorias Kräfte schwinden im entscheidenen Moment. Einer der Rüpel schlägt Nick mit dem Griff seiner Wache bewusstlos, während er versucht zu fliehen.
+#### Heldenhafter Test der Bewegung (HW 20)
+Gizmos Gruppe ist dabei, in den engen Straßen von Ystril vor einem Pack Werratten zu fliehen. Der GM fragt alle Spieler\*innen, wie sie ihren Verfolgern entkommen wollen. Gizmo entscheidet sich, seine patentierten Raketenstiefel Mk.VI einzusetzen, um von Dach zu Dach zu springen.
+
+**Erfolg mit einem Haken:** Sehr zur Überraschung seiner Verbündeten, funktioniert Gizmos Erfindung tatsächlich und er entkommt den Werratten. Gleichzeitig hat er die Stiefel aber bis zu ihren Grenzen gebracht und wird sie in seiner Werkstatt reparieren müssen, bevor er sie wieder nutzen kann.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Gizmos Raketenstiefel schleudern ihn ungelenkt durch die Stadt und niemand ist überrascht, als sie mitten in der Luft den Geist aufgeben und den Gnom in eine dunkle Gasse stürzen lassen. Als er sich wieder aufrappelt, ist er von Werratten umzingelt.
+#### Epischer Test der Bewegung (HW 25)
+Ace steuert den Fluchtpod, mit dem seine Crew aus dem InterGal HQ ausgebrochen ist. Ihre Flucht ist aber nicht unbemerkt geblieben und die kleine Kapsel wird vom Traktorstrahl des Sternenkreuzers zurückgezogen. In einem letzten Versuch, ihre Freiheit zu gewinnen, klinkt sich Ace in die Powermatrix des Fluchtpods ein und versucht, jeden seiner Tricks zu nutzen um die Geschwindigkeit über die Kraft des Traktorstrahls zu treiben.
+
+**Erfolg mit einem Haken:** Ace schafft es, alle Sicherheitsfeatures des Pods zu umgehen und alle Energie nur in den Antrieb zu leiten. Die Kapsel entkommt dem Traktorstrahl aber ihr Navigationssystem wird dabei versengt. Die Crew hat nicht länger die Kontrolle über das Schiff und muss im All treiben, bis sie eine Reparatur hinkriegen oder Hilfe kommt.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Ace schafft es nicht, die Sicherheitssysteme der Kapsel zu umgehen und der Fluchpod wird vom InterGal HQ wieder verschluckt. Die Crew hat nur Minuten, bis sie wieder von galaktischen Truppen umzingelt sein wird.
+### Vorwissen
+Vorwissen ist das Attribut des Wissens, welches durch übernatürliche Quellen erlangt wird. Beispiele umfassen übernatürliche Sinne, Prophezeiungsmagie oder einfach hyperausgebildete normale Sinne, die übernatürlich erscheinende Rückschlüsse zulassen. Du wirfst auf Vorwissen, wenn du versuchst, Details oder Wissen auf Wegen zu erlangen oder mit Wesen zu kommunizieren, die für normale Kreaturen unmöglich wären.
+#### Herausfordernder Test des Vorwissens (HW 15)
+Die Gruppe hat sich vor der Horde Zombies im Sportwarengeschäft eines Shoppingcenters barrikadiert. Sie haben zwei mögliche Wege, zu entkommen: durch das Ventilationssystem zum Dach oder von der Laderampe in den Parkplatz. Viktoria, die seit dem Ereignis mit psychischen Fähigkeiten begnadet ist, versucht das Risiko auf beiden Pfaden durch ihre übernatürlichen Sinne zu erkennen. Der GM weiß, dass eine Handvoll Zombies durch die Ventilationskanäle kriechen und auf der Laderampe eine ganze Horde lauert.
+
+**Erfolg mit einem Haken:** Viktoria spürt die Aura des Todes in den Luftschächten, ist aber noch ungeübt mit ihren Kräften und leidet unter schweren Kopfschmerzen, bevor sie sich der Laderampe zuwenden kann.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Viktorias Gedanken sind von dem Stöhnen und Kreischen der Untoten zu sehr abgelenkt, um ihre Sinne entfalten zu können. Noch schlimmer ist, dass die Zombies begonnen haben, das Tor einzureißen, sodass die Gruppe schnellstens eine Entscheidung treffen muss, wohin sie fliehen wollen.
+#### Heldenhafter Test des Vorwissens (HW 20)
+Während Shane den Doktor durch Payne Manor jagt, schlüpft dieser in einen der anliegenden Räume. Sekunden später platzt Shane in den Raum, doch vom Doktor ist keine Spur zu sehen und andere Ausgänge gibt es nicht. Ohne, dass der Held es weiß, hat der Doktor einen Geheimausgang hinter einem Bücherregal genutzt, der aktiviert wird, indem man auf einem Telefon auf dem Tisch eine bestimmte Nummer wählt. Shane nimmt einen tiefen Atemzug, um seine Nerven zu beruhigen und seine cybernetisch verstärkten Sinne zu nutzen, um den Doktor aufzuspüren.
+
+**Erfolg mit einem Haken:** Shane bemerkt den Geheimausgang nicht, sieht aber, dass das Telefon bewegt wurde und die Utensilien darum herum kurz zuvor verschoben wurden.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Shane hat den Doktor verloren. Als er endlich die Suche im Zimmer aufgibt, ist der Doktor über alle Berge.
+#### Epischer Test des Vorwissens (HW 25)
+Ruby ermittelt im Mordfall des Bürgermeisters. Es gibt keine offensichtlichen physischen Anzeichen, die den Tod erklären würden, also berührt sie die Hand des Bürgermeisters und versucht, mit seinem Geist zu kommunizieren und von ihm die Wahrheit zu erfahren.
+
+**Erfolg mit einem Haken:** Ruby kann kurz mit dem Bürgermeister sprechen. Ihre Verbindung zu der verschreckten Seele ist wider ihrem Willen bleibend. Sie wird durch sein Hoffen auf Rache gebeutelt, bis der Killer gestellt ist. Ruby erleidet eine Instanz des Fluches *erschöpft*, bis der Geist Ruhe finden kann.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Bei ihrem Versuch, den Toten zu kontaktieren, trifft Ruby aus Versehen auf etwas weit erschreckenderes. Ein untoter Schatten nimmt vor ihr Gestalt an und greift an.
+### Schutz
+Das Schutzattribut stellt die Fähigkeit eines Charakters dar, mit übernatürlichen Mitteln Schaden zu verhindern, Gefahren fernzuhalten und feindliche Kontrolle zu brechen. Du machst zum Beispiel einen Schutzwurf, um deine Verbündeten vor einer Falle zu schützen, Monster daran zu hindern, näherzukommen oder eine Kraft der Natur abzuwehren.
+#### Herausfordernder Test des Schutzes (HW 15)
+Während Balthazar und seine Kameraden sich ihren Weg einen schmalen Grat hoch suchen, der den Berg der Schatten hochführt, trifft sie ein kalter Windstoß, der droht, sie in die Tiefe zu werfen. Balthazar schlägt seinen Stab auf den Boden und flüstert einen Schutzzauber, um sich und seine Freunde in einen Schild zu hüllen, der den Wind abwenden soll.
+
+**Erfolg mit einem Haken:** Balthazar wirkt seinen Zauber, aber der Schild ist nicht so groß, wie er es sich erhofft hatte. Zwei der Helden müssen selbst dem Wind widerstehen.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Der mächtige Windstoß fegt Balthazars Stab aus seinen Händen, bevor er den Zauber vervollständigen kann. Jetzt muss er nicht nur um seinen Halt auf dem Grat kämpfen, sondern droht auch noch, seinen Stab zu verlieren.
+#### Heldenhafter Test des Schutzes (HW 20)
+Star und ihr Platoon lenken ihre Mecha-Kampfanzüge durch das Ödland Primus, dem ersten Mond von Neu-Terra. Während des eine Woche dauernden Marsches, legen sich die gefürchteten Säurewolken von Primus über die Soldaten, sodass sie in Gefahr sind, langsam ihre Rüstung zerfressen zu bekommen. Der GM fragt die Spielenden, was sie tun wollen, um ihren Mech zu schützen und Star entscheidet sich, ihr Schutzattribut anzuwenden um ihre Enviroschutzschirme zu aktivieren und so die Säure abzuwehren.
+
+**Erfolg mit einem Haken:** Stars Enviroschilde springen an, doch der Säuresturm ist so stark, dass sie Strom aus den Kampfsystemen des Mechs abziehen muss, damit sie halten. So lange sie die Schilde online hält, sind Stars TP um 5 reduziert.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Die Schilde waren nie dazu gedacht, solch extremen Umständen so lange ausgesetzt zu sein. Nach drei Tagen in den Säurewolken ist die Rüstung ihres Mechs stark zerfressen und ihr Rüstungsbonus ist um 3 reduziert, bis die Maschine repariert werden kann.
+#### Epischer Test des Schutzes (HW 25)
+Entgegen der Warnung ihres Mentors, hat Bell einen Blick in das Buch der Verdammten geworfen, was sie dem geistigen Angriff teuflischer Wesen ausgesetzt hat. Sie fühlt sich gezwungen, das Buch weiterzulesen, wobei sie erkennt, dass eine übernatürliche Kraft von ihr Besitz ergreift. Sie fasst ihr Schutzamulett und versucht, die Dämonen aus ihrem Geist zu bannen.
+
+**Erfolg mit einem Haken:** Bell schafft es, ihre Selbstkontrolle wiederzuerlangen und das Buch zu schließen. Ohne, dass sie es weiß, ist einer der Dämonen jedoch in ihr verblieben und wird sie heimsuchen, bis sie einen Exorzismus erhalten kann.
+
+**Fehlschlag, aber die Geschichte schreitet voran:** Bells Magie hat nicht die nötige Stärke, um die Mächte der Hölle zu bannen und sie fühlt sich bewegt, das ganze Buch stundenlang zu lesen. Als der mentale Angriff endlich abebbt, ist Bell für immer verändert. Sie hat die Charakterschwäche *psychotisch* erhalten.
