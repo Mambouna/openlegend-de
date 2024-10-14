@@ -5,7 +5,7 @@ Anstatt jedes einzelne Goldstück, jeden Kredit oder jedes Kunstwerk im Blick zu
 
 Jeder Charakter hat einen Wohlstandswert, welcher bei 2 beginnt und die Werte 0 bis 9 annehmen kann, wenn du Reichtum anhäufst oder ausgibst. Dein Wohlstandswert gibt dir eine grundlegende Idee davon, wie dein momentaner Lebensstandard ist und was für Güter und Dienstleistungen du dir leisten kannst. Die *Wohlstandsüberblick*-Tabelle beschreibt den typischen Lifestyle und verfügbare Güter für jeden Wert.
 #### Wohlstandsüberblick
-| Wohlstandswort | Lifestyle                                                | bsp. Ausgaben                                                                                        |
+| Wohlstandswert | Lifestyle                                                | bsp. Ausgaben                                                                                        |
 | -------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | 0              | Bettler, Straßenkind                                     | 3 Mahlzeiten und ein warmes Bett für die Nacht                                                       |
 | 1              | Tagelöhner                                               | eine Zechnacht, Lederrüstung, einfache Waffen                                                        |
@@ -109,7 +109,7 @@ Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an 
 ### Eigenschaften
 **Gebiet**[?] - Eine Gebiet-Waffe führt immer Multiziel-Attacken der aufgeführten Größe und Form aus und kann nicht für einfache Attacken mit einem Ziel genutzt werden. Falls eine Waffe mehrere verschiedene Gebietsgrößen hat, kann der Angreifer für jede Attacke entscheiden, welche er nutzen will. Die Attacken dieser Waffen leiden nicht unter dem normalen Nachteil für das Ausführen von Multiziel-Attacken.
 
-**Verbrauchsgut**[?] - Ein Verbrauchsgegenstand kann nur einmal benutzt werden, um einen Angriff auszuführen. Danach ist das Item benutzt und kann nicht wieder verwendet werden.
+**Verbrauchsgut** - Ein Verbrauchsgegenstand kann nur einmal benutzt werden, um einen Angriff auszuführen. Danach ist das Item benutzt und kann nicht wieder verwendet werden.
 
 **Defensiv** - Eine defensive Waffe gibt dem Nutzer Vorteil entsprechend des angegebenen Wertes, wenn er die *Verteidigen*-Aktion nutzt. Außerdem erhälst du +1 Rüstungsbonus wenn du eine defensive Waffe führst (unabhängig von dem Wert, der für *defensiv* aufgeführt ist). Während man ein *defensives* Item nutzt, bekommst du nicht den Vorteil 1, der normalerweise mit einhändigen oder zweihändigen Nahkampfwaffen assoziiert ist. Eine Waffe kann keinen *defensiv*-Wert größer als 3 haben.
 

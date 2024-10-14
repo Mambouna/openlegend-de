@@ -31,17 +31,29 @@ Jede Beschreibung eines Harmes enthält die folgenden Elemente.
 
 **Beschreibung.** Dieser Eintrag gibt einfach eine grundlegende Idee davon, wie der Harm im Kontext der Geschichte aussehen könnte.
 
+<<<<<<< HEAD
 **Effekt.** Dieser Eintrag führt den spielmechanischen Einfluss des Harmes nach den Regeln auf.
 ### Die Beschreibung eines Wohles lesen
 Die vollständige Liste an Wohlen kann [hier](http://openlegendrpg.com/boons) [TODO] in einer durchsuchbaren Liste gefunden werden.
 
 Jede Beschreibung eines Wohls enthält die folgenden Elemente.
+=======
+**Effekt.** Dieser Eintrag führt den spielmechanischen Einfluss des Fluches nach den Regeln auf.
+### Die Beschreibung eines Segens lesen
+Die vollständige Liste an Segen kann [hier](http://openlegendrpg.com/boons) [TODO] in einer durchsuchbaren Liste gefunden werden.
+
+Jede Beschreibung eines Segens enthält die folgenden Elemente.
+>>>>>>> main
 
 **Kraftlevel.** Diese Zahl zeigt den Attributwert an, der nötig ist, um dieses Wohl zu wirken. Falls mehrere Kraftlevel aufgeführt sind (z.B. 2 / 4 / 6), kann das Wohl mit unterschiedlichen Kraftleveln gewirkt werden. Das Wohl *heilen*[?] stellt auf ansteigenden Kraftleveln jeweils mehr Trefferpunkte wieder her. Das Kraftlevel eines Wohls bestimmt auch den Herausforderungswert des Attributwurfes, der nötig ist, um das Wohl zu wirken. Der HW ist 10 + 2 x Kraftlevel.
 
 **Attribute.** Dies ist eine Liste von Attributen, mit denen das Wohl gewirkt werden kann. Solange du zumindest ein Attribut mit einem Attributwert gleich oder höher dem Kraftlevel hast, kannst du das Wohl wirken.
 
+<<<<<<< HEAD
 **Wirkzeit.** Die Zeit, die benötigt wird, um das Wohl zu wirken. Die meisten Wohle haben eine Wirkzeit von 1 großen Aktion. Für Wohle, die eine längere Wirkzeit haben, musst du dich die gesamte Zeit nur darauf konzentrieren, das Wohl zu wirken. Falls du unterbrochen wirst, musst du neu beginnen.
+=======
+**Wirkzeit.** Die Zeit, die benötigt wird, um den Segen zu wirken. Die meisten Segen haben eine Wirkzeit von 1 großen Aktion. Für Segen, die eine längere Wirkzeit haben, musst du dich die gesamte Zeit nur darauf konzentrieren, den Segen zu wirken. Falls du unterbrochen wirst, musst du neu beginnen.
+>>>>>>> main
 
 **Dauer.** Die meisten Wohle haben eine Dauer von *Aufrechterhalten verlängert*[?], was bedeutet, dass der das Wohl wirkende Charakter jede Runde eine aufrechterhalten-Aktion benutzen muss, um das Wohl anhalten zu lassen. Falls du ein Wohl nicht aufrechterhältst, endet der Effekt des Wohls mit dem Ende der Runde. Weil das Aufrechterhalten eines Wohls eine kleine Aktion ist, die man nur einmal pro Runde nutzen kann, kann man generell nur ein Wohl auf einmal aktiv halten. Du musst ein Wohl nicht in der Runde aufrechterhalten, in dem er gewirkt wird, solange du keine anderen Wohle aktiv hältst.
 
