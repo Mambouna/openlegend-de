@@ -63,8 +63,8 @@ Sobald dein Zug in der Reihenfolge der Initiative dran ist, kannst du eine groß
 ### Große Aktionen
 Große Aktionen sind die Handlungen, die das Kampfgeschehen stark beeinflussen. Deine große Aktion kann für eine der folgenden Handlungen benutzt werden:
 - Einen Angriff mit Schaden ausführen[?]
-- Mit einem Fluch angreifen
-- Einen Segen wirken
+- Mit einem Harm angreifen
+- Ein Wohl wirken
 - Einem Verbündeten helfen
 - Eine zusätzliche Bewegungsaktion bekommen
 
@@ -81,7 +81,7 @@ Diese drei Schritte werden noch in größerem Detail erklärt.
 		<td><b>Wurfergebnis des Angriffswurfes - Verteidigung des Ziels = zugefügter Schaden</b> <i>(mindestens 3 bei Erfolg)</i></td>
 	</tr>
 	<tr>
-		<td><b><i>Herausragender Erfolg:</b> Falls du die Verteidigung um 10 oder mehr übertriffst, wirke einen Fluch oder breche die Konzentration des Gegners.</i></td>
+		<td><b><i>Herausragender Erfolg:</b> Falls du die Verteidigung um 10 oder mehr übertriffst, wirke einen Harm oder breche die Konzentration des Gegners.</i></td>
 	</tr>
 </table>
 
@@ -133,9 +133,9 @@ Du musst ein Ziel in Reichweite wählen:
 ##### Wirf deinen Angriffswurf
 Führe einen Attributwurf mit dem in Schritt 1 festgestellten Attribut aus. Du fügst Schaden gleich der Differenz aus deinem Wurfergebnis und der Verteidigung deines Ziels zu, wobei negative Ergebnisse ignoriert werden. Dieser Schaden wird von den Trefferpunkten deines Ziels subtrahiert. Wann immer du den HW des Wurfes triffst oder darüber liegst, fügst du **mindestens 3 Schaden zu.**
 ##### Herausragender Erfolg
-Falls dein Angriffswurf die Verteidigung deines Ziels um 10 oder mehr übertrifft, kannst du einen Fluch mit Kraftlevel gleich oder kleiner deinem Wert im für den Angriff genutzten Attribut wirken. Damit der Fluch tatsächlich erfolgreich gewirkt wird, muss das Ergebnis deines Angriffswurfes auch die für den Fluch genutzte Verteidigung übertreffen. Falls dein Angriff mehrere Ziele hatte, kannst du den Fluch auf alle Ziele wirken, deren Verteidigung um 10 oder mehr übertroffen wurde und bei denen auch die Verteidigung gegen den Fluch übertroffen wurde.
+Falls dein Angriffswurf die Verteidigung deines Ziels um 10 oder mehr übertrifft, kannst du einen Harm mit Kraftlevel gleich oder kleiner deinem Wert im für den Angriff genutzten Attribut wirken. Damit der Harm tatsächlich erfolgreich gewirkt wird, muss das Ergebnis deines Angriffswurfes auch die für den Harm genutzte Verteidigung übertreffen. Falls dein Angriff mehrere Ziele hatte, kannst du den Harm auf alle Ziele wirken, deren Verteidigung um 10 oder mehr übertroffen wurde und bei denen auch die Verteidigung gegen den Harm übertroffen wurde.
 
-Alternativ dazu, einen Fluch zu wirken, kannst du auch die Konzentration deines Ziels brechen. Dadurch brichst du einen Fluch, der vom Ziel deines Angriffs aufrechterhalten wird. Falls dein Angriff mehrere Ziele hatte, kannst du einen Fluch pro Ziel brechen.
+Alternativ dazu, einen Harm zu wirken, kannst du auch die Konzentration deines Ziels brechen. Dadurch brichst du einen Harm, der vom Ziel deines Angriffs aufrechterhalten wird. Falls dein Angriff mehrere Ziele hatte, kannst du einen Harm pro Ziel brechen.
 
 > #### Kampf auf einem Raster
 > Viele Spielende ziehen es vor, Kampf auf einem Raster mit Miniaturen oder Tokens als Beteiligte abzuhandeln. In diesem Vorgehen repräsentiert jedes Feld des Rasters eine Fläche von 5 mal 5 Fuß. Bewegung wird dann nur in Schritten von 5 Fuß ausgeführt und du musst mindestens 5' zur Verfügung haben, um ein neues Feld zu betreten. Kämpfende können sich hier nur dann diagonal über Felder bewegen, wenn keines der an die Diagonale angrenzenden Felder ein Hindernis enthält, welches Bewegung erschwert. Beispiele solcher Hindernisse wären etwa Bäume, Gebäude oder Felsen.
@@ -179,26 +179,26 @@ Gebietsattacken sind grundsätzlich nur mit außergewöhnlichen Attributen mögl
 	</tr>
 </table>
 
-#### Mit einem Fluch angreifen
-Anstatt zu versuchen, einem Ziel Schaden zuzufügen, kannst du dich stattdessen entscheiden, einen Fluch auf einen Feind zu wirken. Um einen Fluch zu wirken, musst du ein passendes Attribut mit einem Wert gleich des Kraftlevels des Fluchen haben, wie in der [Fluchbeschreibung](http://openlegendrpg.com/banes) [TODO] aufgeführt. Ziele können unter mehreren Flüchen leiden, aber der gleiche Fluch kann nicht mehrmals auf einem Ziel liegen, außer dies ist im Effekt des Fluches explizit angegeben (z.B. [*erschöpft*](http://openlegendrpg.com/banes/fatigued) [TODO]).
+#### Mit einem Harm angreifen
+Anstatt zu versuchen, einem Ziel Schaden zuzufügen, kannst du dich stattdessen entscheiden, einen Harm auf einen Feind zu wirken. Um einen Harm zu wirken, musst du ein passendes Attribut mit einem Wert gleich des Kraftlevels des Harmen haben, wie in der [Harmbeschreibung](http://openlegendrpg.com/banes) [TODO] aufgeführt. Ziele können unter mehreren Harmen leiden, aber der gleiche Harm kann nicht mehrmals auf einem Ziel liegen, außer dies ist im Effekt des Harmes explizit angegeben (z.B. [*erschöpft*](http://openlegendrpg.com/banes/fatigued) [TODO]).
 
-Einen Fluchangriff abzuhandeln funktioniert ähnlich, wie einen Angriff mit Schaden auszuführen:
-1. **Attribut vs. Verteidigung feststellen.** Die [Fluchbeschreibung](http://openlegendrpg.com/banes) gibt an, welche Attribute für den Fluch benutzt werden können und gegen welche Verteidigung sie gehen.
-2. **Ziel auswählen.** Ein Ziel für einen Fluch auszuwählen funktioniert genauso, wie bei einem Angriff mit Schaden, auch im Fall von Multi-Ziel-Angriffen. Flüche mit Beweglichkeit oder Kraft als Attribut benötigen zum Ausführen eine Waffe oder natürliche Angriffsmöglichkeit, sodass ihre Reichweite auf die der genutzten Angriffsmethode beschränkt ist.
-3. **Wirf deinen Angriffswurf.** Wirf einen Aktionswurf mit dem passenden Attribut. Falls das Ergebnis die Verteidigung deines Ziels trifft oder überschreitet, leidet das Ziel unter dem Fluch.
+Einen Harmangriff abzuhandeln funktioniert ähnlich, wie einen Angriff mit Schaden auszuführen:
+1. **Attribut vs. Verteidigung feststellen.** Die [Harmbeschreibung](http://openlegendrpg.com/banes) gibt an, welche Attribute für den Harm benutzt werden können und gegen welche Verteidigung sie gehen.
+2. **Ziel auswählen.** Ein Ziel für einen Harm auszuwählen funktioniert genauso, wie bei einem Angriff mit Schaden, auch im Fall von Multi-Ziel-Angriffen. Harme mit Beweglichkeit oder Kraft als Attribut benötigen zum Ausführen eine Waffe oder natürliche Angriffsmöglichkeit, sodass ihre Reichweite auf die der genutzten Angriffsmethode beschränkt ist.
+3. **Wirf deinen Angriffswurf.** Wirf einen Aktionswurf mit dem passenden Attribut. Falls das Ergebnis die Verteidigung deines Ziels trifft oder überschreitet, leidet das Ziel unter dem Harm.
 
-> ##### Beispielhafte Fluchattacken
-> Takeo ist schwer verwundet und braucht eine Chance, dem Samurai zu entfliehen, der ihn gnadenlos bedrängt. Mit einem clever platzierten Schlangenschlag versucht der Mönch, den gepanzerten Ritter zu blenden. Takeo wirkt den Fluch über eine Nahkampfattacke, die auf einen einzelnen Feind zielt, sodass er einen Attributwurf auf Beweglichkeit 5 gegen die Deckung des Samurais von 18 wirft. Der Mönch rollt 1d20 + 2d6 und erhält als Ergebnis 20, sodass der Gegner nun unter *geblendet* leidet.
+> ##### Beispielhafte Harmattacken
+> Takeo ist schwer verwundet und braucht eine Chance, dem Samurai zu entfliehen, der ihn gnadenlos bedrängt. Mit einem clever platzierten Schlangenschlag versucht der Mönch, den gepanzerten Ritter zu blenden. Takeo wirkt den Harm über eine Nahkampfattacke, die auf einen einzelnen Feind zielt, sodass er einen Attributwurf auf Beweglichkeit 5 gegen die Deckung des Samurais von 18 wirft. Der Mönch rollt 1d20 + 2d6 und erhält als Ergebnis 20, sodass der Gegner nun unter *geblendet* leidet.
 > ***
-> Von einer schnell wachsenden Horde Zombies umzingelt, lädt Selene ihre abgesägte Schrotflinte nach und bereitet sich vor, sich ihren Weg freizuschießen und um ihr Leben zu rennen. Ihre Waffe gibt ihr in dieser Situation drei Vorzüge: die Option, eine 10' Kegel-Attacke ohne Nachteil zu nutzen, Vorteil 1 auf den Fluch *erzwungene Bewegung* und die Möglichkeit, *erzwungene Bewegung* auf einem Kraftlevel um eins höher als ihren Attributwert zu nutzen. Da sie die Zombies nur aus dem Weg schaffen will, greift sie 3 von ihnen (die Anzahl Ziele mit einem 10' Kegel) mit der Fluchattacke *erzwungene Bewegung* an. Selenes Beweglichkeit hat den Wert 5, sodass sie normalerweise 1d20 + 2d6 werfen würde, aber aufgrund ihrer Schrotflinte hat sie Vorteil 1 auf den Wurf. Sie nutzt also 1d20 + 3d6 (den niedrigsten Würfel entfernend) und erhält ein Ergebnis von 23, womit sie mit Leichtigkeit die Deckung der Zombies von 15 übertrifft. Da die Schrotflinte sie den Fluch außerdem auf einem Kraftlevel eins höher wirken lässt, als ihr Attribut normalerweise zulassen würde, kann sie den Fluch *erzwungene Bewegung* auf Kraftlevel 6 anwenden (eins über ihrem Beweglichkeitswert 5). Selene fegt die Zombies vor sich 15' von sich und fängt an, um ihr Leben zu laufen.
+> Von einer schnell wachsenden Horde Zombies umzingelt, lädt Selene ihre abgesägte Schrotflinte nach und bereitet sich vor, sich ihren Weg freizuschießen und um ihr Leben zu rennen. Ihre Waffe gibt ihr in dieser Situation drei Vorzüge: die Option, eine 10' Kegel-Attacke ohne Nachteil zu nutzen, Vorteil 1 auf den Harm *erzwungene Bewegung* und die Möglichkeit, *erzwungene Bewegung* auf einem Kraftlevel um eins höher als ihren Attributwert zu nutzen. Da sie die Zombies nur aus dem Weg schaffen will, greift sie 3 von ihnen (die Anzahl Ziele mit einem 10' Kegel) mit der Harmattacke *erzwungene Bewegung* an. Selenes Beweglichkeit hat den Wert 5, sodass sie normalerweise 1d20 + 2d6 werfen würde, aber aufgrund ihrer Schrotflinte hat sie Vorteil 1 auf den Wurf. Sie nutzt also 1d20 + 3d6 (den niedrigsten Würfel entfernend) und erhält ein Ergebnis von 23, womit sie mit Leichtigkeit die Deckung der Zombies von 15 übertrifft. Da die Schrotflinte sie den Harm außerdem auf einem Kraftlevel eins höher wirken lässt, als ihr Attribut normalerweise zulassen würde, kann sie den Harm *erzwungene Bewegung* auf Kraftlevel 6 anwenden (eins über ihrem Beweglichkeitswert 5). Selene fegt die Zombies vor sich 15' von sich und fängt an, um ihr Leben zu laufen.
 > ***
-> Zarthakis, der große Wyrm, wird von 4 Abenteurern umringt. Er entfaltet seine mächtigen Schwingen und gibt ein schreckliches Brüllen von sich, mit dem er den Fluch *demoralisiert* mit seinem Präsenz-Attribut zufügen will. Die Präsenz des Drachen ist 8, sodass er eine Reichweite von 75' hat, was ohne Probleme für alle Abenteurer reicht. Weil Zarthakis 4 Gegner durch Multi-Zielen angreift, erhält er Nachteil 4 auf seinen Wurf. Normalerweise würde er 1d20 + 3d8 werfen, aber aufgrund des Nachteils wirft er 1d20 + 7d8 (wobei die vier höchsten Würfel verfallen). Sein Endwert ist 22, was er jeweils mit der Entschlossenheit-Verteidigung der Helden vergleicht. Die Charaktere haben Entschlossenheit von 14, 17, 22 und 25. Der Drache fügt drei der vier Abenteurer *demoralisiert* zu.
-#### Einen Segen wirken
-Du kannst einen Segen wirken, um dir oder Verbündeten zu helfen.  Um einen Segen zu wirken, musst du ein passendes Attribut mit mindestens einem Wert gleich dem Kraftlevel des Segens besitzen, so wie in der [Beschreibung des Segens](http://openlegendrpg.com/boons) angegeben. Befolge diese Schritte, um den Segen anzuwenden:
-1. **Wähle ein Ziel.** Ein Ziel für einen Segen zu wählen und die die Reichweite eines Segens festzustellen ist identisch zum Prozess, ein Ziel für einen Angriff mit Schaden auszuwählen, auch in Bezug auf Multi-Zielen. Wenn du den Segen später aufrechterhälst, gilt dies für alle Ziele, die von der ursprünglichen Anwendung des Segens betroffen wurden.
-2. **Wirf zum Wirken.** Mache einen Aktionswurf mit den gewählten Attribut, wie in der [Beschreibung des Segens](http://openlegendrpg.com/boons) aufgeführt.
-3. **Ermittle das Kraftlevel.** Manche Segen haben nur ein einziges Kraftlevel, während andere mit verschieden viel Macht gewirkt werden können. Nutze die *Segen Herausforderungswert*-Tabelle, um zu ermitteln, mit welchem Kraftlevel zu den Segen mit deinem Wurf maximal wirken kannst. Unabhängig vom Kraftlevel, kannst du einen Segen nie auf einem Kraftlevel über dem Attributwert wirken, mit dem du den Segen anwendest. Falls du den Herausforderungswert des niedrigsten Kraftlevels des Segens nicht erreichst, schlägst du im Wirken des Segens fehl.
-##### Segen Herausforderungswert
+> Zarthakis, der große Wyrm, wird von 4 Abenteurern umringt. Er entfaltet seine mächtigen Schwingen und gibt ein schreckliches Brüllen von sich, mit dem er den Harm *demoralisiert* mit seinem Präsenz-Attribut zufügen will. Die Präsenz des Drachen ist 8, sodass er eine Reichweite von 75' hat, was ohne Probleme für alle Abenteurer reicht. Weil Zarthakis 4 Gegner durch Multi-Zielen angreift, erhält er Nachteil 4 auf seinen Wurf. Normalerweise würde er 1d20 + 3d8 werfen, aber aufgrund des Nachteils wirft er 1d20 + 7d8 (wobei die vier höchsten Würfel verfallen). Sein Endwert ist 22, was er jeweils mit der Entschlossenheit-Verteidigung der Helden vergleicht. Die Charaktere haben Entschlossenheit von 14, 17, 22 und 25. Der Drache fügt drei der vier Abenteurer *demoralisiert* zu.
+#### Ein Wohl wirken
+Du kannst ein Wohl wirken, um dir oder Verbündeten zu helfen. Um ein Wohl zu wirken, musst du ein passendes Attribut mit mindestens einem Wert gleich dem Kraftlevel des Wohls besitzen, so wie in der [Beschreibung des Wohls](http://openlegendrpg.com/boons) angegeben. Befolge diese Schritte, um das Wohl anzuwenden:
+1. **Wähle ein Ziel.** Ein Ziel für ein Wohl zu wählen und die Reichweite eines Wohls festzustellen ist identisch zum Prozess, ein Ziel für einen Angriff mit Schaden auszuwählen, auch in Bezug auf Multi-Zielen. Wenn du das Wohl später aufrechterhälst, gilt dies für alle Ziele, die von der ursprünglichen Anwendung des Wohls betroffen wurden.
+2. **Wirf zum Wirken.** Mache einen Aktionswurf mit den gewählten Attribut, wie in der [Beschreibung des Wohls](http://openlegendrpg.com/boons) aufgeführt.
+3. **Ermittle das Kraftlevel.** Manche Wohle haben nur ein einziges Kraftlevel, während andere mit verschieden viel Macht gewirkt werden können. Nutze die *Wohl Herausforderungswert*-Tabelle, um zu ermitteln, mit welchem Kraftlevel du das Wohl mit deinem Wurf maximal wirken kannst. Unabhängig vom Kraftlevel, kannst du ein Wohl nie auf einem Kraftlevel über dem Attributwert wirken, mit dem du das Wohl anwendest. Falls du den Herausforderungswert des niedrigsten Kraftlevels des Wohls nicht erreichst, schlägst du im Wirken des Wohls fehl.
+##### Wohl Herausforderungswert
 <table>
 	<tr>
 		<th>Kraftlevel</th>
@@ -210,10 +210,10 @@ Du kannst einen Segen wirken, um dir oder Verbündeten zu helfen.  Um einen Sege
 	</tr>
 </table>
 
-> #### Beispielhafte Segenswirkung
-> Jade versucht, ihren Realitätswarper zu nutzen, um sich und ihren Verbündeten *unsichtbar* zu machen. Das Wandlung-Attribut von Jade ist 6, aber sie hat Nachteil 2, weil sich zwei Ziele hat. Sie wirft 1d20 + 4d8 (wobei sie die zwei höchsten Würfel verwirft) und bekommt eine 20. *Unsichtbar* hat Kraftlevel 6, sodass Jade den Herausforderungswert von 22 verfehlt hat. Der Segen hat keinen Effekt.
+> #### Beispielhafte Wohlwirkung
+> Jade versucht, ihren Realitätswarper zu nutzen, um sich und ihren Verbündeten *unsichtbar* zu machen. Das Wandlung-Attribut von Jade ist 6, aber sie hat Nachteil 2, weil sich zwei Ziele hat. Sie wirft 1d20 + 4d8 (wobei sie die zwei höchsten Würfel verwirft) und bekommt eine 20. *Unsichtbar* hat Kraftlevel 6, sodass Jade den Herausforderungswert von 22 verfehlt hat. Das Wohl hat keinen Effekt.
 > ***
-> Stitch ist dabei, die Wunde eines Verbündeten zu verpflegen und möchte den *heilen*-Segen nutzen. Sein Lernen-Attribut hat den Wert 5, also wirft er 1d20 + 2d6 mit einem Ergebnis von 24. Anhand der *Segen Herausforderungswert*-Tabelle kann er den Segen so mit Kraftlevel 7 wirken. Weil sein Lernen-Attribut aber nur 5 hat, kann auch der Segen maximal auf diesem Level gewirkt werden. Er heilt seinem Kamerad anhand der Beschreibung des Segens um 2d6 Trefferpunkte.
+> Stitch ist dabei, die Wunde eines Verbündeten zu verpflegen und möchte das *heilen*-Wohl nutzen. Sein Lernen-Attribut hat den Wert 5, also wirft er 1d20 + 2d6 mit einem Ergebnis von 24. Anhand der *Wohl Herausforderungswert*-Tabelle kann er das Wohl so mit Kraftlevel 7 wirken. Weil sein Lernen-Attribut aber nur 5 hat, kann auch das Wohl maximal auf diesem Level gewirkt werden. Er heilt seinem Kamerad anhand der Beschreibung des Wohls um 2d6 Trefferpunkte.
 #### Einem Verbündeten helfen
 Du kannst eine große Aktion nutzen, um einem Verbündeten mit einem Aktionswurf zu helfen, falls er ein Attribut benutzt, in dem du einen Wert von 1 oder höher hast. Der Verbündete erhält automatisch Vorteil 1 auf den Wurf.
 #### Eine zusätzliche Bewegungsaktion bekommen
@@ -222,7 +222,7 @@ In jedem Zug kannst du statt einer großen Aktion eine weitere Bewegungsaktion b
 Bewegungsaktionen werden generell benutzt, um durch das Schlachtfeld zu maneuvrieren, allerdings kannst du sie auch für einige andere Zwecke nutzen. Bewegungsaktionen können wie folgt genutzt werden:
 - Bewege dich um deine Geschwindigkeit
 - Spezielle Bewegungen ausführen
-- Flüchen widerstehen
+- Harmen widerstehen
 ##### Bewege dich um deine Geschwindigkeit
 Du kannst dich um eine Distanz gleich deinem Geschwindigkeitswert bewegen. Die normale Geschwindigkeit eines Charakters ist 30'. Diese Bewegung kann durch andere Handlungen unterbrochen werden. Du kannst dich also zum Beispiel um 10' bewegen, eine kleine Aktion benutzen um eine Tür zu öffnen, dich um weitere 10 Fuß bewegen und danach eine große Aktion nutzen, um einen Feind anzugreifen.
 ##### Spezielle Bewegungen ausführen
@@ -235,17 +235,17 @@ Spezielle Bewegungen umfassen Klettern, Springen, Schwimmen und andere Bewegungs
 **Klettern.** Du kletterst mit der Hälfte deiner normalen Geschwindigkeit. Der GM kann nach eigener Erwägung Kraft- oder Beweglichkeitswürfe fordern, falls die Situation ausreichend gefährlich ist.
 
 **Schwimmen.** Du schwimmst mit der Hälfte deiner normalen Geschwindigkeit. Der GM kann nach eigener Erwägung Kraft- oder Zähigkeitswürfe fordern, falls du eine weite Distanz, gegen den Strom oder in anderen gefährlichen Umständen schwimmst.
-#### Flüchen widerstehen
-Du kannst eine Bewegungsaktion nutzen, um dich von einem Fluch zu erholen. Die Bewegungsaktion ist dabei eine vereinfachte Repräsentation vieler verschiedener Wege, wie du die Effekte eines Fluches abschütteln könntest. Wirf 1d20 (ohne Attributwürfel). Falls dein Wurf 10 oder höher ergibt, ist der Fluch aufgehoben. Manche Flüche haben andere Regeln, wie ihnen widerstanden werden kann.
+#### Harmen widerstehen
+Du kannst eine Bewegungsaktion nutzen, um dich von einem Harm zu erholen. Die Bewegungsaktion ist dabei eine vereinfachte Repräsentation vieler verschiedener Wege, wie du die Effekte eines Harmes abschütteln könntest. Wirf 1d20 (ohne Attributwürfel). Falls dein Wurf 10 oder höher ergibt, ist der Harm aufgehoben. Manche Harme haben andere Regeln, wie ihnen widerstanden werden kann.
 
-Manche Flüche halten für längere Zeit an, wenn drei Versuche, dem Fluch zu widerstehen, fehlschlagen. Du solltest also alle nicht bestandenen Versuche, einen Fluch abzuschütteln, im Auge behalten.
+Manche Harme halten für längere Zeit an, wenn drei Versuche, dem Harm zu widerstehen, fehlschlagen. Du solltest also alle nicht bestandenen Versuche, einen Harm abzuschütteln, im Auge behalten.
 
-> ##### Beispiel für Fluch widerstehen
-> Nachdem Garcon sechs Runden lang mit einem Ikorus-Dämon im Ring stand, leidet er unter drei Flüchen: *anhaltender Schaden*, *verlangsamt* und *geblendet*. Er benutzt seine Bewegungsaktion um zu versuchen, die Flüche aufzuheben, also wirft er einen d20 für jeden der Flüche. Die Ergebnisse sind 8, 16 und 9. Garcon schafft es, *verlangsamt* abzuschütteln, aber er leidet weiter unter *anhaltender Schaden* und *geblendet*. Er notiert auf seinem Charakterblatt, dass er beide Flüche einmal nicht widerstehen konnte.
+> ##### Beispiel für Harm widerstehen
+> Nachdem Garcon sechs Runden lang mit einem Ikorus-Dämon im Ring stand, leidet er unter drei Harmen: *anhaltender Schaden*, *verlangsamt* und *geblendet*. Er benutzt seine Bewegungsaktion um zu versuchen, die Harme aufzuheben, also wirft er einen d20 für jeden der Harme. Die Ergebnisse sind 8, 16 und 9. Garcon schafft es, *verlangsamt* abzuschütteln, aber er leidet weiter unter *anhaltender Schaden* und *geblendet*. Er notiert auf seinem Charakterblatt, dass er beide Harme einmal nicht widerstehen konnte.
 ### Kleine Aktionen
 Kleine Aktionen sind Handlungen, die nicht viel Zeit oder Einsatz erfordern, aber oft große Aktionen vorbereiten. Du kannst eine beliebige Anzahl an kleinen Aktionen in deinem Zug nutzen, aber du kannst nie die gleiche Art kleine Aktion mehrmals pro Zug nutzen. Kleine Aktionen umfassen die folgenden:
 - Eine Gelegenheitsattacke nutzen
-- Einen Segen aufrechterhalten
+- Ein Wohl aufrechterhalten
 - Ziehen oder Wegstecken einer Waffe
 - Ein Item am eigenen Körper hervorholen
 - Einen Wahrnehmungswurf ausführen, um die Umgebung zu betrachten
@@ -262,13 +262,13 @@ Nur willentliche Bewegung eines Kämpfenden kann eine Gelgenheitsattacke auslös
 > Vera steht dräuhend über den zwei Schnupflingen, die in Panik fliehen, als sie in ihre Berserkerwut verfällt. Beide Schupflinge lösen eine Gelegenheitsattacke aus. Da Vera aber nur einen solchen Angriff pro Runde benutzen kann, kann sie nur einen der beiden attackieren.
 > ***
 > Sergeant Rage führt eine Schrotflinte. Ein Rattenmann flizt zu ihm hinüber, greift mit einem Dolch an und schnellt wieder fort. Weil Sarge keine Nahkampfwaffe gezogen hat, kann er keine Gelegenheitsattacke gegen den Rattenmann ausführen.
-#### Einen Segen aufrechterhalten
-Viele Segen haben eine grundlegende Dauer von *Aufrechterhalten verlängert*, was bedeutet, dass sie jedes Mal eine weitere Runde länger anhalten, wenn ein Charakter die kleine Aktion *einen Segen aufrechterhalten* benutzt. Falls du einen Segen aktiv hast und diesen nicht aufrechterhälst, endet der Segen, sobald dein Zug zu Ende ist. Weil das Aufrechterhalten eines Segens eine kleine Aktion ist, kannst du normalerweise nur einen Segen pro Runde aufrechterhalten und kannst dies gar nicht tun, falls du eine Fokusaktion benutzt. Solange du keine anderen Segen aktiv hast, musst du in der Runde, in der du einen Segen wirkst, diesen nicht aufrechterhalten. Jedes Mal, wenn du einen Segen aufrechterhälst, bleibt er für alle Ziele aktiv, die beim ersten Wirken betroffen waren. Bei einem Segen mit Multi-Zielen hält der Effekt des Segens also bei allen ursprünglichen Zielen an.
+#### Ein Wohl aufrechterhalten
+Viele Wohle haben eine grundlegende Dauer von *Aufrechterhalten verlängert*, was bedeutet, dass sie jedes Mal eine weitere Runde länger anhalten, wenn ein Charakter die kleine Aktion *ein Wohl aufrechterhalten* benutzt. Falls du ein Wohl aktiv hast und diesen nicht aufrechterhälst, endet das Wohl, sobald dein Zug zu Ende ist. Weil das Aufrechterhalten eines Wohles eine kleine Aktion ist, kannst du normalerweise nur ein Wohl pro Runde aufrechterhalten und kannst dies gar nicht tun, falls du eine Fokusaktion benutzt. Solange du keine anderen Wohle aktiv hast, musst du in der Runde, in der du ein Wohl wirkst, diesen nicht aufrechterhalten. Jedes Mal, wenn du ein Wohl aufrechterhälst, bleibt er für alle Ziele aktiv, die beim ersten Wirken betroffen waren. Bei einem Wohl mit Multi-Zielen hält der Effekt des Wohls also bei allen ursprünglichen Zielen an.
 
-> ##### Beispiel für das Aufrechterhalten eines Segens
-> Ruby wirkt den *Fliegen*-Segen und erhebt sich in die Luft. In ihrem nächsten Zug will sie *Fliegen* aktiv halten, also benutzt sie eine kleine Aktion dazu. Ein Gegner trifft sie danach mit dem Fluch *betäubt*, sodass sie im nächsten Zug nur noch eine große, kleine oder Bewegungsaktion ausführen kann. Sie benutzt eine einzige Bewegungsaktion, um zu einem sicheren Landepunkt zu kommen. Weil sie *betäubt* ist, hat sie danach keine kleine Aktion zur Verfügung, um den Segen aufrechtzuerhalten, sodass er mit dem Ende ihres Zuges vergeht.
+> ##### Beispiel für das Aufrechterhalten eines Wohles
+> Ruby wirkt das *Fliegen*-Wohl und erhebt sich in die Luft. In ihrem nächsten Zug will sie *Fliegen* aktiv halten, also benutzt sie eine kleine Aktion dazu. Ein Gegner trifft sie danach mit dem Harm *betäubt*, sodass sie im nächsten Zug nur noch eine große, kleine oder Bewegungsaktion ausführen kann. Sie benutzt eine einzige Bewegungsaktion, um zu einem sicheren Landepunkt zu kommen. Weil sie *betäubt* ist, hat sie danach keine kleine Aktion zur Verfügung, um das Wohl aufrechtzuerhalten, sodass es mit dem Ende ihres Zuges vergeht.
 > ***
-> Doktor van Strankenkloff hat den Segen *Dunkelheit* mit seinem patentierten Lichtschlucker Mark IV benutzt. In seinem nächsten Zug aktiviert er im Schutz der Schatten seinen persönlichen Transmog-Gürtel, um den Segen *Gestaltwandel* zu aktivieren und sich in eine Maus zu verwandeln. Weil beide Segen eine Dauer von *Aufrechterhalten verlängert* haben und der Doktor nur einen Segen auf einmal aktiv halten kann, wählt er dafür *Gestaltwandel*. Am Ende seines Zuges ist die *Dunkelheit* aufgelöst und *Gestaltwandel* hält an.
+> Doktor van Strankenkloff hat das Wohl *Dunkelheit* mit seinem patentierten Lichtschlucker Mark IV benutzt. In seinem nächsten Zug aktiviert er im Schutz der Schatten seinen persönlichen Transmog-Gürtel, um das Wohl *Gestaltwandel* zu aktivieren und sich in eine Maus zu verwandeln. Weil beide Wohle eine Dauer von *Aufrechterhalten verlängert* haben und der Doktor nur ein Wohl auf einmal aktiv halten kann, wählt er dafür *Gestaltwandel*. Am Ende seines Zuges ist die *Dunkelheit* aufgelöst und *Gestaltwandel* hält an.
 ### Fokusaktionen
 Eine Fokusaktion zu nutzen bedarf all einer Konzentration und Aufmerksamkeit in einer Runde. Wenn du dich entscheidest, all deine anderen Aktionen aufzugeben, kannst du eine Fokusaktion ausführen. Wähle einer der beiden möglichen Fokusaktionen:
 - Überragende Aktion[?]
@@ -295,7 +295,7 @@ Einmal pro Runde kannst du dich als Teil deiner Verteidigen-Aktion bis zur Hälf
 > ***
 > Eine Granate landet zwischen Zak und Tomlinson. Der Angriff mit der Granate hat als Wurfergebnis 25 gegen die Deckung der beiden von 12 und 18, sodass sie 13 und 7 Schaden zufügen könnte. Tomlinson benutzt eine Verteidigungsaktion um sich um die Hälfte seiner Geschwindigkeit zu bewegen (15 Fuß) und nimmt Zak dabei mit. Daraufhin führt er einen Beweglichkeitswurf aus, um seinen Verbündeten zu schützen. Tomlinson führt einen Riot-Schild, sodass er auf den Wurf Vorteil 2 hat und bekommt am Ende 26 als Ergebnis. Zak nimmt keinen Schaden. Weil die Verteidigungsaktion aber nur eine Person schützen kann, nimmt Tomlinson trotzdem 7 Schaden. Aufgrund der Unterbrechungsaktion wird Tomlinson in seinem nächsten Zug keine große Aktion haben.
 #### Improvisieren
-Du kannst eine Unterbrechungsaktion auch benutzen, um eine improvisierte Reaktion auf eine Situation im Kampf zu machen. Falls eine Verbündete zum Beispiel von einer Klippe fällt, kannst du eine Unterbrechungsaktion nutzen, um den Segen *Fliegen* zu wirken um sie zu retten oder ihr hinterherzuspringen und gerade noch ihre Hand zu greifen. Improvisierte Unterbrechungsaktionen sollten normalerweise nicht-offensive Handlungen sein, die Verbündeten helfen. Sie sollten die Geschichte unterstützen, sodass ein GM entscheiden kann, eine Improvisation, die nicht zur Handlung passt, nicht zuzulassen.
+Du kannst eine Unterbrechungsaktion auch benutzen, um eine improvisierte Reaktion auf eine Situation im Kampf zu machen. Falls eine Verbündete zum Beispiel von einer Klippe fällt, kannst du eine Unterbrechungsaktion nutzen, um das Wohl *Fliegen* zu wirken um sie zu retten oder ihr hinterherzuspringen und gerade noch ihre Hand zu greifen. Improvisierte Unterbrechungsaktionen sollten normalerweise nicht-offensive Handlungen sein, die Verbündeten helfen. Sie sollten die Geschichte unterstützen, sodass ein GM entscheiden kann, eine Improvisation, die nicht zur Handlung passt, nicht zuzulassen.
 ### Kostenlose Aktionen
 Falls eine Fertigkeit, eine Charakterstärke, ein Wohl oder eine andere Quelle dir kostenlose Aktionen gibt, werden diese genutzt, ohne dein normales Repertoire aus Aktionen pro Zug zu verringern.
 ## Schaden und Heilung
@@ -394,7 +394,7 @@ Zwei Psi-Mech-Gangs rasen über den Dächern von New Tokyo dahin, während sie i
 ##### Verliere einen Freund
 Das taktische Sturmteam kommt in den gähnenden Tunneln der Bogan-Heimatwelt unter schweren Beschuss, als Jaaxy ihre Granate wirft, um die Feinde zu dezimieren. Leider war sie nie besonders gründlich in ihren Ausrüstungschecks und zwei Pins ihrer Granaten waren verhakt. Mit beiden Granaten aktiv wirft sie die eine auf die Gegner, doch die andere fällt auf den Boden. Ihr Team ist gezwungen, aus dem Weg zu hechten und die Explosion lässt den Tunnel einstürzen. Als der Staub sich wieder legt wird klar, dass beide Gruppen voneinander getrennt sind und es immer noch genug Bogans für beide Seiten zum Erledigen gibt.
 ##### Übersehe ein wichtiges Detail
-Die Gruppe drängt gerade einen bösen Geist zurück, den sie in den alten Gemäuern von Harden-Manor entfesselt haben, als Jade versucht, ihre psychokinetischen Kräfte zu sammeln um den Harm *dominieren* zu nutzen um den Geist zu zwingen, das Landgut zu verlassen. Ihr Wurf schlägt fehl, doch der GM erlaubt ihr, den Geist trotzdem zu bannen. Was sie nicht hat kommen sehen, war, das der Geist seit Jahrhunderten versuchte, dem Gebäude zu entfliehen. Jade hat aus Versehen den Fluch gebrochen, der ihn gefangen hielt.
+Die Gruppe drängt gerade einen bösen Geist zurück, den sie in den alten Gemäuern von Harden-Manor entfesselt haben, als Jade versucht, ihre psychokinetischen Kräfte zu sammeln um den Harm *dominieren* zu nutzen um den Geist zu zwingen, das Landgut zu verlassen. Ihr Wurf schlägt fehl, doch der GM erlaubt ihr, den Geist trotzdem zu bannen. Was sie nicht hat kommen sehen, war, das der Geist seit Jahrhunderten versuchte, dem Gebäude zu entfliehen. Jade hat aus Versehen den Harm gebrochen, der ihn gefangen hielt.
 ##### Verschwende Zeit
 Melchior ist dabei, einen mächtigen Zauber zu wirken, um den Harm *verlangsamt* auf eine Horde riesenzähniger Nager zu legen, doch sein Wurf schlägt fehl. Der GM interpretiert ihn als Erfolg mit einem Haken, indem er erklärt, dass der Zauber mehr Zeit beansprucht, als der Zauberer zunächst dachte. Wenn er ihn erfolgreich wirken will, muss er ihn noch länger weben, sodass er auch die große Aktion seiner nächsten Runde dafür aufwenden muss.
 ##### Zieh Aufmerksamkeit auf dich

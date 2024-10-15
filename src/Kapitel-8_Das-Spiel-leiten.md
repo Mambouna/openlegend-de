@@ -10,7 +10,7 @@ Bevor wir uns all diese schönen Sachen anschauen, lass uns kurz überlegen, was
 
 **Ein guter GM schränkt Spielende nicht ein.** Es ist wichtig, eine gute Geschichte vorbereitet zu haben (oder gut im Improvisieren zu sein), aber gleichzeitig musst du daran denken, dass die Spielenden die treibende Kraft in der Entfaltung der Handlung sein sollten. Sie werden sich schnell wie auf Bahnschienen eingeschränkt fühlen, wenn zum Beispiel das Kind gekidnapped, der Planet zerstört oder das Artefakt gestohlen wird, egal was sie tun.
 
-**Ein guter GM kennt die Regeln.** Als GM kann es gut sein, dass du der einzige am Tisch sein wirst, der dieses Regelwerk gelesen hat. Das bedeutet, dass du zugleich Lehrer, Manager und Schiedsrichter sein musst. Besonders wichtig könnte es sein, dass du in der Lage bist, zu erklären, wofür die vielen Attribute genutzt werden können und welche Flüche und Segen deine Spielenden vielleicht am ehesten nutzen wollen könnten.
+**Ein guter GM kennt die Regeln.** Als GM kann es gut sein, dass du der einzige am Tisch sein wirst, der dieses Regelwerk gelesen hat. Das bedeutet, dass du zugleich Lehrer, Manager und Schiedsrichter sein musst. Besonders wichtig könnte es sein, dass du in der Lage bist, zu erklären, wofür die vielen Attribute genutzt werden können und welche Harme und Wohle deine Spielenden vielleicht am ehesten nutzen wollen könnten.
 
 **Ein guter GM lässt die Regeln nicht das Spiel aufhalten.** Regeln sind wichtig, aber wichtiger noch ist es, dass alle am Tisch Spaß haben. Vor allem wenn ihr gerade erst in Open Legend startet, könntest du geneigt sein, häufig das Spiel zu pausieren und Regeln nachzuschlagen. Ignoriere diesen Drang. Epische Geschichten können allein mit der Kernmechanik entstehen. Arbeite in euren ersten paar Sitzungen zunächst so gut es geht aus dem Gedächtnis und mach dir Notizen, was du später noch einmal nachschlagen solltest. Falls es Unstimmigkeiten zwischen den Beteiligten gibt, gib einer Person die Aufgabe, die Regel nachzuschlagen, während alle anderen weiterspielen.
 
@@ -121,7 +121,7 @@ Sobald du genug Material hast, um loszulegen, sammelst du deine Freunde ein, kre
 ## Die Spielenden belohnen
 Der Kitzel des Abenteuers, die Befriedigung bei der Entwicklung des eigenen Charakters und die Freude, wenn ein Abenteuer erfolgreich beendet wurde, sind alle intrinsische Belohnungen, die Spielende an den Tisch zurücklocken. Trotz dieser Gründe werden deine Spielenden auch ganz normale extrinsische Motivation wertschätzen. In Open Legend gibt es diese Belohnungen normalerweise in zwei Formen: Wohlstand und Macht.
 ### EP vergeben
-In Open Legend ist der normale Weg, wie Spielende mächtiger werden, das Erlangen von EP und Aufsteigen von Leveln, wodurch sie ihre Attributwerte erhöhen und neue Fertigkeiten, Flüche und Segen erlangen können. Jeder Punkt EP, den Spielende erhalten, gibt 1 Fertigkeitenpunkt und 3 Attributpunkte. Alle 3 EP steigen Charaktere ein Level auf. 
+In Open Legend ist der normale Weg, wie Spielende mächtiger werden, das Erlangen von EP und Aufsteigen von Leveln, wodurch sie ihre Attributwerte erhöhen und neue Fertigkeiten, Harme und Wohle erlangen können. Jeder Punkt EP, den Spielende erhalten, gibt 1 Fertigkeitenpunkt und 3 Attributpunkte. Alle 3 EP steigen Charaktere ein Level auf. 
 
 Anstatt andauernd verschiedene EP anhand von Gegnertyp oder Art einer Herausforderung zu vergeben, benutzt Open Legend eine simple Methode um festzustellen, wann Spielende aufleveln sollten: der GM. Fertig. Du kannst entscheiden, wann deine Spielenden mehr Macht erlangen. Hier sind einige Methoden zu entscheiden, wann man EP vergeben könnte:
 
@@ -246,25 +246,25 @@ Nutze die Tabelle *NPC Einfacher Aufbau*, um die wichtigsten Werte des NPCs fest
 | 20        | 48 - 60       | 24 - 30        | 10                  | 9                     |
 
 Sobald du die grundlegenden Werte notiert hast, wähle ein paar der folgenden Fertigkeiten, um deinem NPC Angriffe und besondere Fähigkeiten zu geben. Diese Fertigkeitenbeschreibungen sind vereinfachte Versionen aus der Liste, die du über Kapitel 4 findest. Du kannst auch jede Fertigkeit aus Kapitel 4 wählen, wenn sie für die Handlung passt, die der NPC erzählt. Einige der Einträge hier sind nur für NPCs verfügbar, die vom GM kontrolliert werden, nicht für Spielercharaktere.
-- **Angriffsspezialisierung (Grad anhand des NPC-Levels, max. 9):** Du hast Vorteil 1 pro Grad für eine Art Attacke. Dieser Bonus zählt nicht für Fluchattacken und Segenswirken.
-- **Fluchfokus:** Wähle einen Fluch, den du wirken kannst. Wann immer ein Angriff mit Schaden 5 oder mehr Schaden zufügt, kannst du automatisch diesen Fluch wirken. Wenn du den Fluch mit einer normalen Fluchattacke wirkst, hast du Vorteil 2 auf den Wurf.
-- **Überragender Fluchfokus (nur für GM verfügbar):** Wähle einen Fluch, den du wirken kannst. Wann immer ein Angriff mit Schaden irgendwelchen Schaden zufügt, kannst du automatisch den Fluch wirken. Wenn du den Fluch mit einer normalen Fluchattacke wirkst, hast du Vorteil 3 auf den Wurf.
-- **Fluchresistenz (Grad 1 - 2, deine Wahl, nur für GM verfügbar):** Wähle einen Fluch und erhalte die folgenden Effekte:
-	- **Grad 1:** Erhalte +5 auf deine Verteidigung gegen den gewählten Fluch.
-	- **Grad 2:** Du hast Immunität gegen den gewählten Fluch.
-- **Segenfokus (Grad 1 - 3, deine Wahl):** Wähle einen Segen, den du wirken kannst und erhalte die folgenden Effekte:
-	- **Grad 1:** Wenn du den gewählten Segen auf ein einziges Ziel wirkst, hast du automatisch Erfolg und musst keinen Aktionswurf dafür machen. Du kannst den Segen auf jedem Kraftlevel nutzen, das du maximal mit deinen Attributen nutzen kannst. Falls du nicht ein einziges Ziel hast, sondern mehrere, dann musst du den Aktionswurf machen, hast aber Vorteil 2.
-	- **Grad 2:** Du erhälst Vorteil 3 auf deinen Aktionswurf, wenn du mehrere Ziele hast. Zusätzlich kannst du den Segen um eine Einheit schneller oder einfacher wirken, als normal. Im folgenden wird dargestellt, welche normale Wirkzeit mit dieser Fertigkeit wie verringert wird:
+- **Angriffsspezialisierung (Grad anhand des NPC-Levels, max. 9):** Du hast Vorteil 1 pro Grad für eine Art Attacke. Dieser Bonus zählt nicht für Harmattacken und Wohlwirken.
+- **Harmfokus:** Wähle einen Harm, den du wirken kannst. Wann immer ein Angriff mit Schaden 5 oder mehr Schaden zufügt, kannst du automatisch diesen Harm wirken. Wenn du den Harm mit einer normalen Harmattacke wirkst, hast du Vorteil 2 auf den Wurf.
+- **Überragender Harmfokus (nur für GM verfügbar):** Wähle einen Harm, den du wirken kannst. Wann immer ein Angriff mit Schaden irgendwelchen Schaden zufügt, kannst du automatisch den Harm wirken. Wenn du den Harm mit einer normalen Harmattacke wirkst, hast du Vorteil 3 auf den Wurf.
+- **Harmresistenz (Grad 1 - 2, deine Wahl, nur für GM verfügbar):** Wähle einen Harm und erhalte die folgenden Effekte:
+	- **Grad 1:** Erhalte +5 auf deine Verteidigung gegen den gewählten Harm.
+	- **Grad 2:** Du hast Immunität gegen den gewählten Harm.
+- **Wohlfokus (Grad 1 - 3, deine Wahl):** Wähle ein Wohl, das du wirken kannst und erhalte die folgenden Effekte:
+	- **Grad 1:** Wenn du das gewählte Wohl auf ein einziges Ziel wirkst, hast du automatisch Erfolg und musst keinen Aktionswurf dafür machen. Du kannst das Wohl auf jedem Kraftlevel nutzen, das du maximal mit deinen Attributen nutzen kannst. Falls du nicht ein einziges Ziel hast, sondern mehrere, dann musst du den Aktionswurf machen, hast aber Vorteil 2.
+	- **Grad 2:** Du erhälst Vorteil 3 auf deinen Aktionswurf, wenn du mehrere Ziele hast. Zusätzlich kannst du das Wohl um eine Einheit schneller oder einfacher wirken, als normal. Im folgenden wird dargestellt, welche normale Wirkzeit mit dieser Fertigkeit wie verringert wird:
 		- 1 große Aktion => 1 kleine Aktion
 		- 1 Fokusaktion => 1 große Aktion
 		- 1 Minute => 1 Fokusaktion
 		- 10 Minuten => 1 Minute
 		- 1 Stunde => 10 Minuten
 		- 8 Stunden => 1 Stunde
-		- 1 kleine Aktion => Segen kann einmal als kleine Aktion gewirkt werden und wenn gewünscht noch einmal mit einer Bewegungs- oder großen Aktion
-	- **Grad 3:** Der Effekt auf Grad 3 basiert auf der Dauer des Segens:
-		- **Wenn der Segen eine Dauer von "Aufrechterhalten verlängert" hat,** erhälst du Vorteil 4 auf deinen Aktionswurf wenn du nicht ein einziges Ziel hast. Zusätzlich ist der Segen für den Charakter selbst immer automatisch aktiv und ihn aufrechtzuhalten nutzt eine kostenlose Aktion statt einer kleinen Aktion. Falls der Segen irgendwie gebrochen wird, kannst du ihn ohne andere Regeln, die dem widersprechen, mit einer kostenlosen Aktion neu wirken.
-		- **Wenn der Segen eine andere Dauer hat,** erhälst du Vorteil 5 auf deinen Aktionswurf, wenn du kein einzelnes Ziel hast.
+		- 1 kleine Aktion => Wohl kann einmal als kleine Aktion gewirkt werden und wenn gewünscht noch einmal mit einer Bewegungs- oder großen Aktion
+	- **Grad 3:** Der Effekt auf Grad 3 basiert auf der Dauer des Wohles:
+		- **Wenn das Wohl eine Dauer von "Aufrechterhalten verlängert" hat,** erhälst du Vorteil 4 auf deinen Aktionswurf wenn du nicht ein einziges Ziel hast. Zusätzlich ist das Wohl für den Charakter selbst immer automatisch aktiv und ihn aufrechtzuhalten nutzt eine kostenlose Aktion statt einer kleinen Aktion. Falls das Wohl irgendwie gebrochen wird, kannst du es ohne andere Regeln, die dem widersprechen, mit einer kostenlosen Aktion neu wirken.
+		- **Wenn das Wohl eine andere Dauer hat,** erhälst du Vorteil 5 auf deinen Aktionswurf, wenn du kein einzelnes Ziel hast.
 - **Schadenresistenz (Grad 1 - 4, deine Wahl, nur für GM verfügbar):** Wähle entweder *kraftvoll* oder *präzise* und erhalte die folgenden Vorzüge:
 	- **Grad 1:** Deine Verteidigungen gegen den gewählten Schadenstyp sind um 3 erhöht.
 	- **Grad 2:** Deine Verteidigungen gegen den gewählten Schadenstyp sind um 6 erhöht.
@@ -293,20 +293,20 @@ Sobald du die grundlegenden Werte notiert hast, wähle ein paar der folgenden Fe
 	- **Grad 9** - Vorteil 9, bis zu 25 tödlicher Schaden
 - **Multi-Attackenspezialisierung (Grad anhand des NPC-Levels, max. 6):** Bevor du angreifst, kannst ein ansagen, dass du eine Multi-Attacke ausführst und wie viele extra-Angriffe du machen möchtest. **Alle** deine Angriffe in dieser Runde leiden unter Nachteil gleich 3 Mal der Anzahl **zusätzlicher** Angriffe (bei 2 Attacken hast du also Nachteil 3, bei 3 Attacken Nachteil 6). Für jeden Grad dieser Fertigkeit, reduziere den totalen Nachteil für eine Multi-Attacke um 1.
 
-	Du kannst deine Angriffe für eine beliebige Kombination aus Angriffen mit Schaden und Fluchattacken nutzen, aber du kannst sie nicht zum Wirken von Segen nutzen. Führe jede Attacke einzeln aus, wobei du Multi-Zielen weiterhin normal nutzen kannst. Du kannst dich zwischen den einzelnen Angriffen bewegen oder auch mehrfach das gleiche Ziel angreifen.
+	Du kannst deine Angriffe für eine beliebige Kombination aus Angriffen mit Schaden und Harmattacken nutzen, aber du kannst sie nicht zum Wirken von Wohlen nutzen. Führe jede Attacke einzeln aus, wobei du Multi-Zielen weiterhin normal nutzen kannst. Du kannst dich zwischen den einzelnen Angriffen bewegen oder auch mehrfach das gleiche Ziel angreifen.
 
 	Die Anzahl an extra-Attacken, die du mit dieser Fertigkeit deklarieren kannst ist auf 1 + Hälfte deines Levels limitiert, wobei aufgerundet wird. So ist das Limit 2 extra-Attacken auf Level 1, 3 extra-Attacken auf Level 3 und 6 extra-Attacken auf Level 9.
-- **Multi-Fluchspezialisierung:** Wähle zwei Flüche, die du wirken kannst und die das gleiche Attribut nutzen. Du kannst beide Flüche mit einer einzigen Attacke wirken. Der nötige Attributwert um die beiden Flüche zu kombinieren ist gleich der Summe ihrer Kraftlevel (um z.B. *niedergeschlagen* und *verlangsamt* zu kombinieren die beide Kraftlevel 1 haben, bräuchtest du einen passenden Attributwert von 2). Falls die Flüche jeweils gegen unterschiedliche Verteidigungen gehen, dann wählst du aus, welche Verteidigung die kombinierte Attacke nutzt. Bei einem erfolgreichen Wurf erleidet das Ziel beide Flüche. Beide sind unabhängig voneinander aufrechterhalten und gegen sie muss separat widerstanden werden.
+- **Multi-Harmspezialisierung:** Wähle zwei Harme, die du wirken kannst und die das gleiche Attribut nutzen. Du kannst beide Harme mit einer einzigen Attacke wirken. Der nötige Attributwert um die beiden Harme zu kombinieren ist gleich der Summe ihrer Kraftlevel (um z.B. *niedergeschlagen* und *verlangsamt* zu kombinieren die beide Kraftlevel 1 haben, bräuchtest du einen passenden Attributwert von 2). Falls die Harme jeweils gegen unterschiedliche Verteidigungen gehen, dann wählst du aus, welche Verteidigung die kombinierte Attacke nutzt. Bei einem erfolgreichen Wurf erleidet das Ziel beide Harme. Beide sind unabhängig voneinander aufrechterhalten und gegen sie muss separat widerstanden werden.
 - **Multi-Ziel Angriffsspezialisierung (Grad anhand des NPC-Levels, max. 5):** Wähle eine der drei folgenden Angriffsarten als Fokus für diese Fertigkeit: Nahkampf, Fernkampf, Fläche. Für jeden Grad ist dein Nachteil beim Nutzen von Multi-Ziel Attacken in dieser Art Angriff um 1 reduziert.
-- **Verstärkter Fluch:** Wähle einen Fluch, den du wirken kannst und der die Dauer "Widerstehen beendet" hat. Wenn ein Ziel einen Widerstandswurf gegen diesen Fluch macht, hat es Nachteil 1.
+- **Verstärkter Harm:** Wähle einen Harm, den du wirken kannst und der die Dauer "Widerstehen beendet" hat. Wenn ein Ziel einen Widerstandswurf gegen diesen Harm macht, hat es Nachteil 1.
 - **Resilient:** Wann immer du einen Widerstandswurf machst, hast du Vorteil 1 darauf.
-- **Fähigkeitsspezialisierung[?] (Grad anhand des NPC-Levels, max. 9):** Du hast mit einem gewählten Attribut Vorteil 1 pro Grad dieser Fertigkeit auf Würfe außer Angriffswürfe oder Würfe um Flüche oder Segen zu wirken.
-- **Überragende Konzentration (Grad 1 - 3, deine Wahl):** Wann immer du die kleine Aktion *Segen aufrechterhalten* nutzt, kannst du einen weiteren Segen pro Grad dieser Fertigkeit aufrechterhalten.
+- **Fähigkeitsspezialisierung[?] (Grad anhand des NPC-Levels, max. 9):** Du hast mit einem gewählten Attribut Vorteil 1 pro Grad dieser Fertigkeit auf Würfe außer Angriffswürfe oder Würfe um Harme oder Wohle zu wirken.
+- **Überragende Konzentration (Grad 1 - 3, deine Wahl):** Wann immer du die kleine Aktion *Wohl aufrechterhalten* nutzt, kannst du ein weiteres Wohl pro Grad dieser Fertigkeit aufrechterhalten.
 
 > #### Beispiel Einfacher NPC Aufbau: Sumpfschlangen
 > Lass uns zum Beispiel von vorhin zurückkehren und mit dem einfachen Aufbau die giftigen Schlangen im Sumpf erstellen. Die Spielergruppe ist zum Beispiel Level 3, sodass wir die Zeile der Tabelle für NPC auf Level 3 nutzen. Wir entscheiden, dass die Schlangen nicht besonders schwer zu töten sein sollten, also schauen wir in die Tabelle und entscheiden uns für das untere Ende der möglichen TP-Spanne, spezifisch 14 TP für die Schlangen. Schlangen sind schnell, mäßig zäh und haben keinen starken Willen. Wir entscheiden uns für hohe Deckung: 18, mittlere Zähigkeit: 15 und niedrige Entschlossenheit: 12. Wir geben den Schlangen ein primäres Attribut, in diesem Fall Beweglichkeit 5 und als sekundäre Attribute mit Wert 4 entscheiden wir uns für Wahrnehmung, Konstitution und Täuschung.
 > 
-> Für die Fertigkeiten wollen wir die Gefahr des Gifts der Schlangen hervorheben, also wählen wir *Multi-Fluchspezialisierung* und *Fluchfokus*, damit sie sowohl *betäubt* als auch *anhaltender Schaden* zufügen können, wann immer sie erfolgreich einen Angriff mit Schaden mit 5 oder mehr Schaden durchführen.
+> Für die Fertigkeiten wollen wir die Gefahr des Gifts der Schlangen hervorheben, also wählen wir *Multi-Harmspezialisierung* und *Harmfokus*, damit sie sowohl *betäubt* als auch *anhaltender Schaden* zufügen können, wann immer sie erfolgreich einen Angriff mit Schaden mit 5 oder mehr Schaden durchführen.
 
 #### Boss-NPCs
 Ein Boss ist ein einzelner gegnerischer NPC, der aufgrund außergewöhnlicher Kampffertigkeit in der Lage ist, die ganze Spielergruppe alleine zu bekämpfen. Bosse können epische Feinde sein, die von der Gruppe die gesamte Kampagne verfolgt wurden, wie der Lich-König Akrakus, oder aber monströse Biester ohne viel Hintergrundgeschichte, die aber als dramatischer Punkt in einem größeren Abenteuer dienen, zum Beispiel ein Brückentroll, der der Gruppe ihren Weg versperrt. Andere Beispiele umfassen Kraken, legendäre Revolverschurken, Drachen oder Generäle feindlicher Armadas.
@@ -432,7 +432,7 @@ Als GM musst du dir keine Sorgen machen, eine unmögliche Gefahr in den Weg dein
 ## Attribute und Aktionswürfe im Spiel
 Der größte Fokus dieses Kapitels bisher war es, GMs dabei zu helfen, ihre Spiele vorzubereiten: Kampagnen skizzieren, Abenteuer schreiben und Kampfszenarien erstellen. Letztendlich wird all diese Arbeit ihre Früchte tragen und es wird Zeit, die Sitzung mit deinen Spieler\*innen zu leiten. Um diesen Kapitel abzuschließen, wollen wir dir noch etwas Inspiration für eine der größten Herausforderungen als GM in Open Legend mitgeben: Aktionswürfe interpretieren.
 
-Wie zuvor beschrieben, machst du einen Aktionswurf mit einem passenden Attribut, wann immer du eine bedeutende Handlung durchführen möchtest. Manchmal wird das Ergebnis klar in den Regeln definiert, zum Beispiel bei Angriffen, Flüchen oder Segen. Häufig wirst du aber Aktionen versuchen, die von den Regeln keine klaren Resultate definiert bekommen haben. In diesem Abschnitt findest du Beispiele dieser Art von Aktion mit allen verschiedenen Attributen und einige Vorschläge, wie du "Erfolg mit einem Haken" und "Fehlschlag, aber die Geschichte schreitet voran" interpretieren könntest, wenn die Würfel der Gruppe mal nicht gewogen sind.
+Wie zuvor beschrieben, machst du einen Aktionswurf mit einem passenden Attribut, wann immer du eine bedeutende Handlung durchführen möchtest. Manchmal wird das Ergebnis klar in den Regeln definiert, zum Beispiel bei Angriffen, Harmen oder Wohlen. Häufig wirst du aber Aktionen versuchen, die von den Regeln keine klaren Resultate definiert bekommen haben. In diesem Abschnitt findest du Beispiele dieser Art von Aktion mit allen verschiedenen Attributen und einige Vorschläge, wie du "Erfolg mit einem Haken" und "Fehlschlag, aber die Geschichte schreitet voran" interpretieren könntest, wenn die Würfel der Gruppe mal nicht gewogen sind.
 
 Für jedes Attribut bieten wir drei Beispiele, basierend auf ihrer Schwierigkeit und ihrem Einfluss auf die erzählte Geschichte:
 
@@ -446,7 +446,7 @@ Kraft ist das Attribut reiner körperlicher Stärke. Dein Kraftwert bestimmt dei
 #### Herausfordernder Test der Kraft (HW 15)
 Mitten im Kampf ist ein kleiner Felsen im Weg, sodass Rogar seine Kraft nutzt, um ihn 10 Fuß aus dem Weg zu schieben.
 
-**Erfolg mit einem Haken:** Rogar schafft es, den Fels zu bewegen, allerdings zieht er sich dabei eine Sehne und leidet danach unter dem Fluch *verlangsamt*.
+**Erfolg mit einem Haken:** Rogar schafft es, den Fels zu bewegen, allerdings zieht er sich dabei eine Sehne und leidet danach unter dem Harm *verlangsamt*.
 
 **Fehlschlag, aber die Geschichte schreitet voran:** Rogar ist so auf das Bewegen des Felsens konzentriert, dass er das Paar Goblins nicht bemerkt, die ihn nun flankiert haben.
 #### Heldenhafter Test der Kraft (HW 20)
@@ -486,7 +486,7 @@ Konstitution bestimmt deine Fähigkeit, physischer Belastung zu widerstehen. Tes
 #### Herausfordernder Test der Konstitution (HW 15)
 Scheriff Bates und seine Deputies verfolgen ein Paar Banditen durch die Wüste. Um verlorene Zeit wett zu machen, wollen sie ihren Marsch trotz der sengenden Hitze verschnellern. Der GM ruft Konstitutionswürfe auf, um die Temperatur auszuhalten.
 
-**Erfolg mit einem Haken:** Diejenigen, die ihren Wurf nicht schaffen, können Schritt halten, erleiden aber eine Instanz des Fluches *erschöpft*.
+**Erfolg mit einem Haken:** Diejenigen, die ihren Wurf nicht schaffen, können Schritt halten, erleiden aber eine Instanz des Harmes *erschöpft*.
 
 **Fehlschlag, aber die Geschichte schreitet voran:** Alle, die ihren Wurf verfehlen, können nicht mithalten. Rasten sie nicht, werden sie unweigerlich in Ohnmacht fallen. Die Truppe muss eine schwere Entscheidung treffen: riskieren, dass die Banditen entkommen oder aber die Gruppe aufteilen, sodass die stärkeren Mitglieder weitermarschieren.
 #### Heldenhafter Test der Konstitution (HW 20)
@@ -532,7 +532,7 @@ Kommandantin Grimms Luftschiff, *Die Gefahr*, wird von einem halben Dutzend gegn
 #### Heldenhafter Test der Logik (HW 20)
 Cyril der Android ist in Junkland gestrandet, einer kilometerlangen Insel aus Schrott, die im Ozean vor New L.A. schwimmt. Cyrils Kernbatterie ist schwer beschädigt, sodass seine CPU nur mit halber Leistung laufen kann. Der Android durchforstet die Müllhügel nach genug Ersatzteilen, um eine temporäre Reparatur zusammenzusetzen.
 
-**Erfolg mit einem Haken:** Cyril findet genug Teile, um seine Batterie notdürftig zu reparieren, aber die Materialien sind instabil. Der GM entscheidet, dass Cyril den Fluch *betäubt* erleidet, wann immer er mit seinem d20 eine 5 oder niedriger bei Aktionswürfen wirft. Erst mit besseren Materialien, wird es sich vollständig reparieren können.
+**Erfolg mit einem Haken:** Cyril findet genug Teile, um seine Batterie notdürftig zu reparieren, aber die Materialien sind instabil. Der GM entscheidet, dass Cyril den Harm *betäubt* erleidet, wann immer er mit seinem d20 eine 5 oder niedriger bei Aktionswürfen wirft. Erst mit besseren Materialien, wird es sich vollständig reparieren können.
 
 **Fehlschlag, aber die Geschichte schreitet voran:** Cyril findet nichts nutzbares in den nahen Müllhaufen. Stattdessen findet er ein Paar Technoratten, die seine Verkablung und Panzerplatten mit Gier beobachten.
 #### Epischer Test der Logik (HW 25)
@@ -566,15 +566,15 @@ Willenskraft ist das Attribut der mentalen Widerstandskraft und des Willens. Sie
 #### Herausfordernder Test der Willenskraft (HW 15)
 Sinkende Sonne und seine Kameraden haben sich in der Wüste verirrt. Sie haben seit zwei Tagen kein Essen und Wasser mehr und der GM fragt, wie sie den negativen Konsequenzen der Dehydrierung und des Hungers entgegenwirken wollen. Während die Verbündeten des Mönches ihre Konstitution oder Wandlung nutzen, um der Pein zu widerstehen oder ihre Bedürfnisse zu verändern, zieht sich Sinkende Sonne in die Gefilde seines Meditationsgeistes zurück, wobei er sich auf seine Willenskraft verlässt.
 
-**Erfolg mit einem Haken:** Der Mönch hat teilweise Erfolg. Er kann seinen Hunger von sich gehen lassen, aber nicht seinen Durst, sodass er eine Instanz des Fluches *erschöpft* erleidet.
+**Erfolg mit einem Haken:** Der Mönch hat teilweise Erfolg. Er kann seinen Hunger von sich gehen lassen, aber nicht seinen Durst, sodass er eine Instanz des Harmes *erschöpft* erleidet.
 
 **Fehlschlag, aber die Geschichte schreitet voran:** Das Training von Sinkende Sonne war umfassend, aber vor den Hürden des Moments ist es schwer, sich in den Frieden der Monasterei zurückzuversetzen. Von Hunger und Durst überkommen, erleidet der Mönch *erschöpft 2*.
 #### Heldenhafter Test der Willenskraft (HW 20)
 Tief in der niederen Kammer des Overhill-Asylums finden die Ermittler ein uraltes, außerweltliches Böse, dass die Existenz der physischen Ebene selbst bedroht. Nicht in der Lage, ihr Verständnis der physischen Realität mit den gleitenden Massen der materielosen Gestalt vor sich in Einklang zu bringen, ist die Gruppe in Gefahr, ihren Halt der Realität zu verlieren. Der GM fordert von allen Willenskraftwürfe.
 
-**Erfolg mit einem Haken:** Die Spielercharaktere sind von überwältigendem aber temporären Horror gepackt. Während sie im Asylum bleiben, leiden sie unter einer speziellen Form des *demoralisiert* Fluches (Kraftlevel 3). Er kann nicht widerstanden werden, bis sie das Asylum verlassen haben.
+**Erfolg mit einem Haken:** Die Spielercharaktere sind von überwältigendem aber temporären Horror gepackt. Während sie im Asylum bleiben, leiden sie unter einer speziellen Form des *demoralisiert* Harmes (Kraftlevel 3). Er kann nicht widerstanden werden, bis sie das Asylum verlassen haben.
 
-**Fehlschlag, aber die Geschichte schreitet voran:** Zusätzlich zum Fluch *demoralisiert* erhalten die Spielercharaktere auch noch die Charakterschwäche *psychotisch*[?], bis sie einen Weg finden, ihr Verständnis der Realität wieder mit dem Rest des Universums in Einklang zu bringen.
+**Fehlschlag, aber die Geschichte schreitet voran:** Zusätzlich zum Harm *demoralisiert* erhalten die Spielercharaktere auch noch die Charakterschwäche *psychotisch*[?], bis sie einen Weg finden, ihr Verständnis der Realität wieder mit dem Rest des Universums in Einklang zu bringen.
 #### Epischer Test der Willenskraft (HW 25)
 Während er tief in Netzwerk eingeklinkt ist, trifft Snitch auf eine Datei, die von Prime - angeblich dem ersten Klinker des Netzwerks - verschlüsselt wurde. Prime bemerkt den Einbruch, doch der übermütige Snitch entscheidet sich, sich direkt mit der Legende zu messen, anstatt auszuklinken. Snitch wendet seine gesamte Willenskraft gegen Prime auf, um dessen Kontrolle über die Firewall zu brechen.
 
@@ -598,7 +598,7 @@ Adele scannt ihren Multipass, um im Bürogebäude Eintritt zu Level 5 bekommen, 
 #### Epischer Test der Täuschung (HW 25)
 Der Chronomancer Rapture hat Sarge und seine Crew gefesselt, während er sich darauf vorbereitet, seine gefürchete Zeitkanone auf die nichts ahnende Kolonie unter ihnen abzufeuern. Um den Angriff mit Energie zu versorgen, läd Rapture den Voidkristall, den er vor kurzem von den Helden zurückgestohlen hat. In einem letzten Versuch, Zeit zu schinden, lügt Sarge, dass sich die Balken biegen: "Versuchs ruhig, Rapture. Den Kristall haben wir auf Alpha Prime ausgetauscht. Ich kanns kaum abwarten, zu sehen, was mit deiner Zeitkanone passiert, wenn du sie mit dem Ding da drin abfeuerst. Das ganze Schiff wird uns um die Ohren fliegen!"
 
-**Erfolg mit einem Haken:** Rapture wird unsicher und bricht den Ladevorgang der Kanone ab, verfällt aber über die Täuschung in solche Rage, dass er einem seiner Leutnants befiehlt, Sarges Kehle durchzuschneiden und so den Fluch *tot* zu applizieren.
+**Erfolg mit einem Haken:** Rapture wird unsicher und bricht den Ladevorgang der Kanone ab, verfällt aber über die Täuschung in solche Rage, dass er einem seiner Leutnants befiehlt, Sarges Kehle durchzuschneiden und so den Harm *tot* zu applizieren.
 
 **Fehlschlag, aber die Geschichte schreitet voran:** Rapture durchschaut den Blöff und gibt sofort den Befehl zu feuern.
 ### Überzeugung
@@ -708,13 +708,13 @@ Gizmo macht sich daran, ein Türschloss mit seinem Taschenmaterielöscher zu umg
 
 **Erfolg mit einem Haken:** Das Werkzeug wirkt, überhitzt aber im Prozess aufgrund von Gizmos verschrobenen Wissenschaftskenntnissen. Er kann es nicht noch einmal benutzen, bis er Zeit und Material gefunden hat, es zu reparieren.
 
-**Fehlschlag, aber die Geschichte schreitet voran:** Das Werkzeug überhitzt, bevor es genug Energie aufbauen kann und zerbirst in Gizmos Händen. Er erleidet den *geblendet* Fluch und der lauten Knall ruft die Wachen am Ende des Korridors auf den Plan.
+**Fehlschlag, aber die Geschichte schreitet voran:** Das Werkzeug überhitzt, bevor es genug Energie aufbauen kann und zerbirst in Gizmos Händen. Er erleidet den *geblendet* Harm und der lauten Knall ruft die Wachen am Ende des Korridors auf den Plan.
 #### Heldenhafter Test des Vergehens (HW 20)
 Balthazar ist tief in das Grab des Aliki eingedrungen, um zu angeblich darin schlummernden Magien des Todes Zugang zu erlangen. Der Nekromant trifft auf den Schatten des Aliki selbst, der von Balthazar verlangt, seine Macht über die Nacht zu demonstrieren oder sonst selbst zu sterben. Balthazar sammelt seine Magie, um die Schatten in der Kammer zu manipulieren und nach seinem Willen zu formen und zu bewegen.
 
 **Erfolg mit einem Haken:** Die Magie wirkt, doch der Geist ist unbeeindruckt. Aliki animiert die Schatten, den Nekromanten anzugreifen. Nun will er, dass Balthazar seinen Wert durch das Bezwingen der Schatten beweist.
 
-**Fehlschlag, aber die Geschichte schreitet voran:** Balthazars Magie wirkt nicht und die Schatten beugen sich ihm nicht. Mit einem manischen Lachen greift Aliki den Nekromanten an, indem er versucht, den *tot* Fluch zu wirken.
+**Fehlschlag, aber die Geschichte schreitet voran:** Balthazars Magie wirkt nicht und die Schatten beugen sich ihm nicht. Mit einem manischen Lachen greift Aliki den Nekromanten an, indem er versucht, den *tot* Harm zu wirken.
 #### Epischer Test des Vergehens (HW 25)
 Xu Ming und sein Team aus Überlebenden sind mit ihrem Sternenkreuzer zu einem verlassenen Sektor der Galaxis gereist, der eine seltsame Energiesignatur verströmt. Als sie auf der Oberfläche ankommen, entdecken sie Horden alptraumhafter Aliens, die durch ein riesiges Portal einströmen. Während der Rest des Teams die anrückende Horde niedermäht, konzentriert der nichtsberührte Psioniker Stryx sich darauf, höhere Nichtsenergien zu rufen, um das Portal zu schließen.
 
@@ -738,11 +738,11 @@ Auf einer abgelegenen Djungelinsel gestrandet finden Allister und seine Kamerade
 #### Epischer Test des Einflusses (HW 25)
 Das einzige, was zwischen Sir Thomas und dem Schwert des Lichts steht, ist ein untoter Skelettdrache namens Char. Char misst den Paladin mit einem Rätselraten und versucht dabei, Thomas mit seiner Wyrmzunge zu verzaubern. Sir Thomas, der nie mit Worten gewandt war, verlässt sich stattdessen auf seine heilige Magie, indem er die Macht seiner Göttin leitet, um Furcht in das Herz des untoten Drachen zu schlagen und ihn zu zwingen, sein Wortspiel zu beenden.
 
-**Erfolg mit einem Haken:** Sir Thomas Gebet wurde erhört, aber Chars Macht ist größer als erwartet. Der Drache schafft es nicht, den Paladin seinem Willen zu unterwerfen, aber trotzdem erleidet dieser den Fluch *betäubt*, als der Kampf beginnt.
+**Erfolg mit einem Haken:** Sir Thomas Gebet wurde erhört, aber Chars Macht ist größer als erwartet. Der Drache schafft es nicht, den Paladin seinem Willen zu unterwerfen, aber trotzdem erleidet dieser den Harm *betäubt*, als der Kampf beginnt.
 
 **Fehlschlag, aber die Geschichte schreitet voran:** Thomas Göttin ist in dieser feuchten Grube weit weg und er kann nicht genug Macht leiten, um die Wyrmzunge des Drachen zu überwinden. Ganz im Gegenteil, hat sein Versuch dem Drachen tiefe Einsicht in sein Wesen und seine Verbindung zur Göttin gegeben. Als der Kampf beginnt, erleidet Thomas *betäubt* und der Drache hat auf alle Aktionswürfe im Kampf Vorteil 1 gegen den Paladin.
 ### Bewegung
-Bewegung behandelt übernatürliche Wege, sich zu bewegen, zu reisen und Geschwindigkeit zu manipulieren - sowie Sekundäreffekte, die an diese Konzepte gebunden sind. Bewegung wird meist benutzt, um Segen wie *fliegen*, *Hast* und *teleportieren* zu benutzen. Der GM kann aber auch Bewegungswürfe fordern, wenn der Erfolg bei einer Aktion nicht vom Wirken eines Segens abhängt, sondern von den Umständen der Aktion. Die unteren Beispiele verdeutlichen dieses Prinzip.
+Bewegung behandelt übernatürliche Wege, sich zu bewegen, zu reisen und Geschwindigkeit zu manipulieren - sowie Sekundäreffekte, die an diese Konzepte gebunden sind. Bewegung wird meist benutzt, um Wohle wie *fliegen*, *Hast* und *teleportieren* zu benutzen. Der GM kann aber auch Bewegungswürfe fordern, wenn der Erfolg bei einer Aktion nicht vom Wirken eines Wohles abhängt, sondern von den Umständen der Aktion. Die unteren Beispiele verdeutlichen dieses Prinzip.
 #### Herausfordernder Test der Bewegung (HW 15)
 Viktoria versucht, eine Ablenkung zu schaffen, damit ihr Verbündeter Nick von den zwei Müllhaldenhooligans entkommen kann, die ihn mit ihrer Waffe bedrohen. Sie zapft ihre telekinetischen Kräfte an, um einen Sturm aus Schrott zu erzeugen, um die Aufmerksamkeit der Hooligans von Nick wegzuziehen.
 
@@ -760,7 +760,7 @@ Ace steuert den Fluchtpod, mit dem seine Crew aus dem InterGal HQ ausgebrochen i
 
 **Erfolg mit einem Haken:** Ace schafft es, alle Sicherheitsfeatures des Pods zu umgehen und alle Energie nur in den Antrieb zu leiten. Die Kapsel entkommt dem Traktorstrahl aber ihr Navigationssystem wird dabei versengt. Die Crew hat nicht länger die Kontrolle über das Schiff und muss im All treiben, bis sie eine Reparatur hinkriegen oder Hilfe kommt.
 
-**Fehlschlag, aber die Geschichte schreitet voran:** Ace schafft es nicht, die Sicherheitssysteme der Kapsel zu umgehen und der Fluchpod wird vom InterGal HQ wieder verschluckt. Die Crew hat nur Minuten, bis sie wieder von galaktischen Truppen umzingelt sein wird.
+**Fehlschlag, aber die Geschichte schreitet voran:** Ace schafft es nicht, die Sicherheitssysteme der Kapsel zu umgehen und der Fluchtpod wird vom InterGal HQ wieder verschluckt. Die Crew hat nur Minuten, bis sie wieder von galaktischen Truppen umzingelt sein wird.
 ### Vorwissen
 Vorwissen ist das Attribut des Wissens, welches durch übernatürliche Quellen erlangt wird. Beispiele umfassen übernatürliche Sinne, Prophezeiungsmagie oder einfach hyperausgebildete normale Sinne, die übernatürlich erscheinende Rückschlüsse zulassen. Du wirfst auf Vorwissen, wenn du versuchst, Details oder Wissen auf Wegen zu erlangen oder mit Wesen zu kommunizieren, die für normale Kreaturen unmöglich wären.
 #### Herausfordernder Test des Vorwissens (HW 15)
@@ -778,7 +778,7 @@ Während Shane den Doktor durch Payne Manor jagt, schlüpft dieser in einen der 
 #### Epischer Test des Vorwissens (HW 25)
 Ruby ermittelt im Mordfall des Bürgermeisters. Es gibt keine offensichtlichen physischen Anzeichen, die den Tod erklären würden, also berührt sie die Hand des Bürgermeisters und versucht, mit seinem Geist zu kommunizieren und von ihm die Wahrheit zu erfahren.
 
-**Erfolg mit einem Haken:** Ruby kann kurz mit dem Bürgermeister sprechen. Ihre Verbindung zu der verschreckten Seele ist wider ihrem Willen bleibend. Sie wird durch sein Hoffen auf Rache gebeutelt, bis der Killer gestellt ist. Ruby erleidet eine Instanz des Fluches *erschöpft*, bis der Geist Ruhe finden kann.
+**Erfolg mit einem Haken:** Ruby kann kurz mit dem Bürgermeister sprechen. Ihre Verbindung zu der verschreckten Seele ist wider ihrem Willen bleibend. Sie wird durch sein Hoffen auf Rache gebeutelt, bis der Killer gestellt ist. Ruby erleidet eine Instanz des Harmes *erschöpft*, bis der Geist Ruhe finden kann.
 
 **Fehlschlag, aber die Geschichte schreitet voran:** Bei ihrem Versuch, den Toten zu kontaktieren, trifft Ruby aus Versehen auf etwas weit erschreckenderes. Ein untoter Schatten nimmt vor ihr Gestalt an und greift an.
 ### Schutz

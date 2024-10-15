@@ -72,9 +72,9 @@ Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an 
 
 **Eigenschaften** sind Qualitäten, die jede Waffe einzigartig macht. Wie die Eigenschaften spielmechanisch funktionieren, ist unten beschrieben.
 
-**Flüche**[?] geben an, was für Flüche von der Waffe besonders gut angewendet werden können. Wenn ein Angreifer die Waffe benutzt, um einen der aufgelisteten Flüche zu wirken, kann er das Kraftlevel des Fluches für diese Attacke als eins niedriger ansehen, um zu prüfen, ob er den für den Fluch nötigen Attributwert hat. Außerdem bekommst du bei einer Fluchattacke mit dieser Waffe Vorteil 1 beim Wurf. Einige besondere Waffen führen Flüche auf, die normalerweise nicht mit den Attributen Kraft oder Beweglichkeit gewirkt werden können. In diesem Fall kann das Attribut, welches für den Angriff genutzt wird, auch benutzt werden, um den Fluch zu wirken.
+**Harme**[?] geben an, was für Harme von der Waffe besonders gut angewendet werden können. Wenn ein Angreifer die Waffe benutzt, um einen der aufgelisteten Harme zu wirken, kann er das Kraftlevel des Harmes für diese Attacke als eins niedriger ansehen, um zu prüfen, ob er den für den Harm nötigen Attributwert hat. Außerdem bekommst du bei einer Harmattacke mit dieser Waffe Vorteil 1 beim Wurf. Einige besondere Waffen führen Harme auf, die normalerweise nicht mit den Attributen Kraft oder Beweglichkeit gewirkt werden können. In diesem Fall kann das Attribut, welches für den Angriff genutzt wird, auch benutzt werden, um den Harm zu wirken.
 #### Waffen & Geräte
-| Beispiele                                       | Kategorie                             | WW  | Eigenschaften                                                                | Flüche                                                     |
+| Beispiele                                       | Kategorie                             | WW  | Eigenschaften                                                                | Harme                                                      |
 | ----------------------------------------------- | ------------------------------------- | --- | ---------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | unbewaffneter Schlag                            | Einhand Nahkampf                      | 0   | kraftvoll, präzise, schnell                                                  | betäubt, niedergeschlagen                                  |
 | Bowiemesser, Shiv[?], Multitool                 | Einhand Nahkampf                      | 2   | präzise, schnell                                                             | anhaltender Schaden, entwaffnet                            |
@@ -115,11 +115,11 @@ Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an 
 
 **Verzögert bereit** - Diese Waffe kann nur einmal pro Runde benutzt werden. Außerdum muss der Nutzer vor einem Angriff eine Bewegungsaktion ausgeben, um die Waffe bereit zu machen.
 
-**Kraftvoll** - Diese Waffe kann Angriffe mit dem Kraft-Attribut ausführen und Flüche wirken, die über Kraft als Attribut genutzt werden.
+**Kraftvoll** - Diese Waffe kann Angriffe mit dem Kraft-Attribut ausführen und Harme wirken, die über Kraft als Attribut genutzt werden.
 
 **Schwer** - Diese Waffe ist besonders schwer zu tragen. Du kannst maximal eine Anzahl schwerer Items tragen, die gleich deinem Kraftwert ist.
 
-**Präzise** - Diese Waffe kann Angriffe mit dem Beweglichkeit-Attribut ausführen und Flüche wirken, die über Beweglichkeit als Attribut genutzt werden.
+**Präzise** - Diese Waffe kann Angriffe mit dem Beweglichkeit-Attribut ausführen und Harme wirken, die über Beweglichkeit als Attribut genutzt werden.
 
 **Lang**[?] - Diese Waffe erhöht die Nahkampfreichweite der Kreatur um 5'.
 
@@ -167,7 +167,7 @@ Die *Rüstung*-Tabelle fasst die folgenden Eigenschaften jeder Art von Rüstung 
 | Yoroirüstung, Plattenpanzer, Riot-Suit[?]     | Schwer | 2   | 3                | 3                  | 5'                    |
 | Exo-Rüstung[?], Elfischer Plattenpanzer       | Schwer | 4   | 1                | 3                  | 0                     |
 ### Rüstung an- und ablegen
-Rüstung anzulegen oder abzulegen dauert für leichte Rüstung 1 Runde, für mittlere Rüstung 1 Minute und 10 Minuten für schwere Rüstung. In mittlerer oder schwerer Rüstung zu schlafen bedarf spezielles Training. Ohne die Fertigkeit *Rüstungsvertrautheit*[?] leidet dein Charakter nach dem Schlafen in mittlerer oder schwerer Rüstung unter einer Instanz des Fluchs *erschöpft*[?]. Dieser gibt deinem Charakter Nachteil 1 auf alle nicht-Angriffswürfe, bis er eine volle Nacht Schlaf bekommen hat.
+Rüstung anzulegen oder abzulegen dauert für leichte Rüstung 1 Runde, für mittlere Rüstung 1 Minute und 10 Minuten für schwere Rüstung. In mittlerer oder schwerer Rüstung zu schlafen bedarf spezielles Training. Ohne die Fertigkeit *Rüstungsvertrautheit*[?] leidet dein Charakter nach dem Schlafen in mittlerer oder schwerer Rüstung unter einer Instanz des Harmes *erschöpft*[?]. Dieser gibt deinem Charakter Nachteil 1 auf alle nicht-Angriffswürfe, bis er eine volle Nacht Schlaf bekommen hat.
 ## Eigene Waffen erstellen
 Zuvor haben wir die spielmechanischen Vorzüge verschiedener Waffen aufgeführt. Eventuell möchtest du aber auch deinen Charakter oder die Kampagne mit selbst erstellen Waffen ausstatten. Im Folgenden werden die vier Schritte vorgestellt, mit denen du eine Waffe zusammenstellst. Jede Waffe beginnt mit einem Wohlstandswert von 1, welcher an den verschiedenen Schritten des Prozesses erhöht oder verringert werden kann.
 ### Schritt 1: Wähle eine Kategorie
@@ -188,8 +188,8 @@ Wähle als nächstes eine beliebige Anzahl an weiteren Eigenschaften aus, die di
 | Langsam          | -1                                                                                 |
 | Stationär        | -1                                                                                 |
 | Schnell          | +1                                                                                 |
-### Schritt 3: Flüche auswählen
-Waffen werden in ihrem Kampfstil durch die Flüche differenziert, die sie wirken können. Flüche haben keinen Einfluss auf den Wohlstandswert der Waffe und die meisten Waffen haben 2 oder 3 assoziierte Flüche. Waffen mit 4 oder mehr Flüchen müssen vom GM akzeptiert werden.
+### Schritt 3: Harme auswählen
+Waffen werden in ihrem Kampfstil durch die Harme differenziert, die sie wirken können. Harme haben keinen Einfluss auf den Wohlstandswert der Waffe und die meisten Waffen haben 2 oder 3 assoziierte Harme. Waffen mit 4 oder mehr Harmen müssen vom GM akzeptiert werden.
 ### Schritt 4: Wohlstandswert berechnen
 Alle Waffen (mit Ausnahme von unbewaffneter Schlag), starten mit einem Wohlstandswert von 1. Von hier aus berechnest du den finalen Wohlstandswert anhand der Entscheidungen, die du in Schritt 2 und 3 gemacht hast. Vergleiche danach die Waffe mit Gegenständen ähnlicher Macht. Falls nötig, verändere den Wohlstandswert der Waffe noch leicht, damit der WW am Ende eine passende Repräsentation der Wichtigkeit der Waffe in der Geschichte und ihrer Macht im Vergleich zu anderen Items ist.
 
@@ -200,6 +200,6 @@ Alle Waffen (mit Ausnahme von unbewaffneter Schlag), starten mit einem Wohlstand
 > 
 > **Schritt 2 (Wähle Eigenschaften)** Da die Kusari-Gama entweder mit defter Präzision oder mit kräftigen Schwüngen benutzt werden kann, geben wir ihr die Eigenschaften *präzise* und *kraftvoll*. Um sie noch weiter auszuarbeiten, entscheiden wir außerdem, dass die Möglichkeiten, mit der Kette Angriffe abzuwehren, genügt, um ihr noch die Eigenschaft *defensiv 1* zu geben. Aufgrund der Länge der Kette bekommt sie auch noch *lang* und langsam, da das Schwingen Zeit beansprucht.
 > 
-> **Schritt 3 (Flüche auswählen)** Die Kusari-Gama kann genutzt werden, um Feinde heranzuziehen, zu fangen und sie auf breitem Gebiet zu bedrohen. Aus diesen Gründen geben wir ihr die Flüche *erzwungene Bewegung*, *immobilisiert*, *niederwerfen* und *provoziert*.[?]
+> **Schritt 3 (Harme auswählen)** Die Kusari-Gama kann genutzt werden, um Feinde heranzuziehen, zu fangen und sie auf breitem Gebiet zu bedrohen. Aus diesen Gründen geben wir ihr die Harme *erzwungene Bewegung*, *immobilisiert*, *niederwerfen* und *provoziert*.[?]
 > 
 > **Schritt 4 (Wohlstandswert berechnen)** Die Modifikation des WW nach Schritt 2 ist +1 (*defensiv 1* = +1, *lang* = +1, *langsam* = -1). Auf den Start-WW von 1 addiert, ergibt das einen finalen WW von 2 für die Kusari-Gama.
