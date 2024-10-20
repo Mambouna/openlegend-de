@@ -32,6 +32,8 @@ Jede Beschreibung eines Fluches enthält die folgenden Elemente.
 **Beschreibung.** Dieser Eintrag gibt einfach eine grundlegende Idee davon, wie der Fluch im Kontext der Geschichte aussehen könnte.
 
 **Effekt.** Dieser Eintrag führt den spielmechanischen Einfluss des Fluches nach den Regeln auf.
+
+[?]**Besonders.** Manche Flüche haben besondere Einschränkungen oder anderweitig weitergehende spielmechanische Informationen, welche unter Besonders aufgeführt werden.[?]
 ### Die Beschreibung eines Segens lesen
 Die vollständige Liste an Segen kann [hier](http://openlegendrpg.com/boons) [TODO] in einer durchsuchbaren Liste gefunden werden.
 
@@ -48,3 +50,5 @@ Jede Beschreibung eines Segens enthält die folgenden Elemente.
 **Beschreibung.** Dieser Eintrag gibt einfach eine grundlegende Idee davon, wie der Segen im Kontext der Geschichte aussehen könnte.
 
 **Effekt.** Dieser Eintrag führt den spielmechanischen Einfluss des Segens nach den Regeln auf.
+
+[?]**Besonders.** Manche Flüche haben besondere Einschränkungen oder anderweitig weitergehende spielmechanische Informationen, welche unter Besonders aufgeführt werden.[?]

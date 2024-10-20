@@ -181,8 +181,439 @@ Falls du noch nie GM warst, weist du vielleicht nicht, wie viel Arbeit dahinters
 Unterschiedliche Leute spielen Rollenspiele aus unterschiedlichen Gründen. Manche finden Gefallen an dem taktischen, schachartigen Kampfgeschehen. Andere wollen einfach eine epische Geschichte erzählen. Wieder andere sind geborene Schauspieler und genießen die Konversation mit jedem neuen Charakter. Egal, was dir am Open Legend-Spielen gefällt, behalte im Kopf, dass nicht allen am Tisch das gleiche gefallen muss. Der GM ist dazu da, alle Charaktere glänzen zu lassen, aber du kannst dabei helfen, indem du dich nicht ins Rampenlicht drängst und andere Spieler ermutigst, auf ihre Weise Spaß zu haben.
 ## Charakterarchetypen
 Diese Sektion enthält eine Ansammlung an typischen Charakterarten, die für verschiedene Genres verwendet werden können. Falls du deinen Charakter nicht komplett von Null an erstellen willst, kannst du die hier gefundenen nutzen. Füge einfach deine eigenen Charakterstärken, -schwächen und körperlichen Merkmale hinzu und schon bist du bereit loszulegen. Alternativ kannst du diese Vorlagen auch als Startpunkt benutzen, von dem aus du Attribute und Fertigkeiten austauscht, um deinen eigenen einzigartigen Charakter für das Setting, in dem du spielen wirst, zu erstellen.
+### Barde
+Barden sind ein bisschen von allem: Anführer, Geschichtenerzähler, Künstler, Performer, Magier, Säbelrassler und vieles mehr. Ein Barde ist ein Alleskönner, der seine Verbündeten so oft aus dem Feuer rettet, wie er sie auch hineinwirft.
+#### Strategie
+Barden können in fast allen Situationen außerhalb des Kampfes andere mit ihrer Fertigkeit *Rundumtalent*[?] unterstützen, wobei sie sich besonders in sozialen Situationen durch ihre hohen Werte in Präsenz und Überzeugung profilieren. Ihr Einflusswert gibt ihnen außerdem Zugang zu Flüchen wie *bezaubert*[?] und *Phantasmus*, die zum Täuschen, Verhören oder Gewinnen von Feinden nützlich sind.
 
-***Merke: Die Liste der Charakterarchetypen ist noch in Arbeit.***
+Im Kampf unterstützt ein Barde seine Verbündeten mit *verstärken*, wobei er durch die Fertigkeit *Segenfokus* mehrere Freunde auf einmal damit belegen kann. Wird ein Kamerad verwundet nutzt der Barde *heilen* um sie wieder kampffähig zu machen und kann auch mehrere mit einer heilenden *Aura* unter die Arme greifen. Barden sind genügend kompetent im Nahkampf, in dem sie das Rapier führen und Feinde entwaffnen, wann immer sich die Chance bietet.
+
+**Attribute:** Beweglichkeit 3 (1d8), Lernen 3 (1d8), Willenskraft 3 (1d8), Präsenz 4 (1d10), Überzeugung 3 (1d8), Einfluss 3 (1d8)
+
+**Trefferpunkte:** 24  
+**Deckung:** 14 (15 mit Schild - Beweglichkeit 3, Lederrüstung 1)  
+**Zähigkeit:** 13  
+**Entschlossenheit:** 17  
+**Geschwindigkeit:** 30'
+
+**Fertigkeiten:** Rundumtalent, Segenfokus I (Verstärken), Großer Sprung
+
+**Wichtige Ausrüstung:** Lederrüstung, Rapier (als Langschwert gewertet), kleiner Schild, Sagenbuch, Musikinstrument
+#### Bevorzugte Aktionen
+***Rapier*** (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>***En Garde!*** (*Entwaffnen* zufügen): Beweglichkeit vs. Deckung, Vorteil 1  
+***Inspirierende Zeilen*** (*Verstärken* wirken):<br>=> 1 Ziel: Auto-Erfolg auf KL 3 durch *Segenfokus*<br>=> 10' Würfel: Präsenz vs. 16 (KL 3)<br>***Heilende Zeilen*** (*Heilen* wirken): Präsenz vs. 12 - 18 (KL 1 - 4)<br>***Lied der Erquickung*** (5' *Aura: Heilen* wirken): Präsenz vs. 18 (KL 4)<br>***Gewinnendes Lächeln*** (*Bezaubert* wirken): Einfluss vs. Entschlossenheit<br>***Magischer Kniff*** (*Phantasmus* wirken): Einfluss vs. Entschlossenheit
+### Kampfmagier
+Kampfmagier sind Meister der Kraft und Magie. Mit angeborenem Talent für den Kampf und elementare Zauberei gewappnet, sind diese Elitesoldaten eine ernstzunehmende Einheit auf dem Schlachtfeld. Der Kampfmagier ist typischerweise schwer gepanzert, mit einer Vielzahl an Waffen für den Nahkampf ausgestattet und knistert vor roher magischer Energie.
+#### Strategie
+Kampfmagier wurden für den Kampf geboren, können sich aber trotzdem auch in einigen Situationen außerhalb des Kampfes beweisen. Sie sind generell starke Anführer, die eine einschüchternde Aura abstrahlen, sodass ihre Anweisungen auf Gehör treffen, wenn die Umstände es verlangen.
+
+Im Kampf sind Kampfmagier die Ein-Mann-Front. Ihre schwere Rüstung lässt sie gegen niedere Feinde fast unverletzbar erscheinen und ihre Kontrolle über elementares Eis lässt sie das Schlachtfeld mit Bereichsattacken kontrollieren. Mit der Fertigkeit *Multi-Ziel-Attacke Spezialisierung* können sie ohne Einschränkung mehrere Feinde angreifen. Schafft es doch ein Feind, durch die Windstöße und Eiszapfen in den Nahkampf mit ihnen zu gelangen, sind Kampfmagier bereit, mit einem Arsenal an passenden Waffen ihnen auch dort zu begegnen.
+
+**Attribute:** Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Kraft 4 (1d10), Präsenz 3 (1d8), Energie 5 (2d6)<br>**Trefferpunkte:** 22<br>**Deckung:** 20 (21 mit Schild - Beweglichkeit 2, Kraft 4, Plattenpanzer 3 Fertigkeit 1)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 25'
+
+**Fertigkeiten:** Multi-Ziel Attackenspezialisierung II (Bereich), Rüstungstraining[?] I
+
+**Wichtige Ausrüstung:** Plattenpanzer, kleiner Schild, Langschwert, Speer, Kriegshammer
+#### Bevorzugte Aktionen
+***Eiszapfen*** (Angriff mit Schaden): Energie vs. Deckung<br>***Erdbeben*** (Angriff mit Schaden, 10' Würfel): Energie vs. Deckung<br>***Frostbiss*** (*Anhaltender Schaden* zufügen, 10' Würfel): Energie vs. Deckung<br>***Beben*** (*Niedergeschlagen* zufügen, 10' Würfel): Energie vs. Deckung<br>***Treibsand*** (*immobilisiert* zufügen, 10' Würfel): Energie vs. Zähigkeit<br>***Langschwert*** (Angriff mit Schaden): Kraft vs. Deckung<br>***Speer*** (Angriff mit Schaden, 10' Reichweite): Kraft vs. Deckung, Vorteil 1
+### Monsterzähmer[?]
+Der Monsterzähmer beschwört und kommandiert die Kreaturen der Wildnis und ist in der Lage, sogar legendäre Monster wie Drachen oder Mantikore zu zähmen.
+#### Strategie
+Der Monsterzähmer kommandiert einen legendären Mantikor, der als Reittier und Kämpfer agiert. Die Flugfähigkeit des Mantikors erlaubt dem Monsterzähmer Zugang zu Gebieten, die der Rest der Gruppe vielleicht nicht erreichen könnte. Außerhalb des Kampfes kann der Monsterzähmer sein Einflussattribut nutzen, um mit der Zeit die Loyalität einer Fülle an Tieren und mythischen Wesen zu gewinnen.
+
+Sobald der Kampf beginnt, schwingt der Monsterzähmer sich in den Himmel und nutzt seinen Langbogen, während er dominierte Kreaturen über das Schlachtfeld befiehlt. Wenn seine Pfeile nicht ausreichen, um eine Auseinandersetzung zu bestehen, begiebt der Monsterzähmer sich in Nahkampfreichweite und lässt seinen Mantikor Feinde mit den Klauen zerfetzen oder mit dem Stachel vergiften.
+
+**Attribute:** Beweglichkeit 4 (1d10), Konstitution 2 (1d6), Kraft 1 (1d4), Wahrnehmung 3 (1d8), Willenskraft 2 (1d6), Präsenz 1 (1d4), Einfluss 5 (2d6)<br>**Trefferpunkte:** 24<br>**Deckung:** 17 (Beweglichkeit 4, Kraft 1, Brustplatte 2)<br>**Zähigkeit:** 14<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
+
+**Fertigkeiten:** Gefährte III
+
+**Wichtige Ausrüstung:** Brustplatte, Langbogen, Speer
+#### Bevorzugte Aktionen
+***Langbogen*** (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>***Gezackter Pfeil*** (*Anhaltender Schaden* zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>***Speer*** (Angriff mit Schaden, 10' Reichweite): Beweglichkeit vs. Deckung, Vorteil 1<br>***Kreatur zähmen*** (*Bezaubert* zufügen): Einfluss vs. Entschlossenheit<br>***Kreatur befehlen*** (*Dominiert* zufügen): Einfluss vs. Entschlossenheit
+#### Mantikor-Gefährte
+**Attribute:** Beweglichkeit 1 (1d4), Konstitution 3 (1d8), Kraft 4 (1d10), Wahrnehmung 1 (1d4), Willenskraft 2 (1d6), Vergehen 5 (2d6)<br>**Trefferpunkte:** 20<br>**Deckung:** 15 (Beweglichkeit 1, Kraft 4)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30' fliegend
+##### Bevorzugte Aktionen
+***Klauen*** (Angriff mit Schaden): Kraft vs. Deckung<br>***Tödlicher Stachel*** (Angriff mit Schaden): Vergehen vs. Deckung<br>***Giftiger Stachel*** (*Anhaltender Schaden* zufügen): Vergehen vs. Zähigkeit<br>***Bodycheck***[?] (*Niedergeschlagen* zufügen): Kraft vs. Deckung<br>***Verwirrender Stachel*** (*Betäubt* zufügen): Vergehen vs. Zähigkeit
+### Berserker
+Berserker sind die Elitestreiter der Barbarenhorden, bekannt dafür, gegen unmögliche Chancen anzutreten. Diejenigen, die nicht dem Terror ihrer geifernden Rage zum Opfer fallen, werden von den mächtigen Schwüngen der Waffen der Berserker ihr Leben lang mit Ehrfurcht sprechen.
+#### Strategie
+Das einzige Ziel eines Berserkers ist es, Feinde niederzustrecken. Außerhalb des Kampfes können sie gelegentlich aushelfen, indem sie Stahl biegen, Fallgatter aufstemmen oder Feinde einschüchtern.
+
+Sobald der Kampf beginnt, ist der Berserker nicht mehr zu stoppen. Seine Zweihandaxt fügt mit dem Kraftwert 5 eindrucksvollen Schaden zu. Ihre Verteidigung ist ebenso solide, sodass sie häufig Feinde mit dem Fluch *Provozieren* herausfordern. In besoders Schwierigen Gefechten nutzen sie ihre *Kampftrance*, um in eine Rage zu verfallen, die ihre Angriffe tödlicher und Verteidigung zäher macht. Berserker müssen die *Kampftrance* aber mit Bedacht einsetzen, da sie nach ihrem Ende unter einer Instanz des Fluchs *Erschöpft* leiden.
+
+**Attribute:** Beweglichkeit 2 (1d6), Konstitution 4 (1d10), Kraft 5 (2d6), Willenskraft 3 (1d8), Präsenz 3 (1d8)<br>**Trefferpunkte:** 30<br>**Deckung:** 19 (20 in Kampftrance - Beweglichkeit 2, Kraft 5, Kettenhemd 2)<br>**Zähigkeit:** 17 (20 in Kampftrance)<br>**Entschlossenheit:** 16 (19 in Kampftrance)<br>**Geschwindigkeit:** 30'
+
+**Fertigkeiten:** Kampftrance, Rücksichtsloser Angriff
+
+**Wichtige Ausrüstung:** Großaxt, Kettenhemd, Wurfaxt
+#### Bevorzugte Aktionen
+***Großaxt*** (Angriff mit Schaden): Kraft vs. Deckung, Vorteil 1<br>***Kraftvoller Schlag*** (*Erzwungene Bewegung* zufügen): Kraft vs. Deckung, Vorteil 2<br>***Vernichtender Schlag*** (*Betäubt* zufügen): Kraft vs. Zähigkeit, Vorteil 2<br>***Kampfschrei*** (*Furcht* zufügen): Kraft vs. Entschlossenheit<br>***Schaum vor dem Mund*** (*Provozieren* zufügen): Kraft vs. Entschlossenheit<br>***Kriegsmantra*** (*Verstärken* wirken): Präsenz vs. 16 (KL 3)
+### Chronomagier
+Chronomagier sehen und manipulieren die größte Kraft des Universums: die Zeit. Sie besitzen die Macht, die Fäden des Universums selbst neu anzuordnen, um ihrem Willen zu entsprechen. Vergangenheit, Gegenwart und Zukunft sind alles ein und dasselbe für den Chronomagie und ihre inhärente Verbindung zur vierten Dimension kann zu Kommunikationsproblemen mit denjenigen führen, die einem konventionellen Verständnis der Zeit unterliegen.
+#### Strategie
+Chronomagier können den Fluss der Zeit kontrollieren und jenseits ihrer Grenzen sehen. Außerhalb von Kämpfen benutzen sie ihren sechsten Sinn mithilfe des Segens *Voraussicht*, um vergangene und zukünftige Vorkommnisse jenseits der physischen Welt zu sehen.
+
+Beginnt der Kampf, dann bietet die Macht des Chronomagiers über die Zeit der Gruppe verschiedene Optionen. Egal, ob er die Zeit verlangsamt, sodass die Bewegungen seiner Verbündeten unmenschlich schnell erscheinen, sie beschleunigt um Feinde auszulaugen oder sie zurückdreht, um Wunden zu heilen, er gewinnt in jeder Situation die Oberhand. Mit der Fertigkeit *Segenfokus* kann er diese Effekte in einem Gebiet um sich oder Verbündete wirken. *Attributsubstitution* schützt den fragilen Körper des Magiers, der abgesehen seiner Magie weder stark noch beweglich ist. Fällt sein Zorn auf einen Feind, kann der Chronomagier die Zeit seiner Organe beschleunigen und ihn so von innen heraus verrotten lassen.
+
+**Attribute:** Willenskraft 2 (1d6), Schöpfung 3 (1d8), Vergehen 4 (1d10), Bewegung 5 (2d6), Vorwissen 3 (1d8)<br>**Trefferpunkte:** 14<br>**Deckung:** 16 (Bewegung 5 durch *Attributsubstitution*, Stahlseidenrüstung 1)<br>**Zähigkeit:** 12<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
+
+**Fertigkeiten:** Segenfokus I (Aura), Blitzreflexe I, Attributsubstitution I (Bewegung > Beweglichkeit)
+
+**Wichtige Ausrüstung:** Stahlseidenrüstung
+#### Bevorzugte Aktionen
+***Hyperverschleiss***[?] (Angriff mit Schaden): Vergehen vs. Deckung<br>***Stasisfeld*** (*5' Aura: Immobilisiert* wirken): Auto-Erfolg auf KL 1 durch *Segenfokus*<br>***Zeitdehnungsfeld*** (*5' Aura: Verlangsamt* wirken): Auto-Erfolg auf KL 1 durch *Segenfokus*<br>***Vorspulen*** (*Hast* wirken): Bewegung vs. 14 - 18 (KL 2 - 4)<br>***Massen-Vorspulen*** (*5' Aura: Hast* wirken): Auto-Erfolg auf KL 2 durch *Segenfokus*<br>***Zurückspulen*** (*Heilen* wirken): Schöpfung vs. 12 - 16 (KL 1 - 3)<br>***Zeitschritt*** (*Teleport* wirken): Bewegung vs. 16 (KL 3)<br>***Zukunftsblick*** (*Voraussicht* wirken): Vorwissen vs. 12 - 16 (KL 1 - 3)
+### Höfling[?]
+Höflinge sind Karrierepolitiker, die majestätische Grazie zum Ziel ihres Lebens machen. Ihre strenge Ausstrahlung lässt alle in der Hand des Höflings zu formbaren Ton werden. Als Gastgeber plant der Höfling seine Feiern oft bis ins letzte Detail, sodass seine Gäste genau die Erfahrung haben, die er ihnen angedacht hat. Sein Antlitz verlangt Respekt, sei es königliche Brokade, fernöstliche Seide oder die eleganten Linien eines Corpo-Anzugs.
+#### Strategie
+Da er primär auf soziale Situationen spezialisiert und in Kämpfen größtenteils hilflos ist, tut er sein bestes, um die Umstände so zu gestalten, dass es gar nicht erst zum Kampf kommt. Ist der Kampf umungänglich, schlägt der Höfling sich durch seine Täuschung, Überzeugung, Präsenz und Einfluss auf die siegende Seite. Hat der Höfling das Vertrauen seiner mächtigen Bekanntschaften durch den Fluch *Bezaubert* gewonnen, kommt das Opfer typischerweise aufgrund der Fertigkeiten *wirksamer Fluch*[?] und *Endloser Charm*[?] nie wieder frei.
+
+**Attribute:** Beweglichkeit 2 (1d6), Willenskraft 3 (1d8), Täuschung 4 (1d10), Präsenz 3 (1d8), Einfluss 5 (2d6)<br>**Trefferpunkte:** 22<br>**Deckung:** 13 (Beweglichkeit 2, Stahlseidenrüstung 1)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 16<br>**Geschwindigkeit:** 30'
+
+**Fertigkeiten:** Wirksamer Fluch (Bezaubert), Endloser Charm
+
+**Wichtige Ausrüstung:** Majestätische Kleidung, Dolch, Kompaktpistole[?] (Pistole), Stahlseiderüstung
+#### Bevorzugte Aktionen
+***Unterhaltungswunder***[?] (*Bezaubert* zufügen): Einfluss vs. Entschlossenheit<br>***Mörderische Beleidigung*** (*Demoralisiert* zufügen): Einfluss vs. Entschlossenheit<br>***Widersprüchliche Aussagen*** (*Gedächtnismanipulation* zufügen): Einfluss vs. Entschlossenheit<br>***Vertrauensvolles Ohr*** (*Wahrheitszwang* zufügen): Einfluss vs. Entschlossenheit<br>***Persönlicher Gefallen*** (*Dominiert* zufügen): Einfluss vs. Entschlossenheit<br>***Versteckter Abzug*** (Angriff mit Schaden): Beweglichkeit vs. Deckung
+### Druide
+Druiden sind Schützer der Natur, die aus ihr durch einen engen Bund ihre Kraft ziehen, um sich z.B. in eine mächtige Kreatur ihres Heimathabitats zu verwandeln. Nicht alle Druiden sind den Wäldern gewogen. Manche verwandeln sich in Unterwasserspezies und verbringen einen Großteil ihrer Zeit in den Tiefen, während andere als Vögel in Bergketten jenseits der Wolken leben. Unabhängig von ihrem bevorzugten Habitat sind alle Druiden eins: flexibel.
+#### Strategie
+Aufgrund ihrer engen Verbindung zur Natur neigen Druiden dazu, ihre Umgebung zum eigenen Vorteil zu nutzen, zum Beispiel indem sie eine imposante Wand aus Hecken mit dem Segen *Barriere* beschwören, ein Ziel mithilfe einer dicken Ranke *immobilisieren* oder die natürliche Heilung durch den Segen *Regeneration* beschleunigen. Druiden sind außerdem exzellente Kämpfer und Späher. Als Späher können sie in Form eines kleinen Tieres ungesehen in ein feindliches Lager eindringen. Als Kämpfer können sie sich in eine massive Kreatur wie einen Bären verwandeln, um ihre Feinde zu dezimieren.
+
+**Attribute:** Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Kraft 2 (1d6), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Wandlung 5 (2d6), Schöpfung 3 (1d8)<br>**Trefferpunkte:** 20<br>**Deckung:** 17 (Beweglichkeit 2, Kraft 2, Schienenrüstung[?] 3)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 25'
+
+**Fertigkeiten:** Segenfokus II (Gestaltwandlung)
+
+**Wichtige Ausrüstung:** Schienenrüstung (als Plattenpanzer gewertet), Stab, Kurzspeer
+#### Bevorzugte Aktionen
+***Gestaltwandel*** (*Gestaltwandlung* wirken): Auto-Erfolg auf KL 5 durch *Segenfokus*<br>***Klammernde Ranken*** (*Immobilisiert* zufügen): Schöpfung vs. Zähigkeit<br>***Dornenhecke*** (*Barriere* wirken): Schöpfung vs. 16 (KL 3)<br>***Pflanzen animieren*** (*Kreatur beschwören* wirken): Wandlung vs. 18 - 20 (KL 4 - 5)<br>***Wiederwuchs*** (*Regeneration* wirken): Wandlung vs. 12 - 20 (KL 1 - 5)
+#### Bärenform
+**Attribute:** Kraft 5 (2d6), Beweglichkeit 1 (1d4), Konstitution 3 (1d8), Wahrnehmung 2 (1d6)<br>**Trefferpunkte:** 20<br>**Deckung:** 19 (Beweglichkeit 1, Kraft 5, Schienenrüstung 3)<br>**Geschwindigkeit:** 25'
+#### Falkenform
+**Attribute:** Kraft 1 (1d4), Beweglichkeit 3 (1d8), Konstitution 1 (1d4), Wahrnehmung 5 (2d6)<br>**Trefferpunkte:** 16<br>**Deckung:** 14 (Beweglichkeit 3, Kraft 1)<br>**Geschwindigkeit:** 30' fliegend
+#### Haiform
+**Attribute:** Kraft 4 (1d10), Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Wahrnehmung 3 (1d8)<br>**Trefferpunkte:** 20<br>**Deckung:** 19 (Beweglichkeit 2, Kraft 4, Schienenrüstung 3)<br>**Geschwindigkeit:** 30' schwimmend
+> [!danger]
+> INPOINT
+### Ingenieur
+Engineers are infused with the spark of creation, and can comprehend the
+inner workings of extremely complex systems. While Engineers are
+typically dextrous and tough as nails, their real power lies in the
+cogwheel gadgets they whip up with ease from spare parts and salvaged
+goods. These hissing steam gizmos and mechanical implements ensure that
+the Engineer is prepared for any situation.
+#### Strategie
+In non-combat situations, the Engineer's prowess comes from the
+versatility of their creations. Given enough time, they can use the
+_craft extraordinary item_ feat to prepare for a wide variety of
+situations. Whether they are building a 100' ladder that can collapse to
+the size of a backpack, a remote controlled scout bot, or a wearable
+automated wound closing device, the Engineer can always find a way to
+put their creative skills to provide the party with utility and
+flexibility.
+
+In combat, Engineers adjust their strategy to the problem at hand to
+support their companions. The _Verstärken_ boon can represent anything from
+a pair of spring loaded boots to a guided targeting helmet. When enemies
+are overwhelming, the Engineer uses _Kreatur beschwören_ to activate one or
+more of their combat bots. And if their fancy creations and jury-rigged
+gizmos aren't doing the job, the Engineer is no slouch with a trusty old
+hand cannon.
+
+**Attribute:** Beweglichkeit 3 (1d8), Konstitution 3 (1d8), Lernen 3 (1d8), Logik 3 (1d8), Wahrnehmung 1 (1d4), Schöpfung 5 (2d6)<br>**Trefferpunkte:** 16<br>**Deckung:** 15 (Beweglichkeit 3, Kevlarwest 2)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 10<br>**Geschwindigkeit:** 30'
+
+**Fertigkeiten:** Segenfokus I (Kreatur beschwören), Außergewöhnliches Item erschaffen I
+
+**Wichtige Ausrüstung:** Handkanone (Revolver), Kevlarweste, 2
+Granaten, Ingenieurswerkzeuge
+#### Bevorzugte Aktionen
+_**Handkanone**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Granate**_ (Angriff mit Schaden, 10' Würfel): Beweglichkeit vs. Deckung<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Verstärkung!**_ (_Kreatur beschwören_ wirken): Auto-Erfolg auf KL 5 durch _Segenfokus_<br>_**Gadgets & Gizmos**_ (_Verstärken_ wirken): Schöpfung vs. 16 (KL 3)<br>_**DIY-Wunder**_ (_genesis_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)<br>_**Wunde ausbrennen**_ (_Heilen_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)
+### Revolverheld
+Some are lawmen who serve as judge, jury, and executioner. Others are
+bounty hunters trying to earn enough cash to pay off an old debt. Still
+others are mercenaries who shoot for the highest bidder. Whatever their
+motivation, all Gunslingers invoke fear from any fool unfortunate enough
+to end up on the wrong end of their barrel.
+#### Strategie
+Gunslingers do more than just hurl lead. Their prowess in ranged combat
+is fueled by entropic energy gained from otherworldly powers, either
+purchased through diabolical pacts or earned through prowess of mind and
+spirit. Out of combat, Gunslingers are perceptive and intimidating, and
+they can overawe lesser folk with ease. While many Gunslingers are
+loners bent solely on achieving their mission, those who step up to the
+occasion make excellent leaders to pull a ragtag posse together into a
+cohesive unit.
+
+When a fight breaks out, Gunslingers keep their distance and use their
+dual revolvers to rain hell down upon their foes. When damage alone isn't
+getting the job done, Gunslingers can aim their shots to hinder enemies
+in all manner of ways: shooting their weapons out of their hands,
+knocking the wind out of them, or blowing off a toe. The _multi-attack specialist_
+feat allows them to shoot twice as fast as a lesser gunfighter, enabling them to
+take on large groups of foes single-handedly. Supplementing their marksmanship
+with dark powers, they invoke banes and boons with Vergehen. Favorites include
+invoking _Lebensraub_ to heal a little bit with every shot and afflicting enemies
+with the _Erkrankt_ bane to render their attacks nearly useless. When foes close
+in, a Gunslinger doesn't hesitate to use Vergehen to create a defensive _aura_ or
+scare enemies away with _Furcht_.
+
+**Attribute:** Beweglichkeit 5 (2d6), Wahrnehmung 3 (1d8), Willenskraft 2 (1d6), Präsenz 3 (1d8), Vergehen 4 (1d10)<br>**Trefferpunkte:** 20<br>**Deckung:** 17 (Beweglichkeit 5, Heavy Trench Coat 2)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 16<br>**Geschwindigkeit:** 30'
+
+**Fertigkeiten:** Multi-Attack Specialist II
+
+**Wichtige Ausrüstung:** Schwerer Trenchcoat (als Kevlarweste gewertet), 2 Revolver, Gewehr
+#### Bevorzugte Aktionen
+_**Zwei-Knarren-Ansturm**_ (Fokusaktion, Angriff mit Schaden, 2 Angriffe): Beweglichkeit vs. Deckung<br>_**Den Spahn schlagen**_ (Fokusaktion, Angriff mit Schaden, 3 Angriffe): Beweglichkeit vs. Deckung, Nachteil 3<br>_**Kopfgeld verfluchen**_ (_Betäubt_ zufügen): Vergehen vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung. Vorteil 1<br>_**Handschuss**_ (_Entwaffnet_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Gewehr**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Dunkelknallschuss**_ (_Erkrankt_ zufügen): Vergehen vs. Zähigkeit<br>_**Missgünstiger Schatten[?]**_ (5' _Aura: Anhaltender Schaden_ wirken): Vergehen vs. 18 (KL 4)<br>_**Seelenriss**_ (_Lebensraub_ zufügen): Vergehen vs. 20 (KL 5)<br>_**Gnadenloser Blick**_ (_Furcht_ zufügen): Vergehen vs. Entschlossenheit
+### Hacker
+Knowledge is power, as the saying goes, and the Hacker is a testament to
+the fact that nearly anyone can be taken down with the right
+information. Some Hackers are mercenaries that work for the highest
+bidder, primarily in the game for the adrenaline rush and the thrill of
+controlling massive amounts of data and the fates of those who depend on
+it. Others rally behind a larger cause with intent of changing the world
+for better or worse.
+#### Strategie
+The Hacker is a master of data and information. Above all, they seek to
+gather information and harness its power. Hackers use information to
+piece together secrets and data which others assume is secured beyond
+access. Out of combat, the Hacker uses banes and boons such as _seeing_
+via their drone and _Weitsicht_ or _Voraussicht_ to track information or
+persons of interest through databases, servers, surveillance cameras,
+credit card records, and and other sources of poorly secured or encrypted data.
+If deception is called for, Hackers tap into the almost omni-present streams
+of data of systems distributed throughout the world to fabricate video feeds,
+holograms, or audio transmissions using the _Phantasmus_ bane.
+
+When combat breaks out, Hackers tend to avoid the front lines, relying
+on their drones to do the fighting for them. From a secure vantage
+point, the Hacker pilots the multi-purpose drone using a tablet or
+similar device, using its mounted laser cannon to hold enemies back. In
+addition to drone combat, Hackers also assist allies with the _Verstärken_
+boon through illicit data and hacking nearby systems to gain an edge.
+
+**Attribute:** Logik 4 (1d10), Willenskraft 3 (1d8), Wahrnehmung 2 (1d6), Einfluss 3 (1d8), Vorwissen 5 (2d6)<br>**Trefferpunkte:** 16<br>**Deckung:** 10<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
+
+**Fertigkeiten:** Companion I (Drone), Fluchfokus (Spying), Untrackable
+
+**Wichtige Ausrüstung:** Tablet, Laptop, VR Goggles
+#### Bevorzugte Aktionen
+_**Dark Web Recherche**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Algorithmische Voraussage**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Multivalente Sensorenaufnahme**_ (_Wahrsicht_ wirken): Vorwissen vs. 20 (KL 5)<br>_**IoT Zombie Network**_ (_Weitsicht_ zufügen): Vorwissen vs. Entschlossenheit, Vorteil 2<br>_**Hologrammprojektion**_ (_Phantasmus_ zufügen): Einfluss vs. Entschlossenheit<br>_**Neuronen neulegen**_ (_Bezaubert_ zufügen): Einfluss vs. Entschlossenheit
+#### Drone Companion
+**Attribute:** Beweglichkeit 3 (1d8), Konstitution 1 (1d4), Logik 1 (1d4), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Energie 4 (1d10)<br>**Trefferpunkte:** 16<br>**Deckung:** 13 (Beweglichkeit 3)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
+
+**Fertigkeiten:** keine
+#### Bevorzugte Aktionen
+_**Laser**_ (Angriff mit Schaden): Energie vs. Deckung<br>_**Betäubungsstrahl**_ (_Immobilisiert_ zufügen): Energie vs. Zähigkeit
+### Mystiker
+Mystics are typically found far removed from the hustle and bustle
+of the city and detached from the advances of the society they left behind.
+They prefer to listen to the still quiet voice
+within, eschewing all material possessions and living as ascetics
+attempting to purge themselves of all self-centered ambition.
+#### Strategie
+Out of combat, Mystics command a vast array of capabilities that make
+them excellent information gatherers, detectives, and supernaturally
+empowered forensic analysts. They are able to predict future danger via
+the _Voraussicht_ boon, discover all manner of information by divining
+an item's past with the _Wahrsagung_[?] boon, utilize the _Weitsicht_ bane to
+track enemy movements from far away, and communicate with any creature
+via the _Telepathie_ boon.
+
+Mystics who have allied with a larger group typically utilize their
+powers purely for defense and protection of others, invoking _Verstärken_
+to impart psychic insight to allies, _Gedankenraub_ to steal enemy
+secrets, and using Schutz to perform defend actions with the help of
+the _Defensive Reflexe_ feat. Mystics are also adept at shutting down
+enemy boons via _Annulieren_, as well as canceling banes afflicting allies
+via the _Medikus_ feat.
+
+**Attribute:** Beweglichkeit 3 (1d8), Willenskraft 3 (1d8), Schöpfung 2 (1d6), Vorwissen 5 (2d6), Schutz 4 (1d10)<br>**Trefferpunkte:** 16<br>**Deckung:** 13<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
+
+**Fertigkeiten:** Heightened Invocation I, Defensive Reflexe I, Medikus
+
+**Wichtige Ausrüstung:** Stab, Robe
+#### Bevorzugte Aktionen
+_**Den Pfad vorhersehen**_ (Verteidigungsaktion): Schutz vs. Angriffswurf des Ziels, Vorteil 1<br>_**Freimachen**_ (Besondere Aktion): Fertigkeit _Medikus_ einsetzen, um einem Verbündeten einen Widerstehenwurf zu geben<br>_**Geteilte Einsicht**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Sicht aus der Ferne**_ (_Weitsicht_ zufügen): Vorwissen vs. Entschlossenheit<br>_**Gedankenbrücke**_ (_Telepathie_ wirken): Vorwissen vs. 16 - 20 (KL 3 - 5)<br>_**Kraftraub**_ (_Annulieren_ zufügen): Schutz vs. Entschlossenheit<br>_**Gedanken lesen**_ (_Gedankenraub_ zufügen): Vorwissen vs. Entschlossenheit<br>_**Blick in die Vergangenheit**_ (_Wahrsagung_[?] wirken): Vorwissen vs. 20 (KL 5)<br>_**Blick in die Zukunft**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Verjüngung**_ (_Heilen_ wirken): Schöpfung vs. 12 - 14 (KL 1 - 2)
+### Ningyozukai
+The Ningyozukai, or Puppeteers, are sorcerers capable of channeling
+their spirits to possess enchanted suits of Yoroi armor, transforming the
+armor into a powerful animated weapon. Also gifted with magics of
+healing and protection, the Ningyozukai only call on the Yoroi armor
+when a situation call for force of arms or brute strength.
+#### Strategie
+The Ningyozukai make use of the _alternate form_ feat in order to
+provide two distinct character options that may be swapped as needed. In
+their normal form, they are physically frail sorcerers who offer support
+to the party through boons such as _resistance, heal,_ and _Verstärken_. In
+combat, their only means of inflicting damage is by using _summon
+creature_ to call forth minor guardian spirits.
+
+When the situation calls for it, the sorcerer will animate their Yoroi
+armor, which serves as an indestructible melee warrior. The Yoroi form
+has very high defenses and hit points, and its Kraft score of 5 combined
+with a two-handed naginata ensures that it will deal out significant
+damage while also manipulating the battlefield with banes such as
+_knockdown, forced move,_ and _Immobilisiert_. In particularly difficult
+fights, the Yoroi enters a _Kampftrance_, gaining even stronger
+defenses and better attack prowess.
+
+Although the Ningyozukai make use of the _alternate form_ feat, they do
+not actually physically transform when switching between sorcerer or
+Yoroi forms. Rather, the Yoroi armor, possessed by the sorcerer's
+spirit, surrounds its frail master to encase and protect.
+Activating the _alternate form_ feat represents the sorcerer focusing
+all of their will on possessing the Yoroi to make full use of its
+offensive powers. Thus, the Ningyozukai can only utilize actions and
+attributes from one of its forms at any time.
+#### Sorcerer Form
+**Attribute:** Beweglichkeit 1 (1d4), Lernen 3 (1d8), Wahrnehmung 1 (1d4), Willenskraft 3 (1d8), Überzeugung 3 (1d8), Schöpfung 4 (1d10), Schutz 4 (1d10)<br>**Trefferpunkte:** 16<br>**Deckung:** 11 (Beweglichkeit 1)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
+
+**Fertigkeiten:** Alternate Form II
+
+**Wichtige Ausrüstung:** Keine
+#### Bevorzugte Aktionen
+_**Geisterführer**_ (_Verstärken_ wirken): Schöpfung vs. 16 (KL 3)<br>_**Geisterschützer**_ (_Kreatur beschwören_ wirken): Schöpfung vs. 18 (KL 4)<br>_**Kreis der Wunder**_ (5' _Aura: Immobilisiert_ wirken): Schöpfung vs. 18 (KL 4)<br>_**Schutzrunen**_ (_Resistenz_ wirken): Schutz vs. 16 (KL 3)<br>_**Heilendes Wort**_ (_Heilen_ wirken): Schöpfung vs. 12 - 18 (KL 1 - 4)
+#### Yoroi Armor Form
+**Attribute:** Beweglichkeit 3 (1d8), Konstitution 4 (1d10), Kraft 5 (2d6), Willenskraft 2 (1d6), Präsenz 3 (1d8)<br>**Trefferpunkte:** 28<br>**Deckung:** 21 (Kraft 5, Beweglichkeit 3, Yoroi Armor 3)<br>**Zähigkeit:** 16 (19 in _Kampftrance_)<br>**Entschlossenheit:** 15 (18 in _Kampftrance_)<br>**Geschwindigkeit:** 25'
+
+**Fertigkeiten:** Kampftrance
+
+**Wichtige Ausrüstung:** Yoroi Armor, Naginata, 3 Wurfspeere
+#### Bevorzugte Aktionen
+_**Naginata**_ (Angriff mit Schaden): Kraft vs. Deckung, Vorteil 1<br>_**Fang und Klaue**_ (Angriff mit Schaden, 2 targets): Kraft vs. Deckung, Nachteil 1<br>_**Wurfspeer**_ (Angriff mit Schaden): Kraft vs. Deckung<br>_**Ausholender Schlag**_ (_Niedergeschlagen_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Naginataschwung**_ (_Erzwungene Bewegung_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Skorpionstich**_ (_Immobilisiert_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Demonstration der Stärke**_ (_Furcht_ zufügen): Kraft vs. Entschlossenheit<br>_**Schlachtkommando**_ (_Heilen_ zufügen): Präsenz vs. 12 - 16 (KL 1 - 3)
+### Wildläufer
+Rangers are folk of the wilderness, hunters, and animal tamers. They can
+navigate the harshest of terrains and their keen eyes can pick up a
+trail that has been cold for days. With a faithful animal companion by
+their side, the Ranger is never alone on the hunt.
+#### Strategie
+Rangers are expert trackers, making use of their _fast tracker_ and
+_master tracker_ feats to follow quarry effortlessly without slowing
+down. Their exceptional Wahrnehmung score also means that the Ranger will
+be the eyes of the party: locating traps, scouting for enemies, and
+revealing hidden passages. Their extraordinary ability to climb allows
+them to access paths that might be unreachable by their allies.
+
+When combat breaks out, the Ranger typically fights in a coordinated
+effort with their animal companion. In melee, the wolf will attempt to
+inflict _Niedergeschlagen_ upon foes, allowing its master to strike with
+Vorteil 1 on prone enemies. When not striking for direct
+damage, Rangers disarm foes or whittle away at them with
+_Anhaltender Schaden_. To keep a distance from the enemy, Rangers take
+to the trees to use their Langbogen while their wolf uses _Immobilisiert_ to
+make the target an easy shot.
+
+**Attribute:** Beweglichkeit 4 (1d10), Konstitution 3 (1d8), Kraft 2 (1d6),
+Lernen 2 (1d6), Wahrnehmung 5 (2d6), Willenskraft 2 (1d6)<br>**Trefferpunkte:** 20<br>**Deckung:** 18 (Beweglichkeit 4, Kraft 2, Kettenhemd 2)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 35'
+
+**Fertigkeiten:** Fleet of Foot I, Master Tracker, Climbing, Companion I
+
+**Wichtige Ausrüstung:** Langschwert, Dolch, Langbogen, Kettenhemd
+#### Bevorzugte Aktionen
+_**Langschwert + Dolch**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Verwundender Streich**_ (_Anhaltender Schaden_ zufügen): Beweglichkeit vs. Deckung, Vorteil 2<br>_**Kunstvolle Parade**_ (_Entwaffnet_ zufügen): Beweglichkeit vs. Deckung, Vorteil 2<br>_**Langbogen**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1
+#### Wolf Companion
+**Attribute:** Beweglichkeit 4 (1d10), Konstitution 2 (1d6), Kraft 2 (1d6), Wahrnehmung 3 (1d8), Willenskraft 1 (1d4), Präsenz 1 (1d4)<br>**Trefferpunkte:** 18<br>**Deckung:** 16 (Beweglichkeit 4, Kraft 2)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
+
+**Fertigkeiten:** keine
+#### Bevorzugte Aktionen
+_**Biss**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Takedown**_ (_Niedergeschlagen_ zufügen): Beweglichkeit vs. Deckung
+### Schatten
+Shades are highly trained assassins that draw upon unearthly power drawn
+from the in-between, the void of shadows where most mortals dare not
+travel. One with the darkness, they use their powers to deceive and
+misdirect, catching their prey off guard. These night hunters are
+trained to slay from a distance—unseen, unheard, and without a trace.
+#### Strategie
+While Shades are trained for the specific task of neutralizing threats,
+their ability to manipulate shadows provides them with exceptional
+utility. Out of combat, they make excellent scouts, capable of hiding
+weapons in the extradimensional void with _Objekt absorbieren_. Their ability
+to pass through the void makes them peerless at infiltration. When
+_teleporting_, even a titanium vault or door is no obstacle for a Shade
+as they step through the void or dematerialize into a cloud of inky
+entropy and slip beneath a door.
+
+Shades prefer to remain hidden as much as possible so that when combat
+ensues they can catch their foes off guard. They fire their silenced
+sniper rifles from cover, and quickly _Teleport_ to a new location
+before they are discovered. On rare occasions where they are spotted,
+they use _Eile_ to make a fast getaway or blanket an area in _Dunkelheit_
+and slip away unseen.
+
+**Attribute:** Beweglichkeit 4, Wahrnehmung 3, Willenskraft 2, Vergehen 3, Bewegung 5<br>**Trefferpunkte:** 14<br>**Deckung:** 15 (Beweglichkeit 4, Trenchcoat 1)<br>**Zähigkeit:** 12<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
+
+**Fertigkeiten:** Segenfokus I (Teleport), Lethal Strike I
+
+**Wichtige Ausrüstung:** Scharfschützengewehr, Maschinenpistole, Handgun, Knife,
+Trench Coat (treat as Lederrüstung)
+#### Bevorzugte Aktionen
+_**Verborgener Schuss**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung, Vorteil 1 if target is unaware or engaging your ally<br>_**Gewehr**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Betäubungskugel**_ (_Bewusstlos_ zufügen): Beweglichkeit vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Maschinenpistole**_ (Angriff mit Schaden, 10' Würfel): Beweglichkeit vs. Deckung<br>_**Leerenschritt[?]**_ (_Teleport_ wirken): Auto-Erfolg auf KL 5 durch _Segenfokus_<br>_**Schattenschleier**_ (_Dunkelheit_ wirken): Vergehen vs. 12 - 16 (KL 1 - 3)<br>_**Schattenrolle[?]**_ (_Resistenz_ wirken): Bewegung vs. 16 (KL 3)<br>_**Extradimensionale Tasche**_ (_Objekt absorbieren_ wirken): Bewegung vs. 18 (KL 4)
+### Hexenschwert[?]
+Equally skilled with a blade as they are with sorcery, Spellswords weave
+magic and martial prowess together into a powerful combination. Whether
+they are setting foes ablaze with a flaming sword, summoning barriers of
+force to deflect attacks, or outmaneuvering foes with teleportation,
+Spellswords control the battlefield with unrivaled magic.
+#### Strategie
+The Spellsword is a master of versatility. Although they shine the most
+in the heat of battle, Spellswords can also make use of Schutz and
+Bewegung attributes to provide utility to overcome many obstacles.
+
+Within combat, the Spellsword's Attributsubstitution feat allows
+them to use their Energie score for weapon attacks, and their trio of
+extraordinary attributes provides them with access to a versatile
+selection of banes and boons. _Blitzreflexe_ ensures that they
+will often act early in combat, and Spellswords will use this
+opportunity to invoke the _Resistenz_ boon or inflict a vulnerable
+target with _Anhaltender Schaden_. Once combat is underway, Spellswords
+focus on finishing off damaged foes so that they can use _combat
+momentum_ to maneuver around the battlefield.
+
+**Attribute:** Konstitution 3 (1d8), Präsenz 1 (1d4), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Energie 5 (2d6), Schutz 3 (1d8), Bewegung 3 (1d8)<br>**Trefferpunkte:** 22<br>**Deckung:** 17 (Energie 5 via Attributsubstitution, Kettenhemd 2)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
+
+**Fertigkeiten:** Attributsubstitution II (Energie > Beweglichkeit), Kampfmomentum, Blitzreflexe I
+
+**Wichtige Ausrüstung:** Kettenhemd, Falchion
+#### Bevorzugte Aktionen
+_**Falchion**_ (Angriff mit Schaden): Energie vs. Deckung, Vorteil 1<br>_**Enflame**_ (_Anhaltender Schaden_ zufügen): Energie vs. Deckung (Vorteil 1 falls Falchion geführt wird)<br>_**Disabling Strike**_ (_Betäubt_ zufügen): Energie vs. Zähigkeit<br>_**Wall of Fire**_ (_barrier, 10' Linie_ wirken): Energie vs. 16 - 20 (KL 1 - 5), Nachteil 1<br>_**Smoke Step**_ (_Teleport_ wirken): Bewegung vs. 16 (KL 3)<br>_**Shield of Force**_ (_Resistenz_ wirken): Schutz vs. 16 (KL 3)
+### Raumtemplar
+An ancient order of warrior-mages, the Void Templars undergo over a
+decade of training before they are even permitted their first attempt at
+the rigorous test which initiates them as full Templars. A deadly mix of
+soldier and void wielder, they form a heavily armored support unit
+trained to keep other soldiers out of harm's way. Their highly coveted
+guardian armor amplifies their control of the void,
+supercharging their power to nullify enemy attacks.
+#### Strategie
+Void Templars are built to defend, wielding power from the void that
+swallows up attacks from lasers, magic, and all manner of attacks. Using
+their exceptionally high Energie attribute, the Templars can call upon
+the void to nullify almost any attack. Although their heavy armor makes
+them slower than the standard soldier, they can _Teleport_ or even
+invoke _Aura: Eile_ to speed up themselves and their comrades. Also,
+_Teleport_ allows them to access areas and bypass obstacles that others
+might struggle with.
+
+Within combat, a Templar's primary duty is to keep their allies alive.
+They make extensive use of the defend action by deploying all manner of
+countermeasures from their Templar Armor, such as laser netting, or the
+onboard micro missiles to intercept incoming projectiles. Their
+_battlefield retribution_ feat allows the Templar to turn these defensive
+actions against the attacker. In addition to these countermeasures,
+Templars also reshape the battlefield and force enemies into tough
+decisions with banes and boons such as _forced move, barrier,_ and
+_Immobilisiert_.
+
+**Attribute:** Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Willenskraft 2 (1d6), Präsenz 2 (1d6), Energie 5 (2d6), Bewegung 4 (1d10)<br>**Trefferpunkte:** 24<br>**Deckung:** 15 (16 mit Schild - Beweglichkeit 2, Templarrüstung 3)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 14<br>**Geschwindigkeit:** 25'
+
+**Fertigkeiten:** Defensive Reflexe I, Battlefield Retribution I, Sentinel I
+
+**Wichtige Ausrüstung:** Kampfschild, Pistole, Templarrüstung (als Plattenpanzer gewertet), 1 Granate
+#### Bevorzugte Aktionen
+_**Void Nullification**_ (Verteidigungsaktion): Energie vs. Angriffswurf des Ziels, Vorteil 1<br>_**Void Matrix**_ (10' Linie _Barriere_ wirken): Energie vs. 16 - 20 (KL 3 - 5)<br>_**Quickening Aura**_ (_Aura: Eile_ wirken): Bewegung vs. 18 (KL 4)<br>_**Force Push**_ (_Erzwungene Bewegung_ zufügen): Bewegung vs. Deckung<br>_**Paralysis Beam**_ (_Immobilisiert_ zufügen): Bewegung vs. Deckung<br>_**Telekinesis**_ (_Telekinese_ wirken): Bewegung vs. 16 (KL 3)<br>_**Suppression Field**_ (5' _Aura: Erzwungene Bewegung_ zufügen): Energie vs. 18 (KL 4) 
+
+
+> [!danger]
+> OUTPOINT
 ## EP erhalten und im Level aufsteigen
 Während die Legende, die du erschaffst, ihren Lauf nimmt und in Gefahr und Gravitas steigt, wird die Macht deines Charakters ebenso wachsen, um den Herausforderungen zu entsprechen. Diese Macht erhält er in Form von Erfahrungspunkten (EP), die der GM als Belohnung vergibt und die es dir erlauben, im Level aufzusteigen und so Zugang zu neuen Fertigkeiten, Attributen, Flüchen und Segen zu erhalten.
 

@@ -16,3 +16,5 @@ Jede Beschreibung einer Fertigkeit enthält die folgenden Elemente.
 **Beschreibung.** Dieser Eintrag gibt einfach eine grundlegende Idee davon, wie d Fertigkeit im Kontext der Geschichte aussehen könnte. Weil Fertigkeiten meist mechanische Vorteile geben, die nicht an spezifische Auslöser gebunden sind, kannst du das Auftreten deiner Fertigkeit auf eine Weise interpretieren, die dem Konzept deines Charakters und dem Setting der Kampagne entspricht. Ein Paladin in einem typischen Fantasysetting könnte die Fertigkeit *Gefährte* nutzen, um einen noblen Knappen anzuheuern, während ein Technokrat in einer futuristischen Kampagne die gleiche Fertigkeit für einen Kampfautomaton benutzt. In beiden Fällen funktioniert die Fertigkeit gleich, obwohl sie unterschiedlich beschrieben wird.
 
 **Effekt.** Dieser Eintrag führt den spielmechanischen Einfluss der Fertigkeit nach den Regeln auf.
+
+[?]**Besonders.** Manche Fertigkeiten haben besondere Einschränkungen oder anderweitig weitergehende spielmechanische Informationen, welche unter Besonders aufgeführt werden.[?]
