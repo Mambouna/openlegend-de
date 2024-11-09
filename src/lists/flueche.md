@@ -1,5 +1,5 @@
-### Blinded
-**Dauer:** Widerstehen beendet (Fail x 3 = 1 minute)
+### Geblendet
+**Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
 **Wirkzeit:** 1 große Aktion
 
@@ -14,15 +14,16 @@
 - Vergehen vs. Zähigkeit
 
 **Beschreibung**  
-You blind your foe with anything from a massive explosion, to a handful of sand, to an arctic blast, to a dazzling flash of light. Pirates, snipers, rogues, and necromancers often make use of this bane in combat.
+Du blendest deinen Feind mit einer massiven Explosion, einer handvoll Sand, einem kalten Windstoß oder einem grellen Lichtblitz. Piraten, Sniper, Schurken und Nekromanten nutzen diesen Harm oft im Kampf.
 
 **Effekt**  
-The target cannot see as long as the effect persists. The target automatically fails any Perception rolls based solely on normal sight. Attack rolls and Perception rolls based partially on sight that can be supplemented by another sense suffer disadvantage 5. The target's Guard defense is reduced by 3.
+Das Ziel kann nicht sehen, solange der Effekt besteht. Das Ziel schlägt automatisch bei allen Wahrnehmungswürfen fehl, die sich nur auf seine Sehfähigkeit verlassen. Angriffswürfe und Wahrnehmungswürfe, die sich teilweise auf seine Sehfähigkeit verlassen erleiden Nachteil 5. Die Deckung des Ziels ist um 3 reduziert.
 
 > Tags: Außergewöhnlich, Körperlich
 
-### Charmed
-**Dauer:** Widerstehen beendet (special) (Fail x 3 = 24 hours)
+---
+### Bezaubert
+**Dauer:** Widerstehen beendet (Besonders) (3 Fehlschläge = 24 Stunden)
 
 **Wirkzeit:** 1 große Aktion
 
@@ -34,26 +35,27 @@ The target cannot see as long as the effect persists. The target automatically f
 - Einfluss vs. Entschlossenheit
 
 **Beschreibung**  
-Charms are one of the great banes of legend, wielded by powerful enchantresses like Circe (of Homer's The Odyssey), nymphs, psychics, and other characters who control the will of others, not through total domination, but through a magical spell of love or friendship.
+Bezauberungen sind unter den berüchtigsten Zaubern, geführt von mächtigen Magierinnen wie Circe (aus Homers Odyssee), Nymphen, Psychikern und anderen Charakteren, die den Willen anderer durch die Magie der Liebe oder Freundschaft kontrollieren.
 
 **Effekt**  
-The charmed bane can only be inflicted via a bane attack. Damaging attacks that trigger banes cannot trigger this bane. The charmed bane manifests at two levels: minor and major.
-<strong>Minor Charm</strong> - The target is mentally compelled to become more friendly, only changing their attitude toward you moderately. If they are about to strike you, they will restrain themselves - still angry and hostile, but no longer violent. If they want to help you and are leaning toward trusting you, but have some hesitation because you've just met, then that hesitation goes away.
-<strong>Major Charm</strong> - The attacker chooses whether the major charm is platonic or romantic. If platonic, the bane causes the target to consider the attacker their best friend and one of the most trustworthy and noble people they have met in all their lives. Alternatively, the attacker can choose for this trust and admiration to manifest as romantic love. The target is unable to do anything to plot against the one who afflicted them, and will (at the earliest possible opportunity) tell their charmer of any rumored harm or danger coming their way. The afflicted character becomes immediately suspicious of anyone who speaks ill of their attacker.
-The target is mentally compelled to like and trust you more, depending on the power level of the bane when invoked.
+Der Harm Bezaubert kann nur durch eine Harmattacke zugefügt werden. Angriffe mit Schaden, die Harme bewirken können, können diesen Harm nicht zufügen. Der Harm Bezaubert kann sich auf zwei Graden ausdrücken: leicht und tief[?].
+<strong>Leichte Bezauberung</strong> - Das Ziel ist mental angehalten, dir gegenüber freundlicher zu werden. Seine Haltung ändert sich nur moderat. Falls das Ziel kurz davor ist, dich anzugreifen, wird es sich zurückhalten - immer noch wütend und feindlich gesinnt, aber nicht mehr gewalttätig. Will das Ziel dir helfen und und ist abgesehen von Zweifeln gewillt, dir zu trauen, dann werden diese Zweifel schwinden.
+<strong>Tiefe Bezauberung</strong> - Der wirkende Charakter wählt aus, ob die tiefe Bezauberung platonischer oder romantischer Natur ist. Falls sie platonisch ist, lässt die Bezauberung das Zeil den wirkenden Charakter für seinen oder ihren besten Freund halten und schätzt sie als eine der vertrauenswürdigsten und nobelsten Personen ein, die er oder sie je gekannt hat. Alternativ kann der wirkende Charakter die Bezauberung sich als romantische Liebe manifestieren lassen. Das Ziel ist nicht mehr in der Lage, gegen den wirkenden Charakter zu handeln und wird den wirkenden Charakter (so bald er oder sie kann) vor kommenden Gefahren warnen, von denen er oder sie erfährt. Das Ziel wird sofort allen gegenüber misstrauisch, die schlecht vom wirkenden Charakter sprechen.
+Das Ziel ist mental dazu angehalten, dich mehr zu mögen und dir mehr zu vertrauen, je nach Kraftlevel des Harmes bei der Wirkung:
   <ul>
-  <li><strong>Power Level 3</strong> - You can Minor Charm creatures of animal level intelligence or lower.</li>
-  <li><strong>Power Level 4</strong> - You can Minor Charm creatures of humanoid intelligence. You can Major Charm creatures of animal level intelligence or lower.</li>
-  <li><strong>Power Level 6</strong> - You can Major Charm creatures of humanoid intelligence.</li>
+  <li><strong>Kraftlevel 3</strong> - Du kannst Kreaturen von tierischer Intelligenz oder weniger mit leichter Bezauberung belegen.</li>
+  <li><strong>Kraftlevel 4</strong> - Du kannst Kreaturen humanoider Intelligenz oder weniger mit leichter Bezauberung belegen - ODER - du kannst Kreaturen von tierischer Intelligenz oder weniger mit tiefer Bezauberung belegen.</li>
+  <li><strong>Kraftlevel 6</strong> - Du kannst Kreaturen von humanoider Intelligenz oder weniger mit tiefer Bezauberung belegen.</li>
   </ul>
 
 **Besonders**  
-While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the target's true mind is magically suppressed but fights to regain control. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel sich dem Harm überhaupt bewusst ist. Das Unterbewusstsein des Ziels ist zwar magisch unterdrückt, kämpft aber konstant um Kontrolle. Aus diesem Grund erhält das Ziel am Ende seines Zuges einen Widerstehenwurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel beim Widerstehenwurf Erfolg, so wird es für 24 Stunden immun gegen alle weiteren Versuche durch dich, es wieder zu bezaubern.
 
 > Tags: Außergewöhnlich
 
-### Deafened
-**Dauer:** Widerstehen beendet (Fail x 3 = 1 minute)
+---
+### Taub
+**Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
 **Wirkzeit:** 1 große Aktion
 
@@ -67,15 +69,16 @@ While most banes last until the target actively attempts to resist it, this bane
 - Vergehen vs. Zähigkeit
 
 **Beschreibung**  
-You deafen your foe with a crash of thunder, a deft strike to their ears, or a dark energy that disables their hearing. This bane is common to storm mages, mad scientists, and assassins.
+Du lässt deinen Feind nach einem Donnerschlag, schnellem Tritt gegen das Ohr oder dem Wirken von dunkler Magie taub zurück. Dieser Harm ist verbreitet bei Sturmmagiern, verrückten Wissenschaftlern und Assassinen.
 
 **Effekt**  
-The target cannot hear as long as the effect persists. The target automatically fails any Perception rolls based solely on hearing. Perception rolls based partially on hearing that can be supplemented by another sense suffer disadvantage 3.
+Das Ziel kann nichts hören, solange der Harm anhält. Das Ziel schlägt automatsich bei Wahrnehmungswürfen fehl, die sich auf das Gehör verlassen. Wahrnehmungswürfe, die sich teilweise auf das Gehör verlassen erleiden Nachteil 3.
 
 > Tags: Außergewöhnlich, Körperlich
 
-### Death
-**Dauer:** Widerstehen beendet (special) (Fail x 3 = Permanent)
+---
+### Tod
+**Dauer:** Widerstehen beendet (Besonders) (3 Fehlschläge = Permanent)
 
 **Wirkzeit:** 1 große Aktion
 
@@ -88,19 +91,20 @@ The target cannot hear as long as the effect persists. The target automatically 
 - Vergehen vs. Zähigkeit
 
 **Beschreibung**  
-Utilizing either incredible precision or the power of entropy, you snuff out the target's life force completely. The deadliest assassins and most powerful necromancers are known for such legendary skill at ending life.
+Durch unglaubliche Präzision oder die Macht des Vergehens, beendest du das Leben deines Ziels augenblicklich. Die tödlichsten Assassinen und mächtigsten Nekromanten sind für ihre Fähigkeiten im Nehmen von Leben bekannt.
 
 **Effekt**  
-Upon a successful invocation, the target is immediately rendered immobile, unconscious, and unable to take actions. They have disadvantage 5 on all Perception rolls, and any damaging attacks against them count as finishing blows.
-If the target fails three resist rolls to shake off this bane, they die. The death is permanent and can only be reversed if the GM allows a special mission, use of a rare technology, or long-forgotten magic to restore the target to life.
+Beim erfolgreichen Wirken des Harms wird das Ziel sofort immobilisiert, bewusstlos und kann keine Aktionen ausführen. Es hat Nachteil 5 auf alle Wahrnehmungswürfe und alle Angriffe gegen es zählen als Gnadenstoß.
+Falls das Ziel bei drei Widerstehenwürfen gegen diesen Harm fehlschlägt, stirbt es. Der Tod ist permanent und kann nur auf Zustimmung des GM durch eine besondere Mission, seltene Technologie oder lang vergessene Magie wieder aufgehoben werden.
 
 **Besonders**  
-While most banes last until the target actively attempts to resist it, this bane renders the target incapable of taking actions and thus prevents them from actively attempting to break free. However, the target's body fights to regain consciousness and resist the impending death. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When the target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel Aktionen ausführt und so auch, dass es dem Harm entkommen kann. Der Körper des Ziels kämpft aber instinktiv gegen die Wirkung des Harms an und versucht, dem kommenden Tod zu widerstehen. Am Ende jedes Zuges des Ziels erhält das Ziel einen Widerstehenwurf als kostenlose Aktion, um diesem Harm zu widerstehen. Hat das Ziel Erfolg bei einem Widerstehenwurf gegen diesen Harm, ist es danach für 24 Stunden immun gegen weitere Versuche durch dich, diesen Harm auf es zu wirken. 
 
 > Tags: Außergewöhnlich, Körperlich
 
-### Demoralized
-**Dauer:** Resist (minor) ends (Fail x 3 = 1 minute)
+---
+### Demoralisiert
+**Dauer:** Widerstehen (Klein) beendet (3 Fehlschläge = 1 Minute)
 
 **Wirkzeit:** 1 große Aktion
 
@@ -118,23 +122,24 @@ While most banes last until the target actively attempts to resist it, this bane
 - Präsenz vs. Entschlossenheit
 
 **Beschreibung**  
-Using your quick wit, intimidating presence, or even a strong display of magical power, you cause your enemies to doubt themselves. A berserker might achieve this effect by foaming at the mouth while a swashbuckling space captain might dishearten his foes simply with intimidating words.
+Durch deinen schnellen Verstand, einschüchternde Präsenz oder eine Kostprobe deiner magischen Mächte, lässt du deine Feinde an sich zweifeln. Ein Berserker erreicht diesen Effekt vielleicht durch sein geiferndes Zähnefletschen, während ein eleganter Weltraumfechter seine Feinde vielleicht mit wenigen Worten in Kaltschweiß ausbrechen lassen kann.
 
 **Effekt**  
-The affected target has disadvantage on all action rolls.
+Das Ziel hat Nachteil anhand des Kraftlevels auf alle Aktionswürfe.
 <ul>
-<li><strong>Power Level 3</strong> - Disadvantage 1.</li>
-<li><strong>Power Level 6</strong> - Disadvantage 2.</li>
-<li><strong>Power Level 8</strong> - Disadvantage 3.</li>
+<li><strong>Kraftlevel 3</strong> - Nachteil 1.</li>
+<li><strong>Kraftlevel 6</strong> - Nachteil 2.</li>
+<li><strong>Kraftlevel 8</strong> - Nachteil 3.</li>
 </ul>
 
 **Besonders**  
-Resisting this bane is a minor action.
-When inflicting this bane using Agility or Might, you may determine range using the Non-Physical Attack Range table (see Chapter 7: Combat).
+Diesem Harm zu Widerstehen ist eine kleine Aktion.
+Wird dieser Harm durch Beweglichkeit oder Kraft gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus Kapitel 7: Kampf bestimmen.
 
 > Tags: Körperlich, Außergewöhnlich
 
-### Disarmed
+---
+### Entwaffnet
 **Dauer:** Augenblicklich
 
 **Wirkzeit:** 1 große Aktion
@@ -153,19 +158,18 @@ When inflicting this bane using Agility or Might, you may determine range using 
 - Bewegung vs. Deckung
 
 **Beschreibung**  
-You force an opponent to lose control of an object they are holding, whether through brute force, mental compulsion, a skillful parry, heating the item to unbearable temperatures, shooting it from their hands, or some other means.
+Du zwingst einen Feind, die Kontroller über ein Objekt zu verlieren, das er festhält, z.B. durch physische Kraft, mentalen Zwang, elegante Parade, erhitzen des Objekts, Telekinese des Objekts oder anderen Mitteln.
 
 **Effekt**  
 <ul>
-<li><strong>Power Level 3</strong> - The target drops an object they are holding in a space of your choosing within 15' of the target.
-</li>
-<li><strong>Power Level 6</strong> - As an alternative to moving the item, you can choose to assume control of it. If you do, you are now the wielder. For the wielder to regain control, they can react with a Disarmed bane of their own to counter the effect or make an attribute roll (typically Might) with a Challenge Rating equal to 10 + 2 x the attribute score you used to disarm the item.
-</li>
+<li><strong>Kraftlevel 3</strong> - Das Ziel lässt ein Objekt deiner Wahl an einem Punkt in einer Reichweite von 15' vom Ziel aus fallen.</li>
+<li><strong>Kraftlevel 6</strong> - Als Alternative dazu, das Item zu bewegen, kannst du auch entscheiden, die Kontrolle darüber zu übernehmen. Falls du dich dafür entscheidest, wirst du der das Objekt führende Charakter. Um die Kontrolle wiederzuerlangen, kann der ursprüngliche Charakter selbst mit einem Entwaffnet-Harm reagieren, um den Effekt zu kontern oder einen Attributwurf (typischerweise Kraft) mit einem Herausforderungswert von 10 + 2 x Attributwert des den Harm wirkenden Charakters nutzen.</li>
 </ul>
 
 > Tags: Außergewöhnlich, Körperlich
 
-### Dominated
+---
+### Dominiert
 **Dauer:** Besonders
 
 **Wirkzeit:** 1 große Aktion
@@ -178,24 +182,25 @@ You force an opponent to lose control of an object they are holding, whether thr
 - Einfluss vs. Entschlossenheit
 
 **Beschreibung**  
-Though rare, domination is seen from time to time in legendary tales, often wielded by vampires, and sometimes by the most powerful of sorcerers or mad scientists who command legions of mindless zombies, completely enslaved to their will.
+Manche legendäre Geschichten erzählen von Vampiren, Zauberern oder verrückten Wissenschaftlern, die Armeen dominierter Sklaven anführen, die willenlos ihren Befehlen folgen.
 
 **Effekt**  
-The dominated bane manifests at two levels: lesser and greater.
-<strong>Lesser Domination</strong> - The target obeys a one word command until the end of their next turn, at which time the bane immediately ends.
-<strong>Greater Domination</strong> - The target's every action and move is under your control. Unlike the charmed bane, characters under the effect of domination lose control of their actions. Their minds, however, struggle to regain control of their own body. They cannot take actions of any kind (except thought) unless it is ordered by you. Every action which the attacker orders the afflicted character to perform which is in extreme violation of their nature gives the target a resist roll as a free action to end the effect. The attacker does not gain special access to the target's mind and so can only order the character to perform actions that they think the character is capable of. Lastly, each mental order that the attacker gives to the target is a major action. However, the order can be a series of verbal commands, such “Attack enemy X unless someone comes through the door, in which case flee”. The dominated creature will continue to obey the last mental command they were given until you give a new command. Only one such command can be active at a given time. Greater Domination has a duration of Resist ends (Fail x 3 = 1 hour).
+Der Harm Dominiert kann sich auf zwei Graden ausdrücken: leicht und tief[?].
+<strong>Leicht Dominiert</strong> - Das Ziel gehorcht einem Befehl, bestehend aus einem Wort, bis zum Ende des nächsten Zuges. An diesem Punkt endet der Harm sofort.
+<strong>Tief Dominiert</strong> - Jede Bewegung und jede Aktion des Ziels steht unter deiner Kontrolle. Anders als beim Harm Bezaubert, verliert das Ziel von Dominiert Kontrolle über seine eigenen Aktionen. Sein Geist dagegen kämpft gegen den eigenen Körper an. Das Ziel kann keine Aktionen ausführen, die nicht explizit von dir befohlen wurden. Jeder Befehl, der dem Ziel gegeben wird, der der eigentlichen Natur des Ziels massiv widerspricht, gibt dem Ziel einen Widerstehenwurf als kostenlose Aktion, um den Effekt von Dominiert zu beenden. Der wirkende Charakter erhält keinen Zugang zum Geist des Ziels und kann dem Ziel so nur Befehle für Aktionen geben, von denen er weiß oder vermutet, dass das Ziel zu ihnen in der Lage ist. Jeder mentale Befehl, den der wirkende Charakter dem Ziel gibt, ist eine große Aktion. Der Befehl selbst kann aber aus einer Reihe verbaler Anweisungen bestehen, wie zum Beispiel "Greife den Gegner X an, außer jemand kommt durch die Tür. In diesem Fall sollst du fliehen." Die dominierte Kreatur wird dem letzten erhaltenen mentalen Befehl gehorchen, bis sie einen neuen Befehl von dir erhält. Nur einem Befehl kann gleichzeitig gehorcht werden. Tiefe Dominierung hat eine Dauer von Widerstehen beendet (3 Fehlschläge = 1 Stunde).
   <ul>
-  <li><strong>Power Level 3</strong> - You can target creatures of subhuman intelligence (animals, some elementals, certain undead, etc.) with Lesser Domination.</li>
-  <li><strong>Power Level 5</strong> - You can target creatures of human intelligence or better with Lesser Domination. You can target creatures of subhuman intelligence (animals, some elementals, etc.) with Greater Domination.</li>
-  <li><strong>Power Level 9</strong> - You can target creatures of human intelligence or greater with Greater Domination.</li>
+  <li><strong>Kraftlevel 3</strong> - Du kannst Kreaturen nichtmenschlicher Intelligenz (Tiefe, manche Elementare, bestimmte Untote, usw. ...) mit Leicht Dominiert belegen.</li>
+  <li><strong>Kraftlevel 5</strong> - Du kannst Kreaturen menschlicher Intelligenz oder höher mit Leicht Dominiert belegen - ODER - du kannst Kreaturen nichtmenschlicher Intelligenz mit Tief Dominiert belegen.</li>
+  <li><strong>Kraftlevel 9</strong> - Du kannst Kreaturen menschlicher Intelligenz oder höher mit Tief Dominiert belegen.</li>
   </ul>
 
 **Besonders**  
-While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the target's true mind is suppressed but fights to regain control. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel sich dem Harm überhaupt bewusst ist. Das Unterbewusstsein des Ziels ist zwar magisch unterdrückt, kämpft aber konstant um Kontrolle. Aus diesem Grund erhält das Ziel am Ende seines Zuges einen Widerstehenwurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel beim Widerstehenwurf Erfolg, so wird es für 24 Stunden immun gegen alle weiteren Versuche durch dich, es wieder zu dominieren.
 
 > Tags: Außergewöhnlich
 
-### Fatigued
+---
+### Erschöpft
 **Dauer:** Besonders
 
 **Wirkzeit:** 1 große Aktion
@@ -208,25 +213,26 @@ While most banes last until the target actively attempts to resist it, this bane
 - Vergehen vs. Zähigkeit
 
 **Beschreibung**  
-You cause the target's body to wither and weaken, gradually losing its ability to function until the victim finally succumbs to death. Fatigue may be the result of a necromancer's curse, an assassin's poison, a radiation ray, or similar life sapping effects.
+Du lässt den Körper des Ziels erschwachen, sodass er nach und nach seine Funktion verliert, bis das Ziel letztendlich stirbt. Erschöpfung kann das Resultat eines Nekromantenfluches, Assassinengiftes, Strahlungsschub oder anderen lebensraubenden Effekt sein.
 
 **Effekt**  
-This bane has multiple tiers which are applied in succession. Each time this bane is inflicted, if it is already in effect on the target, the severity escalates by one level.<br/>
+Dieser Harm hat mehrere Level, die nacheinander zugefügt werden. Jedes Mal, wenn dieser Harm erneut erlitten wird, eskaliert das Level um 1.
 <ul>
-<li><strong>Level 1</strong> - The target has disadvantage 1 on all non-attack action rolls.</li>
-<li><strong>Level 2</strong> - The target is affected by the slowed bane, reducing its speed by half. This instance of the slowed bane cannot be resisted as normal. It persists until the fatigue is removed.</li>
-<li><strong>Level 3</strong> - The target has disadvantage 1 on all attack rolls.</li>
-<li><strong>Level 4</strong> - The target loses their attribute bonuses to their defense scores (Agility and Might for Guard, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, extraordinary, or feat bonuses.</li>
-<li><strong>Level 5</strong> - The target loses consciousness and is helpless. Being forced into a state of rest, one level of fatigue will be removed automatically after 24 hours, unless circumstances prevent the target from resting peacefully.</li>
-<li><strong>Level 6</strong> - The target dies.</li>
+<li><strong>Level 1</strong> - Das Ziel hat Nachteil 1 auf alle nicht-Angriffswürfe.</li>
+<li><strong>Level 2</strong> - Das Ziel erleidet den Harm Verlangsamt, sodass seine Geschwindigkeit halbiert ist. Diese Instanz des Harms kann nicht normal widerstanden werden. Er besteht, bis die Erschöpfung aufgelöst ist.</li>
+<li><strong>Level 3</strong> - Das Ziel hat Nachteil 1 auf alle Angriffswürfe.</li>
+<li><strong>Level 4</strong> - Das Ziel verliert seine Attributboni auf Verteidigungswerte (Beweglichkeit und Kraft für Deckung, Konstitution und Willenskraft für Zähigkeit, Willenskraft und Präsenz für Entschlossenheit). Es behält Rüstungsboni, außergewöhnliche Boni und Boni durch Fertigkeiten.</li>
+<li><strong>Level 5</strong> - Das Ziel verliert das Bewusstsein und ist hilflos. Da es nun zum Ausruhen gezwungen ist, verliert es einen Grad von Erschöpft alle 24 Stunden, außer die Umstände verhindern ein normales Ausruhen.</li>
+<li><strong>Level 6</strong> - Das Ziel stirbt.</li>
 </ul>
 
 **Besonders**  
-Unlike other banes, canceling this bane takes time and rest. Each 24 hour period of rest with little or no exertion removes one level of fatigue. If the <em>restoration</em> boon is successfully invoked to dispel this bane, only one level of fatigue is removed (in addition to that removed by natural rest). If the <em>restoration</em> boon's invoker has an attribute score of 7 or greater, all levels of fatigue are removed instead of just one. A target may only benefit from one invocation of the <em>restoration</em> boon to remove fatigue within a 24 hour period.
+Anders als bei anderen Harmen, braucht es Zeit und Ruhe, um diesen Harm zu lösen. Alle 24 Stunden, die ein Charakter mit wenig oder keiner Anstrengung ausruht, löst ein Level des Harms Erschöpft. Falls das Wohl <em>Wiederherstellung</em> erfolgreich gewirkt wird, um diesen Harm zu annulieren, wird nur ein Level von Erschöpft aufgehoben (zusätzlich zu Leveln, die möglicherweise durch Ruhe aufgehoben werden). Falls der genutzte Attributwert des Wirkers von <em>Wiederherstellung</em> 7 oder höher beträgt, werden stattdessen alle Level von Erschöpft aufgehoben. Ein Ziel kann nur einmal alle 24 Stunden durch das Wirken von <em>Wiederherstellung</em> ein Level Erschöpft annuliert bekommen.
 
 > Tags: Außergewöhnlich
 
-### Fear
+---
+### Furcht
 **Dauer:** Besonders
 
 **Wirkzeit:** 1 große Aktion
@@ -242,18 +248,19 @@ Unlike other banes, canceling this bane takes time and rest. Each 24 hour period
 - Kraft vs. Entschlossenheit
 
 **Beschreibung**  
-Through an overwhelming force of physical might or extraordinary power, you strike terror into the hearts of enemies, causing them to flee from your presence. A warrior might invoke this bane by hurling a boulder while a cyber hacker might achieve the same effect by uploading a hallucinatory virus into an opponent's neuro jack.
+Durch eine überwältigende Demonstration körperlicher Gewalt oder übernatürlicher Macht lässt du Terror in die Herzen deiner Feinde fahren, sodass sie vor dir fliehen. Ein Krieger könnte diesen Harm wirken, indem er einen Felsen stemmt, während ein Cyberhacker vielleicht einen Halluzinationsvirus in den Neurojack seiner Feinde lädt.
 
 **Effekt**  
-On its turn, the afflicted target must use its entire turn to get as far away as possible from you. It cannot use its actions to do anything other than retreat, and it cannot willingly move closer to you while the bane persists.
+In seinem Zug muss das betroffene Ziel seinen gesamten Zug nutzen, um sich so weit wie möglich von dir wegzubewegen. Es kann seine Aktionen zu nichts anderem verwenden und kann sich nicht willentlich näher zu dir bewegen, solange der Harm anhält.
 
 **Besonders**  
-While most banes last until the target actively attempts to resist them, this bane prevents the target from thinking clearly. However, the target's logical mind fights to regain control. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from this effect. When your target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next hour.
-When inflicting this bane using Might, you may determine range using the Non-Physical Attack Range table (see Chapter 7: Combat).
+Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel klar denken kann. Gleichzeitig kämpft der logische Teil des Geistes vom Ziel aber darum, die Kontrolle wiederzugewinnen. Am Ende jedes Zuges erhält das Ziel einen Widerstehenwurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel mit dem Widerstehen Erfolg, so ist es für die nächste Stunde gegen alle weiteren Versuche durch dich, ihm Furcht einzuflößen, immun.
+Wird dieser Harm durch Kraft gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus Kapitel 7: Kampf bestimmen.
 
 > Tags: Außergewöhnlich, Körperlich
 
-### Forced Move
+---
+### Erzwungene Bewegung
 **Dauer:** Augenblicklich
 
 **Wirkzeit:** 1 große Aktion
@@ -269,21 +276,22 @@ When inflicting this bane using Might, you may determine range using the Non-Phy
 - Bewegung vs. Deckung
 
 **Beschreibung**  
-With a forceful blow, magical gust of wind, or telekinetic push, you move your target against its will. This bane is favored among ogres, telekinetisists, wind mages, super soldiers, and other characters built to reshape the battlefield to their advantage.
+Mit einem kraftvollen Schlag, magischen Windstoß oder telekinetischem Wurf bewegst du dein Ziel gegen seinen Willen. Dieser Harm ist beliebt bei Ogern, Telekinetisten, Windmagiern, Supersoldaten und anderen Charakteren, die das Schlachtfeld zu ihren Gunsten verändern.
 
 **Effekt**  
-The target is moved a distance against their will, as determined by the bane's power level. The ending location is chosen by the attacker.
+Das Ziel wird eine durch das Kraftlevel bestimmte Distanz gegen seinen Willen bewegt. Der Zielort der Bewegung wird durch den wirkenden Charakter bestimmt.
 <ul>
-<li><strong>Power Level 2</strong> - The target is moved 5'.</li>
-<li><strong>Power Level 4</strong> - The target is moved 10'.</li>
-<li><strong>Power Level 6</strong> - The target is moved 15'.</li>
-<li><strong>Power Level 8</strong> - The target is moved 20'.</li>
+<li><strong>Kraftlevel 2</strong> - Das Ziel wird um 5' bewegt.</li>
+<li><strong>Kraftlevel 4</strong> - Das Ziel wird um 10' bewegt.</li>
+<li><strong>Kraftlevel 6</strong> - Das Ziel wird um 15' bewegt.</li>
+<li><strong>Kraftlevel 8</strong> - Das Ziel wird um 20' bewegt.</li>
 </ul>
 
 > Tags: Außergewöhnlich, Körperlich
 
-### Immobile
-**Dauer:** Widerstehen beendet (special) (Fail x 3 = 1 minute)
+---
+### Immobilisiert
+**Dauer:** Widerstehen beendet (Besonders) (3 Fehlschläge = 1 Minute)
 
 **Wirkzeit:** 1 große Aktion
 
@@ -302,20 +310,21 @@ The target is moved a distance against their will, as determined by the bane's p
 - Bewegung vs. Deckung
 
 **Beschreibung**  
-Whether through grappling, a precise nerve strike, entangling vines, mental compulsion, or a bone-numbing blast of cold, you render your foe incapable of movement. This bane is typical among martial artists, special ops agents, enchanters, and wrestlers.
+Egal ob durch Ringen, einen präzisen Nervenschlag, verschlingende Ranken, mentalen Zwang oder einen knochengefrierenden Kältestoß, hinderst du deinen Feind an selbst der kleinsten Bewegung. Dieser Harm ist bei Kämpfern, Spezialeinheiten, Verzauberern und Wrestlern verbreitet.
 
 **Effekt**  
-Your target cannot move from its current space. If you invoked the bane with a Might roll and are within 5' of the target, then both you and the target are immobile in your current space for the duration of the bane (locked in a grapple). While grappling in this manner, you can attempt to inflict this bane again upon the target. If successful, you can move your speed and take the target with you. If this attack fails, you can only move by first releasing the target and ending the bane.
-If you invoked the bane with any attribute other than Might, you can move freely while the target remains affected.
-You can choose to release the target as a free action, immediately ending the bane.
+Dein Ziel kann sich von seinem momentanen Platz nicht bewegen. Falls du den Harm mit einem Kraftwurf gewirkt hast und innerhalb von 5' Distanz vom Ziel bist, dann bist auch du am momentanen Ort immobilisiert (im Ringkampf gefangen). Während ihr auf diese Weise ringt, kannst du versuchen, den Harm erneut auf das Ziel zu wirken. Bei Erfolg kannst du dich mit normaler Geschwindigkeit bewegen und das Ziel dabei mit dir nehmen. Falls dieser Angriff fehlschlägt, kannst du dich nur bewegen, indem du den Harm selbst abbrichst und das Ziel damit auch freigibst.
+Falls du den Harm mit einem Attribut abgesehen von Kraft gewirkt hast, kannst du dich frei bewegen, während dein Ziel betroffen bleibt.
+Du kannst dich entscheiden, das Ziel als kostenlose Aktion freizugeben, was den Harm sofort beendet.
 
 **Besonders**  
-When an affected target succeeds at a resist roll to end this effect, they can move 15' as a free action.
+Hat ein betroffenes Ziel mit einem Widerstehenwurf Erfolg, um diesen Harm zu brechen, kann es sich bis zu 15' als kostenlose Aktion bewegen.
 
 > Tags: Außergewöhnlich, Körperlich
 
-### Incapacitated
-**Dauer:** Widerstehen beendet (Fail x 3 = 1 minute)
+---
+### Bewusstlos
+**Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
 **Wirkzeit:** 1 große Aktion
 
@@ -329,17 +338,23 @@ When an affected target succeeds at a resist roll to end this effect, they can m
 - Einfluss vs. Entschlossenheit
 
 **Beschreibung**  
-Incapacitation is a catch-all bane for a variety of effects, including total paralysis, sleep, petrification, poison, being knocked out, fainting, or similar conditions that render a character completely helpless. Examples of possible causes of this bane include a martial artist's paralyzing strike, an enchanter's magical song of sleep, paralysis by poison, fainting from extreme heat, suffocation, and the gaze of a medusa.
+Bewusstlos ist ein Sammelbegriff für eine Reihe von Effekten, darunter totale Paralyse, Schlaf, Versteinerung, Gift, bewusstlos geschlagen sein, in Ohnmacht fallen oder ähnliche Zustände, die einen Charakter vollständig hilflos zurücklassen. Beispiele für Quellen dieses Harms wären der Paralyseschlag eines Kriegermönchs, ein magisches Schlaflied einer Hexe, Betäubung durch ein Nervengift, Ohnmacht aufgrund extremer Hitze oder der Blick der Medusa.
 
 **Effekt**  
-The target is immobile (can't move from their current space) and unconscious. They have disadvantage 5 on all perception rolls and are incapable of moving. As a result of being completely incapable of movement, an incapacitated character can be the victim of a finishing blow. <ul><li><strong>Power Level 5</strong> - The effect can be broken by a moderate disruption, such as a firm shove, a kick, glass of water, loud bang, etc.</li><li><strong>Power Level 7</strong> - The effect can only be broken if the target takes 1 point of damage or more.</li><li><strong>Power Level 9</strong> - The effect cannot be disrupted by external forces. Only the afflicted character's successful resist roll can end the effect.</li></ul>
+Das Ziel ist immobilisiert (kann sich nicht von seinem momentanen Platz bewegen) und bewusstlos. Es hat Nachteil 5 auf alle Wahrnehmungswürfe und kann sich nicht bewegen. Als Resultat dessen kann ein bewusstloser Charakter das Ziel von Gnadenstößen werden.
+<ul>
+<li><strong>Kraftlevel 5</strong> - Der Effekt kann durch eine moderateStörung gebrochen werden, wie z.B. einem festen Stoß, einem Tritt, Glas voll Wasser, lautem Knall, usw. ...</li>
+<li><strong>Kraftlevel 7</strong> - Der Effekt kann nur gebrochen werden, wenn das Ziel 1 TP oder mehr an Schaden nimmt.</li>
+<li><strong>Kraftlevel 9</strong> - Der Effekt kann nicht durch äußere Quellen gebrochen werden. Nur ein erfolgreicher Widerstehenwurf durch das Ziel kann den Effekt beenden.</li>
+</ul>
 
 **Besonders**  
-While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the target's body fights to regain consciousness. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next hour.
+Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel sich seiner Position bewusst ist. Der Körper des Ziels kämpft aber darum, das Bewusstsein wiederzuerlangen. Am Ende jedes Zuges erhält das Ziel einen Widerstehenwurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel mit dem Widerstehen Erfolg, so ist es für die nächste Stunde gegen alle weiteren Versuche durch dich, es bewusstlos zu machen, immun.
 
 > Tags: Außergewöhnlich, Körperlich
 
-### Knockdown
+---
+### Niedergeschlagen
 **Dauer:** Augenblicklich
 
 **Wirkzeit:** 1 große Aktion
@@ -355,14 +370,15 @@ While most banes last until the target actively attempts to resist it, this bane
 - Bewegung vs. Deckung
 
 **Beschreibung**  
-Whether via a thunderous blow from a great axe, an earth shattering bolt of supernatural energy, or a well aimed shove in a direction where the enemy's balance is weak, you knock the target off their feet. Knockdown is a favorite of hulking brutes, telekinetisists, martial artists, and earth elementalists.
+Egal ob durch einen donnernden Schlag deiner Axt, einen überwältigenden Strahl von Energie oder einen kräftigen Stoß über eine unebene Stelle Boden, schlägst du das Ziel von seinen Füßen. Niedergeschlagen ist bei muskelbepackten Hooligans, Telekinetisten, Kampfmeistern und Erdelementalisten beliebt.
 
 **Effekt**  
-The target falls prone. Prone targets have disadvantage 1 on all attacks they make. Characters that are prone due to the <em>knockdown</em> bane (or any other reason) get +2 to Guard versus Ranged attacks and -2 Guard versus Melee attacks. Standing up from prone requires a move action and costs a character half (round down) of their speed for the round.
+Das Ziel fällt zu Boden. Ziele am Boden haben Nachteil 1 auf alle Angriffe, die sich ausführen. Charaktere, die am Boden liegen, haben +2 Deckung gegen Fernkampfangriffe und -2 Deckung auf Nahkampfangriffe. Aufzustehen bedarf einer Bewegungsaktion und kostet einen Charakter die Hälfte (abgerundet) seiner Geschwindigkeit für die Runde.
 
 > Tags: Außergewöhnlich, Körperlich
 
-### Memory Alteration
+---
+### Gedächtnismanipulation
 **Dauer:** Augenblicklich
 
 **Wirkzeit:** 1 große Aktion
@@ -375,25 +391,26 @@ The target falls prone. Prone targets have disadvantage 1 on all attacks they ma
 - Einfluss vs. Entschlossenheit
 
 **Beschreibung**  
-Warping or controlling the mind is one of the most dreaded powers of enchanters, causing powerful heroes to forget their homes, families, and quests. Memory alteration is often inflicted by mad scientists, necromancers, enchanters, and chronomancers.
+Den Geist anderer zu kontrollieren ist eine der gefürchtetsten Mächte von Zauberern, sodass selbst mächtige Helden ihre Heimat, Familien und Questen vergessen. Gedächtnismanipulation wird oft von verrückten Wissenschaftlern, Nekromanten, Verzauberern und Chronomagiern verwendet.
 
 **Effekt**  
-You alter the target's memories to an extent based on the power level of the bane.
+Du verändert die Erinnerungen eines Ziels zu einem Maß bestimmt durch das Kraftlevel des Harms.
 <ul>
-<li><strong>Power Level 5</strong> - You temporarily modify a minor aspect of the target's memory. The target automatically regains the lost memory and realizes their confusion 1 hour later.</li>
-<li><strong>Power Level 6</strong> - You permanently erase or alter the last 5 minutes of the target's memory. The target does not know what happened during this time outside of the memories you feed them (including having seen you, if they did). Multiple uses of this bane progressively erase consecutive 5 minute increments.</li>
-<li><strong>Power Level 8</strong> - Instead of the immediate past, you can erase or alter memories from any time.</li>
+<li><strong>Kraftlevel 5</strong> - Du modifizierst temporär einen minderen Aspekt der Erinnerungen des Ziels. Das Ziel erhält seine normalen Erinnerungen automatisch nach einer Stunde zurück und bemerkt die Manipulation.</li>
+<li><strong>Kraftlevel 6</strong> - Du löschst oder veränderst permanent die letzten 5 Minuten der Erinnerungen deines Ziels. Das Ziel ist sich nur der Erinnerungen aus dieser Zeit bewusst, die du ihm eingeflößt hast (darunter auch, ob es dich gesehen hat oder nicht). Weitere Nutzungen dieses Harms löschen oder verändern aneinanderliegende weitere 5 Minutenabschnitte der Erinnerung des Ziels.[?]</li>
+<li><strong>Kraftlevel 8</strong> - Anstatt der direkten Vergangenheit kannst du die Erinnerungen einer beliebigen Zeit ändern oder löschen.</li>
 </ul>
-The memory alteration bane can only be inflicted via a bane attack. Damaging attacks that trigger banes cannot trigger this bane.
-This bane confers no special ability to know about a target's memory. The invoker must be aware of the memory either from rumor, personal knowledge, prescience, or other means.
+Der Harm Gedächtnismanipulation kann nur durch einen Harmangriff zugefügt werden. Angriffe mit Schaden, die Harme bewirken, können diesen Harm nicht zufügen.
+Dieser Harm gibt dem wirkenden Charakter kein Wissen über den Inhalt der Erinnerungen des Ziels. Der wirkende Charakter muss sich über die Erinnerungen, die er oder sie verändern möchte, durch Gerüchte, persönliches Wissen, Voraussicht oder andere Wege bewusst sein.
 
 **Besonders**  
-When you target an enemy with this bane and your action roll fails to beat the target's Resolve defense, the target is immune to further invocations of this bane from you for the next 24 hours.
+Denn du bei deinem Aktionswurf zum Zufügen dieses Harms fehlschlägst, ist das Ziel für die nächsten 24 Stunden immun gegen weitere Versuche durch dich, es mit diesem Harm zu belegen.
 
 > Tags: Außergewöhnlich
 
-### Mind Dredge
-**Dauer:** Widerstehen beendet (Fail x 3 = 1 minute)
+---
+### Gedankenraub
+**Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
 **Wirkzeit:** 1 große Aktion
 
@@ -405,23 +422,24 @@ When you target an enemy with this bane and your action roll fails to beat the t
 - Vorwissen vs. Entschlossenheit
 
 **Beschreibung**  
-You gaze into the mind of another creature and read their thoughts. The most powerful wielders of this bane can even pry into the distant memories of their subjects. Fortune tellers, psychics, and mentalists all use mind dredge to learn the deepest dreams and darkest secrets of others.
+Du blickst in den Geist einer Kreatur und liest ihre Gedanken. Die mächtigsten Wirker dieses Harm können sogar ferne Erinnerungen des Ziels hervorholen. Wahrsager, Psychiker und Mentalisten nutzen Gedankenraub oft um die tiefsten Träume und dunkelsten Geheimnisse anderer zu lernen.
 
 **Effekt**  
 <ul>
-<li><strong>Power Level 2</strong> - This power may only target creatures of animal intelligence or lower. You gain access to the target's current thoughts.</li>
-<li><strong>Power Level 4</strong> - This power may target creatures of any intelligence. You gain access to the target's current thoughts.</li>
-<li><strong>Power Level 6</strong> - This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as its recent memories. Initially, you may probe 1 day into the past. For every round that the bane persists, you gain access to an additional day's worth of memories.</li>
-<li><strong>Power Level 8</strong> - This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as its distant memories. Initially, you may probe 1 year into the past. For every round that the bane persists, you gain access to an additional year's worth of memories. Alternatively, you may choose to access the memories associated with a particular place, object, or event.</li>
-<li><strong>Power Level 9</strong> - This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as all of its memories, without limitation by time. Alternatively, you may choose to access the memories associated with a particular place, object, or event. </li>
+<li><strong>Kraftlevel 2</strong> - Das Ziel muss eine Kreatur tierischer Intelligenz oder niedriger sein. Du erhälst Zugang zu den momentanen Gedanken des Ziels.</li>
+<li><strong>Kraftlevel 4</strong> - Das Ziel kann eine Kreatur beliebigen Intelligenzgrades sein. Du erhälst Zugang zu den momentanen Gedanken des Ziels.</li>
+<li><strong>Kraftlevel 6</strong> - Das Ziel kann eine Kreatur beliebigen Intelligenzgrades sein. Du erhälst Zugang zu den momentanen Gedanken des Ziels und seinen neusten Erinnerungen. Anfangs kannst du bis zu 1 Tag in die Vergangenheit vordringen. Mit jeder weiteren Runde, die dieser Harm anhält, erhälst du Zugang zu einem weiteren Tag an Erinnerungen.</li>
+<li><strong>Kraftlevel 8</strong> - Das Ziel kann eine Kreatur beliebigen Intelligenzgrades sein. Du erhälst Zugang zu den momentanen Gedanken des Ziels und seinen fernen Erinnerungen. Anfangs kannst du bis zu 1 Jahr in die Vergangenheit vordringen. Mit jeder weiteren Runde, die der Harm anhält, erhälst du Zugang zu einem weiteren Jahr an Erinnerungen. Alternativ kannst du auch Erinnerungen gezielt hervorholen, die mit einem bestimmten Ort, Objekt oder Ereignis verbunden sind.</li>
+<li><strong>Kraftlevel 9</strong> - Das Ziel kann eine Kreatur beliebigen Intelligenzgrades sein. Du erhälst Zugang zu den momentanen Gedanken des Ziels und all seinen Erinnerungen, ohne Einschränkungen durch deren Alter. Alternativ kannst du auch Erinnerungen gezielt hervorholen, die mit einem bestimmten Ort, Objekt oder Ereignis verbunden sind.</li>
 </ul>
 
 **Besonders**  
-When your target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+Hat dein Ziel Erfolg mit seinem Widerstehenwurf gegen diesen Harm, wird es für die nächsten 24 Stunden immun gegen alle weiteren Versuche durch dich, es erneut mit diesem Harm zu belegen.
 
 > Tags: Außergewöhnlich
 
-### Nullify
+---
+### Annullieren
 **Dauer:** Augenblicklich
 
 **Wirkzeit:** 1 große Aktion
@@ -434,29 +452,30 @@ When your target succeeds at a resist roll against this bane, they become immune
 - Schutz vs. Entschlossenheit
 
 **Beschreibung**  
-Through magical power, technological hacking, or similar means, you are able to nullify your enemy's boons. The nullify bane is often used by abjurers, engineers, bards, and similar characters built to neutralize the powers of their enemy.
+Durch magische Kräfte, technologisches Hacking oder ähnliche Mittel kannst du Wohle deiner Feinde annulieren. Der Harm Annullieren wird oft von Magiern, Ingenieuren, Barden und ähnlichen Charakteren benutzt, die die Kräfte ihrer Feinde durchbrechen.
 
 **Effekt**  
-You cancel a single boon currently in effect if it is of this bane's power level or lower. The invoking power level further impacts the effect as follows:
+Du löst ein einziges aktives Wohl mit Kraftlevel gleich der Wirkung dieses Harms oder niedriger auf. Das Kraftlevel dieses Harms ist weiterhin wie folgt relevant:
 <ul>
-  <li><strong>Power Level 1</strong> - Cancel a boon of Power Level 1. You can cancel a boon that must be actively invoked. In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute.</li>
-  <li><strong>Power Level 2</strong> - Cancel a boon of Power Level 2.</li>
-  <li><strong>Power Level 3</strong> - Cancel a boon of Power Level 3.</li>
-  <li><strong>Power Level 4</strong> - Cancel a boon of Power Level 4.</li>
-  <li><strong>Power Level 5</strong> - Cancel a boon of Power Level 5.</li>
-  <li><strong>Power Level 6</strong> - Cancel a boon of Power Level 6. You can cancel a boon that is permanent, passive, or inherent to the target (e.g. the invisibility of a Will o' Wisp). Effects that would prevent Nullify from being invoked in this way have no effect. In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute.</li>
-  <li><strong>Power Level 7</strong> -  Cancel a boon of Power Level 7.</li>
-  <li><strong>Power Level 8</strong> -  Cancel a boon of Power Level 8.</li>
-  <li><strong>Power Level 9</strong> -  Cancel a boon of Power Level 9.</li>
+<li><strong>Kraftlevel 1</strong> - Löse ein Wohl von Kraftlevel 1 auf. Du kannst ein Wohl auflösen, das aktiv gewirkt wurde. Weiterhin kann das Ziel für 1 Minute nicht mehr vom gleichen Wohl betroffen sein oder es auf sich gewirkt bekommen.</li>
+<li><strong>Kraftlevel 2</strong> - Löse ein Wohl von Kraftlevel 2 auf.</li>
+<li><strong>Kraftlevel 3</strong> - Löse ein Wohl von Kraftlevel 3 auf.</li>
+<li><strong>Kraftlevel 4</strong> - Löse ein Wohl von Kraftlevel 4 auf.</li>
+<li><strong>Kraftlevel 5</strong> - Löse ein Wohl von Kraftlevel 5 auf.</li>
+<li><strong>Kraftlevel 6</strong> - Löse ein Wohl von Kraftlevel 6 auf. Du kannst ein Wohl auflösen, das permanent wirkt, passiv ist oder inhärenter Teil der Natur des Ziels ist (z.B. die Unsichtbarkeit von Irrlichtern). Effekte, die Annullieren daran hindern würden, gewirkt zu werden, greifen nicht. Weiterhin kann das Ziel für 1 Minute nicht mehr vom gleichen Wohl betroffen sein oder es auf sich gewirkt bekommen.</li>
+<li><strong>Kraftlevel 7</strong> -  Löse ein Wohl von Kraftlevel 7 auf.</li>
+<li><strong>Kraftlevel 8</strong> -  Löse ein Wohl von Kraftlevel 8 auf.</li>
+<li><strong>Kraftlevel 9</strong> -  Löse ein Wohl von Kraftlevel 9 auf.</li>
 </ul>
 
 **Besonders**  
-If the targeted boon covers a large area, you can cancel all of it by targeting any portion of the effect you can see, or multi-targeting a number of 5' cubes you believe it to be in. If the targeted boon is affecting an area rather than a creature, you roll against the CR of the boon instead of a Resolve defense. The CR is 10 + 2 x the boon's invoked power level.
+Wenn das Wohl, das aufgelöst werden soll, ein Gebiet abdeckt, kannst du es auflösen, indem du ein beliebigen Abschnitt davon anvisierst, den du sehen kannst oder indem du eine Reihe an 5' Würfeln als Ziele setzt, in denen du die Wirkung des Wohls vermutest. Falls das Wohl ein Gebiet abdeckt, statt auf einer Kreatur zu liegen, wirfst du gegen einen HW des Wohls anstatt gegen eine Entschlossenheit-Verteidigung. Der HW ist 10 + 2 x Kraftlevel des Wohls.
 
 > Tags: Außergewöhnlich
 
-### Persistent Damage
-**Dauer:** Widerstehen beendet (Fail x 3 = 1 minute)
+---
+### Anhaltender Schaden
+**Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
 **Wirkzeit:** 1 große Aktion
 
@@ -470,33 +489,34 @@ If the targeted boon covers a large area, you can cancel all of it by targeting 
 - Vergehen vs. Zähigkeit
 
 **Beschreibung**  
-Whether by setting the target ablaze, covering them in acid, slicing an artery, or cursing them with a wasting disease, you inflict your foe with a lasting and recurring source of damage. Persistent damage is a favorite among assassins, mad scientists, and elementalists.
+Ob du ein Gebiet in Flammen aufgehen lässt, es mit Säure bedeckst, eine Arterie aufschlitzt oder jemand mit einer Krankheit verfluchst, fügst du deinen Feinden eine anhaltende Quelle an Schaden zu. Anhaltender Schaden ist häufig bei Assassinen, verrückten Wissenschaftlern und Elementalisten zu finden.
 
 **Effekt**  
-At the beginning of the target's turn, before they take any actions, they suffer damage determined by the power level of the bane. This damage automatically bypasses the afflicted character's defenses but it can be reduced by any resistance to damage of a certain type (see the resistance boon). Like all dice rolls, these dice explode.
+Zu Beginn des Zuges deines Ziels, bevor es Aktionen ausführen kann, erleidet das Ziel Schaden anhand des Kraftlevels des Harmes. Dieser Schaden umgeht automatisch die Verteidigungen des Ziels kann aber durch Resistenz gegen bestimmte Arten von Schaden reduziert werden (siehe das Wohl Resistenz). Wie bei allen Würfen, können die Würfel explodieren.
 <ul>
-  <li><strong>Power Level 2</strong> - 1d4 damage per round.</li>
-  <li><strong>Power Level 4</strong> - 1d6 damage per round.</li>
-  <li><strong>Power Level 6</strong> - 1d8 damage per round.</li>
-  <li><strong>Power Level 8</strong> - 1d10 damage per round.</li>
-  <li><strong>Power Level 9</strong> - 2d6 damage per round.</li>
+  <li><strong>Kraftlevel 2</strong> - 1d4 Schaden pro Runde.</li>
+  <li><strong>Kraftlevel 4</strong> - 1d6 Schaden pro Runde.</li>
+  <li><strong>Kraftlevel 6</strong> - 1d8 Schaden pro Runde.</li>
+  <li><strong>Kraftlevel 8</strong> - 1d10 Schaden pro Runde.</li>
+  <li><strong>Kraftlevel 9</strong> - 2d6 Schaden pro Runde.</li>
 </ul>
 
 **Besonders**  
-Persistent damage comes in a number of different variations: physical damage (bleeding from a vital strike), energy damage (lightning, fire, cold, acid, etc.) and entropic damage (necromantic energy), among others. Each variation has its own cure. When that cure is applied with a major action (either by the afflicted character or another), the target receives a resist roll (as a free action) with advantage 1 to end the effect. The GM has the final word on whether a proposed cure can help a given type of persistent damage, but the  following examples can help with arbitration:
+Anhaltender Schaden kann unterschiedliche Variationen haben: unter anderem körperlicher Schaden (Blutungen nach einem Schlag), Energieschaden (Blitz, Feuer, Kälte, Säure, usw. ...) und Vergehensschaden (nekromantische Energie). Jede Variation hat ihren eigenen Weg, die Quelle des Schadens zu neutralisieren. Wird die korrekte Methode angewandt, erhält das Ziel einen Widerstehenwurf als kostenlose Aktion mit Vorteil 1, um den Harm zu beenden. Der GM entscheidet, ob ein Heilmethode die jeweilige Quelle beheben kann. Die folgenden Beispiele können bei Entscheidungen helfeh:
 <ul>
-  <li>Bleeding damage is cured with a successful roll using Learning, Logic, or Creation.</li>
-  <li>Lightning damage is cured by a discharge or grounding of the current.</li>
-  <li>Cold damage is countered with warmth, heat, or fire.</li>
-  <li>Acid damage is neutralized with alkalizing agents (powder, milk, etc.).</li>
-  <li>Fire damage is neutralized with water or smothering.</li>
-  <li>Entropic damage is neutralized with extraordinary or magical healing.</li>
+  <li>Blutungen werden durch einen erfolgreichen Wurf auf Lernen, Logik oder Schöpfung geheilt.</li>
+  <li>Blitzschaden wird durch Entladung oder Erden des Stromflusses behoben.</li>
+  <li>Kälteschaden wird durch Wärme, Hitze oder Feuer gemildert.</li>
+  <li>Säureschaden wird durch alkalische Mittel neutralisiert (Puder, Milch, usw. ...)</li>
+  <li>Feuerschaden wird durch Wasser oder Ersticken gelöscht.</li>
+  <li>Vergehensschaden wird durch außergewöhnliche oder magische Heilung behoben.</li>
 </ul>
-This bane may still be resisted in the usual way of using the resist banes action.
+Diesem Harm kann auch durch die normale Nutzung einer Bewegungsaktion zum Widerstehen von Harmen aufgelöst werden.
 
 > Tags: Außergewöhnlich, Körperlich
 
-### Phantasm
+---
+### Phantom[?]
 **Dauer:** Besonders
 
 **Wirkzeit:** 1 große Aktion
@@ -509,33 +529,34 @@ This bane may still be resisted in the usual way of using the resist banes actio
 - Einfluss vs. Entschlossenheit
 
 **Beschreibung**  
-You create an illusory manifestation to deceive the senses. Some examples include making a meal taste rotten, altering the data on a screen where a user is logging in, creating the sound of a stampede of horses, hiding allies behind a false wall, or creating an illusion of an intergalactic emperor who can converse intelligibly.
+Du erschaffst eine illusorische Manifestation, die die Sinne täuscht. Einige Beispiele wären es, eine Mahlzeit verdorben schmecken zu lassen, die Daten auf einem Bildschirm beim Login zu ändern, das Geräusch ausreißender Pferde, Verbündete hinter einer illusorischen Wand zu verbergen oder das Abbild eines intergalaktischen Imperators entstehen zu lassen, der sinnvoll mit anderen kommunizieren kann.
 
 **Effekt**  
-You create a phantasm of your choosing. The power level at which you invoke the bane determines which senses you can deceive as well as the maximum size of your illusion, as follows:
+Du erschaffst ein Phantom deiner Wahl. Das Kraftlevel, mit dem du diesen Harm wirkst, bestimmt, welche Sinne du täuschen kannst sowie die Größe deiner Illusion. 
 <ul>
-<li><strong>Power Level 1</strong> - Affect Taste. Manifest a 5' x 5' x 5' area phantasm.</li>
-<li><strong>Power Level 2</strong> - Affect Smell, Sound, or Touch.</li>
-<li><strong>Power Level 3</strong> - Affect Sight.</li>
-<li><strong>Power Level 4</strong> - Manifest a 10' x 10' x 10' area phantasm.</li>
-<li><strong>Power Level 5</strong> - Manifest a 15' x 15' x 15' area phantasm.</li>
-<li><strong>Power Level 6</strong> - Affect All Senses.</li>
-<li><strong>Power Level 7</strong> - Manifest a 20' x 20' x 20' area phantasm.</li>
-<li><strong>Power Level 8</strong> - Manifest a 30' x 30' x 30' area phantasm.</li>
-<li><strong>Power Level 9</strong> - Manifest a 50' x 50' x 50' area phantasm.</li>
+<li><strong>Kraftlevel 1</strong> - Beeinflusse den Geschmackssinn. Erschaffe ein Phantom auf einem 5' x 5' x 5' Gebiet</li>
+<li><strong>Kraftlevel 2</strong> - Beinflusse den Geruchs-, Hör- und / oder Berühungssinn.</li>
+<li><strong>Kraftlevel 3</strong> - Beinflusse den Sehsinn.</li>
+<li><strong>Kraftlevel 4</strong> - Erschaffe ein Phantom auf einem 10' x 10' x 10' Gebiet.</li>
+<li><strong>Kraftlevel 5</strong> - Erschaffe ein Phantom auf einem 15' x 15' x 15' Gebiet.</li>
+<li><strong>Kraftlevel 6</strong> - Beeinflusse alle Sinne.</li>
+<li><strong>Kraftlevel 7</strong> - Erschaffe ein Phantom auf einem 20' x 20' x 20' Gebiet.</li>
+<li><strong>Kraftlevel 8</strong> - Erschaffe ein Phantom auf einem 30' x 30' x 30' Gebiet.</li>
+<li><strong>Kraftlevel 9</strong> - Erschaffe ein Phantom auf einem 50' x 50' x 50' Gebiet.</li>
 </ul>
-Until reaching power level 6, you can combine sensory illusions by adding the required power levels together (e.g., mimicking both sight and sound requires power level 5). While the phantasm persists, you can make logical changes to it freely. For example, an illusory person can speak naturally as you direct it and could be made to fall in response to an attack. However, substantial changes to the illusion (such as transforming a human into a goblin) require a new invocation of the illusion.
+Bis Kraftlevel 6 kannst du Sinnesillusionen kombinieren, indem du die nötigen Kraftlevel aufaddierst (z.B. bräuchte eine Illusion für Sicht und Klang zusammen Kraftlevel 5). Während das Phantom bestehen bleibt, kannst du logische Änderungen daran frei vornehmen. Beispielsweise kann eine illusorische Person durch deine Anleitung natürlich wirkend sprechen und als Resultat einer Attacke durch deine Kontrolle stürzen. Starke Änderungen (z.B. die Illusion eines Menschen zu einem Goblin zu machen) erfordern ein neues Wirken des Harms.
 
 **Besonders**  
-Unlike other banes, this bane does not work by targeting specific enemies. Instead, your Influence roll for invoking it is compared with the Resolve defense of each character that would perceive the created effect if it were real. If the roll is lower than their Resolve, they perceive none of the phantasm's effects. If the roll is greater than or equal to their Resolve, they perceive the illusory effect you create and react as if it were real.
-When mimicking a very specific person, place, or thing that the target is very familiar with, the GM should consider increasing the target's Resolve defense for the purpose of that particular phantasm invocation.
-Characters convinced by the phantasm can roll Resist as normal in order to attempt to shake off the bane. If successful, they are no longer deceived by the effect. In addition, you must spend a minor action to sustain the bane during each of your turns. Failing to do so in a given round causes the bane's effects to cease at the end of your turn.
-When an affected character succeeds at a resist roll against this bane, they become immune to all subsequent phantasms invoked by you for the next hour.
+Anders als bei anderen Harmen zielt dieser Harm nicht auf bestimmte Gegner. Stattdessen wird das Ergebnis deines Einflusswurfes mit der Entschlossenheit-Verteidigung aller Feinde verglichen, die die Illusion wahrnehmen würden. Falls der Wurf niedriger ist als die Entschlossenheit eines Wesens, nimmt diesen keinen der Effekte der Illusion wahr. Falls der Wurf gleich oder höher als ihre Entschlossenheit ist, nehmen Wesen die Illusion wahr und reagieren, als wäre sie real.
+Falls die Illusion eine Person, einen oder oder ein Objekt nachahmt, mit dem die wahrnehmenden Ziele sehr vertraut sind, kann der GM entscheiden, ob ihre Entschlossenheit-Verteidigung für diese Situation erhöht sein sollte.
+Charaktere, die von einem Phantom überzeugt sind, können normale Widerstehenwürfe machen, um den Harm abzuschütteln. Falls sie Erfolg haben, werden sie nicht weiter durch die Illusion getäuscht. Weiterhin musst du jede Runde eine kleine Aktion nutzen, um den Harm aufrechtzuerhalten. Tust du dies nicht, löst sich das Phantom zum Ende deines Zuges auf.
+Hat ein betroffener Charakter mit seinem Widerstehenwurf Erfolg, so ist er für 1 Stunde immun gegen alle weiteren Phantome, die von dir gewirkt werden.
 
 > Tags: Außergewöhnlich
 
+---
 ### Polymorph
-**Dauer:** Widerstehen beendet (Fail x 3 = 1 hour)
+**Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Stunde)
 
 **Wirkzeit:** 1 Minute
 
@@ -547,22 +568,23 @@ When an affected character succeeds at a resist roll against this bane, they bec
 - Wandlung vs. Zähigkeit
 
 **Beschreibung**  
-You alter the size, shape, and composition of the target by causing them to grow, shrink, or assume a completely new form, like that of a sheep or a newt. Polymorph might be accomplished by a druid's curse, a mad scientist's transmogrification ray, or exposure to alien radiation.
+Du änderst die Größe, Form oder Komposition des Ziels, indem du es wachsen oder schrumpfen lässt, oder ihm eine komplett neue Form gibst (z.B. ein Schaf oder Molch). Polymorph kann durch den Fluch eines Druiden, den Transmogrifizierungsstrahl eines verrückten Wissenschaftlers oder durch Verstrahlung mit außerirdischen Energien gewirkt werden.
 
 **Effekt**  
-Your power level determines the extent to which you can transform your target, as follows. If the target is transformed into a different creature, it uses the Might, Agility, Fortitude, and Perception attribute scores of the new creature.
+Dein Kraftlevel bestimmt das Ausmaß, bis zu dem du dein Ziel verwandeln kannst. Falls das Ziel in eine andere Kreatur verwandelt wird, nutzt es die Kraft-, Beweglichkeits-, Konstituions- und Wahrnehmungswerte der neuen Kreatur.
 <ul>
-<li><strong>Power Level 5</strong> - Polymorph a creature into another creature of the same size. This new form can reduce the target's attribute scores by up to 2. If the new form would have higher attributes, the target becomes an exceptional version of that creature. For example, transforming a deadly sniper with Agility 5 into a clumsy ogre with Agility 0, would leave the target with an Agility of 3 instead of the 0 typical for the new form.</li>
-<li><strong>Power Level 6</strong> - Polymorph a creature into another creature between double and half the size. The new form can reduce the target's attribute scores by up to 3.</li>
-<li><strong>Power Level 8</strong> - Polymorph a creature into another creature between quadruple and one-quarter its original size. Alternatively, transform the target into an object of its original size. The new form can reduce the target's attribute scores by up to 5.</li>
-<li><strong>Power Level 9</strong> - Polymorph a creature into another creature of any size. Alternatively, transform the target into an object of its original size. The new form can reduce the target's attribute scores by up to 7.</li>
+<li><strong>Kraftlevel 5</strong> - Verwandle eine Kreatur in eine andere Kreatur gleicher Größe. Die neue Form kann die Attributwerte des Ziels um bis zu 2 reduzieren. Falls die neue Form höhere Attributwerte hätte, wird das Ziel ein außergewöhnliches Beispiel der Spezies. Verwandelt man einen tödlichen Sniper mit Beweglichkeit 5 in einen tumben Oger mit normaler Beweglichkeit 0, dann hat der Sniper-Oger am Ende untypische Beweglichkeit 3.</li>
+<li><strong>Kraftlevel 6</strong> - Verwandle eine Kreatur in eine andere Kreatur von bis zu halber oder doppelter Größe. Die neue Form kann die Attributwerte des Ziels um bis zu 3 reduzieren.</li>
+<li><strong>Kraftlevel 8</strong> - Verwandle eine Kreatur in eine andere Kreatur von bis zu viertel oder vierfacher Größe. Alternativ kannst du die Kreatur in ein Objekt gleicher Größe verwandeln. Die neue Form kann die Attributwerte des Ziels um bis zu 5 reduzieren.</li>
+<li><strong>Kraftlevel 9</strong> - Verwandle eine Kreatur in eine andere Kreatur jeder beliebigen Größe. Alternativ kannst du die Kreatur in ein Objekt gleicher Größe verwandeln. Die neue Form kann die Attributwerte des Ziels um bis zu 7 reduzieren.</li>
 </ul>
-In order to keep track of hit points, the target should record the total damage they have suffered. When transforming, damage remains with the character even if their maximum hit points change. For example, Agent Walker has a max HP of 20 but is turned into a sheep and has her Fortitude reduced by 2, leaving her at 16 hit points. During combat, she suffers 10 damage. When she later transforms back into Agent Walker, the 10 damage remains and is subtracted from her new maximum, leaving her with 10 out of 20 hit points. Additionally, if the shift would reduce the target's hit points to less than 1, the target's hit point total becomes 1 instead.
+Um seine Trefferpunkte im Blick zu behalten, sollte das Ziel den gesamten Schaden festhalten, den es erlitten hat. Bei der Verwandlung bleibt der Schaden erhalten, selbst wenn maximale Trefferpunkte sich verändern. Beispielsweise hat Agent Walker maximal 20 TP, wurde aber in ein Schaf verwandelt und hat so 2 Konstitutionspunkte verloren, weshalb sie jetzt nur noch maximal 16 TP hat. Im Kampf erleidet sie 10 Schaden. Als sie sich später zurückverwandelt, bleiben die 10 Schaden erhalten und werden von ihrem neuen Maximum subtrahiert, sodass sie 10 von 20 TP hat. Falls die Verwandlung die TP des Ziels auf weniger als 1 reduziert, wird das neue TP-Maximum stattdessen 1.
 
 > Tags: Außergewöhnlich
 
-### Provoked
-**Dauer:** Resist (minor) ends (Fail x 3 = 1 minute)
+---
+### Provoziert
+**Dauer:** Widerstehen (Klein) beendet (3 Fehlschläge = 1 Minute)
 
 **Wirkzeit:** 1 kleine Aktion
 
@@ -581,27 +603,28 @@ In order to keep track of hit points, the target should record the total damage 
 - Präsenz vs. Entschlossenheit
 
 **Beschreibung**  
-Through a display of awe-inspiring force, intimidation, or leadership, you command attention as the greatest threat, causing others to fear attacking your allies. Examples include a brute smashing the skull of a lesser foe, a gunslinger hurling insults, or a space captain diving into the middle of a swirling melee with plasma blades flashing.
+Durch eine Demonstration überwältigender Macht, Einschüchterung oder Führungsstärke, zeigst du dich als größte Bedrohung auf dem Schlachtfeld, sodass Feinde sich davor hüten, deine Verbündeten anzugreifen. Beispiele umfassen Berserker, die die Schädel von Gegnern spalten, Revolverhelden, die mit bissigen Beleidigungen um sich werfen oder ein Raumkapität, der sich mit seinen blitzenden Plasmaklingen mitten in ein Nahkampfgetümmel stürzt. 
 
 **Effekt**  
-Any attacks made by the target that do not include you as a target suffer disadvantage. If the same target is affected by this bane from multiple sources, as long as their attack includes one of those who targeted them, they are not affected by the penalty. Unlike other banes, your damaging attack against one target can trigger this bane in a different target, provided your roll is greater than or equal to their Resolve defense (that is, by striking one foe, you can provoke another).
+Alle Angriffe, die das Ziel nicht gegen dich ausführt, erleiden Nachteil. Falls das Ziel von mehreren Quellen vom Harm Provoziert betroffen wird, hat es nur Nachteil, wenn sein Angriff kein Ziel beinhaltet, welches auf es Provoziert gewirkt hat. Anders als bei anderen Harmen kann ein Angriff gegen ein Wesen den Harm auf ein anderes Ziel wirken, solange dein Wurf gleich oder größer der Entschlossenheit-Verteidigung des Ziels ist (du provozierst also einen Feind, indem du einen anderen angreifst).
 <ul>
-<li><strong>Power Level 4</strong> - The target suffers disadvantage 1 on attacks that do not include you.</li>
-<li><strong>Power Level 5</strong> - The target suffers disadvantage 2 on attacks that do not include you.</li>
-<li><strong>Power Level 6</strong> - The target suffers disadvantage 3 on attacks that do not include you.</li>
-<li><strong>Power Level 7</strong> - The target suffers disadvantage 4 on attacks that do not include you.</li>
-<li><strong>Power Level 8</strong> - The target suffers disadvantage 5 on attacks that do not include you.</li>
-<li><strong>Power Level 9</strong> - The target suffers disadvantage 6 on attacks that do not include you.</li>
+<li><strong>Kraftlevel 4</strong> - Das Ziel erleidet Nachteil 1 auf Angriffe, die nicht auf dich zielen.</li>
+<li><strong>Kraftlevel 5</strong> - Das Ziel erleidet Nachteil 2 auf Angriffe, die nicht auf dich zielen.</li>
+<li><strong>Kraftlevel 6</strong> - Das Ziel erleidet Nachteil 3 auf Angriffe, die nicht auf dich zielen.</li>
+<li><strong>Kraftlevel 7</strong> - Das Ziel erleidet Nachteil 4 auf Angriffe, die nicht auf dich zielen.</li>
+<li><strong>Kraftlevel 8</strong> - Das Ziel erleidet Nachteil 5 auf Angriffe, die nicht auf dich zielen.</li>
+<li><strong>Kraftlevel 9</strong> - Das Ziel erleidet Nachteil 6 auf Angriffe, die nicht auf dich zielen.</li>
 </ul>
 
 **Besonders**  
-Resisting this bane is a minor action.
-When inflicting this bane using Agility or Might, you may determine range using the Non-Physical Attack Range table (see Chapter 7: Combat).
+Diesem Harm zu widerstehen ist eine kleine Aktion.
+Wird dieser Harm mit Kraft oder Beweglichkeit gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus Kapitel 7: Kampf bestimmen.
 
 > Tags: Außergewöhnlich, Körperlich
 
-### Spying
-**Dauer:** 10 minutes (special)
+---
+### Fernsicht[?]
+**Dauer:** 10 Minuten (Besonders)
 
 **Wirkzeit:** 10 Minuten
 
@@ -610,28 +633,29 @@ When inflicting this bane using Agility or Might, you may determine range using 
 **Angriffsattribute:** Vorwissen
 
 **Angriff**
-- Vorwissen vs. Entschlossenheit (special)
+- Vorwissen vs. Entschlossenheit (Besonders)
 
 **Beschreibung**  
-Either through innate extrasensory perception or a special conduit such as a computer terminal, bubbling cauldron, or a crystal ball, you can view the target from a distance.
+Entweder durch inhärente außersinnliche Wahrnehmung oder durch ein besonderes Werkzeug wie ein Computerterminal, einen brodelnden Kessel oder eine Kristallkugel, kannst du das Ziel aus der Distanz sehen.
 
 **Effekt**  
-You can spy on a person or area that you are familiar with. The power level of this bane determines the maximum distance between you and the target. If successfully invoked, you can see and hear everything that goes on within a 60' radius of your target. Anyone within the targeted area who has a Resolve defense score higher than your Prescience action roll to invoke this bane becomes aware of an unseen presence in the area (regardless of whether or not you succeed at the roll). Certain creatures may be able to identify your spying if they are familiar with such powers.
+Du kannst eine Person oder ein Gebiet ausspionieren, mit dem du vertraut bist. Das Kraftlevel dieses Harmes bestimmt die maximale Distanz zwischen dir und dem Ziel. Falls der Harm erfolgreich gewirkt wird, kannst du alles hören und sehen, was in einem 60' Radius vom Ziel aus passiert. Jeder im Zielgebiet, der einen Entschlossenheit-Wert über dem Ergebnis deines Vorwissenwurfes hat, wird sich der ungesehenen Präsenz am Ort bewusst (egal, ob du mit deinem Wurf Erfolg hattest oder nicht). Bestimmte Kreaturen können in der Lage sich, deine Fernsicht zu identifizieren, falls sie solche Kräfte kennen.
 <ul>
-<li><strong>Power Level 5</strong> - 1 mile or less</li>
-<li><strong>Power Level 6</strong> - 100 miles or less</li>
-<li><strong>Power Level 7</strong> - More than 100 miles, but on the same dimension or plane of reality</li>
-<li><strong>Power Level 9</strong> - Any dimension or plane of reality. (Peering into certain dimensions may expose you to other dangers at the GM's discretion).</li>
+<li><strong>Kraftlevel 5</strong> - 1 Meile oder weniger.</li>
+<li><strong>Kraftlevel 6</strong> - 100 Meilen oder weniger.</li>
+<li><strong>Kraftlevel 7</strong> - Mehr als 100 Meilen, aber in der gleichen Dimension oder auf der gleichen Realitätsebene.</li>
+<li><strong>Kraftlevel 9</strong> - Jede Dimension oder Realitätsebene. (In andere Dimensionen zu blicken kann dich Abwägung des GM anderen Gefahren aussetzen)</li>
 </ul>
 
 **Besonders**  
-When you successfully invoke this bane, at the end of its duration, you can make a Prescience roll to attempt to persist the bane. If successful, the bane persists without requiring the invocation time to be repeated. However, you must retest your new roll against the Resolve scores of those in the targeted area to determine whether or not they can sense your presence.
-You can attempt to spy the same target any number of times, but if your action roll fails, that target becomes immune to your spying for 24 hours.
+Wenn du diesen Harm erfolgreich wirkst kannst du zum Ende seiner Dauer einen Wurf auf Vorwissen machen, um zu versuchen, den Harm anhalten zu lassen. Bei Erfolg hält der Harm an, ohne die Wirkzeit erneut aufwenden zu müssen. Im Zielgebiet wird der Entschlossenheitswert der Betroffenen wieder mit deinem Wurfergebnis verglichen, um festzustellen, ob sie sich der Präsenz der Fernsicht bewusst werden.
+Du kannst Fernsicht beliebig oft auf das gleiche Ziel wirken, aber falls du deinen Aktionswurf zum Wirken verfehlst, ist das Ziel für die nächsten 24 Stunden immun.
 
 > Tags: Außergewöhnlich
 
-### Sickened
-**Dauer:** Widerstehen beendet (Fail x 3 = 1 minute)
+---
+### Erkrankt
+**Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
 **Wirkzeit:** 1 große Aktion
 
@@ -643,15 +667,16 @@ You can attempt to spy the same target any number of times, but if your action r
 - Vergehen vs. Zähigkeit
 
 **Beschreibung**  
-Entropic energy overcomes the target, bombarding their system and inducing nausea that makes self-defense and any kind of action difficult. This bane might stem from a witch's curse, chemical warfare, a powerful poison, or exposure to alien toxins.
+Energie des Vergehens überkommt das Ziel und bombardiert dessen Metabolismus, was Übelkeit hervorruft, die Selbstverteidigung und jede andere Art Aktion schwierig macht. Dieser Harm kann vom Fluch einer Hexe, Biowaffen, starkem Gift oder Kontakt mit außerirdischen Toxinen kommen.
 
 **Effekt**  
-The target has disadvantage 1 on all action rolls and -1 to all defenses.
+Das Ziel hat Nachteil 1 auf alle Aktionswürfe und -1 auf alle Verteidigungen.
 
 > Tags: Außergewöhnlich, Körperlich
 
-### Silenced
-**Dauer:** Widerstehen beendet (Fail x 3 = 1 minute)
+---
+### Verstummt
+**Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
 **Wirkzeit:** 1 große Aktion
 
@@ -666,15 +691,16 @@ The target has disadvantage 1 on all action rolls and -1 to all defenses.
 - Kraft vs. Zähigkeit
 
 **Beschreibung**  
-Silence overcomes the target, whether from the warping of sound around the target, or from a physical effect like strangulation or suffocation. The silence bane is a favorite among assassins, sorcerers, engineers, and mad scientists.
+Stille breitet sich um das Ziel aus, egal ob durch das Manipulieren von Schallwellen um das Ziel oder physischen Effekten wie Erwürgen oder Ersticken. Der Harm Verstummt ist verbreitet bei Assassinen, Zauberern, Ingenieuren und verrückten Wissenschaftlern.
 
 **Effekt**  
-If Might, Agility, or Entropy is used to inflict this bane, then the character is suffering strangulation and unable to speak. If the bane is inflicted using Alteration, then all sound within 5' of the target is suppressed through extraordinary means, making their footsteps and the usual clank of belongings they are carrying inaudible.
+Falls Kraft, Beweglichkeit oder Vergehen benutzt wurden, um diesen Harm zu wirken, leidet der Charakter und Erwürgung und kann nicht sprechen. Falls der Harm mit Wandlung gewirkt wurde, dann erlischt aller Klang innerhalb von 5' um das Ziel durch außergewöhnliche Mittel, sodass z.B. ihre Schritte stumm sind und das Klappern von Ausrüstung nicht gehört werden kann.
 
 > Tags: Außergewöhnlich, Körperlich
 
-### Slowed
-**Dauer:** Widerstehen beendet (Fail x 3 = 1 minute)
+---
+### Verlangsamt
+**Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
 **Wirkzeit:** 1 große Aktion
 
@@ -690,15 +716,16 @@ If Might, Agility, or Entropy is used to inflict this bane, then the character i
 - Bewegung vs. Deckung
 
 **Beschreibung**  
-The target's movement is impaired, either by extreme cold, prolonged heat, poison, or injury to one or both legs. This bane is a favored attack among rogues, ice mages, telekinetisists, and gunslingers.
+Die Bewegung des Ziels ist erschwert, z.B. durch extreme Kälte, andauernde Hitze, Gift oder die Verwundung beider Beine. Diesen Harm findet man bei Schurken, Eismagiern, Telekinetisten und Revolverhelden.
 
 **Effekt**  
-The afflicted target's speed is reduced to half its current speed, rounded down to the nearest 5' increment. This applies to all movement that is physical (flight, walking, climbing, etc.). If the target is currently under a magical effect that increases speed, the two effects are canceled for the duration that both affect the target.
+Die Geschwindigkeit des betroffenen Ziels ist um die Hälfte reduziert, abgerundet zum nächsten Vielfachen von 5'. Das gilt für alle körperliche Bewegung (Flug, Laufen, Klettern, usw. ...). Falls das Ziel momentan einen magischen Effekt hat, der seine Geschwindigkeit erhöht, neutralisieren sich beide Effekte, solange sie auf das Ziel wirken.
 
 > Tags: Außergewöhnlich, Körperlich
 
-### Stunned
-**Dauer:** Widerstehen beendet (Fail x 3 = 1 minute)
+---
+### Betäubt
+**Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
 **Wirkzeit:** 1 große Aktion
 
@@ -713,18 +740,19 @@ The afflicted target's speed is reduced to half its current speed, rounded down 
 - Kraft vs. Zähigkeit
 
 **Beschreibung**  
-You disorient the target's senses, causing them to act much less efficiently. Stunning an enemy can be caused by attacks such as a pistol whip to the back of the head, a kick in the groin, and a deafening thunderclap.
+Du verwirrst die Sinne des Ziels, sodass es deutlich weniger effizient handelt. Ein Ziel kann durch einen Schlag an den Kopf, einen Tritt zwischen die Beine oder einen ohrenbetäubenden Donnerschlag betäubt werden.
 
 **Effekt**  
-During the target's turn, they are limited to either a single major action, a single move action, or a single minor action. Effects that grant additional actions do not circumvent this unless they grant a free action. Note that a target expending its move action to resist this bane will receive the remainder of their usual actions if the resist roll succeeds.
+Im Ziel kann in seinem Zug nur eine einzige große Aktion, Bewegungsaktion oder kleine Aktion ausführen. Effekte, die dem Ziel zusätzliche Aktionen geben, werden bis auf weitere kostenlose Aktionen neutrasiliert. Falls das Ziel erfolgreich mit seiner Bewegungsaktion dem Harm widersteht, erhält es den Rest seiner Aktionen schon im gleichen Zug zurück.
 
 **Besonders**  
-This bane has special rules for boss NPCs (See Chapter 8: Running the Game). A boss is only affected by the stunned bane during its normal initiative turn. It may still take all of its boss actions as usual.
+Dieser Harm hat besondere Regeln für Boss-NPCs (siehe Kapitel 8: Das Spiel leiten). Ein Boss unterliegt dem Effekt von Betäubt nur in seinem normalen Zug in der Initiativereihenfolge. Er kann all seine Boss-Aktionen wie normal ausführen.
 
 > Tags: Außergewöhnlich, Körperlich
 
-### Stupefied
-**Dauer:** Widerstehen beendet (Fail x 3 = 1 minute)
+---
+### Beruhigt[?]
+**Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
 **Wirkzeit:** 1 große Aktion
 
@@ -736,18 +764,19 @@ This bane has special rules for boss NPCs (See Chapter 8: Running the Game). A b
 - Einfluss vs. Entschlossenheit
 
 **Beschreibung**  
-The stupefied bane has examples in many stories and legends: a vampire's eyes, a siren's song, and a nymph's beauty are all known to cast a stupor upon weak-willed mortals. Being stupefied causes the target to be lulled into a false sense of security, tranquility, and pacifism.
+Der Harm Beruhigt findet sich in vielen Geschichten und Legenden: die Augen eines Vampirs, das Lied der Sirenen, die Schönheit einer Nymphe. Sie alle sind dafür bekannt, Sterbliche mit schwachem Geist einzulullen. Beruhigt zu sein lässt das Ziel sich entgegen der eigentlichen Umstände sicher, ruhig und friedlich fühlen.
 
 **Effekt**  
-The target is in a state of mental fog, lowering their mental defenses. While stupefied, the target's Resolve defense is reduced to 10. In addition, the target has the approximate intelligence of a child. If attacked, it will defend itself until the attack ceases using its natural weapons, but the target will never employ any kind of complex tactic or ability, such as spellcasting. If the target sees fire, it will run away. If it feels pain, it will flee.
+Das Ziel hat einen benebelten Geist, sodass seine mentale Verteidigung verringert ist. Während es vom Harm betroffen ist, ist seine Entschlossenheit-Verteidung auf 10 verringert. Weiterhin hat das Ziel etwa die Intelligenz eines Kindes. Falls es angegriffen wird, verteidigt es sich mit seinen natürlichen Waffen (Hände, Füße, Klauen, Schnabel, usw. ...), bis der Angriff aufhört. Das Ziel wird nie komplexe Taktiken oder Fähigkeiten wie Zauber anwenden. Falls das Ziel Feuer sieht oder Schmerzen fühlt, wird es fliehen.
 
 **Besonders**  
-While most banes last until the target actively attempts to resist it, this bane prevents the target from actively attempting to break free. However, the target's true mind is suppressed but fights to regain control. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. Any attack that causes the target mental or physical pain gives the target an additional resist roll to break free from the bane. Also any action that would startle a wild animal (being hit with a rock, slapped on the face, etc.) will also trigger a free resist roll for the target. Unlike other resist rolls, those triggered by damage, fear, and trauma do not count against the target's typically allowed failures of 3, beyond which the duration of the bane would extend. When your target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel sich dem Harm überhaupt bewusst ist. Das Unterbewusstsein des Ziels ist zwar magisch unterdrückt, kämpft aber konstant um Kontrolle. Aus diesem Grund erhält das Ziel am Ende seines Zuges einen Widerstehenwurf als kostenlose Aktion spezifisch gegen diesen Harm. Jeder Angriff, der dem Ziel physischen oder geistigen Schaden zufügt, gibt ihm einen weiteren kostenlosen Widerstehenwurf. Aktionen, die ein wildes Tier verschrecken würden (von einem geworfenen Stein getroffen werden, geohrfeigt werden, usw. ...) geben dem Ziel auch einen kostenlosen Widerstehenwurf. Anders als normale Widerstehenwürfe, zählen diese kostenlos erhaltenen Würfe nicht gegen das normale Limit von 3 fehlgeschlagenen Widerstehenwürfen, bevor der Harm länger anhält. Hat das Ziel bei einem Widerstehenwurf Erfolg, so wird es für 24 Stunden immun gegen alle weiteren Versuche durch dich, diesen Harm auf es zu wirken.
 
 > Tags: Außergewöhnlich
 
-### Truthfulness
-**Dauer:** 10 minutes (special)
+---
+### Wahrheitsgebunden
+**Dauer:** 10 Minuten (Besonders)
 
 **Wirkzeit:** 10 Minuten
 
@@ -759,14 +788,15 @@ While most banes last until the target actively attempts to resist it, this bane
 - Einfluss vs. Entschlossenheit
 
 **Beschreibung**  
-By controlling the target's mind through compulsion magic, chemical injection, neural probes, or similar means, you render them incapable of lying deliberately. This is a favored bane among enchanters, mad scientists, psychics, and thought police.
+Indem du den Geist des Ziels durch Magie, chemische Injektion, Neuralsonden oder ähnliche Wege gefügig machst, verhinderst du jede willentliche Lüge des Ziels. Dieser Harm ist beliebt bei Verzauberern, verrückten Wissenschaftlern, Psychikern und der Gesinnungspolizei[?].
 
 **Effekt**  
-The target answers any question asked with honesty, to the best of their knowledge. When compelled to reveal something they would not reveal outside of duress, the target makes a Will roll and you make an Influence roll. If the target's roll is higher than yours, then they resist the bane and the effect ends.
+Das Ziel beantwortet alle Fragen so gut es kann ehrlich. Falls eine Antwort etwas enthüllen würde, was das Ziel normalerweise verborgen halten wollte, macht das Ziel einen Willenskraftwurf gegen einen Einflusswurf durch dich. Falls der Willenskraftwurf höher ist, widersteht das Ziel dem Harm und der Effekt wird aufgelöst.
 
 **Besonders**  
-When you successfully invoke this bane, at the end of its duration, you can make another Influence roll to attempt to persist the bane. If successful, the bane persists without requiring the invocation time to be repeated.
-When a target wins the contested Will vs. Influence roll, you cannot target them with this bane again for 24 hours.
+Wenn du den Harm erfolgreich wirkst, kannst du zum Ende seiner Dauer einen weiteren Einflusswurf machen, um den Harm zu verlängern. Bei Erfolg hält der Harm an, ohne dass du erneut die Wirkzeit aufbringen musst.
+Hat ein Ziel beim bestrittenen Wurf Willenskraft gegen deinen Einfluss Erfolg, wird es 24 Stunden gegen deine Wirkung dieses Harms immun.
 
 > Tags: Außergewöhnlich
 
+---
