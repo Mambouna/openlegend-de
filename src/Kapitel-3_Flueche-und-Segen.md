@@ -47,4 +47,10 @@ Jede Beschreibung eines Wohls enthält die folgenden Elemente.
 
 **Beschreibung.** Dieser Eintrag gibt einfach eine grundlegende Idee davon, wie das Wohl im Kontext der Geschichte aussehen könnte.
 
+<<<<<<< HEAD
 **Effekt.** Dieser Eintrag führt den spielmechanischen Einfluss des Wohls nach den Regeln auf.
+=======
+**Effekt.** Dieser Eintrag führt den spielmechanischen Einfluss des Segens nach den Regeln auf.
+
+[?]**Besonders.** Manche Flüche haben besondere Einschränkungen oder anderweitig weitergehende spielmechanische Informationen, welche unter Besonders aufgeführt werden.[?]
+>>>>>>> main

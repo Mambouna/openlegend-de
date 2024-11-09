@@ -34,6 +34,136 @@ Das Hindernis durch eine aktivierte Charakterschwäche sollte mehr sein, als das
 > Die Psionikerin Madrina hat die Schwäche *ehrgeizig*. Nachdem sie eine Gruppe Zivilisten der Minenkolonie vor einem Einbruch der Luftschleuse gerettet hat, darf sie vom Kanzler eine Belohnung erbitten. Sie bittet um die Hand seines Ältesten in Ehe, anstatt einer vernünftigeren Option wie dem Erhalten eines Schatzes aus seinem Besitz. Der Kanzler verfällt in Rage, aber der GM vergibt einen Legendenpunkt für das Rollenspielen einer Schwäche auf eine Weise, die die Geschichte vorantreibt.
 
 ## Beschreibungen von Charakterstärken
-[TODO]
+### Zeitlos
+Egal ob du ein Androide konstruiert im 21. Jahrhundert bist, der nicht mit der Zeit verschleißt, der loyale Diener einer höheren Macht bist oder aber Opfer eines arkanen Rituals wurdest, hast du das Geheimnis der Unsterblichkeit gelöst. Du bist gegen den Lauf der Zeit immun, alterst nicht und negative Effekte, die Altern auslösen würden, wirken auf dich nicht. Je nach der Quelle deiner Alterslosigkeit kannst du selbst entscheiden, ob sich dein Antlitz über die Zeit verändert.
+### Handwerker
+Wähle ein spezifisches Handwerk, zum Beispiel Waffenschmied, Ingenieur, Glasblasen oder Bier brauen. Du bist ein Meister deiner gewählten Disziplin und dein Ruf dafür eilt dir voraus. In einer vom GM festgelegten Zeitspanne kannst du jede für dein Handwerk passende Art von einfachem Item mit Wohlstandswert 2 oder weniger erschaffen, solange du Zugang zum nötigen Werkzeug hast.<br>Weiterhin erhälst du Vorteil 1 auf alle Aktionswürfe, die etwas mit deinen Fähigkeiten im Handwerk zu tun haben. Dein Ruf bedeutet, dass andere in deiner Disziplin dich eventuell mit Bitte um ihre Lehre aufsuchen. Experten deines Feldes, die deine Items nutzen, werden dich anderen aktiv empfehlen. "Du willst die beste overclock-CPU für deinen Supercomputer? Da musst du zu Razul gehen, der ist der beste Hardware-Mechaniker diesseits der Dritten Sonne.
+### Asket
+Du bist mit dem Leben mit weniger gut vertraut. Egal, ob du ein Mönch im Kloster, ein transzendenter Psioniker oder ein grauer Zauberer in deinem Bücherturm bist, du bist es gewohnt, lange Zeit mit wenig Wasser, Essen oder Gesellschaft auszukommen. Mangel in diesen Bereichen beeinflusst dich weniger, als die meisten anderen, da du gegen ihre physische und geistige Effekte gestählt bist und deine Selbstkontrolle über deine Dränge ist stark ausgeprägt. Wann immer du in einer Situation bist, in der deine Natur als Asket eine Rolle spielt, hast du Vorteil 1 auf alle davon betroffenen Aktionswürfe.
+### Attraktiv
+Du bist ein absoluter Hingucker. Die Vorteile dessen helfen dir in einer Vielzahl sozialer Situationen, nicht nur in der Romantik. Wann immer deine Attraktivität in einer Situation eine Rolle spielt, erhälst du Vorteil 1 auf alle davon betroffenen Aktionswürfe.
+### Grobian[?]
+Während andere ihre Silberzunge schnellen lassen, sprichst du die universelle Sprache der Furcht. Einmal pro Spielsitzung kannst du während einer Demonstration deiner physischen Macht dein Kraftattribut als relevantes Attribut für einen Überzeugungswurf nutzen. Falls dein Überzeugungswert höher oder gleich deinem Kraftwert ist, erhälst du stattdessen Vorteil 1 auf den Wurf.
+### Mutig
+Wenn alles verloren scheint, gibst du trotzdem nicht auf. Einmal pro Spielsitzung kannst du als kostenlose Aktion alle negativen Effekte abschütteln, die mit Furcht oder schlechter Moral zu tun haben.
+### Massenliebling[?]
+Vielleicht bist du ein Schauspieler, Musiker, Magier oder sonst eine andere Art Performer. Egal was deine Show ist, das gemeine Volk liebt sie. Sie rühmen dich für deine Fähigkeit, sie durch deine Kunst aus ihrer Welt der täglichen Erniedrigung zu befreien und so kannst du überall die Chance finden, zu performen und etwas Geld in der lokalen Taverne oder einem Gasthaus zu verdienen.
+### Krankheitsimmunität
+Du bist immun gegenüber natürlichen Krankheiten. Dieser Schutz schließt übernatürliche Flüche oder Krankheiten wie Lykanthropie[?] nicht ein.
+### Himmlischer Agent
+Du dienst einem höheren Wesen und hast dir dessen Schutz verdient. Einmal pro Spielsitzung kannst du automatisch einen *Gnadenstoß* abwenden. Nutzt jemand diesen gegen dich, wenn du unter 1 TP hast, heilst du dich auf 1 TP hoch.
+### Himmlische Einsicht
+Du hast eine übernatürliche Verbindung du einem Gott, Halbgott oder anderer Art göttlichem Wesen, welches dir außerweltliche Einsicht erlaubt. Einmal pro Spielsitzung kannst du ein Thema wählen, das für die Geschichte relevant ist. Der GM teilt dir eine nützliche Information zu diesem Thema mit. Falls du gerade bei einem *Lernen*-Attributwurf Misserfolg hattest, entscheidet der GM, ob er dir aufgrund dieser Charakterstärke trotzdem das Wissen gibt, oder aber Wissen, welches nichts mit dem Wurf zu tun hatte.
+### Am Ohr des Imperators
+Du hast in der Vergangenheit etwas getan, um dir das Wohlwollen von jemand in hohen Kreisen zu verdienen: ein Senator, der General einer Armee, ein Handelsbaron usw.. Vielleicht hast du sein Leben gerettet oder ihn vor signifikanten Verlusten bewahrt. Egal, was du getan hast, die Person schuldet dir etwas und ist bereit, dir mit kleineren Bitten zu helfen, solange sie kein Risiko oder Verlust für sie darstellen. Einmal pro Kampagne kannst du eine Hilfe mit einer großen Bitte fordern, die deinen Kontakt selbst in Gefahr bringen oder sie etwas wichtiges kosten. Die Person wird dir helfen, aber danach verlierst du diese Charakterstärke, da die Schuld abbezahlt ist.
+### Außergewöhnliche Präsenz
+Deine inhärent übernatürliche Natur zeigt sich durch eine merkliche Eigenschaft deiner Wahl. Dein Augen könnten glühen, deine Haut Kälte absondern oder ein Pfad verwelkender Pflanzen deinem jeden Schritt folgen. Je nach Art deiner außergewöhnlichen Präsenz lässt sie andere dich eventuell mehr fürchten, dich bewundern, dir trauen oder anders ihren ersten Eindruck von dir beeinflussen. Wann immer deine außergewöhnliche Präsenz für eine soziale Situation relevant ist, hast du Vorteil 1 auf alle davon betroffenen Aktionswürfe.
+### Auf der Flucht
+Du bist Teil eines illegalen Netzwerks - eine Diebesgilde, ein Untergrundnetz von Datenbrokern oder etwas anderes - und kannst einmal pro Spielsitzung einen Gefallen von deinen Kontakten einfordern, um dir bei einer einfachen Aufgabe wie z.B. Informationen sammeln oder sicheren Transport organisieren zu helfen. Falls der geforderte Gefallen deinen Kontakt selbst einer Gefahr aussetzt, werden sie ihn vielleicht trotzdem erfüllen, aber dann musst du damit rechnen, ihnen bei etwas ebenso gefährlichem Helfen zu müssen.
+### Idol[?]
+Dein Ruf für eine besondere Charakterqualität eilt dir voraus und die meisten Leute haben ein sehr gutes Bild von dir. Einmal pro Spielsitzung kannst du deinen guten Ruf nutzen, um jemandes Respekt zu gewinnen, der sonst vorsichtig oder misstrauisch deiner Gruppe gegenüber wäre.
+### Unschuldig
+Deine ferne Verwandschaft mit Feen oder einfach eine unschuldige Aura der Naivität geben dir einen kindhaften Eindruck, der auch die kältesten Herzen erwärmen kann. Einmal pro Spielsitzung kannst du deine Unschuld zu nutzen, um dir einen Feind gewogen zu machen. Er könnte ein Auge zudrücken, wenn du etwas illegales tust, eine Schuld verzeihen oder vor den Behörden für dich einstehen.
+### Alleskönner
+Du hast ein Händchen dafür, dir neue Fähigkeiten anzueignen. Einmal pro Spielsitzung kannst du automatisch bei einem Aktionswurf bis zu HW 14 Erfolg haben, der mit einem Handwerk, Handel oder ähnlicher Fähigkeit zu tun hat. Der Aktionswurf kann keine Kampfhandlung sein und nicht unter Zeitdruck geschehen, um diese Charakterstärke anwenden zu können.
+### Legendäre Blutlinie
+Dein Stammbaum kann zu Drachen, Raumtemplaren, einem uralten Order der Erzmagier, einer intergalaktischen Dynastie oder anderen ähnlich machtvollen Gruppen zurückverfolgt werden. Diejenigen, die deinen Hintergrund kennen und respektieren, begegnen dir mit Ehrfurcht. Wähle eine der Domänen Arkana, Politik oder Kriegsführung. Andere schenken deinen Worten Gewicht und erwarten, dass du im gewählten Gebiet kompetent bist und ein Schicksal der Größe dich darin erwartet. Dieser Einfluss könnte deine Aufnahme in eine arkane Universität garantieren, dir einen Zugriff auf die verschlossene Datenbank der Raumtemplaren gewähren, eine Lehre unter einem berühmten Senator erlauben oder einen Leutnant der dich nicht kennt trotzdem deinen Befehlen folgen.
+### Lokaler Held
+Du bist in einem Landstrich gut bekannt und wirst als Beschützer des einfachen Volks respektiert. Der Durchschnittsbürger in dieser Region wird zu dir aufsehen und Essen, Unterkunft und andere Notwendigkeiten mit dir teilen. Sie werden auch kleine Risiken oder Kosten für dich auf sich nehmen, so lange es nicht um Leben und Tod geht.
+### Glückspilz[?]
+Einmal pro Spielsitzung kannst du in einem Moment der Not das Glück auf deine Seite ziehen. Der GM entscheidet, wie sich dieser Glücksmoment auf das Geschehen auswirkt. Ein Angriff, der dich treffen sollte, könnte stattdessen auf einen Verbündeten zielen, du könntest im letzten Moment einen Geheimgang finden, um einer Falle zu entgehen oder ein lokaler Scheriff könnte ein kleines Verbrechen durchgehen lassen, weil ihr zufällig im gleichen Kiez aufgewachsen seid.
+### Händler
+Du verstehst die Wirtschaftskunst und die besten Geschäftsleute. Als Meister von Angebot und Nachfrage hast du einen Instinkt dafür, wann du kaufen oder verkaufen solltest. Du kannst beim Feilschen nicht über den Tisch gezogen werden und weist, ob du einen guten Preis angeboten bekommst. Weiterhin hast du Freunde in Händlerkreisen und -gilden in deiner Heimatstadt und kannst solche Beziehungen mit genug Zeit auch leicht in neuen Orten knüpfen.
+### Freund der Natur
+Die Welt der Natur antwortet auf deine tiefe Beziehung zu ihr. Vielleicht ist es deine Mission, in einer post-apokalyptischen Welt das organische Leben wieder zu verbreiten oder aber du bist ein Eremit, der in enger Verbundenheit mit den Tieren und Pflanzen der sylvanischen Wälder lebt. Was immer dein Hintergrund ist, Leute und Kreaturen, die mit dem Land verbunden sind, können deinen tiefen Respekt für die Gesetze der Natur spüren. Wilde Tiere schenken deinen Wünschen Gehör, primitive Stämme geben dir einen Vertrauensvorschuss und scheue Druiden oder Schamanen in abgelegenen Regionen sind bereit, dich anzuhören.
+### Aufmerksam
+Deine scharfen Sinne erlauben es dir, Details wahrzunehmen, die andere übersehen würden. Einmal pro Spielsitzung kannst du diese Fähigkeit nutzen, um etwas zu bemerken, was nicht ist wie es sein sollte[?]. Du entdeckst einen verborgenen Durchgang hinter einem Bücherregal, entdeckst eine Spur Blut unter den Fingernägeln eines Opfers oder erkennst ein Toupé. Falls du diese Charakterstärke einsetzt, nachdem du bei einem *Wahrnehmungswurf* Misserfolg hattest, kann der GM entscheiden, ob du die Information des Wurfes erkenst oder etwas komplett anderes bemerkst.
+### Beruf
+Wähle einen bestimmten Beruf, zum Beispiel Segler, Soldat oder Minenarbeiter. Du weist alles, was es zu diesem Beruf zu wissen gibt und bist ein Meister der dafür nötigen Fähigkeiten. Ein Segler könnte alle möglichen Knoten binden, nach den Sternen navigieren und jede mögliche Position auf einem Schiff bemannen. Ein Soldat kennt sich mit einer Vielzahl Waffen aus, versteht Militärtaktiken und kann mühelos durch die Befehlskette navigieren. Weiterhin hast du auf alle nicht-kampfbezogenen Aktionswürfe, die etwas mit deinem Beruf zu tun haben, Vorteil 1.
+### Gutherz
+Jede Kreatur guter Natur, auf die du triffst, ist dir wohlgesonnen, statt dich zunächst neutral zusehen. Umstände können diesen Eindruck verändern, aber selbst wenn deine Taten die Meinung solcher Wesen von dir verschlechtern, bleiben sie immer ein Maß positiver dir gegenüber, als sie es sonst wären.
+### Resilient
+Du bist außergewöhnlich schwierig auszuschalten. Einmal pro Spielsitzung kannst du automatisch bei einem *Zähigkeit*-Wurf mit HW bis zu 10 + 2\*dein Zähigkeitswert Erfolg haben.
+### Aasgeier[?]
+Dein Leben war bisher von konstanter Notwendigkeit geprägt und so weißt du, wie du etwas beschaffen kannst, wenn andere leer ausgehen würden. Einmal pro Spielsitzung kannst du ein einziges einfaches Item beschaffen, obwohl dies sonst viel Zeit brauchen würde oder unmöglich wäre. Den Umständen entsprechend kann der GM entscheiden, dass deine Beschaffung temporärer Natur ist oder anderen sinnvollen Auflagen unterliegt. Zum Beispiel könntest du diese Charakterschwäche nutzen, um inmitten der Wüste an ein Seil zu kommen, aber der GM könnte entscheiden, dass es alt und von der Sonne gebleicht ist und so nach ein paar Nutzungen reißen wird.
+### Geruchssinn
+Dein Geruchssinn ist fast schon animalistisch oder sonst anderweitig extrem ausgeprägt. Als Fokusaktion kannst du die Anzahl und relativen Positionen von lebenden Kreaturen innerhalb von 60' erkennen. Mit einer weiteren Fokusaktion kannst du dich auf eine spezifische Geruchsspur konzentrieren und deren Position verfolgen, solange sie innerhalb von 60' bleibt. Du erhälst Vorteil 1 auf Würfe zum Verfolgen von Kreaturen, falls diese eine Geruchsspur hinterlassen haben.
+### Gelehrter
+Du hast jahrelang eine bestimmte wissenschaftliche Disziplin studiert, zum Beispiel Physik, Kräuterkunde, Drachensagen[?], Geschichte, Politik oder Religion. Einmal pro Spielsitzung kannst du einen fehlgeschlagenen *Lernenwurf* mit Vorteil 2 erneut versuchen, wenn dieser mit deiner Disziplin zu tun hat. Weiterhin hast du Kollegen und Verbindungen in deinem Feld und kennst die korrekten Wege, darin Zugang zu spezialisierten Laboratorien, Bibliotheken, Tempeln oder anderen Sammlungen von Wissen zu erhalten.
+### Silberzunge
+Du bist geübt darin, dezente Komplimente und verborgene Einflussnahmen in alltägliche Konversation einzuschleusen. Einmal pro Spielsitzung kannst ein nützliches Geheimnis nach Wahl des GM über eine intelligente Kreatur oder Person erfahren, mit der du mindestens fünf Minuten redest.
+### Sinn für Stein[?]
+Befindest du dich unter der Erde findest du vielleicht nicht immer, wonach du suchst, aber du verlierst nie ganz die Orientierung. Du kannst immer den Weg zurück zum Eingang finden und hast außerdem Vorteil 1 auf alle Aktionswürfe, bei denen Vertrautheit mit unterirdischen Umgebungen hilfreich ist. Beispiele hiefür könnten das Identifizieren des Risikos eines Höhleneinsturzes sein oder das Finden von geheimen Gängen in Tunnelsystemen.
+### Straßenkind
+Du wurdest auf der Straße groß oder hast zumindest einen guten Teil deiner Kindheit damit verbracht, auf ihr dein Dasein zu bestreiten. In urbanen Gebieten weißt du dich schnel fortzubewegen, unterzutauchen und auch dann einen Bissen zu Essen zu organisieren, wen das Glück dir gerade nicht gewogen ist. Als eine der unbeachteten Straßenratten, die die Stadt heimsuchen, weißt du außerdem, wie du in vollen Gasse und lauten Kaschemmen Gerüchte heraushören kannst. Du hast Vorteil 1 auf Würfe in Situationen, bei denen deine Fähigkeiten als Straßenkind hilfreich sind.
+### Oberschicht
+Da du adlig bist, aus einem Haus alten Geldes kommst oder anderweitig Zugang zu Ressourcen jenseits der Mittelschicht hast, wirst du vom gemeinen Volk als Gönner behandelt. Es wird dir vetrauen und dich in der Hoffnung unterstützen, für ihre Dienste belohnt zu werden. Diejenigen in ähnlichen hohen Positionen werden dich auf Augenhöhe behandeln und du kannst normalerweise eine Audienz bei ihnen organisieren. Zusätzlich werden Vertreter des Gesetzes dich generell nicht verdächtigen, wenn ihnen nicht überzeugende Beweise gezeigt werden.
+### Vagabund
+Nachdem du eine lange Zeit in der Wildniss alleine überleben musstest, bist du geübt darin, in der Natur zu überleben und zu navigieren. Du weißt immer, wo Norden ist und kannst automatisch genug Essen sammeln oder jagen, um dich selbst und eine Anzahl weiterer Personen gleich deinem Lernen-Wert zu versorgen.
+### Kriegercodex
+Als Kampfveteran verdienst du dir selbst von deinen Feinden Respekt. Einmal pro Spielsitzung kannst du diese Charakterstärke nutzen, um von einem Feind oder einer Gruppe von Feinden aufgrund eines unausgesprochenen Kriegercodex besser behandelt zu werden. Der GM entscheidet, wie diese Bevorzugung aussieht. Zum Beispiel könnten Feinde deinem Wort glauben und dich ungefesselt abführen oder eine Beleidigung hinnehmen, die sonst zu Blutvergießen geführt hätte.
+### Flüsterer der Wildnis
+Einmal pro Spielsitzung kannst du einer Pflanze oder einem Tier in Hörweite eine einfache "Ja"- oder "Nein"-Frage stellen. Die Pflanze oder das Tier vertraut dir automatisch genug, um die Frage zumindest wahrheitsgemäß zu beantworten. Du erhälst die Antwort über einen inneren siebten Sinn und keine weitere zweiseitige Kommunikation ist möglich.
 ## Beschreibungen von Charakterschwächen
-[TODO]
+### Geistesabwesend
+Du lebst mit dem Kopf in den Wolken. Du könntest einfach unbeholfen sein oder aber du hast zu jeder Zeit anderes im Kopf als deine direkte Umgebung. Was auch immer die Quelle deines geistigen Abschweifens ist, du bemerkst wichtige Details erst langsam und hast eine Tendenz, im schlimmstmöglichen Moment besonders leicht abzulenken zu sein.
+### Sucht
+Der Wurf der Würfel, der Rauch des schwarzen Lotus, der Eskapismus der VR-Brille. Egal, ob deine Sucht physisch, mental oder sozial ist, der Effekt ist generell der gleiche: du hast einen Kitzel, den du verfolgen musst, selbst wenn es dich riskante oder abscheuliche Dinge tun lässt. Du kannst entscheiden, welcher Art und Schwere deine Sucht ist.
+### Ehrgeizig
+Du würdest alles tun, um im Leben vorzupreschen, auch wenn du dafür andere mit Füßen trittst. In Situationen, die von dir Empathie für Schwächere erfordert, ist es typisch für dich, ihre Not zu ignorieren. Zusätzlich wirst du manchmal auch riskante Entscheidungen treffen, um voran zu kommen, die dich und die um dich in Gefahr bringen können.
+### Blutlust
+Der Kampf ist nicht einfach ein Lebensweg, es ist *der* Lebensweg. Es gibt keinen Konflikt auf den du getroffen bist, den du nicht am besten mit Stahl und Blei lösen konntest und deine Verbündeten haben es schwer, dich anderweitig zu überzeugen. Du neigst dazu, Kämpfe zu starten, wenn sich nicht nötig sind und führst sie weiter, selbst wenn der Feind sich ergeben will.
+### Ungestüm
+Du bist kühn und liebst das Risiko bis zur Leichtsinnigkeit. Du hast keine Zeit für Pläne, Berechnungen und Strategie. Eine Menge Schlag und ein bisschen -ring ist alles was du brauchst. Tritt die Tür ein und lass die anderen sich um die Details sorgen.
+### Bravado
+Du hast ein Flair für das Drama und wirst oft kühne Maneuver allein für den Kitzel des Moments ausführen. Im Kampf schwingst du dich vielleicht an einem Kerzenleuchter durch den Raum, auch wenn das keinerlei taktischen Sinn Vorteil gibt.
+### Äußerlicher Makel
+Etwas an dir macht dich unattraktiv, unangenehm anzuschauen oder sogar abscheulch. Du kannst entscheiden, welcher Art und Schwere dein Makel ist. Beispiele wären eine narbengezeichnete Wange, weiß-milchige Augen, ein verbranntes Körperteil oder eine fehlende Nase. Egal, welche Form dieser Makel hat, er ist rein kosmetischer Natur und beeinflusst dich so nur in sozialen Situationen
+### Tick
+Du hast einen unverwehrbaren Drang, ein Verhalten deiner Wahl auszuführen. Mit den Zähnen knirschen, mit dem Fuß wippen, an den Fingernägeln knabbern, Münzen zählen oder deine Hände waschen, all das wären mögliche Ticks. Dein Tick kann dich manchmal in unangenehme oder peinliche Situationen versetzen, zum Beispiel wenn du dich gezwungen fühlst, nach dem Händedruck mit einem Diplomat direkt die Hände zu waschen.
+### Feige
+Du hast Selbstschutz zu einem Lebensweg gemacht und würdest alles tun, um Gefahr, Schmerz und Tod zu entgehen. Manchmal kann eine Situation dich fast mutig erscheinen lassen, wenn das Adrenalin dich zu großen Taten anspornt, aber zuletzt wird sich deine feige Natur immer wieder zeigen. Es ist leicht, dich einzuschüchtern und du wirst fast sicher jedem Verhör standgeben. Du kannst trotzdem kämpfen, aber im Gefecht wirst du versuchen, Distanz zur Gefahrenzone zu finden, selbst wenn du dadurch deine Verbündeten im Stich lässt.
+### Schwachsinnig
+Du bist nicht die hellste Birne im Lampenladen. Es ist nicht nur ein Fehlen von akademischem Talent, insgesamt bist du ziemlich langsam im Kopf. Abgesehen von den Gebieten deiner Expertise ist es schwer für dich, neue Fähigkeiten zu lernen, Anweisungen zu befolgen und vielleicht sogar dich an Namen zu erinnern.
+### Behindert
+Du hast eine körperliche Behinderung, die dich im Alltag zurückhält. Du entscheidest, welche Art und Schwere deine Behinderung hat. Einige Beispiel wären Blindheit, Taubheit, fehlende Extremitäten, teilweise Paralyse, Osteoporose oder schwere Allergien.
+### Gierig
+Du kannst nicht anders, du magst einfach *Sachen*. Geld, Juwelen, Gegenstände der Macht - sie rufen jederzeit nach dir und du nimmst große Risiken in Kauf, würdest vielleicht sogar deine Verbündeten verraten, falls der Profit groß genug wäre. Du bist einfach zu bestechen und wirst oft in Verhandlungen oder im Feilschen bis an die Grenze gehen, selbst wenn dir das neue Feinde beschafft.
+### Ehrlich
+Du würdest nicht mal um deines Lebens oder das eines anderen willen lügen oder täuschen.
+### Hitzkopf
+Deine Lunte ist kurz und wenn du explodierst, dann aber richtig. Manchmal kocht deine Wut langsam hoch und manchmal geht sie unerwartet wie ein Vulkan hoch. Deine Ausbrüche nehmen für dich selbst meist kein gutes Ende.
+### Analphabet
+Du kannst weder lesen noch schreiben, auch in Sprachen die du flüssig sprichst.
+### Geradeaus-Geist[?]
+Du hast Schwierigkeiten mit Konzepten und Formulierungen, die nicht buchstäblich wahr sind, wie z.B. Sprichwörter und Metaphern. Sagt dir jemand, dass es Hunde und Katzen regnet, vermutest du vielleicht, dass Magie im Spiel ist. Wenn ein Freund dir sagt "Ich würde mich umbringen, sollte Melzak tatsächlich Bundesrichter werden" machst du dir ernsthaft Sorgen um ihn, sollte Melzak gewählt werden.
+### Stimmungsstörung
+Du leidest unter einer psychologischen Krankheit, die deine Stimmung beeinflusst, z.B. Depression oder Angstzustände. Du entscheidest, welcher Art und Schwere deine psychische Krankheit ist.
+### Naiv
+Egal, ob du unschuldig, schlecht informiert bist oder einfach keine Erfahrung hast: du bist leicht hops zu nehmen. Du entscheidest selbst, welcher Art deine Naivität ist. Vielleicht bist du ein Greenhorn aus der Großstadt an der Ostküste, sodass du die Sitten des wilden Westen noch nicht kennst. Vielleicht wurde dein gesamtes Gedächtnis gelöscht und so musst du die Regeln der Gesellschaft neu kennenlernen, was deine Naivität deutlich allumfassender macht.
+### Direkt
+Du hast eine starke Abneigung gegen Täuschungen, zweideutiges Gestikulieren und Silberzungen. Der kürzeste Weg zwischen zwei Punkten ist eine gerade Linie, warum also davon abweichen? Deine Direktheit kann sogar dazu führen, dass die aus Versehen die Pläne deiner Verbündeten durchkreuzt, indem du etwa ein sensibles Faktum mitten in einer angespannten Verhandlung preisgibst.
+### Übergewichtig
+Du trägst ein paar Kilo extra mit dir herum, die immer dann im Weg zu sein scheinen, wenn es gerade am wenigsten passt. Beispiele wären das Erklimmen von Leitern oder Überqueren von brüchigen alten Hängebrücken.
+### Pazifist
+Du verabscheust Kampf und Blutvergießen jeder Art und wirst generell alles versuchen, um sie zu vermeiden. Du kannst selbst entscheiden, wie weit dein Pazifismus geht. Vielleicht ist Gewalt für dich ein letztes Mittel, oder aber du würdest eine Waffe nicht mal zu deiner eigenen Verteidigung erheben.
+### Phobie
+Du bist völlig verängstigt und kannst keinen klaren Gedanken mehr fassen, wenn du mit dem Objekt deiner Angst konfrontiert wirst. Es könnten Spinnen sein, Schlanden, geschlossene Räume, Menschenmengen oder auch etwas selteneres wie Kodependenz: die Furcht davor, alleine zu sein, sodass du immer Weggefährten suchst, selbst wenn diese sich negativ auf dein Leben auswirken.
+### Stolz
+Manche würden es ein übergroßes Ego nennen, andere Einbildung. Du weist, dass du wirklich einfach so gut bist. Der breite Pöbel ist dir nicht gewachsen und du schämst dich nicht, ihnen das klarzumachen. Dein Stolz könnte ein universelles Gefühl der Überlegenheit sein oder sich nur in bestimmten Situationen oder bei gewissen Themen zeigen. Dein Rang in der königlichen Raumstreitmacht könnte dich zum Beispiel auf all die herabblicken lassen, die in weniger hoch geehrten Regimentern trainiert wurden.
+### Psychotisch
+Du bist gravierend mental instabil, sodass du manchmal den Draht zur Realität verlierst. Du entscheidest, welcher Art und Schwere deine Psychose ist, darunter auch mögliche Auslöser für Anfälle. Du könntest zum Beispiel glauben, dass Wesen einer anderen Dimension versuchen, dich zu kidnappen oder aber du verfällst immer wieder in alptraumhafte Visionen eines lang zurückliegenden Schlachtfeldes, wenn du in einen Schusswechsel gerätst.
+### Kurzer Atem
+Du hast eine geringe Lungenkapazität und ermüdest leicht. Sprints, Langlauf und langes Marschieren sind für dich entweder unmöglich oder aber du bist danach zu nichts mehr zu gebrauchen, bis du dich erholen konntest.
+### Krank
+Du leidest unter einer chronischen Krankheit oder einem Syndrom, z.B. Tuberkulose, Krebs, Arthritis oder Reizdarm. Selbst wenn du die Möglichkeit hast, die Krankheit zu behandeln oder die Symptome zu lindern, kannst du trotzdem noch Episoden oder Anfälle haben, die dein Abenteurerleben hindern.
+### Sozial Unbeholfen
+Etwas an deinem Verhalten stößt anderen falsch auf. Vielleicht respektierst du ihren persönlichen Raum nicht, neigst dazu, in Gesprächen abzuschweifen oder teilst viel zu persönliche Details aus deinem Leben oder dem anderer. Was auch immer die Natur deiner Schwierigkeiten mit Menschen ist, sie macht soziale Situationen manchmal schwerer.
+### Stur
+Entweder wie du willst, oder gar nicht. Vielleicht ist es nicht immer so, aber wenn du deine Entscheidung getroffen hast, lässt du dich nicht mehr bewegen. Selbst Kompromissen wirst du wahrscheinlich nicht zustimmen.
+### Unkoordiniert
+Dein Körper kommt nicht gut mit sich selbst klar. Du hast Probleme mit deiner Balance, Fangen und Werfen und anderen Arten physischer Koordination, die Beweglichkeit und Fingerspitzengefühl verlangen.
+### Rachsüchtig
+Du lässt keinen Schnitzer ungesühnt. Während manch anderer vielleicht die Beleidigung eines Betrunkenen in der Taverne abschütteln würden, siehst du es als persönlichen Angriff und verlangst einen Preis dafür. Je größer das Verbrechen, desto schrecklicher die Rache, die du üben wirst.
+### Überzeugung
+Du stehst für etwas ein - sei es eine Religion, Nation, ein Codex, Lebensweg oder etwas anderes - und wirst die Grenzen normalen Verhaltens austesten, um deine Ideale zu vertreten. Das könnte bedeuten, dass du dich beim Versuch, andere zu deiner Sache zu rekrutieren, sozial ausgrenzt. Vielleicht bist du auch bereit, andererseits böse Taten zu vollbringen, wenn sie deine Überzeugung vertreten, z.B. indem du Leben Unschuldiger in Gefahr bringst.
