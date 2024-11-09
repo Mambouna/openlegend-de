@@ -1,5 +1,5 @@
 - !
-  name: Absorb Object
+  name: Objekt absorbieren
   OGname: Absorb Object
   tags:
   - Außergewöhnlich
@@ -16,11 +16,11 @@
   invocationTime: 1 große Aktion
   duration: Permanent
   description: |
-    By restructuring your bodily composition, creating an extradimensional space, utilizing a cybernetic storage implant, or similar means, you absorb an object into your body, leaving it completely hidden from others and ready for access at a moment's notice.
+    Indem du deinen physischen Körperaufbau neustrukturierst, einen extradimesionalen Raum schaffst, ein cybernetisches Taschenimplantat oder andere Wege nutzt, kannst du ein Objekt in deinen Körper absorbieren, sodass es vollständig vor anderen verboren ist und jederzeit wieder hervorgeholt werden kann.
   effect: |
-    The object remains in place, completely hidden from the perception of others, until the target summons or recalls it (automatically) as a minor action. If anything happens to cancel this boon (such as the nullify bane), the object is immediately shunted out of the target's body as if the object had been withdrawn.
+    Das Objekt verbleibt vollständig vor der Wahrnehmung anderer verborgen in deinem Körper, bis das Ziel es als kleine Aktion wieder hervorruft. Falls etwas passiert, was dieses Wohl auflöst (zum Beispiel das Wohl *nullifizieren*), wird das Objekt sofort aus dem Körper des Ziels herausgeholt, als wäre es absichtlich hervorgeholt.
 - !
-  name: Animation
+  name: Animieren
   OGname: Animation
   tags:
   - Außergewöhnlich
@@ -37,17 +37,17 @@
   - Creation
   - Entropy
   - Logic
-  invocationTime: 8 Hours
+  invocationTime: 8 Stunden
   duration: Permanent
   description: |
-    You create a being of subhuman intelligence that persists indefinitely and autonomously. It might be a living creature, an undead fiend, a sentient construct, or any similar creation possessing lifelike properties. Examples of this boon in play include a necromancer creating an undead bodyguard, a mad scientist forging a subhuman being from body parts collected from a variety of corpses, and an engineer creating a cyborg from parts collected at a scrap yard.
+    Du erschaffst ein Wesen von weniger als menschlicher Intelligenz, das autonom und dauerhaft geschaffen bleibt. Es könnte eine lebendige Kreatur sein, ein untotes Geschöpf, ein tenisches Konstrukt mit Intelligenz oder jede andere Art Kreation, die lebensartige Eigenschaften hat. Beispiele dieses Wohls im Spiel umfassen Nekromanten, die sich untote Leibwächter schaffen, verrükte Wissenschaftler, die aus Körperteilen ein Meisterwerk animieren oder Ingenieure, die aus Teilen vom Schrotthof einen Cyborg zusammenbauen.
   effect: |
-    You are able to create an autonomous being from inanimate material components, such as dirt, bones, water, vines, scrap metal, or sand (the materials used are subject to the GM's discretion). To do so, you must first spend 8 hours completing a ritual, experiment, or similar manufacturing process. After this process is complete, make an action roll to invoke this boon. If successful, the inanimate form is permanently imbued with sentience.
-    Your ability to animate a creature does not grant you the permanent ability to control it. However, newly animated beings are affected by the charmed bane (see below), and thus treat you more favorably immediately following their creation.
-    The GM, not the player, is responsible for deciding the attributes and abilities of this animated creature and should follow the guidelines established by the "Simple Build" section for creating NPCs in Chapter 8: Running the Game. Creatures created using this boon are typically limited to those of subhuman intelligence, such as zombies, combat droids, and golems.
+    Du bist in der Lage, ein autonomes Wesen auf nichtlebendigen Materialien wie Erde, Knochen, Wasser, Ranken, Schrott, Sand (oder anderen vom GM abgesegneten Stoffen) zu erschaffen. Um dies zu tun, musst du zuerst 8 Stunden mit dem nötigen Ritual, Experiment oder ähnlichem Schaffensprozess verbringen. Danach wirfst du einen Aktionswurf, um dieses Wohl zu wirken. Bei Erfolg wird die Gestalt belebt und erhält ein Bewusstsein.
+    Deine Fähigkeit, eine Kreatur zu animieren, gibt dir nicht die Fähigkeit, diese permanent zu kontrollieren. Neu erschaffene Wesen liegen aber unter dem *bezaubert*-Harm (siehe unten) und behandeln dich so direkt nach ihrer Erschaffung wohlwollend.
+    Der GM, nicht der Spieler, ist dafür verantwortlich, die Attribute und Fähigkeiten der animierten Kreatur zu entscheiden und sollte dabei den Leitlinien unter "Einfacher Aufbau" für das Erstellen von NPCs in Kapitel 8: Das Spiel leiten folgen. Kreaturen, die mit diesem Wohl erschaffen werden, sind typischerweise auf weniger als menschliche Intelligenz beschränkt, wie bei Zombies, Kampfdroiden oder Golems.
     <ul>
-    <li><strong>Power Level 6 - </strong> You can animate a single creature. Your invoking attribute score must be equal to or greater than the highest attribute score of the creature you're animating. With a successful invocation, the creature comes into existence with the charmed (Minor Charm) bane already in effect (no roll is required).</li>
-    <li><strong>Power Level 8 - </strong> You may choose to animate a group of creatures: Either 10 creatures with a max attribute of 2, 5 creatures with a max attribute of 3, or 2 creatures with a max attribute of 5. In addition, the automatically invoked charmed bane is a Major Charm instead of Minor Charm.</li>
+    <li><strong>Kraftlevel 6 - </strong> Du kannst eine einzige Kreatur animieren. Dein dafür genutztes Attribut muss gleich oder höher dem höchsten Attributwert der Kreatur sein, die du animierst. Bei einem erfolgreichen Wirken, entsteht die Kreatur mit dem *bezaubert*-Harm (leichte Bezauberung[?]) schon auf sie angewendet (kein Wurf ist dafür nötig).</li>
+    <li><strong>Kraftlevel 8 - </strong> Du kannst dich entscheiden, eine Gruppe Kreaturen zu animieren: Entweder 10 Kreaturen mit einem maximalen Attributwert von 2, 5 Kreaturen mit einem maximalen Attributwert von 3 oder 2 Kreaturen mit einem maximalen Attributwert von 5. Weiterhin kommen alle diese Kreaturen mit dem Harm *tiefe Bezauberung* in ihre Existenz statt *leichte Bezauberung*.</li>
     </ul>
 - !
   name: Aura
@@ -83,23 +83,23 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    You surround a willing target in an aura that hurts their foes or helps their allies. A shield of gamma radiation that burns attackers, a circle of healing, and an aura of elemental protection are all examples of this boon in action.
+    Du umhüllst ein williges Ziel mit einer Aura, die deine Feinde verletzt oder deine Verbündeten unterstützt. Ein Schild aus Gammastrahlung, die deine Feinde verbrennt, ein Zirkel der Heilung oder eine Aura elementaren Schutzes sind alle Beispiele dieses Wohls im Einsatz.
   effect: |
-    An aura extends from a willing target to a distance determined by the power level of this boon:
+    Eine Aura erstreckt sich von einem willigen Ziel aus bis zu einer Distanz, die vom Kraftlevel des Wohls bestimmt wird:
     <ul>
-    <li><strong>Power Level 4</strong> - 5' radius</li>
-    <li><strong>Power Level 6</strong> - 10' radius</li>
-    <li><strong>Power Level 8</strong> - 15' radius</li>
+    <li><strong>Kraftlevel 4</strong> - 5' Radius</li>
+    <li><strong>Kraftlevel 6</strong> - 10' Radius</li>
+    <li><strong>Kraftlevel 8</strong> - 15' Radius</li>
     </ul>
-    Choose a single bane or boon which uses the same attribute that you used to invoke Aura. The maximum power level for the chosen bane or boon is one-half the power level of your aura. Your aura radiates the chosen bane or boon as follows:
+  Wähle einen einzigen Harm oder ein Wohl aus, die das gleiche Attribut nutzen, mit der du diese Aura wirkst. Das maximale Kraftlevel für den gewählten Harm oder das Wohl ist die Hälfte des kraftlevels dieser Aura. Deine Aura strahlt den gewählten Harm oder das Wohl wie folgt aus:
     <ul>
-    <li><strong>If the aura radiates a bane,</strong> then the target of the aura is not affected by it. All other creatures (friend or foe) who willingly enter the area of the aura or end their turn within it suffer a bane attack to inflict the chosen bane. No creature may be subject to a bane attack from the same creature's aura more than once per round.</li>
-    <li><strong>If the aura radiates a boon,</strong> then the target of the aura is also affected by it. The target and all allies who end their turn within the area of the aura automatically gain the chosen boon. Upon leaving the area of the aura, the boon is immediately removed. No creature may gain a boon from the same creature's aura more than once per round.</li>
+    <li><strong>Falls die Aura einen Harm ausstrahlt,</strong> dann wird das Ziel der Aura nicht von diesem getroffen. Alle anderen Kreaturen (Freund und Feind), die willentlich das Gebiet der Aura betreten oder ihren Zug darin beenden erleiden einen Harmangriff, der diesen Harm zufügt. Keine Kreatur kann mehr als einmal pro Runde von einer Harmattacke der gleichen Aura getroffen werden.</li>
+    <li><strong>Falls die Aura ein Wohl ausstrahlt,</strong> dann wird das Ziel der Aura auch davon betroffen. Das Ziel und alle Verbündeten, die ihren Zug im Gebiet der Aura beenden, erhalten automatisch das gewählte Wohl. Sobald sie das Gebiet der Aura verlassen, verfällt das Wohl sofort. Keine Kreatur kann ein Wohl mehr als einmal pro Runde von der gleichen Aura erhalten.</li>
     </ul>
   special: |
-    This boon may require special attention and adjudication from the GM, as not all banes and boons may be an appropriate fit for an aura. Telekinesis, for example, is not a boon that can be granted to allies and thus does not work well as an aura.
+    Dieses Wohl kann besondere Aufmerksamkeit und Abhandlung durch den GM erfordern, da nicht alle Harme und Wohle gut für die Nutzung als Aura geeignet sind. Telekinese zum Beispiel kann Verbündeten nicht gegeben werden und eignet sich so nicht als Aura.
 - !
-  name: Barrier
+  name: Barriere
   OGname: Barrier
   tags:
   - Außergewöhnlich
@@ -123,25 +123,23 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    You summon forth a wall of thorns, ring of fire, swarm of robotic pests, cloud of entropic fog, or similar barrier to hurt or hinder your foes.
+    Du beschwörst eine Wand aus Dornen, einen Ring aus Flammen, einen Schwarm Roboterinsekten, eine Wolke betäubenden Gases oder ähnliche Barriere, um Feinde zu behindern oder zu verletzen.
   effect: |
-    When you invoke this boon, you must use multi-targeting to create a specific area of effect to define the space of your barrier. Upon successful invocation, choose a number of available properties for your wall based on your power level:
+    Wenn du dieses Wohl wirkst, musst du Multi-Zielen benutzen, um ein spezifisches Gebiet für deine Barriere zu definieren. Bei einer erfolgreichen Wirkung wählst du anhand des Kraftlevels eine Reihe von Eigenschaften für deine Wand:
     <ul>
-    <li><strong>Power Level 3 - </strong>Choose 1 property: Damaging (1d4), Obscuring, Hindering</li><li><strong>Power Level 5 - </strong>Choose 2 properties: Damaging (1d8), Obscuring, Hindering, Baneful, Mobile</li><li><strong>Power Level 7 - </strong>Choose 3 properties: Damaging (1d10), Obscuring, Hindering, Baneful, Mobile, Impassable</li><li><strong>Power Level 9 - </strong>Choose 4 properties: Damaging (2d6), Obscuring, Hindering, Baneful, Mobile, Impassable</li>
+    <li><strong>Kraftlevel 3 - </strong>Wähle 1 Eigenschaft: Schaden (1d4), Verbergend, Behindernd</li>
+    <li><strong>Kraftlevel 5 - </strong>Wähle 2 Eigenschaften: Schaden (1d8), Verbergend, Behindernd, Harmvoll, Mobil</li>
+    <li><strong>Kraftlevel 7 - </strong>Wähle 3 Eigenschaften: Schaden (1d10), Verbergend, Behindernd, Harmvoll, Mobil, Unpassierbar</li>
+    <li><strong>Kraftlevel 9 - </strong>Wähle 4 Eigenschaften: Schaden (2d6), Verbergend, Behindernd, Harmvoll, Mobil, Unpassierbar</li>
     </ul>
-    <strong>Damaging:</strong> A creature who ends its turn within the barrier or willingly enters it, automatically suffers the indicated damage. A creature may only suffer this damage once per round.
-    <br>
-    <strong>Obscuring:</strong> Creatures cannot see through any part of the barrier or anything within it.
-    <br>
-    <strong>Hindering:</strong> Creatures move at half speed when travelling within the barrier.
-    <br>
-    <strong>Impassable:</strong> Creatures and objects cannot move through the barrier. If you place an impassable barrier in a space occupied by a creature, move that creature to the closest position of their choice that is not inside of the barrier. This movement does not provoke opportunity attacks.
-    <br>
-    <strong>Baneful:</strong> Choose a bane which you can inflict that has a power level less than or equal to the power level of your barrier. When a creature ends its turn within the barrier or willingly enters it, you may immediately make a bane attack against it to inflict the chosen bane. A creature can only be subject to one such bane attack from this barrier per round.
-    <br>
-    <strong>Mobile:</strong> You may spend a major action to move the barrier up to 30 feet.
+    <strong>Schaden:</strong> Eine Kreatur, die ihren Zug innerhalb der Barriere beendet oder diese willentlich betritt, erleidet automatisch den angezeigten Schaden. Eine Kreatur kann diesen Schaden nur einmal pro Runde erleiden.<br>
+    <strong>Verbergend:</strong> Kreaturen können nicht in diese Barriere hinein oder durch sie hindurchsehen.<br>
+    <strong>Behindernd:</strong> Kreaturen bewegen sich mit halber Geschwindigkeit innerhalb der Barriere.<br>
+    <strong>Unpassierbar:</strong> Kreaturen und Objekte können sich nicht durch die Barriere bewegen. Wenn du eine unpassierbare Barriere in einem Raum platzierst, in der sich eine Kreatur befindet, bewege diese Kreatur zum nächsten möglichen Ort der Wahl der Kreatur, der nicht in der Barriere liegt. Diese Bewegung erlaubt keine Gelegenheitsattacken.<br>
+    <strong>Harmvoll:</strong> Wähle einen Harm, den du mit einem Kraftlevel gleich oder unter dem deiner Barriere wirken kannst. Wenn eine Kreatur innerhalb der Barriere ihren Zug beendet oder diese willentlich betritt, kannst du sofort eine Harmattacke mit dem gewählten Harm gegen sie durchführen. Eine Kreatur nur einmal pro Runde eine Harmattacke durch diese Barriere erleiden.<br>
+    <strong>Mobil:</strong> Du kannst eine große Aktion nutzen, um die Barriere bis zu 30 Fuß zu bewegen.
 - !
-  name: Blindsight
+  name: Blindsicht
   OGname: Blindsight
   tags:
   - Außergewöhnlich
@@ -164,11 +162,11 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    Even in the absence of light you are able to distinguish your surroundings. Some examples of blindsight include tremorsense, echolocation, heat vision, divine insight, or extraordinarily heightened senses.
+    Selbst bei absoluter Dunkelheit kannst du deine Umgebung ausmachen. Einige Beispiele für Blindsicht wären Vibrationssinne, Echolokation, Hitzesicht, himmlische Einsicht oder außergewöhnlich erhöhte Sinne.
   effect: |
-    The target is immune to the blinded bane and they are able to see normally even in conditions of little or no light. Blindsight can also potentially counter invisiblity, though the GM will have to decide if the source creating the blindsight is appropriate to counter the source creating the invisible boon.
+    Das Ziel ist immun gegen den *geblendet*-Harm und kann auch in Bedingungen mit wenig oder keinem Licht normal sehen. Blindsicht kann auch potentiell Unsichtbarkeit entgegenwirken, allerdings muss der GM hier entscheiden, ob die Quelle der Blindsicht tatsächlich die Quelle der Unsichtbarkeit invalidieren würde.
 - !
-  name: Bolster
+  name: Verstärken
   OGname: Bolster
   tags:
   - Außergewöhnlich
@@ -193,16 +191,16 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    You bolster your target's chances of success via inspiration, augmentation, divine blessing, or supernatural insight. Your target becomes more competent than they normally are. You might grant the sight of an eagle, the problem solving skills of an elite computer hacker, or the social grace of a trained courtier.
+    Du verbesserst die Erfolgschancen deines Ziels mithilfe von Inspiration, Augmentation, himmlischen Segens oder übernatürlicher Einsicht. Dein Ziel wird kompetenter als es normalerweise ist. Du könntest das Sehvermögen eines Adlers geben, die Kombinationsgabe eines Elitehackers oder aber die soziale Anmut eines trainierten Höflings.
   effect: |
-    Choose a single attribute. The target gains advantage on their action rolls with that attribute according to the power level of the boon.
+    Wähle ein einziges Attribut. Dein Ziel erhält Vorteil auf Aktionswürfe mit diesem Attribut anhand des Kraftlevels des Wohls.
     <ul>
-    <li><strong>Power Level 3</strong> - Advantage 1.</li>
-    <li><strong>Power Level 6</strong> - Advantage 2.</li>
-    <li><strong>Power Level 8</strong> - Advantage 3.</li>
+    <li><strong>Kraftlevel 3</strong> - Vorteil 1</li>
+    <li><strong>Kraftlevel 6</strong> - Vorteil 2</li>
+    <li><strong>Kraftlevel 8</strong> - Vorteil 3</li>
     </ul>
 - !
-  name: Concealment
+  name: Verborgenheit
   OGname: Concealment
   tags:
   - Außergewöhnlich
@@ -224,25 +222,25 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    The target is concealed from forms of detection, either by altering their surrounding or creating illusions. This boon is a particular favorite to assassins, thieves, shadow dancers, illusionists, inventors, and similar characters.
+    Das Ziel ist vor Detektion verborgen, entweder indem es seine Umgebung verändert oder Illusionen erschafft. Dieses Wohl ist besonders beliebt bei Assassinen, Dieben, Schattentänzern, Illusionisten, Erfindern und ähnlichen Charakteren.
   effect: |
-    <strong>NOTE:</strong> This replaces the Invisible Boon, published in Issue 01 of Every Roll Matters Zine (December 2021).
+    <strong>MERKE:</strong> Dieses Wohl ersetzt das Unsichtbarkeitswohl aus dem ersten Heft von "Every Roll Matters Zine (Dezember 2021)".
     <br>
-    The invoker may choose one sensory element (such as Scent, Sound, Light [sight], Heat, etc) to restrict. This causes all such elements of the chosen type to be suppressed within 5’ of the target though extraordinary means, making it very difficult to detect. The target gains advantage according to the boon’s Power Level on Action rolls to hide and/or remain undetected.
+    Der wirkende Charakter wählt einen Sinn (wie z.B. Geruch, Klang, Licht (Sicht), Hitze, usw. ...), der eingeschränkt wird. Das Wohl bewirkt, dass alle Reize für diesen Sinn innerhalb von 5' durch außergewöhnliche Mittel unterdrückt werden, sodass das Ziel sehr schwer zu entdecken wird. Das Ziel erhält Vorteil mit Wert anhand des Kraftlevels des Wohls auf Aktionswürfe, um sich zu verstecken oder unentdeckt zu bleiben.
     <br>
-    When making attacks against enemies that are unable to detect the target, their Guard defense is reduced. Likewise, the target’s Guard defense is increased against enemies that can not detect them, though is unchanged against area attacks.
+    Bei Angriffen gegen Gegner, die das Ziel nicht entdecken können, ist deren Deckung reduziert. Auf die gleiche Weise ist die Deckung des Ziels gegen Angriffe von Gegnern erhöht, die das Ziel nicht wahrnehmen. Dieser Bonus gilt nicht für Gebietsattacken.
     <br>
-    You cannot be the target of opportunity attacks unless the enemy is somehow aware of your location through another sensory element, applicable attribute roll, or other effect that allows them to locate you. This opportunity attack may be subject to disadvantage (0, 3, or 5) as determined by the GM for the given situation.
+    Du kannst nicht Ziel von Gelegenheitsangriffen werden, außer der Gegner ist sich durch ein anderes Sinnesorgan, einem passenden Attributwurf oder anderem Effekt deiner Position bewusst. Ein solcher Gelegenheitsangriff kann nach Abwägung des GM für die momentane Situation unter Nachteil (0, 3 oder 5) leiden.
     <ul>
-    <li><strong>Power Level 3</strong> - Invoker is able to conceal either Scent or Sound. Advantage 1 to hide, +1 Guard against attackers that can’t detect the target, -1 to Guard for enemies that can’t detect the target.</li>
-    <li><strong>Power Level 4</strong> - Invoker is now able to conceal any 1 sensory element.</li>
-    <li><strong>Power Level 5</strong> - Advantage 3 to hide, +3 Guard against attackers that can’t detect the target, and -2 to Guard for enemies that can’t detect the target.</li>
-    <li><strong>Power Level 6</strong> - Invoker may combine up to 2 sensory elements. Advantage 5 to hide, +5 Guard against attackers that can’t detect the target, and -4 to Guard for enemies that can’t detect the target.</li>
-    <li><strong>Power Level 7</strong> - Invoker may combine up to 3 sensory elements.</li>
-    <li><strong>Power Level 8</strong> - Invoker may combine all sensory elements.</li>
+    <li><strong>Kraftlevel 3</strong> - Der Wirker ist in der Lage, seinen Gerucht oder seinen Klang zu unterdrücken. Vorteil 1 um sich zu verstecken, +1 Deckung gegen Angreifer, die das Ziel nicht wahrnehmen können, -1 Deckung für Gegner, die das Ziel nicht wahrnehmen können.</li>
+    <li><strong>Kraftlevel 4</strong> - Der Wirker ist in der Lage, sich vor einem weiteren Sinn zu verbergen.</li>
+    <li><strong>Kraftlevel 5</strong> - Vorteil 3 um sich zu verstecken, +3 Deckung gegen Angreifer, die das Ziel nicht wahrnehmen können, -2 Deckung für Gegner, die das Ziel nicht wahrnehmen können.</li>
+    <li><strong>Kraftlevel 6</strong> - Der Wirker kann sich vor bis zu 2 Sinnen gleichzeitig verbergen. Vorteil 5 um sich zu verstecken, +5 Deckung gegen Angreifer, die das Ziel nicht wahrnehmen können, -4 Deckung für Gegner, die das Ziel nicht wahrnehmen können.</li>
+    <li><strong>Kraftlevel 7</strong> - Der Wirker kann sich vor bis zu 3 Sinnen gleichzeitig verstecken.</li>
+    <li><strong>Kraftlevel 8</strong> - Der Wirker kann sich vor bis zu allen Sinnen gleichzeitig verstecken.</li>
     </ul>
 - !
-  name: Darkness
+  name: Dunkelheit
   OGname: Darkness
   tags:
   - Außergewöhnlich
@@ -267,11 +265,11 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    You create an area of illusory darkness or entropic energy that snuffs out all light. This boon is a favorite among illusionists, shadow casters, psions, and mad scientists.
+    Du erschaffst ein Gebiet illusorischer Dunkelheit oder entropischer Energie, die alles Licht verlischen lässt. Dieses Wohl ist beliebt unter Illusionisten, Schattenwebern, Psionikern und verrückten Wissenschaftlern.
   effect: |
-    Choose a space or object within range. Darkness emanates from the target to a radius equal to five feet per power level of the boon. The effect cancels the effect of all natural light within its radius of effect and creatures that depend on light for vision suffer as though they have the blinded bane while in the area of effect. Creatures that do not depend on light for their vision (if they have tremorsense, blindsight, etc.) are unaffected. If the darkness area overlaps an area affected by the light boon, then the one of greater power level supersedes the other. If the power level of both is equal, then they cancel each other out.
+    Wähle einen Raum oder ein Objekt in deiner Reichweite. Dunkelheit quillt aus dem Ziel hervor bis zu einem Radio von 5 Fuß pro Kraftlevel des Wohls. Dieser Effekt annuliert die Wirkung von allem natürlichen Licht innerhalb seines Radius und Kreaturen, die sich für ihre Sicht auf Licht verlassen, erleiden die gleichen Nachteile, als würden sie den *geblendet*-Harm haben, während sie im Gebiet dieses Wohls sind. Kreaturen, die sich für ihre Sicht nicht auf Licht verlassen (z.B. durch Vibrationssinne, Blindsicht, usw. ...) werden nicht eingeschränkt. Falls das Gebiet der Dunkelheit sich mit dem eines Licht-Wohls überschneidet, dann wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen im betroffenen Gebiet wieder die natürlichen Lichtverhältnisse, als gäbe es keine der beiden Wohle.
 - !
-  name: Detection
+  name: Detektion
   OGname: Detection
   tags:
   - Außergewöhnlich
@@ -286,20 +284,20 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    You gain extraordinary vision that allows you to see colored auras which correlate to magical, spiritual, or other extraordinary forces. Common examples of this boon include a paladin detecting a suspect's true intentions, a psychic reading the aura of a location, and a cyborg scanning the terrain for signs of life.
+    Du erhälst eine außergewöhnliche Sicht, die es dir erlaubt, farbige Auras zu sehen, die von magischen, geistlichen oder anderen außergewöhnlichen Mächten hervorgerufen werden. Häufige Beispiele dieses Wohls wären z.B. ein Paladin, der die wahren Absichten eines Ziels erkennen kann, ein Psychicker, der die Aura eines Ortes ließt oder ein Cyborg, der das Terrain nach Lebenszeichen abscannt.
   effect: |
-    When calling on this boon, you must choose the type of aura you are detecting: <strong>holy</strong>, <strong>unholy</strong>, <strong>life</strong>, <strong>death</strong>, or <strong>magic</strong>. You can perceive invisible auras pertaining to the chosen type of force and have an approximate sense of their strength (from weak to overwhelming). These auras are usually based on an action that is deliberate, so an otherwise kind shopkeeper would radiate an aura of death for a time after poisoning or killing someone. Even a paladin slaying an evil archmage will give off a radius of death for a time after the killing blow.
-    <ul>
-    <li><strong>Holy</strong> - Holy energy surrounds extraplanar beings from the heavens or similar good-aligned dimensions where pure goodness is embodied. </li>
-    <li><strong>Unholy</strong> - Unholy energy surrounds extraplanar beings from the hells or similar evil-aligned dimensions where pure evil is embodied.</li>
-    <li><strong>Life</strong> - Beings from heavenly dimensions, far-future regenerative nanotech, and clerics wielding the power of healing or protection radiate an aura of life for a time after wielding such capabilities.</li>
-    <li><strong>Death</strong> - Necromancers, undead, and murderers all radiate an aura of death. For undead, the aura is constant, since the power of death and magic is what animates them.</li>
-    <li><strong>Magic</strong> - Extraordinary auras surround objects or places imbued with such effects. Extraordinary creatures who are innately magical, such as a nymph, constantly radiate magic. Natural creatures who wield magic, such as a human wizard, give off an aura only following use of their power.</li>
+    Wenn du dieses Wohl wirkst, musst du eine Art von Aura auswählen, die du wahrnehmen willst: <strong>Heilig</strong>, <strong>Unheilig</strong>, <strong>Leben</strong>, <strong>Tod</strong> oder <strong>Magisch</strong>. Du kannst unsichtbare Auras dieser Art wahrnehmen und hast eine ungefähre Idee ihrer Stärke (von schwach bis überwältigend). Diese Auras sind normalerweise das Resultat von aktiven Handlungen. Ein sonst freundlicher Händler würde also eine Weile lang eine Aura des Todes ausstrahlen, nachdem er jemanden vergiftet hat. Selbst ein Paladin, der einen boshaften Magier erschlagen hat, wird für eine Zeit nach dem letzten Schlag eine Aura des Todes von sich geben.
+    <ul> 
+    <li><strong>Heilig</strong> - Heilige Energie umgibt extradimensionale Wesen des Himmels oder ähnlicher mit dem Guten assoziierten Reiche, die pures Wohlwollen verkörpern.</li>
+    <li><strong>Unheilig</strong> - Unheilige Energie umgibt extradimensionale Wesen aus der Hölle oder ähnlichen mit dem Bösen assoziierten Reichen, die pure Bosheit verkörpern.</li>
+    <li><strong>Leben</strong> - Wesen aus himmlischen Dimensionen, Regenerationsnanotech aus der Zukunft und Kleriker, die die Mächte der Heilung und des Schutzes nutzen, strahlen für eine Zeit nach der Anwendung ihrer Kräfte eine Aura des Lebens aus.</li>
+    <li><strong>Tod</strong> - Nekromanten, Untote and Mörder strahlen alle eine Aura des Todes aus. Bei Untoten ist die Aura konstant, da die Macht des Todes sie animiert.</li>
+    <li><strong>Magisch</strong> - Außergewöhnliche magische Auras umgeben Objekte und Orte, die solcherlei Effekte verkörpern. Inhärent magische Kreaturen wie Nymphen, strahlen konstant eine magische Aura aus. Natürliche Kreaturen, die Magie nutzen können, strahlen eine magische Aura nur für eine Zeit nach dem Wirken von Magie aus.</li>
     </ul>
   special: |
-    Unlike other boons, this boon cannot target another character. Only the character invoking the boon can see the auras. Additionally, the GM may allow other types of suitable auras to be detected as appropriate to the campaign setting.
+    Anders als bei anderen Wohlen, kann dieses Wohl nicht andere Charaktere als Ziel haben. Nur der Charakter, der dieses Wohl wirkt, kann die Auras wahrnehmen. Weiterhin kann der GM nach eigenem Abwägen viele andere Arten von Auras wahrnehmbar sein lassen, je nachdem ob diese für das Setting der Kampagne angemessen sind.
 - !
-  name: Flight
+  name: Flug
   OGname: Flight
   tags:
   - Außergewöhnlich
@@ -318,14 +316,14 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    By sprouting wings, activating an anti-gravity device, focusing telekinetic power, or similar means, the target takes to the skies.
+    Indem ihm Flügel wachsen, es Antigrav-Technik aktiviert, telekinetische Kräfte hervorruft oder ähnliche Mittel nutzt, erhebt sich das Ziel in die Lüfte.
   effect: |
     <ul>
-    <li><strong>Power Level 5</strong> - The target gains a flight speed of 10'.</li>
-    <li><strong>Power Level 6</strong> - The target gains a flight speed of 30'.</li>
-    <li><strong>Power Level 8</strong> - The target gains a flight speed of 60'.</li>
+    <li><strong>Kraftlevel 5</strong> - Das Ziel erhält eine Fluggeschwindigkeit von 10'</li>
+    <li><strong>Kraftlevel 6</strong> - Das Ziel erhält eine Fluggeschwindigkeit von 30'.</li>
+    <li><strong>Kraftlevel 8</strong> - Das Ziel erhällt eine Fluggeschwindigkeit von 60'.</li>
     </ul>
-    If the boon is dispelled while the target is still in flight, they plummet to the ground immediately.
+    Falls das Wohl annulliert wird, während das Ziel noch fliegt, beginnt es sofort, zu fallen.
 - !
   name: Genesis
   OGname: Genesis
@@ -346,17 +344,17 @@
   invocationTime: Besonders
   duration: Augenblicklich
   description: |
-    You create something from nothing. Depending on the power of your invocation, you are able to manifest a wide array of materials, from temporary vegetable matter to permanent crafted goods of remarkable complexity. This boon is commonly invoked by druids to create food or grow plants, and by engineers to jury rig equipment or invent ingenious solutions to complex problems.
+    Du erschaffst etwas aus nichts. Je nach der Kraft deiner Wirkung, kannst du eine Reihe verschiedener Materialien manifestieren, von termporärer Gemüsefaser zu permanent erschaffenen Handwerksgütern großer Komplexität. Dieses Wohl wird oft von Druiden genutzt, um Lebensmittel zu erschaffen oder Pflanzen wachsen zu lassen. Sonst nutzen Ingenieure es, um Ausrüstung zu basteln oder clevere Lösungen für komplexe Probleme zu erfinden.
   effect: |
     <ul>
-    <li><strong>Power Level 1</strong> - You can create <em>temporary</em> non-sentient matter (plants, dirt, water, vines, etc.), anything created in this way deteriorates or decomposes to become useless after 1 hour. Using this boon you can create 1 cubic foot of nonliving matter per attribute point of the invoking attribute. The invocation time for this application is 10 minutes.</li>
-    <li><strong>Power Level 3</strong> - You can create <em>permanent</em> non-sentient matter (plants, dirt, water, vines, etc.). Using this boon you can either create enough food for 1 person or 1 cubic foot of nonliving matter per attribute point of the invoking attribute. The invocation time for this application is 1 hour.</li>
-    <li><strong>Power Level 5</strong> - The quantity of <em>permanent</em> non-sentient matter (plants, dirt, water, vines, etc.). you can create expands, you can now produce 5 cubic feet per attribute point of the invoking attribute.</li>
-    <li><strong>Power Level 7</strong> - You can create <em>permanent</em> mundane and organically complex or dense non-sentient matter, such as gems, iron, or marble. The resulting object's value can't be greater than a Wealth Level 2 item. You produce 1 cubic foot of such matter per attribute point of the invoking attribute. The invocation time for this application is 8 hours.</li>
-    <li><strong>Power Level 9</strong> - You can create not just raw materials, but <em>permanent</em> crafted items - though a craftsman is still required to work anything into an exceptional quality. The invocation time for this application is 8 hours.</li>
+    <li><strong>Kraftlevel 1</strong> - Du kannst <em>temporäre</em>, nicht-lebendige Materie (Pflanzen, Erde, Wasser, Ranken usw. ...) erschaffen. Alles, was auf diese Weise geschaffen wurde, vergeht nach 1 Stunde und ist dann nutzlos. Mit diesem Wohl kannst du 1 Kubikfuß nichtlebendiger Materie pro Attributpunkt des genutzten Attributs erschaffen. Die Wirkzeit für dieses Kraftlevel sind 10 Minuten.</li>
+    <li><strong>Kraftlevel 3</strong> - Du kannst <em>permanente</em> nichtlebendige Materie (Pflanzen, Erde, Wasser, Ranken usw. ...) erschaffen. Du kannst entweder genug Essen für 1 Person oder 1 Kubikfuß an nichtlebendiger Materie pro Attributpunkt des genutzten Attributs erschaffen. Die Wirkzeit dieses Kraftlevels ist 1 Stunde.</li>
+    <li><strong>Kraftlevel 5</strong> - Die Menge <em>permanenter</em> nichtlebendiger Materie (Pflanzen, Erde, Wasser, Ranken usw. ...), die du erschaffen kannst, beträgt auf diesem Kraftlevel 5 Kubikfuß pro Attributwert des genutzten Attributs.</li>
+    <li><strong>Kraftlevel 7</strong> - Du kannst <em>permanente</em> einfache oder komplexe nichtlebendige Materie (Juwelen, Eisen, Marmor usw. ...) erschaffen. Der Wert des resultierenden Items kann nicht größer sein als Wohlstandswert 2. Du produziert 1 Kubikfuß der Materie pro Attributpunkt des genutzten Attributs. Die Wirkzeit dieses Kraftlevels sind 8 Stunden.</li>
+    <li><strong>Kraftlevel 9</strong> - Du kannst nicht nur Rohmaterialien erschaffen, sondern <em>permanente</em> vollständige Items. Ein Handwerker ist trotzdem nötig, um das Resultat zu exzellenter Qualität weiterzuverarbeiten. Die Wirkzeit dieses Kraftlevels sind 8 Stunden.</li>
     </ul>
 - !
-  name: Haste
+  name: Hast
   OGname: Haste
   tags:
   - Außergewöhnlich
@@ -376,16 +374,16 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    The target moves with extraordinary speed, dodging attacks more deftly and accomplishing actions at an uncanny rate. This may be the result of a chemical injection, psychic enhancement, time-altering magic, or similar means.
+    Das Ziel bewegt sich mit außergewöhnlicher Geschwindigkeit, weicht Angriffen mit Grazie aus und erfüllt Aktionen mit großer Hast. Dies kann das Resultat einer chemischen Injektion sein, psychischer Verstärkung, zeitverändernder Magie oder ähnlicher Mittel.
   effect: |
     <ul>
-    <li><strong>Power Level 2</strong> - The target's speed is increased by 10'. </li>
-    <li><strong>Power Level 4</strong> - The target's speed is increased by 15', and it gains +1 to Guard. </li>
-    <li><strong>Power Level 6</strong> - The target's speed is increased by 20', and it gains +2 to Guard. Additionally, the target can make one extra major action on each of its turns. This action cannot be used to perform an interrupt action. If the action requires a roll, it suffers disadvantage 3.</li>
-    <li><strong>Power Level 8</strong> - The target's speed is increased by 30', and it gains +3 to Guard. Additionally, the target can make up to two extra major actions on each of its turns. These actions cannot be used to perform an interrupt action. If the target takes 1 extra action that action has disadvantage 3, if they take a 2nd extra action, that action has disadvantage 6.</li>
+    <li><strong>Kraftlevel 2</strong> - Die Geschwindigkeit des Ziels ist um 10' erhöht.</li>
+    <li><strong>Kraftlevel 4</strong> - Die Geschwindigkeit des Ziels istum 15' erhöht und es erhält +1 auf seine Deckung.</li>
+    <li><strong>Kraftlevel 6</strong> - Die Geschwindigkeit des Ziels ist um 20' erhöht und es erhält +2 auf seine Deckung. Weiterhin kann das Ziel eine weitere große Aktion in seinem Zug ausführen. Diese Aktion kann aber nicht für eine Unterbrechungsaktion genutzt werden. Falls die Aktion einen Wurf benötigt, wird dieser mit Nachteil 3 ausgeführt.</li>
+    <li><strong>Kraftlevel 8</strong> - Die Geschwindigkeit des Ziels ist um 30' erhöht und es erhält +3 auf seine Deckung. Weiterhin kann das Ziel bis zu zwei weitere große Aktionen in seinem Zug ausführen. Diese Aktionen können aber nicht für eine Unterbrechungsaktion genutzt werden. Falls die erste weitere Aktion einen Wurf benötigt, wird dieser mit Nachteil 3 ausgeführt, die zweite weitere Aktion mit Nachteil 6.</li>
     </ul>
 - !
-  name: Heal
+  name: Heilung
   OGname: Heal
   tags:
   - Außergewöhnlich
@@ -414,24 +412,24 @@
   invocationTime: 1 große Aktion
   duration: Augenblicklich
   description: |
-    Healing can be one of two things: the actual mending of wounds and broken bones through sources like medicine, surgery, or supernatural creative life force, or the inspiration of your target to carry on fighting, even in the face of death. This boon is common among clerics, medics, bards, and combat leaders.
+    Heilung kann eines von zwei Konzepten beschreiben: das tatsächliche Schließen von Wunden und richten von Knochen durch Quellen wie Medizin, Operation oder übernatürliche Kräfte des Lebens, oder aber Inspiration, die das Ziel trotz Wunden und Gefahr weiterkämpfen lässt. Dieses Wohl ist unter Klerikern, Medizinern, Barden und Anführern verbreitet.
   effect: |
-    Roll dice according to the boon power level below. These dice explode as normal. The target is healed a number of hit points equal to the total roll.
+    Wirf die unten für jedes Kraftlevel angegebenen Würfel. Die Würfel explodieren normal. Das Ziel wird um die Anzahl an Trefferpunkten geheilt, die dem Wurfergebnis entspricht.
     <ul>
-    <li><strong>Power Level 1</strong> - Heal 1d4.</li>
-    <li><strong>Power Level 2</strong> - Heal 1d6.</li>
-    <li><strong>Power Level 3</strong> - Heal 1d8.</li>
-    <li><strong>Power Level 4</strong> - Heal 1d10.</li>
-    <li><strong>Power Level 5</strong> - Heal 2d6.</li>
-    <li><strong>Power Level 6</strong> - Heal 2d8.</li>
-    <li><strong>Power Level 7</strong> - Heal 2d10.</li>
-    <li><strong>Power Level 8</strong> - Heal 3d8.</li>
-    <li><strong>Power Level 9</strong> - Heal 3d10.</li>
+    <li><strong>Kraftlevel 1</strong> - Heile 1d4.</li>
+    <li><strong>Kraftlevel 2</strong> - Heile 1d6.</li>
+    <li><strong>Kraftlevel 3</strong> - Heile 1d8.</li>
+    <li><strong>Kraftlevel 4</strong> - Heile 1d10.</li>
+    <li><strong>Kraftlevel 5</strong> - Heile 2d6.</li>
+    <li><strong>Kraftlevel 6</strong> - Heile 2d8.</li>
+    <li><strong>Kraftlevel 7</strong> - Heile 2d10.</li>
+    <li><strong>Kraftlevel 8</strong> - Heile 3d8.</li>
+    <li><strong>Kraftlevel 9</strong> - Heile 3d10.</li>
     </ul>
   special: |
-    This boon does not heal lethal damage.
+    Dieses Wohl heilt keinen tödlichen Schaden.
 - !
-  name: Insubstantial
+  name: Substanzlos
   OGname: Insubstantial
   tags:
   - Außergewöhnlich
@@ -448,12 +446,12 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    When a creature becomes insubstantial, it is no longer bound by physical barriers. Ghosts, wizards assuming gaseous form, and creatures who blink between dimensions are all exemplars of the insubstantial boon in action.
+    Wird eine Kreatur substanzlos, so ist sie nicht mehr an physische Barrieren gebunden. Geister, Zauberer die eine Gasform annehmen und Kreaturen, die zwischen Ebenen der Realität wechseln können sind Beispiele, die das Wohl Substanzlos nutzen könnten.
   effect: |
-    The target gains the ability to pass freely through all physical barriers as if they were unoccupied spaces. In addition, they gain the ability to freely move in any direction in both the horizontal and vertical planes at their base speed (30' for most characters). While insubstantial, the target becomes immune to all attacks that target either Guard or Toughness. However, they also cannot deliver any attacks that target Guard or Toughness.
-    If concentration is interrupted or the boon ends while the target is inside of a solid structure, then the target is forcibly transported to the alternate plane they were traveling by way of at the time (typically an alternate dimension or plane).
+    Das Ziel erhält die Fähigkeit, frei durch alle physischen Barrieren zu passieren, als wären diese leerer Raum. Weiterhin können sie sich frei in jede Richtung sowohl horizontal als auch vertikal mit ihrer Grundgeschwindigkeit bewegen (30' für die meisten Charaktere). Während sie substanzlos sind ist das Ziel immun gegen alle Attacken, die auf Deckung oder Zähigkeit zielen. Sie können aber selbst auch keine Angriffe gegen Deckung oder Zähigkeit ausführen.
+    Falls die Konzentration des Ziel unterbrochen wird oder das Wohl endet, während das Ziel in einer festen Struktur ist, wird das Ziel gewaltsam in die alternative Ebene versetzt, die es für seine substanzlosigkeit genutzt hat (typischerweise eine andere Dimension oder Realitätsebene).
 - !
-  name: Invisible
+  name: Unsichtbar
   OGname: Invisible
   tags:
   - Außergewöhnlich
@@ -471,17 +469,17 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    The target vanishes from the visible spectrum, either by bending light, creating an illusion, or stepping into an extradimensional space between the fabric of the planes. This boon is a favorite of special ops agents, illusionists, shadow dancers, inventors, and similar characters.
+    Das Ziel verschwindet aus dem sichtbaren Lichtspektrum, entweder indem es das Licht bricht, eine Illusion erschafft oder in einen extradimensionalen Raum zwischen den Ebenen der Realität tritt. Dieses Wohl ist unter Spezialagenten beliebt, Illusionisten, Schattentänzern, Erfindern und ähnlichen Charakteren.
   effect: |
-    <strong>NOTE:</strong> This Boon has been replaced by Concealment.
-    <br>
+    <strong>MERKE:</strong> Dieses Wohl wurde durch Verborgenheit ersetzt.<br>
+    [TODO]
     Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage according to the boon's Power Level on Agility rolls to hide. If completely still, this bonus is doubled. The target's Guard defense is increased against melee and ranged attacks, though it is unchanged against area attacks. When making an attack against target's that can't see you, their Guard defense is reduced. You cannot be the target of opportunity attacks unless the enemy can see you through non-visual means.
     <ul>
-    <li><strong>Power Level 5</strong> - Advantage 3 to hide, +3 to Guard against ranged and melee attacks, and -2 to Guard for targets that can't see you.</li>
-    <li><strong>Power Level 6</strong> - Advantage 5 to hide, +5 to Guard against ranged and melee attacks, and -4 to Guard for targets that can't see you.</li>
+    <li><strong>Kraftlevel 5</strong> - Advantage 3 to hide, +3 to Guard against ranged and melee attacks, and -2 to Guard for targets that can't see you.</li>
+    <li><strong>Kraftlevel 6</strong> - Advantage 5 to hide, +5 to Guard against ranged and melee attacks, and -4 to Guard for targets that can't see you.</li>
     </ul>
 - !
-  name: Life Drain
+  name: Lebensraub
   OGname: Life Drain
   tags:
   - Außergewöhnlich
@@ -496,11 +494,11 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    Like the bite of a vampire, the soul draining touch of a black mage, or the life sucking ray gun of a mad supervillain, this boon allows the target to steal the very lifeforce of their foes.
+    Wie der Biss eines Vampirs, so kann auch die seelenraubende Berührung eines schwarzen Magiers oder der Strahl des Lebenssaugers eines verrückten Beösewichts dem Ziel erlauben, seinen Feinden die Lebenskraft zu entziehen.
   effect: |
-    While this boon persists, the target heals half (round up) of the damage they inflict with each attack. If an attack damages multiple foes, the target of this boon heals based on the total damage inflicted against all foes.
+    Während dieses Wohl anhält, heilt das Ziel sich selbst um die Hälfte (aufgerundet) des Schadens, den es mit jeder Attacke zufügt. Falls ein Angriff mehrere Feinde schädigt, heilt das Ziel sich um die Hälfte des gesamten Schadens, der allen Feinden zugefügt wurde.
 - !
-  name: Light
+  name: Licht
   OGname: Light
   tags:
   - Außergewöhnlich
@@ -525,11 +523,11 @@
   invocationTime: 1 kleine Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    Whether through magical summoning, energy manipulation, or some other means, you illuminate an area with a bright light. An android activating its head lamp, a fire mage creating a dancing torch flame, and an alchemist cracking a glow globe are all examples of this boon in play.
+    Egal ob durch eine magische Beschwörung, Energiemanipulation oder einen anderen Weg, erhellst du ein Gebiet mit Licht. Ein Androide könnte seinen Kopfstrahler aktivieren, ein Feuermagier eine tanzende Fackelflamme erschaffen und ein Alchemist eine Hellkugel aktivieren.
   effect: |
-    Choose a space or object within range. Extraordinary light emanates from the target to a radius equal five feet per power level of the boon. If the light area overlaps an area affected by the darkness boon, then the one of greater power level supersedes the other. If the power level of both is equal, then they cancel each other out.
+    Wähle einen Raum oder ein Objekt innerhalb deiner Reichweite. Außergewöhnliches Licht fließt vom Ziel aus bis zu einem Radius von 5' pro Kraftlevel des Wohls. Falls das Lichtgebiet sich mit dem Gebiet eines Dunkelheitswohls überschneidet, wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen in dem von beiden betroffenen Gebiet wieder das ohne die Wohle herrschende Lichtumstände.
 - !
-  name: Precognition
+  name: Voraussicht
   OGname: Precognition
   tags:
   - Außergewöhnlich
@@ -545,18 +543,18 @@
   OGattribute:
   - Prescience
   invocationTime: 1 Minute
-  duration: 1 round
+  duration: 1 Runde
   description: |
-    You peer into the future to gain insight into a course of action, an event, a person, or a place. Examples of this boon include a fortune teller throwing the bones, a superhuman detective analyzing evidence, a priest consulting a higher power for direction, and an advanced artificial intelligence calculating every possible outcome of a complex assortment of variables.
+    Du blickst in die Zukunft und erhälst so Wissen über den Verlauf einer Handlung, eines Ereignissen, einer Person oder eines Ortes durch die Zeit. Beispiele für dieses Wohl umfassen Wahrsager, die ihre Knochen werfen, geniale Detektive, die Beweismittel analysieren, Priester, die eine höhere Macht um Führung anbeten oder hochentwickelte künstliche Intelligenzen, die jede mögliche Konsequenz von Geschehnissen berechnen.
   effect: |
     <ul>
-    <li><strong>Power Level 1</strong> - The target asks a question about a course of action they plan to take within the next five minutes. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
-    <li><strong>Power Level 3</strong> - The target asks a question about a course of action they plan to take within the next hour. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
-    <li><strong>Power Level 5</strong> - The target asks a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation in one or two sentences that is a direct response to the knowledge the target seeks. Only one question can be asked about a given subject each week.</li>
-    <li><strong>Power Level 7</strong> - The target can choose a particular event, decision, person, place, etc. After invoking this boon, the target begins to have extraordinary encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide the target with detailed information about the subject of your prescience. You can only maintain one such subject at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.</li>
+    <li><strong>Kraftlevel 1</strong> - Das Ziel stellt eine Frage über den Ablauf einer Handlung, die es innerhalb der nächsten fünf Minuten ausführen will. Der GM kommuniziert die gewonnene Einsicht durch wage Symbole, Eindrücke oder ein einziges Wort wie "positiv" oder "negativ".</li>
+    <li><strong>Kraftlevel 3</strong> - Das Ziel stellt eine Frage über eine Handlung, die es innerhalb der nächsten Stunde ausführen will. Der GM kommuniziert die gewonnene Einsicht durch wage Symbole, Eindrücke oder ein einziges Wort wie "positiv" oder "negativ".</li>
+    <li><strong>Kraftlevel 5</strong> - Das Ziel stellt eine Frage über ein bestimmtes Ereignis, eine Entscheidung, Person, einen Ort usw.. Der GM gibt eine knappe aber sinnvolle Erklärung in einem oder zwei Sätzen, die eine direkte Antwort für das Wissen ist, das das Ziel sucht. Nur eine Frage kann über ein bestimmtes Thema pro Woche gestellt werden.</li>
+    <li><strong>Kraftlevel 7</strong> - Das Ziel wählt ein bestimmtes Ereignis, eine Entscheidung, Person, einen Ort usw.. Nachdem das Wohl gewirkt wurde, beginnt das Ziel, übernatürliche Erlebnisse zu haben (Visionen, Trancen, Träume, außerkörperliche Erfahrungen, usw. ...), durch die der GM detaillierte Informationen über das gewählte Thema kommuniziert. Du kannst nur ein solches Thema auf einmal haben, Konzentration ist aber nicht nötig, um dieses aufrechtzuerhalten. Die Verbindung kannst du selbst beenden, oder aber sie endet, wenn du zu einem neuen Thema wechselst.</li>
     </ul>
 - !
-  name: Reading
+  name: Lesung
   OGname: Reading
   tags:
   - Außergewöhnlich
@@ -575,15 +573,15 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    Through supernatural magic or extrasensory perception, you reach out and connect with an object or place, gaining the ability to read residual information from it and divine what has occurred in its vicinity in the past. This boon is common among psychics, detectives, and specialized hunters.
+    Durch übernatürliche Magie oder außergewöhnliche Wahrnehmung bist du in der Lage, anhand von Informationsrückständen an einem Objekt oder Ort herauszufinden, was in seiner Umgebung in der Vergangenheit passiert ist. Dieses Wohl ist unter Psychikern, Detektiven und besonderen Jägern verbreitet. 
   effect: |
-    When you successfully invoke this boon, you gain information from an object or place within range as follows:
+    Wenn du dieses Wohl erfolgreich wirkst, erhälst du Informationen von einem Objekt oder Ort innerhalb deiner Reichweite wie folgt:
     <ul>
-    <li><strong>Power Level 5</strong> - The target can read vague ideas and impressions to learn what took place near the object or place within the past hour.</li>
-    <li><strong>Power Level 6</strong> - The target can see a vivid vision, similar to a recording, of what took place near the object or place within the last hour.</li>
-    <li><strong>Power Level 7</strong> - The target can ascertain the most recent owner of the object or the people who have most recently been in a place. This knowledge grants enough information for your target to use the spying bane to locate or view those identified.</li>
-    <li><strong>Power Level 8</strong> - Choose one: The target sees a vision of the most recent significant event that took place in close proximity to the object or place - OR - the target asks whether or not a specific event is impressed upon the object or place.</li>
-    <li><strong>Power Level 9</strong> - The target is able, given sufficient time, to access all memories impressed upon the object or place. You must maintain concentration, with each 10 minutes yielding a new vision from the object's or place's past. The GM determines the order in which the information is revealed. At the GM's discretion, concealed or particularly distant memories may require a much longer time to discover.</li>
+    <li><strong>Kraftlevel 5</strong> - Das Ziel kann wage Ideen und Eindrücke lesen, um herauszufinden, was um ein Objekt oder an einem Ort innerhalb der letzten Stunde passiert ist.</li>
+    <li><strong>Kraftlevel 6</strong> - Das Ziel kann eine lebhafte Vision vergleichbar mit einer Aufnahme des in der letzten Stunde um das Objekt oder am Ort Geschehenen sehen.</li>
+    <li><strong>Kraftlevel 7</strong> - Das Ziel kann den letzten Besitzer eines Objekts oder die Personen erkennen, die zuletzt am gewählten Ort waren. Diese Einsicht ist klar genug, um die Nutzung des Harms Weitsicht mit diesen Personen als Ziel zu erlauben.</li> 
+    <li><strong>Kraftlevel 8</strong> - Wähle eins: Das Ziel sieht eine Vision des letzten wichtigen Ereignisses, das nahe dem Objekt oder an dem Ort stattfand - ODER - das Ziel fragt, ob ein bestimmtes Ereignis sich besonders auf das Objekt oder den Ort eingeprägt hat.</li>
+    <li><strong>Kraftlevel 9</strong> - Das Ziel ist mit genug Zeit in der Lage, alle Erinnerungen hervorzurufen, die auf das Objekt oder den Ort eingeprägt sind. Du musst dafür deine Konzentration aufrechterhalten, wobei du alle 10 Minuten eine neue Vision der Vergangenheit des Objekts oder Ortes ergibt. Der GM bestimmt, in welcher Reihenfolge die Informationen aufgedeckt werden. Nach Abwägen des GM können verborgene oder besonders ferne Erinnerungen deutlich mehr Zeit benötigen, um gefunden zu werden.</li>
     </ul>
 - !
   name: Regeneration
@@ -607,20 +605,20 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    The target gains an extraordinary ability to heal their wounds. Examples of this include the supernatural regeneration of a troll, a super soldier's adrenal biomod, or the ability to channel energy that results in continous healing. Regardless of the source, wounds close before the very eyes of an onlooker.
+    Das Ziel erhält eine außergewöhnliche Fähigkeit, seine Wunden zu kurieren. Beispiele umfassen die übernatürliche Heilung von Trollen, Adrenalinbiomods von Supersoldaten oder die Fähigkeit, heilende Energie zu kanalisieren. Unabhängig von der Quelle heilen Wunden vor den Augen der Beobachter.
   effect: |
-    While the regeneration boon is sustained, the target heals hit points at the beginning of each of the <em>boon invoker's</em> turns. The amount of healing is determined by the power level of the boon.
+    Während das Wohl Regeneration aufrechterhalten wird, heilt das Ziel Trefferpunkte zu Beginn jedes Zugs des <em>das Wohl wirkenden Charakters</em>. Die Menge der Heilung wird durch das Kraftlevel des Wohls bestimmt.
     <ul>
-    <li><strong>Power Level 1</strong> - 1d4 </li>
-    <li><strong>Power Level 3</strong> - 1d6 </li>
-    <li><strong>Power Level 5</strong> - 1d8 </li>
-    <li><strong>Power Level 7</strong> - 1d10 </li>
-    <li><strong>Power Level 9</strong> - 2d6 </li>
+    <li><strong>Kraftlevel 1</strong> - 1d4 </li>
+    <li><strong>Kraftlevel 3</strong> - 1d6 </li>
+    <li><strong>Kraftlevel 5</strong> - 1d8 </li>
+    <li><strong>Kraftlevel 7</strong> - 1d10 </li>
+    <li><strong>Kraftlevel 9</strong> - 2d6 </li>
     </ul>
   special: |
-    This boon does not heal lethal damage.
+    Dieses Wohl heilt keinen tödlichen Schaden.
 - !
-  name: Resistance
+  name: Resistenz
   OGname: Resistance
   tags:
   - Außergewöhnlich
@@ -644,17 +642,17 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    Whether through a magical force field, an elemental wall, self-attaching body armor, or a temporary mutation, the target becomes resistant to the effects of damage from a certain type of attack. This boon is common among abjurers, engineers, telekinetisists, and elemental mages.
+    Ob mit einem magischen Energiefeld, einer elementalen Wand, selbstzusammensetzender Körperpanzerung oder einer temporären Mutation, wird das Ziel resistent gegen Schaden von bestimmten Arten von Angriffen. Dieses Wohl ist unter Ingenieuren, Telekinetisten und elementalen Magiern verbreitet.
   effect: |
-    When the boon is invoked, the invoker chooses one type of attack and the target gains resistance to that type. The types include precise, forceful, fire, cold, lightning, acid, influence, and entropy (other types may be approved by the GM). The effect of the resistance is determined by the power level of the boon (the following are not cumulative):
+    Wenn das Wohl gewirkt wird, wählt der wirkende Charakter eine Art von Angriff und erhält Resistenz dagegen. Die Arten umfassen präzise, kraftvoll, Feuer, Kälte, Blitz, Säure, Einfluss und Vergehen (andere Arten können mit Zustimmung des GM genutzt werden). Der Effekt der Resistenz wird durch das Kraftlevel des Wohls bestimmt (die Effekte sind nicht kummulativ):
     <ul>
-    <li><strong>Power Level 3</strong> - The target's defense scores are increased by 3 against the chosen attack type.</li>
-    <li><strong>Power Level 5</strong> - The target's defense scores are increased by 6 against the chosen attack type.</li>
-    <li><strong>Power Level 7</strong> - The target's defense scores are increased by 9 against the chosen attack type.</li>
-    <li><strong>Power Level 9</strong> - The target is immune to damage and harmful effects from the chosen attack type.</li>
+    <li><strong>Kraftlevel 3</strong> - Die Verteidigungswerte des Ziels sind gegen Angriffe der gewählten Art um 3 erhöht.</li>
+    <li><strong>Kraftlevel 5</strong> - Die Verteidigungswerte des Ziels sind gegen Angriffe der gewählten Art um 6 erhöht.</li>
+    <li><strong>Kraftlevel 7</strong> - Die Verteidigungswerte des Ziels sind gegen Angriffe der gewählten Art um 9 erhöht.</li>
+    <li><strong>Kraftlevel 9</strong> - Das Ziel ist immun gegen Schaden und schadvolle Effekte durch Angriffe der gewählten Art.</li
     </ul>
 - !
-  name: Restoration
+  name: Wiederherstellung
   OGname: Restoration
   tags:
   - Außergewöhnlich
@@ -679,25 +677,24 @@
   invocationTime: 1 große Aktion
   duration: Augenblicklich
   description: |
-    By invoking protective magic, creative force, or similar powers, you cancel all harmful afflictions that are affecting your target. Examples of this boon in action include a cleric breaking enchantments, an engineer deploying a team of rescue bots, or a combat medic applying advanced medical techniques.
+    Indem du Schutzmagie wirkst oder ähnliche Mächte wirkst, annullierst du alle schädlichen Zustände, die auf dein Ziel wirken. Beispiele dieses Wohls in Aktion umfassen Kleriker, die eine Verzauberung brechen, einen Ingenieur, der Rettungsbots aussendet oder ein Frontdoktor, der fortschrittliche Medizintechnik anwendet.
   effect: |
-    You can dispel all banes affecting your target of a power level less than or equal to the level at which you invoke this boon.
-
+    Du kannst alle Harme auf einem Kraftlevel unter oder gleich dem Kraftlevel dieses Wohls auflösen, die auf deinem Ziel liegen.
     <ul>
-    <li><strong>Power Level 1</strong> - Cancel banes of Power Level 1 or less. </li>
-    <li><strong>Power Level 2</strong> - Cancel banes of Power Level 2 or less. </li>
-    <li><strong>Power Level 3</strong> - Cancel banes of Power Level 3 or less. </li>
-    <li><strong>Power Level 4</strong> - Cancel banes of Power Level 4 or less. </li>
-    <li><strong>Power Level 5</strong> - Cancel banes of Power Level 5 or less. </li>
-    <li><strong>Power Level 6</strong> - Cancel banes of Power Level 6 or less. </li>
-    <li><strong>Power Level 7</strong> - Cancel banes of Power Level 7 or less. </li>
-    <li><strong>Power Level 8</strong> - Cancel banes of Power Level 8 or less. </li>
-    <li><strong>Power Level 9</strong> - Cancel banes of Power Level 9 or less. </li>
+    <li><strong>Kraftlevel 1</strong> - Löse Harme von Kraftlevel 1 oder niedriger auf. </li>
+    <li><strong>Kraftlevel 2</strong> - Löse Harme von Kraftlevel 2 oder niedriger auf. </li>
+    <li><strong>Kraftlevel 3</strong> - Löse Harme von Kraftlevel 3 oder niedriger auf. </li>
+    <li><strong>Kraftlevel 4</strong> - Löse Harme von Kraftlevel 4 oder niedriger auf. </li>
+    <li><strong>Kraftlevel 5</strong> - Löse Harme von Kraftlevel 5 oder niedriger auf. </li>
+    <li><strong>Kraftlevel 6</strong> - Löse Harme von Kraftlevel 6 oder niedriger auf. </li>
+    <li><strong>Kraftlevel 7</strong> - Löse Harme von Kraftlevel 7 oder niedriger auf. </li>
+    <li><strong>Kraftlevel 8</strong> - Löse Harme von Kraftlevel 8 oder niedriger auf. </li>
+    <li><strong>Kraftlevel 9</strong> - Löse Harme von Kraftlevel 9 oder niedriger auf. </li>
     </ul>
   special: |
-    You can dispel banes of a power level beyond your power level of this boon. In order to do so, you must invoke this boon using an action roll (i.e., it is not compatible with the automatic success granted by the <em>boon focus</em> feat). The Challenge Rating to dispel a bane in this manner is equal to 20 + twice the bane's power level. So, for example, a power level 9 bane can be dispelled on a roll of 38 even if the invoker does not have an attribute score of 9.
+    Du kannst auch Harme über dem Kraftlevel dieses Wohls auflösen. Dafür muss das Wohl mit einem Aktionswurf gewirkt worden sein (diese Anwendung kann also nicht durch automatischen Erfolg wie bei der Fertigkeit <em>Wohlfokus</em> erreicht werden). Der Herausforderungswert, um einen Harm höheren Kraftlevels zu lösen ist gleich 20 + 2 x Kraftlevel des Harms. Ein Harm von Kraftlevel 9 kann also mit einem Wurfergebnis von 38 beim Aktionswurf für dieses Wohl aufgelöst werden, selbst wenn der wirkende Charakter keinen Attributwert von 9 im genutzten Attribut hat.
 - !
-  name: Seeing
+  name: Treusicht[?]
   OGname: Seeing
   tags:
   - Außergewöhnlich
@@ -714,18 +711,18 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    You are able to see through the eyes of a willing ally. This power might stem from a psychic link, cybernetic implant, or magical enchantment.
+    Du bist in der Lage, durch die Augen eines willenden Verbündeten zu sehen. Diese Fähigkeit kann aus einer psychischen Verbindung, einem cybernetischen Implantat oder einer magischen Verzauberung stammen.
   effect: |
-    For as long as you concentrate, you can see through the eyes of the target, a willing ally. The target can be any friendly creature, including animals, beasts, and humanoids. The distance of the connection depends on the power level of this boon.
+    Solange du dich konzentrierst, kannst du durch die Augen deines Ziels sehen, das ein willender Verbündeter sein muss. Das Ziel kann eine befreundete Kreatur sein, darunter Tiere, Biester und Humanoide. Die maximale Distanz der Verbindung hängt vom Kraftlevel dieses Wohls ab.
     <ul>
-    <li><strong>Power Level 4</strong> - The ally must be within 100'. </li>
-    <li><strong>Power Level 5</strong> - The ally must be within 1 mile. </li>
-    <li><strong>Power Level 6</strong> - The ally must be anywhere on the same plane of existence. </li>
+    <li><strong>Kraftlevel 4</strong> - Der Verbündete muss innerhalb von 100' verbleiben.</li>
+    <li><strong>Kraftlevel 5</strong> - Der Verbündete muss innerhalb einer Meile verbleiben.</li>
+    <li><strong>Kraftlevel 6</strong> - Der Verbündete muss auf der gleichen Ebene der Realität oder in der gleichen Dimension verbleiben.</li>
     </ul>
   special: |
-    If your action roll to invoke this boon fails, that ally cannot be targeted for 1 hour.
+    Falls dein Aktionswurf fehlschlägt, kannst du mit diesem Wohl für 1 Stunde nicht den gleichen Verbündeten als Ziel wählen.
 - !
-  name: Shapeshift
+  name: Gestaltwandel
   OGname: Shapeshift
   tags:
   - Außergewöhnlich
@@ -746,26 +743,26 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    A target's physical structure is temporarily altered, allowing it to assume the form of potentially any creature no matter how fantastic or exotic. Common examples of shapeshifting include lyncanthropes (such as werewolves), amorphous alien lifeforms, dopplegangers, and certain types of druids.
+    Die physische Struktur des Ziels ist temporär verändert, sodass es potentiell die Form jeder Kreatur annehmen kann, egal wie fantastisch oder exotisch. Häufige Beispiele von Gestaltwandel schließen Lykantropen (wie Werwölfe), amorphe Aliens, Doppelgänger und bestimmte Arten von Druiden ein.
   effect: |
-    The target transforms into a creature whose highest attribute is less than or equal to your Alteration score. With the exception of Alteration, all of the target's extraordinary attribute scores drop to zero, and they acquire the Agility, Fortitude, Might, and Perception attributes of the new form.
-    The GM, not the player, is responsible for deciding the attributes and abilities of creature. It is recommended that this creature follow the guidelines established by the "Simple Build" section for creating NPCs in Chapter 8: Running the Game.
-    In order to keep track of hit points, the target should record the total damage they have suffered. When transforming, damage remains with the character even if their maximum hit points change. For example, Vera has a max HP of 20 but is turned into a dragon and her Fortitude increases from 5 to 9, increasing her hit points to 28. During combat, she suffers 10 damage. When she later transforms back into her human form, the 10 damage remains and is subtracted from her new maximum, leaving her with 10 out of 20 hit points. Additionally, if the shift would reduce the target's hit points to less than 1, the target's hit point total becomes 1 instead.
-    Limitations are applied starting at power level 2 and are gradually removed at higher power levels:
+    Das Ziel verwandelt sich in eine Kreatur, deren höchster Attributwert gleich oder kleiner deinem Wert in Wandlung ist. Mit der Ausnahme von Wandlung, fallen alle außergewöhnlichen Attributwerte des Ziels auf 0 und es erhält in Beweglichkeit, Konstitution, Kraft und Wahrnehmung die Werte der neuen Form.
+    Der GM, nicht der Spieler, ist dafür verantwortlich, die Attribute und Fähigkeiten der Kreatur zu bestimmen. Es wird empfohlen, dass die Kreatur den Leitlinien in der Sektion "Einfacher Aufbau" zum Erstellen von NPCs in Kapitel 8: Das Spiel leiten, folgt.
+    Um seine Trefferpunkte im Blick zu behalten, sollte das Ziel den gesamten Schaden festhalten, den es erlitten hat. Bei der Verwandlung bleibt der Schaden erhalten, selbst wenn maximale Trefferpunkte sich verändern. Beispielsweise hat Vera maximal 20 TP, ist aber in einen Drachen verwandelt, weshalb ihre Konstitution von 5 auf 9 erhöht ist, sodass ihre Trefferpunkte nun 28 sind. Im Kampf erleidet sie 10 Schaden. Später, als sie sich zurückverwandelt, bleiben diese 10 Schaden bestehen und werden von ihrem jetztigen Maximum von 20 subtrahiert, sodass sie nun 10 TP hat. Falls eine Verwandlung die TP eines Charakters auf weniger als 1 fallen lassen würde, werden die TP des Ziels stattdessen auf 1 gesetzt.
+    Beschränkungen für die Verwandlung existieren je nach Kraftlevel des Wohls und werden mit zunehmendem Kraftlevel nach und nach entfernt:
+    <em>Merke: Die Eigenschaften der Formen sind mit zunehmenden Kraftleveln kummulativ.</em>
     <ul>
-    <li><strong>Power Level 2</strong> - The new form cannot be a different size than that of the target. It must possess similar physiology to the target. Examples of different physiology classifications include animals, plants, elementals, and oozes. This list is not exhaustive, and the GM has final say as to what forms are allowed. The target does not gain alternate forms of movement (flight, swimming, climbing, burrowing, etc.). The target does not gain extraordinary attributes of the new form (hence, they cannot inflict banes that rely on the creature's extraordinary attributes).</li>
-    <li><strong>Power Level 3</strong> - Shapeshift into a creature between half and double the target's original size. Gain any non-flight movement modes of the new form.</li>
-    <li><strong>Power Level 4</strong> - Shapeshift into a creature between one quarter and quadruple the target's original size. </li>
-    <li><strong>Power Level 5</strong> - Gain the flying movement mode of the new form, if applicable.</li>
-    <li><strong>Power Level 6</strong> - Shapeshift into a living creature of a different physiology, such as an elemental, ooze, or a plant.</li>
-    <li><strong>Power Level 7</strong> - Gain all extraordinary attributes possessed by the new form. If both forms have an Alteration attribute, the target chooses between the two scores.</li>
-    <li><strong>Power Level 8</strong> - Shapeshift into a creature of any size. </li>
-
+    <li><strong>Kraftlevel 2</strong> - Die neue Form muss die gleiche Größe und eine ähnliche Physiologie haben, wie das Ziel selbst. Beispiele verschiedener physiologischer Klassifizierungen wären Tiere, Pflanzen, Elementare und Schleime. Diese Liste ist nicht abschließend und der GM hat das letzte Wort darin, welche Formen möglich sind. Das Ziel erhält keine neuen Formen der Bewegung (Flug, Schwimmen, Klettern, Graben, usw. ...). Das Ziel erhält keine außergewöhnlichen Attribute der neuen Form (kann also keine wirken, die sich auf die außergewöhnlichen Attribute der Form verlassen).</li>
+    <li><strong>Kraftlevel 3</strong> - Gestaltwandel in eine Form zwischen halb und doppelt so groß wie das Ziel. Erhalte jegliche nicht-fliegenden Bewegungsarten der neuen Form.</li>
+    <li><strong>Kraftlevel 4</strong> - Gestaltwandeln in eine Form zwischen einem Viertel und vier Mal so groß wie das Ziel.</li>
+    <li><strong>Kraftlevel 5</strong> - Erhalte die fliegende Bewegung der neuen Form, falls diese eine hat.</li>
+    <li><strong>Kraftlevel 6</strong> - Gestaltwandel in eine lebende Form einer anderen Physiologie, z.B. Elementare, Schleime oder eine Pflanze.</li>
+    <li><strong>Kraftlevel 7</strong> - Erhalte alle außergewöhnlichen Attribute der neuen Form. Falls beide Formen ein Wandlung-Attribut haben, wählt das Ziel zwischen den beiden Werten.</li>
+    <li><strong>Kraftlevel 8</strong> - Gestaltwandel in eine Kreatur jeder möglichen Größe.</li>
     </ul>
   special: |
-    Shapeshifting into a specific creature (attempting to impersonate them) requires a Deception action roll which is opposed by Perception attribute of anyone who sees the shapeshifted creature. In addition, at power levels 4 and lower, the target does not gain mastery over any special movement modes granted by the new form. As such, the movement speed is cut in half for movement modes not native to the original form, and the GM may rule that certain actions, such as swimming in combat, suffer disadvantage on relevant action rolls.
+    Sich in eine bestimmte Kreatur zu verwandeln (wobei man sich als diese ausgeben möchte) erfordert einen Täuschungswurf, der vom Wahrnehmungsattribut aller bestritten wird, die das verwandelte Ziel sehen. Weiterhin erhält das Ziel bei Kraftlevel 4 und niedriger keine Expertise in besonderen Bewegungsformen der neuen Form, sodass seine Geschwindigkeit in diesen neuen Bewegungsformen halbiert ist. Der GM kann außerdem entscheiden, dass manche Handlungen, die diese Bewegungsformen nutzen, z.B. unter Beschuss zu schwimmen, mit Nachteil durchgeführt werden.
 - !
-  name: Summon Creature
+  name: Kreatur beschwören
   OGname: Summon Creature
   tags:
   - Außergewöhnlich
@@ -791,16 +788,16 @@
   invocationTime: 1 Fokusaktion
   duration: Aufrechterhalten verlängert
   description: |
-    You summon forth a creature to assist your cause, whether they are animals called from the wild, undead minions built from the remains of your foes, or worker bots constructed of spare parts from a salvage yard. This boon is favored by druids, conjurers, engineers, necromancers, and mad scientists.
+    Du beschwörst eine Kreatur, um dir zur Seite zu stehen, egal ob es sich um Tier handelt, das du aus der Wildnis gerufen hast, untote Bedienstete, die aus den Körperteilen deiner Feinde zusammengesetzt sind oder Arbeiterroboter, die du aus Schrott zusammengebaut hast. Dieses Wohl ist beliebt bei Druiden, Beschwörern, Ingenieuren, Nekromanten und verrückten Wissenschaftlern.
   effect: |
-    You create or summon a temporary NPC companion that is under your control, though of limited intelligence. Your minion's statistics are determined by the power level of this boon. You may assign the attributes as you see fit among the following: Agility, Fortitude, Might, Perception, Energy, and Entropy. Your minion's attributes do not affect their hit points or defenses.
-    <table><tbody><tr class="header"><th>Power Level</th><th>Hit Points</th><th>Defenses</th><th>Attributes</th></tr><tr class="odd"><td>4</td><td>4</td><td>11</td><td>2, 1, 1</td></tr><tr class="even"><td>5</td><td>5</td><td>12</td><td>3, 2, 2</td></tr><tr class="odd"><td>6</td><td>6</td><td>13</td><td>4, 3, 3</td></tr><tr class="even"><td>7</td><td>7</td><td>14</td><td>5, 4, 4</td></tr><tr class="odd"><td>8</td><td>8</td><td>15</td><td>6, 5, 5</td></tr><tr class="even"><td>9</td><td>9</td><td>16</td><td>7, 6, 6</td></tr></tbody></table>
-    Your minion cannot act on the turn that it is summoned. On each of your following turns, your minion acts on your initiative count according to your direction, receiving the usual assortment of actions. You are limited to a maximum number of summoned creatures equal to your invoking attribute score. Feats and other abilities cannot increase this limit.
+    Du erschaffst oder beschwörst einen temporären NPC-Verbündeten, der sich unter deiner Kontrolle befindet, wobei dieser aber von begrenzter Intelligenz ist. Die Werte des NPCs werden durch das Kraftlevel dieses Wohls bestimmt. Du kannst die Attributwerte frei unter den folgen Attributen verteilen: Beweglichkeit, Konstitution, Kraft, Wahrnehmung, Energie, Vergehen. Die Attribute deines NPCs wirken sich nicht auf seine Trefferpunkte oder Verteidigungen aus.
+    <table><tbody><tr class="header"><th>Kraftlevel</th><th>Trefferpunkte</th><th>Verteidigungen</th><th>Attribute</th></tr><tr class="odd"><td>4</td><td>4</td><td>11</td><td>2, 1, 1</td></tr><tr class="even"><td>5</td><td>5</td><td>12</td><td>3, 2, 2</td></tr><tr class="odd"><td>6</td><td>6</td><td>13</td><td>4, 3, 3</td></tr><tr class="even"><td>7</td><td>7</td><td>14</td><td>5, 4, 4</td></tr><tr class="odd"><td>8</td><td>8</td><td>15</td><td>6, 5, 5</td></tr><tr class="even"><td>9</td><td>9</td><td>16</td><td>7, 6, 6</td></tr></tbody></table>
+    Dein NPC kann nicht in dem Zug handeln, in dem er beschwört wird. In jeder folgenden Runde handelt der NPC in deinem Zug nach deinen Anweisungen. Der NPC hat die normale Verteilung von Aktionen pro Runde. Du kannst eine maximale Anzahl an beschworenen NPC gleich dem für die Beschwörungen genutzten Attributwert gleichzeitig haben. Fertigkeiten und andere Fähigkeiten können dieses Limit nicht erhöhen.
   special: |
-    Creatures summoned by this boon cannot be healed if they reach zero hit points. They are permanently dead. Additionally, creatures summoned by this boon cannot invoke it.
-    Multi-targeting for this boon does not work as it does for other boons. You may use a single invocation to summon multiple creatures. For each additional creature summoned beyond the first, you suffer an additional disadvantage 2 on your action roll to invoke. Any effect that modifies multi-targeting penalties will work as normal in offsetting this disadvantage.
+    Von diesem Wohl beschworene Kreaturen können nicht geheilt werden, falls sie 0 TP erreichen. Sie sind permanent tot. Kreaturen, die durch dieses Wohl beschworen wurden, können dieses Wohl nicht nutzen.
+    Multi-Zielen funktioniert für dieses Wohl nicht wie bei anderen Wohlen. Du kannst ein einziges Wirken dieses Wohls benutzen, um mehrere Kreaturen zu beschwören. Für jede weitere Kreatur, die du beschwören willst, hast du Nachteil 2 auf den Aktionswurf zum Wirken des Wohls. Effekte, die Nachteile durch Multi-Zielen verändern, funktionieren hierfür normal.
 - !
-  name: Sustenance
+  name: Versorgung
   OGname: Sustenance
   tags:
   - Außergewöhnlich
@@ -821,22 +818,22 @@
   - Creation
   - Protection
   invocationTime: 1 große Aktion
-  duration: 24 hours
+  duration: 24 Stunden
   description: |
-    You protect the target from environmental dangers or suspend their usual biological needs. Examples include sprouting gills to allow for underwater breathing, calling on a divine power to be sustained without food, and using far-future biomodifications to endure extreme cold.
+    Du schützt das Ziel vor Umgebungsgefahren oder frierst seine normalen biologischen Notwendigkeiten ein. Beispiele umfassen das Wachsen von Kiemen um unterwasser atmen zu können, das Anrufen einer höheren Macht um ohne Essen auszukommen oder zukunftstechnologische Biomodifikationen des Körpers, um extremer Kälte zu widerstehen.
   effect: |
-    You protect the target from one environmental danger, biological need, or similar condition. The power level of this boon determines the type of conditions you may protect against.
+    Du schützt das Ziel vor einer Umgebungsgefahr, einer biologischen Notwendigkeit oder einem ähnlichen Umstand. Das Kraftlevel dieses Wohls bestimmt die Art von Umstand, vor der du schützen kannst.
     <ul>
-    <li><strong>Power Level 3</strong> - Target is unaffected by a chosen type of hostile climate. Examples include heat, cold, and radiation.</li>
-    <li><strong>Power Level 4</strong> - Target can sustain a single biological need from an alternate source, such as by breathing the oxygen found in water, drinking from an irradiated stream, or eating food not normally edible</li>
-    <li><strong>Power Level 5</strong> - Target can subsist without the essential nourishment periodically required for sustenance, such as food or water.</li>
-    <li><strong>Power Level 7</strong> - Target can subsist without the most critical nourishment, that which is typically consumed on a moment-to-moment basis, such as air.</li>
-    <li><strong>Power Level 9</strong> - Target is unaffected even when cut off from all biological necessities, including warmth, water, air, food, and any other biological need.</li>
+    <li><strong>Kraftlevel 3</strong> - Das Ziel bleibt von einer gewählten Art gefährlicher Witterung unberührt. Beispiele schließen Hitze, Kälte oder Strahlung ein.</li>
+    <li><strong>Kraftlevel 4</strong> - Das Ziel kann eine biologische Notwendigkeit durch eine alternative Quelle erfüllen, wie etwa den Sauerstoff in Wasser zu atmen, aus einem verstrahlten Fluss zu trinken oder ungenießbares Essen zu verzehren.</li>
+    <li><strong>Kraftlevel 5</strong> - Das Ziel kann ohne normalerweise täglich nötige Ressourcen wie Essen und Wasser auskommen.</li>
+    <li><strong>Kraftlevel 7</strong> - Das Ziel kann ohne kritisch lebensnotwendige Ressourcen wie Luft zum Atmen auskommen.</li>
+    <li><strong>Kraftlevel 9</strong> - Das Ziel bleibt unberührt, selbst wenn es von allen nötigen biologischen Ressourcen wie Wärme, Wasser, Luft, Essen und allen anderen abgeschnitten ist.</li>
     </ul>
   special: |
-    You may only have one instance of this boon in effect at any given time. As soon as you invoke it, any previous invocations are immediately canceled.
+    Du kannst nur eine Instanz dieses Wohls auf einmal aktiv haben. Sobald du das Wohl wirkst, werden alle vorigen Wirkungen automatisch aufgelöst.
 - !
-  name: Telekinesis
+  name: Telekinese
   OGname: Telekinesis
   tags:
   - Außergewöhnlich
@@ -854,17 +851,17 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    You reach out and extraordinarily control an unattended inanimate object. This may stem from latent psychic ability, magical manipulation of the element of air, anti-gravity technology, or similar sources.
+    Du erstreckst eine außergewöhnliche Kontrolle auf ein unbewachtes nichtlebendiges Objekt. Dies kann durch inhärente psychische Fähigkeiten geschehen, magische Manipulation der Luft, Antigrav-Technologie oder ähnliche Quellen.
   effect: |
-    Immediately upon invoking the boon, and again each round when you sustain the boon, you may move the target object up to 5' times your invoking attribute score. As part of moving an object, you may also manipulate it (for example, turning a door knob or opening a coin purse). A new invocation of this boon must be attempted whenever you wish to target a different object. The power level of the boon determines the size and weight of the objects you may target:
+    Sobald du das Wohl wirkst und darauf in jeder folgenden Runde, wenn du das Wohl aufrechterhälst, kannst du das Zielobjekt bis zu 5' pro Attributwert des genutzten Attributes bewegen. Als Teil der Bewegung kannst du das Objekt auch auf simple Weise manipulieren (z.B. das Drehen eines Türknaufs oder Öffnen einer Münzbörse). Wann immer du das Zielobjekt wechseln willst, musst du das Wohl neu wirken. Das Kraftlevel des Wohls bestimmt die Größe und das Gewicht des Objekts, das du als Ziel nutzen kannst:
     <ul>
-    <li><strong>Power Level 3</strong> - The object must be smaller than a 1' cube or lighter than 10 pounds.</li>
-    <li><strong>Power Level 5</strong> - The object must be smaller than a 5' cube or lighter than 100 pounds.</li>
-    <li><strong>Power Level 7</strong> - The object must be smaller than a 10' cube or lighter than 1,000 pounds.</li>
-    <li><strong>Power Level 9</strong> - The object must be smaller than a 20' cube or lighter than 10,000 pounds.</li>
+    <li><strong>Kraftlevel 3</strong> - Das Objekt muss kleiner als 1 Kubikfuß sein oder leichter als 10 Pfund.</li>
+    <li><strong>Kraftlevel 5</strong> - Das Objekt muss kleiner als 5 Kubikfuß sein oder leichter als 100 Pfund.</li>
+    <li><strong>Kraftlevel 7</strong> - Das Objekt muss kleiner als 10 Kubikfuß sein oder leichter als 1.000 Pfund.</li>
+    <li><strong>Kraftlevel 9</strong> - Das Objekt muss kleiner als 20 Kubikfuß sein oder leichter als 10.000 Pfund.</li>
     </ul>
 - !
-  name: Telepathy
+  name: Telepathie
   OGname: Telepathy
   tags:
   - Außergewöhnlich
@@ -884,17 +881,17 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    You reach out mentally to a willing target and speak wordlessly with thought-to-thought communication. Examples of this boon in action include a psychic who can connect with the minds of others and a far future artificial intelligence capable of passing information to other beings through the vibration of quantum strings.
+    Du streckst deinen Geist zu einem willenden Ziel und sprichst mit ihm durch wortlose Gedankenkommunikation. Beispiele für dieses Wohl umfassen Psychiker, die sich mit dem Geist anderer verbinden können oderhyperfortschrittliche künstliche Intelligenz, die Informationen durch das Vibrieren von Quantenstrings verbreiten kann.
   effect: |
-    You and the target can communicate with each other simply through thought. Note that this telepathy does not bestow intelligence upon creatures, so you could not use it to communicate with a squirrel unless you already possessed other means of doing so. Additionally, telepathy does not bypass language barriers, so you would need to already speak the language of your target.
+    Du und dein Ziel können miteinander durch einfaches Denken kommunizieren. Telepathie verleiht Kreaturen keine Intelligenz, sodass du damit zum Beispiel nicht mit einem Eichhörnchen sprechen könntest, wenn du nicht andere Mittel hast, sinnvoll mit Tieren zu kommunizieren. Weiterhin kann Telepathie keine Sprachgrenzen überwinden, sodass du und dein Ziel die gleiche Sprache sprechen können müsst.
     <ul>
-    <li><strong>Power Level 3</strong> - You can communicate telepathically with a single creature of animal-level intelligence or lower. Keep in mind that it can only communicate concepts with you that it can understand.</li>
-    <li><strong>Power Level 5</strong> - You can communicate telepathically with a single creature of humanoid intelligence.</li>
-    <li><strong>Power Level 6</strong> - You can create a mental relay between yourself and up to five other creatures allowing each of them to communicate with the rest of the group simultaneously.</li>
-    <li><strong>Power Level 7</strong> - You can communicate telepathically with any number of creatures that you can see.</li>
+    <li><strong>Kraftlevel 3</strong> - Du kannst telepathisch mit einer einzigen Kreatur von tierischer Intelligenz oder niedriger kommunizieren. Beachte, dass du nur Konzepte kommunizieren kannst, die das Ziel auch verstehen kann.</li>
+    <li><strong>Kraftlevel 5</strong> - Du kannst mit einer einzigen Kreatur humanoider Intelligenz kommunizieren.</li>
+    <li><strong>Kraftlevel 6</strong> - Du kannst ein mentales Kommunikationsnetzwerk zwischen dir selbst und bis zu fünf anderen Kreaturen erschaffen, sodass sie alle mit dem Rest der Gruppe kommunizieren können.</li>
+    <li><strong>Kraftlevel 7</strong> - Du kannst telepathisch mit allen Kreaturen kommunizieren, die du sehen kannst.</li>
     </ul>
 - !
-  name: Teleport
+  name: Teleportation
   OGname: Teleport
   tags:
   - Außergewöhnlich
@@ -912,16 +909,16 @@
   invocationTime: 1 Bewegungsaktion
   duration: Augenblicklich
   description: |
-    You are able to instantly move yourself or an ally from one place to another, either by stepping into an intermediate realm, deconstructing and reforming a physical body, transporting magically, or similar means.
+    Du kannst dich selbst oder einen Verbündeten augenblicklich von einem Ort zu einem anderen bewegen, z.B. indem du in einen interdimensionalen Taschenraum trittst, deinen physischen Körper de- und wieder rekonstruierst, magisch transportierst oder ähnliches.
   effect: |
     <ul>
-    <li><strong>Power Level 3</strong> - You can teleport the target to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see your destination. </li>
-    <li><strong>Power Level 5</strong> - Your teleportation range is unchanged, but you can now teleport your target to spaces that you can't see. If you choose an occupied space, your target lands in the nearest adjacent space (roll randomly to decide if there are multiple options) and your target is stunned for 1 round (a resist roll is not needed to end the effect). </li>
-    <li><strong>Power Level 7</strong> - You can opt to take longer in invoking the boon. If you choose to do so, for each minute of invocation (delay before making your action roll) you can teleport the target 1 mile, up to a maximum number of miles equal to your Movement attribute score. While the distance is greater, this mode is also dangerous, as a misunderstanding of direction or geography can put your target many miles in an unfavorable direction. You simply choose a direction (relative to your starting location) and teleport your target a number of miles equal to your Movement score. During invocation, you must spend a focus action each turn until the invocation time passes.</li>
-    <li><strong>Power Level 9</strong> - Using the same longer invocation time for power level 7, you can now teleport your target to any location without range limit, provided you have personally seen (through magical or normal means) the destination.</li>
+    <li><strong>Kraftlevel 3</strong> - Du kannst das Ziel zu einem freien Raum innerhalb von 5' pro Bewegungswert bewegen, solange du deinen Zielort auf natürliche Weise sehen kannst.</li>
+    <li><strong>Kraftlevel 5</strong> - Die Reichweite deiner Teleportation ist unverändert, aber du kannst dein Ziel jetzt an Orte bringen, die du nicht sehen kannst. Falls du einen nichtfreien Raum wählst, landet dein Ziel im nächstgelegenen freien Raum (falls es mehrere Möglichkeiten gibt, wird einen Würfel dafür) und dein Ziel ist für 1 Runde *betäubt* (ein Widerstehenswurf ist nötig, um den Effekt zu beenden).</li>
+    <li><strong>Kraftlevel 7</strong> - Du kannst dich entscheiden, mehr Zeit damit zu verbringen, dieses Wohl zu wirken. Falls du dich dafür entscheidest, kannst du das Ziel 1 Meile weit für jede Minute Wirkzeit (Zeit VOR dem Aktionswurf) teleportieren. Die Maximaldistanz wird durch deinen Bewegungswert bestimmt (1 Meile pro Wert). Obwohl die Distanz größer ist, ist dieser Modus der Teleportation auch gefährlicher, da ein Fehler in der Richtung oder Geographie dein Ziel den Zielort meilenweit verfehlen lassen kann. Du wählst einfach eine Richtung (relativ zu deiner jetzigen Position) und teleportierst dein Ziel eine Distanz maximal gleich deinem Bewegungswert in Meilen. Während der Wirkzeit musst du jede Runde eine Fokusaktion nutzen, um den Wirkprozess in diesem Modus aufrechtzuerhalten.</li>
+    <li><strong>Kraftlevel 9</strong> - Indem du die gleiche längere Wirkzeit von Kraftlevel 7 nutzt, kannst du dein Ziel an einen beliebigen Ort ohre Reichweitenbeschränkung teleportieren (wobei du trotzdem für jede Meile eine Minute wirken musst), solange du den Zielort selbst schonmal gesehen hast (durch normale oder magische Mittel).</li>
     </ul>
 - !
-  name: Tongues
+  name: Zungen
   OGname: Tongues
   tags:
   - Außergewöhnlich
@@ -937,11 +934,11 @@
   invocationTime: 10 Minuten
   duration: Aufrechterhalten verlängert
   description: |
-    You or an ally temporarily gains the ability to read, write, and speak languages that they are otherwise unfamiliar with. This ability may come by channeling interplanar spirits, tapping the power of a super intelligence, making deductions based on an extraordinary understanding of the science of communication, or similar means.
+    Du oder ein Verbündeter erhalten temporär die Fähigkeit, Sprachen zu sprechen, lesen und schreiben, die sie normalerweise nicht beherrschen. Diese Fähigkeit stammt von interplanaren Geistern, überintelligenter KI, absurder Lernfähigkeit in Linguistik oder ähnlichen Quellen.
   effect: |
     <ul>
-    <li><strong>Power Level 5</strong> - Your target can understand and speak a language of your choice.</li>
-    <li><strong>Power Level 6</strong> - Your target can read a language of your choice.</li>
+    <li><strong>Kraftlevel 5</strong> - Dein Ziel kann eine Sprache deiner Wahl verstehen und sprechen.</li>
+    <li><strong>Kraftlevel 6</strong> - Dein Ziel kann eine Sprache deiner Wahl lesen.</li>
     </ul>
 - !
   name: Transmutation
@@ -963,17 +960,18 @@
   invocationTime: 1 Minute
   duration: Aufrechterhalten verlängert
   description: |
-    You are able to change the size, shape, and composition of physical matter that you touch. Transmute rocks to gold, a wall into a door, or a lump of metal into a loaded gun. This boon is favored among druids, transmuters, engineers, and mad scientists.
+    Du kannst die Größe, Form und physische Komposition von Materie, die du berührst, verändern. Transmutiere Stein zu Gold, eine Wand in eine Tür oder einen Klumpen Metall in eine geladene Schusswaffe. Dieses Wohl ist unter Druiden, Alchemisten, Ingenieuren und verrückten Wissenschaftlern verbreitet.
   effect: |
-    Your power level determines the types of matter you can transmute as well as the duration of the effect. The duration is either <em>temporary</em> or <em>permanent</em>. A <strong>temporary</strong> transmutation must be sustained every round. A <strong>permanent</strong> transmutation does not have to be sustained and persists until some other effect would cancel it. The maximum volume of matter you can transmute is on 5 cubic feet multiplied by your attribute score.
+    Das Kraftlevel bestimmt die Art von Materie, die du transmutieren kannst sowie die Dauer des Effekts. Die Dauer ist entweder <em>temporär</em> oder <em>permanent</em>. Eine <strong>temporäre</strong> Transmutation muss jede Runde aufrechterhalten werden. Eine <strong>permanente</strong> Transmutation muss nicht aufrechterhalten werden und bleibt bestehen, bis ein anderer Effekt sie annulieren würde. Das Maximalvolumen, das du transmutieren kannst beträgt 5 Kubikfuß pro Wert deines genutzten Attributes.
     <ul>
-    <li><strong>Power Level 3</strong> - <em>Temporarily</em> transmute an object into another object of the same size and weight.</li>
-    <li><strong>Power Level 5</strong> - <em>Temporarily</em> transmute an object into another object of the same size and 50% greater or lesser weight. <em>Temporarily</em> transmute an object into another object of the same weight and 50% greater or lesser size.</li>
-    <li><strong>Power Level 7</strong> - <em>Permanently</em> transmute an object into another object of the same size and weight. <em>Temporarily</em> transmute an object into another object of the same size and 200% greater or lesser weight. <em>Temporarily</em> transmute an object into another object of the same weight and 200% greater or lesser size.</li>
-    <li><strong>Power Level 8</strong> - <em>Permanently</em> transmute an object into another object of up to 200% difference in size and/or weight. <em>Temporarily</em> transmute a simple object into a mundane object of notable complexity. The resulting object must be of Wealth Level 2 or less.</li>
-    <li><strong>Power Level 9</strong> - <em>Permanently</em> transmute a simple object into a mundane and complex one. The resulting object must be of Wealth Level 2 or less.</li></ul>
+    <li><strong>Kraftlevel 3</strong> - Transmutiere ein Objekt <em>temporär</em> in ein anderes Objekt gleicher Größe und gleichen Gewichts.</li>
+    <li><strong>Kraftlevel 5</strong> - Transmutiere ein Objekt <em>temporär</em> in ein anderes Objekt gleicher Größe und bis zu 50% größerem oder kleinerem Gewicht - ODER - transmutiere ein Objekt <em>temporär</em> in ein anderes Objekt gleichen Gewichts und bis zu 50% größerer oder kleinerer Größe.</li>
+    <li><strong>Kraftlevel 7</strong> - Transmutiere ein Objekt <em>permanent</em> in ein anderes Objekt gleicher Größe und gleichen Gewichts - ODER - transmutiere ein Objekt <em>temporär</em> in ein anderes Gewicht gleicher Größe und bis zu 200% größerem oder kleinerem Gewicht - ODER - transmutiere ein Objekt <em>temporär</em> in ein anderes Objekt gleichen Gewichts und bis zu 200% größerer oder kleinerer Größe.</li>
+    <li><strong>Kraftlevel 8</strong> - Transmutiere ein Objekt <em>permanent</em> in ein anderes Objekt mit bis zu 200% abweichender Größe und/oder 200% abweichendem Gewicht - ODER - transmutiere ein simples Objekt <em>temporär</em> in ein Objekt gewisser Komplexität. Das resultierende Objekt muss Wohlstandswert 2 oder niedriger entsprechen.</li>
+    <li><strong>Kraftlevel 9</strong> - Transmutiere ein simples Objekt <em>permanent</em> in ein einfaches oder komplexes Objekt. Das resultierende Objekt muss Wohlstandswert 2 oder niedriger entsprechen.</li>
+    </ul>
 - !
-  name: Truesight
+  name: Klarsicht
   OGname: Truesight
   tags:
   - Außergewöhnlich
@@ -992,12 +990,12 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    You grant yourself or an ally the ability to perceive that which cannot be detected with mundane senses, piercing impediments that would block or deceive normal sight, including darkness, solid objects, illusions, and even the barrier between alternate planes of reality. This power may stem from extrasensory perception, divine blessing, cybernetically enhanced senses, or similar means.
+    Du gibst dem Ziel die Fähigkeit, das zu entdecken, was nicht durch normale Sinne wahrgenommen werden kann. Hindernisse, die normale Sinne blockieren würden, z.B. Dunkelheit, Wände oder Objekte, Illusionen und sogar Barrieren zwischen den Dimensionen sind nutzlos gegen die Klarsicht. Diese Fähigkeit kann von übernatürlicher Wahrnehmung stammen, göttlichem Segen, cybernetischen Sinnesimplantaten, usw..
   effect: |
     <ul>
-    <li><strong>Power Level 5</strong> - The target sees the presence of extraordinary effects such as magic, cloaking technology, and other effects that could be seen through extra-visual perception. In addition, this boon grants advantage 1 on rolls used to detect mundane concealment such as hidden passages, furniture with hidden storage, and concealed traps or other hazards.</li>
-    <li><strong>Power Level 6</strong> - The target's extraordinary sight pierces natural and magical darkness.</li>
-    <li><strong>Power Level 7</strong> - The target's extraordinary sight pierces through all illusory effects, allowing them to see a <em>phantasm</em> for what it is.</li>
-    <li><strong>Power Level 8</strong> - The target can see through solid objects and their natural visual range is unhindered by them.</li>
-    <li><strong>Power Level 9</strong> - The extraordinary sight enables the target to peer into alternate planes or dimensions. They can see into dimensional pockets and other planes that overlap with the one they are currently on. In addition, the target's visual range becomes supercharged.</li>
+    <li><strong>Kraftlevel 5</strong> - Das Ziel sieht die Präsenz außergewöhnlicher Vorkommnisse wie Magie, Tarntechnologie und anderer Mittel, die nur durch übernatürliche Sinne wahrgenommen werden können. Zusätzlich gibt dieses Wohl Vorteil 1 auf Aktionswürfe, mit denen einfache Verstecke durchschaut werden sollen, wie z.B. verborgene Türen, Fächer mit doppeltem Boden, nicht-magische Fallen oder andere normale versteckte Bedrohungen.</li>
+    <li><strong>Kraftlevel 6</strong> - Die übernatürliche Wahrnehmung des Ziels durchdringt natürliche und magische Dunkelheit.</li>
+    <li><strong>Kraftlevel 7</strong> - Die übernatürliche Wahrnehmung des Ziels durchdringt alle illusorischen Effekte, sodass es auch <em>Phantasmen</em> als das erkenen kann, was sie wirklich sind.</li>
+    <li><strong>Kraftlevel 8</strong> - Das Ziel kann durch feste Wände und Objekte sehen und seine natürliche Sichtreichweite ist von ihnen unbehindert.</li>
+    <li><strong>Kraftlevel 9</strong> - Die übernatürliche Wahrnehmung des Ziels erlaubt es ihm, in andere Dimensionen oder Ebenen der Realität zu blicken. Es kann dimensionale Taschenräume erkennen und mit der eigenen Realität überlappende Ebenen durchschauen. Weiterhin ist seine Sichtreichweite stark erhöht.</li>
     </ul>

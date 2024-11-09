@@ -113,7 +113,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 ##### Schwarzer Lotus Extrakt
 **Wohlstandswert:** 6
 
-*Unter denjenigen, die sich mit den dunklen Künsten beschäftigen, wird kein Gift mehr gefürchtet als das Extrakt der Blätter des schwarzen Lotus.
+*Unter denjenigen, die sich mit den dunklen Künsten beschäftigen, wird kein Gift mehr gefürchtet als das Extrakt der Blätter des schwarzen Lotus.*
 
 **Eigenschaften:** Tod 9, Augmentierend, Verbrauchsgut, Hartnäckig
 ##### Kugelfischgift
