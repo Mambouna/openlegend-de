@@ -281,11 +281,11 @@ Aufgrund ihrer engen Verbindung zur Natur neigen Druiden dazu, ihre Umgebung zum
 
 **Attribute:** Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Kraft 2 (1d6), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Wandlung 5 (2d6), Schöpfung 3 (1d8)<br>**Trefferpunkte:** 20<br>**Deckung:** 17 (Beweglichkeit 2, Kraft 2, Schienenrüstung[?] 3)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 25'
 
-**Fertigkeiten:** Segenfokus II (Gestaltwandlung)
+**Fertigkeiten:** Segenfokus II (Gestaltwandel)
 
 **Wichtige Ausrüstung:** Schienenrüstung (als Plattenpanzer gewertet), Stab, Kurzspeer
 #### Bevorzugte Aktionen
-***Gestaltwandel*** (*Gestaltwandlung* wirken): Auto-Erfolg auf KL 5 durch *Segenfokus*<br>***Klammernde Ranken*** (*Immobilisiert* zufügen): Schöpfung vs. Zähigkeit<br>***Dornenhecke*** (*Barriere* wirken): Schöpfung vs. 16 (KL 3)<br>***Pflanzen animieren*** (*Kreatur beschwören* wirken): Wandlung vs. 18 - 20 (KL 4 - 5)<br>***Wiederwuchs*** (*Regeneration* wirken): Wandlung vs. 12 - 20 (KL 1 - 5)
+***Gestaltwandel*** (*Gestaltwandel* wirken): Auto-Erfolg auf KL 5 durch *Segenfokus*<br>***Klammernde Ranken*** (*Immobilisiert* zufügen): Schöpfung vs. Zähigkeit<br>***Dornenhecke*** (*Barriere* wirken): Schöpfung vs. 16 (KL 3)<br>***Pflanzen animieren*** (*Kreatur beschwören* wirken): Wandlung vs. 18 - 20 (KL 4 - 5)<br>***Wiederwuchs*** (*Regeneration* wirken): Wandlung vs. 12 - 20 (KL 1 - 5)
 #### Bärenform
 **Attribute:** Kraft 5 (2d6), Beweglichkeit 1 (1d4), Konstitution 3 (1d8), Wahrnehmung 2 (1d6)<br>**Trefferpunkte:** 20<br>**Deckung:** 19 (Beweglichkeit 1, Kraft 5, Schienenrüstung 3)<br>**Geschwindigkeit:** 25'
 #### Falkenform
@@ -295,12 +295,9 @@ Aufgrund ihrer engen Verbindung zur Natur neigen Druiden dazu, ihre Umgebung zum
 > [!danger]
 > INPOINT
 ### Ingenieur
-Engineers are infused with the spark of creation, and can comprehend the
-inner workings of extremely complex systems. While Engineers are
+Engineers are infused with the spark of creation, and can comprehend the inner workings of extremely complex systems. While Engineers are
 typically dextrous and tough as nails, their real power lies in the
-cogwheel gadgets they whip up with ease from spare parts and salvaged
-goods. These hissing steam gizmos and mechanical implements ensure that
-the Engineer is prepared for any situation.
+cogwheel gadgets they whip up with ease from spare parts and salvaged goods. These hissing steam gizmos and mechanical implements ensure that the Engineer is prepared for any situation.
 #### Strategie
 In non-combat situations, the Engineer's prowess comes from the
 versatility of their creations. Given enough time, they can use the
