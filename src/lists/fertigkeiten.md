@@ -1,4 +1,4 @@
-### Alternate Form (I - II)
+### Alternative Gestalt (I - II)
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
@@ -6,26 +6,27 @@
 - **Rang 2:** Keine
 
 **Beschreibung**  
-You have the ability to transform from one persona to another, whether that be through bodily transformation like a werewolf or through exterior mechanisms, such as a cybernetically enhanced soldier who can call forth a symbiotic mech suit.
+Du hast die Fähigkeit, dich von einer Gestalt in eine andere zu verwandeln, egal ob durch körperliche Transformation wie bei einem Werwolf oder durch externe Mechanisemen, wie einem cybernetischen Supersoldaten, der einen symbiotischen Mechanzug hervorrufen kann.
 
 **Effekt**  
-Upon taking this feat, you build a single alternate form using the normal character creation rules, though your attribute and feat points are determined by your tier in this feat:
+Sobald du diese Fertigkeit erlangst, erstellst du nach den normalen Regeln der Charaktererstellung eine alternative Gestalt, wobei die Attribut- und Fertigkeitspunkte der Gestalt durch den Rang dieser Fertigkeit bestimmt werden:
 <ul>
-<li><strong>Tier 1</strong> - Half of your primary form's attribute points (rounded up), and 3 feat points.</li>
-<li><strong>Tier 2</strong> - Same attribute points as your primary form, and 3 feat points less than your primary form.</li>
+<li><strong>Rang 1</strong> - Halb so viele Attributpunkte wie deine Primärgestalt (aufgerundet) und 3 Fertigkeitenpunkte.</li>
+<li><strong>Rang 2</strong> - Gleiche Attributpunkte wie deine Primärform und 3 Fertigkeitenpunkte weniger als deine Primärform.</li>
 </ul>
-Whenever your primary form gains new attribute points or levels up, your alternate form also gains points according to the above formulas.
-As a focus action, you may change between any two forms (including your primary form or any alternate form). You maintain this capability in all of your forms.
-Each form is treated as a completely different character for mechanical purposes - possessing different attributes, feats, perks, flaws, and other defining characteristics. Your alternate form does, however, retain the ability to transform back into your primary form.
-In order to keep track of hit points, you should always record the total damage that your character has suffered. When transforming, your damage remains with you even if your maximum hit points change. For example, Dr. Jekyll has a max HP of 15 and Mr. Hyde has a max HP of 30. During combat, Mr. Hyde suffers 10 damage. When he later transforms back into Dr. Jekyll, the 10 damage remains and is subtracted from his new maximum, leaving the doctor with 5 out of 15 hit points. Additionally, when changing forms, if your hit points would be reduced to less than 1, your hit point total becomes 1 instead.
+Wann immer deine Primärgestalt neue Attributpunkte erhält oder im Level aufsteigt, erhält deine alternative Gestalt auch neue Punkte anhand der oben angegebenen Formeln.
+Als Fokusaktion kannst du von einer Gestalt zu einer anderen wechseln (darunter Primärgestalt und alternative Gestalten). Du erhälst dir diese Fähigkeit in allen möglichen Gestalten.
+Jede Gestalt wird spielmechanisch als unterschiedlicher Charakter behandelt und hat so eigene Attribute, Fertigkeiten, Charakterstärken und -schwächen und andere differenzierende Merkmale. Deine alternative Gestalt behält immer die Fähigkeit, sich zu deiner Primärgestalt zurückzuverwandeln.
+Um deine Trefferpunkte im Blick zu behalten, solltest du den gesamten erhaltenen Schaden festhalten. Bei der Verwandlung bleibt der Schaden erhalten, selbst wenn deine maximalen Trefferpunkte sich verändern. Beispielsweise hat Dr. Jekyll ein TP-Maximum von 15 und Mr. Hyde hat ein TP-Maximum von 30. Im Kampf erleidet Mr. Hyde 10 Schaden. Wechselt er seine Gestalt später zu Dr. Jekyll, bleiben die 10 Schaden bestehen und werden vom nun neuen TP-Maximum von Dr. Jekyll subtrahiert, sodass dieser noch 5 TP hat. Falls das Wechseln der Gestalt deine TP auf unter 1 reduzieren würde, werden sie stattdessen auf 1 gesetzt.
 
 **Besonders**  
-When selecting feats for your alternate form, you may not select the <em>Alternate Form</em> feat.
-With GM approval, you may take this feat multiple times. If you do, you get access to an additional form. Multiple Alternate Forms can be a powerful way of accumulating new feat points and attributes. The GM should prevent players from exploiting the feat to create an overly powerful character.
+Deine alternative Gestalt kann nicht die Fertigkeit <em>Alternative Gestalt</em> erwerben.
+Mit der Zustimmung des GM kannst du diese Fertigkeit mehr als einmal wählen. Falls du dies tust, erhälst du eine weitere alternative Gestalt. Mehrere Alternative Gestalten können ein mächtiger Weg sein, viele neue Attribute und Fertigkeitenpunkte zu sammeln. Der GM sollte Spielende daran hindern, mithilfe dieser Fertigkeit übermäßig mächtige Charaktere zu gestalten.
 
 > Tags: Keine Voraussetzungen
 
-### Area Manipulation (I - V)
+---
+### Gebietsmanipulation (I - V)
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
@@ -36,14 +37,15 @@ With GM approval, you may take this feat multiple times. If you do, you get acce
 - **Rang 5:** Keine
 
 **Beschreibung**  
-Whether unloading your assault rifle on full-automatic or hurling a ball of flame, you are exceptionally precise at choosing targets for area attacks, allowing you to avoid allies who would otherwise be caught in the line of fire.
+Egal, ob du dein vollautomatisches Sturmgewehr für dich sprechen lässt oder eine Flammenkugel wirfst, bist du besonders präzise darin, die Ziele deine Gebietsattacken anzuvisieren, sodass du Verbündete im Gebiet nicht im Kreuzfeuer hast.
 
 **Effekt**  
-For each tier of this feat you possess, you can omit a single 5-foot square from being targeted as part of an area attack.
+Für jeden Rang dieser Fertigkeit, den du besitzt, kannst du ein einziges 5' Rechteck aus dem Zielgebiet einer Gebietsattacke ausnehmen.
 
 > Tags: Keine Voraussetzungen, Außergewöhnlich
 
-### Armor Mastery (I - II)
+---
+### Rüstungsexpertise (I - II)
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
@@ -51,32 +53,34 @@ For each tier of this feat you possess, you can omit a single 5-foot square from
 - **Rang 2:** Keine
 
 **Beschreibung**  
-Whether you are a heavily armored mechanized knight or a nimble rogue in studded leather, you and your armor are one. Your training and experience at wearing armor allows you to maximize its protection and minimize its drawbacks.
+Ob du ein schwer gepanzerter Mecharitter bist oder ein flinker Schurke in gestutztem Leder, sind du und deine Rüstung eins. Dein Training und deine Erfahrung im Tragen von Rüstung erlauben es dir, ihren Schutzt zu maximieren und ihre Nachteile zu minimieren.
 
 **Effekt**  
-Your training allows you to sleep in armor without gaining one level of the <em>fatigued</em> bane. In addition, while wearing armor, you gain the following benefits:
+Dein Training lässt dich in deiner Rüstung schlafen, ohne dass du danach ein Level des Harmes <em>erschöpft</em> erleidest. Weiterhin erhält du beim Tragen von Rüstung die folgenden Vorteile:
 <ul>
-<li><strong>Tier 1</strong> - The Fortitude prerequisite for wearing armor is reduced by 1. When wearing armor, you get a +1 armor bonus to your Guard defense.</li>
-<li><strong>Tier 2</strong> - The Fortitude prerequisite for wearing armor is reduced by 2. When wearing armor, you get a +2 armor bonus to your Guard defense. Any movement penalty is reduced by 5'.</li>
+<li><strong>Rang 1</strong> - Die Konstitutionsvoraussetzungen von Rüstungen sind um 1 reduziert. Während du Rüstung trägst, erhälst du +1 Deckung.</li>
+<li><strong>Rang 2</strong> - Die Konstitutionsvoraussetzungen von Rüstungen sind um 2 reduziert. Während du Rüstung trägst, erhälst du +2 Deckung. Jegliches Geschwindigkeitsmalus durch eine Rüstung ist um 5' reduziert.</li>
 </ul>
 
 > Tags: Keine Voraussetzungen
 
-### Attack Redirection
+---
+### Angriff Umleiten
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Fertigkeit: Defensive Reflexes II
 
 **Beschreibung**  
-You are adept at redirecting your enemy's attacks. Whether using fancy footwork, magical force, or tactical superiority, you know how to force your enemy to attack unintended targets.
+Du bist darin gekonnt, die Angriffe deiner Feinde umzuleiten. Ob durch elegante Beinarbeit, Magie oder taktische Überlegenheit, weist du feindliche Attacken auf ungewollte Ziele umzuleiten.
 
 **Effekt**  
-When you make a defend action and your roll exceeds the attacker's action roll, you can choose to redirect the attack to a target that is neither you, nor the attacker. The original attack roll does not change, only the target. If the attack was a melee attack, you can redirect it to anyone within 5' of you (as opposed to within 5' of the attacker).
+Wenn du eine Verteidigungsaktion ausführst und dein Wurf den Aktionswurf des Angreifers übertrifft, kannst du dich entscheiden, den Angriff auf ein Ziel umzuleiten, das weder du noch der Angreifer ist. Die ursprüngliche Attacke verändert sich nicht, nur das Ziel. Falls der Angriff ein Nahkampfangriff war, kannst du ihn auf ein beliebiges Ziel innerhalb von 5' von dir umleiten (nicht 5' um den Angreifer).
 
 > Tags: Außergewöhnlich
 
-### Attack Specialization (I - IX)
+---
+### Angriffsspezialisierung (I - IX)
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
@@ -91,18 +95,19 @@ When you make a defend action and your roll exceeds the attacker's action roll, 
 - **Rang 9:** Beweglichkeit 7 / Kraft 7 / Beliebiges Außergewöhnliches 7
 
 **Beschreibung**  
-Like a samurai who masters the art of the katana or an elementalist who specializes in summoning flame, you are so well trained with a particular form of attack that you can devastate foes with much more skill than the average combatant.
+Wie ein Samurai, der die Kunst seines Katana gemeistert hat oder ein Elementalist, der auf Flammenbeschwörungen spezialisiert ist, bist auch du in einer bestimmten Art von Angriff besonder gut trainiert, mit der du deine Feinde effektiver dezimieren kannst als ein durchschnittlicher Kämpfer.
 
 **Effekt**  
-When you take this feat, select one weapon or attack type. You gain advantage 1 per tier of this feat for any <em>damaging</em> attack made with your chosen attack type. This bonus does not apply to bane attacks or boon invocations.
-Examples of attack types you can choose to specialize in include fire, cold, lightning, acid, poison, entropy, and force - though this list is not exhaustive.
+Wenn du diese Fertigkeit erhälst, wählst du eine Waffe oder eine Art von Angriff aus. Du erhälst Vorteil 1 pro Rang dieser Fertigkeit auf alle <em>Angriffe mit Schaden</em>, die du mit der gewählten Waffe oder der Angriffsart ausführst. Dieser Bonus wird nicht auf Harmattacken oder Wohlwirkungen appliziert.
+Beispiele von Angriffsarten umfassen unter anderem Feuer, Kälte, Blitz, Säure, Gift, Vergehen, Kraft. Diese Liste ist nicht abschließend.
 
 **Besonders**  
-In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new weapon or attack type each time. Your total advantage to an attack is equal to your tier for that particular weapon or attack type. For example, a character might have Attack Specialization II (Fire) for fire attacks and Attack Specialization IV (Longsword) for longsword attacks.
+Zusätzlich dazu, dass du den Rang dieser Fertigkeit erhöhen kannst, kannst du diese Fertigkeit auch mehrmals lernen und jeweils eine neue Waffe oder eine neue Angriffsart auswählen. Dein gesamter Vorteil auf Attacken mit der Waffe oder Angriffsart entspricht deinem Rang der Fertigkeit für diese Waffe oder Art. Beispielsweise könnte ein Charakter Angriffsspezialisierung II (Feuer) für Feuerzauber haben und Angriffsspezialisierung IV (Langschwert) für Angriffe mit dem Schwert.
 
 > Tags: Passiv, Waffe, Außergewöhnlich, Kampf
 
-### Attribute Substitution (I - II)
+---
+### Attributsubstitution (I - II)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -110,59 +115,64 @@ In addition to purchasing multiple tiers of this feat, you may take this feat mu
 - **Rang 2:** Keine
 
 **Beschreibung**  
-Your prowess in an extraordinary, mental, or social attribute is linked in a way that empowers another attribute of your character, allowing you to use that attribute for tasks normally reserved for another. Examples of Attribute Substitution in play include a martial artist who is physically weak but capable of using internal chi to throw and disable opponents, an anatomical genius who uses logic to make vital strikes rather than their agility, or a gunslinger whose deadshot aim is the result of a dark pact.
+Dein Können mit einem außergewöhnlichen, geistigen oder sozialen Attribut ist mit einem anderen auf besondere Weise verbunden, sodass du es für Aufgaben nutzen kannst, die normalerweise mit dem anderen Attribut angegangen werden müssten. Beispiele von Attributsubstitution im Spiel wären z.B. ein Krieger, der körperlich schwach ist, seine Feinde aber mit internem Chi werfen und außer Gefecht setzen kann, ein Anatomiegenie, das Feinde durch logisch hergeleitetes Zielen auch Schwachpunkte anstatt von Beweglichkeit niederstreckt oder eine Revolverheldin, deren Zielsicherheit das Resultat eines dunklen Paktes ist.
 
 **Effekt**  
-When you take this feat, you create a permanent link between two attributes: one stronger (the primary attribute) and one weaker (the dependent attribute). You may use your primary attribute in place of the dependent attribute for different purposes depending on which tier of the feat you have:
+Wenn du diese Fertigkeit erwirbst, schaffst du eine permanente Verbindung zwischen zwei Attributen: einem stärkeren (das Primärattribut) und einem schwächeren (das abhängige Attribut). Du kannst das Primärattribut anstelle des abhängigen Attributes in unterschiedlichen Kontexten anhand des Kraftlevels der Fertigkeit nutzen:
 <ul>
-<li><strong>Tier 1</strong>
+<li><strong>Rang 1</strong>
   <ul>
-  <li>Making non-attack, non-defend, non-invocation action rolls</li>
-  <li>Calculating hit points, defenses, and other secondary statistics</li>
-  <li>Meeting feat prerequisites</li>
-  <li>Other situations at the GM's discretion</li>
+  <li>alle Aktionswürfe außer für Attacken, Verteidigung oder Wirken</li>
+  <li>Trefferpunkte, Verteidigungen und andere Sekundärwerte berechnen</li>
+  <li>Fertigkeitenvoraussetzungen erfüllen</li>
+  <li>Andere Situationen nach Abwägung des GM</li>
   </ul>
 </li>
-<li><strong>Tier 2</strong>
+<li><strong>Rang 2</strong>
   <ul>
-  <li>Making attack and defend action rolls</li>
-  <li>Invoking banes and boons</li>
+  <li>Einen Angriffs- oder Verteidigungswurf machen</li>
+  <li>Harme oder Wohle wirken</li>
   </ul>
 </ul>
-The relationship formed by your two attributes is subject to case-by-case approval and must be approved by the GM first. The link must be logical and consistent with the story you are trying to tell. For example, a brawler who substitutes their Logic for their Might to represent their ability to use leverage in grappling rather than strength would likely not get to use their Logic score for an attempt to bend the bars on a prison cell. Furthermore, the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful. Two examples of proper uses of this feat include a calculating warrior who studies angles, leverage, and physics to substitute Logic for Might, or a gunslinger who channels dark energy, giving her deadshot accuracy and substituting Entropy for Agility.
+Die Verbindung zwischen zwei Attributen muss immer Fall für Fall entschieden werden, wobei die Zustimmung des GM nötig ist. Die Verbindung muss im Kontext der Handlung und des Settings Sinn ergeben, in dem die Kampagne spielt. Beispielsweise könnte ein Barbar sein Logikattribut sein Kraftattribut ersetzen lassen, wenn es um die Anwendung von Hebelwirkung im Ringen mit Feinden geht. Das bedeutet aber nicht, dass der gleiche Barbar sein Logikattribut nutzen könnte, um die Stahlstäbe einer Gefängniszelle aufzubiegen. Weiterhin sollte der GM Spielende daran hindern, unlogische Verbindungen zu benutzen, die nur dazu da sind, übermäßig starke Charaktere ohne Handlungsbezug zu schaffen. Zwei sinnvolle Beispiele dieser Fertigkeit wären ein kluger Krieger, der Hebelwirkung, Momentum und Physik zu seinem Vorteil nutzt und so Kraft durch Logik ersetzt oder eine Revolverhelding, die Beweglichkeit durch Vergehen ersetzt und durch das Beschwören dunkler Energie ihre Sinne schärft und so besser zielen kann.
 
 > Tags: Beliebiges Attribut
 
-### Bane Focus
+---
+### Harmfokus
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Ability to invoke the chosen bane
+- **Rang 1:** Fähigkeit, den gewählten Harm zu wirken
 
 **Beschreibung**  
-You are specialized in the use of a particular bane that is iconic to your character. Perhaps you are a martial artist known for your stunning strikes, a sniper who knows how to slow a target's escape, or a fire mage who sets enemies ablaze with persistent burning damage.
+Du bist in der Nutzung eines bestimmten Harmes spezialisiert, der bezeichnend für deinen Charakter ist. Vielleicht bist du ein Krieger, der für seinen betäubenden Schläfenschlag berüchtigt ist, ein Sniper, der sein Ziel immer zuerst lähmt oder ein Feuermagier, der seine Ziele immer durch Brand anhaltenden Schaden erleiden lässt.
 
 **Effekt**  
-Choose a bane that you can invoke. When your roll on a damaging attack exceeds the target's defense by 5 or more (as opposed to the usual 10), you can inflict this bane for free. Each attack is still only capable of inflicting a single bane. Furthermore, when making a bane attack to inflict your chosen bane, you gain advantage 2 on the bane attack roll.
+Wähle einen Harm, den du wirken kannst. Wenn dein Wurf auf einen Angriff mit Schaden die Verteidigung des Ziels um 5 oder mehr übersteigt (anstatt der normalen 10 oder mehr), kannst du den Harm automatisch zufügen. Jeder Angriff kann weiterhin nur einen einzigen Harm zufügen. Weiterhin erhälst du Vorteil 2 auf Harmattacken mit dem gewählten Harm.
 
 **Besonders**  
-You may take this feat multiple times. Each time you do, choose a different bane.
+Du kannst diese Fertigkeit mehrmals erlangen. Für jedes weitere Mal wählst du einen anderen Harm aus.
 
 > Tags: Kraft, Passiv, Kampf, Fluch
 
-### Battle Trance
+---
+### Kampftrance
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Konstitution 3 / Willenskraft 3
 
 **Beschreibung**  
-You can enter a heightened mental state of combat readiness, in which your body is strengthened and your mind transcends fear and pain. Examples include a raging barbarian or an unstoppable samurai with laser focus in the heat of battle.
+Du kannst dich in einen Geisteszustand erhöhter Kampfbereitschaft versetzen, in dem dein Körper gestärkt ist und dein Geist Furch und Schmerz hinter sich lässt. Beispiele schließen Barbaren in Rage oder einen unaufhaltsamen Samurai ein, der im Kampf den Fokus einer Rasierklinge hat.
 
 **Effekt**  
-As a free action on your turn, you may enter a battle trance. While entranced, you have advantage 1 on all attacks. Additionally, your Toughness and Resolve defenses are increased by 3. If your total armor bonus is less than 3, it becomes 3. If you take three consecutive turns without making an attack roll against an enemy creature, the battle trance ends. When the battle trance ends, you automatically suffer 1 level of the <a href="/banes/fatigued">fatigue bane</a>.
+Als kostenlose Aktion in deinem Zug kannst du dich in Kampftrance versetzen. Während du in der Trance bist, hast du Vorteil 1 auf alle Angriffe. Weiterhin sind dein Zähigkeit und Entschlossenheit um 3 erhöht. Falls dein gesamter Rüstungsbonus weniger als 3 ist, wird er zu 3. Falls du drei Züge in Folge keinen Angriffswurf gegen eine feindliche Kreatur wirfst, endet die Kampftrance. Wenn die Trance endet, erleidest du automatisch 1 Level des Harms <em>erschöpft</em>.
 
-### Battlefield Opportunist (I - V)
+> Tags: Kampf
+
+---
+### Schlachtfeldopportunist (I - V)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -173,62 +183,66 @@ As a free action on your turn, you may enter a battle trance. While entranced, y
 - **Rang 5:** Beweglichkeit 4 / Kraft 4
 
 **Beschreibung**  
-Your battlefield prowess allows you to capitalize on windows of opportunity that others don't notice, making you far more deadly in melee combat. Whether you wield an axe, plasmablade, or your bare fists, foes struggle to maneuver around or away from you.
+Deine Fähigkeiten auf dem Schlachtfeld erlauben es dir, Chancen zu ergreifen, die andere übersehen, sodass du tödlicher im Nahkampf bist. Deine Feinde tun sich schwer, sich im Kampf um dich herum zu bewegen, egal ob du mit Axt, Plasmaklinge oder bloßen Fäusten kämpfst.
 
 **Effekt**  
-You may make an additional opportunity attack per round for each tier of this feat you possess. You can only make one opportunity attack per triggering action (e.g., you cannot make multiple attacks against the same foe when they leave your threatened space).
+Du kannst eine zusätzliche Gelegenheitsattacke pro Rang dieser Fertigkeit, die du besitzt, in einer Runde ausführen. Du kannst aber nur eine Gelegenheitsattacke für jeden Anlass machen, der eine solche Attacke ermöglicht (du kannst also nicht mehrere Attacken gegen einen Feind ausführen, der den Nahkampf mit dir verlässt).
 
 > Tags: Kraft, Beweglichkeit, Passiv, Kampf, Fertigkeitenkette
 
-### Battlefield Punisher
+---
+### Konterschlächter[?]
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Beweglichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
 
 **Beschreibung**  
-Not only can you deal out retributive damage, you can devastate your opponents with a signature secondary effect. Examples of this feat in action include a stalwart paladin who knocks foes prone, a ninja who blinds enemies, or a telekinetic psychic who hurls attacks away.
+Du kannst mit einem Konter nicht nur Schaden zufügen, sondern Feinde auch mit einem spezifischen Sekundäreffekt belegen. Vielleicht bist du ein Paladin, der Feinde mit seinem Konter zu Boden wirft, ein Ninja der bei der Parade Sand in die Augen des Gegners streut oder ein Telekinetist, der seine Feinde von sich schleudert.
 
 **Effekt**  
-Choose a bane you can inflict. Any time you use the defend action with an attribute that could inflict the chosen bane and deal 10 damage via the Battlefield Retribution feat, you may choose to automatically afflict the attacker with the chosen bane.
+Wähle einen Harm, den du zufügen kannst. Wann immer du eine Verteidigungsaktion mit einem Attribut nutzt, das den gewählten Harm wirken könnte und mit der Fertigkeit Kontermeister dem Gegner 10 oder mehr Schaden zufügst, kannst du den Harm automatisch auf den Gegner wirken.
 
 > Tags: Kraft, Passiv, Kampf, Fertigkeitenkette
 
-### Battlefield Retribution
+---
+### Schlachtfeldrache[?] / Konterrache / Kontermeister
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Beweglichkeit 4 / Kraft 4 / Beliebiges Außergewöhnliches 4
 
 **Beschreibung**  
-You are a master of the counter attack. This might take the form of deftly redirecting a strike back upon the attacker or even energetic feedback from an extraordinary barrier that damages the attacker. Your prowess on the battlefield allows you to not only intercept attacks but also decimate your foes with retributive damage.
+Du bist ein Meister des Konters. Du könntest flink Vorstöße deiner Gegner auf sie selbst umleiten oder mit einer außergewöhnlichen Barriere die Energie von Angriffen zurückwerfen. Deine Fähigkeiten erlauben es dir nicht nur, Angriffe auf dem Schlachtfeld abzufangen, sondern mit diesen gleichzeitig Vergeltung zu üben.
 
 **Effekt**  
-When you use the defend interrupt action, you also deal damage to the attacker equal to the amount by which your action roll exceeds the attacker's roll.
+Wenn du eine Verteidigungsaktion nutzt, fügst du dem Angreifer Schaden gleich der Anzahl zu, mit der dein Aktionswurf das Ergebnis des Angriffswurfs übertrifft.
 
 > Tags: Kraft, Beweglichkeit, Außergewöhnlich, Passiv, Kampf
 
-### Boon Access
+---
+### Wohlzugang[?]
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
 - **Rang 1:** Keine
 
 **Beschreibung**  
-You have a special gift: it might be the result of your heritage, a close encounter with magical energy, or the result of years of training with a master. In any case, although you do not necessarily possess the aptitude to work extraordinary powers for yourself or create a desired effect with your physical capabilities alone, you are able to reliably replicate a single boon.
+Du hast ein besonderes Talent: es könnte ein Resultat deiner Herkunft sein, von einem Zusammenstoß mit magischen Energien stammen oder das Resultat jahrelangen Trainings sein. Egal woher, auch wenn du nicht mit außergewöhnlichen Kräften oder körperlichen Fähigkeiten besondere Effekte erzeugen kannst, hast du Zugang zu einem bestimmten Wohl.
 
 **Effekt**  
-When you choose this feat, choose one boon that you do not have the requisite attribute to invoke. The cost of this feat is equal to the power level of the chosen boon. You can invoke the chosen boon despite lacking the necessary attribute. For invocation rolls, treat your attribute score as the power level of the boon. If the boon has multiple attribute prerequisite options, you choose one attribute when you take this feat. Additionally, you count as having access to the chosen boon for the purpose of meeting feat prerequisites, and your attribute for meeting such prerequisites is equal to the power level of the boon. The Boon Access feat bypasses the normal attribute score restrictions based on character level, so a first level character could spend all 6 of their feat points to begin play with access to a power level 6 boon.
-You may acquire this feat multiple times. Each time, select a new boon.
+Wähle ein Wohl, für das du nicht die notwendigen Attributpunkte hast, um es zu wirken, wenn du diese Fertigkeit erwirbst. Die Kosten dieser Fertigkeit sind gleich dem Kraftlevel, das du für dieses Wohl auswählst. Du kannst das gewählte Wohl wirken, obwohl du nicht das nötige Attribut dazu hast. Für den Aktionswurf zum Wirken behandelst du deinen Attributwert, als würde er dem Kraftlevel des Wohls entsprechen. Falls das Wohl mehrere Attributsoptionen hat, wählst du eines aus, wenn du diese Fertigkeit erwirbst. Weiterhin zählt das so erhaltene Wohl im Fall von Fertigkeitenvoraussetzungen als Erhalten, wobei der Attributwert zum Erreichen der Voraussetzungen dem Kraftlevel des Wohls entspricht. Die Fertigkeit Wohlzugang umgeht zusätzlich die normalen Einschränkungen rund um Charakterlevel und Zugang zu Kraftleveln von Wohlen und Harmen. Ein Level 1 Charakter könnte also all seine 6 Fertigkeitenpunkte ausgeben, um mit dieser Fertigkeit direkt Zugang zu einem Kraftlevel 6 Wohl zu erhalten.
+Du kannst diese Fertigkeit mehrmals erwerben. Wähle jedes Mal ein neues Wohl.
 
 **Besonders**  
-You may take this feat multiple times. Each time you do, choose a new boon to gain access to.
-Note that this feat can give access to high-powered boons with a potential for very dramatic impact on the storyline of a game. As such, using this feat to access a boon of power level 6 or higher should be approved by the GM before using it in a game.
-If you ever meet the attribute prerequisite for the chosen boon, you may choose at that time to lose this feat and regain the feat points spent. Re-allocate them as you choose.
+Du kannst diese Fertigkeit mehrmals erwerben. Jedes Mal wählst du ein neues Wohl aus, zu dem du besonderen Zugang erhälst.
+Da diese Fertigkeit mächtige Wohle freischalten kann, die einen großen Einfluss auf den Verlauf der Geschichte haben können, muss das Erlangen von Wohlen mit Kraftlevel 6 oder höher vom GM je nach Angemessenheit abgesegnet werden.
+Falls du zu einem späteren Zeitpunkt die Attributvoraussetzungen des gewählten Wohls auf normalen Weg erreichst, kannst du dich entscheiden, diese Fertigkeit zu verlieren und die dafür ausgegebenen Fertigkeitenpunkte zurückzuerhalten. Danach kannst du sie neu ausgeben, wie es dir beliebt.
 
 > Tags: Außergewöhnlich
 
-### Boon Focus (I - III)
+---
+### Wohlfokus (I - III)
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
@@ -237,27 +251,34 @@ If you ever meet the attribute prerequisite for the chosen boon, you may choose 
 - **Rang 3:** Fähigkeit, den gewählten Segen zu wirken
 
 **Beschreibung**  
-You are specialized in the use a particular boon that is iconic to your character. Examples of this feat in action include a druid who can shapechange at-will, a combat medic who can tend the wounds of many with expert skill, and a mad scientist who can animate mechanical minions effortlessly.
+Du bist in der Nutzung eines bestimmten Wohles spezialisiert, das bezeichnend für deinen Charakter ist. Vielleicht bist du eine Druidin, die ihre Gestalt nach Willen ändert, vielleicht ein Kriegsmedicus, der viele Verwundete mit müheloser Expertise versorgt oder ein verrückter Wissenschaftler, der Horden mechanischer Handlanger ohne viel Aufwand mobilisiert.
 
 **Effekt**  
-Choose a single boon that you can invoke. You gain benefits with that boon according to your tier in this feat.
+Wähle ein einziges Wohl, das du wirken kannst. Du erhälst anhand des Rangs dieser Fertigkeit Vorzüge bei der Benutzung des Wohls.
 <ul>
-<li><strong>Tier 1</strong> - When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. You can invoke the boon at any of the power levels you could access via your other means. If the invocation is not a single target, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.</li>
-<li><strong>Tier 2</strong> - You gain advantage 3 on your action roll to invoke the boon if you are not single-targeting. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action. If the invocation time is 1 focus action, it becomes 1 major action. If the invocation time is 1 minute, it becomes 1 focus action. If the invocation time is 10 minutes, it becomes 1 minute. If the invocation time is 1 hour, it becomes 10 minutes. If the invocation time is 8 hours, it becomes 1 hour. If the invocation time for a boon is 1 minor action, it can be invoked only once as a minor action. Beyond that it can be invoked by expending a move or major action.</li>
-<li><strong>Tier 3</strong> - The effect at tier 3 varies based on the duration of the boon:
-  <br />
-  <strong>If the chosen boon has a duration of "sustain persists"</strong>, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, one instance of the boon can be sustained each round as a free action, rather than a minor action. If the boon is somehow temporarily canceled, in the absence of other rules, you can invoke it again as a free action. If targeted by the <em>nullify</em> bane, this effect can only be canceled by a power level 6 or greater invocation of that bane.
-  <br />
-  <strong>If the boon has a different duration</strong>, you gain advantage 5 on your action roll to invoke if you are not single-targeting.
-</li>
+<li><strong>Rang 1</strong> - Wenn du das gewählte Wohl auf ein einziges Ziel wirkst, hast du automatisch Erfolg und musst keinen Aktionswurf machen. Du kannst das Wohl so auf jedem Kraftlevel wirken, zu dem du auch normalerweise Zugang hast. Falls du mehr als ein einziges Ziel hast, ist der Erfolg nicht automatisch, aber du hast Vorteil 2 auf das Wirken.</li>
+<li><strong>Rang 2</strong> - Du erhälst Vorteil 3 auf deinen Aktionswurf, falls du mehr als ein einziges Ziel hast. Weiterhin kannst du das Wohl um eine Wirkzeiteinheit schneller wirken als normal: 
+  <ul>
+  <li>1 große Aktion / 1 Bewegungsaktion -> 1 kleine Aktion</li>
+  <li>1 Fokusaktion -> 1 große Aktion</li>
+  <li>1 Minute -> 1 Fokusaktion</li>
+  <li>10 Minuten -> 1 Minute</li>
+  <li>1 Stunde -> 10 Minuten</li>
+  <li>8 Stunden -> 1 Stunde</li>
+  <li>1 kleine Aktion -> ein Mal wirken als kleine Aktion, danach ist noch eine Wirkung per großer Aktion oder Bewegungsaktion möglich.</li>
+  </ul></li>
+<li><strong>Rang 3</strong> - Der Effekt auf Rang 3 hängt von der Dauer des Wohls ab:<br>
+  <strong>Falls das gewählte Wohl eine Dauer von "Aufrechterhalten verlängert" hat</strong>, hast du Vorteil 4 auf deinen Aktionswurf, falls du nur ein einziges Ziel hast. Weiterhin kann eine Instanz des Wohls jede Runde als kostenlose Aktion aufrechterhalten werden, anstatt als kleine Aktion. Falls das Wohl irgendwie zeitweise neutralisiert wird, kannst du es als kostenlose Aktion neu wirken, außer dies wird durch andere spielmechanische Regeln unterbunden. Falls das Wohl Ziel des Harms <em>Annulieren</em> wird, kann dieser Effekt nur mit einer Wirkung des Harms auf Kraftlevel 6 oder höher neutralisiert werden.<br>
+  <strong>Falls das Wohl eine andere Dauer hat</strong>, erhälst du Vorteil 5 auf deinen Aktionswurf, falls du nur ein einziges Ziel hast.</li>
 </ul>
 
 **Besonders**  
-In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new boon each time. Your tier of this feat is independent for each boon.
+Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erwerben kannst, kannst du auch die Fertigkeit selbst mehrmals erhalten und jedes Mal ein weiteres Wohl wählen. Der Rang der Fertigkeit für dieses neue Wohl ist unabhängig von allen anderen Rängen, die du in dieser Fertigkeit für andere Wohle hast.
 
 > Tags: Außergewöhnlich, Passiv, Segen
 
-### Breakfall (I - II)
+---
+### Fallsicher (I - II)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -265,74 +286,81 @@ In addition to purchasing multiple tiers of this feat, you may take this feat mu
 - **Rang 2:** Beweglichkeit 4
 
 **Beschreibung**  
-You are as graceful as a swan. Like the martial artists and swashbucklers of legendary tales, your agility enables you to fall from deadly heights unharmed.
+Du bist so anmutig wie ein Schwan. Wie die Krieger und draufgängerische Helden aus den Legenden kannst du unbeschadet aus großen Höhen fallen.
 
 **Effekt**  
 <ul>
-<li><strong>Tier 1</strong> - As long as you are conscious and able to act, reduce all falling damage by half.</li>
-<li><strong>Tier 2</strong> - As long as you are conscious and able to act, you do not suffer falling damage.</li>
+<li><strong>Rang 1</strong> - Solange du bei Bewusstsein und handlungsfähig bist, reduziere allen Fallschaden um die Hälfte.</li>
+<li><strong>Rang 2</strong> - Solange du bei Bewusstsein und handlungsfähig bist, erleidest du keinen Fallschaden.</li>
 </ul>
 
-### Brutal Intimidation
+> Tags: Beweglichkeit
+
+---
+### Brutale Einschüchterung
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
 - **Rang 1:** Kraft 2
 
 **Beschreibung**  
-Your powers of persuasion stem from application of brute force rather than your social grace. When you smash a table, brandish your blade, or flex your muscles, people stop what they are doing and listen to you.
+Deine Überzeugungskräfte stammen aus roher Gewalt statt sozialem know-how. Wenn du einen Tisch entzweischlägst, deine Klinge zückst oder die Muskeln spielen lässt, halten die Leute ein und hören dir zu.
 
 **Effekt**  
-If you're able to make a show of physical force, you can use your Might attribute in place of Persuasion for the action roll.
+Falls du eine Demonstration körperlicher Macht durchführen kannst, kannst du für den Aktionswurf Kraft anstatt von Überzeugung nutzen.
 
 > Tags: Nicht-Kampf
 
-### Climbing
+---
+### Klettern
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
 - **Rang 1:** Keine
 
 **Beschreibung**  
-You gain the ability to climb or parkour perfectly, akin to certain vampires, aberrant creatures, ninjas, and insects.
+Du erhälst die Fähigkeit, perfekt zu klettern oder Parkour zu nutzen, so wie manche Vampire, bizarre Kreaturen, Ninjas oder Insekten.
 
 **Effekt**  
-You gain a climb speed equal to your base speed and can scale horizontal and vertical surfaces, even climb upside-down, with no fear of falling.
+Du erhälst eine Klettern-Geschwindigkeit gleich deiner Grundgeschwindigkeit und kannst horizontale und vertikale Flächen erklimmen - sogar kopfüber -, ohne einen Sturz fürchten zu müssen.
 
 > Tags: Nicht-Kampf
 
-### Combat Follow-through
+---
+### Kampf Follow-Up[?]
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Keine
 
 **Beschreibung**  
-You are able to decimate many enemies in quick succession. Like a legendary Samurai warrior or matchless elven archer, your foes fall in waves before you.
+Du bist in der Lage, Feinde in schneller Folge zu dezimieren. Wie ein legendärer Samurai oder überragender Elfenschütze fallen deine Gegner in Reihen.
 
 **Effekt**  
-Every time you bring an enemy to zero hit points with a Might or Agility attack, you can immediately make an extra attack as a free action.
+Wann immer du einen Feind mit einer Kraft- oder Beweglichkeitsattacke auf 0 TP bringst, kannst du sofort einen Extraangriff als kostenlose Aktion ausführen.
 
 > Tags: Kampf
 
-### Combat Momentum
+---
+### Kampfmomentum
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
 - **Rang 1:** Keine
 
 **Beschreibung**  
-Whether through brute strength or lightning reflexes, you are able to use the momentum of combat to maneuver around the battlefield with ease.
+Ob durch rohe Kraft oder Blitzreflexe, kannst du dein Momentum im Kampf nutzen, um mit Leichtigkeit über das Schlachtfeld zu maneuvrieren.
 
 **Effekt**  
-Every time you bring an enemy to zero hit points with a Might or Agility attack, you can immediately move up to your normal speed as a free action.
+Wann immer du einen Feind mit einer Kraft- oder Beweglichkeitsattacke auf 0 TP bringst, kannst du dich sofort als kostenlose Aktion bis zu deiner Geschwidigkeit weit bewegen.
 
 **Besonders**  
-If you have access to the <em>teleport</em> boon, you may use it instead of a normal move.
+Falls du Zugang zum Wohl <em>Teleportation</em> hast, kannst du es anstatt einer normalen Bewegung benutzen.
 
 > Tags: Kampf
 
-### Companion (I - III)
+---
+### Gefährte (I - III)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -341,23 +369,24 @@ If you have access to the <em>teleport</em> boon, you may use it instead of a no
 - **Rang 3:** Keine
 
 **Beschreibung**  
-Whether a hired bodyguard, a loyal animal sidekick, or a sibling that follows you everywhere, you have the constant and unflinching loyalty of one particular companion character.
+Ob es sich um einen Bodyguard, treues Tier oder einen Bruder handelt, der dir überall hin folgt, du hast einen konstanten und vollständig loyalen Gefährtencharakter.
 
 **Effekt**  
-You gain a companion character that acts independently from you. During combat, your companion acts on its own initiative count and gains the usual assortment of actions, which you may choose. You also get to assign your companion's attributes. Whenever you gain a level or purchase a new tier in this feat, you may reassign your companion's attributes and feats.
+Du bekommst einen Gefährtencharakter, der unabhängig von dir handeln. Im Kampf handelt dein Gefährte nach seinem eigenen Platz in der Initiative und hat die normale Auswahl an Aktionen, die du auswählst. Du gestaltest auch die Attribute deines Gefährten. Wann immer du im Level aufsteigst oder einen neuen Rang dieser Fertigkeit erwirbst, kannst du die Attribute und Fertigkeiten deines Charakters neu vergeben.
 <ul>
-<li><strong>Tier 1</strong> - Your companion has a total of 20 attribute points plus 4 per level of your character.</li>
-<li><strong>Tier 2</strong> - Your companion receives 3 feat points.</li>
-<li><strong>Tier 3</strong> - Your companion has a total of 30 attribute points plus 6 per level of your character. In addition, you can optionally grant feats to your companion. In order to do so, you spend your own feat points and the companion receives the feat instead of you. The companion, not you, must meet all feat prerequisites. Any math related to these feats are calculated based on the companion's attributes, feats, etc. If you have spent feat points this way and would gain feat points from any other effect, those feat points are reduced by the number of feat points you have granted to your companion.</li>
+<li><strong>Rang 1</strong> - Dein Gefährte hat insgesamt 20 Attributpunkte plus 4 weitere für jedes Level deines Charakters.</li>
+<li><strong>Rang 2</strong> - Dein Gefährte erhält 3 Fertigkeitenpunkte.</li>
+<li><strong>Rang 3</strong> - Dein Gefährte hat insgesamt 30 Attributpunkte plus 6 weitere für jedes Level deines Charakters. Weiterhin kannst du optional Fertigkeiten an deinen Gefährten weitergeben. Dazu gibst du deine eigenen Fertigkeitenpunkte aus, um Fertigkeiten für deinen Gefährten freizuschalten, wobei aber der Gefährte - nicht du - die nötigen Voraussetzungen für die Fertigkeit erfüllen muss. Alle Berechnungen für diese Fertigkeiten werden anhand der Attribute, Fertigkeiten usw. des Gefährten durchgeführt, nicht deinen. Falls du Fertigkeitenpunkte so weitergegeben hast und aus einer anderen Quelle neue Fertigkeitenpunkte erhalten würdest, reduziere diese um die Anzahl an Punkten, die du deinem Gefährten gegeben hast.</li>
 </ul>
 
 **Besonders**  
-If you ever lose your companion, voluntarily or involuntarily, you regain the feat points that you have spent on this feat and any of the companion's feats, and may spend them as usual.
-In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new companion each time.
+Falls du deinen Gefährten je verlierst, sei es absichtlich oder nicht, erhälst du die Fertigkeitenpunkte zurück, die du für diese Fertigkeit ausgegeben hast und die du eventuell weitergegeben hast und kannst diese wieder normal ausgeben.
+Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erlangen kannst, kannst du die Fertigkeit auch mehrmals erwerben, wobei du jedes Mal einen neuen Gefährten erhälst.
 
 > Tags: Nicht-Kampf
 
-### Craft Mundane Item (I - II)
+---
+### Normales Item Erschaffen (I - II)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -365,32 +394,33 @@ In addition to purchasing multiple tiers of this feat, you may take this feat mu
 - **Rang 2:** Lernen 3 / Logik 3
 
 **Beschreibung**  
-You have mastered a particular craft, and given proper time and materials, you can create items related to that craft. You might be an expert blacksmith, professional engineer, master alchemist, or any similar manner of professional craftsman.
+Du hast ein bestimmtes Handwerk gemeistert, sodass du mit der nötigen Zeit und Materialien Items aus diesem Gewerbe erschaffen kannst. Du könntest ein gekonnter Schmied sein, professioneller Ingenieur, Meisteralchemist oder jede andere Art Profession.
 
 **Effekt**  
-Choose a specific craft or profession. You can create items that are relevant to your chosen craft, and your GM will determine the speed at which you craft based on the nature of the item and the materials you have access to. Your tier in the Craft Mundane Item feat determines the maximum wealth level of the items you can craft. Unlike acquiring items by using your wealth (described in Chapter 5), crafting does not limit your ability to acquire additional goods.
+Wähle einen spezifischen Beruf oder eine Profession. Du kannst Items erschaffen, die für deinen gewählten Job plausibel sind, wobei der GM entscheidet, wie schnell du das gewünschte Item anhand seiner Natur und den dir verfügbaren Materialien erschaffen kannst. Dein Rang in Normales Item Erschaffen bestimmt den maximalen Wohlstandswert der Items, die du erzeugen kannst. Anders als beim Kaufen von Dingen (siehe Kapitel 5), schränkt das Erschaffen von Gegenständen nicht ein, ob du weitere Güter dieses Wohlstandswertes erhalten kannst.
 <ul>
-<li><strong>Tier 1</strong> - You can craft items equal to your wealth level.</li>
-<li><strong>Tier 2</strong> - You can craft items equal to your wealth level + 1.</li>
+<li><strong>Rang 1</strong> - Du kannst Items gleich deinem eigenen Wohlstandswert erschaffen.</li>
+<li><strong>Rang 2</strong> - Du kannst Items gleich deinem eigenen Wohlstandswert + 1 erschaffen.</li>
 </ul>
-<strong>Craft Examples</strong> (This list is not exhaustive, and you can work with your GM to come up with other suitable crafts):
+<strong>Beispiele</strong> (Diese Liste ist nicht abschließend und du kannst mit dem GM zusammenarbeiten, um andere sinnvolle Gegenstände zu erdenken, die du erschaffen könntest):
 <ul>
-<li>Alchemy - acid, chemicals, non-magical tinctures, incense, reagents.</li>
-<li>Arcane - magical ingredients, inks, scrolls, exotic components.</li>
-<li>Blacksmithing - metal, leather, weapons, armor, wheels, horseshoes.</li>
-<li>Chemistry - acid, explosives, narcotics.</li>
-<li>Engineering - machines, wheels, gears, guns, vehicles.</li>
-<li>Geography - maps, cartography, instruments of navigation.</li>
-<li>Herbalism - poultices, natural remedies, stimulants, brewing.</li>
-<li>Medicine - medical tools, tonics, tinctures, pain relievers, anti-toxins.</li>
+<li>Alchemie - Säure, Chemiekalien, nicht-magische Tinkturen, Duftstoffe, Reagenzmaterialien.</li>
+<li>Arkana - magische Zutaten, Tinten, Schriftrollen, exotische Komponenten.</li>
+<li>Schmiedekunst - Metalle, Leder, Waffen, Rüstung, Räder, Hufeisen.</li>
+<li>Chemie - Säure, Sprengstoffe, Betäubungsmittel.</li>
+<li>Ingenieurswesen - Maschinen, Räder, Bauteile, Schusswaffen, Fahrzeuge.</li>
+<li>Geographie - Karten, kartographische Lexika, Navigationsinstrumente.</li>
+<li>Kräuterkunde - Umschläge, Naturheilmittel, Stimulanzmittel, Gebräue.</li>
+<li>Medizin - Medizinwerkzeug, Toniken, Tinkturen, Schmerzmittel, Gegengifte.</li>
 </ul>
 
 **Besonders**  
-In addition to taking multiple tiers of this feat, you may take this feat multiple times and select a new craft or profession each time.
+Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit erwerben kannst, kannst du die Fertigkeit selbst mehrmals erhalten, wobei du jedes Mal eine neue Profession wählst.
 
 > Tags: Nicht-Kampf
 
-### Craft Extraordinary Item (I - III)
+---
+### Außergewöhnliches Item Erschaffen (I - III)
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
@@ -399,35 +429,46 @@ In addition to taking multiple tiers of this feat, you may take this feat multip
 - **Rang 3:** Beliebiges Außergewöhnliches 5 / Lernen 5 / Logik 5
 
 **Beschreibung**  
-You are studied in the ways of imbuing magical items, building futuristic technology, brewing potions, or crafting extraordinary devices. Their power is permanent but varies depending on your skill.
+Du bist in der Lage, Items mit magischer Energie zu durchdringen, futuristische Technologie zu schaffen, Tränke zu brauen oder außergewöhnliche Geräte zu bauen. Ihre Macht ist permanent, aber abhängig von deiner Expertise.
 
 **Effekt**  
-Provided you have the appropriate working space and materials (as determined by the GM), you can create extraordinary items (as detailed in Chapter 9: Special Equipment). You can only imbue an item with attributes, banes, and boons that you can access. For example, in order to create a sword with Energy 5, you must possess an Energy score of 5 or higher. The only exception to this is if you possess the Creation, Learning, or Logic attributes. These allow you to imbue items with any attribute, bane, or boon as long as their value is less than or equal to your attribute score. The GM may rule that certain uses of Creation, Learning, or Logic are unreasonable when it comes to crafting extraordinary items.
-Your tier in this feat determines the maximum wealth level of the items you can create, based on the attribute you are using to craft:
-<ul><li><strong>Tier 1</strong> - Maximum wealth level equals attribute minus 2</li><li><strong>Tier 2</strong> - Maximum wealth level equals attribute minus 1</li><li><strong>Tier 3</strong> - Maximum wealth level equals attribute</li></ul>
-For example, a character with Creation 5 and tier 1 in this feat could create items up to wealth level 3.
-You can determine the wealth level of the item you want to create by consulting the sample items in <strong>Chapter 9: Special Equipment</strong> or by developing a custom item using the rules for <strong>Building Your Own Extraordinary Items</strong> in that chapter.
-Creating an item with the <em>consumable</em> or <em>expendable</em> property requires one full 8-hour day of uninterrupted work. Other items require a duration of uninterrupted work based on their wealth level, as follows:
-<ul><li><strong>Wealth Level 1 - 3</strong>: Two days per wealth level.</li><li><strong>Wealth Level 4 - 5</strong>: Four days per wealth level.</li><li><strong>Wealth Level 6 - 7</strong>: One week per wealth level.</li><li><strong>Wealth Level 8 - 9</strong>: One month per wealth level.</li></ul>
-At the end of this time, your item is created. Crafting an item still counts as an expenditure of wealth, so you must have a sufficient wealth score to purchase the item, following all the rules for spending wealth provided in <strong>Chapter 5: Wealth & Equipment</strong>. The GM may waive some or all of the costs associated with an item if you possess special materials for the crafting of your item. For example, if you have recently collected the hide of a slain red dragon and decide to make a suit of Armor of Fire Resistance, the GM may decide that the dragon’s hide is enough to make up most of the costs of the armor, so the armor’s wealth level is reduced by 3 for purposes of determining crafting costs.
+Solange du die notwendigen Materialien und passenden Arbeitsraum hast (nach Abwägung des GM), kannst du außergewöhnliche Items erschaffen (wie in Kapitel 9: Spezialausrüstung beschrieben). Du kannst einem Item nur Attribute, Harme und Wohle geben, zu denen du selbst Zugang hast. Beispielsweise musst du einen Energiewert von 5 oder höher haben, um einem Schwert das Attribut Energie 5 einzuflößen. Die einzige Ausnahme zu dieser Regelung ist ein ausreichend großer Wert in Schöpfung, Lernen oder Logik. Diese Attribute erlauben es dir, einem Item beliebige Attribute, Harme oder Wohle zu verleihen, solange ihr Wert / Kraftlevel kleiner oder gleich deinem Attributwert ist. Der GM kann entscheiden, ob die Anwendung dieser Ausnahme in bestimmten Kontexten nicht sinnvoll ist und diese untersagen.
+Dein Rang in dieser Fertigkeit bestimmt den maximalen Wohlstandswert von Items, die du erschaffen kannst, anhand des genutzten Attributs:
+<ul>
+<li><strong>Rang 1</strong> - Maximaler Wohlstandswert = Attributwert - 2.</li>
+<li><strong>Rang 2</strong> - Maximaler Wohlstandswert = Attributwert - 1.</li>
+<li><strong>Rang 3</strong> - Maximaler Wohlstandswert = Attributwert.</li>
+</ul>
+Beispielsweise kann ein Charakter mit Schöpfung 5 und Rang 1 dieser Fertigkeit ein außerordentliches Item bis Wohlstandswert 3 erschaffen.
+Du kannst einen passenden Wohlstandswert für ein Item anhand der Beispielitems aus <strong>Kapitel 9: Spezialausrüstung</strong> finden oder diesen mit den Regeln aus dem Kapitel <strong>Eigene außergewöhnliche Items konzipieren</strong> daraus bestimmen.
+Ein Item mit den Eigenschaften <em>Konsumgut</em> oder <em>Verbrauchsgut</em> zu erschaffen braucht einen vollen ununterbrochenen 8-Stunden Tag Arbeit[?]. Andere Items brauchen anhand ihres Wohlstandswertes unterschiedlich viel Zeit:
+<ul>
+<li><strong>Wohlstandswert 1 - 3</strong>: Zwei Tage pro Wohlstandswert.</li>
+<li><strong>Wohlstandswert 4 - 5</strong>: Vier Tage pro Wohlstandswert.</li>
+<li><strong>Wohlstandswert 6 - 7</strong>: Eine Woche pro Wohlstandswert.</li>
+<li><strong>Wohlstandswert 8 - 9</strong>: Ein Monat pro Wohlstandswert.</li>
+</ul>
+Am Ende dieser Zeitspanne ist das Item erschaffen. Ein Item zu erschaffen zählt weiterhin als Ausgabe, sodass du einen Wohlstandswert haben musst, der hoch genug ist, um das Item anhand der in <strong>Kapitel 5: Wohlstand und Ausrüstung</strong> beschriebenen Regeln zu kaufen. Der GM kann nach Abwägung einige oder alle der Kosten, die mit dem Erschaffen eines Items assoziiert sind, fallen lassen, falls du besondere Materialien zum Schaffen des Items schon besitzt. Hast du z.B. kürzlich die Haut eines roten Drachen erbeutet und möchtest nun daraus eine feuerresistenze Rüstung schaffen, kann der GM bestimmen, dass die Haut den Großteil der mit der Schaffung assoziierten Kosten ausmacht und der Wohlstandswert zur Bestimmung der Beschaffungskosten für den Schaffungsprozess so um 3 reduziert ist.
 
 > Tags: Außergewöhnlich, Nicht-Kampf
 
-### Crushing Blow
+---
+### Zermalmender Treffer[?]
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Kraft 6
 
 **Beschreibung**  
-Like a reckless ogre wading through combat, your relentless blows not only knock your opponents back, but also knock them off their feet completely.
+Wie ein leichtsinniger Oger, der durch den Kampf wadet, werfen deine unermüdlichen Streiche Feinde nicht nur zurück, sondern auch noch zu Boden.
 
 **Effekt**  
-Any time that you deal damage to an enemy, in addition to pushing them 5 feet (if you choose) from the Overpowering Strike feat, you can also knock them down in the space where the forced move ends; the target suffers the effects of the <em>knockdown</em> bane.
+Wann immer du einem Feind Schaden zufügst, kannst du sie nicht nur durch die Fertigkeit Überwältigender Schlag 5' zurückschieben (wenn du möchtest), sondern sie auch dort zu Boden werfen, wo die erzwungene Bewegung endete. Das Ziel erleidet den Harm <em>Niedergeschlagen</em>.
 
 > Tags: Körperlich, Kampf, Fertigkeitenkette, Kraft
 
-### Death Blow (I - II)
+---
+### Todesstreich (I - II)
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
@@ -435,45 +476,48 @@ Any time that you deal damage to an enemy, in addition to pushing them 5 feet (i
 - **Rang 2:** Beweglichkeit 7
 
 **Beschreibung**  
-You are able to quickly finish off enemies that are near death and silence them before they cry out. This attack is one that is commonly seen used by rogues, assassins, and snipers who can silently eliminate weaker enemies without being detected.
+Du kannst effizient Feinde töten, die dem Ende nahe sind und ihre Todesschreie verhindern. Diese Art Angriff wird oft unter Schurken, Assassinen und Snipern gefunden, die ihre Feinde still niederstrecken, ohne Aufmerksamkeit auf sich zu ziehen. 
 
 **Effekt**  
 <ul>
-<li><strong>Tier 1</strong> - If you damage an enemy with a Lethal Strike and their total HP is 5 or less after the attack, then you can choose to reduce them to zero HP instead. In addition, you can choose to silence any enemy reduced to zero hit points by an attack from you.</li>
-<li><strong>Tier 2</strong> - Your death blow HP threshold increases from 5 to 10. In addition, on a successful Lethal Strike, the <em>stunned</em> bane is automatically inflicted without counting against your usual 1 bane per attack limit.</li>
+<li><strong>Rang 1</strong> - Falls du einem Feind mit Tödlicher Streich Schaden zufügst und ihre Gesamt-TP danach 5 oder niedriger sind, kannst du dich entscheiden, sie stattdessen auf 0 TP fallen zu lassen. Weiterhin kannst du jeden von dir durch eine Attacke auf 0 TP gebrachten Feind verstummen lassen.</li>
+<li><strong>Rang 2</strong> - Die Schwelle für einen Todesstoß ist auf 10 erhöht. Weiterhin fügst du deinem Feind bei einem erfolgreichen Tödlichen Streich automatisch den Harm <em>betäubt</em> zu, wobei dieser nicht gegen das Limit auf max. einen Harm pro Angriff zählt.</li>
 </ul>
 
 > Tags: Kampf, Körperlich
 
-### Deathless Trance
+---
+### Todlose Trance[?]
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Konstitution 7
 
 **Beschreibung**  
-Whether you are a berserker of the icy north, a hulking superhero of unstoppable might, or a cybernetically enhanced soldier, your battle fury is legendary. You possess the rare ability to fight on long after your body should have given up.
+Deine Kampfraserei ist legendär, seist du ein Berserker aus dem kalten Norden, ein Superheld unaufhaltsamer Stärke oder ein cybernetisch abgehärteter Soldat. Du hast die seltene Fähigkeit, weiterzukämpfen, auch wenn dein Körper längst hätte aufgeben sollen.
 
 **Effekt**  
-While in a battle trance you cannot be knocked unconscious. All damage dealt to you should be recorded, possibly resulting in a negative hit point total. Despite any amount of damage, you remain conscious for as long as you can sustain the battle trance. When the battle trance ends, if your hit points are below zero, you collapse unconscious. If you are not healed to zero or more hit points within 1 round of your battle trance ending, you die.
+Während du in einer Kampftrance bist, kannst du nicht bewusstlos geschlagen werden. Aller Schaden, den du erleidest, muss notiert werden, auch wenn deine Gesamt-TP ins negative gehen. Unabhängig von allem Schaden bleibst du bei Bewusstsein, solange du die Kampftrance aufrechterhalten kannst. Hast du negative TP, wenn die Kampftrance endet, fällst du sofort in Ohnmacht. Wirst du nicht innerhalb von einer Runde danach auf 0 oder mehr TP geheilt, stirbst du.
 
 > Tags: Außergewöhnlich
 
-### Defensive Mastery
+---
+### Verteidigungsexpertise
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Keine
 
 **Beschreibung**  
-You know how to turn a strong offense into an even stronger defense. Your special training or experience with defensive implements and shields allows you to capitalize on their defensive benefits far beyond the average wielder. Examples include a martial artist's defensive kata or a soldier equipped with a riot shield.
+Du weist, wie man eine gute Offensive in eine noch bessere Defensive verwandelt. Dein besonderes Training oder deine Erfahrung mit Verteidigungsausrüstung erlaubt es dir, diese effizienter zu nutzen als ein normaler Soldat. Beispiele umfassen das defensive Kata eines Kriegers oder einen Soldaten, der mit seinem Riot-Shield trainiert ist.
 
 **Effekt**  
-When wielding a weapon or implement with the <em>defensive</em> property, you gain an additional +1 armor bonus. In addition, the <em>defensive</em> value of the item is increased by 1 when you wield it. So <em>defensive</em> 1 becomes <em>defensive</em> 2 and <em>defensive</em> 2 becomes <em>defensive</em> 3.
+Wenn du eine Waffe oder andere Ausrüstung mit der Eigenschaft <em>Defensiv</em> führst, hast du +1 zusätzlichen Rüstungsbonus. Weiterhin wird der Wert von <em>Defensiv</em> um 1 erhöht, während du den Gegenstand führst. <em>Defensiv 1</em> wird also <em>Defensiv 2</em> und <em>Defensiv 2</em> wird <em>Defensiv 3</em>.
 
 > Tags: Kampf
 
-### Defensive Reflexes (I - IX)
+---
+### Defensive Reflexe (I - IX)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -488,42 +532,45 @@ When wielding a weapon or implement with the <em>defensive</em> property, you ga
 - **Rang 9:** Beweglichkeit 7
 
 **Beschreibung**  
-You are a paragon of defensive fighting, able to masterfully thwart enemy attacks. By predicting your opponents' movements, strikes, or shots, you can cut them off before they are a threat.
+Du bist ein Paragon des defensiven Kampfes, der meisterhaft gegnerische Attacken abwendet. Indem du die Bewegungen, Streiche oder Schüsse deiner Feinde voraussiehst, kannst du sie unterbinden, bevor sie zur Gefahr werden.
 
 **Effekt**  
-Any time you use the defend action, you gain advantage 1 on the action roll per tier you possess of this feat.
+Wann immer du eine Verteidigungsaktion einsetzt, erhältst du Vorteil 1 auf den Aktionswurf pro Rang dieser Fertigkeit, den du besitzt.
 
 > Tags: Beweglichkeit, Außergewöhnlich
 
-### Destructive Trance
+---
+### Zerstörerische Trance
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Beweglichkeit 7 / Kraft 7 / Energie 7 / Vergehen 7
 
 **Beschreibung**  
-In the heat of combat, you become a destructive force to be reckoned with. Whether a raging barbarian or a hyper-focused intergalactic knight, your attacks become particularly ferocious when you enter your battle trance.
+Im Kampfgetümmel wirst du zu einer zestörerischen Kraft, die ihresgleichen sucht. Ob du ein rasender Barbar bist oder ein ultra-konzentrierter intergalaktischer Fechter, deine Angriffe werden besonders gefährlich, wenn du in Kampftrance verfällst.
 
 **Effekt**  
-When you make an attack roll in a battle trance, all of the dice in your dice pool explode on either maximum or the number 1 below maximum (though the total is still the number rolled). This means that d4s explode on a 3 or 4, d6s explode on a 5 or 6, d8s explode on a 7 or 8, and so on.
+Wenn du einen Angriffswurf in Kampftrance machst, explodieren alle Würfel mit ihrem Höchstwert oder der Zahl eins unter dem Höchstwert (der gefürfelte Wert selbst ändert sich aber nicht). Das bedeutet, dass ein d4 bei 3 oder 4 explodiert, ein d6 bei 5 oder 6, ein d8 bei 7 oder 8 und so weiter.
 
 > Tags: Außergewöhnlich, Kraft
 
-### Diehard
+---
+### Stirb Langsam[?]
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Präsenz 3 / Konstitution 3
 
 **Beschreibung**  
-Whether luck shines upon you or you're just really hard to kill, you have a knack for staying in the fight when others would tap out. You might be a plucky rogue who always finds a safe nook to duck into or a veteran marine specially trained to grit your teeth and buck up when things look grim.
+Ob das Glück dir gewogen ist oder du einfach sehr schwer zu töten bist, du hast die Gabe, im Kampf zu bleiben wenn andere schon eingebrochen wären. Vielleicht bist du ein cleverer Schurke, der immer eine Ecke zur Deckung findet oder ein alter Veteran, der trainiert ist, trotz schlechter Karten taff zu bleiben.
 
 **Effekt**  
-Once per day, an attack that would reduce you to less than 1 HP, reduces you to 1 HP instead.
+Einmal pro Tag reduziert ein Angriff, der deine TP eigentlich auf unter 1 TP fallen würde, diese stattdessen auf 1.
 
 > Tags: Sozial, Kampf
 
-### Energy Resistance (I - IV)
+---
+### Energieresistenz (I - IV)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -533,37 +580,39 @@ Once per day, an attack that would reduce you to less than 1 HP, reduces you to 
 - **Rang 4:** Keine
 
 **Beschreibung**  
-Whether due to inherited racial traits, specialization in a particular type of energy, or inherent extraordinary protection, you are resistant to a specific type of energy. A fiery sorceress immune to the hottest blaze or a biologically anomalous alien race that is immune to poison are both examples of this feat in play.
+Ob durch angeborene Rassenfähigkeiten, Spezialisierung in einer bestimmten Art Energie oder inhärentem außergewöhnlichem Schutz, bist du restent gegen eine bestimmte Art Energie. Eine Feuermagierin ist immun gegen die heißesten Flammen oder ein biologisch anormales Alien bleibt von Giften unberührt.
 
 **Effekt**  
-Choose from the following energy types: fire, cold, lightning, acid, poison, or another at the GM's discretion. When you are attacked with that energy type, you gain resistance to the attack as follows:
+Wähle aus den folgenden Energiearten aus: Feuer, Kälte, Blitz, Säure, Gift oder andere nach Abwägung des GM. Wenn du mit dieser Art von Energie angegriffen wirst, erhälst du Resistenz anhand des Ranges dieser Fertigkeit:
 <ul>
-<li><strong>Tier 1</strong> - Your defense scores are increased by 3 against the chosen energy type.</li>
-<li><strong>Tier 2</strong> - Your defense scores are increased by 6 against the chosen energy type.</li>
-<li><strong>Tier 3</strong> - Your defense scores are increased by 9 against the chosen energy type.</li>
-<li><strong>Tier 4</strong> - You are immune to damage and harmful effects from the chosen energy type.</li>
+<li><strong>Rang 1</strong> - Deine Verteidigungswerte sind um 3 erhöht.</li>
+<li><strong>Rang 2</strong> - Deine Verteidigungswerte sind um 6 erhöht.</li>
+<li><strong>Rang 3</strong> - Deine Verteidigungswerte sind um 9 erhöht.</li>
+<li><strong>Rang 4</strong> - Du bist immun gegen Schaden und schadhafte Effekte.</li>
 </ul>
 
 **Besonders**  
-In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new energy type each time.
+Zusätzlich dazu, dass mehrere Ränge dieser Fertigkeit erworben werden können, kann die Fertigkeit selbst mehrmals erhalten werden, wobei du jedes Mal eine neue Art Energie auswählst.
 
 > Tags: Außergewöhnlich
 
-### Evasive Footwork
+---
+### Flinke Beinarbeit
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Beweglichkeit 4
 
 **Beschreibung**  
-You are able to dodge and weave in combat, deftly sidestepping attacks that would threaten a clumsier combatant. An agile ninja who tumbles and flips around foes and an alien snake creature that slithers throughout the battlefield are both examples of this feat in play.
+Du bewegst dich mit dem Fluss des Kampfes und weichst Angriffen aus, die weniger adepte Krieger treffen würden. Vielleicht bist du ein Ninja, der um seine Feinde herum wirbelt oder ein Schlangenalien, das unberührt über das Schlachtfeld gleitet.
 
 **Effekt**  
-When you move from a space adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.
+Wenn du dich von einem an einem Feind anliegenden Platz zu einem nicht an einem Feind anliegenden Ort bewegst, erhält der Feind keine Gelegenheitsattacke.
 
 > Tags: Beweglichkeit
 
-### Extraordinary Defense (I - III)
+---
+### Außergewöhnliche Verteidigung (I - III)
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
@@ -572,74 +621,79 @@ When you move from a space adjacent to an enemy to another space not adjacent to
 - **Rang 3:** Bewegung 4 / Vorwissen 4 / Schutz 4
 
 **Beschreibung**  
-Whether by a magical barrier of force, foresight into the future, or preternatural speed, you are gifted with extraordinary protection from harm. Attacks are less likely to strike you, and when they do, they aren't as damaging as they would be to others.
+Ob durch eine magische Barriere, einen Blick in die Zukunft oder übernatürlicher Geschwindigkeit, hast du einen außergewöhnlichen Schutz vor Gefahren. Angriffe haben ein kleinere Chance, dich zu treffen und wenn sie es tun, richten sie weniger Schaden an.
 
 **Effekt**  
-You gain a +1 bonus to all defenses for each tier you have in this feat. This increases your Toughness, Guard, and Resolve defenses.
+Du erhälst einen +1 Bonus auf alle Verteidigungen pro Rang in dieser Fertigkeit. Der Bonus gilt für Deckung, Zähigkeit und Entschlossenheit.
 
 > Tags: Außergewöhnlich, Verteidigung
 
-### Extraordinary Focus
+---
+### Außergewöhnlicher Fokus
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Beliebiges Außergewöhnliches 1
 
 **Beschreibung**  
-Your extraordinary power stems from your connection with a particular focus, such as a wand, digital psi amplifier, holy symbol, or spellbook. When this focus item is in your hands, you are a force to be reckoned with compared to others with similar powers.
+Deine außergewöhnliche Macht stammt von einer Verbindung mit einem bestimmten Fokusobjekt, wie einem Stab, digitalen Psiverstärker, heiligem Symbol oder einem Zauberbuch. Wenn du dieses Fokusitem in der Hand hältst, muss man im Kampf mit dir rechnen.
 
 **Effekt**  
-With the approval of your GM, choose a focus from which your power with a single extraordinary attribute stems. Some possibilities include a wand, a digital psi amplifier, a crystal ball, a spell book, a holy symbol, a weapon, your voice, or an animal familiar. You cannot use the selected extraordinary attribute without your focus. The focus heightens your power and for the purposes of determining your attribute dice for action rolls, you treat the chosen attribute as if it was one greater. For all purposes outside of attribute dice, your ability score remains unchanged (feats, banes, boons, etc.).
+Mit der Zustimmung deines GM wählst du einen Fokus aus, von dem deine Macht mit einem einzigen außergewöhnlichen Attribut stammt. Einige Beispiele wären Zauberstäbe, Psiverstärker, Kristallkugeln, Zauberbücher, heilige Symboe, Waffen, deine Stimme oder ein dir treues Tier. Du kannst das ausgewählte Attribut nicht ohne deinen Fokus nutzen. Der Fokus verstärkt deine Kräfte und erlaubt es dir so, das gewählte Attribut als eins höher zu behandeln, wenn du Attributwürfel für Aktionswürfe bestimmst. Für alle anderen Applikationen (Fertigkeiten, Harme, Wohle, usw. ...) bleibt dein Attributwert unverändert.
 
 **Besonders**  
-If you ever lose your extraordinary focus, voluntarily or involuntarily, you regain the feat points that you have spent on this feat and may spend them as usual.
-You may take this feat multiple times. If you do, select a new attribute not chosen previously. For each instance of this feat, you may choose an existing focus or select a new one.
+Falls du dein Fokusitem je verlierst, ob absichtlich oder nicht, erhälst du die Fertigkeitenpunkte zurück, die du für diese Fertigkeit ausgegeben hast und kannst sie wieder normal ausgeben.
+Du kannst diese Fertigkeit mehrmals erhalten. Falls du dich dazu entscheidest, wählst du jedes Mal ein neues Attribut, welches noch keinen Fokus hat. Jede Instanz dieser Fertigkeit kann den gleichen Fokus haben oder aber unterschiedliche.
 
 > Tags: Außergewöhnlich
 
-### Extraordinary Healing
+---
+### Außergewöhnliche Heilung
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Schöpfung 5
 
 **Beschreibung**  
-Whether you summon priestly magics, utilize advanced technologies, or apply alchemical concoctions, your mastery of extraordinary healing is such that you are able to cure mortal wounds that are beyond the power of the average healer.
+Ob du heilige Magie beschwörst, fortgeschrittene Technologie benutzt oder alchemische Mittel anwendest, deine Meisterschaft außergewöhnlicher Heilung erlaubt es dir, Wunden zu heilen, an denen andere scheitern würden.
 
 **Effekt**  
-When invoking the <em>heal</em> boon, you can choose to take one hour instead of the usual invocation time. If you do, you heal an amount of lethal damage equal to the total healing from the successful boon invocation. This lethal damage is healed in addition to the normal hit point damage that your boon heals.
+Wenn du das Wohl <em>Heilung</em> wirkst, kannst du dich entscheiden, eine Stunde Zeit statt der normalen Wirkzeit aufzuwenden. Falls du das tust, heilst du genauso viel tödlichen Schaden, wie die normale TP-Heilung der Wirkung ergeben hat. Der tödliche Schaden wird zusätzlich zu den TP des Ziels geheilt.
 
 > Tags: Außergewöhnlich, Schöpfung
 
-### Fast Draw
+---
+### Schnelles Ziehen[?] / Blitzfinger[?]
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
 - **Rang 1:** Beweglichkeit 1
 
 **Beschreibung**  
-Whether you're a samurai warrior, the fastest draw in the West, or a flawlessly trained interstellar soldier, you can get to your weapon faster than your opponent can blink.
+Ob du ein Samuraikrieger, der schnellste Mann im Westen oder ein perfekt trainierter interstellarer Soldat bist, kannst du deine Waffe schneller ziehen, als deine Feinde blinzeln.
 
 **Effekt**  
-Once per round, you can draw one additional weapon and sheathe another as a free action. Alternately, you could do the same with any small sized object in your possession.
+Einmal pro Runde kannst du eine zusätzliche Waffe als kostenlose Aktion ziehen und eine andere wegstecken. Alternativ kannst du den gleichen Effekt auch für alle kleinen Gegenstände nutzen, die du besitzt.
 
 > Tags: Kampf, Beweglichkeit
 
-### Fast Tracker
+---
+### Spurenhund[?]
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Beweglichkeit 5
 
 **Beschreibung**  
-Following a trail is an everyday part of your life, and as such it is no more taxing than breathing or blinking. Whether you are an experienced woodsman, a bounty hunter for the Galactic Senate, or a humanoid cat creature with heightened senses, your expertise at tracking allows you to get it done faster than the average hunter.
+Einer Spur zu folgen ist für dich so normal wie atmen. Du bist ein erfahrener Waldläufer, Kopfgeldjäger des galaktischen Senats oder ein Katzenmensch mit besseren Sinnen. Deine Expertise erlaubt es dir, Spuren schneller zu verfolgen als durchschnittliche Jäger.
 
 **Effekt**  
-You move unhindered and at full speed when tracking your quarry.
+Du bewegst dich unbehindert und mit voller Geschwindigkeit, wenn du ein Ziel verfolgst.
 
 > Tags: Außergewöhnlich, Beweglichkeit, Wahrnehmung
 
-### Ferocious Minions (I - III)
+---
+### Wilde Handlanger (I - III)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -648,14 +702,15 @@ You move unhindered and at full speed when tracking your quarry.
 - **Rang 3:** Wandlung 7 / Schöpfung 7 / Vergehen 7 / Energie 7 / Einfluss 7
 
 **Beschreibung**  
-Whether you are a necromancer who summons hordes of undead, an inventor who crafts autonomous defense droids, or a psychic capable of bending others to your will, minions are exceptionally strong under your command.
+Nekromanten mit Horden Untoter, Erfinder mit ihren automatischen Verteidigungsdroiden oder Psychiker, die andere ihrem Willen unterwerfen, sie alle führen Handlanger an, die unter ihrem Kommando besonders gefährlich sind.
 
 **Effekt**  
-Creatures under the effects of your <em>charmed</em> or <em>dominated</em> banes, or those created by your invocation of the <em>summon creature</em> boon, gain advantage 1 on all attack rolls to protect you or act in your favor for each tier of this feat you possess.
+Kreaturen unter dem Effekt der Harme <em>Bezaubert</em> oder <em>Dominiert</em> oder des Wohls <em>Kreatur Beschwören</em> haben Vorteil 1 pro Rang dieser Fertigkeit auf alle Angriffswürfe, wenn sie dich beschützen oder in deinem Sinne handeln.
 
 > Tags: Außergewöhnlich, Einfluss
 
-### Fleet of Foot (I - III)
+---
+### Flinkfuß (I - III)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -664,28 +719,30 @@ Creatures under the effects of your <em>charmed</em> or <em>dominated</em> banes
 - **Rang 3:** Beweglichkeit 7 / Konstitution 7 / Bewegung 6
 
 **Beschreibung**  
-Whether through cybernetic implants, telekinetic propulsion, or simply hardcore training, you are faster than most. This feat is common to swashbucklers, martial artists, super soldiers, and psychic warriors.
+Ob durch cybernetische Implantate, telekinetischen Antrieb oder einfach hardcore Training, bist du schneller als die meisten. Dieser Fertigkeit ist unter Degenhelden, Kriegern, Supersoldaten und Psychikern verbreitet.
 
 **Effekt**  
-Your speed is permanently increased by 5' per tier of this feat.
+Deine Geschwindigkeit ist pro Rang dieser Fertigkeit permanent um 5' erhöht.
 
 > Tags: Außergewöhnlich, Beweglichkeit, Bewegung, Konstitution
 
-### Flying
+---
+### Fliegen
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Keine
 
 **Beschreibung**  
-Whether through a pair of celestial or infernal wings, an inherent telekinetic force, or mutant super powers, you possess the ability to fly.
+Du hast die Fähigkeit, zu fliegen, die von himmlischen oder höllischen Flügeln, telekinetischer Kraft oder Mutantenkräften kommen kann.
 
 **Effekt**  
-You gain a flight speed equal to your normal speed. At the GM's discretion, certain hostile actions may be capable of canceling your flight, sending you hurtling to your doom. If your flight is anatomical, the <em>immobile</em> bane might render your wings immovable. If telekinetic, an application of the <em>nullify</em> bane may cancel your flight.
+Du erhälst eine Fluggeschwindigkeit gleich deiner normalen Geschwindigkeit. Nach Abwägung des GM können bestimmte feindliche Handlungen deine Flugfähigkeit unterbinden, sodass du aus dem Himmel fällst. Falls deine Flugfähigkeit anatomisch bedingt ist, wäre der Harm <em>Immobilisiert</em> ein Beispiel, weil du deine Flügel nicht mehr bewegen könntest. Falls der Flug telekinetischer Art ist könnte <em>Annulieren</em> ihn beenden.
 
 > Tags: Nicht-Kampf
 
-### Great Leap (I - III)
+---
+### Großer Sprung (I - III)
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
@@ -694,14 +751,15 @@ You gain a flight speed equal to your normal speed. At the GM's discretion, cert
 - **Rang 3:** Bewegung 6 / Beweglichkeit 6
 
 **Beschreibung**  
-Through extraordinary power or exceptional agility, you can jump much farther than the average creature. A telekinetic superhero and an insectoid race of bipedal cricket-like beings are both examples of this feat in play.
+Durch außergewöhnliche Kraft oder besondere Beweglichkeit kannst du deutlich weiter springen als die meisten Kreaturen. Ein telekinetischer Superheld oder eine insektoide Alienrasse könnten diese Fertigkeit haben.
 
 **Effekt**  
-You can use your Movement or Agility score instead of your Might score when determining how far you can jump. In addition, you gain advantage 1 per tier on action rolls to jump.
+Du kannst deinen Bewegungs- oder Beweglichkeitswert anstatt deinem Kraft nutzen, wenn du berechnest, wie weit du springen kannst. Zusätzlich erhälst du Vorteil 1 pro Rang dieser Fertigkeit auf Aktionswürfe zum Springen.
 
 > Tags: Außergewöhnlich, Körperlich, Kampf, Nicht-Kampf, Bewegung, Beweglichkeit
 
-### Hallucination (I - II)
+---
+### Halluzination (I - II)
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
@@ -709,18 +767,23 @@ You can use your Movement or Agility score instead of your Might score when dete
 - **Rang 2:** Einfluss 7
 
 **Beschreibung**  
-You are able to use your powers of illusion to not only create phantasmal figments, but to completely dominate the sensory perceptions of individual targets. Such power is wielded by the likes of legendary enchanters, psychics, and shamans. Those who can master such powers are often capable of neutralizing angry mobs without shedding a drop of blood.
+Du bist in der Lage, deine Illusionen nicht nur zum Erzeugen von Phantomen zu benutzen, sondern auch um die Sinne deiner Ziele vollständig zu dominieren. Solche Macht wird von legendären Zauberern, Psychikern und Schamanen geführt. Die, die diese Fähigkeit meistern, sind in der Lage rasende Menge ohne einen Tropfen Blut zu pazifizieren.
 
 **Effekt**  
 <ul>
-<li><strong>Tier 1</strong> - When you invoke the <em>phantasm</em> bane, you may choose to create a hallucination within a single target's mind instead of an illusion that is perceptible to everyone. You gain complete control over the target's senses (as granted by the power level of your bane), and thus the hallucination is not restricted by size or area. Your hallucination may only target a single creature and is not eligible for multi-targeting attacks. In addition, unless the target is damaged, they suffer disadvantage on resist rolls against the bane.</li>
-<li><strong>Tier 2</strong> - When you invoke the hallucination form of the <em>phantasm</em> bane, you may target additional creatures within range as determined by your Influence score. This does not count as a multi-target attack and thus does not incur disadvantage on your action roll.
-<ul><li><strong>Influence 7</strong> - 5 targets</li><li><strong>Influence 8</strong> - 10 targets</li><li><strong>Influence 9</strong> - 50 targets</li></ul></li>
+<li><strong>Rang 1</strong> - Wenn du den Harm <em>Phantom</em> wirkst, kannst du dich entscheiden, statt der normalen Wirkweise eine Halluzination in den Sinnen eines einzigen Ziels zu schaffen. Du erlangst vollständige Kontrolle über die Sinne des Ziels (je nach Kraftlevel des Harms), sodass die Halluzination nicht durch Größe oder Gebiet eingeschränkt ist. Deine Halluzination kann nur ein Ziel haben und kann nicht mit Multi-Zielen benutzt werden. Weiterhin hat das Ziel Nachteil auf seine Widerstehenwürfe gegen den Harm, außer es erleidet Schaden.</li>
+<li><strong>Rang 2</strong> - Wenn du mit <em>Phantom</em> eine Halluzination wirkst, kannst du anhand deine Einfluss-Wertes weitere Kreaturen als zusätzliche Ziele einschließen. Da dies nicht als Multi-Zielen zählt, leidet dein Aktionswurf nicht unter Nachteil.
+  <ul>
+  <li><strong>Einfluss 7</strong> - 5 Ziele</li>
+  <li><strong>Einfluss 8</strong> - 10 Ziele</li>
+  <li><strong>Einfluss 9</strong> - 50 Ziele</li>
+  </ul></li>
 </ul>
 
 > Tags: Außergewöhnlich, Nicht-Kampf, Einfluss
 
-### Heightened Invocation (I - III)
+---
+### Verstärkte Wirkung[?] (I - III)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -729,82 +792,85 @@ You are able to use your powers of illusion to not only create phantasmal figmen
 - **Rang 3:** Beliebiges Außergewöhnliches 9
 
 **Beschreibung**  
-By channeling your extraordinary powers through extended research or extensive rituals, such as meditation, fasting, blood letting, or sacrifices, you are able to increase the strength of your invocations. This feat is common among wizards, inventors, mad scientists, and similar characters who use extraordinary abilities to achieve great deeds.
+Indem du deine außergewöhnlichen Kräfte durch tiefere Recherche oder komplexere Rituale wie Meditation, Fasten, Blutlassen oder Ritualopfer unterstützt, erhöhst du die Macht deines Wirkens. Diese Fertigkeit ist bei Magiern, Erfindern, verrückten Wissenschaftlern und ähnlichen Charakteren bekannt.
 
 **Effekt**  
-When invoking a bane or boon, you may choose to do so as a heightened invocation. The invocation time for a heightened invocation is one increment higher than usual as follows:
+Wenn du einen Harm oder ein Wohl wirkst, kannst du dich entscheiden, dies als Verstärkte Wirkung zu tun. Die Wirkzeit für eine Verstärkte Wirkung ist um einen Grad länger als normal:
 <ul>
-<li>1 action becomes 1 minute</li>
-<li>1 minute becomes 10 minutes</li>
-<li>10 minutes becomes 1 hour</li>
-<li>1 hour becomes 8 hours</li>
-<li>8 hours becomes 24 hours</li>
+<li>1 Aktion wird 1 Minute</li>
+<li>1 Minute wird 10 Minuten</li>
+<li>10 Minuten werden 1 Stunde</li>
+<li>1 Stunde wird 8 Stunden</li>
+<li>8 Stunden werden 24 Stunden</li>
 </ul>
 
-<strong>Tier 1</strong> - When performing a heightened invocation, you may choose one of the following effects to empower your bane or boon:<br />
-<ul>
-<li>Increase the range of the effect as follows:
-  Attribute 5 = 500ft<br />
-  Attribute 6 = 1/2 mile<br />
-  Attribute 7 = 1 mile<br />
-  Attribute 8 = 10 miles<br />
-  Attribute 9 = 100 miles<br /></li>
-<li>Negate two levels of disadvantage caused by multi-targeting (e.g., target 2 creatures or a 10' square for free instead of disadvantage 2).</li>
-<li>For your action roll, treat your attribute score as if it was one greater for purposes of determining attribute dice. Note that this doesn't grant access to banes or boons you could not normally access. It only increases the dice used for the action roll.</li>
-</ul>
+<strong>Rang 1</strong> - Wenn du eine Verstärkte Wirkung durchführst, kannst du einen der folgenden Effekte wählen, der den Harm oder das Wohl betrifft:<br>
+  <ul>
+  <li>Erhöhe die Reichweite des Harms oder Wohls:
+    Attributwert 5 = 500 Fuß<br />
+    Attributwert 6 = 1/2 Meile<br />
+    Attributwert 7 = 1 Meile<br />
+    Attributwert 8 = 10 Meilen<br />
+    Attributwert 9 = 100 Meilen<br /></li>
+  <li>Neutralisiere zwei Level Nachteil, die durch Multi-Zielen bewirkt werden (z.B. kannst du auf zwei Kreaturen oder ein 10' Gebiet zielen, ohne Nachteil zu erhalten).</li>
+  <li>Behandle deinen Attributwert zum Bestimmen der Attributwürfel für diese Wirkung als eins höher als er eigentlich ist. Dies gibt dir nicht Zugang zu weiteren Harmen oder Wohlen, sondern betrifft nur die für den Wurf genutzten Würfel.</li>
+  </ul>
 
-<strong>Tier 2</strong> - You gain the following options when you perform a heightened invocation:
-<ul>
-  <li>You can lead others to join you in group invocation as long as they are also able to invoke the bane or boon at the same power level that you are invoking it at. At the conclusion of the group invocation, each contributor may choose one of the effects granted by Tier 1 of this feat.</li>
-  <li>You gain the following additional options to choose from when empowering your invocations with heightened invocation:</li>
-    <ul>
-    <li>Cause a boon to persist for 1 minute automatically without needing to use a sustain action. Furthermore, enemies cannot end the boon through use of a disrupting attack (though the <em>nullify</em> bane still works).</li>
-    <li>Targets may not make resist rolls against a bane for one minute after it is invoked.</li>
-    </ul>
-</ul>
+<strong>Rang 2</strong> - Du erhälst die folgenden Optionen, wenn du eine Verstärkte Wirkung nutzt:
+  <ul>
+    <li>Du kannst andere in einer Gruppenwirkung anleiten, solange sie den Harm oder das Wohl auf dem gleichen Kraftlevel wie du wirken können. Nach erfolgreicher Gruppenwirkung kann jeder beteiligte Charakter einen der Effekte von Rang 1 dieser Fertigkeit auswählen.</li>
+    <li>Du erhälst die folgenden weiteren Optionen, um deine Wirkung zu erweitern:
+      <ul>
+      <li>Das gewirkte Wohl hält automatisch für eine Minute an, ohne das es aufrechterhalten werden muss. Weiterhin können Feinde das Wohl nicht durch Angriffe unterbrechen (wobei der Harm <em>Annullieren</em> weiterhin wirksam ist).</li>
+      <li>Ziele können für eine Minute keine Widerstehenwürfe gegen den gewirkten Harm nutzen.</li>
+      </ul></li>
+  </ul>
 
-<strong>Tier 3</strong> - You gain the ability to permanently bestow or dispel banes and boons. In order to bestow the bane or boon, you must rigorously attend to the invocation process for a number of days equal to the power level of the bane or boon to be invoked or nullified. During that time you can eat, sleep, and act normally with two exceptions: 1) You must work actively on the invocation and with minimal interruption for 8 hours out of each day. 2) You can leave the area and move about freely during the down time each day, but for the 8 hours of active heightened invocation you must be in the same physical or geographic location where the invocation was initiated. When the invocation time is completed, make an action roll as follows:
+<strong>Rang 3</strong> - Du erhälst die Fähigkeit, Harme und Wohle permanent zu gewähren oder aufzulösen. Um einen Harm oder ein Wohl zu übertragen, musst du dich für eine Anzahl Tage gleich des Kraftlevels vollständig mit der Verstärkten Wirkung beschäftigen. In dieser Zeit kannst du Essen, Trinken und mit zwei Ausnahmen sonst normal Handeln: 1) Du musst jeden Tag aktiv und ohne große Unterbrechungen 8 Stunden an der Wirkung des Harms oder Wohls arbeiten. 2) Du kannst dich generell frei bewegen und das Gebiet verlassen, aber für die 8 Stunden pro Tag musst du am gleichen Ort sein, an dem die Wirkung begonnen wurde. Wenn die Wirkzeit vollständig ist, mache deinen Aktionswurf je nach intendierter Anwendung:
 <ul>
-<li><strong>Bestow Boon</strong> - Make an action roll to invoke the boon as usual. If successful, you cause a non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will with a free action, without requiring an action roll to do so. The target does not need to use a sustain action to persist the effect, and the effect can only be nullified either temporarily with the <em>nullify</em> bane, or permanently with the Heightened Invocation feat (see the Dispel Boon entry that follows).</li>
-<li><strong>Bestow Bane</strong> - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be canceled either temporarily with the <em>nullify</em> bane, or permanently with the Heightened Invocation feat (see the Dispel Bane entry that follows).</li>
-<li><strong>Dispel Boon</strong> - Make an Entropy roll with a Challenge Rating equal to 10 + twice the power level of the boon you are attempting to dispel. If successful, you cause a permanent boon to be forever stripped from the target, causing them to lose the ability to invoke the boon automatically.</li>
-<li><strong>Dispel Bane</strong> - Make a Protection roll with a Challenge Rating equal to 10 + twice the power level of the bane you are attempting to dispel. If successful, you break the curse of a permanent bane afflicting the target, though your target gains no special immunity to it.</li>
+<li><strong>Wohl gewähren</strong> - Mache einen normalen Aktionswurf, um das Wohl zu wirken. Bei Erfolg kannst du deinem Ziel ein nicht-augenblickliches und nicht-permanentes Wohl gewähren. Das Ziel kann das Wohl danach als kostenlose Aktion wirken, ohne dazu einen Aktionswurf zu benötigen. Das Ziel muss keine Aktionen nutzen, um das Wohl aufrechtzuerhalten und es kann nur temporär durch den Harm <em>Annullieren</em> neutralisiert werden. Um das Wohl permanent zu neutraliesieren (das gewährte Wohl aufzuheben), muss Verstärkte Wirkung mit dem Effekt Wohl bannen benutzt werden (siehe folgende Absätze).</li>
+<li><strong>Harm gewähren</strong> - Mache einen normalen Aktionswurf, um den Harm zu wirken. Bei Erfolg kannst du deinem Ziel einen nicht-augenblicklichen und nicht-permanenten Harm zufügen. Der Harm hält ohne Zeitlimit an und erlaubt keine Widerstehenwürfe, um ihn zu beenden. Der Effekt kann nur temporär mit dem Harm <em>Annullieren</em> oder permanent mit einer Verstärkten Wirkung mit der Anwendung Harm bannen benutzt werden (siehe folgende Absätze).</li>
+<li><strong>Wohl bannen[?]</strong> - Mache einen Vergehenwurf mit einem Herausforderungswert von 10 + 2 x Kraftlevel des Wohls, das du bannen willst. Bei Erfolg entfernst du ein permanentes Wohl vom Ziel, sodass dieses dessen Effekte und die Fähigkeit verliert, es zu wirken.</li>
+<li><strong>Dispel Bane</strong> - Mache einen Schutzwurf mit einem Herausforderungswert von 10 + 2 x Kraflevel des Harms, den du bannen willst. Bei Erfolg entfernst du einen permanenten Harm vom Ziel, wobei das Ziel aber keine Resistenz oder Immunität gegen den Harm für die Zukunft erhält.</li>
 </ul>
 
 **Besonders**  
-Permanently bestowing banes or boons via this feat can dramatically impact the mechanical balance of a story. Just as with other permanent effects like Extraordinary Item creation, the invocation of permanent banes or boons is subject to GM's discretion, and using this feat in a way that makes one particular character overly powerful should be prohibited.
+Permanente Harme und Wohle mit dieser Fertigkeit zu gewähren kann einen dramatischen Einfluss auf die spielmechanische Balance der Geschichte haben. Wie mit anderen Effekten wie z.B. Außergewöhnliches Item Erschaffen, unterliegt das Wirken permanenter Harme und Wohle der Abwägung des GM. Der GM sollte besonders darauf achten, dass diese Fertigkeit nicht genutzt wird, um einen Charakter übermäßig mächtig zu machen.
 
 > Tags: Außergewöhnlich, Nicht-Kampf
 
-### Hospitaler
+---
+### Medikus
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Schöpfung 4 / Präsenz 4 / Schutz 4
 
 **Beschreibung**  
-Through inspiring words, magical healing, or advanced medical technique, you are exceptionally skilled at helping others shake off baneful afflictions. Paladins, bards, and combat medics are all typical examples of characters who are masters of this feat.
+Durch inspirierende Worte, magische Heilung oder fortgeschrittene Medizintechnik bist du besonders effektiv dabei, anderen zu helfen, schadhafte Effekte loszuwerden. Paladine, Barden und Kampfmediziner sind typische Beispiele von Charakteren, die diese Fertigkeit haben könnten.
 
 **Effekt**  
-You can use a major action to give an ally an immediate resist roll (a free action for the ally) with advantage 1. Additionally, you gain advantage 1 any time you attempt to invoke the <em>restoration</em> boon.
+Du kannst eine große Aktion benutzen, um einem Verbündeten sofort einen Widerstehenwurf (eine kostenlose Aktion für den Verbündeten) mit Vorteil 1 zu geben. Weiterhin hast du Vorteil 1 darauf, das Wohl <em>Wiederherstellung</em> zu wirken.
 
 > Tags: Nicht-Kampf, Außergewöhnlich, Sozial, Schöpfung, Präsenz, Schutz
 
-### Impervious Trance
+---
+### Unabdingbare Trance[?]
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Willenskraft 7
 
 **Beschreibung**  
-In the heightened focus of battle, your will becomes indomitable. Like a monk with unflinching mental focus or a berserker who is too bloodthirsty to be stopped, you cannot be thwarted by fear, charm, or similar attempts to overcome your willpower.
+Im Fokus des Kampfes wirst du unabdingbar. Wie ein Mönch mit stählernem mentalen Fokus oder ein Berserker, der zu blutrünstig ist, um sich aufhalten zu lassen, kannst du nicht durch Furcht, Bezauberung oder ähnliche Effekte gebremst werden.
 
 **Effekt**  
-While you are in a battle trance, you are immune to banes that target your Resolve. If you were already under the effect of such a bane, it is negated for the duration of your battle trance and returns when your battle trance ends.
+Während du in einer Kampftrance liegst, bist du immun gegen Harme, die auf deine Entschlossenheit zielen. Falls du zu Beginn der Trance unter einem dieser Harme lagst, ist dieser für die Dauer der Trance neutralisiert und kehr zurück, wenn die Trance endet.
 
 > Tags: Kampf
 
-### Indomitable Endurance (I - V)
+---
+### Endlose Ausdauer (I - V)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -815,14 +881,15 @@ While you are in a battle trance, you are immune to banes that target your Resol
 - **Rang 5:** Konstitution 5 / Willenskraft 5
 
 **Beschreibung**  
-Your endurance and willpower are legendary, allowing you to push on when others would keel over from exhaustion. A barbarian able to recover their wind after a mighty frenzy, or a computer hacker capable of routinely going for days without sleep while focused on a singular objective are good examples of this feat in action.
+Deine Ausdauer und Willenskraft sind legendär, sodass du weitermachen kannst, wenn andere schon einbrechen. Ein Barbar, der unermüdlich schlachtet oder ein Hacker, der tagelang ein einziges Ziel verfolgen kann, sind gute Beispiele dieser Fertigkeit.
 
 **Effekt**  
-You are able to shrug off the effects of the <em>fatigued</em> bane. For each tier you possess in this feat, treat your fatigue level as one lower than it actually is for the purposes of determining the bane's effects.
+Du kannst die Auswirkungen des Harms <em>Erschöpft</em> abschütteln. Für jeden Rang in dieser Fertigkeit kannst du dein Level an Erschöpfung als eins weniger behandeln, als es eigentlich ist, um die Effekte des Harms zu bestimmen.
 
 > Tags: Körperlich
 
-### Indomitable Resolve (I - III)
+---
+### Stählerner Wille[?] (I - III)
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
@@ -831,14 +898,15 @@ You are able to shrug off the effects of the <em>fatigued</em> bane. For each ti
 - **Rang 3:** Präsenz 5 / Willenskraft 5
 
 **Beschreibung**  
-Your resolve is exceptional, making your more resilient to mental effects that would overwhelm those of lesser mettle. A keen-minded space captain and a wizened mage are both exemplars of this feat in action.
+Deine Entschlossenheit ist außergewöhnlich, sodass du resistenter gegen mentale Angriffe bist, die andere unterwerfen würden. Ein Raumschiffkapitän mit cleverem Geist oder ein weiser Magier könnten diese Fertigkeit nutzen.
 
 **Effekt**  
-For each tier you possess in this feat, your Resolve defense is increased by 1.
+Für jeden Rang in dieser Fertigkeit ist deine Entschlossenheit um eins erhöht.
 
 > Tags: Kampf, Präsenz, Willenskraft
 
-### Inspiring Champion (I - III)
+---
+### Inspirierender Paragon[?] (I - III)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -847,19 +915,20 @@ For each tier you possess in this feat, your Resolve defense is increased by 1.
 - **Rang 3:** Präsenz 6
 
 **Beschreibung**  
-You fight with such bravery, heroism, or bravado that your allies are inspired to fight beyond their usual mettle. Common examples of characters who typify this feat include a shining knight, a fearless platoon leader, and a heroic bard.
+Du kämpfst mit solchem Mut, Heldentum oder Tollheit, dass deine Feinde jenseits ihrer eigenen Grenzen inspiriert sind. Typische Beispiele wären Ritter in glänzender Rüstung, furchtlose Platoonführer und heroische Barden.
 
 **Effekt**  
-Once per round, when your roll for a damaging attack exceeds an enemy's defense by 10 or more, you can grant healing to your allies as outlined below. In order to gain this healing, allies must be within a range of 5' times your Presence score.
+Einmal pro Runde, wenn dein Angriffswurf für einen Angriff mit Schaden die Verteidigung des Ziels um 10 oder mehr übertrifft, kannst du deinen Verbündeten Heilung anhand des Ranges der Fertigkeit geben. Die Reichweite des Heileffekts ist 5' x dein Präsenzwert.
 <ul>
-<li><strong>Tier 1</strong> - A single ally that can see the attack heals 1d4 HP.</li>
-<li><strong>Tier 2</strong> - A number of allies equal to your Presence score who can see the attack heal 1d4 HP.</li>
-<li><strong>Tier 3</strong> - All allies who can see the attack heal 2d4 HP.</li>
+<li><strong>Rang 1</strong> - Ein einziger Verbündeter, der den Angriff sehen kann heilt 1d4 TP.</li>
+<li><strong>Rang 2</strong> - Eine Anzahl Verbündeter gleich deinem Präsenzwert, die den Angriff sehen können, heilen 1d4 TP.</li>
+<li><strong>Rang 3</strong> - Alle Verbündeten, die den Angriff sehen können, heilen 2d4 TP.</li>
 </ul>
 
 > Tags: Sozial, Kampf, Präsenz
 
-### Knowledge (I - III)
+---
+### Wissen (I - III)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -868,24 +937,40 @@ Once per round, when your roll for a damaging attack exceeds an enemy's defense 
 - **Rang 3:** Keine
 
 **Beschreibung**  
-Whether through extensive study or years of first hand experience, you have knowledge of a particular subject which far surpasses your general intelligence. A navigator well versed in the galactic map, a barbarian warlord with years of experience with military strategy, and a professor of the paranormal are all examples of this feat in play.
+Eingängige Studien oder jahrelange Erfahrung geben dir ein Wissen über ein bestimmtes Thema, das deine generelle Intelligenz weit übersteigt. Ein Navigator kennt die galaktische Karte in-und-auswendig, ein Barbarenlord hat lebenslage Erfahrung in Militärstrategie und ein Professor des Abnormalen wären alle Beispiele dieser Fertigkeit.
 
 **Effekt**  
-When you take this feat, choose a sphere of knowledge from the list below or, with the GM's approval, create a new one. <br />
-Example spheres of knowledge include alchemy, anatomy, arcane, computers, explosives, engineering, geography, herbalism, history, location (must specify), medicine, military strategy, supernatural, and wilderness.<br />
-Your tier in this feat determines how knowledgeable you are within your chosen sphere.
+Wenn du diese Fertigkeit erwirbst, wählst du ein Wissensgebiet aus der unten aufgeführten Liste oder - mit der Zustimmung des GM - ein anderes.
 <ul>
-<li><strong>Tier 1</strong> - You automatically succeed on any action roll related to your chosen sphere of knowledge with a CR of 16 or lower. For higher CRs, your Learning attribute is considered to be 3 for the action roll unless your Learning score is already 3 or higher, in which case you gain advantage 1 on the roll.</li>
-<li><strong>Tier 2</strong> - You automatically succeed on any action roll related to your chosen sphere of knowledge with a CR of 22 or lower. For higher CRs, your Learning attribute is considered to be 6 for the action roll unless your Learning score is already 6 or higher, in which case you gain advantage 1 on the roll.</li>
-<li><strong>Tier 3</strong> - You automatically succeed on any action roll related to your chosen sphere of knowledge with a CR of 26 or lower. For higher CRs, your Learning attribute is considered to be 8 for the action roll unless your Learning score is already 8 or higher, in which case you gain advantage 1 on the roll.</li>
+<li>Alchemie</li>
+<li>Anatomie</li>
+<li>Arkana</li>
+<li>Computer</li>
+<li>Sprengstoff</li>
+<li>Ingenieurswesen</li>
+<li>Geografie</li>
+<li>Kräuterkunde</li>
+<li>Geschichte</li>
+<li>Ort (spezifischen angeben)</li>
+<li>Medizin</li>
+<li>Militärstrategie</li>
+<li>Übernatürlich</li>
+<li>Wildniss</li>
+</ul>
+Dein Rang in dieser Fertigkeit bestimmt, wie tief dein Wissen im gewählten Gebiet geht.
+<ul>
+<li><strong>Rang 1</strong> - Du hast automatisch bei Aktionswürfen mit HW 16 oder niedriger Erfolg, die etwas mit deinem gewählten Wissensgebiet zu tun haben. Bei höheren HW zählt dein Lernenwert für diesen Wurf als 3, falls er eigentlich niedriger ist. Ist dein Lernenwert eh schon 3 oder höher, hast du Vorteil 1 auf den Wurf.</li>
+<li><strong>Rang 2</strong> - Du hast automatisch bei Aktionswürfen mit HW 22 oder niedriger Erfolg, die etwas mit deinem gewählten Wissensgebiet zu tun haben. Bei höheren HW zählt dein Lernenwert für diesen Wurf als 6, falls er eigentlich niedriger ist. Ist dein Lernenwert eh schon 6 oder höher, hast du Vorteil 1 auf den Wurf.</li>
+<li><strong>Rang 3</strong> - Du hast automatisch bei Aktionswürfen mit HW 26 oder niedriger Erfolg, die etwas mit deinem gewählten Wissensgebiet zu tun haben. Bei höheren HW zählt dein Lernenwert für diesen Wurf als 8, falls er eigentlich niedriger ist. Ist dein Lernenwert eh schon 8 oder höher, hast du Vorteil 1 auf den Wurf.</li>
 </ul>
 
 **Besonders**  
-In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new sphere of knowledge each time. Purchasing this feat in this way confers no benefit on other spheres of knowledge.
+Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit haben kannst, kannst du die Fertigkeit selbst auch mehrmals erwerben, wobei du jedes Mal ein neues Wissensgebiet wählst. Die Fertigkeit so mehrmals zu haben bringt keine Vorteile für andere Wissensgebiete.
 
 > Tags: Keine Voraussetzungen, Außergewöhnlich
 
-### Lethal Strike (I - IX)
+---
+### Tödlicher Streich[?] (I - IX)
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
@@ -900,30 +985,31 @@ In addition to purchasing multiple tiers of this feat, you may take this feat mu
 - **Rang 9:** Beweglichkeit 7
 
 **Beschreibung**  
-Like a highly trained sniper, a ninja of legend, or a feinting melee dervish, you can devastate your foes with an expertly placed attack when you catch them off guard.
+Hochtrainierte Sniper, legendäre Ninja oder Nahkampfderwische können Feinde mit präzise platzierten Vorstößen ausschalten, wenn sie sie kalt erwischen.
 
 **Effekt**  
-Your attacks are considered lethal strikes whenever you fulfill <em>one</em> of the following conditions:
+Deine Angriffe werden als Tödlicher Streich gewertet, wenn <em>eine</em> der folgenden Bedingungen erfüllt ist:
 <ul>
-<li>Your target is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them.</li>
-<li>Your target is within melee attack range of an ally.</li>
+<li>Dein Ziel ist überrascht oder sie den Angriff anderweitig nicht kommen, z.B. wenn du vor ihm versteckt, als Freund verkleidet bist oder es erfolgreich getäuscht hast.</li>
+<li>Dein Ziel ist in Nahkampfreichweite eines Verbündeten.</li>
 </ul>
-You gain advantage on lethal strikes equal to your tier in this feat. Additionally, a certain portion of the damage (not to exceed the total damage dealt) is considered lethal damage, which is more difficult to heal from (see Chapter 7: Combat).
+Du hast Vorteil auf Tödliche Streiche mit Vorteil-Level gleich deines Ranges in dieser Fertigkeit. Weiterhin wird ein Teil des Schadens (nie mehr als der Gesamtschaden) als tödlicher Schaden zugefügt, was ihn schwieriger zu heilen macht (siehe Kapitel 7: Kampf).
 <ul>
-<li><strong>Tier 1</strong> - Advantage 1. Up to 5 lethal damage.</li>
-<li><strong>Tier 2</strong> - Advantage 2. Up to 5 lethal damage.</li>
-<li><strong>Tier 3</strong> - Advantage 3. Up to 10 lethal damage.</li>
-<li><strong>Tier 4</strong> - Advantage 4. Up to 10 lethal damage.</li>
-<li><strong>Tier 5</strong> - Advantage 5. Up to 15 lethal damage.</li>
-<li><strong>Tier 6</strong> - Advantage 6. Up to 20 lethal damage.</li>
-<li><strong>Tier 7</strong> - Advantage 7. Up to 20 lethal damage.</li>
-<li><strong>Tier 8</strong> - Advantage 8. Up to 25 lethal damage.</li>
-<li><strong>Tier 9</strong> - Advantage 9. Up to 25 lethal damage.</li>
+<li><strong>Rang 1</strong> - Vorteil 1. Bis zu 5 tödlicher Schaden.</li>
+<li><strong>Rang 2</strong> - Vorteil 2. Bis zu 5 tödlicher Schaden.</li>
+<li><strong>Rang 3</strong> - Vorteil 3. Bis zu 10 tödlicher Schaden.</li>
+<li><strong>Rang 4</strong> - Vorteil 4. Bis zu 10 tödlicher Schaden.</li>
+<li><strong>Rang 5</strong> - Vorteil 5. Bis zu 15 tödlicher Schaden.</li>
+<li><strong>Rang 6</strong> - Vorteil 6. Bis zu 20 tödlicher Schaden.</li>
+<li><strong>Rang 7</strong> - Vorteil 7. Bis zu 20 tödlicher Schaden.</li>
+<li><strong>Rang 8</strong> - Vorteil 8. Bis zu 25 tödlicher Schaden.</li>
+<li><strong>Rang 9</strong> - Vorteil 9. Bis zu 25 tödlicher Schaden.</li>
 </ul>
 
 > Tags: Außergewöhnlich, Beweglichkeit, Kampf
 
-### Lightning Reflexes (I - V)
+---
+### Blitzreflexe (I - V)
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
@@ -934,88 +1020,94 @@ You gain advantage on lethal strikes equal to your tier in this feat. Additional
 - **Rang 5:** Beweglichkeit 4 / Vorwissen 4
 
 **Beschreibung**  
-You are always ready for danger, allowing you to easily get the drop on your foes. A highly trained gunslinger with a vigilant trigger finger and a covert operative always prepared for ambush are good examples of this feat in action.
+Du bist allzeit bereit, sodass du deinen Feinden oft zuvorkommst. Ein Revolverheld mit flinken Fingern oder ein Spion, der immer bereit für einen Hinterhalt ist, sind gute Beispiele dieser Fertigkeit.
 
 **Effekt**  
-For each tier you possess in this feat, you gain advantage 1 on all initiative rolls.
+Für jeden Rang dieser Fertigkeit hast du Vorteil 1 auf alle Initiativewürfe.
 
 > Tags: Körperlich, Außergewöhnlich, Beweglichkeit, Vorwissen
 
-### Longshot
+---
+### Zielwasser[?] / Weitschuss
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
 - **Rang 1:** Beweglichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
 
 **Beschreibung**  
-Your expertise with a particular ranged weapon or extraordinary power enables you to strike targets at extreme distances that others would find impossible. This feat is common among snipers, fighter pilots, and war wizards.
+Deine Expertise mit einer bestimmten Fernkampfwaffe oder außergewöhnlichen Macht erlaubt es dir, Feinde auf extremer Distanz anzugreifen. Diese Fertigkeit findet man bei Snipern, Kampfpiloten und Kriegsmagiern.
 
 **Effekt**  
-When you take this feat, select one weapon or attack type. Examples of attack types you include fire, cold, lightning, acid, poison, entropy, creation, and force - though this list is not exhaustive.
-With the chosen weapon or attack type, your range with that weapon or attribute is doubled.
+Wenn du diese Fertigkeit erwirbst, wähle eine Waffe oder einen Angriffstyp. Beispiele von Angriffstypen umfassen Feuer, Kälte, Blitz, Säure, Gift, Vergehen, Schöpfung und Kraft, wobei die Liste nicht abschließend ist.
+Mit der von dir gewählten Waffe oder Angriffsart ist deine Reichweite verdoppelt.
 
 **Besonders**  
-You may take this feat multiple times. If you do, select a new weapon or attack type each time.
+Du kannst diese Fertigkeit mehrmals erhalten, wobei du jedes Mal neue Waffen oder Angriffstypen wählst.
 
 > Tags: Kampf
 
-### Silencing Strike
+---
+### Stummschlag
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Beweglichkeit 4
 
 **Beschreibung**  
-Like an expert assassin or ninja, you can render your foes completely unable to alert others of your presence. This might take the form of a dart to the larynx, a garrote around the throat, or simply a sturdy covering of the mouth.
+Wie ein Assassine oder Ninja kannst du verhindern, dass Feinde andere zu Hilfe rufen können. Das könnte sich als Wurfdart in der Luftröhre, Würgestrick um den Hals oder verzaubertes Tuch über dem Mund ausdrücken.
 
 **Effekt**  
-Whenever you deal damage using a weapon with the precise property to a target that is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them, the target is afflicted with the <em>silenced</em> bane.
+Wann immer du mit einer Waffe mit der Eigenschaft <em>Defensiv</em> einem Ziel Schaden zufügst, das die Attacke nicht hat kommen sehen oder sonst unvorbereitet darauf war, erleidet es automatisch den Harm <em>Verstummt</em>. Du könntest vor dem Ziel versteckt sein, dich als Freund verkleidet oder es erfolgreich getäuscht haben.
 
 > Tags: Beweglichkeit, Körperlich
 
-### Martial Focus
+---
+### Kampffokus
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Beweglichkeit 1 / Kraft 1
 
 **Beschreibung**  
-Like a kensai warrior devoted to mastery of their katana or an assassin who exclusively wields their favored pistols, your training is hyper-focused on a single style of combat to the exclusion of all others.
+Wie ein Kensaikämpfer, der sich ganz seinem Katana verschrieben hat, oder ein Assassine der ausschließlich seine Lieblingspistole führt, ist dein Training auf einen einzigen Kampfstil fokussiert.
 
 **Effekt**  
-Choose a single weapon (or choose unarmed combat), and specify the attribute that your martial focus relies upon: Agility or Might. When making attacks using your chosen weapon, your attribute is considered 1 greater for the purposes of determining attribute dice. Your attribute is not changed for purposes of feats, banes, boons, or similar items. Because of your intense focus on a single combat style, any attacks that you make without your martial focus suffer disadvantage 1.
+Wähle eine einzige Waffe (oder wähle unbewaffneten Kampf) und gib an, auf welches Attribut sich dein Kampffokus verlässt: Beweglichkeit oder Kraft. Wenn du einen Angriff mit der gewählten Waffe machst, wird dein Attributwert zum Bestimmten der Attributwürfel als eins höher gewertet, als er eigentlich ist. Dein Wert bleibt für alle anderen Anwendungen - wie z.B. Fertigkeiten, Harme und Wohle - unverändert. Aufgrund deines intensiven Trainings in einem Stil, das andere Taktiken vernachlässigt, hast du Nachteil 1 auf alle Angriffe, die du ohne Kampffokus ausführst.
 
 > Tags: Kampf, Körperlich
 
-### Master Tracker
+---
+### Meisterverfolger[?] / Meisterjäger
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
 - **Rang 1:** Wahrnehmung 4
 
 **Beschreibung**  
-You were made for the hunt. Whether you gained this ability through years of practice or possess it through heightened senses, the effect is the same: once you've picked up a trail, you almost never lose track of your quarry.
+Du bist zur Jagd geboren. Ob du diese Fähigkeiten durch Jahre der Übrung erlangt hast oder sie durch schärfere Sinne besitzt, du verlierst so gut wie nie die Spur deines Ziels, wenn du sie aufgenommen hast.
 
 **Effekt**  
-Unless blinded or thwarted through extraordinary means, you always know the direction of true north. In addition, once you successfully locate the trail of a target, you automatically succeed at all tracking attempts to continue following that trail for 7 days after the time you first picked it up. Only extraordinary concealment, targets in flight, or similarly exceptional cases can cause you to lose your mark.
+Solange du nicht geblendet oder durch außergewöhnliche Mächte verwirrt bist, weist du immer die Richtung nach Norden. Weiterhin hast du automatisch für sieben Tage nach dem Aufnehmen der Spur bei allen Versuchen um ihr zu folgen Erfolg. Nur außergewöhnliche Fähigkeiten der Verborgenheit, fliegende Ziele oder andere ungewöhnliche Umstände können dich dein Ziel verlieren lassen.
 
 > Tags: Nicht-Kampf, Geistig, Wahrnehmung
 
-### Mimic
+---
+### Mimikri[?]
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Wandlung 4
 
 **Beschreibung**  
-You have honed your shapeshifting abilities to be able to not only change your form, but to even imitate specific creatures. Your powers may stem from studying the arts of deceptive magic, from a gene mutation, or even from innate extraordinary abilities.
+Du hast dein Gestaltwandeln perfektioniert und kannst so nicht nur deine Form wandeln, sondern sogar spezifische Kreaturen imitieren. Deine Kräfte könnten aus dem Studium der Täuschungsmagie stammen, von einer Genmutation oder inhärenten außergewöhnlichen Fähigkeiten.
 
 **Effekt**  
-When you use the <em>shapeshift</em> boon, you may take on the features of a specific creature. For example, instead of merely transforming into an elf, you can assume the guise of Galdion the elven king. The disguise is near perfect for those examining you visually. If your behavior or other signs provide reasonable suspicion, an onlooker can attempt a Perception roll with a Challenge Rating equal to 10 + triple your Alteration or Deception score, whichever is higher. If they succeed, they will recognize your disguise.
+Wenn du das Wohl <em>Gestaltwandel</em> benutzt, kannst du die Form einer spezifischen Kreatur annehmen. Anstatt dich einfach in einen Elf zu verwandeln, kannst du die Gestalt von Galdion dem Elfenkönig annehmen. Die Verkleidung ist visuell nahezu perfekt. Falls dein Verhalten oder andere Anzeichen jemand misstrauisch werden lassen, kann die Person einen Wahrnehmungswurf mit Herausforderungswert 10 + 3 x dein Wandlungs-/Täuschungswert (höheren Wert nutzen) versuchen. Falls sie Erfolg hat, durschaut die Person deine Verwandlung.
 
 > Tags: Außergewöhnlich, Fertigkeitenkette, Wandlung
 
-### Multi-Attack Specialist (I - VI)
+---
+### Multi-Angriffsspezialisierung (I - VI)
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
@@ -1027,35 +1119,37 @@ When you use the <em>shapeshift</em> boon, you may take on the features of a spe
 - **Rang 6:** Keine
 
 **Beschreibung**  
-Whether you are delivering a flurry of blows, wielding two weapons, or calling a chain of lightning bolts from the sky, you have mastered the art of delivering multiple attacks.
+Ob du deine Schläge blitzschnell niederregnen lässt, zwei Waffen führst oder einen Kugelblitz vom Himmel beschwörst, hast du die Kunst gemeistert, viele Angriffe gleichzeitig auszuführen.
 
 **Effekt**  
-At the start of your turn, you may declare that you are multi-attacking. You must state how many extra attacks you would like to make. You receive a corresponding number of additional major actions, which can only be used for attacks. <em>All</em> of your attacks this round suffer disadvantage equal to 3 times the number of <strong>additional</strong> attacks you declare (i.e., if you make 2 attacks, you suffer disadvantage 3; 3 attacks suffers disadvantage 6). For each tier of this feat that you possess, reduce the disadvantage penalty by 1.
-You may use your attacks to make any combination of bane or damaging attacks, but you may not invoke boons. Resolve each attack individually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once.
-The number of additional attacks you can make with this feat is limited to 1 + half your level, rounded up. Thus, the limit is 2 additional attacks at 1st level, 3 additional attacks at 3rd level, and 6 additional attacks at 9th level.
-<strong>Example</strong> - Vax the Deathbringer has Multi-Attack Specialist (Tier III). He declares that he will be making three attacks this round (two additional attacks). Therefore, all of his attacks suffer disadvantage 3 (3 x 2 = 6, minus 3 for feat tier 3). His first attack is a necromantic burst targeting a 10'-cube. Because of the area of effect, Vax suffers an additional disadvantage 2, making his total disadvantage for that attack 5. For his second attack, Vax casts a spell of blindness on a single foe, making an action roll at disadvantage 3. For his final attack, Vax moves in to melee and uses his touch of death on three foes. Targeting 3 foes incurs an additional disadvantage 3, making his final attack roll suffer a total of disadvantage 6.
+Zu Beginn deines Zuges kannst du ansagen, dass du eine Multi-Attacke nutzen wirst. Du must angeben, wie viele Extraangriffe du ausführen möchtest. Du erhälst eine dem entsprechenden Anzahl an zusätzlichen großen Aktionen, die nur für Angriffe genutzt werden können. <em>Alle</em> deine Angriffe in dieser Runde haben Nachteil gleich 3 x Anzahl an <strong>zusätzlichen</strong> Attacken (z.B. hast du bei insg. 2 Attacken Nachteil 3 auf beide, 3 Angriffe haben alle Nachteil 6, usw. ...) Für jeden Rang dieser Fertigkeit reduzierst du den gesamten Nachteil für alle Angriffe um 1 (nicht die 3 Nachteil pro Zusatzattacke).
+Du kannst deine Angriffe für eine beliebige Kombination aus Harmen und Attacken mit Schaden nutzen, kannst aber keine Wohle wirken. Handle jede einzelne Attacke ab, wobei du wie normal Multi-Zielen anwenden kannst. Du kannst dich zwischen den Angriffen bewegen und kannst auch die gleiche Kreatur mehrmals angreifen.
+Die maximale Anzahl an zusätzlichen Angriffen pro Runde ist 1 + die Hälte deines Levels aufgerundet. Auf Level 1 ist das Limit also 2 zusätzliche Attacken, 3 Attacken auf Level 3 und 6 auf Level 9.
+<strong>Beispiel</strong> - Vax der Todbringer hat Multi-Angriffsspezialisierung (Rang III). Er sagt an, dass er diese Runde drei Angriffe (also zwei zusätzliche) ausführen wird. Daher werden all seine Angriffe Nachteil 3 haben (3 x 2 = 6, davon 3 für Rang 3 abziehen). Sein erster Angriff ist ein nekromantischer Energieausbruch, der einen 10'-Würfel als Ziel hat. Aufgrund der Gebietsattacke hat Vax weitere 2 Nachteil auf den ersten Angriff, sodass er insgesamt dafür mit Nachteil 5 würfelt. Sein zweiter Angriff ist ein Harmangriff mit <em>Geblendet</em> auf einen einzigen Feind, sodass dieser mit Nachteil 3 stattfindet. Letztlich bewegt sich Vax in den Nahkampf und nutzt seine Todesberührung gegen drei Feinde, was weitere 3 Nachteil bringt. Sein letzter Angriffswurf hat also Nachteil 6.
 
 > Tags: Beliebiges Attribut
 
-### Multi-Bane Specialist
+---
+### Multi-Harmspezialisierung
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Able to inflict both banes (see description)
+- **Rang 1:** Fähigkeit, beide Harme zu wirken (siehe Beschreibung)
 
 **Beschreibung**  
-You have mastered a signature attack that allows you to invoke two banes at once. A blast of ice that blinds and slows your enemy, a thunderous shotgun blast that hurls foes back and knocks them to the ground, and a wormtongue song that puts targets to sleep and alters their memory are all examples of a signature attack that could be created with this feat.
+Du hast eine Spezialattacke gemeistert, die es dir erlaubt, zwei Harme gleichzeitig zu wirken. Ein Eisstoß, der Feinde blendet und verlangsamt, ein Schrotflintenschuss der Feinde wegstößt und zu Boden wirft oder Wurmzungenlied, dass deine Feinde einschläfert und ihre Erinnerungen verändert sind alles Spezialattacken, die mit dieser Fertigkeit erstellt werden könnten.
 
 **Effekt**  
-Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining <em>knockdown</em> and <em>slowed</em>, both power level 1, would require an attribute score of 2). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately.
+Wähle zwei Harme aus, die du wirken kannst und ein gemeinsamen Attribut zum Wirken haben. Du kannst beide Harme mit einem Angriff zufügen. Der dafür nötige Attributwert ist gleich der Summe der Kraftlevel beider Harme (für <em>Niedergeschlagen</em> und <em>Verlangsamt</em> beide auf Kraftlevel 1 bräuchtest du also Attributwert 2). Falls die Harme auf unterschiedliche Verteidigungen zielen wählst du selbst aus, gegen welche Verteidigung der Angriff zielt. Bei einem erfolgreichen Wurf werden dem Ziel beide Harme zugefügt. Sie beide bleiben unabhängig voneinander bestehen und gegen sie muss separat widerstanden werden.
 
 **Besonders**  
-In order to benefit from the bane focus feat when using a multi-bane attack, you must possess bane focus for both banes.
-You may take this feat more than once. If you do, you must choose a different pair of banes for the new instance of the feat.
+Um bei einer Multi-Harm-Attacke von der Fertigkeit <em>Harmfokus</em> zu profitieren, musst du für beide gewählten Harme <em>Harmfokus</em> haben.
+Du kannst diese Fertigkeit mehr als einmal erwerben, wobei du jedes Mal ein neues Paar aus zwei Harmen wählst.
 
 > Tags: Fluch, Kampf
 
-### Multi-Target Attack Specialist (I - V)
+---
+### Multi-Zielen Angriffsspezialisierung (I - V)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -1066,31 +1160,33 @@ You may take this feat more than once. If you do, you must choose a different pa
 - **Rang 5:** Keine
 
 **Beschreibung**  
-You are a master of wreaking havoc on many foes at once, whether it be with a whirlwind of your twin blades, a hail of gun fire, a massive wave of psionic energy, or a devastating ball of flame.
+Du bist ein Meister darin, viele Feinde gleichzeitig niederzustrecken, sei es mit einem Wirbel deiner Zwillingsschwerter, einem Kugelhagel, einer Welle psionischer Energie oder einem vernichtenden Feuerball.
 
 **Effekt**  
-When you choose this feat, you must decide to focus in area, ranged, or melee attacks. For each tier, you reduce the disadvantage penalty associated with multi-targeting for your chosen attack type by 1.
+Wenn du diese Fertigkeit wählst, musst du dich für einen Ansatz aus Nahkampf, Fernkampf oder Gebietsangriffen entscheiden. Für jeden Rang dieser Fertigkeit reduzierst du den mit Multi-Zielen assoziierten Nachteil für deinen gewählten Ansatz um 1. 
 
 **Besonders**  
-In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new multi-target mode (area, ranged, or melee) each time. Track your feat tier separately for each targeting mode that you select for this feat.
+Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit erwerben kannst, kannst du die Fertigkeit selbst auch mehrmals erhalten, wobei du jedes Mal einen anderen Ansatz (Nahkampf, Fernkampf, Gebietsattacken) auswählst. Jede Instanz dieser Fertigkeit hat separate Ränge.
 
 > Tags: Beliebiges Attribut
 
-### Multi-Target Boon Expert
+---
+### Multi-Zielen Wohlexperte
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Fertigkeit: Segen Focus
+- **Rang 1:** Fertigkeit: Wohlfokus
 
 **Beschreibung**  
-You have so mastered the art of aiding groups of allies that you can invoke certain boons effortlessly. A healing nova, a supernatural wind that gives flight to a group, and a time dilation that hastens a group of allies are all examples of this feat in action.
+Du bist so geübt darin, Gruppen Verbündeter zu helfen, dass du bestimmte Wohle ohne Anstrengung wirken kannst. Eine Heilnova, ein übernatürlicher Wind der Flugfähigkeiten beschert oder Zeitdilation die eine Gruppe beschleunigt sind alle Beispiele dieser Fertigkeit.
 
 **Effekt**  
-When multi-targeting a boon for which you have the Boon Focus feat, you do not need to make an action roll if the disadvantage normally incurred from multi-targeting is completely negated by your Multi-Target Boon Specialist feat. Your invocation automatically succeeds.
+Wenn du ein Wohl mit Multi-Zielen wirkst, für den du die Fertigkeit Wohlfokus hast, musst du keinen Aktionswurf machen, falls der durch Multi-Zielen erhaltene Nachteil vollständig von deiner Fertigkeit Multi-Zielen Wohlspezialisierung negiert wird. In diesem Fall hat die Wirkung automatisch Erfolg.
 
 > Tags: Nicht-Kampf, Beliebiges Attribut
 
-### Multi-Target Boon Specialist (I - IX)
+---
+### Multi-Zielen Wohlspezialisierung (I - IX)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -1105,14 +1201,15 @@ When multi-targeting a boon for which you have the Boon Focus feat, you do not n
 - **Rang 9:** Keine
 
 **Beschreibung**  
-You are a master of invoking boons for more than one target. A mass dimensional shift to an intermediary plane and a mass manifestation of entropic life draining are some examples of what this might look like in play.
+Du bist ein Meister darin, Wohle auf mehrere Verbündete zu wirken. Eine Massenteleportation in eine andere Dimension  wäre eine Beispiel dieser Fertigkeit im Spiel.
 
 **Effekt**  
-For each tier of this feat, you reduce the disadvantage penalty associated with invoking boons for multiple targets by 1.
+Für jeden Rang dieser Fertigkeit reduzierst du den mit Multi-Zielen von Wohlen assoziierten Nachteil um 1.
 
 > Tags: Nicht-Kampf, Außergewöhnlich
 
-### Natural Defense (I - III)
+---
+### Natürliche Verteidigung (I - III)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -1121,77 +1218,82 @@ For each tier of this feat, you reduce the disadvantage penalty associated with 
 - **Rang 3:** Konstitution 2
 
 **Beschreibung**  
-Whether through draconic heritage, a cyborg exoskeleton, or just a lifetime of conditioning, your skin is tough as nails, allowing your body to deflect blows that would cripple others.
+Ob durch drakonische Abstammung, ein Cyborg-Exoskellet oder einfach lebenslange Konditionierung ist deine Haut zäh wie Stahl, sodass dein Körper allein Angriffen widersteht, die andere niederstrecken würden.
 
 **Effekt**  
-When you are not wearing armor, you gain a bonus to your Guard and Toughness defenses. Your bonus is determined by your tier in this feat:
+Wenn du keine Rüstung trägst, erhälst du einen Bonus auf Deckung und Zähigkeit anhand des Ranges dieser Fertigkeit:
 <ul>
-<li><strong>Tier 1</strong> - +1 bonus to Guard and Toughness.</li>
-<li><strong>Tier 2</strong> - +2 bonus to Guard and Toughness.</li>
-<li><strong>Tier 3</strong> - +3 bonus to Guard and Toughness.</li>
+<li><strong>Rang 1</strong> - +1 Bonus auf Deckung und Zähigkeit.</li>
+<li><strong>Rang 2</strong> - +2 Bonus auf Deckung und Zähigkeit.</li>
+<li><strong>Rang 3</strong> - +3 Bonus auf Deckung und Zähigkeit.</li>
 </ul>
 
 > Tags: Kampf, Körperlich, Verteidigung, Konstitution
 
-### Overpowering Strike
+---
+### Überwältigender Schlag
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Kraft 4
 
 **Beschreibung**  
-In combat, you are like a wrecking ball that clears the battlefield of your foes. The sheer force of your attacks is so great that you send opponents flying. A half-ogre wielding a massive tree branch and a super soldier trained to use the enemy's weight against themself are both examples of this feat in play.
+Im Kampf bist du eine überwältigende Lawine, die Feinde dahinrafft. Die reine Kraft deiner Angriffe ist so groß, dass sie Feinde zurückwirft. Ein Halboger mit einem massiven Baumstamm oder ein Supersoldat, der trainiert ist, das Gewicht seines Gegner für sich zu nutzen, sind gute Beispiele dieser Fertigkeit.
 
 **Effekt**  
-Each time you deal damage using a weapon that has the <em>forceful</em> property, you can choose to push the target five feet away from you.
+Jedes Mal, wenn du mit einer Waffe mit der Eigenschaft <em>Kraftvoll</em> Schaden zufügst, kannst du dich entscheiden, dein Ziel 5' von dir wegzubewegen.
 
 > Tags: Körperlich, Fertigkeitenkette, Kraft
 
-### Potent Bane
+---
+### Hartnäckiger Harm
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Ability to invoke the chosen bane
+- **Rang 1:** Fähigkeit, den gewählten Harm zu wirken
 
 **Beschreibung**  
-You are so adept at a particular form of attack that your foes struggle to shake off the effects. Perhaps the flames of your fireballs burn hotter. Or maybe you've developed a special chemical to mix in with your blinding powder. Whatever the source and whatever the effect, most enemies are incapable of recovering from your legendary attack.
+Du bist so effektiv mit einer bestimmten Art Angiff, dass deine Feinde es schwer haben, ihre Folgen abzuschütteln. Vielleicht brennen die Flammen deines Feuerballs heißer oder du hast eine besondere chemische Mischung für dein Blindpulver entwickelt.
 
 **Effekt**  
-Choose one bane that you can invoke that has a duration of "resist ends". When a target makes a resist roll to shake off your invocation of the chosen bane, they have disadvantage 1.
+Wähle einen Harm aus, den du wirken kannst und der eine Dauer von "Widerstehen beendet" hat. Wenn ein Ziel dieses Harms von dir versucht, diesen mit einem Widerstehenwurf abzuschütteln, hat es Nachteil 1.
 
 **Besonders**  
-You may select this feat multiple times. Each time you take it, choose a different bane.
+Du kannst diese Fertigkeit mehrmals wählen, wobei du jedes Mal einen anderen Harm wählst.
 
 > Tags: Fluch, Kampf
 
-### Reactionary Trance
+---
+### Reaktive Trance[?] / Aufmerksame Trance
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Willenskraft 5
 
 **Beschreibung**  
-Your intense focus never lapses, allowing you to tap into your heightened battle trance at a moment's notice. Examples of this feat in play include a hulking brute who snaps into a rage at the first sign of danger and a trained gunslinger who is always ready for a fight.
+Dein intensiver Fokus lässt sich nicht brechen, sodass du augenblicklich in eine tiefere Trance verfallen kannst. Beispiele dieser Fertigkeit wären ein Berserker, der im ersten Moment der Gefahr in Rage verfällt oder ein allzeit bereiter Revolverheld.
 
 **Effekt**  
-You can enter a battle trance (as per the Battle Trance feat) as a free action even when it is not your turn. You may choose to do so in reaction to another action, such as an enemy's attack, spell, or insult. You may even declare your intent to enter a battle trance after the action has been resolved (such as after the attack has already been rolled). The benefits granted from your battle trance take place before the triggering action is resolved, potentially negating damage or harmful effects that you would have otherwise incurred.
+Du kannst als kostenlose Aktion in Kampftrance verfallen (anhand der Fertigkeit Kampftrance), selbst wenn es nicht dein Zug ist. Du kannst dies als Reaktion auf eine andere Handlung tun, z.B. ein feindlicher Angriff, ein Zauber oder eine Beleidigung. Du kannst dich auch erst nach dem Wurf für die Handlung entscheiden, die Kampftrance zu nutzen. Der Effekt der Trance beginnt sofort und in diesem Fall bevor die Konsequenzen der auslösenden Handlung abgehandelt sind, sodass du potentiell Schaden oder andere schadhafte Effekte verhindern kannst.
 
 > Tags: Kampf, Geistig, Fertigkeitenkette, Willenskraft
 
-### Reckless Attack
+---
+### Rücksichtsloser Angriff
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Fertigkeit: Battle Trance
 
 **Beschreibung**  
-By willingly punishing your own body in the heat of battle, you launch a relentless flurry of attacks that physically drains you but devastates your foes. A super soldier activating a stim pack and a berserker pushing their muscles to the breaking point are examples of this feat in action.
+Indem du deinen Körper willentlich im Kampf überstrapazierst, führst du eine Reihe verheerender Attacken aus. Das Stimpack eines Supersoldaten oder ein Berserker, der seine eigenen Muskeln mit mächtigen Hieben zerreist sind Beispiele dieser Fertigkeit.
 
 **Effekt**  
-While you are in a battle trance, on your turn you may choose to inflict 5 hit points of damage on yourself to make an attack as a minor action. Effects that prevent or reduce damage cannot affect this self-inflicted damage. You suffer the damage before making your extra attack, so you must be able to remain conscious after the damage is dealt in order to benefit from your extra attack.
+Während du in einer Kampftrance bist, kannst du dich entscheiden, dir selbst in deinem Zug 5 TP Schaden zuzufügen, um einen Angriff als kleine Aktion zu machen. Effekte, die Schaden verhindern oder reduzieren können diesen selbstverschuldeten Schaden nicht verändern. Du erleidest den Schaden, bevor du den Extraangriff ausgeführt hast, sodass du nach dem Schaden noch bei Bewusstsein sein musst, um die Attacke ausführen zu können.
 
 > Tags: Kampf
 
+---
 ### Resilient
 **Kosten:** 3 Punkte
 
@@ -1199,14 +1301,15 @@ While you are in a battle trance, on your turn you may choose to inflict 5 hit p
 - **Rang 1:** Konstitution 3 / Präsenz 3 / Willenskraft 3
 
 **Beschreibung**  
-Whether through luck, extraordinary will, or exceptional courage, you are able to shake off banes quicker than others. This feat can fit almost any character concept: a halfling who always has luck shining on him, a sorceress with an aura of protection, a paladin blessed by a deity, or an absent-minded professor who has no time to let disturbances get in the way of study.
+Ob durch Glück, außergewöhnliche Willenskraft oder großen Mut, kannst du Harme schneller abschütteln als andere. Diese Fertigkeit kann gut zu jedem Charakterkonzept passen: ein Halbling dem das Glück gewogen ist, eine Zauberin mit einer Aura des Schutzes oder ein zerstreuter Professor, der keine Zeit für Störungen seiner Studien hat.
 
 **Effekt**  
-Any time you make a resist roll, you have advantage 1 on the roll.
+Du hast Vorteil 1 auf alle Widerstehenwürfe.
 
 > Tags: Geistig, Körperlich, Sozial
 
-### Sentinel (I - III)
+---
+### Wächter (I - III)
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
@@ -1215,14 +1318,15 @@ Any time you make a resist roll, you have advantage 1 on the roll.
 - **Rang 3:** Beweglichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
 
 **Beschreibung**  
-Your heightened awareness on the battlefield means that you are nearly impossible to catch flat-footed and are always prepared to defend yourself or allies. This feat is typified by such character concepts as the bodyguard, the abjurer, and the psychic defender.
+Deine erhöhte Aufmerksamkeit auf dem Schlachtfeld bedeutet, dass es fast unmöglich ist, dich zu überraschen und du immer bereit bist, dich und deine Verbündeten zu verteidigen. Diese Fertigkeit ist verbreitet bei Charakteren wie Bodyguards, Zauberern und psychischen Schutzbefohlenen.
 
 **Effekt**  
-Once per round, after you have expended your next major action to perform a defend action, you get an additional major action that must be spent before the start of your next turn to make another defend action. Multiple tiers of this feat grant additional major actions usable only for defend actions.
+Einmal pro Runde, nachdem du deine große Aktion der nächsten Runde für eine Verteidigungsaktion genutzt hast, erhälst du eine weitere große Aktion, die nur vor dem Beginn deines nächsten Zuges und nur für eine Verteidigungsaktion genutzt werden kann. Höhere Ränge dieser Fertigkeit geben jeweils eine weitere große Aktion, die nur für eine Verteidigungsaktion und nur vor deinem nächsten Zug genutzt werden können.
 
 > Tags: Verteidigung, Körperlich, Außergewöhnlich
 
-### Skill Specialization (I - V)
+---
+### Fähigkeitsspezialisierung (I - V)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -1233,17 +1337,18 @@ Once per round, after you have expended your next major action to perform a defe
 - **Rang 5:** Keine
 
 **Beschreibung**  
-You have the eyes of an eagle, the endurance of an ox, the guile of a fox, or some similarly exceptional non-combat talent. It might come from intense training, prolonged study, or even an inherent natural talent.
+Du hast Adleraugen, Ausdauer wie eine Stier, den Witz eines Fuchses oder eine ähnlich beeindruckende Fähigkeit außerhalb von Kämpfen. Eventuell hast du hart trainiert, lang gelernt oder einfach ein angeborenes Talent.
 
 **Effekt**  
-Choose one attribute. Any time you make a roll using the chosen attribute that is not for initiative, attacks, invocations, or the defend action, you gain advantage 1 on the roll per tier of this feat you possess for that attribute.
+Wähle ein Attribut. Wann immer du einen Wurf mit diesem Attribut auf etwas anderes als Initiative, Angriffe, Wirkungen von Harmen oder Wohlen oder Verteidigungsaktionen machst, erhälst du Vorteil 1 pro Rang dieser Fertigkeit.
 
 **Besonders**  
-In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new attribute each time. Track your feat tier separately for each attribute that you choose for this feat.
+Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit haben kannst, kannst du auch die Fertigkeit selbst mehrmals erwerben, wobei du jedes Mal ein anderes Attribut wählst. Du hast separate Ränge für jedes Attribut, für das du diese Fertigkeit hast.
 
 > Tags: Keine Voraussetzungen
 
-### Superior Concentration (I - III)
+---
+### Erhöhte Konzentration (I - III)
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
@@ -1252,28 +1357,30 @@ In addition to purchasing multiple tiers of this feat, you may take this feat mu
 - **Rang 3:** Keine
 
 **Beschreibung**  
-Your powers of focus are exceptionally honed, allowing you to maintain concentration on multiple extraordinary effects at once. This feat is typical among character concepts built to enhance themselves or their allies, such as bards, platoon leaders, or engineers.
+Dein Fokus ist messerschaft, sodass du dich darauf konzentrieren kannst, mehrere außergewöhnliche Effekte gleichzeitig aufrechtzuerhalten. Diese Fertigkeit ist bei Charakteren verbreitet, die darauf ausgelegt sich, sich und andere zu verstärken, z.B. Barden, Platoonführer oder Ingenieure.
 
 **Effekt**  
-When you take the <em>sustain a boon</em> minor action, you may sustain one additional boon per tier of this feat which you possess.
+Wenn du die kleine Aktion <em>Wohl aufrechterhalten</em> benutzt, kannst du pro Rang dieser Fertigkeit ein weiteres Wohl aufrechterhalten, dass du wirken kannst.
 
 > Tags: Außergewöhnlich
 
-### Swimming
+---
+### Schwimmen
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
 - **Rang 1:** Keine
 
 **Beschreibung**  
-You are made for the water and can swim at surprising speeds with the aptitude of a fish. This might be the result of hard core training, or it may stem from a racial trait, such as webbed feet and hands.
+Du bist für das Wasser geboren und kannst mit der Flinkheit eines Fisches mit großer Geschwindigkeit schwimmen. Der Hintergrund dieser Fertigkeit könnte hartes Training sein oder physiologische Eigenschaften deiner Spezies wie Schwimmhäute.
 
 **Effekt**  
-You gain a swimming speed equal to your base speed and do not need to make any special action rolls to maintain this base speed.
+Du erhälst eine Schwimmgeschwindigkeit gleich deiner normalen Geschwindigkeit und musst keine Aktionswürfe machen um deine Schwimmgeschwindigkeit aufrechtzuerhalten.
 
 > Tags: Nicht-Kampf
 
-### Sworn Enemy (I - IX)
+---
+### Erzfeind[?] (I - IX)
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
@@ -1288,17 +1395,18 @@ You gain a swimming speed equal to your base speed and do not need to make any s
 - **Rang 9:** Keine
 
 **Beschreibung**  
-You are expertly focused on dealing with a particular species, race, or faction. Perhaps your family was slain by werewolves, and you have devoted your life to studying their mannerisms in order to hunt them down. Or maybe you were raised in a prison on the third moon of Vogax Prime, and you know the Vogans better than they know themselves.
+Du bist darauf spezialisiert, gegen eine bestimmte Spezies, Rasse oder Fraktion zu kämpfen. Vielleicht wurde deine Familie von Werwölfen getötet und du hast dich seitdem in all ihren Stärken und Schwächen geschult, um sie zu jagen. Vielleicht wurde in einem Gefängnis auf Vogax Prime aufgezogen und kennst die Vogax daher besser als sie sich selbst.
 
 **Effekt**  
-Choose a species, race, or faction (e.g., dragons, Void Templars, gnolls, or vampires). You learn the primary conversational language of that species, and at the GM's discretion, you may have some level of access to other special forms of communication (such as thieves' cant or secret hand signals). Furthermore, you gain advantage 1 per tier of this feat to all Mental attribute rolls (Learning, Logic, Perception, and Will) pertaining to your chosen group.
+Wähle eine Spezies, Rasse oder Fraktion (z.B. Drachen, Raumtemplare, Gnolls oder Vampire). Du lernst die primäre Umgangssprache der Spezies und nach Abwägung des GM auch andere etwas der anderen besonderen Kommunikationsmittel deiner Feinde (wie z.B. geheime Handsignale oder Diebessprech). Weiterhin hast du pro Rang dieser Fertigkeit Vorteil 1 auf alle mentalen Attributwürfe (Lernen, Logik, Wahrnehmung, Willenskraft), die etwas mit der von dir gewählten Gruppe zu tun hat.
 
 **Besonders**  
-In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new group each time. Your total advantage on Mental attribute rolls is equal to your tier for that particular group. For example, a character might have Sworn Enemy II (Void Templars) and Sworn Enemy IV (Werewolves).
+Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erwerben kannst, kannst du die Fertigkeit selbst auch mehrmals erhalten, wobei du jedes Mal eine neue Gruppe an Feinden wählst. Die Ränge der Fertigkeit für jede Gruppe werden separat behandelt. Beispielsweise könnte ein Charakter Erzfeind II (Raumtemplar) und Erzfeind IV (Werwolf) haben.
 
 > Tags: Nicht-Kampf, Kampf
 
-### Tough as Nails (I - II)
+---
+### Hart wie Eisen[?] (I - II)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -1306,108 +1414,116 @@ In addition to purchasing multiple tiers of this feat, you may take this feat mu
 - **Rang 2:** Konstitution 5
 
 **Beschreibung**  
-You have a remarkable ability to shrug off pain and punishment that would take down lesser heroes. This power might stem from your rocky carapace, extreme combat training, or simply an extra dose of grit that you acquired from a hard life.
+Du hast eine besonders hohe Schmerztoleranz. Diese Fertigkeit könnte von einem Chitinpanzer, extremem Kampftraining oder einfach einer Lederhaut nach jahrelangem Leben auf der Straße kommen. 
 
 **Effekt**  
-You permanently gain 5 extra hit points per tier of this feat you possess.
+Du erhälst pro Rang dieser Fertigkeit permanent 5 extra TP.
 
 > Tags: Verteidigung, Körperlich, Konstitution
 
-### Two Weapon Brute
+---
+### Zweiwaffen Kämpfer[?]
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Beweglichkeit 4
 
 **Beschreibung**  
-Being both physically powerful and incredibly agile, you are able to wield a weapon in one-hand that requires two hands for others. Good examples of this feat in action include an orcish barbarian wielding a great axe and shield and a survivor in the zombie apocalypse wielding two chainsaws.
+Du bist stark als auch schnell und in der Lage, in einer Hand Waffen zu führen, für die andere beide Hände benötigen würden. Gute Beispiele dieser Fertigkeit im Spiel sind orkische Barbaren, die in einer Hand eine Großaxt und in der anderen einen Schild führen oder ein Überlebender in der Zombie-Apokalypse, der zwei Kettensägen führt.
 
 **Effekt**  
-You can wield weapons with the two-handed property in one hand and you gain the benefits of both the two-handed and one-handed property while doing so. This means that you gain a total of advantage 2 when wielding a two-handed weapon in each hand, advantage 1 from the power of a two-handed weapon plus advantage 1 from having one weapon in each hand.
+Du kannst Waffen mit der Eigenschaft <em>zweihändig</em> in einer Hand führen und erhälst die Vorteile sowohl der <em>einhändig</em> als auch <em>zweihändig</em> Eigenschaften. Das bedeutet, dass du insgesamt Vorteil 2 erhälst, wenn du eine zweihändige Waffe in jeder Hand führst, Vorteil 1 von der Kraft zweihändiger Waffen und Vorteil 1 davon, dass du in jeder Hand eine Waffe führst.
 
 > Tags: Kampf, Körperlich, Beweglichkeit, Kraft
 
-### Two Weapon Defense
+---
+### Zweiwaffenverteidigung
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Beweglichkeit 4
 
 **Beschreibung**  
-Your mastery of two weapon fighting allows you not only to come at your foes with a flurry of attacks, but also to shield yourself exceptionally well by deflecting incoming attacks with your weapons. Duelists, rangers, and space pirates are all concepts that could make use of this feat.
+Deine Meisterschaft im Kämpfen mit zwei Waffen erlaubt es dir, Feinde nicht nur mit blitzschnellen Angriffen einzudecken, sondern dich auch exzellent durch das Abwenden von Schlägen zu verteidigen. Duelisten, Waldläufer und Raumpiraten sind Konzepte, zu denen diese Fertigkeit gut passen könnte.
 
 **Effekt**  
-When you wield a weapon you've taken the Attack Specialization feat for in each hand, you gain a +1 armor bonus to your Guard defense.
+Wenn du eine Waffe, für die du die Fertigkeit <em>Angriffsspezialisierung</em> erworben hast, in jeder Hand führst, erhälst du +1 Rüstungsbonus auf deine Deckung.
 
 > Tags: Kampf, Körperlich, Beweglichkeit
 
-### Unending Charm
+---
+### Unsterbliche Bezauberung[?]
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Einfluss 4
 
 **Beschreibung**  
-Whether you are an enchanter, psychic, or mad scientist, you have mastered the art of enthralling others. Your charms are so potent that your victims may fall permanently under your compulsion.
+Ob du ein Verzauberer bist, Psychiker oder verrückter Wissenschaftler, du hast die Kunst andere gefügig zu machen gemeistert. Deine Bezauberungen sind so mächtig, dass deine Opfer ihnen permament verfallen können.
 
 **Effekt**  
-When you invoke the <em>charmed</em> bane, targets who do not make their resist roll within 24 hours of being afflicted become permanently affected by the bane. They do not receive any more resist rolls to shake themselves free of the effect. Other extraordinary effects like a <em>nullify</em> bane can still end the effect (and other methods may work at the GM's discretion).
+Wenn du den Harm <em>Bezaubert</em> wirkst, erleiden Ziele, die ihren Widerstehenwürfe innerhalb von 24 Stunden nicht bestehen, den Harm permanent. Sie erhalten keine weiteren Widerstehenwürfe, um sich von dem Effekt zu befreien. Andere außergewöhnliche Effekte wie z.B. der Harm <em>Annulieren</em> (und weitere passende nach Abwägung des GM) können die permanente Bezauberung weiterhin brechen.
 
 > Tags: Außergewöhnlich, Nicht-Kampf, Einfluss
 
-### Untrackable
+---
+### Spurenlos[?]
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
 - **Rang 1:** Beweglichkeit 3 / Wandlung 3 / Einfluss 3
 
 **Beschreibung**  
-Whether this power manifests itself as vines that grow in your wake, a magical ward against detection, or an illusory veil, the effect is the same: you are protected from being tracked.
+Ob aufgrund von Ranken, die in deinem Pfad wachsen, einem magischen Schutz gegen Aufklärung oder illusorischem Nebel, der Effekt ist der gleiche: Du bist davor geschützt, verfolgt zu werden.
 
 **Effekt**  
-Your travel is veiled by special means that conceal your tracks and any evidence of your passage even after you are far away. It is impossible to follow your tracks except by extraordinary means.
+Deine Spur und jegliche Hinweise auf deine Durchreise werden durch besondere Mittel verschleiert, sodass es unmöglich ist, dich ohne außergewöhnliche Mittel zu verfolgen.
 
 > Tags: Nicht-Kampf, Schutz, Wandlung, Einfluss
 
-### Vicious Strike
+---
+### Brutaler Schlag
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Keine
 
 **Beschreibung**  
-Whether through brute force, lethal precision, or volatile magic, a deadly attack delivered by you is exceptionally vicious. Berserkers, assassins, and superheroes of exceptional combat skill are all good examples of this feat in play.
+Durch pure Stärke, tödliche Präzision oder überkochende Magie, deine Angriffe sind besonders verheerend. Berserker, Assassinen und Superhelden sind Beispiele dieser Fertigkeit in Aktion.
 
 **Effekt**  
-Any time you roll a natural 20 on the d20 for an attack action roll, you get advantage 1 on all subsequent d20 re-rolls granted by dice explosions.
+Wann immer du eine natürlich 20 auf einem d20 für einen Angriffswurf wirfst, erhälst du Vorteil 1 auf alle weiteren d20, die du aufgrund der Würfelexplosionen für diesen Angriff wirfst.
 
 > Tags: Kampf
 
-### Wealthy
+---
+### Wohlhabend
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Keine
 
 **Beschreibung**  
-Whether you were born into nobility, come from old money, are heir to a great treasure, or simply a well-established merchant, you are wealthier than the average adventurer.
+Ob du als Aristokrat geboren wurdest, altes Geld in deiner Familie liegt, du einen großen Schatz geerbt hast oder selbst ein florierendes Geschäft aufgezogen hast, du bist wohlhabender als der durchschnittliche Abenteurer.
 
 **Effekt**  
-Your wealth score is increased by 1.
+Dein Wohlstandswert ist um 1 erhöht.
 
 > Tags: Nicht-Kampf
 
-### Well-Rounded
+---
+### Ausgewogen / Ausbalanciert[?]
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
 - **Rang 1:** Keine
 
 **Beschreibung**  
-You have a versatile education, a wide range of experiences, or just plain old good luck. The result is that you're pretty good at things you're not specialized in.
+Du hast eine breite Erziehung genossen, viele Erfahrungen gemacht oder einfach großes Glück. Das Resultat ist, dass du auch in Dingen, in denen du nicht spezialisiert bist, ziemlich adept bist.
 
 **Effekt**  
-Any time you use an attribute with a score of 2 or less to make an action roll outside of combat that is not a bane or boon invocation, you gain advantage 1 to the roll.
+Wann immer du ein Attribut mit Wert 2 oder weniger für einen Aktionswurf außerhalb des Kampfes nutzt, der nicht zum Wirken eines Harms oder eines Wohls dient, erhälst du Vorteil 1 auf den Wurf.
 
 > Tags: Nicht-Kampf
 
+---

@@ -88,7 +88,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 
 **Besonders** - Das Item hat eine besondere Eigenschaft, deren spezifische Regelauswirkunken vollständig in der Beschreibung dieser Eigenschaft erklärt werden.
 
-**Waffe (Typ)** - Dieses Item ist eine Waffe des angegebenen Typs. Es hat alle Vorzüge und Nachteile dieser Art Waffe und kann diese beim Angreifen nutzen.
+**Waffe (Typ)** - Dieses Item ist jeine Waffe des angegebenen Typs. Es hat alle Vorzüge und Nachteile dieser Art Waffe und kann diese beim Angreifen nutzen.
 #### Ausführliche Itemliste
 ##### Haftstiefel
 **Wohlstandswert:** 2

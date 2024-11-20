@@ -13,7 +13,7 @@ Jetzt, wo du einige deiner Lieblinge im Kopf hast, lass uns deinen Charakter ers
 > 
 >  Falls du Inspiration für deinen Charakter oder einen einfachen Punkt zum Starten brauchst, kannst du diese vorerstellten Charaktere durchsehen, die unten verlinkt sind. Falls du einen Charakter findest, den du gerne benutzen würdest, kopiere einfach die Tabellendatei und verändere sie so, wie es dir richtig scheint. Die Tabellen schließen Gleichungen ein, die die meisten Berechnungen für dich übernehmen. Du kannst auch das **Level**-Feld anpassen, um die korrekte Anzahl an Fertigkeiten- und Attributpunkte generieren zu lassen, falls du einen Charakter über Level 1 erstellst.
 > 
-> [Bereitgestellte Charaktere durchsehen](https://drive.google.com/drive/folders/0Bx_UrXHMi3wmUlJjbDZiaGtIX00?resourcekey=0-xjZXrB5pSASVlYDvxvQR9A&usp=sharing) [TODO]
+> [Bereitgestellte Charaktere durchsehen](https://drive.google.com/drive/folders/0Bx_UrXHMi3wmUlJjbDZiaGtIX00?resourcekey=0-xjZXrB5pSASVlYDvxvQR9A&usp=sharing)
 ## Schritt 1: Beschreibe deinen Charakter
 Open Legend ist ein Rollenspiel, was bedeutet, dass dein Charakter mehr Tiefe benötigt, als nur eine Sammlung von Attributen, Fähigkeiten, Charakterstärken und Ausrüstung. Um deinen Charakter zum Leben erwachen zu lassen, gib ihm einige der folgenden Details. Falls dir noch nichts einfällt, versuche, die Lücken während der ersten paar Spielsitzungen auszufüllen, während du deinen Charakter besser kennenlernst.
 
@@ -211,7 +211,7 @@ Im Kampf sind Kampfmagier die Ein-Mann-Front. Ihre schwere Rüstung lässt sie g
 
 **Attribute:** Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Kraft 4 (1d10), Präsenz 3 (1d8), Energie 5 (2d6)<br>**Trefferpunkte:** 22<br>**Deckung:** 20 (21 mit Schild - Beweglichkeit 2, Kraft 4, Plattenpanzer 3 Fertigkeit 1)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 25'
 
-**Fertigkeiten:** Multi-Ziel Attackenspezialisierung II (Bereich), Rüstungstraining[?] I
+**Fertigkeiten:** Multi-Ziel Angriffsspezialisierung II (Bereich), Rüstungstraining[?] I
 
 **Wichtige Ausrüstung:** Plattenpanzer, kleiner Schild, Langschwert, Speer, Kriegshammer
 #### Bevorzugte Aktionen
@@ -295,141 +295,68 @@ Aufgrund ihrer engen Verbindung zur Natur neigen Druiden dazu, ihre Umgebung zum
 > [!danger]
 > INPOINT
 ### Ingenieur
-Engineers are infused with the spark of creation, and can comprehend the inner workings of extremely complex systems. While Engineers are
-typically dextrous and tough as nails, their real power lies in the
-cogwheel gadgets they whip up with ease from spare parts and salvaged goods. These hissing steam gizmos and mechanical implements ensure that the Engineer is prepared for any situation.
+Ingenieure haben einen Funken Schöpfung in sich und können die Funktionsweise extrem komplexer Systeme durchschauen. Auch wenn Ingenieure selbst typischerweise flink sind und eine Lederhaut haben, liegt ihre wahre Stärke in den cleveren Maschinen, die sie aus Schrott und Ersatzteilen zusammenbauen. Diese zischenden Dampfgestalten und mechanische Werkzeuge stellen sicher, dass der Ingenieur für jede Situation gewappnet ist.
 #### Strategie
-In non-combat situations, the Engineer's prowess comes from the
-versatility of their creations. Given enough time, they can use the
-_craft extraordinary item_ feat to prepare for a wide variety of
-situations. Whether they are building a 100' ladder that can collapse to
-the size of a backpack, a remote controlled scout bot, or a wearable
-automated wound closing device, the Engineer can always find a way to
-put their creative skills to provide the party with utility and
-flexibility.
+Wenn sie nicht im Kampf sind, verlassen Ingenieure sich auf ihre cleveren Erfindungen. Mit genug Zeit können sie *Außergewöhnliches Item Erschaffen* nutzen, um sich auf eine Reihe verschiedener Situationen vorzubereiten. Ob sie eine 100' lange Leiter basteln, die sich auf die Größe eines Rucksacks zusammenfalten lässt, einen ferngesteuerten Spähroboter oder einen tragbaren Wundversorger, ein Ingenieur kann immer einen Weg finden, seine Kreativität mit flexiblen Lösungen und praktischen Gegenständen zum Wohl der Gruppe anzuwenden.
 
-In combat, Engineers adjust their strategy to the problem at hand to
-support their companions. The _Verstärken_ boon can represent anything from
-a pair of spring loaded boots to a guided targeting helmet. When enemies
-are overwhelming, the Engineer uses _Kreatur beschwören_ to activate one or
-more of their combat bots. And if their fancy creations and jury-rigged
-gizmos aren't doing the job, the Engineer is no slouch with a trusty old
-hand cannon.
+Im Kampf richten sich Ingenieure nach der momentanen Situation, um ihre Verbündeten zu unterstützen. Das Wohl *Verstärken* kann alles mögliche darstellen, von einem Paar Springstiefel zu einem zielsuchenden Helm. Wenn die Feinde übermächtig scheinen, kann der Ingenieur mit *Kreatur Beschwören* einen oder mehrere Kampfbots aktivieren. Sollten die Erfindungen und Roboter des Ingenieurs mal nicht ausreichen, so ist er selbst auch im Gebrauch seiner guten alten Handkanone geübt.
 
-**Attribute:** Beweglichkeit 3 (1d8), Konstitution 3 (1d8), Lernen 3 (1d8), Logik 3 (1d8), Wahrnehmung 1 (1d4), Schöpfung 5 (2d6)<br>**Trefferpunkte:** 16<br>**Deckung:** 15 (Beweglichkeit 3, Kevlarwest 2)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 10<br>**Geschwindigkeit:** 30'
+**Attribute:** Beweglichkeit 3 (1d8), Konstitution 3 (1d8), Lernen 3 (1d8), Logik 3 (1d8), Wahrnehmung 1 (1d4), Schöpfung 5 (2d6)<br>**Trefferpunkte:** 16<br>**Deckung:** 15 (Beweglichkeit 3, Kevlarweste 2)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 10<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Segenfokus I (Kreatur beschwören), Außergewöhnliches Item erschaffen I
+**Fertigkeiten:** Segenfokus I (Kreatur Beschwören), Außergewöhnliches Item Erschaffen I
 
 **Wichtige Ausrüstung:** Handkanone (Revolver), Kevlarweste, 2
 Granaten, Ingenieurswerkzeuge
 #### Bevorzugte Aktionen
-_**Handkanone**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Granate**_ (Angriff mit Schaden, 10' Würfel): Beweglichkeit vs. Deckung<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Verstärkung!**_ (_Kreatur beschwören_ wirken): Auto-Erfolg auf KL 5 durch _Segenfokus_<br>_**Gadgets & Gizmos**_ (_Verstärken_ wirken): Schöpfung vs. 16 (KL 3)<br>_**DIY-Wunder**_ (_genesis_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)<br>_**Wunde ausbrennen**_ (_Heilen_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)
+_**Handkanone**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Granate**_ (Angriff mit Schaden, 10' Würfel): Beweglichkeit vs. Deckung<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Verstärkung!**_ (_Kreatur Beschwören_ wirken): Auto-Erfolg auf KL 5 durch _Segenfokus_<br>_**Gadgets & Gizmos**_ (_Verstärken_ wirken): Schöpfung vs. 16 (KL 3)<br>_**DIY-Wunder**_ (_Genesis_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)<br>_**Wunde ausbrennen**_ (_Heilen_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)
 ### Revolverheld
-Some are lawmen who serve as judge, jury, and executioner. Others are
-bounty hunters trying to earn enough cash to pay off an old debt. Still
-others are mercenaries who shoot for the highest bidder. Whatever their
-motivation, all Gunslingers invoke fear from any fool unfortunate enough
-to end up on the wrong end of their barrel.
+Manch einer ist Richter und Exekutor zugleich. Andere sind Kopfgeldjäger, die eine alte Schuld begleichen müssen. Wieder andere sind Söldner, die nur für den Höchstbietenden ihr Eisen ziehen. Egal, woher ihre Motivation kommt, alle Revolverhelden bringen diejenigen zum Bangen, die am falschen Ende ihrer Colts landen.
 #### Strategie
-Gunslingers do more than just hurl lead. Their prowess in ranged combat
-is fueled by entropic energy gained from otherworldly powers, either
-purchased through diabolical pacts or earned through prowess of mind and
-spirit. Out of combat, Gunslingers are perceptive and intimidating, and
-they can overawe lesser folk with ease. While many Gunslingers are
-loners bent solely on achieving their mission, those who step up to the
-occasion make excellent leaders to pull a ragtag posse together into a
-cohesive unit.
+Revolverhelden tun mehr, als nur um sich zu schießen. Ihre Expertise im Fernkampf wird durch Energie des Vergehens gespeist, die sie von außerweltlichen Mächten, einem Pakt mit dem Teufel oder durch die Verschmelzung von Geist und Seele erlangt haben. Außerhalb des Kampfes sind Revolverhelden aufmerksam und einschüchternd, sodass sie einfache Leute mühelos gefügig machen. Die meisten Revolverhelden sind Einzelgänger, die sich allein ihrer Mission verschrieben haben, doch manch andere zeigen sich als gekonnte Anführer, die eine Bande Einzelkämpfer in eine effektive Einheit verwandeln können.
 
-When a fight breaks out, Gunslingers keep their distance and use their
-dual revolvers to rain hell down upon their foes. When damage alone isn't
-getting the job done, Gunslingers can aim their shots to hinder enemies
-in all manner of ways: shooting their weapons out of their hands,
-knocking the wind out of them, or blowing off a toe. The _multi-attack specialist_
-feat allows them to shoot twice as fast as a lesser gunfighter, enabling them to
-take on large groups of foes single-handedly. Supplementing their marksmanship
-with dark powers, they invoke banes and boons with Vergehen. Favorites include
-invoking _Lebensraub_ to heal a little bit with every shot and afflicting enemies
-with the _Erkrankt_ bane to render their attacks nearly useless. When foes close
-in, a Gunslinger doesn't hesitate to use Vergehen to create a defensive _aura_ or
-scare enemies away with _Furcht_.
+Beginnt ein Gefecht, so bleibt der Revolverheld auf Distanz und benutzt seine beiden Revolver, um Feinde mit Blei zu durchlöchern. Wenn Schaden allein nicht genug ist, kann der Revolverheld bestimmte Ziele anvisieren, um die Gegner zu hindern: Waffen aus der Hand schießen, jemand mit einem Schuss den Atem nehmen oder Zehen abtrennen. Die Fertigkeit *Multiangriffsspezialisierung* erlaubt es ihm, doppelt so schnell zu schießen als ein anderer Schütze, sodass er große Gruppen Feinde ihm Alleingang niedermähen kann. Um seine Schießkunst zu ergänzen, nutzt der Revolverheld *Vergehen*, um Harme und Wohle zu wirken. Häufig ist es der Harm *Lebensraub*, um mit jedem Schuss etwas der genommenen Vitalität selbst zu erlangen, oder *Erkrankt*, um die Angriffe seiner Feinde nutzlos zu machen. Kommen Gegner näher, kann der Revolverheld das eine defensive *Aura* erzeugen oder Gegner mit *Furcht* belegen.
 
-**Attribute:** Beweglichkeit 5 (2d6), Wahrnehmung 3 (1d8), Willenskraft 2 (1d6), Präsenz 3 (1d8), Vergehen 4 (1d10)<br>**Trefferpunkte:** 20<br>**Deckung:** 17 (Beweglichkeit 5, Heavy Trench Coat 2)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 16<br>**Geschwindigkeit:** 30'
+**Attribute:** Beweglichkeit 5 (2d6), Wahrnehmung 3 (1d8), Willenskraft 2 (1d6), Präsenz 3 (1d8), Vergehen 4 (1d10)<br>**Trefferpunkte:** 20<br>**Deckung:** 17 (Beweglichkeit 5, Schwerer Trenchcoat 2)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 16<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Multi-Attack Specialist II
+**Fertigkeiten:** Multiangriffsspezialisierung II
 
 **Wichtige Ausrüstung:** Schwerer Trenchcoat (als Kevlarweste gewertet), 2 Revolver, Gewehr
 #### Bevorzugte Aktionen
 _**Zwei-Knarren-Ansturm**_ (Fokusaktion, Angriff mit Schaden, 2 Angriffe): Beweglichkeit vs. Deckung<br>_**Den Spahn schlagen**_ (Fokusaktion, Angriff mit Schaden, 3 Angriffe): Beweglichkeit vs. Deckung, Nachteil 3<br>_**Kopfgeld verfluchen**_ (_Betäubt_ zufügen): Vergehen vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung. Vorteil 1<br>_**Handschuss**_ (_Entwaffnet_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Gewehr**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Dunkelknallschuss**_ (_Erkrankt_ zufügen): Vergehen vs. Zähigkeit<br>_**Missgünstiger Schatten[?]**_ (5' _Aura: Anhaltender Schaden_ wirken): Vergehen vs. 18 (KL 4)<br>_**Seelenriss**_ (_Lebensraub_ zufügen): Vergehen vs. 20 (KL 5)<br>_**Gnadenloser Blick**_ (_Furcht_ zufügen): Vergehen vs. Entschlossenheit
 ### Hacker
-Knowledge is power, as the saying goes, and the Hacker is a testament to
-the fact that nearly anyone can be taken down with the right
-information. Some Hackers are mercenaries that work for the highest
-bidder, primarily in the game for the adrenaline rush and the thrill of
-controlling massive amounts of data and the fates of those who depend on
-it. Others rally behind a larger cause with intent of changing the world
-for better or worse.
+Wissen ist Macht, wie das Sprichtwort verkündet. Der Hacker ist der Beweis, dass so gut wie jeder mit der richtigen Information zu Fall gebracht werden kann. Manche Hacker sind Söldner, die für den höchsten Lohn arbeiten und den Thrill lieben, riesige Mengen an Daten zu kontrollieren, von denen Leben abhängen. Andere verschreiben sich einem höheren Ziel, um die Welt zum Besseren oder Schlechteren zu wenden.
 #### Strategie
-The Hacker is a master of data and information. Above all, they seek to
-gather information and harness its power. Hackers use information to
-piece together secrets and data which others assume is secured beyond
-access. Out of combat, the Hacker uses banes and boons such as _seeing_
-via their drone and _Weitsicht_ or _Voraussicht_ to track information or
-persons of interest through databases, servers, surveillance cameras,
-credit card records, and and other sources of poorly secured or encrypted data.
-If deception is called for, Hackers tap into the almost omni-present streams
-of data of systems distributed throughout the world to fabricate video feeds,
-holograms, or audio transmissions using the _Phantasmus_ bane.
+Der Hacker ist ein Meister von Daten und Information und sucht, ihre Macht zu nutzen. Hacker stückeln aus Infofetzen Geheimnisse und Daten zusammen, die andere für verschlüsselt halten. Außerhalb des Kampfes nutzt der Hacker Harme und Wohle wie *Treusicht* um durch seine Drohne zu sehen und *Weitsicht* oder *Voraussicht*, um Informationen und Personen durch Datenbanken, Server, Sicherheitskameras, Kreditkarteneinträge und andere schlecht gesicherte Datenströme zu verfolgen. Falls Täuschung gebraucht wird, nutzt der Hacker die fast allgegenwärtigen Streams um mit dem Harm *Phantom* Videos, Hologramme und Audiosignale zu fabrizieren.
 
-When combat breaks out, Hackers tend to avoid the front lines, relying
-on their drones to do the fighting for them. From a secure vantage
-point, the Hacker pilots the multi-purpose drone using a tablet or
-similar device, using its mounted laser cannon to hold enemies back. In
-addition to drone combat, Hackers also assist allies with the _Verstärken_
-boon through illicit data and hacking nearby systems to gain an edge.
+Wenn ein Kampf ausbricht, meidet ein Hacker die Front und lässt seine Drohnen für sich kämpfen. Von einem sicheren Punkt aus steuert der Hacker sie mit einem Tablet oder ähnlichem Gerät und lässt ihre Laserwaffe Feinde zurückhalten. Neben dem Kampf mit der Drohne nutzen Hacker auch das Wohl *Verstärken*, um ihren Verbündeten zu helfen, indem sie ihnen Informationen zur Verfügung stellen oder lokale Systeme übernehmen.
 
 **Attribute:** Logik 4 (1d10), Willenskraft 3 (1d8), Wahrnehmung 2 (1d6), Einfluss 3 (1d8), Vorwissen 5 (2d6)<br>**Trefferpunkte:** 16<br>**Deckung:** 10<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Companion I (Drone), Fluchfokus (Spying), Untrackable
+**Fertigkeiten:** Gefährte I (Drohne), Harmfokus (Fernsicht), Spurenlos
 
-**Wichtige Ausrüstung:** Tablet, Laptop, VR Goggles
+**Wichtige Ausrüstung:** Tablet, Laptop, VR-Brille
 #### Bevorzugte Aktionen
-_**Dark Web Recherche**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Algorithmische Voraussage**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Multivalente Sensorenaufnahme**_ (_Wahrsicht_ wirken): Vorwissen vs. 20 (KL 5)<br>_**IoT Zombie Network**_ (_Weitsicht_ zufügen): Vorwissen vs. Entschlossenheit, Vorteil 2<br>_**Hologrammprojektion**_ (_Phantasmus_ zufügen): Einfluss vs. Entschlossenheit<br>_**Neuronen neulegen**_ (_Bezaubert_ zufügen): Einfluss vs. Entschlossenheit
-#### Drone Companion
+_**Dark Web Recherche**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Algorithmische Voraussage**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Multivalente Sensorenaufnahme**_ (_Wahrsicht_ wirken): Vorwissen vs. 20 (KL 5)<br>_**IoT Zombienetzwerk**_ (_Weitsicht_ zufügen): Vorwissen vs. Entschlossenheit, Vorteil 2<br>_**Hologrammprojektion**_ (_Phantasmus_ zufügen): Einfluss vs. Entschlossenheit<br>_**Neuronen neulegen**_ (_Bezaubert_ zufügen): Einfluss vs. Entschlossenheit
+#### Drohnengefährte
 **Attribute:** Beweglichkeit 3 (1d8), Konstitution 1 (1d4), Logik 1 (1d4), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Energie 4 (1d10)<br>**Trefferpunkte:** 16<br>**Deckung:** 13 (Beweglichkeit 3)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
 
 **Fertigkeiten:** keine
 #### Bevorzugte Aktionen
 _**Laser**_ (Angriff mit Schaden): Energie vs. Deckung<br>_**Betäubungsstrahl**_ (_Immobilisiert_ zufügen): Energie vs. Zähigkeit
 ### Mystiker
-Mystics are typically found far removed from the hustle and bustle
-of the city and detached from the advances of the society they left behind.
-They prefer to listen to the still quiet voice
-within, eschewing all material possessions and living as ascetics
-attempting to purge themselves of all self-centered ambition.
+Mystiker finden sich meist abseits des Trubels der Stadt, wo sie die Fortschritte der Gesellschaft hinter sich gelassen haben. Sie ziehen es vor, der leisen Stimme im Inneren zu lauschen, wobei sie materiellen Besitz ablehnen und ein asketisches Leben auf der Suche danach führen, allen selbstzentrierten Gedanken zu entsagen. 
 #### Strategie
-Out of combat, Mystics command a vast array of capabilities that make
-them excellent information gatherers, detectives, and supernaturally
-empowered forensic analysts. They are able to predict future danger via
-the _Voraussicht_ boon, discover all manner of information by divining
-an item's past with the _Wahrsagung_[?] boon, utilize the _Weitsicht_ bane to
-track enemy movements from far away, and communicate with any creature
-via the _Telepathie_ boon.
+Außerhalb des Kampfes führen Mystiker eine breite Auswahl an Fähigkeiten, die sie zu guten Informationssammlern, Detektiven, und übernatürlichen forensischen Analytikern machen. Sie sind in der Lage, zukünftige Gefahr mit dem Wohl *Voraussicht* kommen zu sehen, allerlei Informationen mit *Lesung* aus der Vergangenheit eines Items zu ziehen, mit *Weitsicht* gegnerische Bewegungen aus der Ferne zu beobachten und mit jeglicher Kreatur durch *Telepathie* zu kommunizieren.
 
-Mystics who have allied with a larger group typically utilize their
-powers purely for defense and protection of others, invoking _Verstärken_
-to impart psychic insight to allies, _Gedankenraub_ to steal enemy
-secrets, and using Schutz to perform defend actions with the help of
-the _Defensive Reflexe_ feat. Mystics are also adept at shutting down
-enemy boons via _Annulieren_, as well as canceling banes afflicting allies
-via the _Medikus_ feat.
+Mystiker, die sich einer größeren Gruppe angeschlossen haben, nutzen ihre Kräfte meist zu Verteidigung anderer, z.B. indem sie *Verstärken* nutzen, um Freunden psychische Kenntnisse zu geben, *Gedankenraub*, um Feinden ihre Geheimnisse zu entziehen und indem sie Schutz und die Fertigkeit *Defensive Reflexe* nutzen, um Verteidigungsaktionen auszuführen. Mystiker sind auch gewandt darin, die Pläne von Feinden mit *Annullieren* zu durchkreuzen und Harme auf Verbündeten mit der Fertigkeit *Medikus* zu behandeln.
 
 **Attribute:** Beweglichkeit 3 (1d8), Willenskraft 3 (1d8), Schöpfung 2 (1d6), Vorwissen 5 (2d6), Schutz 4 (1d10)<br>**Trefferpunkte:** 16<br>**Deckung:** 13<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Heightened Invocation I, Defensive Reflexe I, Medikus
+**Fertigkeiten:** Verstärkte Wirkung I, Defensive Reflexe I, Medikus
 
 **Wichtige Ausrüstung:** Stab, Robe
 #### Bevorzugte Aktionen
-_**Den Pfad vorhersehen**_ (Verteidigungsaktion): Schutz vs. Angriffswurf des Ziels, Vorteil 1<br>_**Freimachen**_ (Besondere Aktion): Fertigkeit _Medikus_ einsetzen, um einem Verbündeten einen Widerstehenwurf zu geben<br>_**Geteilte Einsicht**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Sicht aus der Ferne**_ (_Weitsicht_ zufügen): Vorwissen vs. Entschlossenheit<br>_**Gedankenbrücke**_ (_Telepathie_ wirken): Vorwissen vs. 16 - 20 (KL 3 - 5)<br>_**Kraftraub**_ (_Annulieren_ zufügen): Schutz vs. Entschlossenheit<br>_**Gedanken lesen**_ (_Gedankenraub_ zufügen): Vorwissen vs. Entschlossenheit<br>_**Blick in die Vergangenheit**_ (_Wahrsagung_[?] wirken): Vorwissen vs. 20 (KL 5)<br>_**Blick in die Zukunft**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Verjüngung**_ (_Heilen_ wirken): Schöpfung vs. 12 - 14 (KL 1 - 2)
+_**Den Pfad vorhersehen**_ (Verteidigungsaktion): Schutz vs. Angriffswurf des Ziels, Vorteil 1<br>_**Freimachen**_ (Besondere Aktion): Fertigkeit _Medikus_ einsetzen, um einem Verbündeten einen Widerstehenwurf zu geben<br>_**Geteilte Einsicht**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Sicht aus der Ferne**_ (_Weitsicht_ zufügen): Vorwissen vs. Entschlossenheit<br>_**Gedankenbrücke**_ (_Telepathie_ wirken): Vorwissen vs. 16 - 20 (KL 3 - 5)<br>_**Kraftraub**_ (_Annulieren_ zufügen): Schutz vs. Entschlossenheit<br>_**Gedanken lesen**_ (_Gedankenraub_ zufügen): Vorwissen vs. Entschlossenheit<br>_**Blick in die Vergangenheit**_ (_Lesung_ wirken): Vorwissen vs. 20 (KL 5)<br>_**Blick in die Zukunft**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Verjüngung**_ (_Heilen_ wirken): Schöpfung vs. 12 - 14 (KL 1 - 2)
 ### Ningyozukai
 The Ningyozukai, or Puppeteers, are sorcerers capable of channeling
 their spirits to possess enchanted suits of Yoroi armor, transforming the
