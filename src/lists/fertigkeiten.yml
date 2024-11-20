@@ -120,11 +120,11 @@
   prerequisites:
     tier1:
       Feat:
-      - Defensive Reflexes II
+      - Defensive Reflexe II
   OGprerequisites:
     tier1:
       Feat:
-      - Defensive Reflexes II
+      - Defensive Reflexe II
   tags:
   - Außergewöhnlich
   OGtags:
@@ -448,7 +448,7 @@
         - Kraft: 5
         - Beliebiges Außergewöhnliches: 5
       Feat:
-      - Kontermeister [???]
+      - Schlachtvergeltung
   OGprerequisites:
     tier1:
       any:
@@ -473,9 +473,9 @@
   description: |
     Du kannst mit einem Konter nicht nur Schaden zufügen, sondern Feinde auch mit einem spezifischen Sekundäreffekt belegen. Vielleicht bist du ein Paladin, der Feinde mit seinem Konter zu Boden wirft, ein Ninja der bei der Parade Sand in die Augen des Gegners streut oder ein Telekinetist, der seine Feinde von sich schleudert.
   effect: |
-    Wähle einen Harm, den du zufügen kannst. Wann immer du eine Verteidigungsaktion mit einem Attribut nutzt, das den gewählten Harm wirken könnte und mit der Fertigkeit Kontermeister dem Gegner 10 oder mehr Schaden zufügst, kannst du den Harm automatisch auf den Gegner wirken.
+    Wähle einen Harm, den du zufügen kannst. Wann immer du eine Verteidigungsaktion mit einem Attribut nutzt, das den gewählten Harm wirken könnte und mit der Fertigkeit Schlachtvergeltung dem Gegner 10 oder mehr Schaden zufügst, kannst du den Harm automatisch auf den Gegner wirken.
 - !
-  name: Schlachtfeldrache[?] / Konterrache / Kontermeister
+  name: Schlachtvergeltung
   OGname: Battlefield Retribution
   prerequisites:
     tier1:
@@ -1303,7 +1303,7 @@
   effect: |
     Wenn du das Wohl <em>Heilung</em> wirkst, kannst du dich entscheiden, eine Stunde Zeit statt der normalen Wirkzeit aufzuwenden. Falls du das tust, heilst du genauso viel tödlichen Schaden, wie die normale TP-Heilung der Wirkung ergeben hat. Der tödliche Schaden wird zusätzlich zu den TP des Ziels geheilt.
 - !
-  name: Schnelles Ziehen[?] / Blitzfinger[?]
+  name: Blitzfinger[?] / Schneller als dein Schatten[?]
   OGname: Fast Draw
   prerequisites:
     tier1:
@@ -1791,7 +1791,7 @@
   effect: |
     Du kannst die Auswirkungen des Harms <em>Erschöpft</em> abschütteln. Für jeden Rang in dieser Fertigkeit kannst du dein Level an Erschöpfung als eins weniger behandeln, als es eigentlich ist, um die Effekte des Harms zu bestimmen.
 - !
-  name: Stählerner Wille[?] (I - III)
+  name: Stählerner Wille (I - III)
   OGname: Indomitable Resolve (I - III)
   prerequisites:
     tier1:
@@ -1840,7 +1840,7 @@
   effect: |
     Für jeden Rang in dieser Fertigkeit ist deine Entschlossenheit um eins erhöht.
 - !
-  name: Inspirierender Paragon[?] (I - III)
+  name: Inspirierender Paragon[?] / Paragon[?] (I - III)
   OGname: Inspiring Champion (I - III)
   prerequisites:
     tier1:
@@ -2789,7 +2789,7 @@
   effect: |
     Du erhälst eine Schwimmgeschwindigkeit gleich deiner normalen Geschwindigkeit und musst keine Aktionswürfe machen um deine Schwimmgeschwindigkeit aufrechtzuerhalten.
 - !
-  name: Erzfeind[?] (I - IX)
+  name: Erzfeind (I - IX)
   OGname: Sworn Enemy (I - IX)
   prerequisites:
     tier1:
@@ -2933,7 +2933,7 @@
       Attribute:
       - Beweglichkeit: 4
       Feat:
-      - Attack Specialization
+      - Angriffsspezialisierung
   OGprerequisites:
     tier1:
       Attribute:
@@ -2980,7 +2980,7 @@
   effect: |
     Wenn du den Harm <em>Bezaubert</em> wirkst, erleiden Ziele, die ihren Widerstehenwürfe innerhalb von 24 Stunden nicht bestehen, den Harm permanent. Sie erhalten keine weiteren Widerstehenwürfe, um sich von dem Effekt zu befreien. Andere außergewöhnliche Effekte wie z.B. der Harm <em>Annulieren</em> (und weitere passende nach Abwägung des GM) können die permanente Bezauberung weiterhin brechen.
 - !
-  name: Spurenlos[?]
+  name: Spurenlos
   OGname: Untrackable
   prerequisites:
     tier1:
