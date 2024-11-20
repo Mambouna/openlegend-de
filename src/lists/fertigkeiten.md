@@ -69,7 +69,7 @@ Dein Training lässt dich in deiner Rüstung schlafen, ohne dass du danach ein L
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Fertigkeit: Defensive Reflexes II
+- **Rang 1:** Fertigkeit: Defensive Reflexe II
 
 **Beschreibung**  
 Du bist darin gekonnt, die Angriffe deiner Feinde umzuleiten. Ob durch elegante Beinarbeit, Magie oder taktische Überlegenheit, weist du feindliche Attacken auf ungewollte Ziele umzuleiten.
@@ -201,12 +201,12 @@ Du kannst eine zusätzliche Gelegenheitsattacke pro Rang dieser Fertigkeit, die 
 Du kannst mit einem Konter nicht nur Schaden zufügen, sondern Feinde auch mit einem spezifischen Sekundäreffekt belegen. Vielleicht bist du ein Paladin, der Feinde mit seinem Konter zu Boden wirft, ein Ninja der bei der Parade Sand in die Augen des Gegners streut oder ein Telekinetist, der seine Feinde von sich schleudert.
 
 **Effekt**  
-Wähle einen Harm, den du zufügen kannst. Wann immer du eine Verteidigungsaktion mit einem Attribut nutzt, das den gewählten Harm wirken könnte und mit der Fertigkeit Kontermeister dem Gegner 10 oder mehr Schaden zufügst, kannst du den Harm automatisch auf den Gegner wirken.
+Wähle einen Harm, den du zufügen kannst. Wann immer du eine Verteidigungsaktion mit einem Attribut nutzt, das den gewählten Harm wirken könnte und mit der Fertigkeit Schlachtvergeltung dem Gegner 10 oder mehr Schaden zufügst, kannst du den Harm automatisch auf den Gegner wirken.
 
 > Tags: Kraft, Passiv, Kampf, Fertigkeitenkette
 
 ---
-### Schlachtfeldrache[?] / Konterrache / Kontermeister
+### Schlachtvergeltung
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -663,7 +663,7 @@ Wenn du das Wohl <em>Heilung</em> wirkst, kannst du dich entscheiden, eine Stund
 > Tags: Außergewöhnlich, Schöpfung
 
 ---
-### Schnelles Ziehen[?] / Blitzfinger[?]
+### Blitzfinger[?] / Schneller als dein Schatten[?]
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
@@ -889,7 +889,7 @@ Du kannst die Auswirkungen des Harms <em>Erschöpft</em> abschütteln. Für jede
 > Tags: Körperlich
 
 ---
-### Stählerner Wille[?] (I - III)
+### Stählerner Wille (I - III)
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
@@ -906,7 +906,7 @@ Für jeden Rang in dieser Fertigkeit ist deine Entschlossenheit um eins erhöht.
 > Tags: Kampf, Präsenz, Willenskraft
 
 ---
-### Inspirierender Paragon[?] (I - III)
+### Inspirierender Paragon[?] / Paragon[?] (I - III)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -1380,7 +1380,7 @@ Du erhälst eine Schwimmgeschwindigkeit gleich deiner normalen Geschwindigkeit u
 > Tags: Nicht-Kampf
 
 ---
-### Erzfeind[?] (I - IX)
+### Erzfeind (I - IX)
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
@@ -1467,7 +1467,7 @@ Wenn du den Harm <em>Bezaubert</em> wirkst, erleiden Ziele, die ihren Widerstehe
 > Tags: Außergewöhnlich, Nicht-Kampf, Einfluss
 
 ---
-### Spurenlos[?]
+### Spurenlos
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
