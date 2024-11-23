@@ -297,7 +297,7 @@ Einmal pro Runde kannst du dich als Teil deiner Verteidigen-Aktion bis zur Hälf
 #### Improvisieren
 Du kannst eine Unterbrechungsaktion auch benutzen, um eine improvisierte Reaktion auf eine Situation im Kampf zu machen. Falls eine Verbündete zum Beispiel von einer Klippe fällt, kannst du eine Unterbrechungsaktion nutzen, um das Wohl *Fliegen* zu wirken um sie zu retten oder ihr hinterherzuspringen und gerade noch ihre Hand zu greifen. Improvisierte Unterbrechungsaktionen sollten normalerweise nicht-offensive Handlungen sein, die Verbündeten helfen. Sie sollten die Geschichte unterstützen, sodass ein GM entscheiden kann, eine Improvisation, die nicht zur Handlung passt, nicht zuzulassen.
 ### Kostenlose Aktionen
-Falls eine Fertigkeit, eine Charakterstärke, ein Segen oder eine andere Quelle dir kostenlose Aktionen gibt, werden diese genutzt, ohne dein normales Repertoire aus Aktionen pro Zug zu verringern.
+Falls eine Fertigkeit, eine Charakterstärke, ein Wohl oder eine andere Quelle dir kostenlose Aktionen gibt, werden diese genutzt, ohne dein normales Repertoire aus Aktionen pro Zug zu verringern.
 ## Schaden und Heilung
 Deine Trefferpunkte (TP) sind eine abstrakte Repräsentation deiner Fähigkeit, Schmerzen zu ignorieren, tödlichen Angriffen zu entgehen und deine Präsenz auf dem Schlachtfeld trotz Wunden und Erschöpfung aufrechtzuerhalten. Wann immer du Schaden erleidest, werden deine TP reduziert und wann immer du geheilt wirst, werden sie erhöht.
 ### Gnadenstöße[?]/Todesstöße/letzter Schlag
@@ -348,7 +348,7 @@ Manche GMs mögen dieses Maß an Anspruch eventuell, sodass **sie die Kernmechan
 		<td>der GM und Spieler wählen beide jeweils 1:
 			<ul>
 				<li>Füge 3 Schaden zu</li>
-				<li>Wirke einen Fluch von Kraftlevel &lt;= 3</li>
+				<li>Wirke einen Harm von Kraftlevel &lt;= 3</li>
 				<li>10' bewegen ohne Gelegenheitsattacken</li>
 			</ul>
 		</td>
@@ -360,7 +360,7 @@ Mit dieser modifizierten Regel bedeutet eine fehlgeschlagene Attacke zwar, dass 
 > ### Beispiel modifizierter Kernmechanik im Kampf
 > Vera wirft sich auf den roten Drachen und versucht, seinen Schuppenpanzer zu durchstoßen. Ihr Angriffswurf verfehlt die 25 Deckung des Drachen. Vera entscheidet sich, 3 Schaden zuzufügen, doch auch der GM kann wählen.
 > 
-> Er entscheidet sich, den Fluch *niedergeschlagen* zu wirken: Der Schwanz des Drachen zuckt und Vera wird zu Boden geworfen.
+> Er entscheidet sich, den Harm *Niedergeschlagen* zu wirken: Der Schwanz des Drachen zuckt und Vera wird zu Boden geworfen.
 ### Warum bei einem Fehlschlag trotzdem Erfolg haben?
 Manche Spielende fragen sich vielleicht, warum ein Spielercharakter bei einem fehlgeschlagenen Wurf trotzdem einen Tropfen Erfolg schmecken sollte. Wenn man an Filme oder Bücher denkt, erscheint dies unrealistisch, da dort dauernd Schüsse verfehlen oder Schwerter Rüstung nicht durchschlagen. In Open Legend stellt die Regel "Erfolg mit einem Haken" sicher, dass ein Kampf nie stillsteht. Selbst wenn die Würfel sich gegen die Spielenden wenden, baut der Kampf trotzdem einen epischen Abschluss auf, während Kämpfende sich über das Schlachtfeld bewegen und gegenseitig zermürben. Trefferpunkte repräsentieren nicht einfach physische Unversehrtheit und die Verteidigung eines Feindes zu verfehlen heißt nicht, dass eine Attacke völlig umsonst war. Selbst wenn ein Kugelhagel die Kevlarweste eines Feindes nicht durchdringt, kann er ihm trotzdem den Atem stehlen (*3 Schaden zufügen*), zwingen in Deckung zu springen (*niedergeschlagen wirken*) oder dem Angreifer ein Zeitfenster zum Maneuvrieren geben (*10' bewegen*).
 ### Haken und Fehlschläge im Kampf interpretieren
@@ -394,15 +394,15 @@ Zwei Psi-Mech-Gangs rasen über den Dächern von New Tokyo dahin, während sie i
 ##### Verliere einen Freund
 Das taktische Sturmteam kommt in den gähnenden Tunneln der Bogan-Heimatwelt unter schweren Beschuss, als Jaaxy ihre Granate wirft, um die Feinde zu dezimieren. Leider war sie nie besonders gründlich in ihren Ausrüstungschecks und zwei Pins ihrer Granaten waren verhakt. Mit beiden Granaten aktiv wirft sie die eine auf die Gegner, doch die andere fällt auf den Boden. Ihr Team ist gezwungen, aus dem Weg zu hechten und die Explosion lässt den Tunnel einstürzen. Als der Staub sich wieder legt wird klar, dass beide Gruppen voneinander getrennt sind und es immer noch genug Bogans für beide Seiten zum Erledigen gibt.
 ##### Übersehe ein wichtiges Detail
-Die Gruppe drängt gerade einen bösen Geist zurück, den sie in den alten Gemäuern von Harden-Manor entfesselt haben, als Jade versucht, ihre psychokinetischen Kräfte zu sammeln um den Fluch *dominieren* zu nutzen um den Geist zu zwingen, das Landgut zu verlassen. Ihr Wurf schlägt fehl, doch der GM erlaubt ihr, den Geist trotzdem zu bannen. Was sie nicht hat kommen sehen, war, das der Geist seit Jahrhunderten versuchte, dem Gebäude zu entfliehen. Jade hat aus Versehen den Fluch gebrochen, der ihn gefangen hielt.
+Die Gruppe drängt gerade einen bösen Geist zurück, den sie in den alten Gemäuern von Harden-Manor entfesselt haben, als Jade versucht, ihre psychokinetischen Kräfte zu sammeln um den Harm *Dominiert* zu nutzen um den Geist zu zwingen, das Landgut zu verlassen. Ihr Wurf schlägt fehl, doch der GM erlaubt ihr, den Geist trotzdem zu bannen. Was sie nicht hat kommen sehen, war, das der Geist seit Jahrhunderten versuchte, dem Gebäude zu entfliehen. Jade hat aus Versehen den Fluch gebrochen, der ihn gefangen hielt.
 ##### Verschwende Zeit
-Melchior ist dabei, einen mächtigen Zauber zu wirken, um den Fluch *verlangsamt* auf eine Horde riesenzähniger Nager zu legen, doch sein Wurf schlägt fehl. Der GM interpretiert ihn als Erfolg mit einem Haken, indem er erklärt, dass der Zauber mehr Zeit beansprucht, als der Zauberer zunächst dachte. Wenn er ihn erfolgreich wirken will, muss er ihn noch länger weben, sodass er auch die große Aktion seiner nächsten Runde dafür aufwenden muss.
+Melchior ist dabei, einen mächtigen Zauber zu wirken, um den Harm *Verlangsamt* auf eine Horde riesenzähniger Nager zu legen, doch sein Wurf schlägt fehl. Der GM interpretiert ihn als Erfolg mit einem Haken, indem er erklärt, dass der Zauber mehr Zeit beansprucht, als der Zauberer zunächst dachte. Wenn er ihn erfolgreich wirken will, muss er ihn noch länger weben, sodass er auch die große Aktion seiner nächsten Runde dafür aufwenden muss.
 ##### Zieh Aufmerksamkeit auf dich
 Cooks Gewehr qualmt, während er Bandit nach Bandit von seinem Nest auf Hoss General Store niederstreckt. Endlich erspäht er El Hombre, den Anführer der Bande, doch sein Wurf will nicht wie er will. Der GM erlaubt ihm, 3 Schaden anzurichten, aber es hat einen Preis. Cooks Position ist aufgedeckt und der erzürnte Banditenanführer schickt fünf seiner besten Männer auf das Dach des Ladens.
 ##### Finde etwas, womit du nicht gerechnet hast
-Im wahrscheinlich mutigsten Moment ihres Lebens schleicht Snitch in Armeslänge des Giftwyvern und versucht, das ruhende Biest mit einem Überraschungsangriff mit dem Fluch *betäubt* zu belegen. Ihr Wurf schlägt fehl und der GM bietet ihr einen Erfolg mit einem Haken an. Der Wyvern bemerkt Snitch im letzten Moment und schafft es, die Schurkin im gleichen Moment mit seinem Schwanz wegzufegen, in dem ihr Dolch seine Haut durchdringt. Der Wyvern ist *betäubt*, doch Snitch wurde in eine Grube hinuntergeworfen, in der sie eine Brut hungriger Wyvernsäuglinge entdeckt, die auf ihr nächstes Mahl warten.
+Im wahrscheinlich mutigsten Moment ihres Lebens schleicht Snitch in Armeslänge des Giftwyvern und versucht, das ruhende Biest mit einem Überraschungsangriff mit dem Harm *Betäubt* zu belegen. Ihr Wurf schlägt fehl und der GM bietet ihr einen Erfolg mit einem Haken an. Der Wyvern bemerkt Snitch im letzten Moment und schafft es, die Schurkin im gleichen Moment mit seinem Schwanz wegzufegen, in dem ihr Dolch seine Haut durchdringt. Der Wyvern ist *betäubt*, doch Snitch wurde in eine Grube hinuntergeworfen, in der sie eine Brut hungriger Wyvernsäuglinge entdeckt, die auf ihr nächstes Mahl warten.
 #### Fehlschlag, aber die Geschichte schreitet voran im Kampf
-Kapitel 2 macht klar, dass Fehlschlag in Open Legend nie einfach Fehlschlag ist. Ein niedriger Angriffswurf ist mehr als Verfehlen. Ein fehlgeschlagener Versuch, einen Segen zu wirken bedeutet mehr, als dass die Macht verpufft. Stattdessen sollte jeder Fehlschlag die Geschichte bedeutsam vorantreiben. Kapitel 2 hat die folgenden Möglichkeiten zur Interpretation von *Fehlschlag, aber die Geschichte schreitet voran* angeboten:
+Kapitel 2 macht klar, dass Fehlschlag in Open Legend nie einfach Fehlschlag ist. Ein niedriger Angriffswurf ist mehr als Verfehlen. Ein fehlgeschlagener Versuch, ein Wohl zu wirken bedeutet mehr, als dass die Macht verpufft. Stattdessen sollte jeder Fehlschlag die Geschichte bedeutsam vorantreiben. Kapitel 2 hat die folgenden Möglichkeiten zur Interpretation von *Fehlschlag, aber die Geschichte schreitet voran* angeboten:
 - Der Spieler findet eine Chance auf Erfolg.
 - Die Gefahr eskaliert.
 - Die Informationen waren falsch.
@@ -414,8 +414,8 @@ Axel entleert das Magazin seiner Gatling Gun in Richtung der Sicherheitsbots, di
 ##### Die Gefahr eskaliert
 Raz wehrt einen intelligenten Schleimpool ab, als er versucht, ihn mit einem Plasmastreich zu zerteilen. Die Würfeln sind ihm nicht gewogen und Raz sieht entgeistert, wie die zwei Hälften einfach weiter agieren und er jetzt zwei motivierte Feinde vor sich glibbern hat.
 
-Drustina wirkt einen Zauber, um den Boden mit Eis zu bedecken, um dem auf sie zukommenden Troll den Fluch *niedergeschlagen* zuzufügen. Da ihr Wurf fehlschlägt, entscheidet der GM, dass der Troll nicht hinfällt, sondern durch das rutschige Eis sogar Geschwindigkeit gewinnt und er fast sofort die Distanz zwischen sich und der Zauberin überwunden hat.
+Drustina wirkt einen Zauber, um den Boden mit Eis zu bedecken, um dem auf sie zukommenden Troll den Harm *niedergeschlagen* zuzufügen. Da ihr Wurf fehlschlägt, entscheidet der GM, dass der Troll nicht hinfällt, sondern durch das rutschige Eis sogar Geschwindigkeit gewinnt und er fast sofort die Distanz zwischen sich und der Zauberin überwunden hat.
 ##### Die Informationen waren falsch
-Sergeant O'Dell versucht, den Segen *heilen* zu wirken, um eine Schusswunde ihres Kameraden zu schließen. Leider hat sie die Verletzung falsch eingeschätzt und sucht nach einer Kugel, die sauber durch den Körper geflogen ist. Der Patient wird von den Schmerzen ohnmächtig, da O'Dell in seinem Fleisch nach einer nicht existierenden Kugel gegraben hat.
+Sergeant O'Dell versucht, das Wohl *Heilen* zu wirken, um eine Schusswunde ihres Kameraden zu schließen. Leider hat sie die Verletzung falsch eingeschätzt und sucht nach einer Kugel, die sauber durch den Körper geflogen ist. Der Patient wird von den Schmerzen ohnmächtig, da O'Dell in seinem Fleisch nach einer nicht existierenden Kugel gegraben hat.
 
 Inspektor Bell will einen der Werwölfe, die ihre Gruppe angreifen, mit ihrem Silberschrot aus der Flinte niederstrecken. Furcht macht sich auf ihrem Gesicht breit, als das Silber den Schurken nicht weiter stört. Ihre Untersuchungen waren falsch, es handelt sich nicht um einfache Lycanthropen.

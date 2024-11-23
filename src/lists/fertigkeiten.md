@@ -154,7 +154,7 @@ Wähle einen Harm, den du wirken kannst. Wenn dein Wurf auf einen Angriff mit Sc
 **Besonders**  
 Du kannst diese Fertigkeit mehrmals erlangen. Für jedes weitere Mal wählst du einen anderen Harm aus.
 
-> Tags: Kraft, Passiv, Kampf, Fluch
+> Tags: Kraft, Passiv, Kampf, Harm
 
 ---
 ### Kampftrance
@@ -246,9 +246,9 @@ Falls du zu einem späteren Zeitpunkt die Attributvoraussetzungen des gewählten
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Fähigkeit, den gewählten Segen zu wirken
-- **Rang 2:** Fähigkeit, den gewählten Segen zu wirken
-- **Rang 3:** Fähigkeit, den gewählten Segen zu wirken
+- **Rang 1:** Fähigkeit, das gewählte Wohl zu wirken
+- **Rang 2:** Fähigkeit, das gewählte Wohl zu wirken
+- **Rang 3:** Fähigkeit, das gewählte Wohl zu wirken
 
 **Beschreibung**  
 Du bist in der Nutzung eines bestimmten Wohles spezialisiert, das bezeichnend für deinen Charakter ist. Vielleicht bist du eine Druidin, die ihre Gestalt nach Willen ändert, vielleicht ein Kriegsmedicus, der viele Verwundete mit müheloser Expertise versorgt oder ein verrückter Wissenschaftler, der Horden mechanischer Handlanger ohne viel Aufwand mobilisiert.
@@ -275,7 +275,7 @@ Wähle ein einziges Wohl, das du wirken kannst. Du erhälst anhand des Rangs die
 **Besonders**  
 Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erwerben kannst, kannst du auch die Fertigkeit selbst mehrmals erhalten und jedes Mal ein weiteres Wohl wählen. Der Rang der Fertigkeit für dieses neue Wohl ist unabhängig von allen anderen Rängen, die du in dieser Fertigkeit für andere Wohle hast.
 
-> Tags: Außergewöhnlich, Passiv, Segen
+> Tags: Außergewöhnlich, Passiv, Wohl
 
 ---
 ### Fallsicher (I - II)
@@ -831,7 +831,7 @@ Wenn du einen Harm oder ein Wohl wirkst, kannst du dich entscheiden, dies als Ve
 <li><strong>Wohl gewähren</strong> - Mache einen normalen Aktionswurf, um das Wohl zu wirken. Bei Erfolg kannst du deinem Ziel ein nicht-augenblickliches und nicht-permanentes Wohl gewähren. Das Ziel kann das Wohl danach als kostenlose Aktion wirken, ohne dazu einen Aktionswurf zu benötigen. Das Ziel muss keine Aktionen nutzen, um das Wohl aufrechtzuerhalten und es kann nur temporär durch den Harm <em>Annullieren</em> neutralisiert werden. Um das Wohl permanent zu neutraliesieren (das gewährte Wohl aufzuheben), muss Verstärkte Wirkung mit dem Effekt Wohl bannen benutzt werden (siehe folgende Absätze).</li>
 <li><strong>Harm gewähren</strong> - Mache einen normalen Aktionswurf, um den Harm zu wirken. Bei Erfolg kannst du deinem Ziel einen nicht-augenblicklichen und nicht-permanenten Harm zufügen. Der Harm hält ohne Zeitlimit an und erlaubt keine Widerstehenwürfe, um ihn zu beenden. Der Effekt kann nur temporär mit dem Harm <em>Annullieren</em> oder permanent mit einer Verstärkten Wirkung mit der Anwendung Harm bannen benutzt werden (siehe folgende Absätze).</li>
 <li><strong>Wohl bannen[?]</strong> - Mache einen Vergehenwurf mit einem Herausforderungswert von 10 + 2 x Kraftlevel des Wohls, das du bannen willst. Bei Erfolg entfernst du ein permanentes Wohl vom Ziel, sodass dieses dessen Effekte und die Fähigkeit verliert, es zu wirken.</li>
-<li><strong>Dispel Bane</strong> - Mache einen Schutzwurf mit einem Herausforderungswert von 10 + 2 x Kraflevel des Harms, den du bannen willst. Bei Erfolg entfernst du einen permanenten Harm vom Ziel, wobei das Ziel aber keine Resistenz oder Immunität gegen den Harm für die Zukunft erhält.</li>
+<li><strong>Harm bannen</strong> - Mache einen Schutzwurf mit einem Herausforderungswert von 10 + 2 x Kraflevel des Harms, den du bannen willst. Bei Erfolg entfernst du einen permanenten Harm vom Ziel, wobei das Ziel aber keine Resistenz oder Immunität gegen den Harm für die Zukunft erhält.</li>
 </ul>
 
 **Besonders**  
@@ -1146,7 +1146,7 @@ Wähle zwei Harme aus, die du wirken kannst und ein gemeinsamen Attribut zum Wir
 Um bei einer Multi-Harm-Attacke von der Fertigkeit <em>Harmfokus</em> zu profitieren, musst du für beide gewählten Harme <em>Harmfokus</em> haben.
 Du kannst diese Fertigkeit mehr als einmal erwerben, wobei du jedes Mal ein neues Paar aus zwei Harmen wählst.
 
-> Tags: Fluch, Kampf
+> Tags: Harm, Kampf
 
 ---
 ### Multi-Zielen Angriffsspezialisierung (I - V)
@@ -1261,7 +1261,7 @@ Wähle einen Harm aus, den du wirken kannst und der eine Dauer von "Widerstehen 
 **Besonders**  
 Du kannst diese Fertigkeit mehrmals wählen, wobei du jedes Mal einen anderen Harm wählst.
 
-> Tags: Fluch, Kampf
+> Tags: Harm, Kampf
 
 ---
 ### Reaktive Trance[?] / Aufmerksame Trance

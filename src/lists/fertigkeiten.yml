@@ -325,7 +325,7 @@
   - Kraft
   - Passiv
   - Kampf
-  - Fluch
+  - Harm
   OGtags:
   - Might
   - Passive
@@ -549,13 +549,13 @@
   prerequisites:
     tier1:
       Other:
-      - Fähigkeit, den gewählten Segen zu wirken
+      - Fähigkeit, das gewählte Wohl zu wirken
     tier2:
       Other:
-      - Fähigkeit, den gewählten Segen zu wirken
+      - Fähigkeit, das gewählte Wohl zu wirken
     tier3:
       Other:
-      - Fähigkeit, den gewählten Segen zu wirken
+      - Fähigkeit, das gewählte Wohl zu wirken
   OGprerequisites:
     tier1:
       Other:
@@ -569,7 +569,7 @@
   tags:
   - Außergewöhnlich
   - Passiv
-  - Segen
+  - Wohl
   OGtags:
   - Extraordinary
   - Passive
@@ -1659,7 +1659,7 @@
     <li><strong>Wohl gewähren</strong> - Mache einen normalen Aktionswurf, um das Wohl zu wirken. Bei Erfolg kannst du deinem Ziel ein nicht-augenblickliches und nicht-permanentes Wohl gewähren. Das Ziel kann das Wohl danach als kostenlose Aktion wirken, ohne dazu einen Aktionswurf zu benötigen. Das Ziel muss keine Aktionen nutzen, um das Wohl aufrechtzuerhalten und es kann nur temporär durch den Harm <em>Annullieren</em> neutralisiert werden. Um das Wohl permanent zu neutraliesieren (das gewährte Wohl aufzuheben), muss Verstärkte Wirkung mit dem Effekt Wohl bannen benutzt werden (siehe folgende Absätze).</li>
     <li><strong>Harm gewähren</strong> - Mache einen normalen Aktionswurf, um den Harm zu wirken. Bei Erfolg kannst du deinem Ziel einen nicht-augenblicklichen und nicht-permanenten Harm zufügen. Der Harm hält ohne Zeitlimit an und erlaubt keine Widerstehenwürfe, um ihn zu beenden. Der Effekt kann nur temporär mit dem Harm <em>Annullieren</em> oder permanent mit einer Verstärkten Wirkung mit der Anwendung Harm bannen benutzt werden (siehe folgende Absätze).</li>
     <li><strong>Wohl bannen[?]</strong> - Mache einen Vergehenwurf mit einem Herausforderungswert von 10 + 2 x Kraftlevel des Wohls, das du bannen willst. Bei Erfolg entfernst du ein permanentes Wohl vom Ziel, sodass dieses dessen Effekte und die Fähigkeit verliert, es zu wirken.</li>
-    <li><strong>Dispel Bane</strong> - Mache einen Schutzwurf mit einem Herausforderungswert von 10 + 2 x Kraflevel des Harms, den du bannen willst. Bei Erfolg entfernst du einen permanenten Harm vom Ziel, wobei das Ziel aber keine Resistenz oder Immunität gegen den Harm für die Zukunft erhält.</li>
+    <li><strong>Harm bannen</strong> - Mache einen Schutzwurf mit einem Herausforderungswert von 10 + 2 x Kraflevel des Harms, den du bannen willst. Bei Erfolg entfernst du einen permanenten Harm vom Ziel, wobei das Ziel aber keine Resistenz oder Immunität gegen den Harm für die Zukunft erhält.</li>
     </ul>
   special: |
     Permanente Harme und Wohle mit dieser Fertigkeit zu gewähren kann einen dramatischen Einfluss auf die spielmechanische Balance der Geschichte haben. Wie mit anderen Effekten wie z.B. Außergewöhnliches Item Erschaffen, unterliegt das Wirken permanenter Harme und Wohle der Abwägung des GM. Der GM sollte besonders darauf achten, dass diese Fertigkeit nicht genutzt wird, um einen Charakter übermäßig mächtig zu machen.
@@ -2298,7 +2298,7 @@
       Other:
       - Able to inflict both banes (see description)
   tags:
-  - Fluch
+  - Harm
   - Kampf
   OGtags:
   - Bane
@@ -2536,7 +2536,7 @@
       Other:
       - Ability to invoke the chosen bane
   tags:
-  - Fluch
+  - Harm
   - Kampf
   OGtags:
   - Bane

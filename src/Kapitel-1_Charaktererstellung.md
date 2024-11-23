@@ -186,7 +186,7 @@ Barden sind ein bisschen von allem: Anführer, Geschichtenerzähler, Künstler, 
 #### Strategie
 Barden können in fast allen Situationen außerhalb des Kampfes andere mit ihrer Fertigkeit *Rundumtalent*[?] unterstützen, wobei sie sich besonders in sozialen Situationen durch ihre hohen Werte in Präsenz und Überzeugung profilieren. Ihr Einflusswert gibt ihnen außerdem Zugang zu Flüchen wie *bezaubert*[?] und *Phantasmus*, die zum Täuschen, Verhören oder Gewinnen von Feinden nützlich sind.
 
-Im Kampf unterstützt ein Barde seine Verbündeten mit *verstärken*, wobei er durch die Fertigkeit *Segenfokus* mehrere Freunde auf einmal damit belegen kann. Wird ein Kamerad verwundet nutzt der Barde *heilen* um sie wieder kampffähig zu machen und kann auch mehrere mit einer heilenden *Aura* unter die Arme greifen. Barden sind genügend kompetent im Nahkampf, in dem sie das Rapier führen und Feinde entwaffnen, wann immer sich die Chance bietet.
+Im Kampf unterstützt ein Barde seine Verbündeten mit *verstärken*, wobei er durch die Fertigkeit *Wohlfokus* mehrere Freunde auf einmal damit belegen kann. Wird ein Kamerad verwundet nutzt der Barde *heilen* um sie wieder kampffähig zu machen und kann auch mehrere mit einer heilenden *Aura* unter die Arme greifen. Barden sind genügend kompetent im Nahkampf, in dem sie das Rapier führen und Feinde entwaffnen, wann immer sich die Chance bietet.
 
 **Attribute:** Beweglichkeit 3 (1d8), Lernen 3 (1d8), Willenskraft 3 (1d8), Präsenz 4 (1d10), Überzeugung 3 (1d8), Einfluss 3 (1d8)
 
@@ -196,12 +196,12 @@ Im Kampf unterstützt ein Barde seine Verbündeten mit *verstärken*, wobei er d
 **Entschlossenheit:** 17  
 **Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Rundumtalent, Segenfokus I (Verstärken), Großer Sprung
+**Fertigkeiten:** Rundumtalent, Wohlfokus I (Verstärken), Großer Sprung
 
 **Wichtige Ausrüstung:** Lederrüstung, Rapier (als Langschwert gewertet), kleiner Schild, Sagenbuch, Musikinstrument
 #### Bevorzugte Aktionen
 ***Rapier*** (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>***En Garde!*** (*Entwaffnen* zufügen): Beweglichkeit vs. Deckung, Vorteil 1  
-***Inspirierende Zeilen*** (*Verstärken* wirken):<br>=> 1 Ziel: Auto-Erfolg auf KL 3 durch *Segenfokus*<br>=> 10' Würfel: Präsenz vs. 16 (KL 3)<br>***Heilende Zeilen*** (*Heilen* wirken): Präsenz vs. 12 - 18 (KL 1 - 4)<br>***Lied der Erquickung*** (5' *Aura: Heilen* wirken): Präsenz vs. 18 (KL 4)<br>***Gewinnendes Lächeln*** (*Bezaubert* wirken): Einfluss vs. Entschlossenheit<br>***Magischer Kniff*** (*Phantasmus* wirken): Einfluss vs. Entschlossenheit
+***Inspirierende Zeilen*** (*Verstärken* wirken):<br>=> 1 Ziel: Auto-Erfolg auf KL 3 durch *Wohlfokus*<br>=> 10' Würfel: Präsenz vs. 16 (KL 3)<br>***Heilende Zeilen*** (*Heilen* wirken): Präsenz vs. 12 - 18 (KL 1 - 4)<br>***Lied der Erquickung*** (5' *Aura: Heilen* wirken): Präsenz vs. 18 (KL 4)<br>***Gewinnendes Lächeln*** (*Bezaubert* wirken): Einfluss vs. Entschlossenheit<br>***Magischer Kniff*** (*Phantasmus* wirken): Einfluss vs. Entschlossenheit
 ### Kampfmagier
 Kampfmagier sind Meister der Kraft und Magie. Mit angeborenem Talent für den Kampf und elementare Zauberei gewappnet, sind diese Elitesoldaten eine ernstzunehmende Einheit auf dem Schlachtfeld. Der Kampfmagier ist typischerweise schwer gepanzert, mit einer Vielzahl an Waffen für den Nahkampf ausgestattet und knistert vor roher magischer Energie.
 #### Strategie
@@ -239,7 +239,7 @@ Berserker sind die Elitestreiter der Barbarenhorden, bekannt dafür, gegen unmö
 #### Strategie
 Das einzige Ziel eines Berserkers ist es, Feinde niederzustrecken. Außerhalb des Kampfes können sie gelegentlich aushelfen, indem sie Stahl biegen, Fallgatter aufstemmen oder Feinde einschüchtern.
 
-Sobald der Kampf beginnt, ist der Berserker nicht mehr zu stoppen. Seine Zweihandaxt fügt mit dem Kraftwert 5 eindrucksvollen Schaden zu. Ihre Verteidigung ist ebenso solide, sodass sie häufig Feinde mit dem Fluch *Provozieren* herausfordern. In besoders Schwierigen Gefechten nutzen sie ihre *Kampftrance*, um in eine Rage zu verfallen, die ihre Angriffe tödlicher und Verteidigung zäher macht. Berserker müssen die *Kampftrance* aber mit Bedacht einsetzen, da sie nach ihrem Ende unter einer Instanz des Fluchs *Erschöpft* leiden.
+Sobald der Kampf beginnt, ist der Berserker nicht mehr zu stoppen. Seine Zweihandaxt fügt mit dem Kraftwert 5 eindrucksvollen Schaden zu. Ihre Verteidigung ist ebenso solide, sodass sie häufig Feinde mit dem Harm *Provozieren* herausfordern. In besoders Schwierigen Gefechten nutzen sie ihre *Kampftrance*, um in eine Rage zu verfallen, die ihre Angriffe tödlicher und Verteidigung zäher macht. Berserker müssen die *Kampftrance* aber mit Bedacht einsetzen, da sie nach ihrem Ende unter einer Instanz des Harms *Erschöpft* leiden.
 
 **Attribute:** Beweglichkeit 2 (1d6), Konstitution 4 (1d10), Kraft 5 (2d6), Willenskraft 3 (1d8), Präsenz 3 (1d8)<br>**Trefferpunkte:** 30<br>**Deckung:** 19 (20 in Kampftrance - Beweglichkeit 2, Kraft 5, Kettenhemd 2)<br>**Zähigkeit:** 17 (20 in Kampftrance)<br>**Entschlossenheit:** 16 (19 in Kampftrance)<br>**Geschwindigkeit:** 30'
 
@@ -251,25 +251,25 @@ Sobald der Kampf beginnt, ist der Berserker nicht mehr zu stoppen. Seine Zweihan
 ### Chronomagier
 Chronomagier sehen und manipulieren die größte Kraft des Universums: die Zeit. Sie besitzen die Macht, die Fäden des Universums selbst neu anzuordnen, um ihrem Willen zu entsprechen. Vergangenheit, Gegenwart und Zukunft sind alles ein und dasselbe für den Chronomagie und ihre inhärente Verbindung zur vierten Dimension kann zu Kommunikationsproblemen mit denjenigen führen, die einem konventionellen Verständnis der Zeit unterliegen.
 #### Strategie
-Chronomagier können den Fluss der Zeit kontrollieren und jenseits ihrer Grenzen sehen. Außerhalb von Kämpfen benutzen sie ihren sechsten Sinn mithilfe des Segens *Voraussicht*, um vergangene und zukünftige Vorkommnisse jenseits der physischen Welt zu sehen.
+Chronomagier können den Fluss der Zeit kontrollieren und jenseits ihrer Grenzen sehen. Außerhalb von Kämpfen benutzen sie ihren sechsten Sinn mithilfe des Wohls *Voraussicht*, um vergangene und zukünftige Vorkommnisse jenseits der physischen Welt zu sehen.
 
-Beginnt der Kampf, dann bietet die Macht des Chronomagiers über die Zeit der Gruppe verschiedene Optionen. Egal, ob er die Zeit verlangsamt, sodass die Bewegungen seiner Verbündeten unmenschlich schnell erscheinen, sie beschleunigt um Feinde auszulaugen oder sie zurückdreht, um Wunden zu heilen, er gewinnt in jeder Situation die Oberhand. Mit der Fertigkeit *Segenfokus* kann er diese Effekte in einem Gebiet um sich oder Verbündete wirken. *Attributsubstitution* schützt den fragilen Körper des Magiers, der abgesehen seiner Magie weder stark noch beweglich ist. Fällt sein Zorn auf einen Feind, kann der Chronomagier die Zeit seiner Organe beschleunigen und ihn so von innen heraus verrotten lassen.
+Beginnt der Kampf, dann bietet die Macht des Chronomagiers über die Zeit der Gruppe verschiedene Optionen. Egal, ob er die Zeit verlangsamt, sodass die Bewegungen seiner Verbündeten unmenschlich schnell erscheinen, sie beschleunigt um Feinde auszulaugen oder sie zurückdreht, um Wunden zu heilen, er gewinnt in jeder Situation die Oberhand. Mit der Fertigkeit *Wohlfokus* kann er diese Effekte in einem Gebiet um sich oder Verbündete wirken. *Attributsubstitution* schützt den fragilen Körper des Magiers, der abgesehen seiner Magie weder stark noch beweglich ist. Fällt sein Zorn auf einen Feind, kann der Chronomagier die Zeit seiner Organe beschleunigen und ihn so von innen heraus verrotten lassen.
 
 **Attribute:** Willenskraft 2 (1d6), Schöpfung 3 (1d8), Vergehen 4 (1d10), Bewegung 5 (2d6), Vorwissen 3 (1d8)<br>**Trefferpunkte:** 14<br>**Deckung:** 16 (Bewegung 5 durch *Attributsubstitution*, Stahlseidenrüstung 1)<br>**Zähigkeit:** 12<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Segenfokus I (Aura), Blitzreflexe I, Attributsubstitution I (Bewegung > Beweglichkeit)
+**Fertigkeiten:** Wohlfokus I (Aura), Blitzreflexe I, Attributsubstitution I (Bewegung > Beweglichkeit)
 
 **Wichtige Ausrüstung:** Stahlseidenrüstung
 #### Bevorzugte Aktionen
-***Hyperverschleiss***[?] (Angriff mit Schaden): Vergehen vs. Deckung<br>***Stasisfeld*** (*5' Aura: Immobilisiert* wirken): Auto-Erfolg auf KL 1 durch *Segenfokus*<br>***Zeitdehnungsfeld*** (*5' Aura: Verlangsamt* wirken): Auto-Erfolg auf KL 1 durch *Segenfokus*<br>***Vorspulen*** (*Hast* wirken): Bewegung vs. 14 - 18 (KL 2 - 4)<br>***Massen-Vorspulen*** (*5' Aura: Hast* wirken): Auto-Erfolg auf KL 2 durch *Segenfokus*<br>***Zurückspulen*** (*Heilen* wirken): Schöpfung vs. 12 - 16 (KL 1 - 3)<br>***Zeitschritt*** (*Teleport* wirken): Bewegung vs. 16 (KL 3)<br>***Zukunftsblick*** (*Voraussicht* wirken): Vorwissen vs. 12 - 16 (KL 1 - 3)
+***Hyperverschleiss***[?] (Angriff mit Schaden): Vergehen vs. Deckung<br>***Stasisfeld*** (*5' Aura: Immobilisiert* wirken): Auto-Erfolg auf KL 1 durch *Wohlfokus*<br>***Zeitdehnungsfeld*** (*5' Aura: Verlangsamt* wirken): Auto-Erfolg auf KL 1 durch *Wohlfokus*<br>***Vorspulen*** (*Hast* wirken): Bewegung vs. 14 - 18 (KL 2 - 4)<br>***Massen-Vorspulen*** (*5' Aura: Hast* wirken): Auto-Erfolg auf KL 2 durch *Wohlfokus*<br>***Zurückspulen*** (*Heilen* wirken): Schöpfung vs. 12 - 16 (KL 1 - 3)<br>***Zeitschritt*** (*Teleport* wirken): Bewegung vs. 16 (KL 3)<br>***Zukunftsblick*** (*Voraussicht* wirken): Vorwissen vs. 12 - 16 (KL 1 - 3)
 ### Höfling[?]
 Höflinge sind Karrierepolitiker, die majestätische Grazie zum Ziel ihres Lebens machen. Ihre strenge Ausstrahlung lässt alle in der Hand des Höflings zu formbaren Ton werden. Als Gastgeber plant der Höfling seine Feiern oft bis ins letzte Detail, sodass seine Gäste genau die Erfahrung haben, die er ihnen angedacht hat. Sein Antlitz verlangt Respekt, sei es königliche Brokade, fernöstliche Seide oder die eleganten Linien eines Corpo-Anzugs.
 #### Strategie
-Da er primär auf soziale Situationen spezialisiert und in Kämpfen größtenteils hilflos ist, tut er sein bestes, um die Umstände so zu gestalten, dass es gar nicht erst zum Kampf kommt. Ist der Kampf umungänglich, schlägt der Höfling sich durch seine Täuschung, Überzeugung, Präsenz und Einfluss auf die siegende Seite. Hat der Höfling das Vertrauen seiner mächtigen Bekanntschaften durch den Fluch *Bezaubert* gewonnen, kommt das Opfer typischerweise aufgrund der Fertigkeiten *wirksamer Fluch*[?] und *Endloser Charm*[?] nie wieder frei.
+Da er primär auf soziale Situationen spezialisiert und in Kämpfen größtenteils hilflos ist, tut er sein bestes, um die Umstände so zu gestalten, dass es gar nicht erst zum Kampf kommt. Ist der Kampf unumgänglich, schlägt der Höfling sich durch seine Täuschung, Überzeugung, Präsenz und Einfluss auf die siegende Seite. Hat der Höfling das Vertrauen seiner mächtigen Bekanntschaften durch den Harm *Bezaubert* gewonnen, kommt das Opfer typischerweise aufgrund der Fertigkeiten *Hartnäckiger Harm*[?] und *Unsterbliche Bezauberung*[?] nie wieder frei.
 
 **Attribute:** Beweglichkeit 2 (1d6), Willenskraft 3 (1d8), Täuschung 4 (1d10), Präsenz 3 (1d8), Einfluss 5 (2d6)<br>**Trefferpunkte:** 22<br>**Deckung:** 13 (Beweglichkeit 2, Stahlseidenrüstung 1)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 16<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Wirksamer Fluch (Bezaubert), Endloser Charm
+**Fertigkeiten:** Hartnäckiger Harm (Bezaubert), Unsterbliche Bezauberung
 
 **Wichtige Ausrüstung:** Majestätische Kleidung, Dolch, Kompaktpistole[?] (Pistole), Stahlseiderüstung
 #### Bevorzugte Aktionen
@@ -277,15 +277,15 @@ Da er primär auf soziale Situationen spezialisiert und in Kämpfen größtentei
 ### Druide
 Druiden sind Schützer der Natur, die aus ihr durch einen engen Bund ihre Kraft ziehen, um sich z.B. in eine mächtige Kreatur ihres Heimathabitats zu verwandeln. Nicht alle Druiden sind den Wäldern gewogen. Manche verwandeln sich in Unterwasserspezies und verbringen einen Großteil ihrer Zeit in den Tiefen, während andere als Vögel in Bergketten jenseits der Wolken leben. Unabhängig von ihrem bevorzugten Habitat sind alle Druiden eins: flexibel.
 #### Strategie
-Aufgrund ihrer engen Verbindung zur Natur neigen Druiden dazu, ihre Umgebung zum eigenen Vorteil zu nutzen, zum Beispiel indem sie eine imposante Wand aus Hecken mit dem Segen *Barriere* beschwören, ein Ziel mithilfe einer dicken Ranke *immobilisieren* oder die natürliche Heilung durch den Segen *Regeneration* beschleunigen. Druiden sind außerdem exzellente Kämpfer und Späher. Als Späher können sie in Form eines kleinen Tieres ungesehen in ein feindliches Lager eindringen. Als Kämpfer können sie sich in eine massive Kreatur wie einen Bären verwandeln, um ihre Feinde zu dezimieren.
+Aufgrund ihrer engen Verbindung zur Natur neigen Druiden dazu, ihre Umgebung zum eigenen Vorteil zu nutzen, zum Beispiel indem sie eine imposante Wand aus Hecken mit dem Wohl *Barriere* beschwören, ein Ziel mithilfe einer dicken Ranke *immobilisieren* oder die natürliche Heilung durch den Wohl *Regeneration* beschleunigen. Druiden sind außerdem exzellente Kämpfer und Späher. Als Späher können sie in Form eines kleinen Tieres ungesehen in ein feindliches Lager eindringen. Als Kämpfer können sie sich in eine massive Kreatur wie einen Bären verwandeln, um ihre Feinde zu dezimieren.
 
 **Attribute:** Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Kraft 2 (1d6), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Wandlung 5 (2d6), Schöpfung 3 (1d8)<br>**Trefferpunkte:** 20<br>**Deckung:** 17 (Beweglichkeit 2, Kraft 2, Schienenrüstung[?] 3)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 25'
 
-**Fertigkeiten:** Segenfokus II (Gestaltwandel)
+**Fertigkeiten:** Wohlfokus II (Gestaltwandel)
 
 **Wichtige Ausrüstung:** Schienenrüstung (als Plattenpanzer gewertet), Stab, Kurzspeer
 #### Bevorzugte Aktionen
-***Gestaltwandel*** (*Gestaltwandel* wirken): Auto-Erfolg auf KL 5 durch *Segenfokus*<br>***Klammernde Ranken*** (*Immobilisiert* zufügen): Schöpfung vs. Zähigkeit<br>***Dornenhecke*** (*Barriere* wirken): Schöpfung vs. 16 (KL 3)<br>***Pflanzen animieren*** (*Kreatur beschwören* wirken): Wandlung vs. 18 - 20 (KL 4 - 5)<br>***Wiederwuchs*** (*Regeneration* wirken): Wandlung vs. 12 - 20 (KL 1 - 5)
+***Gestaltwandel*** (*Gestaltwandel* wirken): Auto-Erfolg auf KL 5 durch *Wohlfokus*<br>***Klammernde Ranken*** (*Immobilisiert* zufügen): Schöpfung vs. Zähigkeit<br>***Dornenhecke*** (*Barriere* wirken): Schöpfung vs. 16 (KL 3)<br>***Pflanzen animieren*** (*Kreatur beschwören* wirken): Wandlung vs. 18 - 20 (KL 4 - 5)<br>***Wiederwuchs*** (*Regeneration* wirken): Wandlung vs. 12 - 20 (KL 1 - 5)
 #### Bärenform
 **Attribute:** Kraft 5 (2d6), Beweglichkeit 1 (1d4), Konstitution 3 (1d8), Wahrnehmung 2 (1d6)<br>**Trefferpunkte:** 20<br>**Deckung:** 19 (Beweglichkeit 1, Kraft 5, Schienenrüstung 3)<br>**Geschwindigkeit:** 25'
 #### Falkenform
@@ -301,12 +301,12 @@ Im Kampf richten sich Ingenieure nach der momentanen Situation, um ihre Verbünd
 
 **Attribute:** Beweglichkeit 3 (1d8), Konstitution 3 (1d8), Lernen 3 (1d8), Logik 3 (1d8), Wahrnehmung 1 (1d4), Schöpfung 5 (2d6)<br>**Trefferpunkte:** 16<br>**Deckung:** 15 (Beweglichkeit 3, Kevlarweste 2)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 10<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Segenfokus I (Kreatur Beschwören), Außergewöhnliches Item Erschaffen I
+**Fertigkeiten:** Wohlfokus I (Kreatur Beschwören), Außergewöhnliches Item Erschaffen I
 
 **Wichtige Ausrüstung:** Handkanone (Revolver), Kevlarweste, 2
 Granaten, Ingenieurswerkzeuge
 #### Bevorzugte Aktionen
-_**Handkanone**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Granate**_ (Angriff mit Schaden, 10' Würfel): Beweglichkeit vs. Deckung<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Verstärkung!**_ (_Kreatur Beschwören_ wirken): Auto-Erfolg auf KL 5 durch _Segenfokus_<br>_**Gadgets & Gizmos**_ (_Verstärken_ wirken): Schöpfung vs. 16 (KL 3)<br>_**DIY-Wunder**_ (_Genesis_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)<br>_**Wunde ausbrennen**_ (_Heilen_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)
+_**Handkanone**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Granate**_ (Angriff mit Schaden, 10' Würfel): Beweglichkeit vs. Deckung<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Verstärkung!**_ (_Kreatur Beschwören_ wirken): Auto-Erfolg auf KL 5 durch _Wohlfokus_<br>_**Gadgets & Gizmos**_ (_Verstärken_ wirken): Schöpfung vs. 16 (KL 3)<br>_**DIY-Wunder**_ (_Genesis_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)<br>_**Wunde ausbrennen**_ (_Heilen_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)
 ### Revolverheld
 Manch einer ist Richter und Exekutor zugleich. Andere sind Kopfgeldjäger, die eine alte Schuld begleichen müssen. Wieder andere sind Söldner, die nur für den Höchstbietenden ihr Eisen ziehen. Egal, woher ihre Motivation kommt, alle Revolverhelden bringen diejenigen zum Bangen, die am falschen Ende ihrer Colts landen.
 #### Strategie
@@ -409,11 +409,11 @@ Schatten ziehen es vor, so lange wie möglich versteckt zu bleiben, wenn ein Kam
 
 **Attribute:** Beweglichkeit 4, Wahrnehmung 3, Willenskraft 2, Vergehen 3, Bewegung 5<br>**Trefferpunkte:** 14<br>**Deckung:** 15 (Beweglichkeit 4, Trenchcoat 1)<br>**Zähigkeit:** 12<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Segenfokus I (Teleportation), Tödlicher Streich I
+**Fertigkeiten:** Wohlfokus I (Teleportation), Tödlicher Streich I
 
 **Wichtige Ausrüstung:** Scharfschützengewehr, Maschinenpistole, Pistole, Messer, Trenchcoat (als Lederrüstung gewertet)
 #### Bevorzugte Aktionen
-_**Verborgener Schuss**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung, Vorteil 1 falls das Ziel überrascht wird oder mit einem Verbündeten im Kampf liegt<br>_**Gewehr**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Betäubungskugel**_ (_Bewusstlos_ zufügen): Beweglichkeit vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Maschinenpistole**_ (Angriff mit Schaden, 10' Würfel): Beweglichkeit vs. Deckung<br>_**Leerenschritt[?]**_ (_Teleport_ wirken): Auto-Erfolg auf KL 5 durch _Segenfokus_<br>_**Schattenschleier**_ (_Dunkelheit_ wirken): Vergehen vs. 12 - 16 (KL 1 - 3)<br>_**Schattenrolle[?]**_ (_Resistenz_ wirken): Bewegung vs. 16 (KL 3)<br>_**Extradimensionale Tasche**_ (_Objekt absorbieren_ wirken): Bewegung vs. 18 (KL 4)
+_**Verborgener Schuss**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung, Vorteil 1 falls das Ziel überrascht wird oder mit einem Verbündeten im Kampf liegt<br>_**Gewehr**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Betäubungskugel**_ (_Bewusstlos_ zufügen): Beweglichkeit vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Maschinenpistole**_ (Angriff mit Schaden, 10' Würfel): Beweglichkeit vs. Deckung<br>_**Leerenschritt[?]**_ (_Teleport_ wirken): Auto-Erfolg auf KL 5 durch _Wohlfokus_<br>_**Schattenschleier**_ (_Dunkelheit_ wirken): Vergehen vs. 12 - 16 (KL 1 - 3)<br>_**Schattenrolle[?]**_ (_Resistenz_ wirken): Bewegung vs. 16 (KL 3)<br>_**Extradimensionale Tasche**_ (_Objekt absorbieren_ wirken): Bewegung vs. 18 (KL 4)
 ### Hexenschwert[?]
 Ebenso gekonnt mit dem Schwert wie mit der Zauberei, weben Hexenschwerter aus Magie und Kampfkunst eine mächtige Kombination. Ob sie Feinde mit flammendem Schwert in Brand setzen, Kraftbarrieren beschwören, um Angriffe abzuwenden oder Gegner mit Teleportation im Staub lassen, Hexenschwerter kontrollieren das Schlachtfeld mit unanfechtbarer Magie.
 #### Strategie
