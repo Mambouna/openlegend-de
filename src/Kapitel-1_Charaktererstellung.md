@@ -292,8 +292,6 @@ Aufgrund ihrer engen Verbindung zur Natur neigen Druiden dazu, ihre Umgebung zum
 **Attribute:** Kraft 1 (1d4), Beweglichkeit 3 (1d8), Konstitution 1 (1d4), Wahrnehmung 5 (2d6)<br>**Trefferpunkte:** 16<br>**Deckung:** 14 (Beweglichkeit 3, Kraft 1)<br>**Geschwindigkeit:** 30' fliegend
 #### Haiform
 **Attribute:** Kraft 4 (1d10), Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Wahrnehmung 3 (1d8)<br>**Trefferpunkte:** 20<br>**Deckung:** 19 (Beweglichkeit 2, Kraft 4, Schienenrüstung 3)<br>**Geschwindigkeit:** 30' schwimmend
-> [!danger]
-> INPOINT
 ### Ingenieur
 Ingenieure haben einen Funken Schöpfung in sich und können die Funktionsweise extrem komplexer Systeme durchschauen. Auch wenn Ingenieure selbst typischerweise flink sind und eine Lederhaut haben, liegt ihre wahre Stärke in den cleveren Maschinen, die sie aus Schrott und Ersatzteilen zusammenbauen. Diese zischenden Dampfgestalten und mechanische Werkzeuge stellen sicher, dass der Ingenieur für jede Situation gewappnet ist.
 #### Strategie
@@ -358,139 +356,70 @@ Mystiker, die sich einer größeren Gruppe angeschlossen haben, nutzen ihre Krä
 #### Bevorzugte Aktionen
 _**Den Pfad vorhersehen**_ (Verteidigungsaktion): Schutz vs. Angriffswurf des Ziels, Vorteil 1<br>_**Freimachen**_ (Besondere Aktion): Fertigkeit _Medikus_ einsetzen, um einem Verbündeten einen Widerstehenwurf zu geben<br>_**Geteilte Einsicht**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Sicht aus der Ferne**_ (_Weitsicht_ zufügen): Vorwissen vs. Entschlossenheit<br>_**Gedankenbrücke**_ (_Telepathie_ wirken): Vorwissen vs. 16 - 20 (KL 3 - 5)<br>_**Kraftraub**_ (_Annulieren_ zufügen): Schutz vs. Entschlossenheit<br>_**Gedanken lesen**_ (_Gedankenraub_ zufügen): Vorwissen vs. Entschlossenheit<br>_**Blick in die Vergangenheit**_ (_Lesung_ wirken): Vorwissen vs. 20 (KL 5)<br>_**Blick in die Zukunft**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Verjüngung**_ (_Heilen_ wirken): Schöpfung vs. 12 - 14 (KL 1 - 2)
 ### Ningyozukai
-The Ningyozukai, or Puppeteers, are sorcerers capable of channeling
-their spirits to possess enchanted suits of Yoroi armor, transforming the
-armor into a powerful animated weapon. Also gifted with magics of
-healing and protection, the Ningyozukai only call on the Yoroi armor
-when a situation call for force of arms or brute strength.
+Die Ningyozukai - oder Puppenspieler - sind Zauberer, die in der Lage sind, ihren Geist verzauberte Yoroirüstungen beleben zu lassen, sodass diese zu mächtigen Waffen werden. Die Ningyozukai, die darüber hinaus außerdem Magie der Heilung und des Schutzes besitzen, rufen ihren Yoroirüstungen nur hervor, wenn die Situation Waffengewalt und rohe Kraft bedarf.
 #### Strategie
-The Ningyozukai make use of the _alternate form_ feat in order to
-provide two distinct character options that may be swapped as needed. In
-their normal form, they are physically frail sorcerers who offer support
-to the party through boons such as _resistance, heal,_ and _Verstärken_. In
-combat, their only means of inflicting damage is by using _summon
-creature_ to call forth minor guardian spirits.
+Die Ningyozukai nutzen *Alternative Gestalt*, um je nach Bedarf zwischen zwei separaten Charakterarten zu wechseln. In ihrer normalen Form sind sie physisch schwache Zauberer, die Verbündete mit Wohlen wie *Resistenz*, *Heilen* und *Verstärken* unterstützen. Im Kampf können sie nur mit *Kreatur beschwören* Schaden zufügen, indem sie niedere Schutzgeister berufen.
 
-When the situation calls for it, the sorcerer will animate their Yoroi
-armor, which serves as an indestructible melee warrior. The Yoroi form
-has very high defenses and hit points, and its Kraft score of 5 combined
-with a two-handed naginata ensures that it will deal out significant
-damage while also manipulating the battlefield with banes such as
-_knockdown, forced move,_ and _Immobilisiert_. In particularly difficult
-fights, the Yoroi enters a _Kampftrance_, gaining even stronger
-defenses and better attack prowess.
+Wenn die Situation es erfordert, ruft der Zauberer seine Yoroirüstung hervor, die ihm als unverwüstbarer Nahkämpfer dient. Die Yoroigestalt hat starke Verteidigungen und hohe TP. Ihr Kraftwert von 5 sichert ihr zusammen mit dem zweihändigen Naginata hohen Schaden zu, während sie das Schlachtfeld mit Harmen wie *Niedergeschlagen*, *Erzwungene Bewegung* und *Immobilisiert*. In besonders harten Kämpfen verfällt die Yoroirüstung in *Kampftrance* und gewinnt so noch stärkere Verteidigungen und Angriffe.
 
-Although the Ningyozukai make use of the _alternate form_ feat, they do
-not actually physically transform when switching between sorcerer or
-Yoroi forms. Rather, the Yoroi armor, possessed by the sorcerer's
-spirit, surrounds its frail master to encase and protect.
-Activating the _alternate form_ feat represents the sorcerer focusing
-all of their will on possessing the Yoroi to make full use of its
-offensive powers. Thus, the Ningyozukai can only utilize actions and
-attributes from one of its forms at any time.
-#### Sorcerer Form
+Auch wenn Ningyozukai die Fertigkeit *Alternative Gestalt* nutzen, verwandeln sie sich nicht selbst physisch beim Wechsel zwischen Zauberer- und Yoroirüstungsform. Stattdessen hüllt die Yoroirüstung unter der mentalen Kontrolle des Ningyozukai den Zauberer zum Schutz in ihr magisches Metall. *Alternative Gestalt* zu aktivieren repräsentiert die volle Konzentrations des Zauberers auf die Kontrolle der Rüstung, sodass er währenddessen seine eigenen Fähigkeiten nicht nutzen kann und vollständig von der Rüstung repräsentiert wird.
+#### Zauberergestalt
 **Attribute:** Beweglichkeit 1 (1d4), Lernen 3 (1d8), Wahrnehmung 1 (1d4), Willenskraft 3 (1d8), Überzeugung 3 (1d8), Schöpfung 4 (1d10), Schutz 4 (1d10)<br>**Trefferpunkte:** 16<br>**Deckung:** 11 (Beweglichkeit 1)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Alternate Form II
+**Fertigkeiten:** Alternative Gestalt II
 
 **Wichtige Ausrüstung:** Keine
 #### Bevorzugte Aktionen
-_**Geisterführer**_ (_Verstärken_ wirken): Schöpfung vs. 16 (KL 3)<br>_**Geisterschützer**_ (_Kreatur beschwören_ wirken): Schöpfung vs. 18 (KL 4)<br>_**Kreis der Wunder**_ (5' _Aura: Immobilisiert_ wirken): Schöpfung vs. 18 (KL 4)<br>_**Schutzrunen**_ (_Resistenz_ wirken): Schutz vs. 16 (KL 3)<br>_**Heilendes Wort**_ (_Heilen_ wirken): Schöpfung vs. 12 - 18 (KL 1 - 4)
-#### Yoroi Armor Form
-**Attribute:** Beweglichkeit 3 (1d8), Konstitution 4 (1d10), Kraft 5 (2d6), Willenskraft 2 (1d6), Präsenz 3 (1d8)<br>**Trefferpunkte:** 28<br>**Deckung:** 21 (Kraft 5, Beweglichkeit 3, Yoroi Armor 3)<br>**Zähigkeit:** 16 (19 in _Kampftrance_)<br>**Entschlossenheit:** 15 (18 in _Kampftrance_)<br>**Geschwindigkeit:** 25'
+_**Geisterführer**_ (_Verstärken_ wirken): Schöpfung vs. 16 (KL 3)<br>_**Geisterbeschützer**_ (_Kreatur beschwören_ wirken): Schöpfung vs. 18 (KL 4)<br>_**Kreis der Wunder**_ (5' _Aura: Immobilisiert_ wirken): Schöpfung vs. 18 (KL 4)<br>_**Schutzrunen**_ (_Resistenz_ wirken): Schutz vs. 16 (KL 3)<br>_**Heilendes Wort**_ (_Heilen_ wirken): Schöpfung vs. 12 - 18 (KL 1 - 4)
+#### Yoroirüstungsgestalt
+**Attribute:** Beweglichkeit 3 (1d8), Konstitution 4 (1d10), Kraft 5 (2d6), Willenskraft 2 (1d6), Präsenz 3 (1d8)<br>**Trefferpunkte:** 28<br>**Deckung:** 21 (Kraft 5, Beweglichkeit 3, Yoroirüstung 3)<br>**Zähigkeit:** 16 (19 in _Kampftrance_)<br>**Entschlossenheit:** 15 (18 in _Kampftrance_)<br>**Geschwindigkeit:** 25'
 
 **Fertigkeiten:** Kampftrance
 
-**Wichtige Ausrüstung:** Yoroi Armor, Naginata, 3 Wurfspeere
+**Wichtige Ausrüstung:** Yoroirüstung, Naginata, 3 Wurfspeere
 #### Bevorzugte Aktionen
 _**Naginata**_ (Angriff mit Schaden): Kraft vs. Deckung, Vorteil 1<br>_**Fang und Klaue**_ (Angriff mit Schaden, 2 targets): Kraft vs. Deckung, Nachteil 1<br>_**Wurfspeer**_ (Angriff mit Schaden): Kraft vs. Deckung<br>_**Ausholender Schlag**_ (_Niedergeschlagen_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Naginataschwung**_ (_Erzwungene Bewegung_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Skorpionstich**_ (_Immobilisiert_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Demonstration der Stärke**_ (_Furcht_ zufügen): Kraft vs. Entschlossenheit<br>_**Schlachtkommando**_ (_Heilen_ zufügen): Präsenz vs. 12 - 16 (KL 1 - 3)
-### Wildläufer
-Rangers are folk of the wilderness, hunters, and animal tamers. They can
-navigate the harshest of terrains and their keen eyes can pick up a
-trail that has been cold for days. With a faithful animal companion by
-their side, the Ranger is never alone on the hunt.
+### Waldläufer
+Waldläufer sind Menschen der Wildniss, Jäger und Tierzähmer. Sie können das widerste Terrain navigieren und ihre scharfen Augen erkennen selbst tagelang kalte Spuern. Mit einem treuen Tiergefährten an ihrer Seite ist der Waldläufer auf der Pirsch nie allein.
 #### Strategie
-Rangers are expert trackers, making use of their _fast tracker_ and
-_master tracker_ feats to follow quarry effortlessly without slowing
-down. Their exceptional Wahrnehmung score also means that the Ranger will
-be the eyes of the party: locating traps, scouting for enemies, and
-revealing hidden passages. Their extraordinary ability to climb allows
-them to access paths that might be unreachable by their allies.
+Waldläufer sind Experten im Verfolgen von Spuren, wobei sie die Fertigkeiten *Spurenhund* und *Meisterjäger* nutzen, um Ziele mühelos und rasch zu verfolgen. Ihr hoher Wahrnehmungswert macht den Waldläufer auch zu den Augen der Gruppe: Fallen finden, Feinde ausspähen und geheime Durchgänge finden. Die außergewöhnliche Fähigkeit, extrem gut zu klettern erlaubt ihnen außerdem, Pfade zu beschreiten, die ihre Verbündeten nicht erreichen können.
 
-When combat breaks out, the Ranger typically fights in a coordinated
-effort with their animal companion. In melee, the wolf will attempt to
-inflict _Niedergeschlagen_ upon foes, allowing its master to strike with
-Vorteil 1 on prone enemies. When not striking for direct
-damage, Rangers disarm foes or whittle away at them with
-_Anhaltender Schaden_. To keep a distance from the enemy, Rangers take
-to the trees to use their Langbogen while their wolf uses _Immobilisiert_ to
-make the target an easy shot.
+Den Kampf bestreitet der Waldläufer typischerweise in enger Koordination mit seinem Tiergefährten. Im Nahkampf springt der Wolf Feinde an, um *Niedergeschlangen* zuzufügen, sodass sein Meister mit Vorteil 1 angreifen kann. Wenn sie nicht auf Schaden gehen, setzen Waldläufer *Entwaffnet* und *Anhaltender Schaden* ein. Um ihre Distanz zu wahren erklimmen sie die Bäume und feuern von dort mit dem Langbogen, während der Wolf *Immobilisiert* nutzt, um Feinde zu einfachen Zielen zu machen.
 
 **Attribute:** Beweglichkeit 4 (1d10), Konstitution 3 (1d8), Kraft 2 (1d6),
 Lernen 2 (1d6), Wahrnehmung 5 (2d6), Willenskraft 2 (1d6)<br>**Trefferpunkte:** 20<br>**Deckung:** 18 (Beweglichkeit 4, Kraft 2, Kettenhemd 2)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 35'
 
-**Fertigkeiten:** Fleet of Foot I, Master Tracker, Climbing, Companion I
+**Fertigkeiten:** Flinkfuß I, Meisterjäger, Klettern, Gefährte I
 
 **Wichtige Ausrüstung:** Langschwert, Dolch, Langbogen, Kettenhemd
 #### Bevorzugte Aktionen
 _**Langschwert + Dolch**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Verwundender Streich**_ (_Anhaltender Schaden_ zufügen): Beweglichkeit vs. Deckung, Vorteil 2<br>_**Kunstvolle Parade**_ (_Entwaffnet_ zufügen): Beweglichkeit vs. Deckung, Vorteil 2<br>_**Langbogen**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1
-#### Wolf Companion
+#### Wolfsgefährte
 **Attribute:** Beweglichkeit 4 (1d10), Konstitution 2 (1d6), Kraft 2 (1d6), Wahrnehmung 3 (1d8), Willenskraft 1 (1d4), Präsenz 1 (1d4)<br>**Trefferpunkte:** 18<br>**Deckung:** 16 (Beweglichkeit 4, Kraft 2)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
 
 **Fertigkeiten:** keine
 #### Bevorzugte Aktionen
 _**Biss**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Takedown**_ (_Niedergeschlagen_ zufügen): Beweglichkeit vs. Deckung
 ### Schatten
-Shades are highly trained assassins that draw upon unearthly power drawn
-from the in-between, the void of shadows where most mortals dare not
-travel. One with the darkness, they use their powers to deceive and
-misdirect, catching their prey off guard. These night hunters are
-trained to slay from a distance—unseen, unheard, and without a trace.
+Schatten sind hoch trainierte Assassinen, die ihre unnatürliche Macht aus dem Zwischen der Welt ziehen, der Leere an Schatetn in der die meisten Sterblichen sich nicht trauen, zu weilen. Nachdem sie eins mit der Dunkelheit werden, nutzen sie ihre Kräfte um zu Täuschen und in die Irre zu führen, sodass sie ihre Ziele auf dem falschen Fuß erwischen. Diese Nachtjäger sind trainiert, aus der Distanz zu töten - ungesehen, ungehört und ohne eine Spur zu hinterlassen.
 #### Strategie
-While Shades are trained for the specific task of neutralizing threats,
-their ability to manipulate shadows provides them with exceptional
-utility. Out of combat, they make excellent scouts, capable of hiding
-weapons in the extradimensional void with _Objekt absorbieren_. Their ability
-to pass through the void makes them peerless at infiltration. When
-_teleporting_, even a titanium vault or door is no obstacle for a Shade
-as they step through the void or dematerialize into a cloud of inky
-entropy and slip beneath a door.
+Während Schatten speziell dazu ausgebildet sind, Ziele zu neutralisieren, geben ihre Fähigkeiten, die Schatten zu manipulieren auch viele verschieden nützliche Optionen außerhalb des Kampfes. Sie sind exzellente Späher, in der Lage Waffen in dimensionalen Taschen mit *Objekt absorbieren* zu verstecken. Ihre Fähigkeit, durch die Leere hindurchzutreten macht sie auch zu adepten Infiltratoren. Vor ihrer *Teleportation* ist auch keine Titantür gefeit.
 
-Shades prefer to remain hidden as much as possible so that when combat
-ensues they can catch their foes off guard. They fire their silenced
-sniper rifles from cover, and quickly _Teleport_ to a new location
-before they are discovered. On rare occasions where they are spotted,
-they use _Eile_ to make a fast getaway or blanket an area in _Dunkelheit_
-and slip away unseen.
+Schatten ziehen es vor, so lange wie möglich versteckt zu bleiben, wenn ein Kampf beginnt, um ihre Feinde zu überraschen. Sie feuern mit schallgedämpften Scharfschützengewehren aus der Deckung heraus und nutzen *Teleportation*, um schnell die Position zu wechseln. Falls sie doch einmal entdeckt werden hüllen sie das Gebiet in *Dunkelheit* oder fliehen schnell mit *Hast*.
 
 **Attribute:** Beweglichkeit 4, Wahrnehmung 3, Willenskraft 2, Vergehen 3, Bewegung 5<br>**Trefferpunkte:** 14<br>**Deckung:** 15 (Beweglichkeit 4, Trenchcoat 1)<br>**Zähigkeit:** 12<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Segenfokus I (Teleport), Lethal Strike I
+**Fertigkeiten:** Segenfokus I (Teleportation), Tödlicher Streich I
 
-**Wichtige Ausrüstung:** Scharfschützengewehr, Maschinenpistole, Handgun, Knife,
-Trench Coat (treat as Lederrüstung)
+**Wichtige Ausrüstung:** Scharfschützengewehr, Maschinenpistole, Pistole, Messer, Trenchcoat (als Lederrüstung gewertet)
 #### Bevorzugte Aktionen
-_**Verborgener Schuss**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung, Vorteil 1 if target is unaware or engaging your ally<br>_**Gewehr**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Betäubungskugel**_ (_Bewusstlos_ zufügen): Beweglichkeit vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Maschinenpistole**_ (Angriff mit Schaden, 10' Würfel): Beweglichkeit vs. Deckung<br>_**Leerenschritt[?]**_ (_Teleport_ wirken): Auto-Erfolg auf KL 5 durch _Segenfokus_<br>_**Schattenschleier**_ (_Dunkelheit_ wirken): Vergehen vs. 12 - 16 (KL 1 - 3)<br>_**Schattenrolle[?]**_ (_Resistenz_ wirken): Bewegung vs. 16 (KL 3)<br>_**Extradimensionale Tasche**_ (_Objekt absorbieren_ wirken): Bewegung vs. 18 (KL 4)
+_**Verborgener Schuss**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung, Vorteil 1 falls das Ziel überrascht wird oder mit einem Verbündeten im Kampf liegt<br>_**Gewehr**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Betäubungskugel**_ (_Bewusstlos_ zufügen): Beweglichkeit vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Maschinenpistole**_ (Angriff mit Schaden, 10' Würfel): Beweglichkeit vs. Deckung<br>_**Leerenschritt[?]**_ (_Teleport_ wirken): Auto-Erfolg auf KL 5 durch _Segenfokus_<br>_**Schattenschleier**_ (_Dunkelheit_ wirken): Vergehen vs. 12 - 16 (KL 1 - 3)<br>_**Schattenrolle[?]**_ (_Resistenz_ wirken): Bewegung vs. 16 (KL 3)<br>_**Extradimensionale Tasche**_ (_Objekt absorbieren_ wirken): Bewegung vs. 18 (KL 4)
 ### Hexenschwert[?]
-Equally skilled with a blade as they are with sorcery, Spellswords weave
-magic and martial prowess together into a powerful combination. Whether
-they are setting foes ablaze with a flaming sword, summoning barriers of
-force to deflect attacks, or outmaneuvering foes with teleportation,
-Spellswords control the battlefield with unrivaled magic.
+Ebenso gekonnt mit dem Schwert wie mit der Zauberei, weben Hexenschwerter aus Magie und Kampfkunst eine mächtige Kombination. Ob sie Feinde mit flammendem Schwert in Brand setzen, Kraftbarrieren beschwören, um Angriffe abzuwenden oder Gegner mit Teleportation im Staub lassen, Hexenschwerter kontrollieren das Schlachtfeld mit unanfechtbarer Magie.
 #### Strategie
-The Spellsword is a master of versatility. Although they shine the most
-in the heat of battle, Spellswords can also make use of Schutz and
-Bewegung attributes to provide utility to overcome many obstacles.
+Das Hexenschwert ist ein Meister der Vielfalt. Obwohl sie am meisten in der Hitze des Gefechts hervortreten, können Hexenschwerter auch ihre Schutz- und Bewegungsattribute nutzen, um verschiedene andere Hindernisse zu überwinden.
 
-Within combat, the Spellsword's Attributsubstitution feat allows
-them to use their Energie score for weapon attacks, and their trio of
-extraordinary attributes provides them with access to a versatile
-selection of banes and boons. _Blitzreflexe_ ensures that they
-will often act early in combat, and Spellswords will use this
-opportunity to invoke the _Resistenz_ boon or inflict a vulnerable
-target with _Anhaltender Schaden_. Once combat is underway, Spellswords
-focus on finishing off damaged foes so that they can use _combat
-momentum_ to maneuver around the battlefield.
+Im Kampf erlaubt die Fertigkeit *Attributsubstitution* Hexenschwertern, ihren hohen Eneriewert für Waffenangriffe zu nutzen und ihr Trio aus außergewöhnlichen Attributen erlaubt ihnen Zugang zu einer breiten Auswahl Harme und Wohle. *Blitzreflexe* versichren, dass sie oft früh im Kampf handeln und Hexenschwerter nutzen diese Chance, um *Resistenz* auf Verbündete oder *Anhaltender Schaden* auf Feinde zu wirken. Läuft der Kampf, so konzentrieren sich Hexenschwerter auf das Niederstrecken geschwächter Feinde, um sich mit der Fertigkeit *Kampfmomentum* frei über das Schlachtfeld bewegen zu können.
 
 **Attribute:** Konstitution 3 (1d8), Präsenz 1 (1d4), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Energie 5 (2d6), Schutz 3 (1d8), Bewegung 3 (1d8)<br>**Trefferpunkte:** 22<br>**Deckung:** 17 (Energie 5 via Attributsubstitution, Kettenhemd 2)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
 
@@ -498,46 +427,21 @@ momentum_ to maneuver around the battlefield.
 
 **Wichtige Ausrüstung:** Kettenhemd, Falchion
 #### Bevorzugte Aktionen
-_**Falchion**_ (Angriff mit Schaden): Energie vs. Deckung, Vorteil 1<br>_**Enflame**_ (_Anhaltender Schaden_ zufügen): Energie vs. Deckung (Vorteil 1 falls Falchion geführt wird)<br>_**Disabling Strike**_ (_Betäubt_ zufügen): Energie vs. Zähigkeit<br>_**Wall of Fire**_ (_barrier, 10' Linie_ wirken): Energie vs. 16 - 20 (KL 1 - 5), Nachteil 1<br>_**Smoke Step**_ (_Teleport_ wirken): Bewegung vs. 16 (KL 3)<br>_**Shield of Force**_ (_Resistenz_ wirken): Schutz vs. 16 (KL 3)
-### Raumtemplar
-An ancient order of warrior-mages, the Void Templars undergo over a
-decade of training before they are even permitted their first attempt at
-the rigorous test which initiates them as full Templars. A deadly mix of
-soldier and void wielder, they form a heavily armored support unit
-trained to keep other soldiers out of harm's way. Their highly coveted
-guardian armor amplifies their control of the void,
-supercharging their power to nullify enemy attacks.
+_**Falchion**_ (Angriff mit Schaden): Energie vs. Deckung, Vorteil 1<br>_**Entflammen**_ (_Anhaltender Schaden_ zufügen): Energie vs. Deckung (Vorteil 1 falls Falchion geführt wird)<br>_**Betäubender Schlag**_ (_Betäubt_ zufügen): Energie vs. Zähigkeit<br>_**Feuerwand**_ (_Barriere, 10' Linie_ wirken): Energie vs. 16 - 20 (KL 1 - 5), Nachteil 1<br>_**Rauchschritt**_ (_Teleportation_ wirken): Bewegung vs. 16 (KL 3)<br>_**Kraftschild**_ (_Resistenz_ wirken): Schutz vs. 16 (KL 3)
+### Leerentemplar
+Leerentemplare des uralten Ordens Schlachtmagier erfahren mindestens 10 Jahre Training bevor sie auch nur ihren ersten Versuch der rigorosen Tests beginnen können, um ein voller Leerentemplar zu werden. Als tödliche Mischung aus Soldat und Leerenmagier bilden sie eine schwer gepanzerte Einheit, die andere Soldaten vor Gefahren bewahrt. Ihre hoch begehrte Wächterrüstung verstärkt ihre Kontrolle über die Leere, sodass ihre Fähigkeiten, feindliche Angriffe zu neutralisieren, erhöht sind.
 #### Strategie
-Void Templars are built to defend, wielding power from the void that
-swallows up attacks from lasers, magic, and all manner of attacks. Using
-their exceptionally high Energie attribute, the Templars can call upon
-the void to nullify almost any attack. Although their heavy armor makes
-them slower than the standard soldier, they can _Teleport_ or even
-invoke _Aura: Eile_ to speed up themselves and their comrades. Also,
-_Teleport_ allows them to access areas and bypass obstacles that others
-might struggle with.
+Leerentemplare sind auf Verteidigung spezialisiert und führen ihre Leerenkräfte, um Angriffe von Lasers, Magie und anderer Art zu verschlucken. Mit ihrem hohen Energieattribut rufen die Templare die Leere an um so gut wie jede Attacke aufzulösen. Auch wenn ihre schwere Rüstung sie langsamer macht als manch anderen Soldaten können sie sich und Verbündete mit *Aura: Eile* schneller machen und *Teleportation* erlaubt ihnen Zugang zu Gebieten, die anderen verwehrt blieben.
 
-Within combat, a Templar's primary duty is to keep their allies alive.
-They make extensive use of the defend action by deploying all manner of
-countermeasures from their Templar Armor, such as laser netting, or the
-onboard micro missiles to intercept incoming projectiles. Their
-_battlefield retribution_ feat allows the Templar to turn these defensive
-actions against the attacker. In addition to these countermeasures,
-Templars also reshape the battlefield and force enemies into tough
-decisions with banes and boons such as _forced move, barrier,_ and
-_Immobilisiert_.
+Im Kampf ist die Hauptaufgabe des Templars, seine Verbündeten am Leben zu halten. Sie nutzen häufig Verteidigungsaktionen, indem sie allerlei Schutzmechanismen ihrer Templarrüstung aktivieren wie z.B. Lasernetze oder Mikroraketen zum Abfangen von Geschossen. Ihre Fertigkeit *Schlachtvergeltung* erlaubt es Templaren, Verteidigungsaktionen gegen den Angreifer zu wenden. Zusätzlich dazu formen sie das Schlachtfeld durch Harme und Wohle wie *Erzwungene Bewegung*, *Barriere* und *Immobilisiert*.
 
 **Attribute:** Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Willenskraft 2 (1d6), Präsenz 2 (1d6), Energie 5 (2d6), Bewegung 4 (1d10)<br>**Trefferpunkte:** 24<br>**Deckung:** 15 (16 mit Schild - Beweglichkeit 2, Templarrüstung 3)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 14<br>**Geschwindigkeit:** 25'
 
-**Fertigkeiten:** Defensive Reflexe I, Battlefield Retribution I, Sentinel I
+**Fertigkeiten:** Defensive Reflexe I, Schlachtvergeltung I, Wächter I
 
 **Wichtige Ausrüstung:** Kampfschild, Pistole, Templarrüstung (als Plattenpanzer gewertet), 1 Granate
 #### Bevorzugte Aktionen
-_**Void Nullification**_ (Verteidigungsaktion): Energie vs. Angriffswurf des Ziels, Vorteil 1<br>_**Void Matrix**_ (10' Linie _Barriere_ wirken): Energie vs. 16 - 20 (KL 3 - 5)<br>_**Quickening Aura**_ (_Aura: Eile_ wirken): Bewegung vs. 18 (KL 4)<br>_**Force Push**_ (_Erzwungene Bewegung_ zufügen): Bewegung vs. Deckung<br>_**Paralysis Beam**_ (_Immobilisiert_ zufügen): Bewegung vs. Deckung<br>_**Telekinesis**_ (_Telekinese_ wirken): Bewegung vs. 16 (KL 3)<br>_**Suppression Field**_ (5' _Aura: Erzwungene Bewegung_ zufügen): Energie vs. 18 (KL 4) 
-
-
-> [!danger]
-> OUTPOINT
+_**Leereneutralisierung**_ (Verteidigungsaktion): Energie vs. Angriffswurf des Ziels, Vorteil 1<br>_**Leerenmatrix**_ (10' Linie _Barriere_ wirken): Energie vs. 16 - 20 (KL 3 - 5)<br>_**Erquickungsaura**_ (_Aura: Eile_ wirken): Bewegung vs. 18 (KL 4)<br>_**Kraftstoß**_ (_Erzwungene Bewegung_ zufügen): Bewegung vs. Deckung<br>_**Paralysestrahl**_ (_Immobilisiert_ zufügen): Bewegung vs. Deckung<br>_**Telekinese**_ (_Telekinese_ wirken): Bewegung vs. 16 (KL 3)<br>_**Unterdrückungsfeld**_ (5' _Aura: Erzwungene Bewegung_ zufügen): Energie vs. 18 (KL 4)
 ## EP erhalten und im Level aufsteigen
 Während die Legende, die du erschaffst, ihren Lauf nimmt und in Gefahr und Gravitas steigt, wird die Macht deines Charakters ebenso wachsen, um den Herausforderungen zu entsprechen. Diese Macht erhält er in Form von Erfahrungspunkten (EP), die der GM als Belohnung vergibt und die es dir erlauben, im Level aufzusteigen und so Zugang zu neuen Fertigkeiten, Attributen, Flüchen und Segen zu erhalten.
 
