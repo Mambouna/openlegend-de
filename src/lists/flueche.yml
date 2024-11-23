@@ -801,9 +801,7 @@
     </ul>
   special: |
     Wenn du diesen Harm erfolgreich wirkst kannst du zum Ende seiner Dauer einen Wurf auf Vorwissen machen, um zu versuchen, den Harm anhalten zu lassen. Bei Erfolg hält der Harm an, ohne die Wirkzeit erneut aufwenden zu müssen. Im Zielgebiet wird der Entschlossenheitswert der Betroffenen wieder mit deinem Wurfergebnis verglichen, um festzustellen, ob sie sich der Präsenz der Fernsicht bewusst werden.
-    When you successfully invoke this bane, at the end of its duration, you can make a Prescience roll to attempt to persist the bane. If successful, the bane persists without requiring the invocation time to be repeated. However, you must retest your new roll against the Resolve scores of those in the targeted area to determine whether or not they can sense your presence.
     Du kannst Fernsicht beliebig oft auf das gleiche Ziel wirken, aber falls du deinen Aktionswurf zum Wirken verfehlst, ist das Ziel für die nächsten 24 Stunden immun.
-    You can attempt to spy the same target any number of times, but if your action roll fails, that target becomes immune to your spying for 24 hours.
 - !
   name: Erkrankt
   OGname: Sickened

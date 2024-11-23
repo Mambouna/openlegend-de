@@ -46,8 +46,8 @@
     Deine Fähigkeit, eine Kreatur zu animieren, gibt dir nicht die Fähigkeit, diese permanent zu kontrollieren. Neu erschaffene Wesen liegen aber unter dem *bezaubert*-Harm (siehe unten) und behandeln dich so direkt nach ihrer Erschaffung wohlwollend.
     Der GM, nicht der Spieler, ist dafür verantwortlich, die Attribute und Fähigkeiten der animierten Kreatur zu entscheiden und sollte dabei den Leitlinien unter "Einfacher Aufbau" für das Erstellen von NPCs in Kapitel 8: Das Spiel leiten folgen. Kreaturen, die mit diesem Wohl erschaffen werden, sind typischerweise auf weniger als menschliche Intelligenz beschränkt, wie bei Zombies, Kampfdroiden oder Golems.
     <ul>
-    <li><strong>Kraftlevel 6 - </strong> Du kannst eine einzige Kreatur animieren. Dein dafür genutztes Attribut muss gleich oder höher dem höchsten Attributwert der Kreatur sein, die du animierst. Bei einem erfolgreichen Wirken, entsteht die Kreatur mit dem *bezaubert*-Harm (leichte Bezauberung[?]) schon auf sie angewendet (kein Wurf ist dafür nötig).</li>
-    <li><strong>Kraftlevel 8 - </strong> Du kannst dich entscheiden, eine Gruppe Kreaturen zu animieren: Entweder 10 Kreaturen mit einem maximalen Attributwert von 2, 5 Kreaturen mit einem maximalen Attributwert von 3 oder 2 Kreaturen mit einem maximalen Attributwert von 5. Weiterhin kommen alle diese Kreaturen mit dem Harm *tiefe Bezauberung* in ihre Existenz statt *leichte Bezauberung*.</li>
+    <li><strong>Kraftlevel 6 - </strong> Du kannst eine einzige Kreatur animieren. Dein dafür genutztes Attribut muss gleich oder höher dem höchsten Attributwert der Kreatur sein, die du animierst. Bei einem erfolgreichen Wirken, entsteht die Kreatur mit dem <em>bezaubert</em>-Harm (leichte Bezauberung[?]) schon auf sie angewendet (kein Wurf ist dafür nötig).</li>
+    <li><strong>Kraftlevel 8 - </strong> Du kannst dich entscheiden, eine Gruppe Kreaturen zu animieren: Entweder 10 Kreaturen mit einem maximalen Attributwert von 2, 5 Kreaturen mit einem maximalen Attributwert von 3 oder 2 Kreaturen mit einem maximalen Attributwert von 5. Weiterhin kommen alle diese Kreaturen mit dem Harm <em>Tiefe Bezauberung</em> in ihre Existenz statt <em>leichte Bezauberung</em>.</li>
     </ul>
 - !
   name: Aura
@@ -91,7 +91,7 @@
     <li><strong>Kraftlevel 6</strong> - 10' Radius</li>
     <li><strong>Kraftlevel 8</strong> - 15' Radius</li>
     </ul>
-  Wähle einen einzigen Harm oder ein Wohl aus, die das gleiche Attribut nutzen, mit der du diese Aura wirkst. Das maximale Kraftlevel für den gewählten Harm oder das Wohl ist die Hälfte des kraftlevels dieser Aura. Deine Aura strahlt den gewählten Harm oder das Wohl wie folgt aus:
+    Wähle einen einzigen Harm oder ein Wohl aus, die das gleiche Attribut nutzen, mit der du diese Aura wirkst. Das maximale Kraftlevel für den gewählten Harm oder das Wohl ist die Hälfte des kraftlevels dieser Aura. Deine Aura strahlt den gewählten Harm oder das Wohl wie folgt aus:
     <ul>
     <li><strong>Falls die Aura einen Harm ausstrahlt,</strong> dann wird das Ziel der Aura nicht von diesem getroffen. Alle anderen Kreaturen (Freund und Feind), die willentlich das Gebiet der Aura betreten oder ihren Zug darin beenden erleiden einen Harmangriff, der diesen Harm zufügt. Keine Kreatur kann mehr als einmal pro Runde von einer Harmattacke der gleichen Aura getroffen werden.</li>
     <li><strong>Falls die Aura ein Wohl ausstrahlt,</strong> dann wird das Ziel der Aura auch davon betroffen. Das Ziel und alle Verbündeten, die ihren Zug im Gebiet der Aura beenden, erhalten automatisch das gewählte Wohl. Sobald sie das Gebiet der Aura verlassen, verfällt das Wohl sofort. Keine Kreatur kann ein Wohl mehr als einmal pro Runde von der gleichen Aura erhalten.</li>
@@ -472,11 +472,10 @@
     Das Ziel verschwindet aus dem sichtbaren Lichtspektrum, entweder indem es das Licht bricht, eine Illusion erschafft oder in einen extradimensionalen Raum zwischen den Ebenen der Realität tritt. Dieses Wohl ist unter Spezialagenten beliebt, Illusionisten, Schattentänzern, Erfindern und ähnlichen Charakteren.
   effect: |
     <strong>MERKE:</strong> Dieses Wohl wurde durch Verborgenheit ersetzt.<br>
-    [TODO]
-    Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage according to the boon's Power Level on Agility rolls to hide. If completely still, this bonus is doubled. The target's Guard defense is increased against melee and ranged attacks, though it is unchanged against area attacks. When making an attack against target's that can't see you, their Guard defense is reduced. You cannot be the target of opportunity attacks unless the enemy can see you through non-visual means.
+    Licht scheint durch das Ziel hindurch, sodass es transparent wird. Seine physische Form verzerrt die Lichtstrahlen auf eine Weise, die nur die schärfsten Augen wahrnehmen können. Das Ziel erhält Vorteil anhand des Kraftlevels des Wohles auf Beweglichkeitswürfe, um sich zu verstecken. Falls es vollständig stillsteht, wird der Bonus verdoppelt. Die Deckung des Ziels ist gegen Nah- und Fernkampfangriffe erhöht, bleibt gegen Gebietsattacken aber unverändert. Führt das Ziel eine Attacke gegen eine Kreatur aus, die es nicht sehen kann, ist die Deckung der Kreatur reduziert. Du kannst nicht das Ziel von Gelegenheitsattacken durch Feinde werden, die dich nicht wahrnehmen können.
     <ul>
-    <li><strong>Kraftlevel 5</strong> - Advantage 3 to hide, +3 to Guard against ranged and melee attacks, and -2 to Guard for targets that can't see you.</li>
-    <li><strong>Kraftlevel 6</strong> - Advantage 5 to hide, +5 to Guard against ranged and melee attacks, and -4 to Guard for targets that can't see you.</li>
+    <li><strong>Kraftlevel 5</strong> - Vorteil 3 auf Verstecken, +3 Deckung gegen Nah- und Fernkampfangriffe, -2 Deckung für angegriffe Kreaturen, die dich nicht sehen können.</li>
+    <li><strong>Kraftlevel 6</strong> - Vorteil 5 auf Verstecken, +5 Deckung gegen Nah- und Fernkampfangriffe, -4 Deckung für angegriffene Kreaturen, die dich nicht sehen können.</li>
     </ul>
 - !
   name: Lebensraub

@@ -13,7 +13,7 @@ Jetzt, wo du einige deiner Lieblinge im Kopf hast, lass uns deinen Charakter ers
 > 
 >  Falls du Inspiration für deinen Charakter oder einen einfachen Punkt zum Starten brauchst, kannst du diese vorerstellten Charaktere durchsehen, die unten verlinkt sind. Falls du einen Charakter findest, den du gerne benutzen würdest, kopiere einfach die Tabellendatei und verändere sie so, wie es dir richtig scheint. Die Tabellen schließen Gleichungen ein, die die meisten Berechnungen für dich übernehmen. Du kannst auch das **Level**-Feld anpassen, um die korrekte Anzahl an Fertigkeiten- und Attributpunkte generieren zu lassen, falls du einen Charakter über Level 1 erstellst.
 > 
-> [Bereitgestellte Charaktere durchsehen](https://drive.google.com/drive/folders/0Bx_UrXHMi3wmUlJjbDZiaGtIX00?resourcekey=0-xjZXrB5pSASVlYDvxvQR9A&usp=sharing) [TODO]
+> [Bereitgestellte Charaktere durchsehen](https://drive.google.com/drive/folders/0Bx_UrXHMi3wmUlJjbDZiaGtIX00?resourcekey=0-xjZXrB5pSASVlYDvxvQR9A&usp=sharing)
 ## Schritt 1: Beschreibe deinen Charakter
 Open Legend ist ein Rollenspiel, was bedeutet, dass dein Charakter mehr Tiefe benötigt, als nur eine Sammlung von Attributen, Fähigkeiten, Charakterstärken und Ausrüstung. Um deinen Charakter zum Leben erwachen zu lassen, gib ihm einige der folgenden Details. Falls dir noch nichts einfällt, versuche, die Lücken während der ersten paar Spielsitzungen auszufüllen, während du deinen Charakter besser kennenlernst.
 
@@ -211,7 +211,7 @@ Im Kampf sind Kampfmagier die Ein-Mann-Front. Ihre schwere Rüstung lässt sie g
 
 **Attribute:** Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Kraft 4 (1d10), Präsenz 3 (1d8), Energie 5 (2d6)<br>**Trefferpunkte:** 22<br>**Deckung:** 20 (21 mit Schild - Beweglichkeit 2, Kraft 4, Plattenpanzer 3 Fertigkeit 1)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 25'
 
-**Fertigkeiten:** Multi-Ziel Attackenspezialisierung II (Bereich), Rüstungstraining[?] I
+**Fertigkeiten:** Multi-Ziel Angriffsspezialisierung II (Bereich), Rüstungstraining[?] I
 
 **Wichtige Ausrüstung:** Plattenpanzer, kleiner Schild, Langschwert, Speer, Kriegshammer
 #### Bevorzugte Aktionen
@@ -281,292 +281,145 @@ Aufgrund ihrer engen Verbindung zur Natur neigen Druiden dazu, ihre Umgebung zum
 
 **Attribute:** Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Kraft 2 (1d6), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Wandlung 5 (2d6), Schöpfung 3 (1d8)<br>**Trefferpunkte:** 20<br>**Deckung:** 17 (Beweglichkeit 2, Kraft 2, Schienenrüstung[?] 3)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 25'
 
-**Fertigkeiten:** Segenfokus II (Gestaltwandlung)
+**Fertigkeiten:** Segenfokus II (Gestaltwandel)
 
 **Wichtige Ausrüstung:** Schienenrüstung (als Plattenpanzer gewertet), Stab, Kurzspeer
 #### Bevorzugte Aktionen
-***Gestaltwandel*** (*Gestaltwandlung* wirken): Auto-Erfolg auf KL 5 durch *Segenfokus*<br>***Klammernde Ranken*** (*Immobilisiert* zufügen): Schöpfung vs. Zähigkeit<br>***Dornenhecke*** (*Barriere* wirken): Schöpfung vs. 16 (KL 3)<br>***Pflanzen animieren*** (*Kreatur beschwören* wirken): Wandlung vs. 18 - 20 (KL 4 - 5)<br>***Wiederwuchs*** (*Regeneration* wirken): Wandlung vs. 12 - 20 (KL 1 - 5)
+***Gestaltwandel*** (*Gestaltwandel* wirken): Auto-Erfolg auf KL 5 durch *Segenfokus*<br>***Klammernde Ranken*** (*Immobilisiert* zufügen): Schöpfung vs. Zähigkeit<br>***Dornenhecke*** (*Barriere* wirken): Schöpfung vs. 16 (KL 3)<br>***Pflanzen animieren*** (*Kreatur beschwören* wirken): Wandlung vs. 18 - 20 (KL 4 - 5)<br>***Wiederwuchs*** (*Regeneration* wirken): Wandlung vs. 12 - 20 (KL 1 - 5)
 #### Bärenform
 **Attribute:** Kraft 5 (2d6), Beweglichkeit 1 (1d4), Konstitution 3 (1d8), Wahrnehmung 2 (1d6)<br>**Trefferpunkte:** 20<br>**Deckung:** 19 (Beweglichkeit 1, Kraft 5, Schienenrüstung 3)<br>**Geschwindigkeit:** 25'
 #### Falkenform
 **Attribute:** Kraft 1 (1d4), Beweglichkeit 3 (1d8), Konstitution 1 (1d4), Wahrnehmung 5 (2d6)<br>**Trefferpunkte:** 16<br>**Deckung:** 14 (Beweglichkeit 3, Kraft 1)<br>**Geschwindigkeit:** 30' fliegend
 #### Haiform
 **Attribute:** Kraft 4 (1d10), Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Wahrnehmung 3 (1d8)<br>**Trefferpunkte:** 20<br>**Deckung:** 19 (Beweglichkeit 2, Kraft 4, Schienenrüstung 3)<br>**Geschwindigkeit:** 30' schwimmend
-> [!danger]
-> INPOINT
 ### Ingenieur
-Engineers are infused with the spark of creation, and can comprehend the
-inner workings of extremely complex systems. While Engineers are
-typically dextrous and tough as nails, their real power lies in the
-cogwheel gadgets they whip up with ease from spare parts and salvaged
-goods. These hissing steam gizmos and mechanical implements ensure that
-the Engineer is prepared for any situation.
+Ingenieure haben einen Funken Schöpfung in sich und können die Funktionsweise extrem komplexer Systeme durchschauen. Auch wenn Ingenieure selbst typischerweise flink sind und eine Lederhaut haben, liegt ihre wahre Stärke in den cleveren Maschinen, die sie aus Schrott und Ersatzteilen zusammenbauen. Diese zischenden Dampfgestalten und mechanische Werkzeuge stellen sicher, dass der Ingenieur für jede Situation gewappnet ist.
 #### Strategie
-In non-combat situations, the Engineer's prowess comes from the
-versatility of their creations. Given enough time, they can use the
-_craft extraordinary item_ feat to prepare for a wide variety of
-situations. Whether they are building a 100' ladder that can collapse to
-the size of a backpack, a remote controlled scout bot, or a wearable
-automated wound closing device, the Engineer can always find a way to
-put their creative skills to provide the party with utility and
-flexibility.
+Wenn sie nicht im Kampf sind, verlassen Ingenieure sich auf ihre cleveren Erfindungen. Mit genug Zeit können sie *Außergewöhnliches Item Erschaffen* nutzen, um sich auf eine Reihe verschiedener Situationen vorzubereiten. Ob sie eine 100' lange Leiter basteln, die sich auf die Größe eines Rucksacks zusammenfalten lässt, einen ferngesteuerten Spähroboter oder einen tragbaren Wundversorger, ein Ingenieur kann immer einen Weg finden, seine Kreativität mit flexiblen Lösungen und praktischen Gegenständen zum Wohl der Gruppe anzuwenden.
 
-In combat, Engineers adjust their strategy to the problem at hand to
-support their companions. The _Verstärken_ boon can represent anything from
-a pair of spring loaded boots to a guided targeting helmet. When enemies
-are overwhelming, the Engineer uses _Kreatur beschwören_ to activate one or
-more of their combat bots. And if their fancy creations and jury-rigged
-gizmos aren't doing the job, the Engineer is no slouch with a trusty old
-hand cannon.
+Im Kampf richten sich Ingenieure nach der momentanen Situation, um ihre Verbündeten zu unterstützen. Das Wohl *Verstärken* kann alles mögliche darstellen, von einem Paar Springstiefel zu einem zielsuchenden Helm. Wenn die Feinde übermächtig scheinen, kann der Ingenieur mit *Kreatur Beschwören* einen oder mehrere Kampfbots aktivieren. Sollten die Erfindungen und Roboter des Ingenieurs mal nicht ausreichen, so ist er selbst auch im Gebrauch seiner guten alten Handkanone geübt.
 
-**Attribute:** Beweglichkeit 3 (1d8), Konstitution 3 (1d8), Lernen 3 (1d8), Logik 3 (1d8), Wahrnehmung 1 (1d4), Schöpfung 5 (2d6)<br>**Trefferpunkte:** 16<br>**Deckung:** 15 (Beweglichkeit 3, Kevlarwest 2)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 10<br>**Geschwindigkeit:** 30'
+**Attribute:** Beweglichkeit 3 (1d8), Konstitution 3 (1d8), Lernen 3 (1d8), Logik 3 (1d8), Wahrnehmung 1 (1d4), Schöpfung 5 (2d6)<br>**Trefferpunkte:** 16<br>**Deckung:** 15 (Beweglichkeit 3, Kevlarweste 2)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 10<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Segenfokus I (Kreatur beschwören), Außergewöhnliches Item erschaffen I
+**Fertigkeiten:** Segenfokus I (Kreatur Beschwören), Außergewöhnliches Item Erschaffen I
 
 **Wichtige Ausrüstung:** Handkanone (Revolver), Kevlarweste, 2
 Granaten, Ingenieurswerkzeuge
 #### Bevorzugte Aktionen
-_**Handkanone**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Granate**_ (Angriff mit Schaden, 10' Würfel): Beweglichkeit vs. Deckung<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Verstärkung!**_ (_Kreatur beschwören_ wirken): Auto-Erfolg auf KL 5 durch _Segenfokus_<br>_**Gadgets & Gizmos**_ (_Verstärken_ wirken): Schöpfung vs. 16 (KL 3)<br>_**DIY-Wunder**_ (_genesis_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)<br>_**Wunde ausbrennen**_ (_Heilen_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)
+_**Handkanone**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Granate**_ (Angriff mit Schaden, 10' Würfel): Beweglichkeit vs. Deckung<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Verstärkung!**_ (_Kreatur Beschwören_ wirken): Auto-Erfolg auf KL 5 durch _Segenfokus_<br>_**Gadgets & Gizmos**_ (_Verstärken_ wirken): Schöpfung vs. 16 (KL 3)<br>_**DIY-Wunder**_ (_Genesis_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)<br>_**Wunde ausbrennen**_ (_Heilen_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)
 ### Revolverheld
-Some are lawmen who serve as judge, jury, and executioner. Others are
-bounty hunters trying to earn enough cash to pay off an old debt. Still
-others are mercenaries who shoot for the highest bidder. Whatever their
-motivation, all Gunslingers invoke fear from any fool unfortunate enough
-to end up on the wrong end of their barrel.
+Manch einer ist Richter und Exekutor zugleich. Andere sind Kopfgeldjäger, die eine alte Schuld begleichen müssen. Wieder andere sind Söldner, die nur für den Höchstbietenden ihr Eisen ziehen. Egal, woher ihre Motivation kommt, alle Revolverhelden bringen diejenigen zum Bangen, die am falschen Ende ihrer Colts landen.
 #### Strategie
-Gunslingers do more than just hurl lead. Their prowess in ranged combat
-is fueled by entropic energy gained from otherworldly powers, either
-purchased through diabolical pacts or earned through prowess of mind and
-spirit. Out of combat, Gunslingers are perceptive and intimidating, and
-they can overawe lesser folk with ease. While many Gunslingers are
-loners bent solely on achieving their mission, those who step up to the
-occasion make excellent leaders to pull a ragtag posse together into a
-cohesive unit.
+Revolverhelden tun mehr, als nur um sich zu schießen. Ihre Expertise im Fernkampf wird durch Energie des Vergehens gespeist, die sie von außerweltlichen Mächten, einem Pakt mit dem Teufel oder durch die Verschmelzung von Geist und Seele erlangt haben. Außerhalb des Kampfes sind Revolverhelden aufmerksam und einschüchternd, sodass sie einfache Leute mühelos gefügig machen. Die meisten Revolverhelden sind Einzelgänger, die sich allein ihrer Mission verschrieben haben, doch manch andere zeigen sich als gekonnte Anführer, die eine Bande Einzelkämpfer in eine effektive Einheit verwandeln können.
 
-When a fight breaks out, Gunslingers keep their distance and use their
-dual revolvers to rain hell down upon their foes. When damage alone isn't
-getting the job done, Gunslingers can aim their shots to hinder enemies
-in all manner of ways: shooting their weapons out of their hands,
-knocking the wind out of them, or blowing off a toe. The _multi-attack specialist_
-feat allows them to shoot twice as fast as a lesser gunfighter, enabling them to
-take on large groups of foes single-handedly. Supplementing their marksmanship
-with dark powers, they invoke banes and boons with Vergehen. Favorites include
-invoking _Lebensraub_ to heal a little bit with every shot and afflicting enemies
-with the _Erkrankt_ bane to render their attacks nearly useless. When foes close
-in, a Gunslinger doesn't hesitate to use Vergehen to create a defensive _aura_ or
-scare enemies away with _Furcht_.
+Beginnt ein Gefecht, so bleibt der Revolverheld auf Distanz und benutzt seine beiden Revolver, um Feinde mit Blei zu durchlöchern. Wenn Schaden allein nicht genug ist, kann der Revolverheld bestimmte Ziele anvisieren, um die Gegner zu hindern: Waffen aus der Hand schießen, jemand mit einem Schuss den Atem nehmen oder Zehen abtrennen. Die Fertigkeit *Multiangriffsspezialisierung* erlaubt es ihm, doppelt so schnell zu schießen als ein anderer Schütze, sodass er große Gruppen Feinde ihm Alleingang niedermähen kann. Um seine Schießkunst zu ergänzen, nutzt der Revolverheld *Vergehen*, um Harme und Wohle zu wirken. Häufig ist es der Harm *Lebensraub*, um mit jedem Schuss etwas der genommenen Vitalität selbst zu erlangen, oder *Erkrankt*, um die Angriffe seiner Feinde nutzlos zu machen. Kommen Gegner näher, kann der Revolverheld das eine defensive *Aura* erzeugen oder Gegner mit *Furcht* belegen.
 
-**Attribute:** Beweglichkeit 5 (2d6), Wahrnehmung 3 (1d8), Willenskraft 2 (1d6), Präsenz 3 (1d8), Vergehen 4 (1d10)<br>**Trefferpunkte:** 20<br>**Deckung:** 17 (Beweglichkeit 5, Heavy Trench Coat 2)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 16<br>**Geschwindigkeit:** 30'
+**Attribute:** Beweglichkeit 5 (2d6), Wahrnehmung 3 (1d8), Willenskraft 2 (1d6), Präsenz 3 (1d8), Vergehen 4 (1d10)<br>**Trefferpunkte:** 20<br>**Deckung:** 17 (Beweglichkeit 5, Schwerer Trenchcoat 2)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 16<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Multi-Attack Specialist II
+**Fertigkeiten:** Multiangriffsspezialisierung II
 
 **Wichtige Ausrüstung:** Schwerer Trenchcoat (als Kevlarweste gewertet), 2 Revolver, Gewehr
 #### Bevorzugte Aktionen
 _**Zwei-Knarren-Ansturm**_ (Fokusaktion, Angriff mit Schaden, 2 Angriffe): Beweglichkeit vs. Deckung<br>_**Den Spahn schlagen**_ (Fokusaktion, Angriff mit Schaden, 3 Angriffe): Beweglichkeit vs. Deckung, Nachteil 3<br>_**Kopfgeld verfluchen**_ (_Betäubt_ zufügen): Vergehen vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung. Vorteil 1<br>_**Handschuss**_ (_Entwaffnet_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Gewehr**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Dunkelknallschuss**_ (_Erkrankt_ zufügen): Vergehen vs. Zähigkeit<br>_**Missgünstiger Schatten[?]**_ (5' _Aura: Anhaltender Schaden_ wirken): Vergehen vs. 18 (KL 4)<br>_**Seelenriss**_ (_Lebensraub_ zufügen): Vergehen vs. 20 (KL 5)<br>_**Gnadenloser Blick**_ (_Furcht_ zufügen): Vergehen vs. Entschlossenheit
 ### Hacker
-Knowledge is power, as the saying goes, and the Hacker is a testament to
-the fact that nearly anyone can be taken down with the right
-information. Some Hackers are mercenaries that work for the highest
-bidder, primarily in the game for the adrenaline rush and the thrill of
-controlling massive amounts of data and the fates of those who depend on
-it. Others rally behind a larger cause with intent of changing the world
-for better or worse.
+Wissen ist Macht, wie das Sprichtwort verkündet. Der Hacker ist der Beweis, dass so gut wie jeder mit der richtigen Information zu Fall gebracht werden kann. Manche Hacker sind Söldner, die für den höchsten Lohn arbeiten und den Thrill lieben, riesige Mengen an Daten zu kontrollieren, von denen Leben abhängen. Andere verschreiben sich einem höheren Ziel, um die Welt zum Besseren oder Schlechteren zu wenden.
 #### Strategie
-The Hacker is a master of data and information. Above all, they seek to
-gather information and harness its power. Hackers use information to
-piece together secrets and data which others assume is secured beyond
-access. Out of combat, the Hacker uses banes and boons such as _seeing_
-via their drone and _Weitsicht_ or _Voraussicht_ to track information or
-persons of interest through databases, servers, surveillance cameras,
-credit card records, and and other sources of poorly secured or encrypted data.
-If deception is called for, Hackers tap into the almost omni-present streams
-of data of systems distributed throughout the world to fabricate video feeds,
-holograms, or audio transmissions using the _Phantasmus_ bane.
+Der Hacker ist ein Meister von Daten und Information und sucht, ihre Macht zu nutzen. Hacker stückeln aus Infofetzen Geheimnisse und Daten zusammen, die andere für verschlüsselt halten. Außerhalb des Kampfes nutzt der Hacker Harme und Wohle wie *Treusicht* um durch seine Drohne zu sehen und *Weitsicht* oder *Voraussicht*, um Informationen und Personen durch Datenbanken, Server, Sicherheitskameras, Kreditkarteneinträge und andere schlecht gesicherte Datenströme zu verfolgen. Falls Täuschung gebraucht wird, nutzt der Hacker die fast allgegenwärtigen Streams um mit dem Harm *Phantom* Videos, Hologramme und Audiosignale zu fabrizieren.
 
-When combat breaks out, Hackers tend to avoid the front lines, relying
-on their drones to do the fighting for them. From a secure vantage
-point, the Hacker pilots the multi-purpose drone using a tablet or
-similar device, using its mounted laser cannon to hold enemies back. In
-addition to drone combat, Hackers also assist allies with the _Verstärken_
-boon through illicit data and hacking nearby systems to gain an edge.
+Wenn ein Kampf ausbricht, meidet ein Hacker die Front und lässt seine Drohnen für sich kämpfen. Von einem sicheren Punkt aus steuert der Hacker sie mit einem Tablet oder ähnlichem Gerät und lässt ihre Laserwaffe Feinde zurückhalten. Neben dem Kampf mit der Drohne nutzen Hacker auch das Wohl *Verstärken*, um ihren Verbündeten zu helfen, indem sie ihnen Informationen zur Verfügung stellen oder lokale Systeme übernehmen.
 
 **Attribute:** Logik 4 (1d10), Willenskraft 3 (1d8), Wahrnehmung 2 (1d6), Einfluss 3 (1d8), Vorwissen 5 (2d6)<br>**Trefferpunkte:** 16<br>**Deckung:** 10<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Companion I (Drone), Fluchfokus (Spying), Untrackable
+**Fertigkeiten:** Gefährte I (Drohne), Harmfokus (Fernsicht), Spurenlos
 
-**Wichtige Ausrüstung:** Tablet, Laptop, VR Goggles
+**Wichtige Ausrüstung:** Tablet, Laptop, VR-Brille
 #### Bevorzugte Aktionen
-_**Dark Web Recherche**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Algorithmische Voraussage**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Multivalente Sensorenaufnahme**_ (_Wahrsicht_ wirken): Vorwissen vs. 20 (KL 5)<br>_**IoT Zombie Network**_ (_Weitsicht_ zufügen): Vorwissen vs. Entschlossenheit, Vorteil 2<br>_**Hologrammprojektion**_ (_Phantasmus_ zufügen): Einfluss vs. Entschlossenheit<br>_**Neuronen neulegen**_ (_Bezaubert_ zufügen): Einfluss vs. Entschlossenheit
-#### Drone Companion
+_**Dark Web Recherche**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Algorithmische Voraussage**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Multivalente Sensorenaufnahme**_ (_Wahrsicht_ wirken): Vorwissen vs. 20 (KL 5)<br>_**IoT Zombienetzwerk**_ (_Weitsicht_ zufügen): Vorwissen vs. Entschlossenheit, Vorteil 2<br>_**Hologrammprojektion**_ (_Phantasmus_ zufügen): Einfluss vs. Entschlossenheit<br>_**Neuronen neulegen**_ (_Bezaubert_ zufügen): Einfluss vs. Entschlossenheit
+#### Drohnengefährte
 **Attribute:** Beweglichkeit 3 (1d8), Konstitution 1 (1d4), Logik 1 (1d4), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Energie 4 (1d10)<br>**Trefferpunkte:** 16<br>**Deckung:** 13 (Beweglichkeit 3)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
 
 **Fertigkeiten:** keine
 #### Bevorzugte Aktionen
 _**Laser**_ (Angriff mit Schaden): Energie vs. Deckung<br>_**Betäubungsstrahl**_ (_Immobilisiert_ zufügen): Energie vs. Zähigkeit
 ### Mystiker
-Mystics are typically found far removed from the hustle and bustle
-of the city and detached from the advances of the society they left behind.
-They prefer to listen to the still quiet voice
-within, eschewing all material possessions and living as ascetics
-attempting to purge themselves of all self-centered ambition.
+Mystiker finden sich meist abseits des Trubels der Stadt, wo sie die Fortschritte der Gesellschaft hinter sich gelassen haben. Sie ziehen es vor, der leisen Stimme im Inneren zu lauschen, wobei sie materiellen Besitz ablehnen und ein asketisches Leben auf der Suche danach führen, allen selbstzentrierten Gedanken zu entsagen. 
 #### Strategie
-Out of combat, Mystics command a vast array of capabilities that make
-them excellent information gatherers, detectives, and supernaturally
-empowered forensic analysts. They are able to predict future danger via
-the _Voraussicht_ boon, discover all manner of information by divining
-an item's past with the _Wahrsagung_[?] boon, utilize the _Weitsicht_ bane to
-track enemy movements from far away, and communicate with any creature
-via the _Telepathie_ boon.
+Außerhalb des Kampfes führen Mystiker eine breite Auswahl an Fähigkeiten, die sie zu guten Informationssammlern, Detektiven, und übernatürlichen forensischen Analytikern machen. Sie sind in der Lage, zukünftige Gefahr mit dem Wohl *Voraussicht* kommen zu sehen, allerlei Informationen mit *Lesung* aus der Vergangenheit eines Items zu ziehen, mit *Weitsicht* gegnerische Bewegungen aus der Ferne zu beobachten und mit jeglicher Kreatur durch *Telepathie* zu kommunizieren.
 
-Mystics who have allied with a larger group typically utilize their
-powers purely for defense and protection of others, invoking _Verstärken_
-to impart psychic insight to allies, _Gedankenraub_ to steal enemy
-secrets, and using Schutz to perform defend actions with the help of
-the _Defensive Reflexe_ feat. Mystics are also adept at shutting down
-enemy boons via _Annulieren_, as well as canceling banes afflicting allies
-via the _Medikus_ feat.
+Mystiker, die sich einer größeren Gruppe angeschlossen haben, nutzen ihre Kräfte meist zu Verteidigung anderer, z.B. indem sie *Verstärken* nutzen, um Freunden psychische Kenntnisse zu geben, *Gedankenraub*, um Feinden ihre Geheimnisse zu entziehen und indem sie Schutz und die Fertigkeit *Defensive Reflexe* nutzen, um Verteidigungsaktionen auszuführen. Mystiker sind auch gewandt darin, die Pläne von Feinden mit *Annullieren* zu durchkreuzen und Harme auf Verbündeten mit der Fertigkeit *Medikus* zu behandeln.
 
 **Attribute:** Beweglichkeit 3 (1d8), Willenskraft 3 (1d8), Schöpfung 2 (1d6), Vorwissen 5 (2d6), Schutz 4 (1d10)<br>**Trefferpunkte:** 16<br>**Deckung:** 13<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Heightened Invocation I, Defensive Reflexe I, Medikus
+**Fertigkeiten:** Verstärkte Wirkung I, Defensive Reflexe I, Medikus
 
 **Wichtige Ausrüstung:** Stab, Robe
 #### Bevorzugte Aktionen
-_**Den Pfad vorhersehen**_ (Verteidigungsaktion): Schutz vs. Angriffswurf des Ziels, Vorteil 1<br>_**Freimachen**_ (Besondere Aktion): Fertigkeit _Medikus_ einsetzen, um einem Verbündeten einen Widerstehenwurf zu geben<br>_**Geteilte Einsicht**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Sicht aus der Ferne**_ (_Weitsicht_ zufügen): Vorwissen vs. Entschlossenheit<br>_**Gedankenbrücke**_ (_Telepathie_ wirken): Vorwissen vs. 16 - 20 (KL 3 - 5)<br>_**Kraftraub**_ (_Annulieren_ zufügen): Schutz vs. Entschlossenheit<br>_**Gedanken lesen**_ (_Gedankenraub_ zufügen): Vorwissen vs. Entschlossenheit<br>_**Blick in die Vergangenheit**_ (_Wahrsagung_[?] wirken): Vorwissen vs. 20 (KL 5)<br>_**Blick in die Zukunft**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Verjüngung**_ (_Heilen_ wirken): Schöpfung vs. 12 - 14 (KL 1 - 2)
+_**Den Pfad vorhersehen**_ (Verteidigungsaktion): Schutz vs. Angriffswurf des Ziels, Vorteil 1<br>_**Freimachen**_ (Besondere Aktion): Fertigkeit _Medikus_ einsetzen, um einem Verbündeten einen Widerstehenwurf zu geben<br>_**Geteilte Einsicht**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Sicht aus der Ferne**_ (_Weitsicht_ zufügen): Vorwissen vs. Entschlossenheit<br>_**Gedankenbrücke**_ (_Telepathie_ wirken): Vorwissen vs. 16 - 20 (KL 3 - 5)<br>_**Kraftraub**_ (_Annulieren_ zufügen): Schutz vs. Entschlossenheit<br>_**Gedanken lesen**_ (_Gedankenraub_ zufügen): Vorwissen vs. Entschlossenheit<br>_**Blick in die Vergangenheit**_ (_Lesung_ wirken): Vorwissen vs. 20 (KL 5)<br>_**Blick in die Zukunft**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Verjüngung**_ (_Heilen_ wirken): Schöpfung vs. 12 - 14 (KL 1 - 2)
 ### Ningyozukai
-The Ningyozukai, or Puppeteers, are sorcerers capable of channeling
-their spirits to possess enchanted suits of Yoroi armor, transforming the
-armor into a powerful animated weapon. Also gifted with magics of
-healing and protection, the Ningyozukai only call on the Yoroi armor
-when a situation call for force of arms or brute strength.
+Die Ningyozukai - oder Puppenspieler - sind Zauberer, die in der Lage sind, ihren Geist verzauberte Yoroirüstungen beleben zu lassen, sodass diese zu mächtigen Waffen werden. Die Ningyozukai, die darüber hinaus außerdem Magie der Heilung und des Schutzes besitzen, rufen ihren Yoroirüstungen nur hervor, wenn die Situation Waffengewalt und rohe Kraft bedarf.
 #### Strategie
-The Ningyozukai make use of the _alternate form_ feat in order to
-provide two distinct character options that may be swapped as needed. In
-their normal form, they are physically frail sorcerers who offer support
-to the party through boons such as _resistance, heal,_ and _Verstärken_. In
-combat, their only means of inflicting damage is by using _summon
-creature_ to call forth minor guardian spirits.
+Die Ningyozukai nutzen *Alternative Gestalt*, um je nach Bedarf zwischen zwei separaten Charakterarten zu wechseln. In ihrer normalen Form sind sie physisch schwache Zauberer, die Verbündete mit Wohlen wie *Resistenz*, *Heilen* und *Verstärken* unterstützen. Im Kampf können sie nur mit *Kreatur beschwören* Schaden zufügen, indem sie niedere Schutzgeister berufen.
 
-When the situation calls for it, the sorcerer will animate their Yoroi
-armor, which serves as an indestructible melee warrior. The Yoroi form
-has very high defenses and hit points, and its Kraft score of 5 combined
-with a two-handed naginata ensures that it will deal out significant
-damage while also manipulating the battlefield with banes such as
-_knockdown, forced move,_ and _Immobilisiert_. In particularly difficult
-fights, the Yoroi enters a _Kampftrance_, gaining even stronger
-defenses and better attack prowess.
+Wenn die Situation es erfordert, ruft der Zauberer seine Yoroirüstung hervor, die ihm als unverwüstbarer Nahkämpfer dient. Die Yoroigestalt hat starke Verteidigungen und hohe TP. Ihr Kraftwert von 5 sichert ihr zusammen mit dem zweihändigen Naginata hohen Schaden zu, während sie das Schlachtfeld mit Harmen wie *Niedergeschlagen*, *Erzwungene Bewegung* und *Immobilisiert*. In besonders harten Kämpfen verfällt die Yoroirüstung in *Kampftrance* und gewinnt so noch stärkere Verteidigungen und Angriffe.
 
-Although the Ningyozukai make use of the _alternate form_ feat, they do
-not actually physically transform when switching between sorcerer or
-Yoroi forms. Rather, the Yoroi armor, possessed by the sorcerer's
-spirit, surrounds its frail master to encase and protect.
-Activating the _alternate form_ feat represents the sorcerer focusing
-all of their will on possessing the Yoroi to make full use of its
-offensive powers. Thus, the Ningyozukai can only utilize actions and
-attributes from one of its forms at any time.
-#### Sorcerer Form
+Auch wenn Ningyozukai die Fertigkeit *Alternative Gestalt* nutzen, verwandeln sie sich nicht selbst physisch beim Wechsel zwischen Zauberer- und Yoroirüstungsform. Stattdessen hüllt die Yoroirüstung unter der mentalen Kontrolle des Ningyozukai den Zauberer zum Schutz in ihr magisches Metall. *Alternative Gestalt* zu aktivieren repräsentiert die volle Konzentrations des Zauberers auf die Kontrolle der Rüstung, sodass er währenddessen seine eigenen Fähigkeiten nicht nutzen kann und vollständig von der Rüstung repräsentiert wird.
+#### Zauberergestalt
 **Attribute:** Beweglichkeit 1 (1d4), Lernen 3 (1d8), Wahrnehmung 1 (1d4), Willenskraft 3 (1d8), Überzeugung 3 (1d8), Schöpfung 4 (1d10), Schutz 4 (1d10)<br>**Trefferpunkte:** 16<br>**Deckung:** 11 (Beweglichkeit 1)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Alternate Form II
+**Fertigkeiten:** Alternative Gestalt II
 
 **Wichtige Ausrüstung:** Keine
 #### Bevorzugte Aktionen
-_**Geisterführer**_ (_Verstärken_ wirken): Schöpfung vs. 16 (KL 3)<br>_**Geisterschützer**_ (_Kreatur beschwören_ wirken): Schöpfung vs. 18 (KL 4)<br>_**Kreis der Wunder**_ (5' _Aura: Immobilisiert_ wirken): Schöpfung vs. 18 (KL 4)<br>_**Schutzrunen**_ (_Resistenz_ wirken): Schutz vs. 16 (KL 3)<br>_**Heilendes Wort**_ (_Heilen_ wirken): Schöpfung vs. 12 - 18 (KL 1 - 4)
-#### Yoroi Armor Form
-**Attribute:** Beweglichkeit 3 (1d8), Konstitution 4 (1d10), Kraft 5 (2d6), Willenskraft 2 (1d6), Präsenz 3 (1d8)<br>**Trefferpunkte:** 28<br>**Deckung:** 21 (Kraft 5, Beweglichkeit 3, Yoroi Armor 3)<br>**Zähigkeit:** 16 (19 in _Kampftrance_)<br>**Entschlossenheit:** 15 (18 in _Kampftrance_)<br>**Geschwindigkeit:** 25'
+_**Geisterführer**_ (_Verstärken_ wirken): Schöpfung vs. 16 (KL 3)<br>_**Geisterbeschützer**_ (_Kreatur beschwören_ wirken): Schöpfung vs. 18 (KL 4)<br>_**Kreis der Wunder**_ (5' _Aura: Immobilisiert_ wirken): Schöpfung vs. 18 (KL 4)<br>_**Schutzrunen**_ (_Resistenz_ wirken): Schutz vs. 16 (KL 3)<br>_**Heilendes Wort**_ (_Heilen_ wirken): Schöpfung vs. 12 - 18 (KL 1 - 4)
+#### Yoroirüstungsgestalt
+**Attribute:** Beweglichkeit 3 (1d8), Konstitution 4 (1d10), Kraft 5 (2d6), Willenskraft 2 (1d6), Präsenz 3 (1d8)<br>**Trefferpunkte:** 28<br>**Deckung:** 21 (Kraft 5, Beweglichkeit 3, Yoroirüstung 3)<br>**Zähigkeit:** 16 (19 in _Kampftrance_)<br>**Entschlossenheit:** 15 (18 in _Kampftrance_)<br>**Geschwindigkeit:** 25'
 
 **Fertigkeiten:** Kampftrance
 
-**Wichtige Ausrüstung:** Yoroi Armor, Naginata, 3 Wurfspeere
+**Wichtige Ausrüstung:** Yoroirüstung, Naginata, 3 Wurfspeere
 #### Bevorzugte Aktionen
 _**Naginata**_ (Angriff mit Schaden): Kraft vs. Deckung, Vorteil 1<br>_**Fang und Klaue**_ (Angriff mit Schaden, 2 targets): Kraft vs. Deckung, Nachteil 1<br>_**Wurfspeer**_ (Angriff mit Schaden): Kraft vs. Deckung<br>_**Ausholender Schlag**_ (_Niedergeschlagen_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Naginataschwung**_ (_Erzwungene Bewegung_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Skorpionstich**_ (_Immobilisiert_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Demonstration der Stärke**_ (_Furcht_ zufügen): Kraft vs. Entschlossenheit<br>_**Schlachtkommando**_ (_Heilen_ zufügen): Präsenz vs. 12 - 16 (KL 1 - 3)
-### Wildläufer
-Rangers are folk of the wilderness, hunters, and animal tamers. They can
-navigate the harshest of terrains and their keen eyes can pick up a
-trail that has been cold for days. With a faithful animal companion by
-their side, the Ranger is never alone on the hunt.
+### Waldläufer
+Waldläufer sind Menschen der Wildniss, Jäger und Tierzähmer. Sie können das widerste Terrain navigieren und ihre scharfen Augen erkennen selbst tagelang kalte Spuern. Mit einem treuen Tiergefährten an ihrer Seite ist der Waldläufer auf der Pirsch nie allein.
 #### Strategie
-Rangers are expert trackers, making use of their _fast tracker_ and
-_master tracker_ feats to follow quarry effortlessly without slowing
-down. Their exceptional Wahrnehmung score also means that the Ranger will
-be the eyes of the party: locating traps, scouting for enemies, and
-revealing hidden passages. Their extraordinary ability to climb allows
-them to access paths that might be unreachable by their allies.
+Waldläufer sind Experten im Verfolgen von Spuren, wobei sie die Fertigkeiten *Spurenhund* und *Meisterjäger* nutzen, um Ziele mühelos und rasch zu verfolgen. Ihr hoher Wahrnehmungswert macht den Waldläufer auch zu den Augen der Gruppe: Fallen finden, Feinde ausspähen und geheime Durchgänge finden. Die außergewöhnliche Fähigkeit, extrem gut zu klettern erlaubt ihnen außerdem, Pfade zu beschreiten, die ihre Verbündeten nicht erreichen können.
 
-When combat breaks out, the Ranger typically fights in a coordinated
-effort with their animal companion. In melee, the wolf will attempt to
-inflict _Niedergeschlagen_ upon foes, allowing its master to strike with
-Vorteil 1 on prone enemies. When not striking for direct
-damage, Rangers disarm foes or whittle away at them with
-_Anhaltender Schaden_. To keep a distance from the enemy, Rangers take
-to the trees to use their Langbogen while their wolf uses _Immobilisiert_ to
-make the target an easy shot.
+Den Kampf bestreitet der Waldläufer typischerweise in enger Koordination mit seinem Tiergefährten. Im Nahkampf springt der Wolf Feinde an, um *Niedergeschlangen* zuzufügen, sodass sein Meister mit Vorteil 1 angreifen kann. Wenn sie nicht auf Schaden gehen, setzen Waldläufer *Entwaffnet* und *Anhaltender Schaden* ein. Um ihre Distanz zu wahren erklimmen sie die Bäume und feuern von dort mit dem Langbogen, während der Wolf *Immobilisiert* nutzt, um Feinde zu einfachen Zielen zu machen.
 
 **Attribute:** Beweglichkeit 4 (1d10), Konstitution 3 (1d8), Kraft 2 (1d6),
 Lernen 2 (1d6), Wahrnehmung 5 (2d6), Willenskraft 2 (1d6)<br>**Trefferpunkte:** 20<br>**Deckung:** 18 (Beweglichkeit 4, Kraft 2, Kettenhemd 2)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 35'
 
-**Fertigkeiten:** Fleet of Foot I, Master Tracker, Climbing, Companion I
+**Fertigkeiten:** Flinkfuß I, Meisterjäger, Klettern, Gefährte I
 
 **Wichtige Ausrüstung:** Langschwert, Dolch, Langbogen, Kettenhemd
 #### Bevorzugte Aktionen
 _**Langschwert + Dolch**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Verwundender Streich**_ (_Anhaltender Schaden_ zufügen): Beweglichkeit vs. Deckung, Vorteil 2<br>_**Kunstvolle Parade**_ (_Entwaffnet_ zufügen): Beweglichkeit vs. Deckung, Vorteil 2<br>_**Langbogen**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1
-#### Wolf Companion
+#### Wolfsgefährte
 **Attribute:** Beweglichkeit 4 (1d10), Konstitution 2 (1d6), Kraft 2 (1d6), Wahrnehmung 3 (1d8), Willenskraft 1 (1d4), Präsenz 1 (1d4)<br>**Trefferpunkte:** 18<br>**Deckung:** 16 (Beweglichkeit 4, Kraft 2)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
 
 **Fertigkeiten:** keine
 #### Bevorzugte Aktionen
 _**Biss**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Takedown**_ (_Niedergeschlagen_ zufügen): Beweglichkeit vs. Deckung
 ### Schatten
-Shades are highly trained assassins that draw upon unearthly power drawn
-from the in-between, the void of shadows where most mortals dare not
-travel. One with the darkness, they use their powers to deceive and
-misdirect, catching their prey off guard. These night hunters are
-trained to slay from a distance—unseen, unheard, and without a trace.
+Schatten sind hoch trainierte Assassinen, die ihre unnatürliche Macht aus dem Zwischen der Welt ziehen, der Leere an Schatetn in der die meisten Sterblichen sich nicht trauen, zu weilen. Nachdem sie eins mit der Dunkelheit werden, nutzen sie ihre Kräfte um zu Täuschen und in die Irre zu führen, sodass sie ihre Ziele auf dem falschen Fuß erwischen. Diese Nachtjäger sind trainiert, aus der Distanz zu töten - ungesehen, ungehört und ohne eine Spur zu hinterlassen.
 #### Strategie
-While Shades are trained for the specific task of neutralizing threats,
-their ability to manipulate shadows provides them with exceptional
-utility. Out of combat, they make excellent scouts, capable of hiding
-weapons in the extradimensional void with _Objekt absorbieren_. Their ability
-to pass through the void makes them peerless at infiltration. When
-_teleporting_, even a titanium vault or door is no obstacle for a Shade
-as they step through the void or dematerialize into a cloud of inky
-entropy and slip beneath a door.
+Während Schatten speziell dazu ausgebildet sind, Ziele zu neutralisieren, geben ihre Fähigkeiten, die Schatten zu manipulieren auch viele verschieden nützliche Optionen außerhalb des Kampfes. Sie sind exzellente Späher, in der Lage Waffen in dimensionalen Taschen mit *Objekt absorbieren* zu verstecken. Ihre Fähigkeit, durch die Leere hindurchzutreten macht sie auch zu adepten Infiltratoren. Vor ihrer *Teleportation* ist auch keine Titantür gefeit.
 
-Shades prefer to remain hidden as much as possible so that when combat
-ensues they can catch their foes off guard. They fire their silenced
-sniper rifles from cover, and quickly _Teleport_ to a new location
-before they are discovered. On rare occasions where they are spotted,
-they use _Eile_ to make a fast getaway or blanket an area in _Dunkelheit_
-and slip away unseen.
+Schatten ziehen es vor, so lange wie möglich versteckt zu bleiben, wenn ein Kampf beginnt, um ihre Feinde zu überraschen. Sie feuern mit schallgedämpften Scharfschützengewehren aus der Deckung heraus und nutzen *Teleportation*, um schnell die Position zu wechseln. Falls sie doch einmal entdeckt werden hüllen sie das Gebiet in *Dunkelheit* oder fliehen schnell mit *Hast*.
 
 **Attribute:** Beweglichkeit 4, Wahrnehmung 3, Willenskraft 2, Vergehen 3, Bewegung 5<br>**Trefferpunkte:** 14<br>**Deckung:** 15 (Beweglichkeit 4, Trenchcoat 1)<br>**Zähigkeit:** 12<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Segenfokus I (Teleport), Lethal Strike I
+**Fertigkeiten:** Segenfokus I (Teleportation), Tödlicher Streich I
 
-**Wichtige Ausrüstung:** Scharfschützengewehr, Maschinenpistole, Handgun, Knife,
-Trench Coat (treat as Lederrüstung)
+**Wichtige Ausrüstung:** Scharfschützengewehr, Maschinenpistole, Pistole, Messer, Trenchcoat (als Lederrüstung gewertet)
 #### Bevorzugte Aktionen
-_**Verborgener Schuss**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung, Vorteil 1 if target is unaware or engaging your ally<br>_**Gewehr**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Betäubungskugel**_ (_Bewusstlos_ zufügen): Beweglichkeit vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Maschinenpistole**_ (Angriff mit Schaden, 10' Würfel): Beweglichkeit vs. Deckung<br>_**Leerenschritt[?]**_ (_Teleport_ wirken): Auto-Erfolg auf KL 5 durch _Segenfokus_<br>_**Schattenschleier**_ (_Dunkelheit_ wirken): Vergehen vs. 12 - 16 (KL 1 - 3)<br>_**Schattenrolle[?]**_ (_Resistenz_ wirken): Bewegung vs. 16 (KL 3)<br>_**Extradimensionale Tasche**_ (_Objekt absorbieren_ wirken): Bewegung vs. 18 (KL 4)
+_**Verborgener Schuss**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung, Vorteil 1 falls das Ziel überrascht wird oder mit einem Verbündeten im Kampf liegt<br>_**Gewehr**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Betäubungskugel**_ (_Bewusstlos_ zufügen): Beweglichkeit vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Maschinenpistole**_ (Angriff mit Schaden, 10' Würfel): Beweglichkeit vs. Deckung<br>_**Leerenschritt[?]**_ (_Teleport_ wirken): Auto-Erfolg auf KL 5 durch _Segenfokus_<br>_**Schattenschleier**_ (_Dunkelheit_ wirken): Vergehen vs. 12 - 16 (KL 1 - 3)<br>_**Schattenrolle[?]**_ (_Resistenz_ wirken): Bewegung vs. 16 (KL 3)<br>_**Extradimensionale Tasche**_ (_Objekt absorbieren_ wirken): Bewegung vs. 18 (KL 4)
 ### Hexenschwert[?]
-Equally skilled with a blade as they are with sorcery, Spellswords weave
-magic and martial prowess together into a powerful combination. Whether
-they are setting foes ablaze with a flaming sword, summoning barriers of
-force to deflect attacks, or outmaneuvering foes with teleportation,
-Spellswords control the battlefield with unrivaled magic.
+Ebenso gekonnt mit dem Schwert wie mit der Zauberei, weben Hexenschwerter aus Magie und Kampfkunst eine mächtige Kombination. Ob sie Feinde mit flammendem Schwert in Brand setzen, Kraftbarrieren beschwören, um Angriffe abzuwenden oder Gegner mit Teleportation im Staub lassen, Hexenschwerter kontrollieren das Schlachtfeld mit unanfechtbarer Magie.
 #### Strategie
-The Spellsword is a master of versatility. Although they shine the most
-in the heat of battle, Spellswords can also make use of Schutz and
-Bewegung attributes to provide utility to overcome many obstacles.
+Das Hexenschwert ist ein Meister der Vielfalt. Obwohl sie am meisten in der Hitze des Gefechts hervortreten, können Hexenschwerter auch ihre Schutz- und Bewegungsattribute nutzen, um verschiedene andere Hindernisse zu überwinden.
 
-Within combat, the Spellsword's Attributsubstitution feat allows
-them to use their Energie score for weapon attacks, and their trio of
-extraordinary attributes provides them with access to a versatile
-selection of banes and boons. _Blitzreflexe_ ensures that they
-will often act early in combat, and Spellswords will use this
-opportunity to invoke the _Resistenz_ boon or inflict a vulnerable
-target with _Anhaltender Schaden_. Once combat is underway, Spellswords
-focus on finishing off damaged foes so that they can use _combat
-momentum_ to maneuver around the battlefield.
+Im Kampf erlaubt die Fertigkeit *Attributsubstitution* Hexenschwertern, ihren hohen Eneriewert für Waffenangriffe zu nutzen und ihr Trio aus außergewöhnlichen Attributen erlaubt ihnen Zugang zu einer breiten Auswahl Harme und Wohle. *Blitzreflexe* versichren, dass sie oft früh im Kampf handeln und Hexenschwerter nutzen diese Chance, um *Resistenz* auf Verbündete oder *Anhaltender Schaden* auf Feinde zu wirken. Läuft der Kampf, so konzentrieren sich Hexenschwerter auf das Niederstrecken geschwächter Feinde, um sich mit der Fertigkeit *Kampfmomentum* frei über das Schlachtfeld bewegen zu können.
 
 **Attribute:** Konstitution 3 (1d8), Präsenz 1 (1d4), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Energie 5 (2d6), Schutz 3 (1d8), Bewegung 3 (1d8)<br>**Trefferpunkte:** 22<br>**Deckung:** 17 (Energie 5 via Attributsubstitution, Kettenhemd 2)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
 
@@ -574,46 +427,21 @@ momentum_ to maneuver around the battlefield.
 
 **Wichtige Ausrüstung:** Kettenhemd, Falchion
 #### Bevorzugte Aktionen
-_**Falchion**_ (Angriff mit Schaden): Energie vs. Deckung, Vorteil 1<br>_**Enflame**_ (_Anhaltender Schaden_ zufügen): Energie vs. Deckung (Vorteil 1 falls Falchion geführt wird)<br>_**Disabling Strike**_ (_Betäubt_ zufügen): Energie vs. Zähigkeit<br>_**Wall of Fire**_ (_barrier, 10' Linie_ wirken): Energie vs. 16 - 20 (KL 1 - 5), Nachteil 1<br>_**Smoke Step**_ (_Teleport_ wirken): Bewegung vs. 16 (KL 3)<br>_**Shield of Force**_ (_Resistenz_ wirken): Schutz vs. 16 (KL 3)
-### Raumtemplar
-An ancient order of warrior-mages, the Void Templars undergo over a
-decade of training before they are even permitted their first attempt at
-the rigorous test which initiates them as full Templars. A deadly mix of
-soldier and void wielder, they form a heavily armored support unit
-trained to keep other soldiers out of harm's way. Their highly coveted
-guardian armor amplifies their control of the void,
-supercharging their power to nullify enemy attacks.
+_**Falchion**_ (Angriff mit Schaden): Energie vs. Deckung, Vorteil 1<br>_**Entflammen**_ (_Anhaltender Schaden_ zufügen): Energie vs. Deckung (Vorteil 1 falls Falchion geführt wird)<br>_**Betäubender Schlag**_ (_Betäubt_ zufügen): Energie vs. Zähigkeit<br>_**Feuerwand**_ (_Barriere, 10' Linie_ wirken): Energie vs. 16 - 20 (KL 1 - 5), Nachteil 1<br>_**Rauchschritt**_ (_Teleportation_ wirken): Bewegung vs. 16 (KL 3)<br>_**Kraftschild**_ (_Resistenz_ wirken): Schutz vs. 16 (KL 3)
+### Leerentemplar
+Leerentemplare des uralten Ordens Schlachtmagier erfahren mindestens 10 Jahre Training bevor sie auch nur ihren ersten Versuch der rigorosen Tests beginnen können, um ein voller Leerentemplar zu werden. Als tödliche Mischung aus Soldat und Leerenmagier bilden sie eine schwer gepanzerte Einheit, die andere Soldaten vor Gefahren bewahrt. Ihre hoch begehrte Wächterrüstung verstärkt ihre Kontrolle über die Leere, sodass ihre Fähigkeiten, feindliche Angriffe zu neutralisieren, erhöht sind.
 #### Strategie
-Void Templars are built to defend, wielding power from the void that
-swallows up attacks from lasers, magic, and all manner of attacks. Using
-their exceptionally high Energie attribute, the Templars can call upon
-the void to nullify almost any attack. Although their heavy armor makes
-them slower than the standard soldier, they can _Teleport_ or even
-invoke _Aura: Eile_ to speed up themselves and their comrades. Also,
-_Teleport_ allows them to access areas and bypass obstacles that others
-might struggle with.
+Leerentemplare sind auf Verteidigung spezialisiert und führen ihre Leerenkräfte, um Angriffe von Lasers, Magie und anderer Art zu verschlucken. Mit ihrem hohen Energieattribut rufen die Templare die Leere an um so gut wie jede Attacke aufzulösen. Auch wenn ihre schwere Rüstung sie langsamer macht als manch anderen Soldaten können sie sich und Verbündete mit *Aura: Eile* schneller machen und *Teleportation* erlaubt ihnen Zugang zu Gebieten, die anderen verwehrt blieben.
 
-Within combat, a Templar's primary duty is to keep their allies alive.
-They make extensive use of the defend action by deploying all manner of
-countermeasures from their Templar Armor, such as laser netting, or the
-onboard micro missiles to intercept incoming projectiles. Their
-_battlefield retribution_ feat allows the Templar to turn these defensive
-actions against the attacker. In addition to these countermeasures,
-Templars also reshape the battlefield and force enemies into tough
-decisions with banes and boons such as _forced move, barrier,_ and
-_Immobilisiert_.
+Im Kampf ist die Hauptaufgabe des Templars, seine Verbündeten am Leben zu halten. Sie nutzen häufig Verteidigungsaktionen, indem sie allerlei Schutzmechanismen ihrer Templarrüstung aktivieren wie z.B. Lasernetze oder Mikroraketen zum Abfangen von Geschossen. Ihre Fertigkeit *Schlachtvergeltung* erlaubt es Templaren, Verteidigungsaktionen gegen den Angreifer zu wenden. Zusätzlich dazu formen sie das Schlachtfeld durch Harme und Wohle wie *Erzwungene Bewegung*, *Barriere* und *Immobilisiert*.
 
 **Attribute:** Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Willenskraft 2 (1d6), Präsenz 2 (1d6), Energie 5 (2d6), Bewegung 4 (1d10)<br>**Trefferpunkte:** 24<br>**Deckung:** 15 (16 mit Schild - Beweglichkeit 2, Templarrüstung 3)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 14<br>**Geschwindigkeit:** 25'
 
-**Fertigkeiten:** Defensive Reflexe I, Battlefield Retribution I, Sentinel I
+**Fertigkeiten:** Defensive Reflexe I, Schlachtvergeltung I, Wächter I
 
 **Wichtige Ausrüstung:** Kampfschild, Pistole, Templarrüstung (als Plattenpanzer gewertet), 1 Granate
 #### Bevorzugte Aktionen
-_**Void Nullification**_ (Verteidigungsaktion): Energie vs. Angriffswurf des Ziels, Vorteil 1<br>_**Void Matrix**_ (10' Linie _Barriere_ wirken): Energie vs. 16 - 20 (KL 3 - 5)<br>_**Quickening Aura**_ (_Aura: Eile_ wirken): Bewegung vs. 18 (KL 4)<br>_**Force Push**_ (_Erzwungene Bewegung_ zufügen): Bewegung vs. Deckung<br>_**Paralysis Beam**_ (_Immobilisiert_ zufügen): Bewegung vs. Deckung<br>_**Telekinesis**_ (_Telekinese_ wirken): Bewegung vs. 16 (KL 3)<br>_**Suppression Field**_ (5' _Aura: Erzwungene Bewegung_ zufügen): Energie vs. 18 (KL 4) 
-
-
-> [!danger]
-> OUTPOINT
+_**Leereneutralisierung**_ (Verteidigungsaktion): Energie vs. Angriffswurf des Ziels, Vorteil 1<br>_**Leerenmatrix**_ (10' Linie _Barriere_ wirken): Energie vs. 16 - 20 (KL 3 - 5)<br>_**Erquickungsaura**_ (_Aura: Eile_ wirken): Bewegung vs. 18 (KL 4)<br>_**Kraftstoß**_ (_Erzwungene Bewegung_ zufügen): Bewegung vs. Deckung<br>_**Paralysestrahl**_ (_Immobilisiert_ zufügen): Bewegung vs. Deckung<br>_**Telekinese**_ (_Telekinese_ wirken): Bewegung vs. 16 (KL 3)<br>_**Unterdrückungsfeld**_ (5' _Aura: Erzwungene Bewegung_ zufügen): Energie vs. 18 (KL 4)
 ## EP erhalten und im Level aufsteigen
 Während die Legende, die du erschaffst, ihren Lauf nimmt und in Gefahr und Gravitas steigt, wird die Macht deines Charakters ebenso wachsen, um den Herausforderungen zu entsprechen. Diese Macht erhält er in Form von Erfahrungspunkten (EP), die der GM als Belohnung vergibt und die es dir erlauben, im Level aufzusteigen und so Zugang zu neuen Fertigkeiten, Attributen, Harmen und Wohlen zu erhalten.
 
