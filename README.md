@@ -11,7 +11,7 @@ In den übersetzten Dokumenten werden Passagen, die noch verbessert werden könn
 ### Review
 **Für alle, die die Regeln gegenlesen als erstes vielen Dank!**
 
-Als zweites der Hinweis, das alle Hilfe gern' gesehen ist und du nicht das ganze Regelwerk gegenlesen musst. Wenn du Zeit hast, einen kleinen Abschnitt gegenzulesen ist das auch schon eine große Hilfe.
+Als zweites der Hinweis, dass alle Hilfe gern' gesehen ist und du nicht das ganze Regelwerk lesen musst. Wenn du Zeit hast, einen kleinen Abschnitt zu lesen ist das auch schon eine große Hilfe.
 
 Ich würde mich über Feedback zu drei Arten von Fehlern freuen:
 1. Regelfehler: Wenn eine Regel falsch übersetzt wurde, bitte hinweisen wo und wenn möglich, was die korrekte Interpretation ist.
@@ -29,7 +29,7 @@ In the translated documents, parts that could use improvement or are in question
 ### Review
 **First of all, thank you to everyone proofreading!**
 
-Second, please don't feel any obligation to read through the entire translation. If you have the time to proofread a small part, that's already a big help.
+Second, please don't feel any obligation to read through the entire translation. If you have the time to read a small part, that's already a big help.
 
 I would welcome Feedback for three kinds of errors:
 1. Rules-Error: If a rule is translated incorrectly, please indicate where and if possible, what the correct interpretation is.
