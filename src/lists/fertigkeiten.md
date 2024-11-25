@@ -56,7 +56,7 @@ Für jeden Rang dieser Fertigkeit, den du besitzt, kannst du ein einziges 5' Rec
 Ob du ein schwer gepanzerter Mecharitter bist oder ein flinker Schurke in gestutztem Leder, sind du und deine Rüstung eins. Dein Training und deine Erfahrung im Tragen von Rüstung erlauben es dir, ihren Schutzt zu maximieren und ihre Nachteile zu minimieren.
 
 **Effekt**  
-Dein Training lässt dich in deiner Rüstung schlafen, ohne dass du danach ein Level des Harmes <em>erschöpft</em> erleidest. Weiterhin erhält du beim Tragen von Rüstung die folgenden Vorteile:
+Dein Training lässt dich in deiner Rüstung schlafen, ohne dass du danach ein Level des Fluches <em>erschöpft</em> erleidest. Weiterhin erhält du beim Tragen von Rüstung die folgenden Vorteile:
 <ul>
 <li><strong>Rang 1</strong> - Die Konstitutionsvoraussetzungen von Rüstungen sind um 1 reduziert. Während du Rüstung trägst, erhälst du +1 Deckung.</li>
 <li><strong>Rang 2</strong> - Die Konstitutionsvoraussetzungen von Rüstungen sind um 2 reduziert. Während du Rüstung trägst, erhälst du +2 Deckung. Jegliches Geschwindigkeitsmalus durch eine Rüstung ist um 5' reduziert.</li>
@@ -98,7 +98,7 @@ Wenn du eine Verteidigungsaktion ausführst und dein Wurf den Aktionswurf des An
 Wie ein Samurai, der die Kunst seines Katana gemeistert hat oder ein Elementalist, der auf Flammenbeschwörungen spezialisiert ist, bist auch du in einer bestimmten Art von Angriff besonder gut trainiert, mit der du deine Feinde effektiver dezimieren kannst als ein durchschnittlicher Kämpfer.
 
 **Effekt**  
-Wenn du diese Fertigkeit erhälst, wählst du eine Waffe oder eine Art von Angriff aus. Du erhälst Vorteil 1 pro Rang dieser Fertigkeit auf alle <em>Angriffe mit Schaden</em>, die du mit der gewählten Waffe oder der Angriffsart ausführst. Dieser Bonus wird nicht auf Harmattacken oder Wohlwirkungen appliziert.
+Wenn du diese Fertigkeit erhälst, wählst du eine Waffe oder eine Art von Angriff aus. Du erhälst Vorteil 1 pro Rang dieser Fertigkeit auf alle <em>Angriffe mit Schaden</em>, die du mit der gewählten Waffe oder der Angriffsart ausführst. Dieser Bonus wird nicht auf Fluchattacken oder Segenwirkungen appliziert.
 Beispiele von Angriffsarten umfassen unter anderem Feuer, Kälte, Blitz, Säure, Gift, Vergehen, Kraft. Diese Liste ist nicht abschließend.
 
 **Besonders**  
@@ -131,7 +131,7 @@ Wenn du diese Fertigkeit erwirbst, schaffst du eine permanente Verbindung zwisch
 <li><strong>Rang 2</strong>
   <ul>
   <li>Einen Angriffs- oder Verteidigungswurf machen</li>
-  <li>Harme oder Wohle wirken</li>
+  <li>Flüche oder Segen wirken</li>
   </ul>
 </ul>
 Die Verbindung zwischen zwei Attributen muss immer Fall für Fall entschieden werden, wobei die Zustimmung des GM nötig ist. Die Verbindung muss im Kontext der Handlung und des Settings Sinn ergeben, in dem die Kampagne spielt. Beispielsweise könnte ein Barbar sein Logikattribut sein Kraftattribut ersetzen lassen, wenn es um die Anwendung von Hebelwirkung im Ringen mit Feinden geht. Das bedeutet aber nicht, dass der gleiche Barbar sein Logikattribut nutzen könnte, um die Stahlstäbe einer Gefängniszelle aufzubiegen. Weiterhin sollte der GM Spielende daran hindern, unlogische Verbindungen zu benutzen, die nur dazu da sind, übermäßig starke Charaktere ohne Handlungsbezug zu schaffen. Zwei sinnvolle Beispiele dieser Fertigkeit wären ein kluger Krieger, der Hebelwirkung, Momentum und Physik zu seinem Vorteil nutzt und so Kraft durch Logik ersetzt oder eine Revolverhelding, die Beweglichkeit durch Vergehen ersetzt und durch das Beschwören dunkler Energie ihre Sinne schärft und so besser zielen kann.
@@ -139,20 +139,20 @@ Die Verbindung zwischen zwei Attributen muss immer Fall für Fall entschieden we
 > Tags: Beliebiges Attribut
 
 ---
-### Harmfokus
+### Fluchfokus
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Fähigkeit, den gewählten Harm zu wirken
+- **Rang 1:** Fähigkeit, den gewählten Fluch zu wirken
 
 **Beschreibung**  
-Du bist in der Nutzung eines bestimmten Harmes spezialisiert, der bezeichnend für deinen Charakter ist. Vielleicht bist du ein Krieger, der für seinen betäubenden Schläfenschlag berüchtigt ist, ein Sniper, der sein Ziel immer zuerst lähmt oder ein Feuermagier, der seine Ziele immer durch Brand anhaltenden Schaden erleiden lässt.
+Du bist in der Nutzung eines bestimmten Fluches spezialisiert, der bezeichnend für deinen Charakter ist. Vielleicht bist du ein Krieger, der für seinen betäubenden Schläfenschlag berüchtigt ist, ein Sniper, der sein Ziel immer zuerst lähmt oder ein Feuermagier, der seine Ziele immer durch Brand anhaltenden Schaden erleiden lässt.
 
 **Effekt**  
-Wähle einen Harm, den du wirken kannst. Wenn dein Wurf auf einen Angriff mit Schaden die Verteidigung des Ziels um 5 oder mehr übersteigt (anstatt der normalen 10 oder mehr), kannst du den Harm automatisch zufügen. Jeder Angriff kann weiterhin nur einen einzigen Harm zufügen. Weiterhin erhälst du Vorteil 2 auf Harmattacken mit dem gewählten Harm.
+Wähle einen Fluch, den du wirken kannst. Wenn dein Wurf auf einen Angriff mit Schaden die Verteidigung des Ziels um 5 oder mehr übersteigt (anstatt der normalen 10 oder mehr), kannst du den Fluch automatisch zufügen. Jeder Angriff kann weiterhin nur einen einzigen Fluch zufügen. Weiterhin erhälst du Vorteil 2 auf Fluchattacken mit dem gewählten Fluch.
 
 **Besonders**  
-Du kannst diese Fertigkeit mehrmals erlangen. Für jedes weitere Mal wählst du einen anderen Harm aus.
+Du kannst diese Fertigkeit mehrmals erlangen. Für jedes weitere Mal wählst du einen anderen Fluch aus.
 
 > Tags: Kraft, Passiv, Kampf, Fluch
 
@@ -167,7 +167,7 @@ Du kannst diese Fertigkeit mehrmals erlangen. Für jedes weitere Mal wählst du 
 Du kannst dich in einen Geisteszustand erhöhter Kampfbereitschaft versetzen, in dem dein Körper gestärkt ist und dein Geist Furch und Schmerz hinter sich lässt. Beispiele schließen Barbaren in Rage oder einen unaufhaltsamen Samurai ein, der im Kampf den Fokus einer Rasierklinge hat.
 
 **Effekt**  
-Als kostenlose Aktion in deinem Zug kannst du dich in Kampftrance versetzen. Während du in der Trance bist, hast du Vorteil 1 auf alle Angriffe. Weiterhin sind dein Zähigkeit und Entschlossenheit um 3 erhöht. Falls dein gesamter Rüstungsbonus weniger als 3 ist, wird er zu 3. Falls du drei Züge in Folge keinen Angriffswurf gegen eine feindliche Kreatur wirfst, endet die Kampftrance. Wenn die Trance endet, erleidest du automatisch 1 Level des Harms <em>erschöpft</em>.
+Als kostenlose Aktion in deinem Zug kannst du dich in Kampftrance versetzen. Während du in der Trance bist, hast du Vorteil 1 auf alle Angriffe. Weiterhin sind dein Zähigkeit und Entschlossenheit um 3 erhöht. Falls dein gesamter Rüstungsbonus weniger als 3 ist, wird er zu 3. Falls du drei Züge in Folge keinen Angriffswurf gegen eine feindliche Kreatur wirfst, endet die Kampftrance. Wenn die Trance endet, erleidest du automatisch 1 Level des Fluches <em>erschöpft</em>.
 
 > Tags: Kampf
 
@@ -201,7 +201,7 @@ Du kannst eine zusätzliche Gelegenheitsattacke pro Rang dieser Fertigkeit, die 
 Du kannst mit einem Konter nicht nur Schaden zufügen, sondern Feinde auch mit einem spezifischen Sekundäreffekt belegen. Vielleicht bist du ein Paladin, der Feinde mit seinem Konter zu Boden wirft, ein Ninja der bei der Parade Sand in die Augen des Gegners streut oder ein Telekinetist, der seine Feinde von sich schleudert.
 
 **Effekt**  
-Wähle einen Harm, den du zufügen kannst. Wann immer du eine Verteidigungsaktion mit einem Attribut nutzt, das den gewählten Harm wirken könnte und mit der Fertigkeit Schlachtvergeltung dem Gegner 10 oder mehr Schaden zufügst, kannst du den Harm automatisch auf den Gegner wirken.
+Wähle einen Fluch, den du zufügen kannst. Wann immer du eine Verteidigungsaktion mit einem Attribut nutzt, das den gewählten Fluch wirken könnte und mit der Fertigkeit Schlachtvergeltung dem Gegner 10 oder mehr Schaden zufügst, kannst du den Fluch automatisch auf den Gegner wirken.
 
 > Tags: Kraft, Passiv, Kampf, Fertigkeitenkette
 
@@ -221,28 +221,28 @@ Wenn du eine Verteidigungsaktion nutzt, fügst du dem Angreifer Schaden gleich d
 > Tags: Kraft, Beweglichkeit, Außergewöhnlich, Passiv, Kampf
 
 ---
-### Wohlzugang[?]
+### Segenzugang[?]
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
 - **Rang 1:** Keine
 
 **Beschreibung**  
-Du hast ein besonderes Talent: es könnte ein Resultat deiner Herkunft sein, von einem Zusammenstoß mit magischen Energien stammen oder das Resultat jahrelangen Trainings sein. Egal woher, auch wenn du nicht mit außergewöhnlichen Kräften oder körperlichen Fähigkeiten besondere Effekte erzeugen kannst, hast du Zugang zu einem bestimmten Wohl.
+Du hast ein besonderes Talent: es könnte ein Resultat deiner Herkunft sein, von einem Zusammenstoß mit magischen Energien stammen oder das Resultat jahrelangen Trainings sein. Egal woher, auch wenn du nicht mit außergewöhnlichen Kräften oder körperlichen Fähigkeiten besondere Effekte erzeugen kannst, hast du Zugang zu einem bestimmten Segen.
 
 **Effekt**  
-Wähle ein Wohl, für das du nicht die notwendigen Attributpunkte hast, um es zu wirken, wenn du diese Fertigkeit erwirbst. Die Kosten dieser Fertigkeit sind gleich dem Kraftlevel, das du für dieses Wohl auswählst. Du kannst das gewählte Wohl wirken, obwohl du nicht das nötige Attribut dazu hast. Für den Aktionswurf zum Wirken behandelst du deinen Attributwert, als würde er dem Kraftlevel des Wohls entsprechen. Falls das Wohl mehrere Attributsoptionen hat, wählst du eines aus, wenn du diese Fertigkeit erwirbst. Weiterhin zählt das so erhaltene Wohl im Fall von Fertigkeitenvoraussetzungen als Erhalten, wobei der Attributwert zum Erreichen der Voraussetzungen dem Kraftlevel des Wohls entspricht. Die Fertigkeit Wohlzugang umgeht zusätzlich die normalen Einschränkungen rund um Charakterlevel und Zugang zu Kraftleveln von Wohlen und Harmen. Ein Level 1 Charakter könnte also all seine 6 Fertigkeitenpunkte ausgeben, um mit dieser Fertigkeit direkt Zugang zu einem Kraftlevel 6 Wohl zu erhalten.
-Du kannst diese Fertigkeit mehrmals erwerben. Wähle jedes Mal ein neues Wohl.
+Wähle einen Segen, für das du nicht die notwendigen Attributpunkte hast, um es zu wirken, wenn du diese Fertigkeit erwirbst. Die Kosten dieser Fertigkeit sind gleich dem Kraftlevel, das du für diesen Segen auswählst. Du kannst den gewählten Segen wirken, obwohl du nicht das nötige Attribut dazu hast. Für den Aktionswurf zum Wirken behandelst du deinen Attributwert, als würde er dem Kraftlevel des Segens entsprechen. Falls der Segen mehrere Attributsoptionen hat, wählst du eines aus, wenn du diese Fertigkeit erwirbst. Weiterhin zählt der so erhaltene Segen im Fall von Fertigkeitenvoraussetzungen als Erhalten, wobei der Attributwert zum Erreichen der Voraussetzungen dem Kraftlevel des Segenss entspricht. Die Fertigkeit Segenzugang umgeht zusätzlich die normalen Einschränkungen rund um Charakterlevel und Zugang zu Kraftleveln von Segen und Flüchen. Ein Level 1 Charakter könnte also all seine 6 Fertigkeitenpunkte ausgeben, um mit dieser Fertigkeit direkt Zugang zu einem Kraftlevel 6 Segen zu erhalten.
+Du kannst diese Fertigkeit mehrmals erwerben. Wähle jedes Mal einen neuen Segen.
 
 **Besonders**  
-Du kannst diese Fertigkeit mehrmals erwerben. Jedes Mal wählst du ein neues Wohl aus, zu dem du besonderen Zugang erhälst.
-Da diese Fertigkeit mächtige Wohle freischalten kann, die einen großen Einfluss auf den Verlauf der Geschichte haben können, muss das Erlangen von Wohlen mit Kraftlevel 6 oder höher vom GM je nach Angemessenheit abgesegnet werden.
-Falls du zu einem späteren Zeitpunkt die Attributvoraussetzungen des gewählten Wohls auf normalen Weg erreichst, kannst du dich entscheiden, diese Fertigkeit zu verlieren und die dafür ausgegebenen Fertigkeitenpunkte zurückzuerhalten. Danach kannst du sie neu ausgeben, wie es dir beliebt.
+Du kannst diese Fertigkeit mehrmals erwerben. Jedes Mal wählst du einen neuen Segen aus, zu dem du besonderen Zugang erhälst.
+Da diese Fertigkeit mächtige Segen freischalten kann, die einen großen Einfluss auf den Verlauf der Geschichte haben können, muss das Erlangen von Segen mit Kraftlevel 6 oder höher vom GM je nach Angemessenheit abgesegnet werden.
+Falls du zu einem späteren Zeitpunkt die Attributvoraussetzungen des gewählten Segens auf normalen Weg erreichst, kannst du dich entscheiden, diese Fertigkeit zu verlieren und die dafür ausgegebenen Fertigkeitenpunkte zurückzuerhalten. Danach kannst du sie neu ausgeben, wie es dir beliebt.
 
 > Tags: Außergewöhnlich
 
 ---
-### Wohlfokus (I - III)
+### Segenfokus (I - III)
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
@@ -251,13 +251,13 @@ Falls du zu einem späteren Zeitpunkt die Attributvoraussetzungen des gewählten
 - **Rang 3:** Fähigkeit, den gewählten Segen zu wirken
 
 **Beschreibung**  
-Du bist in der Nutzung eines bestimmten Wohles spezialisiert, das bezeichnend für deinen Charakter ist. Vielleicht bist du eine Druidin, die ihre Gestalt nach Willen ändert, vielleicht ein Kriegsmedicus, der viele Verwundete mit müheloser Expertise versorgt oder ein verrückter Wissenschaftler, der Horden mechanischer Handlanger ohne viel Aufwand mobilisiert.
+Du bist in der Nutzung eines bestimmten Segens spezialisiert, das bezeichnend für deinen Charakter ist. Vielleicht bist du eine Druidin, die ihre Gestalt nach Willen ändert, vielleicht ein Kriegsmedicus, der viele Verwundete mit müheloser Expertise versorgt oder ein verrückter Wissenschaftler, der Horden mechanischer Handlanger ohne viel Aufwand mobilisiert.
 
 **Effekt**  
-Wähle ein einziges Wohl, das du wirken kannst. Du erhälst anhand des Rangs dieser Fertigkeit Vorzüge bei der Benutzung des Wohls.
+Wähle einen einzigen Segen, den du wirken kannst. Du erhälst anhand des Rangs dieser Fertigkeit Vorzüge bei der Benutzung des Segens.
 <ul>
-<li><strong>Rang 1</strong> - Wenn du das gewählte Wohl auf ein einziges Ziel wirkst, hast du automatisch Erfolg und musst keinen Aktionswurf machen. Du kannst das Wohl so auf jedem Kraftlevel wirken, zu dem du auch normalerweise Zugang hast. Falls du mehr als ein einziges Ziel hast, ist der Erfolg nicht automatisch, aber du hast Vorteil 2 auf das Wirken.</li>
-<li><strong>Rang 2</strong> - Du erhälst Vorteil 3 auf deinen Aktionswurf, falls du mehr als ein einziges Ziel hast. Weiterhin kannst du das Wohl um eine Wirkzeiteinheit schneller wirken als normal: 
+<li><strong>Rang 1</strong> - Wenn du den gewählten Segen auf ein einziges Ziel wirkst, hast du automatisch Erfolg und musst keinen Aktionswurf machen. Du kannst den Segen so auf jedem Kraftlevel wirken, zu dem du auch normalerweise Zugang hast. Falls du mehr als ein einziges Ziel hast, ist der Erfolg nicht automatisch, aber du hast Vorteil 2 auf das Wirken.</li>
+<li><strong>Rang 2</strong> - Du erhälst Vorteil 3 auf deinen Aktionswurf, falls du mehr als ein einziges Ziel hast. Weiterhin kannst du den Segen um eine Wirkzeiteinheit schneller wirken als normal: 
   <ul>
   <li>1 große Aktion / 1 Bewegungsaktion -> 1 kleine Aktion</li>
   <li>1 Fokusaktion -> 1 große Aktion</li>
@@ -267,13 +267,13 @@ Wähle ein einziges Wohl, das du wirken kannst. Du erhälst anhand des Rangs die
   <li>8 Stunden -> 1 Stunde</li>
   <li>1 kleine Aktion -> ein Mal wirken als kleine Aktion, danach ist noch eine Wirkung per großer Aktion oder Bewegungsaktion möglich.</li>
   </ul></li>
-<li><strong>Rang 3</strong> - Der Effekt auf Rang 3 hängt von der Dauer des Wohls ab:<br>
-  <strong>Falls das gewählte Wohl eine Dauer von "Aufrechterhalten verlängert" hat</strong>, hast du Vorteil 4 auf deinen Aktionswurf, falls du nur ein einziges Ziel hast. Weiterhin kann eine Instanz des Wohls jede Runde als kostenlose Aktion aufrechterhalten werden, anstatt als kleine Aktion. Falls das Wohl irgendwie zeitweise neutralisiert wird, kannst du es als kostenlose Aktion neu wirken, außer dies wird durch andere spielmechanische Regeln unterbunden. Falls das Wohl Ziel des Harms <em>Annulieren</em> wird, kann dieser Effekt nur mit einer Wirkung des Harms auf Kraftlevel 6 oder höher neutralisiert werden.<br>
-  <strong>Falls das Wohl eine andere Dauer hat</strong>, erhälst du Vorteil 5 auf deinen Aktionswurf, falls du nur ein einziges Ziel hast.</li>
+<li><strong>Rang 3</strong> - Der Effekt auf Rang 3 hängt von der Dauer des Segens ab:<br>
+  <strong>Falls der gewählte Segen eine Dauer von "Aufrechterhalten verlängert" hat</strong>, hast du Vorteil 4 auf deinen Aktionswurf, falls du nur ein einziges Ziel hast. Weiterhin kann eine Instanz des Segens jede Runde als kostenlose Aktion aufrechterhalten werden, anstatt als kleine Aktion. Falls der Segen irgendwie zeitweise neutralisiert wird, kannst du es als kostenlose Aktion neu wirken, außer dies wird durch andere spielmechanische Regeln unterbunden. Falls der Segen Ziel des Fluchs <em>Annulieren</em> wird, kann dieser Effekt nur mit einer Wirkung des Fluches auf Kraftlevel 6 oder höher neutralisiert werden.<br>
+  <strong>Falls der Segen eine andere Dauer hat</strong>, erhälst du Vorteil 5 auf deinen Aktionswurf, falls du nur ein einziges Ziel hast.</li>
 </ul>
 
 **Besonders**  
-Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erwerben kannst, kannst du auch die Fertigkeit selbst mehrmals erhalten und jedes Mal ein weiteres Wohl wählen. Der Rang der Fertigkeit für dieses neue Wohl ist unabhängig von allen anderen Rängen, die du in dieser Fertigkeit für andere Wohle hast.
+Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erwerben kannst, kannst du auch die Fertigkeit selbst mehrmals erhalten und jedes Mal einen neuen Segen wählen. Der Rang der Fertigkeit für diesen neuen Segen ist unabhängig von allen anderen Rängen, die du in dieser Fertigkeit für andere Segen hast.
 
 > Tags: Außergewöhnlich, Passiv, Segen
 
@@ -355,7 +355,7 @@ Ob durch rohe Kraft oder Blitzreflexe, kannst du dein Momentum im Kampf nutzen, 
 Wann immer du einen Feind mit einer Kraft- oder Beweglichkeitsattacke auf 0 TP bringst, kannst du dich sofort als kostenlose Aktion bis zu deiner Geschwidigkeit weit bewegen.
 
 **Besonders**  
-Falls du Zugang zum Wohl <em>Teleportation</em> hast, kannst du es anstatt einer normalen Bewegung benutzen.
+Falls du Zugang zum Segen <em>Teleportation</em> hast, kannst du es anstatt einer normalen Bewegung benutzen.
 
 > Tags: Kampf
 
@@ -432,7 +432,7 @@ Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit erwerben kannst, k
 Du bist in der Lage, Items mit magischer Energie zu durchdringen, futuristische Technologie zu schaffen, Tränke zu brauen oder außergewöhnliche Geräte zu bauen. Ihre Macht ist permanent, aber abhängig von deiner Expertise.
 
 **Effekt**  
-Solange du die notwendigen Materialien und passenden Arbeitsraum hast (nach Abwägung des GM), kannst du außergewöhnliche Items erschaffen (wie in Kapitel 9: Spezialausrüstung beschrieben). Du kannst einem Item nur Attribute, Harme und Wohle geben, zu denen du selbst Zugang hast. Beispielsweise musst du einen Energiewert von 5 oder höher haben, um einem Schwert das Attribut Energie 5 einzuflößen. Die einzige Ausnahme zu dieser Regelung ist ein ausreichend großer Wert in Schöpfung, Lernen oder Logik. Diese Attribute erlauben es dir, einem Item beliebige Attribute, Harme oder Wohle zu verleihen, solange ihr Wert / Kraftlevel kleiner oder gleich deinem Attributwert ist. Der GM kann entscheiden, ob die Anwendung dieser Ausnahme in bestimmten Kontexten nicht sinnvoll ist und diese untersagen.
+Solange du die notwendigen Materialien und passenden Arbeitsraum hast (nach Abwägung des GM), kannst du außergewöhnliche Items erschaffen (wie in Kapitel 9: Spezialausrüstung beschrieben). Du kannst einem Item nur Attribute, Flüche und Segen geben, zu denen du selbst Zugang hast. Beispielsweise musst du einen Energiewert von 5 oder höher haben, um einem Schwert das Attribut Energie 5 einzuflößen. Die einzige Ausnahme zu dieser Regelung ist ein ausreichend großer Wert in Schöpfung, Lernen oder Logik. Diese Attribute erlauben es dir, einem Item beliebige Attribute, Flüche oder Segen zu verleihen, solange ihr Wert / Kraftlevel kleiner oder gleich deinem Attributwert ist. Der GM kann entscheiden, ob die Anwendung dieser Ausnahme in bestimmten Kontexten nicht sinnvoll ist und diese untersagen.
 Dein Rang in dieser Fertigkeit bestimmt den maximalen Wohlstandswert von Items, die du erschaffen kannst, anhand des genutzten Attributs:
 <ul>
 <li><strong>Rang 1</strong> - Maximaler Wohlstandswert = Attributwert - 2.</li>
@@ -463,7 +463,7 @@ Am Ende dieser Zeitspanne ist das Item erschaffen. Ein Item zu erschaffen zählt
 Wie ein leichtsinniger Oger, der durch den Kampf wadet, werfen deine unermüdlichen Streiche Feinde nicht nur zurück, sondern auch noch zu Boden.
 
 **Effekt**  
-Wann immer du einem Feind Schaden zufügst, kannst du sie nicht nur durch die Fertigkeit Überwältigender Schlag 5' zurückschieben (wenn du möchtest), sondern sie auch dort zu Boden werfen, wo die erzwungene Bewegung endete. Das Ziel erleidet den Harm <em>Niedergeschlagen</em>.
+Wann immer du einem Feind Schaden zufügst, kannst du sie nicht nur durch die Fertigkeit Überwältigender Schlag 5' zurückschieben (wenn du möchtest), sondern sie auch dort zu Boden werfen, wo die erzwungene Bewegung endete. Das Ziel erleidet den Fluch <em>Niedergeschlagen</em>.
 
 > Tags: Körperlich, Kampf, Fertigkeitenkette, Kraft
 
@@ -481,7 +481,7 @@ Du kannst effizient Feinde töten, die dem Ende nahe sind und ihre Todesschreie 
 **Effekt**  
 <ul>
 <li><strong>Rang 1</strong> - Falls du einem Feind mit Tödlicher Streich Schaden zufügst und ihre Gesamt-TP danach 5 oder niedriger sind, kannst du dich entscheiden, sie stattdessen auf 0 TP fallen zu lassen. Weiterhin kannst du jeden von dir durch eine Attacke auf 0 TP gebrachten Feind verstummen lassen.</li>
-<li><strong>Rang 2</strong> - Die Schwelle für einen Todesstoß ist auf 10 erhöht. Weiterhin fügst du deinem Feind bei einem erfolgreichen Tödlichen Streich automatisch den Harm <em>betäubt</em> zu, wobei dieser nicht gegen das Limit auf max. einen Harm pro Angriff zählt.</li>
+<li><strong>Rang 2</strong> - Die Schwelle für einen Todesstoß ist auf 10 erhöht. Weiterhin fügst du deinem Feind bei einem erfolgreichen Tödlichen Streich automatisch den Fluch <em>betäubt</em> zu, wobei dieser nicht gegen das Limit auf max. einen Fluch pro Angriff zählt.</li>
 </ul>
 
 > Tags: Kampf, Körperlich
@@ -639,7 +639,7 @@ Du erhälst einen +1 Bonus auf alle Verteidigungen pro Rang in dieser Fertigkeit
 Deine außergewöhnliche Macht stammt von einer Verbindung mit einem bestimmten Fokusobjekt, wie einem Stab, digitalen Psiverstärker, heiligem Symbol oder einem Zauberbuch. Wenn du dieses Fokusitem in der Hand hältst, muss man im Kampf mit dir rechnen.
 
 **Effekt**  
-Mit der Zustimmung deines GM wählst du einen Fokus aus, von dem deine Macht mit einem einzigen außergewöhnlichen Attribut stammt. Einige Beispiele wären Zauberstäbe, Psiverstärker, Kristallkugeln, Zauberbücher, heilige Symboe, Waffen, deine Stimme oder ein dir treues Tier. Du kannst das ausgewählte Attribut nicht ohne deinen Fokus nutzen. Der Fokus verstärkt deine Kräfte und erlaubt es dir so, das gewählte Attribut als eins höher zu behandeln, wenn du Attributwürfel für Aktionswürfe bestimmst. Für alle anderen Applikationen (Fertigkeiten, Harme, Wohle, usw. ...) bleibt dein Attributwert unverändert.
+Mit der Zustimmung deines GM wählst du einen Fokus aus, von dem deine Macht mit einem einzigen außergewöhnlichen Attribut stammt. Einige Beispiele wären Zauberstäbe, Psiverstärker, Kristallkugeln, Zauberbücher, heilige Symboe, Waffen, deine Stimme oder ein dir treues Tier. Du kannst das ausgewählte Attribut nicht ohne deinen Fokus nutzen. Der Fokus verstärkt deine Kräfte und erlaubt es dir so, das gewählte Attribut als eins höher zu behandeln, wenn du Attributwürfel für Aktionswürfe bestimmst. Für alle anderen Applikationen (Fertigkeiten, Flüche, Segen, usw. ...) bleibt dein Attributwert unverändert.
 
 **Besonders**  
 Falls du dein Fokusitem je verlierst, ob absichtlich oder nicht, erhälst du die Fertigkeitenpunkte zurück, die du für diese Fertigkeit ausgegeben hast und kannst sie wieder normal ausgeben.
@@ -658,7 +658,7 @@ Du kannst diese Fertigkeit mehrmals erhalten. Falls du dich dazu entscheidest, w
 Ob du heilige Magie beschwörst, fortgeschrittene Technologie benutzt oder alchemische Mittel anwendest, deine Meisterschaft außergewöhnlicher Heilung erlaubt es dir, Wunden zu heilen, an denen andere scheitern würden.
 
 **Effekt**  
-Wenn du das Wohl <em>Heilung</em> wirkst, kannst du dich entscheiden, eine Stunde Zeit statt der normalen Wirkzeit aufzuwenden. Falls du das tust, heilst du genauso viel tödlichen Schaden, wie die normale TP-Heilung der Wirkung ergeben hat. Der tödliche Schaden wird zusätzlich zu den TP des Ziels geheilt.
+Wenn du den Segen <em>Heilung</em> wirkst, kannst du dich entscheiden, eine Stunde Zeit statt der normalen Wirkzeit aufzuwenden. Falls du das tust, heilst du genauso viel tödlichen Schaden, wie die normale TP-Heilung der Wirkung ergeben hat. Der tödliche Schaden wird zusätzlich zu den TP des Ziels geheilt.
 
 > Tags: Außergewöhnlich, Schöpfung
 
@@ -705,7 +705,7 @@ Du bewegst dich unbehindert und mit voller Geschwindigkeit, wenn du ein Ziel ver
 Nekromanten mit Horden Untoter, Erfinder mit ihren automatischen Verteidigungsdroiden oder Psychiker, die andere ihrem Willen unterwerfen, sie alle führen Handlanger an, die unter ihrem Kommando besonders gefährlich sind.
 
 **Effekt**  
-Kreaturen unter dem Effekt der Harme <em>Bezaubert</em> oder <em>Dominiert</em> oder des Wohls <em>Kreatur Beschwören</em> haben Vorteil 1 pro Rang dieser Fertigkeit auf alle Angriffswürfe, wenn sie dich beschützen oder in deinem Sinne handeln.
+Kreaturen unter dem Effekt der Flüche <em>Bezaubert</em> oder <em>Dominiert</em> oder des Segens <em>Kreatur Beschwören</em> haben Vorteil 1 pro Rang dieser Fertigkeit auf alle Angriffswürfe, wenn sie dich beschützen oder in deinem Sinne handeln.
 
 > Tags: Außergewöhnlich, Einfluss
 
@@ -737,7 +737,7 @@ Deine Geschwindigkeit ist pro Rang dieser Fertigkeit permanent um 5' erhöht.
 Du hast die Fähigkeit, zu fliegen, die von himmlischen oder höllischen Flügeln, telekinetischer Kraft oder Mutantenkräften kommen kann.
 
 **Effekt**  
-Du erhälst eine Fluggeschwindigkeit gleich deiner normalen Geschwindigkeit. Nach Abwägung des GM können bestimmte feindliche Handlungen deine Flugfähigkeit unterbinden, sodass du aus dem Himmel fällst. Falls deine Flugfähigkeit anatomisch bedingt ist, wäre der Harm <em>Immobilisiert</em> ein Beispiel, weil du deine Flügel nicht mehr bewegen könntest. Falls der Flug telekinetischer Art ist könnte <em>Annulieren</em> ihn beenden.
+Du erhälst eine Fluggeschwindigkeit gleich deiner normalen Geschwindigkeit. Nach Abwägung des GM können bestimmte feindliche Handlungen deine Flugfähigkeit unterbinden, sodass du aus dem Himmel fällst. Falls deine Flugfähigkeit anatomisch bedingt ist, wäre der Fluch <em>Immobilisiert</em> ein Beispiel, weil du deine Flügel nicht mehr bewegen könntest. Falls der Flug telekinetischer Art ist könnte <em>Annulieren</em> ihn beenden.
 
 > Tags: Nicht-Kampf
 
@@ -771,7 +771,7 @@ Du bist in der Lage, deine Illusionen nicht nur zum Erzeugen von Phantomen zu be
 
 **Effekt**  
 <ul>
-<li><strong>Rang 1</strong> - Wenn du den Harm <em>Phantom</em> wirkst, kannst du dich entscheiden, statt der normalen Wirkweise eine Halluzination in den Sinnen eines einzigen Ziels zu schaffen. Du erlangst vollständige Kontrolle über die Sinne des Ziels (je nach Kraftlevel des Harms), sodass die Halluzination nicht durch Größe oder Gebiet eingeschränkt ist. Deine Halluzination kann nur ein Ziel haben und kann nicht mit Multi-Zielen benutzt werden. Weiterhin hat das Ziel Nachteil auf seine Widerstehenwürfe gegen den Harm, außer es erleidet Schaden.</li>
+<li><strong>Rang 1</strong> - Wenn du den Fluch <em>Phantom</em> wirkst, kannst du dich entscheiden, statt der normalen Wirkweise eine Halluzination in den Sinnen eines einzigen Ziels zu schaffen. Du erlangst vollständige Kontrolle über die Sinne des Ziels (je nach Kraftlevel des Fluchs), sodass die Halluzination nicht durch Größe oder Gebiet eingeschränkt ist. Deine Halluzination kann nur ein Ziel haben und kann nicht mit Multi-Zielen benutzt werden. Weiterhin hat das Ziel Nachteil auf seine Widerstehenwürfe gegen den Fluch, außer es erleidet Schaden.</li>
 <li><strong>Rang 2</strong> - Wenn du mit <em>Phantom</em> eine Halluzination wirkst, kannst du anhand deine Einfluss-Wertes weitere Kreaturen als zusätzliche Ziele einschließen. Da dies nicht als Multi-Zielen zählt, leidet dein Aktionswurf nicht unter Nachteil.
   <ul>
   <li><strong>Einfluss 7</strong> - 5 Ziele</li>
@@ -795,7 +795,7 @@ Du bist in der Lage, deine Illusionen nicht nur zum Erzeugen von Phantomen zu be
 Indem du deine außergewöhnlichen Kräfte durch tiefere Recherche oder komplexere Rituale wie Meditation, Fasten, Blutlassen oder Ritualopfer unterstützt, erhöhst du die Macht deines Wirkens. Diese Fertigkeit ist bei Magiern, Erfindern, verrückten Wissenschaftlern und ähnlichen Charakteren bekannt.
 
 **Effekt**  
-Wenn du einen Harm oder ein Wohl wirkst, kannst du dich entscheiden, dies als Verstärkte Wirkung zu tun. Die Wirkzeit für eine Verstärkte Wirkung ist um einen Grad länger als normal:
+Wenn du einen Fluch oder einen Segen wirkst, kannst du dich entscheiden, dies als Verstärkte Wirkung zu tun. Die Wirkzeit für eine Verstärkte Wirkung ist um einen Grad länger als normal:
 <ul>
 <li>1 Aktion wird 1 Minute</li>
 <li>1 Minute wird 10 Minuten</li>
@@ -804,38 +804,38 @@ Wenn du einen Harm oder ein Wohl wirkst, kannst du dich entscheiden, dies als Ve
 <li>8 Stunden werden 24 Stunden</li>
 </ul>
 
-<strong>Rang 1</strong> - Wenn du eine Verstärkte Wirkung durchführst, kannst du einen der folgenden Effekte wählen, der den Harm oder das Wohl betrifft:<br>
+<strong>Rang 1</strong> - Wenn du eine Verstärkte Wirkung durchführst, kannst du einen der folgenden Effekte wählen, der den Fluch oder Segen betrifft:<br>
   <ul>
-  <li>Erhöhe die Reichweite des Harms oder Wohls:
+  <li>Erhöhe die Reichweite des Fluchs oder Segens:
     Attributwert 5 = 500 Fuß<br />
     Attributwert 6 = 1/2 Meile<br />
     Attributwert 7 = 1 Meile<br />
     Attributwert 8 = 10 Meilen<br />
     Attributwert 9 = 100 Meilen<br /></li>
   <li>Neutralisiere zwei Level Nachteil, die durch Multi-Zielen bewirkt werden (z.B. kannst du auf zwei Kreaturen oder ein 10' Gebiet zielen, ohne Nachteil zu erhalten).</li>
-  <li>Behandle deinen Attributwert zum Bestimmen der Attributwürfel für diese Wirkung als eins höher als er eigentlich ist. Dies gibt dir nicht Zugang zu weiteren Harmen oder Wohlen, sondern betrifft nur die für den Wurf genutzten Würfel.</li>
+  <li>Behandle deinen Attributwert zum Bestimmen der Attributwürfel für diese Wirkung als eins höher als er eigentlich ist. Dies gibt dir nicht Zugang zu weiteren Flüchen oder Segen, sondern betrifft nur die für den Wurf genutzten Würfel.</li>
   </ul>
 
 <strong>Rang 2</strong> - Du erhälst die folgenden Optionen, wenn du eine Verstärkte Wirkung nutzt:
   <ul>
-    <li>Du kannst andere in einer Gruppenwirkung anleiten, solange sie den Harm oder das Wohl auf dem gleichen Kraftlevel wie du wirken können. Nach erfolgreicher Gruppenwirkung kann jeder beteiligte Charakter einen der Effekte von Rang 1 dieser Fertigkeit auswählen.</li>
+    <li>Du kannst andere in einer Gruppenwirkung anleiten, solange sie den Fluch oder Segen auf dem gleichen Kraftlevel wie du wirken können. Nach erfolgreicher Gruppenwirkung kann jeder beteiligte Charakter einen der Effekte von Rang 1 dieser Fertigkeit auswählen.</li>
     <li>Du erhälst die folgenden weiteren Optionen, um deine Wirkung zu erweitern:
       <ul>
-      <li>Das gewirkte Wohl hält automatisch für eine Minute an, ohne das es aufrechterhalten werden muss. Weiterhin können Feinde das Wohl nicht durch Angriffe unterbrechen (wobei der Harm <em>Annullieren</em> weiterhin wirksam ist).</li>
-      <li>Ziele können für eine Minute keine Widerstehenwürfe gegen den gewirkten Harm nutzen.</li>
+      <li>Der gewirkte Segen hält automatisch für eine Minute an, ohne das es aufrechterhalten werden muss. Weiterhin können Feinde den Segen nicht durch Angriffe unterbrechen (wobei der Fluch <em>Annullieren</em> weiterhin wirksam ist).</li>
+      <li>Ziele können für eine Minute keine Widerstehenwürfe gegen den gewirkten Fluch nutzen.</li>
       </ul></li>
   </ul>
 
-<strong>Rang 3</strong> - Du erhälst die Fähigkeit, Harme und Wohle permanent zu gewähren oder aufzulösen. Um einen Harm oder ein Wohl zu übertragen, musst du dich für eine Anzahl Tage gleich des Kraftlevels vollständig mit der Verstärkten Wirkung beschäftigen. In dieser Zeit kannst du Essen, Trinken und mit zwei Ausnahmen sonst normal Handeln: 1) Du musst jeden Tag aktiv und ohne große Unterbrechungen 8 Stunden an der Wirkung des Harms oder Wohls arbeiten. 2) Du kannst dich generell frei bewegen und das Gebiet verlassen, aber für die 8 Stunden pro Tag musst du am gleichen Ort sein, an dem die Wirkung begonnen wurde. Wenn die Wirkzeit vollständig ist, mache deinen Aktionswurf je nach intendierter Anwendung:
+<strong>Rang 3</strong> - Du erhälst die Fähigkeit, Flüche und Segen permanent zu gewähren oder aufzulösen. Um einen Fluch oder einen Segen zu übertragen, musst du dich für eine Anzahl Tage gleich des Kraftlevels vollständig mit der Verstärkten Wirkung beschäftigen. In dieser Zeit kannst du Essen, Trinken und mit zwei Ausnahmen sonst normal Handeln: 1) Du musst jeden Tag aktiv und ohne große Unterbrechungen 8 Stunden an der Wirkung des Fluches oder Segens arbeiten. 2) Du kannst dich generell frei bewegen und das Gebiet verlassen, aber für die 8 Stunden pro Tag musst du am gleichen Ort sein, an dem die Wirkung begonnen wurde. Wenn die Wirkzeit vollständig ist, mache deinen Aktionswurf je nach intendierter Anwendung:
 <ul>
-<li><strong>Wohl gewähren</strong> - Mache einen normalen Aktionswurf, um das Wohl zu wirken. Bei Erfolg kannst du deinem Ziel ein nicht-augenblickliches und nicht-permanentes Wohl gewähren. Das Ziel kann das Wohl danach als kostenlose Aktion wirken, ohne dazu einen Aktionswurf zu benötigen. Das Ziel muss keine Aktionen nutzen, um das Wohl aufrechtzuerhalten und es kann nur temporär durch den Harm <em>Annullieren</em> neutralisiert werden. Um das Wohl permanent zu neutraliesieren (das gewährte Wohl aufzuheben), muss Verstärkte Wirkung mit dem Effekt Wohl bannen benutzt werden (siehe folgende Absätze).</li>
-<li><strong>Harm gewähren</strong> - Mache einen normalen Aktionswurf, um den Harm zu wirken. Bei Erfolg kannst du deinem Ziel einen nicht-augenblicklichen und nicht-permanenten Harm zufügen. Der Harm hält ohne Zeitlimit an und erlaubt keine Widerstehenwürfe, um ihn zu beenden. Der Effekt kann nur temporär mit dem Harm <em>Annullieren</em> oder permanent mit einer Verstärkten Wirkung mit der Anwendung Harm bannen benutzt werden (siehe folgende Absätze).</li>
-<li><strong>Wohl bannen[?]</strong> - Mache einen Vergehenwurf mit einem Herausforderungswert von 10 + 2 x Kraftlevel des Wohls, das du bannen willst. Bei Erfolg entfernst du ein permanentes Wohl vom Ziel, sodass dieses dessen Effekte und die Fähigkeit verliert, es zu wirken.</li>
-<li><strong>Dispel Bane</strong> - Mache einen Schutzwurf mit einem Herausforderungswert von 10 + 2 x Kraflevel des Harms, den du bannen willst. Bei Erfolg entfernst du einen permanenten Harm vom Ziel, wobei das Ziel aber keine Resistenz oder Immunität gegen den Harm für die Zukunft erhält.</li>
+<li><strong>Segen gewähren</strong> - Mache einen normalen Aktionswurf, um den Segen zu wirken. Bei Erfolg kannst du deinem Ziel einen nicht-augenblicklichen und nicht-permanenten Segen gewähren. Das Ziel kann den Segen danach als kostenlose Aktion wirken, ohne dazu einen Aktionswurf zu benötigen. Das Ziel muss keine Aktionen nutzen, um den Segen aufrechtzuerhalten und es kann nur temporär durch den Fluch <em>Annullieren</em> neutralisiert werden. Um den Segen permanent zu neutraliesieren (den gewährten Segen aufzuheben), muss Verstärkte Wirkung mit dem Effekt Segen bannen benutzt werden (siehe folgende Absätze).</li>
+<li><strong>Fluch gewähren</strong> - Mache einen normalen Aktionswurf, um den Fluch zu wirken. Bei Erfolg kannst du deinem Ziel einen nicht-augenblicklichen und nicht-permanenten Fluch zufügen. Der Fluch hält ohne Zeitlimit an und erlaubt keine Widerstehenwürfe, um ihn zu beenden. Der Effekt kann nur temporär mit dem Fluch <em>Annullieren</em> oder permanent mit einer Verstärkten Wirkung mit der Anwendung Fluch bannen benutzt werden (siehe folgende Absätze).</li>
+<li><strong>Segen bannen[?]</strong> - Mache einen Vergehenwurf mit einem Herausforderungswert von 10 + 2 x Kraftlevel des Segens, das du bannen willst. Bei Erfolg entfernst du einen permanenten Segen vom Ziel, sodass dieses dessen Effekte und die Fähigkeit verliert, es zu wirken.</li>
+<li><strong>Dispel Bane</strong> - Mache einen Schutzwurf mit einem Herausforderungswert von 10 + 2 x Kraflevel des Fluchs, den du bannen willst. Bei Erfolg entfernst du einen permanenten Fluch vom Ziel, wobei das Ziel aber keine Resistenz oder Immunität gegen den Fluch für die Zukunft erhält.</li>
 </ul>
 
 **Besonders**  
-Permanente Harme und Wohle mit dieser Fertigkeit zu gewähren kann einen dramatischen Einfluss auf die spielmechanische Balance der Geschichte haben. Wie mit anderen Effekten wie z.B. Außergewöhnliches Item Erschaffen, unterliegt das Wirken permanenter Harme und Wohle der Abwägung des GM. Der GM sollte besonders darauf achten, dass diese Fertigkeit nicht genutzt wird, um einen Charakter übermäßig mächtig zu machen.
+Permanente Flüche und Segen mit dieser Fertigkeit zu gewähren kann einen dramatischen Einfluss auf die spielmechanische Balance der Geschichte haben. Wie mit anderen Effekten wie z.B. Außergewöhnliches Item Erschaffen, unterliegt das Wirken permanenter Flüche und Segen der Abwägung des GM. Der GM sollte besonders darauf achten, dass diese Fertigkeit nicht genutzt wird, um einen Charakter übermäßig mächtig zu machen.
 
 > Tags: Außergewöhnlich, Nicht-Kampf
 
@@ -850,7 +850,7 @@ Permanente Harme und Wohle mit dieser Fertigkeit zu gewähren kann einen dramati
 Durch inspirierende Worte, magische Heilung oder fortgeschrittene Medizintechnik bist du besonders effektiv dabei, anderen zu helfen, schadhafte Effekte loszuwerden. Paladine, Barden und Kampfmediziner sind typische Beispiele von Charakteren, die diese Fertigkeit haben könnten.
 
 **Effekt**  
-Du kannst eine große Aktion benutzen, um einem Verbündeten sofort einen Widerstehenwurf (eine kostenlose Aktion für den Verbündeten) mit Vorteil 1 zu geben. Weiterhin hast du Vorteil 1 darauf, das Wohl <em>Wiederherstellung</em> zu wirken.
+Du kannst eine große Aktion benutzen, um einem Verbündeten sofort einen Widerstehenwurf (eine kostenlose Aktion für den Verbündeten) mit Vorteil 1 zu geben. Weiterhin hast du Vorteil 1 darauf, den Segen <em>Wiederherstellung</em> zu wirken.
 
 > Tags: Nicht-Kampf, Außergewöhnlich, Sozial, Schöpfung, Präsenz, Schutz
 
@@ -865,7 +865,7 @@ Du kannst eine große Aktion benutzen, um einem Verbündeten sofort einen Widers
 Im Fokus des Kampfes wirst du unabdingbar. Wie ein Mönch mit stählernem mentalen Fokus oder ein Berserker, der zu blutrünstig ist, um sich aufhalten zu lassen, kannst du nicht durch Furcht, Bezauberung oder ähnliche Effekte gebremst werden.
 
 **Effekt**  
-Während du in einer Kampftrance liegst, bist du immun gegen Harme, die auf deine Entschlossenheit zielen. Falls du zu Beginn der Trance unter einem dieser Harme lagst, ist dieser für die Dauer der Trance neutralisiert und kehr zurück, wenn die Trance endet.
+Während du in einer Kampftrance liegst, bist du immun gegen Flüche, die auf deine Entschlossenheit zielen. Falls du zu Beginn der Trance unter einem dieser Flüche lagst, ist dieser für die Dauer der Trance neutralisiert und kehr zurück, wenn die Trance endet.
 
 > Tags: Kampf
 
@@ -884,7 +884,7 @@ Während du in einer Kampftrance liegst, bist du immun gegen Harme, die auf dein
 Deine Ausdauer und Willenskraft sind legendär, sodass du weitermachen kannst, wenn andere schon einbrechen. Ein Barbar, der unermüdlich schlachtet oder ein Hacker, der tagelang ein einziges Ziel verfolgen kann, sind gute Beispiele dieser Fertigkeit.
 
 **Effekt**  
-Du kannst die Auswirkungen des Harms <em>Erschöpft</em> abschütteln. Für jeden Rang in dieser Fertigkeit kannst du dein Level an Erschöpfung als eins weniger behandeln, als es eigentlich ist, um die Effekte des Harms zu bestimmen.
+Du kannst die Auswirkungen des Fluches <em>Erschöpft</em> abschütteln. Für jeden Rang in dieser Fertigkeit kannst du dein Level an Erschöpfung als eins weniger behandeln, als es eigentlich ist, um die Effekte des Fluchs zu bestimmen.
 
 > Tags: Körperlich
 
@@ -1057,7 +1057,7 @@ Du kannst diese Fertigkeit mehrmals erhalten, wobei du jedes Mal neue Waffen ode
 Wie ein Assassine oder Ninja kannst du verhindern, dass Feinde andere zu Hilfe rufen können. Das könnte sich als Wurfdart in der Luftröhre, Würgestrick um den Hals oder verzaubertes Tuch über dem Mund ausdrücken.
 
 **Effekt**  
-Wann immer du mit einer Waffe mit der Eigenschaft <em>Defensiv</em> einem Ziel Schaden zufügst, das die Attacke nicht hat kommen sehen oder sonst unvorbereitet darauf war, erleidet es automatisch den Harm <em>Verstummt</em>. Du könntest vor dem Ziel versteckt sein, dich als Freund verkleidet oder es erfolgreich getäuscht haben.
+Wann immer du mit einer Waffe mit der Eigenschaft <em>Defensiv</em> einem Ziel Schaden zufügst, das die Attacke nicht hat kommen sehen oder sonst unvorbereitet darauf war, erleidet es automatisch den Fluch <em>Verstummt</em>. Du könntest vor dem Ziel versteckt sein, dich als Freund verkleidet oder es erfolgreich getäuscht haben.
 
 > Tags: Beweglichkeit, Körperlich
 
@@ -1072,7 +1072,7 @@ Wann immer du mit einer Waffe mit der Eigenschaft <em>Defensiv</em> einem Ziel S
 Wie ein Kensaikämpfer, der sich ganz seinem Katana verschrieben hat, oder ein Assassine der ausschließlich seine Lieblingspistole führt, ist dein Training auf einen einzigen Kampfstil fokussiert.
 
 **Effekt**  
-Wähle eine einzige Waffe (oder wähle unbewaffneten Kampf) und gib an, auf welches Attribut sich dein Kampffokus verlässt: Beweglichkeit oder Kraft. Wenn du einen Angriff mit der gewählten Waffe machst, wird dein Attributwert zum Bestimmten der Attributwürfel als eins höher gewertet, als er eigentlich ist. Dein Wert bleibt für alle anderen Anwendungen - wie z.B. Fertigkeiten, Harme und Wohle - unverändert. Aufgrund deines intensiven Trainings in einem Stil, das andere Taktiken vernachlässigt, hast du Nachteil 1 auf alle Angriffe, die du ohne Kampffokus ausführst.
+Wähle eine einzige Waffe (oder wähle unbewaffneten Kampf) und gib an, auf welches Attribut sich dein Kampffokus verlässt: Beweglichkeit oder Kraft. Wenn du einen Angriff mit der gewählten Waffe machst, wird dein Attributwert zum Bestimmten der Attributwürfel als eins höher gewertet, als er eigentlich ist. Dein Wert bleibt für alle anderen Anwendungen - wie z.B. Fertigkeiten, Flüche und Segen - unverändert. Aufgrund deines intensiven Trainings in einem Stil, das andere Taktiken vernachlässigt, hast du Nachteil 1 auf alle Angriffe, die du ohne Kampffokus ausführst.
 
 > Tags: Kampf, Körperlich
 
@@ -1102,7 +1102,7 @@ Solange du nicht geblendet oder durch außergewöhnliche Mächte verwirrt bist, 
 Du hast dein Gestaltwandeln perfektioniert und kannst so nicht nur deine Form wandeln, sondern sogar spezifische Kreaturen imitieren. Deine Kräfte könnten aus dem Studium der Täuschungsmagie stammen, von einer Genmutation oder inhärenten außergewöhnlichen Fähigkeiten.
 
 **Effekt**  
-Wenn du das Wohl <em>Gestaltwandel</em> benutzt, kannst du die Form einer spezifischen Kreatur annehmen. Anstatt dich einfach in einen Elf zu verwandeln, kannst du die Gestalt von Galdion dem Elfenkönig annehmen. Die Verkleidung ist visuell nahezu perfekt. Falls dein Verhalten oder andere Anzeichen jemand misstrauisch werden lassen, kann die Person einen Wahrnehmungswurf mit Herausforderungswert 10 + 3 x dein Wandlungs-/Täuschungswert (höheren Wert nutzen) versuchen. Falls sie Erfolg hat, durschaut die Person deine Verwandlung.
+Wenn du den Segen <em>Gestaltwandel</em> benutzt, kannst du die Form einer spezifischen Kreatur annehmen. Anstatt dich einfach in einen Elf zu verwandeln, kannst du die Gestalt von Galdion dem Elfenkönig annehmen. Die Verkleidung ist visuell nahezu perfekt. Falls dein Verhalten oder andere Anzeichen jemand misstrauisch werden lassen, kann die Person einen Wahrnehmungswurf mit Herausforderungswert 10 + 3 x dein Wandlungs-/Täuschungswert (höheren Wert nutzen) versuchen. Falls sie Erfolg hat, durschaut die Person deine Verwandlung.
 
 > Tags: Außergewöhnlich, Fertigkeitenkette, Wandlung
 
@@ -1123,28 +1123,28 @@ Ob du deine Schläge blitzschnell niederregnen lässt, zwei Waffen führst oder 
 
 **Effekt**  
 Zu Beginn deines Zuges kannst du ansagen, dass du eine Multi-Attacke nutzen wirst. Du must angeben, wie viele Extraangriffe du ausführen möchtest. Du erhälst eine dem entsprechenden Anzahl an zusätzlichen großen Aktionen, die nur für Angriffe genutzt werden können. <em>Alle</em> deine Angriffe in dieser Runde haben Nachteil gleich 3 x Anzahl an <strong>zusätzlichen</strong> Attacken (z.B. hast du bei insg. 2 Attacken Nachteil 3 auf beide, 3 Angriffe haben alle Nachteil 6, usw. ...) Für jeden Rang dieser Fertigkeit reduzierst du den gesamten Nachteil für alle Angriffe um 1 (nicht die 3 Nachteil pro Zusatzattacke).
-Du kannst deine Angriffe für eine beliebige Kombination aus Harmen und Attacken mit Schaden nutzen, kannst aber keine Wohle wirken. Handle jede einzelne Attacke ab, wobei du wie normal Multi-Zielen anwenden kannst. Du kannst dich zwischen den Angriffen bewegen und kannst auch die gleiche Kreatur mehrmals angreifen.
+Du kannst deine Angriffe für eine beliebige Kombination aus Flüchen und Attacken mit Schaden nutzen, kannst aber keine Segen wirken. Handle jede einzelne Attacke ab, wobei du wie normal Multi-Zielen anwenden kannst. Du kannst dich zwischen den Angriffen bewegen und kannst auch die gleiche Kreatur mehrmals angreifen.
 Die maximale Anzahl an zusätzlichen Angriffen pro Runde ist 1 + die Hälte deines Levels aufgerundet. Auf Level 1 ist das Limit also 2 zusätzliche Attacken, 3 Attacken auf Level 3 und 6 auf Level 9.
-<strong>Beispiel</strong> - Vax der Todbringer hat Multi-Angriffsspezialisierung (Rang III). Er sagt an, dass er diese Runde drei Angriffe (also zwei zusätzliche) ausführen wird. Daher werden all seine Angriffe Nachteil 3 haben (3 x 2 = 6, davon 3 für Rang 3 abziehen). Sein erster Angriff ist ein nekromantischer Energieausbruch, der einen 10'-Würfel als Ziel hat. Aufgrund der Gebietsattacke hat Vax weitere 2 Nachteil auf den ersten Angriff, sodass er insgesamt dafür mit Nachteil 5 würfelt. Sein zweiter Angriff ist ein Harmangriff mit <em>Geblendet</em> auf einen einzigen Feind, sodass dieser mit Nachteil 3 stattfindet. Letztlich bewegt sich Vax in den Nahkampf und nutzt seine Todesberührung gegen drei Feinde, was weitere 3 Nachteil bringt. Sein letzter Angriffswurf hat also Nachteil 6.
+<strong>Beispiel</strong> - Vax der Todbringer hat Multi-Angriffsspezialisierung (Rang III). Er sagt an, dass er diese Runde drei Angriffe (also zwei zusätzliche) ausführen wird. Daher werden all seine Angriffe Nachteil 3 haben (3 x 2 = 6, davon 3 für Rang 3 abziehen). Sein erster Angriff ist ein nekromantischer Energieausbruch, der einen 10'-Würfel als Ziel hat. Aufgrund der Gebietsattacke hat Vax weitere 2 Nachteil auf den ersten Angriff, sodass er insgesamt dafür mit Nachteil 5 würfelt. Sein zweiter Angriff ist ein Fluchangriff mit <em>Geblendet</em> auf einen einzigen Feind, sodass dieser mit Nachteil 3 stattfindet. Letztlich bewegt sich Vax in den Nahkampf und nutzt seine Todesberührung gegen drei Feinde, was weitere 3 Nachteil bringt. Sein letzter Angriffswurf hat also Nachteil 6.
 
 > Tags: Beliebiges Attribut
 
 ---
-### Multi-Harmspezialisierung
+### Multi-Fluchspezialisierung
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Fähigkeit, beide Harme zu wirken (siehe Beschreibung)
+- **Rang 1:** Fähigkeit, beide Flüche zu wirken (siehe Beschreibung)
 
 **Beschreibung**  
-Du hast eine Spezialattacke gemeistert, die es dir erlaubt, zwei Harme gleichzeitig zu wirken. Ein Eisstoß, der Feinde blendet und verlangsamt, ein Schrotflintenschuss der Feinde wegstößt und zu Boden wirft oder Wurmzungenlied, dass deine Feinde einschläfert und ihre Erinnerungen verändert sind alles Spezialattacken, die mit dieser Fertigkeit erstellt werden könnten.
+Du hast eine Spezialattacke gemeistert, die es dir erlaubt, zwei Flüche gleichzeitig zu wirken. Ein Eisstoß, der Feinde blendet und verlangsamt, ein Schrotflintenschuss der Feinde wegstößt und zu Boden wirft oder Wurmzungenlied, dass deine Feinde einschläfert und ihre Erinnerungen verändert sind alles Spezialattacken, die mit dieser Fertigkeit erstellt werden könnten.
 
 **Effekt**  
-Wähle zwei Harme aus, die du wirken kannst und ein gemeinsamen Attribut zum Wirken haben. Du kannst beide Harme mit einem Angriff zufügen. Der dafür nötige Attributwert ist gleich der Summe der Kraftlevel beider Harme (für <em>Niedergeschlagen</em> und <em>Verlangsamt</em> beide auf Kraftlevel 1 bräuchtest du also Attributwert 2). Falls die Harme auf unterschiedliche Verteidigungen zielen wählst du selbst aus, gegen welche Verteidigung der Angriff zielt. Bei einem erfolgreichen Wurf werden dem Ziel beide Harme zugefügt. Sie beide bleiben unabhängig voneinander bestehen und gegen sie muss separat widerstanden werden.
+Wähle zwei Flüche aus, die du wirken kannst und ein gemeinsamen Attribut zum Wirken haben. Du kannst beide Flüche mit einem Angriff zufügen. Der dafür nötige Attributwert ist gleich der Summe der Kraftlevel beider Flüche (für <em>Niedergeschlagen</em> und <em>Verlangsamt</em> beide auf Kraftlevel 1 bräuchtest du also Attributwert 2). Falls die Flüche auf unterschiedliche Verteidigungen zielen wählst du selbst aus, gegen welche Verteidigung der Angriff zielt. Bei einem erfolgreichen Wurf werden dem Ziel beide Flüche zugefügt. Sie beide bleiben unabhängig voneinander bestehen und gegen sie muss separat widerstanden werden.
 
 **Besonders**  
-Um bei einer Multi-Harm-Attacke von der Fertigkeit <em>Harmfokus</em> zu profitieren, musst du für beide gewählten Harme <em>Harmfokus</em> haben.
-Du kannst diese Fertigkeit mehr als einmal erwerben, wobei du jedes Mal ein neues Paar aus zwei Harmen wählst.
+Um bei einer Multi-Fluch-Attacke von der Fertigkeit <em>Fluchfokus</em> zu profitieren, musst du für beide gewählten Flüche <em>Fluchfokus</em> haben.
+Du kannst diese Fertigkeit mehr als einmal erwerben, wobei du jedes Mal ein neues Paar aus zwei Flüchen wählst.
 
 > Tags: Fluch, Kampf
 
@@ -1171,22 +1171,22 @@ Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit erwerben kannst, k
 > Tags: Beliebiges Attribut
 
 ---
-### Multi-Zielen Wohlexperte
+### Multi-Zielen Segenxperte
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Fertigkeit: Wohlfokus
+- **Rang 1:** Fertigkeit: Segenfokus
 
 **Beschreibung**  
-Du bist so geübt darin, Gruppen Verbündeter zu helfen, dass du bestimmte Wohle ohne Anstrengung wirken kannst. Eine Heilnova, ein übernatürlicher Wind der Flugfähigkeiten beschert oder Zeitdilation die eine Gruppe beschleunigt sind alle Beispiele dieser Fertigkeit.
+Du bist so geübt darin, Gruppen Verbündeter zu helfen, dass du bestimmte Segen ohne Anstrengung wirken kannst. Eine Heilnova, ein übernatürlicher Wind der Flugfähigkeiten beschert oder Zeitdilation die eine Gruppe beschleunigt sind alle Beispiele dieser Fertigkeit.
 
 **Effekt**  
-Wenn du ein Wohl mit Multi-Zielen wirkst, für den du die Fertigkeit Wohlfokus hast, musst du keinen Aktionswurf machen, falls der durch Multi-Zielen erhaltene Nachteil vollständig von deiner Fertigkeit Multi-Zielen Wohlspezialisierung negiert wird. In diesem Fall hat die Wirkung automatisch Erfolg.
+Wenn du einen Segen mit Multi-Zielen wirkst, für den du die Fertigkeit Segenfokus hast, musst du keinen Aktionswurf machen, falls der durch Multi-Zielen erhaltene Nachteil vollständig von deiner Fertigkeit Multi-Zielen Segenspezialisierung negiert wird. In diesem Fall hat die Wirkung automatisch Erfolg.
 
 > Tags: Nicht-Kampf, Beliebiges Attribut
 
 ---
-### Multi-Zielen Wohlspezialisierung (I - IX)
+### Multi-Zielen Segenspezialisierung (I - IX)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -1201,10 +1201,10 @@ Wenn du ein Wohl mit Multi-Zielen wirkst, für den du die Fertigkeit Wohlfokus h
 - **Rang 9:** Keine
 
 **Beschreibung**  
-Du bist ein Meister darin, Wohle auf mehrere Verbündete zu wirken. Eine Massenteleportation in eine andere Dimension  wäre eine Beispiel dieser Fertigkeit im Spiel.
+Du bist ein Meister darin, Segen auf mehrere Verbündete zu wirken. Eine Massenteleportation in eine andere Dimension  wäre eine Beispiel dieser Fertigkeit im Spiel.
 
 **Effekt**  
-Für jeden Rang dieser Fertigkeit reduzierst du den mit Multi-Zielen von Wohlen assoziierten Nachteil um 1.
+Für jeden Rang dieser Fertigkeit reduzierst du den mit Multi-Zielen von Segen assoziierten Nachteil um 1.
 
 > Tags: Nicht-Kampf, Außergewöhnlich
 
@@ -1246,20 +1246,20 @@ Jedes Mal, wenn du mit einer Waffe mit der Eigenschaft <em>Kraftvoll</em> Schade
 > Tags: Körperlich, Fertigkeitenkette, Kraft
 
 ---
-### Hartnäckiger Harm
+### Hartnäckiger Fluch
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Fähigkeit, den gewählten Harm zu wirken
+- **Rang 1:** Fähigkeit, den gewählten Fluch zu wirken
 
 **Beschreibung**  
 Du bist so effektiv mit einer bestimmten Art Angiff, dass deine Feinde es schwer haben, ihre Folgen abzuschütteln. Vielleicht brennen die Flammen deines Feuerballs heißer oder du hast eine besondere chemische Mischung für dein Blindpulver entwickelt.
 
 **Effekt**  
-Wähle einen Harm aus, den du wirken kannst und der eine Dauer von "Widerstehen beendet" hat. Wenn ein Ziel dieses Harms von dir versucht, diesen mit einem Widerstehenwurf abzuschütteln, hat es Nachteil 1.
+Wähle einen Fluch aus, den du wirken kannst und der eine Dauer von "Widerstehen beendet" hat. Wenn ein Ziel dieses Fluches von dir versucht, diesen mit einem Widerstehenwurf abzuschütteln, hat es Nachteil 1.
 
 **Besonders**  
-Du kannst diese Fertigkeit mehrmals wählen, wobei du jedes Mal einen anderen Harm wählst.
+Du kannst diese Fertigkeit mehrmals wählen, wobei du jedes Mal einen anderen Fluch wählst.
 
 > Tags: Fluch, Kampf
 
@@ -1301,7 +1301,7 @@ Während du in einer Kampftrance bist, kannst du dich entscheiden, dir selbst in
 - **Rang 1:** Konstitution 3 / Präsenz 3 / Willenskraft 3
 
 **Beschreibung**  
-Ob durch Glück, außergewöhnliche Willenskraft oder großen Mut, kannst du Harme schneller abschütteln als andere. Diese Fertigkeit kann gut zu jedem Charakterkonzept passen: ein Halbling dem das Glück gewogen ist, eine Zauberin mit einer Aura des Schutzes oder ein zerstreuter Professor, der keine Zeit für Störungen seiner Studien hat.
+Ob durch Glück, außergewöhnliche Willenskraft oder großen Mut, kannst du Flüche schneller abschütteln als andere. Diese Fertigkeit kann gut zu jedem Charakterkonzept passen: ein Halbling dem das Glück gewogen ist, eine Zauberin mit einer Aura des Schutzes oder ein zerstreuter Professor, der keine Zeit für Störungen seiner Studien hat.
 
 **Effekt**  
 Du hast Vorteil 1 auf alle Widerstehenwürfe.
@@ -1340,7 +1340,7 @@ Einmal pro Runde, nachdem du deine große Aktion der nächsten Runde für eine V
 Du hast Adleraugen, Ausdauer wie eine Stier, den Witz eines Fuchses oder eine ähnlich beeindruckende Fähigkeit außerhalb von Kämpfen. Eventuell hast du hart trainiert, lang gelernt oder einfach ein angeborenes Talent.
 
 **Effekt**  
-Wähle ein Attribut. Wann immer du einen Wurf mit diesem Attribut auf etwas anderes als Initiative, Angriffe, Wirkungen von Harmen oder Wohlen oder Verteidigungsaktionen machst, erhälst du Vorteil 1 pro Rang dieser Fertigkeit.
+Wähle ein Attribut. Wann immer du einen Wurf mit diesem Attribut auf etwas anderes als Initiative, Angriffe, Wirkungen von Flüchen oder Segen oder Verteidigungsaktionen machst, erhälst du Vorteil 1 pro Rang dieser Fertigkeit.
 
 **Besonders**  
 Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit haben kannst, kannst du auch die Fertigkeit selbst mehrmals erwerben, wobei du jedes Mal ein anderes Attribut wählst. Du hast separate Ränge für jedes Attribut, für das du diese Fertigkeit hast.
@@ -1360,7 +1360,7 @@ Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit haben kannst, kann
 Dein Fokus ist messerschaft, sodass du dich darauf konzentrieren kannst, mehrere außergewöhnliche Effekte gleichzeitig aufrechtzuerhalten. Diese Fertigkeit ist bei Charakteren verbreitet, die darauf ausgelegt sich, sich und andere zu verstärken, z.B. Barden, Platoonführer oder Ingenieure.
 
 **Effekt**  
-Wenn du die kleine Aktion <em>Wohl aufrechterhalten</em> benutzt, kannst du pro Rang dieser Fertigkeit ein weiteres Wohl aufrechterhalten, dass du wirken kannst.
+Wenn du die kleine Aktion <em>Segen aufrechterhalten</em> benutzt, kannst du pro Rang dieser Fertigkeit einen weiteren Segen aufrechterhalten, dass du wirken kannst.
 
 > Tags: Außergewöhnlich
 
@@ -1462,7 +1462,7 @@ Wenn du eine Waffe, für die du die Fertigkeit <em>Angriffsspezialisierung</em> 
 Ob du ein Verzauberer bist, Psychiker oder verrückter Wissenschaftler, du hast die Kunst andere gefügig zu machen gemeistert. Deine Bezauberungen sind so mächtig, dass deine Opfer ihnen permament verfallen können.
 
 **Effekt**  
-Wenn du den Harm <em>Bezaubert</em> wirkst, erleiden Ziele, die ihren Widerstehenwürfe innerhalb von 24 Stunden nicht bestehen, den Harm permanent. Sie erhalten keine weiteren Widerstehenwürfe, um sich von dem Effekt zu befreien. Andere außergewöhnliche Effekte wie z.B. der Harm <em>Annulieren</em> (und weitere passende nach Abwägung des GM) können die permanente Bezauberung weiterhin brechen.
+Wenn du den Fluch <em>Bezaubert</em> wirkst, erleiden Ziele, die ihren Widerstehenwürfe innerhalb von 24 Stunden nicht bestehen, den Fluch permanent. Sie erhalten keine weiteren Widerstehenwürfe, um sich von dem Effekt zu befreien. Andere außergewöhnliche Effekte wie z.B. der Fluch <em>Annulieren</em> (und weitere passende nach Abwägung des GM) können die permanente Bezauberung weiterhin brechen.
 
 > Tags: Außergewöhnlich, Nicht-Kampf, Einfluss
 
@@ -1522,7 +1522,7 @@ Dein Wohlstandswert ist um 1 erhöht.
 Du hast eine breite Erziehung genossen, viele Erfahrungen gemacht oder einfach großes Glück. Das Resultat ist, dass du auch in Dingen, in denen du nicht spezialisiert bist, ziemlich adept bist.
 
 **Effekt**  
-Wann immer du ein Attribut mit Wert 2 oder weniger für einen Aktionswurf außerhalb des Kampfes nutzt, der nicht zum Wirken eines Harms oder eines Wohls dient, erhälst du Vorteil 1 auf den Wurf.
+Wann immer du ein Attribut mit Wert 2 oder weniger für einen Aktionswurf außerhalb des Kampfes nutzt, der nicht zum Wirken eines Fluchs oder eines Segens dient, erhälst du Vorteil 1 auf den Wurf.
 
 > Tags: Nicht-Kampf
 
