@@ -49,38 +49,91 @@ Die Expertise eines Charakter mit Attributen wird durch einen Wert zwischen 0 (v
 
 Der Durchschnittsbürger oder einfache Handwerker hat generell Werte zwischen 1 und 3 in mehreren körperlichen, sozialen und geistigen Attributen. Übernatürliche Attribute sind meist Charakteren mit großer Macht und Einfluss vorbehalten.
 
-Die *Attribute auf einen Blick*-Tabelle gibt einen schnellen Überblick einiger häufiger Handlungen, die die jeweiligen Attribute dir erleichtern werden.
-
-#### Körperliche Attribute auf einen Blick
-|                   |                                                                                                                      |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Beweglichkeit** | Angriffen ausweichen, sich heimlich bewegen, Akrobatik vorführen, einen Bogen schießen, Taschendiebstahl durchführen |
-| **Konstitution**  | Gift widerstehen, Schmerzen abschütteln, in der Wüste überleben, schwere Rüstung tragen                              |
-| **Kraft**[?]      | Einen Kriegshammer schwingen, über einen Abgrund springen, eine Tür aufbrechen, einen Feind zu Boden ringen          |
-#### Geistige Attribute auf einen Blick
-|                  |                                                                                                                                                  |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Lernen**       | sich an Geschichtsfakten erinnern, arkane Magie, die Welt der Natur, jede Information, die du aus externen Quellen erfahren hast                 |
-| **Logik**        | eine neue Handwerksart erdenken, einen Code entschlüsseln, ein Werkzeug zusammenbasteln, Fetzen einer dir nicht bekannten Sprache zusammensetzen |
-| **Wahrnehmung**  | Hintergedanken spüren, jemandes Spur folgen, ein Bauchgefühl haben, einen versteckten Feind entdecken, eine geheime Tür finden                   |
-| **Willenskraft** | die eigene Entschlossenheit wahren, Folter widerstehen, bis in die Nacht lernen, auf der Wachschicht wach bleiben, Wahnsinn abwenden             |
-#### Soziale Attribute auf einen Blick
-|                 |                                                                                                                        |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **Täuschung**   | Lügen, beim Kartenspiel bluffen, sich verkleiden, Gerüchte verbreiten, jemand über den Tisch ziehen                    |
-| **Überzeugung** | einen Deal verhandeln, jemanden überzeugen, einen Preis runterhandeln, jemand Informationen abringen                   |
-| **Präsenz**     | eine Rede geben, ein Lied singen, eine Armee inspirieren, die Macht der eigenen Persönlichkeit ausdrücken, Glück haben |
-#### Übernatürliche Attribute auf einen Blick
-|               |                                                                                                                                      |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| **Wandlung**  | Gestalt wandeln, molekulare Strukturen verändern, ein Material in ein anderes transmutieren                                          |
-| **Schöpfung** | Höhere Kräfte leiten, Etwas aus nichts manifestieren, Regeneration, durch heilige Kraft stärken                                      |
-| **Energie**   | die Elemente erschaffen und kontrollieren: Feuer, Kälte, Elektrizität                                                                |
-| **Vergehen**  | Materie disintegrieren, mit einem Wort töten, Untote erschaffen, andere erkranken lassen                                             |
-| **Einfluss**  | den Geist anderer kontrollieren, telepathisch sprechen, Furcht einflößen, illusorische Gebilde erzeugen, in Unsichtbarkeit schleiern |
-| **Bewegung**  | teleportieren, fliegen, jemand beschleunigen, telekinetisch schieben                                                                 |
-| **Vorwissen** | die Zukunft sehen, Gedanken oder Auras lesen, Fernsehen, Magie oder das Böse aufdecken, mit extradimensionalen Wesen kommunizieren   |
-| **Schutz**    | vor Schaden schützen, mentalen Einfluss durchbrechen, Magie auflösen, Dämonen binden                                                 |
+Die *Attribute auf einen Blick*-Tabellen geben dir einen schnellen Überblick einiger häufiger Handlungen, die die jeweiligen Attribute dir erleichtern werden.
+##### Körperliche Attribute auf einen Blick
+<table>
+	<tr>
+		<th>Beweglichkeit</th>
+		<td>Angriffen ausweichen, sich heimlich bewegen, Akrobatik vorführen, einen Bogen schießen, Taschendiebstahl durchführen</td>
+	</tr>
+	<tr>
+		<th>Konstitution</th>
+		<td>Gift widerstehen, Schmerzen abschütteln, in der Wüste überleben, schwere Rüstung tragen</td>
+	</tr>
+	<tr>
+		<th>Kraft</th>
+		<td>Einen Kriegshammer schwingen, über einen Abgrund springen, eine Tür aufbrechen, einen Feind zu Boden ringen</td>
+	</tr>
+</table>
+##### Geistige Attribute auf einen Blick
+<table>
+	<tr>
+		<th>Lernen</th>
+		<td>Sich an Geschichtsfakten erinnern, arkane Magie, die Welt der Natur, jede Information, die du aus externen Quellen erfahren hast</td>
+	</tr>
+	<tr>
+		<th>Logik</th>
+		<td>Eine neue Handwerksart erdenken, einen Code entschlüsseln, ein Werkzeug zusammenbasteln, Fetzen einer dir nicht bekannten Sprache zusammensetzen</td>
+	</tr>
+	<tr>
+		<th>Wahrnehmung</th>
+		<td>Hintergedanken spüren, jemandes Spur folgen, ein Bauchgefühl haben, einen versteckten Feind entdecken, eine geheime Tür finden</td>
+	</tr>
+	<tr>
+		<th>Willenskraft</th>
+		<td>die eigene Entschlossenheit wahren, Folter widerstehen, bis in die Nacht lernen, auf der Wachschicht wach bleiben, Wahnsinn abwenden</td>
+	</tr>
+</table>
+##### Soziale Attribute auf einen Blick
+<table>
+	<tr>
+		<th>Täuschung</th>
+		<td>Lügen, beim Kartenspiel bluffen, sich verkleiden, Gerüchte verbreiten, jemand über den Tisch ziehen</td>
+	</tr>
+	<tr>
+		<th>Überzeugung</th>
+		<td>Einen Deal verhandeln, jemanden überzeugen, einen Preis runterhandeln, jemand Informationen abringen</td>
+	</tr>
+	<tr>
+		<th>Präsez</th>
+		<td>Eine Rede geben, ein Lied singen, eine Armee inspirieren, die Macht der eigenen Persönlichkeit ausdrücken, Glück haben</td>
+	</tr>
+</table>
+##### Übernatürliche Attribute auf einen Blick
+<table>
+	<tr>
+		<th>Wandlung</th>
+		<td>Gestalt wandeln, molekulare Strukturen verändern, ein Material in ein anderes transmutieren</td>
+	</tr>
+	<tr>
+		<th>Schöpfung</th>
+		<td>Höhere Kräfte leiten, Etwas aus nichts manifestieren, Regeneration, durch heilige Kraft stärken</td>
+	</tr>
+	<tr>
+		<th>Energie</th>
+		<td>die Elemente erschaffen und kontrollieren: Feuer, Kälte, Elektrizität</td>
+	</tr>
+	<tr>
+		<th>Vergehen</th>
+		<td>Materie disintegrieren, mit einem Wort töten, Untote erschaffen, andere erkranken lassen</td>
+	</tr>
+	<tr>
+		<th>Einfluss</th>
+		<td>Den Geist anderer kontrollieren, telepathisch sprechen, Furcht einflößen, illusorische Gebilde erzeugen, in Unsichtbarkeit schleiern</td>
+	</tr>
+	<tr>
+		<th>Bewegung</th>
+		<td>Teleportieren, fliegen, jemand beschleunigen, telekinetisch schieben</td>
+	</tr>
+	<tr>
+		<th>Vorwissen</th>
+		<td>Die Zukunft sehen, Gedanken oder Auras lesen, Fernsehen, Magie oder das Böse aufdecken, mit extradimensionalen Wesen kommunizieren</td>
+	</tr>
+	<tr>
+		<th>Schutz</th>
+		<td>vor Schaden schützen, mentalen Einfluss durchbrechen, Magie auflösen, Dämonen binden</td>
+	</tr>
+</table>
 
 In Open Legend kannst du die Stärken und Schwächen deines Charakters durch das Wählen von Attributen, die zu deiner Vorstellung des Charakters passen, definieren. Als nächstes werden mehrere Wege beschrieben, wie du deine Attribute zuweisen kannst.
 ### Schnelle Charaktererstellung
@@ -154,21 +207,21 @@ Wenn ein Gegner versucht, dich anzugreifen - egal ob mit dem Schuss eines Gewehr
 
 **Trefferpunkte** (TP abgekürzt) sind eine abstrakte Repräsentation deiner Fähigkeit, Schmerzen zu ignorieren, tödlichen Angriffen zu entgehen und deine Präsenz auf dem Schlachtfeld trotz Wunden und Erschöpfung aufrechtzuerhalten. Falls sie 0 erreichen, fällst du in Ohnmacht und bist in Lebensgefahr.
 
-**Geschwindigkeit** stellt dar, wie weit dein Charakter sich in einer einzigen Bewegungsaktion fortbewegen kann (siehe Kapitel 7: Kampf). Deine Grundgeschwindigkeit sind 30 Fuß. Andere Effekte wie Harme[?], Wohle[?] und Fertigkeiten können deine Geschwindigkeit erhöhen oder verringern.
+**Geschwindigkeit** stellt dar, wie weit dein Charakter sich in einer einzigen Bewegungsaktion fortbewegen kann (siehe Kapitel 7: Kampf). Deine Grundgeschwindigkeit sind 30 Fuß. Andere Effekte wie Harme, Wohle und Fertigkeiten können deine Geschwindigkeit erhöhen oder verringern.
 ## Schritt 4: Fertigkeiten kaufen
 Während die Attribute deines Charakters seine Expertise im erbringen heroischer Taten ausmachen, machen seine **Fertigkeiten** ihn einzigartig unter anderen Charakteren. Fertigkeiten erlauben dir, deinen Charakter anzupassen, sodass er spezifischen Anforderungen besonders gut begegnen kann.
 
-Zum Beispiel könnten zwei unterschiedliche Charaktere, die beide auf Nahkampf spezialisiert sind, mit einem Machtwert von 5 beginnen. Einer der Charaktere ist ein verwegener Pirat, also nimmt er die *Kampfmomentum*-Fertigkeit[?] um sich wie ein Derwisch schnell von einem Gegner zum anderen bewegen zu können. Der andere, ein kampfgezeichneter Barbar, nimmt *Kampftrance*, sodass er in rasende Wut fallen kann, um seine Feinde zu dezimieren.
+Zum Beispiel könnten zwei unterschiedliche Charaktere, die beide auf Nahkampf spezialisiert sind, mit einem Machtwert von 5 beginnen. Einer der Charaktere ist ein verwegener Pirat, also nimmt er die *Kampfmomentum*-Fertigkeit um sich wie ein Derwisch schnell von einem Gegner zum anderen bewegen zu können. Der andere, ein kampfgezeichneter Barbar, nimmt *Kampftrance*, sodass er in rasende Wut fallen kann, um seine Feinde zu dezimieren.
 ### Fertigkeiten wählen
 Fertigkeiten kauft man mit Fertigkeitenpunkten. Auf Level 1 hast du 6 Fertigkeitenpunkte zur Verfügung. Jegliche übriggebliebenen Punkte kannst du dir für später aufheben.
 
-Eine durchsuchbare Liste aller verfügbaren Fertigkeiten kann [hier](openlegendrpg.com/feats) gefunden werden.[?]
+Eine durchsuchbare Liste aller verfügbaren Fertigkeiten kann [hier](./lists/fertigkeiten.md) gefunden werden.
 ## Schritt 5: Startausrüstung wählen
 In einem typischen Open Legend-Spiel beginnt dein Charakter mit der nötigen Startausrüstung für das Leben eines Abenteurers. Der GM kann aber auch entscheiden, dass die Kampagne unter besonderen Umständen beginnt (zum Beispiel, dass die gesamte Gruppe eingesperrt in einem Sklavenkonvoi beginnt), die etwas anderes benötigen.
 
 Normalerweise beginnst du aber mit einem Wohlstandswert von 2 und kannst bis zu drei Items mit Wohlstandslevel 2, sowie so viele Items eines niedrigeren Wohlstandslevels auswählen, wie du willst. Schlage in Kapitel 6 für Regeln zu Wohlstand und Ausrüstungsinformationen nach. Gehe sicher, dass du jegliche Veränderungen an deinen Verteidigungen oder anderen Werten notierst, nachdem du deine Ausrüstung ausgewählt hast.
 ## Schritt 6: Charakterstärken und -schwächen auswählen
-Charakterstärken und -schwächen geben dir weitere Wege, die Persönlichkeit, das Aussehen, Stärken, Schwächen und Hintergrund deines Charakters auszuarbeiten. Vollständige Beschreibungen der verfügbaren Charakterstärken und -schwächen sowie wie sie im Spiel genutzt werden, findest du in Kapitel 5: Charakterstärken & -schwächen.
+Charakterstärken und -schwächen geben dir weitere Wege, die Persönlichkeit, das Aussehen, Stärken, Schwächen und Hintergrund deines Charakters auszuarbeiten. Vollständige Beschreibungen der verfügbaren Charakterstärken und -schwächen sowie wie sie im Spiel genutzt werden, findest du in [Kapitel 5: Charakterstärken und -schwächen](./Kapitel-5_Charakterstaerken-und-schwaechen.md).
 
 Bei der Charaktererstellung kannst du bis zu zwei Stärken und Schwächen auswählen. Du kannst auch keine auswählen.
 ## Schritt 7: Erzähl' deine Geschichte
@@ -184,7 +237,7 @@ Diese Sektion enthält eine Ansammlung an typischen Charakterarten, die für ver
 ### Barde
 Barden sind ein bisschen von allem: Anführer, Geschichtenerzähler, Künstler, Performer, Magier, Säbelrassler und vieles mehr. Ein Barde ist ein Alleskönner, der seine Verbündeten so oft aus dem Feuer rettet, wie er sie auch hineinwirft.
 #### Strategie
-Barden können in fast allen Situationen außerhalb des Kampfes andere mit ihrer Fertigkeit *Rundumtalent*[?] unterstützen, wobei sie sich besonders in sozialen Situationen durch ihre hohen Werte in Präsenz und Überzeugung profilieren. Ihr Einflusswert gibt ihnen außerdem Zugang zu Flüchen wie *bezaubert*[?] und *Phantasmus*, die zum Täuschen, Verhören oder Gewinnen von Feinden nützlich sind.
+Barden können in fast allen Situationen außerhalb des Kampfes andere mit ihrer Fertigkeit *Rundumtalent*[?] unterstützen, wobei sie sich besonders in sozialen Situationen durch ihre hohen Werte in Präsenz und Überzeugung profilieren. Ihr Einflusswert gibt ihnen außerdem Zugang zu Flüchen wie *Bezaubert* und *Phantom*[?], die zum Täuschen, Verhören oder Gewinnen von Feinden nützlich sind.
 
 Im Kampf unterstützt ein Barde seine Verbündeten mit *verstärken*, wobei er durch die Fertigkeit *Wohlfokus* mehrere Freunde auf einmal damit belegen kann. Wird ein Kamerad verwundet nutzt der Barde *heilen* um sie wieder kampffähig zu machen und kann auch mehrere mit einer heilenden *Aura* unter die Arme greifen. Barden sind genügend kompetent im Nahkampf, in dem sie das Rapier führen und Feinde entwaffnen, wann immer sich die Chance bietet.
 
@@ -211,7 +264,7 @@ Im Kampf sind Kampfmagier die Ein-Mann-Front. Ihre schwere Rüstung lässt sie g
 
 **Attribute:** Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Kraft 4 (1d10), Präsenz 3 (1d8), Energie 5 (2d6)<br>**Trefferpunkte:** 22<br>**Deckung:** 20 (21 mit Schild - Beweglichkeit 2, Kraft 4, Plattenpanzer 3 Fertigkeit 1)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 25'
 
-**Fertigkeiten:** Multi-Ziel Angriffsspezialisierung II (Bereich), Rüstungstraining[?] I
+**Fertigkeiten:** Multi-Ziel Angriffsspezialisierung II (Bereich), Rüstungsexpertise I
 
 **Wichtige Ausrüstung:** Plattenpanzer, kleiner Schild, Langschwert, Speer, Kriegshammer
 #### Bevorzugte Aktionen
@@ -233,7 +286,7 @@ Sobald der Kampf beginnt, schwingt der Monsterzähmer sich in den Himmel und nut
 #### Mantikor-Gefährte
 **Attribute:** Beweglichkeit 1 (1d4), Konstitution 3 (1d8), Kraft 4 (1d10), Wahrnehmung 1 (1d4), Willenskraft 2 (1d6), Vergehen 5 (2d6)<br>**Trefferpunkte:** 20<br>**Deckung:** 15 (Beweglichkeit 1, Kraft 4)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30' fliegend
 ##### Bevorzugte Aktionen
-***Klauen*** (Angriff mit Schaden): Kraft vs. Deckung<br>***Tödlicher Stachel*** (Angriff mit Schaden): Vergehen vs. Deckung<br>***Giftiger Stachel*** (*Anhaltender Schaden* zufügen): Vergehen vs. Zähigkeit<br>***Bodycheck***[?] (*Niedergeschlagen* zufügen): Kraft vs. Deckung<br>***Verwirrender Stachel*** (*Betäubt* zufügen): Vergehen vs. Zähigkeit
+***Klauen*** (Angriff mit Schaden): Kraft vs. Deckung<br>***Tödlicher Stachel*** (Angriff mit Schaden): Vergehen vs. Deckung<br>***Giftiger Stachel*** (*Anhaltender Schaden* zufügen): Vergehen vs. Zähigkeit<br>***Bodycheck*** (*Niedergeschlagen* zufügen): Kraft vs. Deckung<br>***Verwirrender Stachel*** (*Betäubt* zufügen): Vergehen vs. Zähigkeit
 ### Berserker
 Berserker sind die Elitestreiter der Barbarenhorden, bekannt dafür, gegen unmögliche Chancen anzutreten. Diejenigen, die nicht dem Terror ihrer geifernden Rage zum Opfer fallen, werden von den mächtigen Schwüngen der Waffen der Berserker ihr Leben lang mit Ehrfurcht sprechen.
 #### Strategie
@@ -262,16 +315,16 @@ Beginnt der Kampf, dann bietet die Macht des Chronomagiers über die Zeit der Gr
 **Wichtige Ausrüstung:** Stahlseidenrüstung
 #### Bevorzugte Aktionen
 ***Hyperverschleiss***[?] (Angriff mit Schaden): Vergehen vs. Deckung<br>***Stasisfeld*** (*5' Aura: Immobilisiert* wirken): Auto-Erfolg auf KL 1 durch *Wohlfokus*<br>***Zeitdehnungsfeld*** (*5' Aura: Verlangsamt* wirken): Auto-Erfolg auf KL 1 durch *Wohlfokus*<br>***Vorspulen*** (*Hast* wirken): Bewegung vs. 14 - 18 (KL 2 - 4)<br>***Massen-Vorspulen*** (*5' Aura: Hast* wirken): Auto-Erfolg auf KL 2 durch *Wohlfokus*<br>***Zurückspulen*** (*Heilen* wirken): Schöpfung vs. 12 - 16 (KL 1 - 3)<br>***Zeitschritt*** (*Teleport* wirken): Bewegung vs. 16 (KL 3)<br>***Zukunftsblick*** (*Voraussicht* wirken): Vorwissen vs. 12 - 16 (KL 1 - 3)
-### Höfling[?]
+### Höfling
 Höflinge sind Karrierepolitiker, die majestätische Grazie zum Ziel ihres Lebens machen. Ihre strenge Ausstrahlung lässt alle in der Hand des Höflings zu formbaren Ton werden. Als Gastgeber plant der Höfling seine Feiern oft bis ins letzte Detail, sodass seine Gäste genau die Erfahrung haben, die er ihnen angedacht hat. Sein Antlitz verlangt Respekt, sei es königliche Brokade, fernöstliche Seide oder die eleganten Linien eines Corpo-Anzugs.
 #### Strategie
-Da er primär auf soziale Situationen spezialisiert und in Kämpfen größtenteils hilflos ist, tut er sein bestes, um die Umstände so zu gestalten, dass es gar nicht erst zum Kampf kommt. Ist der Kampf unumgänglich, schlägt der Höfling sich durch seine Täuschung, Überzeugung, Präsenz und Einfluss auf die siegende Seite. Hat der Höfling das Vertrauen seiner mächtigen Bekanntschaften durch den Harm *Bezaubert* gewonnen, kommt das Opfer typischerweise aufgrund der Fertigkeiten *Hartnäckiger Harm*[?] und *Unsterbliche Bezauberung*[?] nie wieder frei.
+Da er primär auf soziale Situationen spezialisiert und in Kämpfen größtenteils hilflos ist, tut er sein bestes, um die Umstände so zu gestalten, dass es gar nicht erst zum Kampf kommt. Ist der Kampf unumgänglich, schlägt der Höfling sich durch seine Täuschung, Überzeugung, Präsenz und Einfluss auf die siegende Seite. Hat der Höfling das Vertrauen seiner mächtigen Bekanntschaften durch den Harm *Bezaubert* gewonnen, kommt das Opfer typischerweise aufgrund der Fertigkeiten *Hartnäckiger Harm* und *Unsterbliche Bezauberung* nie wieder frei.
 
 **Attribute:** Beweglichkeit 2 (1d6), Willenskraft 3 (1d8), Täuschung 4 (1d10), Präsenz 3 (1d8), Einfluss 5 (2d6)<br>**Trefferpunkte:** 22<br>**Deckung:** 13 (Beweglichkeit 2, Stahlseidenrüstung 1)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 16<br>**Geschwindigkeit:** 30'
 
 **Fertigkeiten:** Hartnäckiger Harm (Bezaubert), Unsterbliche Bezauberung
 
-**Wichtige Ausrüstung:** Majestätische Kleidung, Dolch, Kompaktpistole[?] (Pistole), Stahlseiderüstung
+**Wichtige Ausrüstung:** Majestätische Kleidung, Dolch, Kompaktpistole (Pistole), Stahlseiderüstung
 #### Bevorzugte Aktionen
 ***Unterhaltungswunder***[?] (*Bezaubert* zufügen): Einfluss vs. Entschlossenheit<br>***Mörderische Beleidigung*** (*Demoralisiert* zufügen): Einfluss vs. Entschlossenheit<br>***Widersprüchliche Aussagen*** (*Gedächtnismanipulation* zufügen): Einfluss vs. Entschlossenheit<br>***Vertrauensvolles Ohr*** (*Wahrheitszwang* zufügen): Einfluss vs. Entschlossenheit<br>***Persönlicher Gefallen*** (*Dominiert* zufügen): Einfluss vs. Entschlossenheit<br>***Versteckter Abzug*** (Angriff mit Schaden): Beweglichkeit vs. Deckung
 ### Druide
@@ -324,7 +377,7 @@ _**Zwei-Knarren-Ansturm**_ (Fokusaktion, Angriff mit Schaden, 2 Angriffe): Beweg
 ### Hacker
 Wissen ist Macht, wie das Sprichtwort verkündet. Der Hacker ist der Beweis, dass so gut wie jeder mit der richtigen Information zu Fall gebracht werden kann. Manche Hacker sind Söldner, die für den höchsten Lohn arbeiten und den Thrill lieben, riesige Mengen an Daten zu kontrollieren, von denen Leben abhängen. Andere verschreiben sich einem höheren Ziel, um die Welt zum Besseren oder Schlechteren zu wenden.
 #### Strategie
-Der Hacker ist ein Meister von Daten und Information und sucht, ihre Macht zu nutzen. Hacker stückeln aus Infofetzen Geheimnisse und Daten zusammen, die andere für verschlüsselt halten. Außerhalb des Kampfes nutzt der Hacker Harme und Wohle wie *Treusicht* um durch seine Drohne zu sehen und *Weitsicht* oder *Voraussicht*, um Informationen und Personen durch Datenbanken, Server, Sicherheitskameras, Kreditkarteneinträge und andere schlecht gesicherte Datenströme zu verfolgen. Falls Täuschung gebraucht wird, nutzt der Hacker die fast allgegenwärtigen Streams um mit dem Harm *Phantom* Videos, Hologramme und Audiosignale zu fabrizieren.
+Der Hacker ist ein Meister von Daten und Information und sucht, ihre Macht zu nutzen. Hacker stückeln aus Infofetzen Geheimnisse und Daten zusammen, die andere für verschlüsselt halten. Außerhalb des Kampfes nutzt der Hacker Harme und Wohle wie *Treusicht* um durch seine Drohne zu sehen und *Fernsicht* oder *Voraussicht*, um Informationen und Personen durch Datenbanken, Server, Sicherheitskameras, Kreditkarteneinträge und andere schlecht gesicherte Datenströme zu verfolgen. Falls Täuschung gebraucht wird, nutzt der Hacker die fast allgegenwärtigen Streams um mit dem Harm *Phantom* Videos, Hologramme und Audiosignale zu fabrizieren.
 
 Wenn ein Kampf ausbricht, meidet ein Hacker die Front und lässt seine Drohnen für sich kämpfen. Von einem sicheren Punkt aus steuert der Hacker sie mit einem Tablet oder ähnlichem Gerät und lässt ihre Laserwaffe Feinde zurückhalten. Neben dem Kampf mit der Drohne nutzen Hacker auch das Wohl *Verstärken*, um ihren Verbündeten zu helfen, indem sie ihnen Informationen zur Verfügung stellen oder lokale Systeme übernehmen.
 
@@ -334,7 +387,7 @@ Wenn ein Kampf ausbricht, meidet ein Hacker die Front und lässt seine Drohnen f
 
 **Wichtige Ausrüstung:** Tablet, Laptop, VR-Brille
 #### Bevorzugte Aktionen
-_**Dark Web Recherche**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Algorithmische Voraussage**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Multivalente Sensorenaufnahme**_ (_Wahrsicht_ wirken): Vorwissen vs. 20 (KL 5)<br>_**IoT Zombienetzwerk**_ (_Weitsicht_ zufügen): Vorwissen vs. Entschlossenheit, Vorteil 2<br>_**Hologrammprojektion**_ (_Phantasmus_ zufügen): Einfluss vs. Entschlossenheit<br>_**Neuronen neulegen**_ (_Bezaubert_ zufügen): Einfluss vs. Entschlossenheit
+_**Dark Web Recherche**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Algorithmische Voraussage**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Multivalente Sensorenaufnahme**_ (_Wahrsicht_ wirken): Vorwissen vs. 20 (KL 5)<br>_**IoT Zombienetzwerk**_ (_Fernsicht_ zufügen): Vorwissen vs. Entschlossenheit, Vorteil 2<br>_**Hologrammprojektion**_ (_Phantasmus_ zufügen): Einfluss vs. Entschlossenheit<br>_**Neuronen neulegen**_ (_Bezaubert_ zufügen): Einfluss vs. Entschlossenheit
 #### Drohnengefährte
 **Attribute:** Beweglichkeit 3 (1d8), Konstitution 1 (1d4), Logik 1 (1d4), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Energie 4 (1d10)<br>**Trefferpunkte:** 16<br>**Deckung:** 13 (Beweglichkeit 3)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
 
@@ -344,7 +397,7 @@ _**Laser**_ (Angriff mit Schaden): Energie vs. Deckung<br>_**Betäubungsstrahl**
 ### Mystiker
 Mystiker finden sich meist abseits des Trubels der Stadt, wo sie die Fortschritte der Gesellschaft hinter sich gelassen haben. Sie ziehen es vor, der leisen Stimme im Inneren zu lauschen, wobei sie materiellen Besitz ablehnen und ein asketisches Leben auf der Suche danach führen, allen selbstzentrierten Gedanken zu entsagen. 
 #### Strategie
-Außerhalb des Kampfes führen Mystiker eine breite Auswahl an Fähigkeiten, die sie zu guten Informationssammlern, Detektiven, und übernatürlichen forensischen Analytikern machen. Sie sind in der Lage, zukünftige Gefahr mit dem Wohl *Voraussicht* kommen zu sehen, allerlei Informationen mit *Lesung* aus der Vergangenheit eines Items zu ziehen, mit *Weitsicht* gegnerische Bewegungen aus der Ferne zu beobachten und mit jeglicher Kreatur durch *Telepathie* zu kommunizieren.
+Außerhalb des Kampfes führen Mystiker eine breite Auswahl an Fähigkeiten, die sie zu guten Informationssammlern, Detektiven, und übernatürlichen forensischen Analytikern machen. Sie sind in der Lage, zukünftige Gefahr mit dem Wohl *Voraussicht* kommen zu sehen, allerlei Informationen mit *Lesung* aus der Vergangenheit eines Items zu ziehen, mit *Fernsicht* gegnerische Bewegungen aus der Ferne zu beobachten und mit jeglicher Kreatur durch *Telepathie* zu kommunizieren.
 
 Mystiker, die sich einer größeren Gruppe angeschlossen haben, nutzen ihre Kräfte meist zu Verteidigung anderer, z.B. indem sie *Verstärken* nutzen, um Freunden psychische Kenntnisse zu geben, *Gedankenraub*, um Feinden ihre Geheimnisse zu entziehen und indem sie Schutz und die Fertigkeit *Defensive Reflexe* nutzen, um Verteidigungsaktionen auszuführen. Mystiker sind auch gewandt darin, die Pläne von Feinden mit *Annullieren* zu durchkreuzen und Harme auf Verbündeten mit der Fertigkeit *Medikus* zu behandeln.
 
@@ -354,7 +407,7 @@ Mystiker, die sich einer größeren Gruppe angeschlossen haben, nutzen ihre Krä
 
 **Wichtige Ausrüstung:** Stab, Robe
 #### Bevorzugte Aktionen
-_**Den Pfad vorhersehen**_ (Verteidigungsaktion): Schutz vs. Angriffswurf des Ziels, Vorteil 1<br>_**Freimachen**_ (Besondere Aktion): Fertigkeit _Medikus_ einsetzen, um einem Verbündeten einen Widerstehenwurf zu geben<br>_**Geteilte Einsicht**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Sicht aus der Ferne**_ (_Weitsicht_ zufügen): Vorwissen vs. Entschlossenheit<br>_**Gedankenbrücke**_ (_Telepathie_ wirken): Vorwissen vs. 16 - 20 (KL 3 - 5)<br>_**Kraftraub**_ (_Annulieren_ zufügen): Schutz vs. Entschlossenheit<br>_**Gedanken lesen**_ (_Gedankenraub_ zufügen): Vorwissen vs. Entschlossenheit<br>_**Blick in die Vergangenheit**_ (_Lesung_ wirken): Vorwissen vs. 20 (KL 5)<br>_**Blick in die Zukunft**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Verjüngung**_ (_Heilen_ wirken): Schöpfung vs. 12 - 14 (KL 1 - 2)
+_**Den Pfad vorhersehen**_ (Verteidigungsaktion): Schutz vs. Angriffswurf des Ziels, Vorteil 1<br>_**Freimachen**_ (Besondere Aktion): Fertigkeit _Medikus_ einsetzen, um einem Verbündeten einen Widerstehenwurf zu geben<br>_**Geteilte Einsicht**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Sicht aus der Ferne**_ (_Fernsicht_ zufügen): Vorwissen vs. Entschlossenheit<br>_**Gedankenbrücke**_ (_Telepathie_ wirken): Vorwissen vs. 16 - 20 (KL 3 - 5)<br>_**Kraftraub**_ (_Annulieren_ zufügen): Schutz vs. Entschlossenheit<br>_**Gedanken lesen**_ (_Gedankenraub_ zufügen): Vorwissen vs. Entschlossenheit<br>_**Blick in die Vergangenheit**_ (_Lesung_ wirken): Vorwissen vs. 20 (KL 5)<br>_**Blick in die Zukunft**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Verjüngung**_ (_Heilen_ wirken): Schöpfung vs. 12 - 14 (KL 1 - 2)
 ### Ningyozukai
 Die Ningyozukai - oder Puppenspieler - sind Zauberer, die in der Lage sind, ihren Geist verzauberte Yoroirüstungen beleben zu lassen, sodass diese zu mächtigen Waffen werden. Die Ningyozukai, die darüber hinaus außerdem Magie der Heilung und des Schutzes besitzen, rufen ihren Yoroirüstungen nur hervor, wenn die Situation Waffengewalt und rohe Kraft bedarf.
 #### Strategie
@@ -413,7 +466,7 @@ Schatten ziehen es vor, so lange wie möglich versteckt zu bleiben, wenn ein Kam
 
 **Wichtige Ausrüstung:** Scharfschützengewehr, Maschinenpistole, Pistole, Messer, Trenchcoat (als Lederrüstung gewertet)
 #### Bevorzugte Aktionen
-_**Verborgener Schuss**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung, Vorteil 1 falls das Ziel überrascht wird oder mit einem Verbündeten im Kampf liegt<br>_**Gewehr**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Betäubungskugel**_ (_Bewusstlos_ zufügen): Beweglichkeit vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Maschinenpistole**_ (Angriff mit Schaden, 10' Würfel): Beweglichkeit vs. Deckung<br>_**Leerenschritt[?]**_ (_Teleport_ wirken): Auto-Erfolg auf KL 5 durch _Wohlfokus_<br>_**Schattenschleier**_ (_Dunkelheit_ wirken): Vergehen vs. 12 - 16 (KL 1 - 3)<br>_**Schattenrolle[?]**_ (_Resistenz_ wirken): Bewegung vs. 16 (KL 3)<br>_**Extradimensionale Tasche**_ (_Objekt absorbieren_ wirken): Bewegung vs. 18 (KL 4)
+_**Verborgener Schuss**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung, Vorteil 1 falls das Ziel überrascht wird oder mit einem Verbündeten im Kampf liegt<br>_**Gewehr**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Betäubungskugel**_ (_Bewusstlos_ zufügen): Beweglichkeit vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Maschinenpistole**_ (Angriff mit Schaden, 10' Würfel): Beweglichkeit vs. Deckung<br>_**Leerenschritt**_ (_Teleport_ wirken): Auto-Erfolg auf KL 5 durch _Wohlfokus_<br>_**Schattenschleier**_ (_Dunkelheit_ wirken): Vergehen vs. 12 - 16 (KL 1 - 3)<br>_**Schattenrolle**_ (_Resistenz_ wirken): Bewegung vs. 16 (KL 3)<br>_**Extradimensionale Tasche**_ (_Objekt absorbieren_ wirken): Bewegung vs. 18 (KL 4)
 ### Hexenschwert[?]
 Ebenso gekonnt mit dem Schwert wie mit der Zauberei, weben Hexenschwerter aus Magie und Kampfkunst eine mächtige Kombination. Ob sie Feinde mit flammendem Schwert in Brand setzen, Kraftbarrieren beschwören, um Angriffe abzuwenden oder Gegner mit Teleportation im Staub lassen, Hexenschwerter kontrollieren das Schlachtfeld mit unanfechtbarer Magie.
 #### Strategie

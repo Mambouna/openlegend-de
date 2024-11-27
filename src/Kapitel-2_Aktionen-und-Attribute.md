@@ -42,7 +42,7 @@ Jetzt gibt es zwei mögliche Resultate der Handlung:
 
 An diesen Beispielen wird deutlich, dass Pelias Handlung die Geschichte genauso vorantreibt, wie ein Erfolg beim Wurf es tun würde.
 ### Was man NICHT tun sollte
-Im Beispiel oben würde es an vielen Spieltischen dazu kommen, dass nach dem Fehlschlag des Halblings sofort ein anderer Charakter, zum Beispiel ein Barbat, vortritt und versucht, die Tür aufzubrechen. In Open Legend wird so ein Ansatz generell vermieden, weil es den Wurf des Halblings irrelevant macht. Die Geschichte wurde nicht vorangetrieben. Stattdessen sollte der Barbar auf die Interpretation des Ergebnisses von Pelias durch den GM warten. Der GM hat das Recht, die Konsequenz eines fehlgeschlagenen Wurfes zu bestimmen, damit jeder Wurf zählt. Die Spielenden sollten darauf achten, dem GM hier nicht entgegenzuwirken[?].
+Im Beispiel oben würde es an vielen Spieltischen dazu kommen, dass nach dem Fehlschlag des Halblings sofort ein anderer Charakter - zum Beispiel ein Barbar - vortritt und versucht, die Tür aufzubrechen. In Open Legend wird so ein Ansatz generell vermieden, weil es den Wurf des Halblings irrelevant macht. Die Geschichte wurde nicht vorangetrieben. Stattdessen sollte der Barbar auf die Interpretation des Ergebnisses von Pelias durch den GM warten. Der GM hat das Recht, die Konsequenz eines fehlgeschlagenen Wurfes zu bestimmen, damit jeder Wurf zählt. Die Spielenden sollten darauf achten, dem GM hier nicht entgegenzuwirken.
 
 > ### Alte Gewohnheiten sind hartnäckig
 > Falls du früher schon andere RPGs gespielt hast, fühlst du sich bei fehlgeschlagenen Aktionswürfen anderer Spieler vielleicht direkt in Versuchung, selbst das gleiche Ziel per Wurf zu verfolgen.
@@ -149,7 +149,7 @@ Wenn du Vorteil bei einer Aktion hast, würfle zusätzlich zu den normalen Würf
 Nachteil funktioniert sehr ähnlich. Wenn du Nachteil hast, würfelst du auf die gleiche Weise wie bei Vorteil die Extraattributwürfel anhand deines Nachteilswertes. Anstatt aber die niedrigsten Werte zu ignorieren, nimmst du die *höchsten* heraus.
 
 > #### Beispiel von Nachteil
-> Armand versucht, seinen Feind mit psychokinetischem Feuer zu verbrennen. Da er aber gerade von einer von einem gegnerischen Soldat geworfenen Rauchgranate abgelenkt ist, hat er Nachteil 1. Da er außerdem gerade unter dem Harm *ausgelaugt*[?], wodurch er einen weiteren Nachteil 1 erhält. Armands Energiewert ist 5, sodass er 2d6 Attributwürfel nutzt. Er wirft 1d20 + 4d6. Nachdem die Würfel gefallen sind, entfernt er die beiden *höchsten* d6, bevor er das Ergebnis zusammenrechnet.
+> Armand versucht, seinen Feind mit psychokinetischem Feuer zu verbrennen. Da er aber gerade von einer von einem gegnerischen Soldat geworfenen Rauchgranate abgelenkt ist, hat er Nachteil 1. Außerdem leidet er gerade unter dem Harm *Erschöpft*, wodurch er einen weiteren Nachteil 1 erhält. Armands Energiewert ist 5, sodass er 2d6 Attributwürfel nutzt. Er wirft 1d20 + 4d6. Nachdem die Würfel gefallen sind, entfernt er die beiden *höchsten* d6, bevor er das Ergebnis zusammenrechnet.
 
 ### Vorteil & Nachteil werden nur VOR Explosionen angewandt
 Vorteil und Nachteil werden nur bei deinem ursprünglichen Würfelpool angewandt. Sie gelten nicht für darauf folgende Würfe aufgrund von explodierenden Würfeln.
@@ -160,7 +160,7 @@ Vorteil und Nachteil werden nur bei deinem ursprünglichen Würfelpool angewandt
 ### Vorteil & Nachteil ohne Attributwürfel
 Wenn man einen Aktionswurf ohne Attributwürfel macht, wirken Vorteil und Nachteil sich auf den d20 aus. Man wirft zum Beispiel 2d20 und behält den höchsten Wert. Bei Nachteil wirft man 2d20 und behält den niedrigeren Wert. Weiterhin kann man in solchen Situationen nicht mehr als Vorteil 1 oder Nachteil 1 haben. Der Charakter ist so ungeübt bei der Handlung, dass er zusammenfallende Vorzüge nicht ausnutzen und mehr Behinderung nicht weiter stören kann.
 
-Diese Regeln gelten sowohl für Aktionen, die mit einem Attributwert von 0 ausgeführt werden, als auch für nicht-Aktionswürfe (wie ein d20 bei einem Widerstandswurf[?]). Dazu kommt, dass man nicht absichtlich Nachteile für einen positiven Effekt bei einem Wurf ohne Attributwürfel sammeln kann. Also kann man mit einem Attributwert von 0 nicht Vielfachattacken verwenden (mehr dazu in Kapit 7: Kampf)[?].
+Diese Regeln gelten sowohl für Aktionen, die mit einem Attributwert von 0 ausgeführt werden, als auch für nicht-Aktionswürfe (wie ein d20 bei einem Widerstehenwurf[?]). Dazu kommt, dass man nicht absichtlich Nachteile für einen positiven Effekt bei einem Wurf ohne Attributwürfel sammeln kann. Also kann man mit einem Attributwert von 0 nicht Vielfachattacken verwenden (mehr dazu in [Kapitel 7: Kampf](./Kapitel-7_Kampf.md)).
 ### Vorteil & Nachteil zuweisen
 Vorteil und Nachteil können vom GM zugewiesen werden, oder aber durch Fertigkeiten, Harme oder Wohle erhalten werden. Wenn sie je nach Situation vom GM vergeben werden, sollte dieser nie mehr als Vor- oder Nachteil 1 anwenden. Fertigkeiten, Harme und Wohle auf der anderen Seite werden häufig mehrere Level an Vorteil oder Nachteil mit sich bringen. Die *Vorteil und Nachteil Beispiele*-Tabelle gibt eine Auflistung von typischen Situationen, in denen der GM eventuell Vorteil oder Nachteil zuweisen könnte, wobei die Liste natürlich nicht abschließend ist.
 #### Vorteil und Nachteil Beispiele

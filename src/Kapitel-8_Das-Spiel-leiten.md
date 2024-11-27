@@ -45,7 +45,7 @@ Sobald du die groben Teile eines Abenteuers gefunden hast, kannst du dir überle
 In dieser Art Quest plant der GM eine logische Reihe von Kämpfen und Szenen, durch die die Gruppe sich bewegen wird. Diese Ereignisse könnten anhand eines Ortes geordnet werden (z.B. erkundet die Gruppe Raum für Raum die Türme des Königs) oder aber durch die Zeit gereiht sein (z.B. Verhandlungen eines Friedens zwischen zwei Überlebendencamps in der Zombie-Apokalypse). Ein Abenteuer enthält oft eine gesunde Mischung aus ortsbasierten und zeitbasierten Szenen, wie in der Beispielskizze eines Abenteuers *The System is Down* zu sehen ist.
 
 > ### Beispielskizze Sequenzabenteuer: The System is Down
-> **Gefahr:** Eine Cyberattacke hat die Lebenserhaltung an Bord der Iota-1 Raumstation ins Wanken destabilisiert, sodass die Bewohner nur noch 48 Stunden Notversorgung haben.
+> **Gefahr:** Eine Cyberattacke hat die Lebenserhaltung an Bord der Iota-1 Raumstation ins Wanken gebracht, sodass die Bewohner nur noch 48 Stunden Notversorgung haben.
 > 
 > **Motivation:** Die Spielercharaktere leben auf Iota-1 und zumindest einer von ihnen hat dort Familie.
 > 
@@ -68,7 +68,7 @@ Ein Sandkastenabenteuer heißt so, weil die Spielenden - ähnlich wie Kinder in 
 > **Orte:**
 > - Das Lager des Barbarenstamms
 > - Die Friedhöfe der Barbaren
-> - Die Hölen des Chaos
+> - Die Höhlen des Chaos
 > - Das Lager der Kollektoren
 > 
 > **Ereignisse um Vargax:**
@@ -107,9 +107,9 @@ Sobald du dein Geheimnis (oder Geheimnisse) hast, kannst du anfangen, die Kampag
 > 
 > **Kampagnenbögen:**
 > - **1. Teil:** Die Ermittler freunden sich mit Dr. Livingston an, während sie die Folge von Ritualmorden untersuchen, die sich gerade durch London zieht.
-> - **2. Teil:** Die Spielenden assistieren Dr.  dabei, verschiedene Artefakte der Macht zu repatriieren, die in der ländlichen Umgebung verstreut sind.
+> - **2. Teil:** Die Spielenden assistieren Dr. Livingston dabei, verschiedene Artefakte der Macht zu repatriieren, die in der ländlichen Umgebung verstreut sind.
 > - **3. Teil:** Die Ermittler befreien unabsichtlich den Doktor, der seine wahre Gestalt enthüllt und London in Schutt und Asche legt. Die Spielenden sammeln so schnell sie können Ritualmaterialien, um den Dämon ein für alle mal von der Erde zu verbannen.
-> - **4. Teil:** Die Spielenden finden Livingston Nest im Untergrund der Stadt und versuchen, das Ritual auszuführen.
+> - **4. Teil:** Die Spielenden finden Livingstons Nest im Untergrund der Stadt und versuchen, das Ritual auszuführen.
 
 Wie so viel in diesen Tipps sollten die Kampagnenbögen in deiner Geschichte zunächst locker genug geplant sein, um sich leicht an die Handlungen und Entscheidungen der Spielenden anzupassen.
 ### Plane genug, um loszulegen
@@ -150,14 +150,14 @@ Kapitel 6 erklärt das vereinfachte Wohlstandssystem von Open Legend und die *Wo
 | -------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | 0              | Bettler, Straßenkind                                     | 3 Mahlzeiten und ein warmes Bett für die Nacht                                                       |
 | 1              | Tagelöhner                                               | eine Zechnacht, Lederrüstung, einfache Waffen                                                        |
-| 2              | Handwerker, Stadtwache, Level 1 Charakter                | Kriegswaffen[?], Allzweckfahrzeug[?], Kettenhemd, ein gutes Pferd                                    |
+| 2              | Handwerker, Stadtwache, Level 1 Charakter                | Kriegswaffen[?], Allzweckfahrzeug, Kettenhemd, ein gutes Pferd                                       |
 | 3              | meisterhafter Handwerker, Dorfbürgermeister              | gepanzerter Trenchcoat, Silberkugeln, ein kleines Boot, ein exzellentes Pferd, ein gutes Auto        |
 | 4              | Level 4 Charakter, Aristokrat, Stadtbürgermeister        | elfischer Plattenpanzer, ein leichter Panzer, ein kleines Schiff, eine Belagerungswaffe              |
 | 5              | Herr über Ländereien[?], Mafiachef in einer großen Stadt | ein großes Frachtschiff, eine Stadtmauer, ein schwerer Kampfpanzer, Waffen für eine kleine Miliz     |
 | 6              | Level 7 Charakter, Föderationskanzler[?]                 | ein großes Kriegsschiff, ein bahnbrechender Prototyp, die Arbeiterschaft eines mittelgroßen Konzerns |
 | 7              | König, Präsident                                         | eine Festung, ein Kampfjet, eine verdeckte Spezialeinheit[?]                                         |
 | 8              | Intergalaktischer Herrscher, Level 10 Charakter          | ein großes Landgut, eine große Konzernübernahme, eine Armee von 10.000                               |
-| 9              | Imperator[?]                                             | ein Schloss, eine Raumstation, eine Armee von 50.000, eine Flotte Kriegsschiffe                      |
+| 9              | Imperator                                                | ein Schloss, eine Raumstation, eine Armee von 50.000, eine Flotte Kriegsschiffe                      |
 
 Du kannst diese Tabelle als grobe Richtlinie dafür sehen, wann du Spieler\*innen mehr Wohlstand geben solltest, vor allem, wenn du auch mit einem Meilensteinsystem für EP arbeitest. Ein Charakter auf Level 4 zum Beispiel sollte nach der Tabelle generell auch einen WW von 4 haben. Wenn wir uns am Plan der Meilensteine von vorher orientieren, könnten wir auch festmachen, dass die Helden nach der Befreiung von Woodshold vom Dorf belohnt werden und der Kult des Drachen einen Hort an Schätzen birgt, der auch den Reichtum der Spieler\*innen mehrt.
 
@@ -169,7 +169,7 @@ Wenn deine Spielenden andere Rollenspielsysteme schon kennen, sind sie es vielle
 
 Wenn ein Kampf endet, musst du also nicht jeden Pfeil abzählen, den die Gruppe bei den besiegten Banditen findet. Stattdessen kannst du der Gruppe einfach sagen, dass sie einige Wertgegenstände finden, die langsam dazu beitragen, später ihren Wohlstandswert zu erhöhen. Falls ein Spieler tatsächlich mehr Munition oder einen neuen Dolch braucht, kannst du überlegen, ob es narrativ Sinn ergibt, dass die NPCs diese Items haben, oder nicht.
 
-**Wohlstand heißt Einfluss.** Da Spielende nicht einzelne Goldmünzen oder Dollarscheine notieren, könnte es zunächst schwierig wirken, Situationen wie Bestechung oder ähnliches abzubilden. Eine gute Leitlinie, die man hier anwenden kann, ist, dass Charaktere ihr Geld auf die gleiche Weise nutzen können, um jemand zu beeinflussen, wie sie es sonst benutzen würden, um Güter zu kaufen (wie in Kapitel 6 dargestellt):
+**Wohlstand heißt Einfluss.** Da Spielende nicht einzelne Goldmünzen oder Dollarscheine notieren, könnte es zunächst schwierig wirken, Situationen wie Bestechung oder ähnliches abzubilden. Eine gute Leitlinie, die man hier anwenden kann, ist, dass Charaktere ihr Geld auf die gleiche Weise nutzen können, um jemand zu beeinflussen, wie sie es sonst benutzen würden, um Güter zu kaufen (wie in [Kapitel 6: Wohlstand und Ausrüstung](./Kapitel-6_Wohlstand-und-Ausruestung.md) dargestellt):
 - Charaktere können ohne Probleme NPCs eines **niedrigreren Wohlstandswertes** bestechen, als sie selbst haben.
 - Falls ein NPC den **gleichen Wohlstandswert** wie ein Charakter hat, dann zählt eine Bestechung als "signifikante Ausgabe", was bedeutet, dass es getan werden kann, aber der Charakter keine weiteren Güter oder Bestechungen dieser Ausmaße in den nächsten zwei Wochen erwerben kann.
 - Hat der NPC einen **höheren Wohlstandswert** als der bestechende Charakter, dann sind die Kosten so gravierend, dass der Wohlstandswert des Charakter permanent um 1 reduziert wird. Jemand zu bestechen, der mehr als einen Wohlstandswert über dem des Charakters liegt, ist nicht möglich, ohne das erweiternde Umstände im Spiel sind.
@@ -189,7 +189,7 @@ Der Feind in einem Geschichtsstrang ist der primäre Antagonist, wobei deine Gru
 
 **Plan.** Der Plan Feindes gibt an, was er finsteres verbrechen wird, wenn die Gruppe ihn nicht stoppt. Der Plan eines Feindes ist oft direkt an seine Motive gebunden. Der Nekromant zum Beispiel könnte die Leben der Dorfbewohner nicht einfach so bedrohen, sondern weil ihm zehn geopferte Menschen erlauben würden, seine Frau wiederzubeleben.
 
-**Manko.** Ein Manko ist eine Eigenschaft, die einen Feind menschliche macht (auch wenn es sich um einen uralten Drachen handelt). Ein Manko könnte eine körperliche Schwäche sein, wie die die verwundbare Stelle auf Smaugs linker Brust, oder aber es kann eine soziale, mentale oder emotionale Kerbe sein. Unser Nekromant fällt eventuell in blinde Rage, wann immer jemand schlecht über seine Geliebte spricht.
+**Manko.** Ein Manko ist eine Eigenschaft, die einen Feind menschlicher macht (auch wenn es sich um einen uralten Drachen handelt). Ein Manko könnte eine körperliche Schwäche sein, wie die verwundbare Stelle auf Smaugs linker Brust, oder aber es kann eine soziale, mentale oder emotionale Kerbe sein. Unser Nekromant fällt eventuell in blinde Rage, wann immer jemand schlecht über seine Geliebte spricht.
 ### Verbündete
 NPCs müssen natürlich nicht immer feindlich gesinnt sein. Viele der wichtigsten Charaktere in deinen Geschichten werden die Verbündeten der Helden sein. Vielleicht wird die Gruppe von einem weisen Erimiten beraten, der in seinem abgelegenen Turm lebt und nur den Spielenden Audienz gewährt. Oder aber eine Einheit Elfen, die die Gruppe sicher durch einen verwunschenen Wald führen.
 
@@ -281,7 +281,6 @@ Sobald du die grundlegenden Werte notiert hast, wähle ein paar der folgenden Fe
 	- Dein Ziel ist in Nahkampfreichweite eines Verbündeten.
 	
 	Du hast auf alle fatalen Angriffe Vorteil mit Wert anhand des Grades dieser Fertigkeit. Zusätzlich wird ein Teil des Schadens bei fatalen Angriffen als tödlicher Schaden (siehe Kapitel 7: Kampf) zugefügt (maximal der gesamte Schaden).
-	
 	- **Grad 1** - Vorteil 1, bis zu 5 tödlicher Schaden
 	- **Grad 2** - Vorteil 2, bis zu 5 tödlicher Schaden
 	- **Grad 3** - Vorteil 3, bis zu 10 tödlicher Schaden
@@ -300,13 +299,13 @@ Sobald du die grundlegenden Werte notiert hast, wähle ein paar der folgenden Fe
 - **Multi-Ziel Angriffsspezialisierung (Grad anhand des NPC-Levels, max. 5):** Wähle eine der drei folgenden Angriffsarten als Fokus für diese Fertigkeit: Nahkampf, Fernkampf, Fläche. Für jeden Grad ist dein Nachteil beim Nutzen von Multi-Ziel Attacken in dieser Art Angriff um 1 reduziert.
 - **Verstärkter Harm:** Wähle einen Harm, den du wirken kannst und der die Dauer "Widerstehen beendet" hat. Wenn ein Ziel einen Widerstandswurf gegen diesen Harm macht, hat es Nachteil 1.
 - **Resilient:** Wann immer du einen Widerstandswurf machst, hast du Vorteil 1 darauf.
-- **Fähigkeitsspezialisierung[?] (Grad anhand des NPC-Levels, max. 9):** Du hast mit einem gewählten Attribut Vorteil 1 pro Grad dieser Fertigkeit auf Würfe außer Angriffswürfe oder Würfe um Harme oder Wohle zu wirken.
+- **Fähigkeitsspezialisierung (Grad anhand des NPC-Levels, max. 9):** Du hast mit einem gewählten Attribut Vorteil 1 pro Grad dieser Fertigkeit auf Würfe außer Angriffswürfe oder Würfe um Harme oder Wohle zu wirken.
 - **Überragende Konzentration (Grad 1 - 3, deine Wahl):** Wann immer du die kleine Aktion *Wohl aufrechterhalten* nutzt, kannst du ein weiteres Wohl pro Grad dieser Fertigkeit aufrechterhalten.
 
 > #### Beispiel Einfacher NPC Aufbau: Sumpfschlangen
 > Lass uns zum Beispiel von vorhin zurückkehren und mit dem einfachen Aufbau die giftigen Schlangen im Sumpf erstellen. Die Spielergruppe ist zum Beispiel Level 3, sodass wir die Zeile der Tabelle für NPC auf Level 3 nutzen. Wir entscheiden, dass die Schlangen nicht besonders schwer zu töten sein sollten, also schauen wir in die Tabelle und entscheiden uns für das untere Ende der möglichen TP-Spanne, spezifisch 14 TP für die Schlangen. Schlangen sind schnell, mäßig zäh und haben keinen starken Willen. Wir entscheiden uns für hohe Deckung: 18, mittlere Zähigkeit: 15 und niedrige Entschlossenheit: 12. Wir geben den Schlangen ein primäres Attribut, in diesem Fall Beweglichkeit 5 und als sekundäre Attribute mit Wert 4 entscheiden wir uns für Wahrnehmung, Konstitution und Täuschung.
 > 
-> Für die Fertigkeiten wollen wir die Gefahr des Gifts der Schlangen hervorheben, also wählen wir *Multi-Harmspezialisierung* und *Harmfokus*, damit sie sowohl *betäubt* als auch *anhaltender Schaden* zufügen können, wann immer sie erfolgreich einen Angriff mit Schaden mit 5 oder mehr Schaden durchführen.
+> Für die Fertigkeiten wollen wir die Gefahr des Gifts der Schlangen hervorheben, also wählen wir *Multi-Harmspezialisierung* und *Harmfokus*, damit sie sowohl *Betäubt* als auch *Anhaltender Schaden* zufügen können, wann immer sie erfolgreich einen Angriff mit Schaden mit 5 oder mehr Schaden durchführen.
 
 #### Boss-NPCs
 Ein Boss ist ein einzelner gegnerischer NPC, der aufgrund außergewöhnlicher Kampffertigkeit in der Lage ist, die ganze Spielergruppe alleine zu bekämpfen. Bosse können epische Feinde sein, die von der Gruppe die gesamte Kampagne verfolgt wurden, wie der Lich-König Akrakus, oder aber monströse Biester ohne viel Hintergrundgeschichte, die aber als dramatischer Punkt in einem größeren Abenteuer dienen, zum Beispiel ein Brückentroll, der der Gruppe ihren Weg versperrt. Andere Beispiele umfassen Kraken, legendäre Revolverschurken, Drachen oder Generäle feindlicher Armadas.
@@ -359,7 +358,7 @@ Zusätzlich zu ihren normalen Aktionen erhalten Bosse außerdem eine Anzahl spez
 ## Kampfszenarien planen
 Die Aufbauregeln haben gerade erklärt, wie du einzelne gegnerische NPCs für den Kampf erstellst. Dieser Abschnitt hilft dir, spannende Kampfszenarien für diese Kämpfe zu gestalten.
 ### Szenarioschwierigkeit
-Wenn du ein Kampfszenario planst, musst du entscheiden, ob es einfach, moderat oder schwierig sein soll. Ein **einfaches Szenario** sollte für die Gruppe kein großes Hindernis darstellen, außer das Glück ist überhaupt nicht auf ihrer Seite oder sie treffen eine ganze Reihe schlechter Entscheidungen. Ein **moderates Szenario** sollte die Gruppe herausfordern, aber nicht so sehr, dass sie nicht wahrscheinlich siegreich sind. Ein **schwieriges Szenario** treibt die Gruppe an ihre Grenzen und könnte in einer Niederlage oder im Tod einer oder mehrerer Charaktere enden.
+Wenn du ein Kampfszenario planst, musst du entscheiden, ob es einfach, moderat oder schwierig sein soll. Ein **einfaches Szenario** sollte für die Gruppe kein großes Hindernis darstellen, außer das Glück ist überhaupt nicht auf ihrer Seite oder sie treffen eine Reihe schlechter Entscheidungen. Ein **moderates Szenario** sollte die Gruppe herausfordern, aber nicht so sehr, dass sie nicht wahrscheinlich siegreich sind. Ein **schwieriges Szenario** treibt die Gruppe an ihre Grenzen und könnte in einer Niederlage oder im Tod einer oder mehrerer Charaktere enden.
 
 Benutze die Tabelle *Szenarioschwierigkeit*, um zu bestimmen, wie viele Level die NPCs im Kampf insgesamt gegenüber der Gruppe haben sollten.
 ##### Szenarioschwierigkeit
@@ -420,7 +419,7 @@ Nicht jeder Kampf, in den deine Gruppe gerät, muss ein Ringen bis zum Tod sein.
 
 **Schwere Entscheidungen sind das Maß eines Helden.** Die Lieblingstaktik aller Bösewichte ist es seit jeher, dem Helden eine Entscheidung zwischen dem Sieg im Kampf oder dem Leben einer Vielzahl Unschuldiger aufzuzwingen. Kampfszenarien in Open Legend können auch in harten Entscheidungen für die Gruppe enden: die Zauberin schwebt über einem Lavasee und den letzten tödlichen Zauber zu wirken würde ihrem Stab die letzte Kraft entziehen, der Höhlentroll hat eine Familie als Geiseln und verrät ihr Gefängnis nur als Pfand für sein Leben und so weiter und so fort. Obwohl diese Taktik schnell alt wird, wenn sie der Geschichte zu oft übergeholfen wird, hilft sie deinen Spieler\*innen, ihren Charakter zu vertiefen und ihre Loyalität zu beweisen, wenn sie sparsam eingesetzt wird.
 
-**Ein Tod ist okay, manchmal.** Die oben stehenden Tipps sollen in keiner Weise bedeuten, dass du nie einen Spielercharakter (oder vier) töten solltest. Sie geben dir lediglich eine breitere Palette an möglichen Wegen, wie man einen Kampf interessant beenden kann. Manchmal sterben Helden und das Wissen, dass der Tod ihres Charakters wirklich möglich ist, kann die Großtaten deiner Gruppe umso legendärer machen. Wenn ein Charakter sterben muss, dann solltest du nur darauf achten, dass er in einem epischen Moment die vergeht, über den noch in tausend Jahren gesungen werden wird.
+**Ein Tod ist okay, manchmal.** Die oben stehenden Tipps sollen in keiner Weise bedeuten, dass du nie einen Spielercharakter (oder vier) töten solltest. Sie geben dir lediglich eine breitere Palette an möglichen Wegen, wie man einen Kampf interessant beenden kann. Manchmal sterben Helden und das Wissen, dass der Tod ihres Charakters wirklich möglich ist, kann die Großtaten deiner Gruppe umso legendärer machen. Wenn ein Charakter sterben muss, dann solltest du nur darauf achten, dass er in einem epischen Moment vergeht, über den noch in tausend Jahren gesungen werden wird.
 ### Über Ausgewogenheit und Fairness
 Wenn du ein Szenario planst, musst du nicht versuchen, dass alle Kräfte ausgewogen sind, aber du solltest versuchen, fair zu deiner Gruppe zu sein.
 
@@ -800,4 +799,4 @@ Entgegen der Warnung ihres Mentors, hat Bell einen Blick in das Buch der Verdamm
 
 **Erfolg mit einem Haken:** Bell schafft es, ihre Selbstkontrolle wiederzuerlangen und das Buch zu schließen. Ohne, dass sie es weiß, ist einer der Dämonen jedoch in ihr verblieben und wird sie heimsuchen, bis sie einen Exorzismus erhalten kann.
 
-**Fehlschlag, aber die Geschichte schreitet voran:** Bells Magie hat nicht die nötige Stärke, um die Mächte der Hölle zu bannen und sie fühlt sich bewegt, das ganze Buch stundenlang zu lesen. Als der mentale Angriff endlich abebbt, ist Bell für immer verändert. Sie hat die Charakterschwäche *psychotisch* erhalten.
+**Fehlschlag, aber die Geschichte schreitet voran:** Bells Magie hat nicht die nötige Stärke, um die Mächte der Hölle zu bannen und sie fühlt sich bewegt, das ganze Buch stundenlang zu lesen. Als der mentale Angriff endlich abebbt, ist Bell für immer verändert. Sie hat die Charakterschwäche *Psychotisch* erhalten.

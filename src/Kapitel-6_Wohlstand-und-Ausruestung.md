@@ -1,4 +1,4 @@
-# Kapitel 6: Wohlstand[?] & Ausrüstung
+# Kapitel 6: Wohlstand & Ausrüstung
 Keine Geschichte von Helden ist ohne ebenso heldenhafte Ausrüstung, Waffen und Rüstung vollständig. Indiana Jones hatte seine Peitsche, König Arthur hatte *Exkalibur* und Bilbo hatte das Mithrilkettenhemd. In diesem Kapitel lernst du alles, was du wissen musst, um deinen Charakter auf Level 1 und jenseits davon ausrüsten zu können. Ebenso wird behandelt, wie du deinen Wohlstand verwaltest, während du die Schätze von Weltraumpiraten plünderst oder Hand an die Schatzkammer eines Königs legst.
 ## Wohlstand
 Anstatt jedes einzelne Goldstück, jeden Kredit oder jedes Kunstwerk im Blick zu behalten, das du auf deinen Abenteuern erhälst, benutzt Open Legend ein vereinfachtes System des Wohlstands.
@@ -9,14 +9,14 @@ Jeder Charakter hat einen Wohlstandswert, welcher bei 2 beginnt und die Werte 0 
 | -------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | 0              | Bettler, Straßenkind                                     | 3 Mahlzeiten und ein warmes Bett für die Nacht                                                       |
 | 1              | Tagelöhner                                               | eine Zechnacht, Lederrüstung, einfache Waffen                                                        |
-| 2              | Handwerker, Stadtwache, Level 1 Charakter                | Kriegswaffen[?], Allzweckfahrzeug[?], Kettenhemd, ein gutes Pferd                                    |
+| 2              | Handwerker, Stadtwache, Level 1 Charakter                | Kriegswaffen[?], Allzweckfahrzeug, Kettenhemd, ein gutes Pferd                                    |
 | 3              | meisterhafter Handwerker, Dorfbürgermeister              | gepanzerter Trenchcoat, Silberkugeln, ein kleines Boot, ein exzellentes Pferd, ein gutes Auto        |
 | 4              | Level 4 Charakter, Aristokrat, Stadtbürgermeister        | elfischer Plattenpanzer, ein leichter Panzer, ein kleines Schiff, eine Belagerungswaffe              |
 | 5              | Herr über Ländereien[?], Mafiachef in einer großen Stadt | ein großes Frachtschiff, eine Stadtmauer, ein schwerer Kampfpanzer, Waffen für eine kleine Miliz     |
 | 6              | Level 7 Charakter, Föderationskanzler[?]                 | ein großes Kriegsschiff, ein bahnbrechender Prototyp, die Arbeiterschaft eines mittelgroßen Konzerns |
 | 7              | König, Präsident                                         | eine Festung, ein Kampfjet, eine verdeckte Spezialeinheit[?]                                         |
 | 8              | Intergalaktischer Herrscher, Level 10 Charakter          | ein großes Landgut, eine große Konzernübernahme, eine Armee von 10.000                               |
-| 9              | Imperator[?]                                             | ein Schloss, eine Raumstation, eine Armee von 50.000, eine Flotte Kriegsschiffe                      |
+| 9              | Imperator                                             | ein Schloss, eine Raumstation, eine Armee von 50.000, eine Flotte Kriegsschiffe                      |
 ### Güter und Dienstleistungen erwerben
 Egal, ob du neue Ausrüstung kaufen, ein Gebäude errichten oder einen Handwerker anheuern willst, dein Wohlstandswert gibt an, ob du dazu in der Lage bist. Alle Güter und Dienstleistungen haben ihren eigenen Wohlstandswert (entweder von den Regeln oder dem GM festgelegt). Dieser Wert wird mit dem deinen verglichen, um festzustellen, wie viel dich der Erwerb kostet:
 
@@ -29,7 +29,11 @@ Falls der Gegenstand oder die Dienstleistung **einen Wert höher** als dein eige
 Du kannst nichts kaufen, was mehr als einen Wert über deinem eigenen Wohlstandswert liegt.
 
 > ### Beispiel für das Erwerben von Gütern und Dienstleistungen
-> Dank einer... [TODO]
+> Dank eines kürzlich erfolgreich abgeschlossenen Bergungsjobs hat sich der Wohlstandswert von Shara auf 4 erhöht. Sie hat schon eine Weile mit einem neuen Transportschiff geliebäugelt, das vom GM als WW 5 eingestuft wurde. Weil es ein Level höher als ihr momentaner Wohlstandswert ist, reduziert sich ihr WW beim Erwerb um 1, sodass sie nun wieder einen Wohlstand von 3 hat.
+> ---
+> Slade, Meister der örtlichen Diebesgilde, hat einen Wohlstandswert von 5. Er will all seine Männer mit neuen Waffen ausrüsten, was vom GM als WW 5 gleichwertig eingestuft wurde. Slade erwirbt die neue Ausrüstung, strapaziert seine Finanzen dadurch aber soweit, dass er für zwei Wochen nur noch Güter unterhalb seines WW kaufen kann.
+> ---
+> Der verrückte Mac hat sich auf einen Wohlstandswert von 1 hochgearbeitet. Ab jetzt kann er sich jeden Tag drei Mahlzeiten und ein warmes Bett leisten, weil diese Güter auf WW 0 liegen.
 
 #### Gesunder Menschenverstand
 Dein Wohlstandswert gibt an, was für Ausgaben unter den jeweiligen Umständen angemessen sind. Falls du in einer Wüste feststeckst, kannst du natürlich trotz des Wohlstands eines Imperators kein Fass Wasser erwerben. Auf die gleiche Weise könnte zum Beispiel der GM entscheiden, dass du neben den finanziellen Mitteln zum Ausheben einer Armee auch noch die nötige Zeit, den nötigen Einsatz und das nötige Charisma brauchst, um die Soldaten zu überzeugen, dir zu folgen.
@@ -44,7 +48,7 @@ Du kannst bis zu 20 Ausrüstungsgegenstände tragen. Nicht eins mehr. Behalte da
 
 Mehrere ähnliche Items können zusammengruppiert werden, zum Beispiel zwanzig Pfeile in einem Köcher oder mehrere Heiltränke an deinem Gürtel, und werden für das Tragelimit nur als ein Item gezählt. Der GM kann anhand seiner eigenen Einschätzung weitere Einschränkungen einführen. Obwohl 1000 Magazine an Munition nach dieser Regeln theoretisch als ein Item gelten könnten, kann der GM entscheiden, dass ein Charakter so viel nicht tragen kann, oder dass diese Menge als *sperrig* zählt (siehe unten).
 ### Maximale Anzahl schwerer Items anhand des Kraftwertes
-Einige Items haben die Eigenschaft *schwer*. Du kannst maximal so viele *schwere* Items mit dir tragen, wie dein Kraftwert groß ist. Sobald du deine Maximalzahl an *schweren* Items trägst, wird deine Geschwindigkeit[?] halbiert. Ein Charakter mit Kraftwert 0 kann keine schweren Items tragen.
+Einige Items haben die Eigenschaft *schwer*. Du kannst maximal so viele *schwere* Items mit dir tragen, wie dein Kraftwert groß ist. Sobald du deine Maximalzahl an *schweren* Items trägst, wird deine Geschwindigkeit halbiert. Ein Charakter mit Kraftwert 0 kann keine schweren Items tragen.
 ### Ein (oder zwei) sperrige Items
 Manche Items haben die *sperrig* Eigenschaft. Du kannst ein einziges *sperriges* Item ohne negative Auswirkungen mit dir tragen. Ein zweites *sperriges* Item kannst du mitführen, aber deine Geschwindigkeit wird dann auf 5' reduziert.
 ## Waffen & Geräte
@@ -98,13 +102,13 @@ Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an 
 | Abgesägte Schrotflinte                          | Kurze Reichweite                      | 2   | präzise, langsam, Gebiet (10' Kegel)                                         | anhaltender Schaden, betäubt, erzwungene Bewegung          |
 | Kurzbogen, Schrotflinte[?]                      | Mittlere Reichweite                   | 2   | präzise                                                                      | verlangsamt, anhaltender Schaden, niedergeschlagen         |
 | Maschinenpistole, M16                           | Mittlere Reichweite                   | 3   | präzise, Gebiet (10' Würfel)                                                 | anhaltender Schaden, provoziert, demoralisiert             |
-| Schwere Armbrust, Langbogen, Gewehr[?]          | Große Reichweite                      | 2   | präzise                                                                      | anhaltender Schaden, verlangsamt                           |
-| Scharfschützengewehr, Lasergewehr[?]            | Extreme Reichweite                    | 2   | präzise                                                                      | anhaltender Schaden, verlangsamt                           |
+| Schwere Armbrust, Langbogen, Gewehr             | Große Reichweite                      | 2   | präzise                                                                      | anhaltender Schaden, verlangsamt                           |
+| Scharfschützengewehr, Lasergewehr               | Extreme Reichweite                    | 2   | präzise                                                                      | anhaltender Schaden, verlangsamt                           |
 | Kanone                                          | Extreme Reichweite                    | 2   | präzise, langsam, Gebiet (15' Rechteck), Verzögert Bereit, schwer, stationär | anhaltender Schaden, erzwungene Bewegung, betäubt          |
 | Kleiner Schild                                  | Einhand Nahkampf                      | 2   | kraftvoll, defensiv 1                                                        | erzwungene Bewegung, betäubt, niedergeschlagen             |
-| Riot-Shield[?], Turmschild                      | Einhand Nahkampf                      | 3   | kraftvoll, defensiv 2                                                        | erzwungene Bewegung, betäubt, niedergeschlagen             |
+| Riot-Schild, Turmschild                         | Einhand Nahkampf                      | 3   | kraftvoll, defensiv 2                                                        | erzwungene Bewegung, betäubt, niedergeschlagen             |
 
-> ### Waffen und Spielbalance[?]
+> ### Waffen und Spielbalance
 > Open Legend legt meist mehr Wert auf eine gute Geschichte, als auf ein wahrliches ausgewogenes Spiel. Das ist besonders relevant für Waffen. Genauso wie in der Realität, werden nicht alle Waffen in Open Legend ausgewogen sein und manche werden über andere bevorzugt werden. Spielmechanisch hat ein Charakter keinen Anreiz, statt einem Langschwert ein Kurzschwert zu nutzen, da sie bis auf die Möglichkeit, das Langschwert mit einer oder zwei Händen zu führen, mechanisch gleich sind. Das bedeutet aber nicht, dass die Geschichte nie Situationen hervorbringen kann, in denen ein Kurzschwert einem Langschwert vorzuziehen wäre oder besser passen würde. Eine neu aufgestellte Diebesgilde könnte zu Beginn nicht die Mittel haben, alle Mitglieder mit Langschwertern auszurüsten, sodass die weniger prominenten Agenten zunächst mit Kurzschwertern ausgerüstet werden könnten.
 ### Eigenschaften
 **Gebiet**[?] - Eine Gebiet-Waffe führt immer Multiziel-Attacken der aufgeführten Größe und Form aus und kann nicht für einfache Attacken mit einem Ziel genutzt werden. Falls eine Waffe mehrere verschiedene Gebietsgrößen hat, kann der Angreifer für jede Attacke entscheiden, welche er nutzen will. Die Attacken dieser Waffen leiden nicht unter dem normalen Nachteil für das Ausführen von Multiziel-Attacken.
@@ -121,7 +125,7 @@ Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an 
 
 **Präzise** - Diese Waffe kann Angriffe mit dem Beweglichkeit-Attribut ausführen und Harme wirken, die über Beweglichkeit als Attribut genutzt werden.
 
-**Lang**[?] - Diese Waffe erhöht die Nahkampfreichweite der Kreatur um 5'.
+**Lang** - Diese Waffe erhöht die Nahkampfreichweite der Kreatur um 5'.
 
 **Langsam** - Falls du diese Waffe zum Beginn eines Kampfes führst, erhälst du Nachteil 2 auf deinen Initiative-Wurf. Auch wenn du die Waffe noch nicht gezogen hast, wird der Nachteil angewandt, solange du sie in der ersten Runde benutzen wirst. Falls mehrere Waffen führst, wird deine Initiative-Wurf anhand des langsamsten Modifikators angepasst (langsam, schnell oder keiner).
 
@@ -173,21 +177,21 @@ Zuvor haben wir die spielmechanischen Vorzüge verschiedener Waffen aufgeführt.
 ### Schritt 1: Wähle eine Kategorie
 Typischerweise gehört eine Waffe in eine Kategorie. Manche Waffen, wie zum Beispiel ein Dolch oder ein Schwertgewehr können in zwei Kategorien fallen. Keine Waffe sollte mehr als zwei Kategorien haben, aber ob eine Waffe eine oder zwei Kategorien hat, kann vom Spieler und GM zusammen entschieden werden. Dieser Schritt hat keinen Einfluss auf den Wohlstandswert der Waffe.
 ### Schritt 2: Wähle Eigenschaften
-Jede Waffe muss mindestens eine der Eigenschaften *kraftvoll* oder *präzise* haben. Eine Waffe kann auch beide haben. Wähle eine oder beide.
+Jede Waffe muss mindestens eine der Eigenschaften *Kraftvoll* oder *Präzise* haben. Eine Waffe kann auch beide haben. Wähle eine oder beide.
 
 Wähle als nächstes eine beliebige Anzahl an weiteren Eigenschaften aus, die die Waffe haben soll. Eigenschaften beeinflussen den Wohlstandswert anhand der Angaben in der folgenden Tabelle.
 
-| Eigenschaft      | WW-Modifikator                                                                     |
-| ---------------- | ---------------------------------------------------------------------------------- |
-| Gebiet           | + Nachteilmalus anhand des Gebiets für Multiziel-Attacken (siehe Kapitel 7: Kampf) |
-| Defensiv         | + *defensiv*-Wert                                                                  |
-| Verzögert bereit | -1                                                                                 |
-| Verbrauchsgut    | -1                                                                                 |
-| Schwer           | 0                                                                                  |
-| Lang             | +1                                                                                 |
-| Langsam          | -1                                                                                 |
-| Stationär        | -1                                                                                 |
-| Schnell          | +1                                                                                 |
+| Eigenschaft      | WW-Modifikator                                                                                             |
+| ---------------- | ---------------------------------------------------------------------------------------------------------- |
+| Gebiet           | + Nachteilmalus anhand des Gebiets für Multiziel-Attacken (siehe [Kapitel 7: Kampf](./Kapitel-7_Kampf.md)) |
+| Defensiv         | + *defensiv*-Wert                                                                                          |
+| Verzögert bereit | -1                                                                                                         |
+| Verbrauchsgut    | -1                                                                                                         |
+| Schwer           | 0                                                                                                          |
+| Lang             | +1                                                                                                         |
+| Langsam          | -1                                                                                                         |
+| Stationär        | -1                                                                                                         |
+| Schnell          | +1                                                                                                         |
 ### Schritt 3: Harme auswählen
 Waffen werden in ihrem Kampfstil durch die Harme differenziert, die sie wirken können. Harme haben keinen Einfluss auf den Wohlstandswert der Waffe und die meisten Waffen haben 2 oder 3 assoziierte Harme. Waffen mit 4 oder mehr Harmen müssen vom GM akzeptiert werden.
 ### Schritt 4: Wohlstandswert berechnen
@@ -200,6 +204,6 @@ Alle Waffen (mit Ausnahme von unbewaffneter Schlag), starten mit einem Wohlstand
 > 
 > **Schritt 2 (Wähle Eigenschaften)** Da die Kusari-Gama entweder mit defter Präzision oder mit kräftigen Schwüngen benutzt werden kann, geben wir ihr die Eigenschaften *präzise* und *kraftvoll*. Um sie noch weiter auszuarbeiten, entscheiden wir außerdem, dass die Möglichkeiten, mit der Kette Angriffe abzuwehren, genügt, um ihr noch die Eigenschaft *defensiv 1* zu geben. Aufgrund der Länge der Kette bekommt sie auch noch *lang* und langsam, da das Schwingen Zeit beansprucht.
 > 
-> **Schritt 3 (Harme auswählen)** Die Kusari-Gama kann genutzt werden, um Feinde heranzuziehen, zu fangen und sie auf breitem Gebiet zu bedrohen. Aus diesen Gründen geben wir ihr die Harme *erzwungene Bewegung*, *immobilisiert*, *niederwerfen* und *provoziert*.[?]
+> **Schritt 3 (Harme auswählen)** Die Kusari-Gama kann genutzt werden, um Feinde heranzuziehen, zu fangen und sie auf breitem Gebiet zu bedrohen. Aus diesen Gründen geben wir ihr die Harme *Erzwungene Bewegung*, *Immobilisiert*, *Niedergeworfen* und *Provoziert*.
 > 
 > **Schritt 4 (Wohlstandswert berechnen)** Die Modifikation des WW nach Schritt 2 ist +1 (*defensiv 1* = +1, *lang* = +1, *langsam* = -1). Auf den Start-WW von 1 addiert, ergibt das einen finalen WW von 2 für die Kusari-Gama.

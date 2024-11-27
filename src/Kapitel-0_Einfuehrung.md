@@ -1,5 +1,5 @@
 # Einführung: Dies ist deine Geschichte. Erzähle sie.
-*Tief in den Eingeweiden eines lange verlassenen Sternenfrachters kauern zwei Schurken[?] um eine massive Stasiskammer. Eine schattige Gestalt schwebt durch die milchige Flüssigkeit, kaum durch das dicke Glas ausmachbar. Einer der Entdecker, von Kopf bis Fuß mit cybernetischen Implantaten bedeckt, versucht, die am Fuß der Kammer versteckten und nur im ultraviolette Spektrum erfassbaren Symbole zu entziffern.*
+*Tief in den Eingeweiden eines lange verlassenen Sternenfrachters kauern zwei Schurken um eine massive Stasiskammer. Eine schattige Gestalt schwebt durch die milchige Flüssigkeit, kaum durch das dicke Glas ausmachbar. Einer der Entdecker, von Kopf bis Fuß mit cybernetischen Implantaten bedeckt, versucht, die am Fuß der Kammer versteckten und nur im ultraviolette Spektrum erfassbaren Symbole zu entziffern.*
 
 *"Halt den UV-Strahler still!" raunt er seiner Gefährtin zu.*
 

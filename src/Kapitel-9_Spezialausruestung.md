@@ -21,7 +21,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 
 | Außergewöhnliches Item       | WW  | Attribute     | Harme & Wohle                                   | Eigenschaften                                                                               |
 | ---------------------------- | --- | ------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Haftstiefel[?]               | 2   |               |                                                 | besonders[?]                                                                                |
+| Haftstiefel                  | 2   |               |                                                 | Besonders                                                                                   |
 | Adrenalin-Biomod             | 4   |               | Heilen 3                                        | Anhaltend (Heilen)                                                                          |
 | Aegis des Schutzes           | 4   | Energie 5     |                                                 | Autonom, besonders                                                                          |
 | Schwarzer Lotus Extrakt      | 6   |               | Tod 9                                           | Augmentierend, Verbrauchsgut, Hartnäckig                                                    |
@@ -30,7 +30,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 | Großhirnsonde[?]             | 3   |               | Gedankenraub 8                                  | Besonders                                                                                   |
 | Würgehalsband                | 1   |               |                                                 | Verflucht (Anhaltender Schaden 2)                                                           |
 | Colt 45                      | 3   |               |                                                 | Tödlich 1, Waffe (Revolver)                                                                 |
-| Kristallkugel                | 3   |               | Weitsicht[?] 6                                  |                                                                                             |
+| Kristallkugel                | 3   |               | Fernsicht 6                                     |                                                                                             |
 | Digitale Tarnkleidung        | 4   |               | Unsichtbar 5                                    | Zuverlässig                                                                                 |
 | Dotanuki                     | 5   |               |                                                 | Tödlich 2, Waffe (Katana), Besonders                                                        |
 | Explosive Munition           | 2   |               | Anhaltender Schaden 4                           |                                                                                             |
@@ -48,9 +48,9 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 | Trank der kleinen Heilung    | 1   |               | Heilen 3                                        | Konsumgut                                                                                   |
 | Raketenwerfer                | 3   |               |                                                 | Tödlich[?] 2, Verbrauchsgut, Waffe (Kanone)                                                 |
 | Stab der Furcht              | 3   |               | Furcht 7                                        |                                                                                             |
-| Schlafgas                    | 4   |               | Bewusstlos[?] 5                                 | Verbrauchsgut, Bereich (15' Würfel)                                                         |
+| Schlafgas                    | 4   |               | Bewusstlos 5                                    | Verbrauchsgut, Bereich (15' Würfel)                                                         |
 | Seelensauger[?]              | 2   |               | Erschöpft 5                                     |                                                                                             |
-| Fernrohr der Weitsicht       | 4   | Wahrnehmung 6 |                                                 |                                                                                             |
+| Fernglas der Weitsicht       | 4   | Wahrnehmung 6 |                                                 |                                                                                             |
 | Transmogrifizierungsstrahl   | 5   |               | Polymorph 6                                     |                                                                                             |
 | Universalzugangs-Implantat   | 6   | Überzeugung 7 |                                                 |                                                                                             |
 | Arbeiterroboter              | 4   | Kraft 3       |                                                 |                                                                                             |
@@ -72,11 +72,11 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 
 **Schaden (Typ)** - Wenn du einen Angriff mit Schaden mit diesem Item ausführst.
 
-**Tödlich[?]** - Manche Waffen sind so effektiv, dass ihre Natur den führenden Charakter merklich gefährlicher macht. Angriffe mit dieser Waffe erhalten Vorteil auf Angriffswürfe anhand ihres *Fatal*-Wertes. Eine Waffe kann keinen *Fatal*-Wert größer als 3 haben.
+**Tödlich[?]** - Manche Waffen sind so effektiv, dass ihre Natur den führenden Charakter merklich gefährlicher macht. Angriffe mit dieser Waffe erhalten Vorteil auf Angriffswürfe anhand ihres *Tödlich*-Wertes. Eine Waffe kann keinen *Tödlich*-Wert größer als 3 haben.
 
 **Verbrauchsgut** - Ein Verbrauchsgegenstand kann nur einmal benutzt werden, um einen Angriff auszuführen oder einen Harm zu wirken. Danach ist das Item benutzt und kann nicht wieder verwendet werden.
 
-**Anhaltend (Wohl)** - Ein Item mit dieser Eigenschaft wirkt und hält aufrecht automatisch eine Instanz des angegebenen Wohles, ohne dass der führende Charakter dafür werfen muss oder *Wohl aufrechterhalten*-Aktionen nutzen muss. Falls die Dauer des Wohls *einmalig*[?] ist, wirkt das Item das Wohl jede Runde einmal zu Beginn des Zuges des führenden Charakters. Der führende Charakter muss diesen Effekt nicht bewusst ausführen. Diese Eigenschaft des Items bleibt aufrechterhalten, solange der führende Charakter sie nicht mit einer kleinen Aktion bewusst deaktiviert. In diesem Fall kann er den Effekt mit einer kleinen Aktion zu jeder Zeit wieder reaktivieren.
+**Anhaltend (Wohl)** - Ein Item mit dieser Eigenschaft wirkt und hält aufrecht automatisch eine Instanz des angegebenen Wohles, ohne dass der führende Charakter dafür werfen muss oder *Wohl aufrechterhalten*-Aktionen nutzen muss. Falls die Dauer des Wohls *Augenblicklich* ist, wirkt das Item das Wohl jede Runde einmal zu Beginn des Zuges des führenden Charakters. Der führende Charakter muss diesen Effekt nicht bewusst ausführen. Diese Eigenschaft des Items bleibt aufrechterhalten, solange der führende Charakter sie nicht mit einer kleinen Aktion bewusst deaktiviert. In diesem Fall kann er den Effekt mit einer kleinen Aktion zu jeder Zeit wieder reaktivieren.
 
 **Hartnäckig** - Ziele haben Nachteil 1 auf Widerstandswürfe zum Abschütteln von Harmen, die von diesem Item zugefügt wurden.
 
@@ -129,7 +129,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 
 **Eigenschaften:** Dunkelheit 5, Kreatur beschwören 5, geblendet 5
 
-**Besonders:** Die Kräfte des Buches zu nutzen, entzieht normalsterblichen ihre Lebenskraft. Jedes Mal, wenn eine Kreatur dieses Buch nutzt und erfolgreich einen Harm oder ein Wohl von Kraftlevel 5 oder höher damit wirkt, müssen sie einen Wurf auf Willenskraft mit HW 15 machen. Bei einem Fehlschlag erleiden sie eine Instanz des Harmes *erschöpft*.
+**Besonders:** Die Kräfte des Buches zu nutzen, entzieht normalsterblichen ihre Lebenskraft. Jedes Mal, wenn eine Kreatur dieses Buch nutzt und erfolgreich einen Harm oder ein Wohl von Kraftlevel 5 oder höher damit wirkt, müssen sie einen Wurf auf Willenskraft mit HW 15 machen. Bei einem Fehlschlag erleiden sie eine Instanz des Harmes *Erschöpft*.
 ##### Großhirnsonde
 **Wohlstandswert:** 3
 
@@ -137,7 +137,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 
 **Eigenschaften:** Gedankenraub 8
 
-**Besonders:** Diese Maschine muss vorsicht am Ziel angebracht werden. Damit dies möglich ist, muss das Ziel also bewusstlos oder anderweitig vollständig immobilisiert oder hilflos sein, bevor der *Gedankenraub*-Angriff ausgeführt werden kann. Solange das Ziel von einem Harm dieses Items betroffen ist, leidet es automatisch unter dem Harm *immobilisiert*, bis der erste Harm (*Gedankenraub*) beendet ist.
+**Besonders:** Diese Maschine muss vorsicht am Ziel angebracht werden. Damit dies möglich ist, muss das Ziel also bewusstlos oder anderweitig vollständig immobilisiert oder hilflos sein, bevor der *Gedankenraub*-Angriff ausgeführt werden kann. Solange das Ziel von einem Harm dieses Items betroffen ist, leidet es automatisch unter dem Harm *Immobilisiert*, bis der erste Harm (*Gedankenraub*) beendet ist.
 ##### Würgehalsband
 **Wohlstandswert:** 1
 
@@ -155,7 +155,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 
 *Kein Mystiker sollte ohne das zentrale Werkzeug ihrer Zunft - zum hinter die Kulissen der normalen Welt luken - sein.*
 
-**Eigenschaften:** Weitsicht 6
+**Eigenschaften:** Fernsicht 6
 ##### Digitale Tarnkleidung
 **Wohlstandswert:** 4
 
@@ -169,7 +169,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 
 **Eigenschaften:** Tödlich 2, Waffe (Katana)
 
-**Besonders:** Ein fataler Schlag mit dem Dotanuki kann ein Ziel schnell ausbluten lassen. Wann immer ein Angriff mit dem Dotanuki die Verteidigung eines Ziels um 20 oder mehr übertrifft, fügt es dem Ziel automatisch den Harm *anhaltender Schaden 9* zu.
+**Besonders:** Ein fataler Schlag mit dem Dotanuki kann ein Ziel schnell ausbluten lassen. Wann immer ein Angriff mit dem Dotanuki die Verteidigung eines Ziels um 20 oder mehr übertrifft, fügt es dem Ziel automatisch den Harm *Anhaltender Schaden 9* zu.
 ##### Explosive Munition
 **Wohlstandswert:** 2
 
@@ -207,7 +207,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 
 **Eigenschaften:** Bereich 20' Kegel
 
-**Besonders:** Der nutzende Charakter kann mit einer großen Aktion in das Horn blasen um einen Bereichangriff als 20' Kegel auszuführen. Der Angriff hat Kraft 5 gegen Zähigkeit. Kreaturen, die von der Attacke getroffen werden, erleiden die Harme *taub* (Kraftlevel 4) und *niedergeschlagen* (Kraftlevel 1). Objekte in der Umgebung werden statt den Harmen der Attacke mit doppeltem Schaden ausgesetzt. Das Horn kann ohne Risiko einmal pro Tag geblasen werden. Wann immer es öfter geblasen wird, gibt es eine 25% Chance, dass das Horn beim Versuch zerbirst.
+**Besonders:** Der nutzende Charakter kann mit einer großen Aktion in das Horn blasen um einen Bereichangriff als 20' Kegel auszuführen. Der Angriff hat Kraft 5 gegen Zähigkeit. Kreaturen, die von der Attacke getroffen werden, erleiden die Harme *Taub* (Kraftlevel 4) und *Niedergeschlagen* (Kraftlevel 1). Objekte in der Umgebung werden statt den Harmen der Attacke mit doppeltem Schaden ausgesetzt. Das Horn kann ohne Risiko einmal pro Tag geblasen werden. Wann immer es öfter geblasen wird, gibt es eine 25% Chance, dass das Horn beim Versuch zerbirst.
 ##### Jetpack
 **Wohlstandswert:** 3
 
@@ -227,7 +227,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 
 **Eigenschaften:** Aura 8, Waffe (Kriegshammer)
 
-**Besonders:** Das Aura-Wohl des Kriegshammers kann nur den Harm *provoziert* verbreiten. In der ersten Runde eines Kampfes, kann die Aura als kleine Aktion aktiviert werden.
+**Besonders:** Das Aura-Wohl des Kriegshammers kann nur den Harm *Provoziert* verbreiten. In der ersten Runde eines Kampfes, kann die Aura als kleine Aktion aktiviert werden.
 ##### Phasergewehr
 **Wohlstandswert:** 4
 
@@ -241,7 +241,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 
 **Eigenschaften:** Entwaffnet 3, Harmvoll (Entwaffnet), Schaden (Energie), Tödlich 1, Waffe (Katana)
 
-**Besonders:** Wenn ein Angriff mit der Plasmaklinge die Verteidigung eines Ziels um 10 oder mehr übertrifft, wird der getroffene Körperteil abgetrennt und der gesamte Schaden des Angriffs ist tödlich. Außerdem erleidet das Ziel den Harm *demoralisiert* (Kraftlevel 3) für den Rest des Kampfes. Dieser Effekt kann nicht gebrochen werden.
+**Besonders:** Wenn ein Angriff mit der Plasmaklinge die Verteidigung eines Ziels um 10 oder mehr übertrifft, wird der getroffene Körperteil abgetrennt und der gesamte Schaden des Angriffs ist tödlich. Außerdem erleidet das Ziel den Harm *Demoralisiert* (Kraftlevel 3) für den Rest des Kampfes. Dieser Effekt kann nicht gebrochen werden.
 ##### Trank der großen Heilung
 **Wohlstandswert:** 2
 
@@ -261,7 +261,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 
 **Eigenschaften:** Tödlich 2, Verbrauchsgut, Waffe (Kanone)
 
-**Besonders:** Diese Waffe hat extreme Reichweite und die Eigenschaften Präzise, Verzögert Bereit, Schwer und Bereich (15' Würfel). Weiterhin die Harme *anhaltender Schaden*, *betäubt* und *erzwungene Bewegung*. Die Eigenschaft *Verbrauchsgut* bezieht sich auf die Munition. Jeder Schuss verbraucht ein außergewöhnliches Item.
+**Besonders:** Diese Waffe hat extreme Reichweite und die Eigenschaften Präzise, Verzögert Bereit, Schwer und Bereich (15' Würfel). Weiterhin die Harme *Anhaltender Schaden*, *Betäubt* und *Erzwungene Bewegung*. Die Eigenschaft *Verbrauchsgut* bezieht sich auf die Munition. Jeder Schuss verbraucht ein außergewöhnliches Item.
 ##### Stab der Furcht
 **Wohlstandswert:** 3
 
@@ -331,12 +331,12 @@ Wähle eine beliebige Anzahl weiterer Eigenschaften, die das Item haben soll. Ei
 | Konsumgut     | -1                                                                               |
 | Verflucht     | WW-Kosten des Harmes in der Tabelle in Schritt 1                                 |
 | Schaden       | +0                                                                               |
-| Tödlich       | 2 + *tödlich*-Wert                                                               |
+| Tödlich       | 2 + *Tödlich*-Wert                                                               |
 | Verbrauchsgut | -1                                                                               |
 | Anhaltend     | +3                                                                               |
 | Hartnäckig    | +1                                                                               |
 | Zuverlässig   | +2                                                                               |
-| Mächtig       | 2 + *mächtig*-Wert                                                               |
+| Mächtig       | 2 + *Mächtig*-Wert                                                               |
 | Intelligent   | +3                                                                               |
 | Waffe         | Muss zunächst erhalten oder erschafft werden                                     |
 #### Schritt 3: Besondere Eigenschaften schreiben
@@ -364,20 +364,20 @@ Nachdem du die besondere Eigenschaft deines Items beschrieben hast, erstellt du 
 > **Finaler WW-Modifikator:** +2
 > ***
 > #### Lichtschein-Schild
-> Einmal pro Runde, wenn der Charakter Ziel eines Nahkampfangriffs wird, kann er *geblendet* als Harmangriffangriff auf den Angreifer wirken. Das Item macht die folgende Attacke: *geblendet* 5 gegen Deckung.
+> Einmal pro Runde, wenn der Charakter Ziel eines Nahkampfangriffs wird, kann er *Geblendet* als Harmangriffangriff auf den Angreifer wirken. Das Item macht die folgende Attacke: *Geblendet* 5 gegen Deckung.
 > 
 > *Ist sie häufig nützlich?* Ja, +1 WW. Falls der Charakter selbst Nahkämpfer ist, kann er das Item potentiell jede Runde nutzen.
 > 
 > *Ist sie vielfältig?* Nein. Der Lichtschein-Schild hat nur einen Zweck.
 > 
-> *Ist sie machtvoll?* Etwas mächtiger, als ein Item mit *geblendet* 5, weil der Lichtschein-Schild das Wirken ohne eine Aktion erlaubt. +3 WW.
+> *Ist sie machtvoll?* Etwas mächtiger, als ein Item mit *Geblendet* 5, weil der Lichtschein-Schild das Wirken ohne eine Aktion erlaubt. +3 WW.
 > 
 > *Schränkt sie ein?* Nein. Auch wenn der Lichtschein-Schild nur nützlich ist, wenn der Charakter im Nahkampf angegriffen wird, ist diese Situation ziemlich häufig.
 > 
 > **Finaler WW-Modifikator:** +4
 > ***
 > #### Assassinengewehr
-> Diese Waffe hat die *Harmvoll (geblendet)* und *Harmvoll (anhaltender Schaden)* Eigenschaften, allerdings müssen bestimmte Bedingungen erfüllt sein, um sie zu nutzen. Wenn dein Ziel seine Deckung fallen lässt, dich nicht kommen sieht oder in Nahkampfreichweite eines deiner Verbündeten ist, kannst du *Harmvoll*-Eigenschaften nutzen.
+> Diese Waffe hat die *Harmvoll (Geblendet)* und *Harmvoll (Anhaltender Schaden)* Eigenschaften, allerdings müssen bestimmte Bedingungen erfüllt sein, um sie zu nutzen. Wenn dein Ziel seine Deckung fallen lässt, dich nicht kommen sieht oder in Nahkampfreichweite eines deiner Verbündeten ist, kannst du *Harmvoll*-Eigenschaften nutzen.
 > 
 > *Ist sie häufig nützlich?* Nicht häufiger als bei Items, die auf normalem Weg Harme zufügen können.
 > 
@@ -476,7 +476,7 @@ Legendäre Items können alle Eigenschaften besitzen, die auch außergewöhnlich
 In diesem Abschnitt findest du Regeln zum Reiten deines kampfgestählten Kriegsrosses oder dem Fliegen deines guten alten Raumjägers. In spielmechanischer Sicht werden Reittiere und Fahrzeuge gleich behandelt. Diese Regeln greifen, wann immer ein Charakter eine Kreatur oder ein Fahrzeug als Primärmodus der Fortbewegung nutzt. Du bewegst dich mit dem Reittier oder dem Fahrzeug (siehe unten für Aktionen beim Reiten oder Fahren), wirst aber sonst als gesonderte Entität gesehen für Zielen, Harme und Wohle und andere solche Regeln.
 
 In diesem Text werden die Worte "Reittier" und "Fahrzeug" austauschbar genutzt. Spielmechanisch sind die Regeln die gleichen, egal ob es sich um ein Pony oder um einen Sternenkreuzer handelt, sodass jeder Verweis auf "Reittier" auch für "Fahrzeug" gilt und umgekehrt.
-### Aktionen als Reiter[?]
+### Aktionen als Reiter[?] / Berittene Aktionen[?]
 Sitzt du auf einem Reittier, kannst du eine beliebige Anzahl deiner Aktionen deinem Reittier überlassen. Reitest du z.B. auf einem Velociraptor, kannst du deine Bewegungsaktion ausgeben, um deinen Raptor sich 40' bewegen zu lassen. Wann immer dein Reittier sich bewegt, bewegst du dich mit. Anstatt mit eigenen Waffen anzugreifen, kannst du deine große Aktion auch ausgeben, um deinen Raptor mit seinen Klauen angreifen zu lassen. Dein Reittier hat seine eigenen Attribute und Fertigkeiten, sodass es bei Aktionen nicht von deinen Fertigkeiten oder Attributen profitiert.
 
 Typischerweise können Reittiere und Fahrzeuge nicht unabhängig von ihren Reitern handeln und haben so nur Aktionen, wenn sie ihnen vom Reiter gegeben werden.
