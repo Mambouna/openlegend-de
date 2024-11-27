@@ -580,7 +580,7 @@ Einmal pro Tag reduziert ein Angriff, der deine TP eigentlich auf unter 1 TP fal
 - **Rang 4:** Keine
 
 **Beschreibung**  
-Ob durch angeborene Rassenfähigkeiten, Spezialisierung in einer bestimmten Art Energie oder inhärentem außergewöhnlichem Schutz, bist du restent gegen eine bestimmte Art Energie. Eine Feuermagierin ist immun gegen die heißesten Flammen oder ein biologisch anormales Alien bleibt von Giften unberührt.
+Ob durch angeborene Abstammungsfähigkeiten, Spezialisierung in einer bestimmten Art Energie oder inhärentem außergewöhnlichem Schutz, bist du restent gegen eine bestimmte Art Energie. Eine Feuermagierin ist immun gegen die heißesten Flammen oder ein biologisch anormales Alien bleibt von Giften unberührt.
 
 **Effekt**  
 Wähle aus den folgenden Energiearten aus: Feuer, Kälte, Blitz, Säure, Gift oder andere nach Abwägung des GM. Wenn du mit dieser Art von Energie angegriffen wirst, erhälst du Resistenz anhand des Ranges dieser Fertigkeit:
@@ -1395,10 +1395,10 @@ Du erhälst eine Schwimmgeschwindigkeit gleich deiner normalen Geschwindigkeit u
 - **Rang 9:** Keine
 
 **Beschreibung**  
-Du bist darauf spezialisiert, gegen eine bestimmte Spezies, Rasse oder Fraktion zu kämpfen. Vielleicht wurde deine Familie von Werwölfen getötet und du hast dich seitdem in all ihren Stärken und Schwächen geschult, um sie zu jagen. Vielleicht wurde in einem Gefängnis auf Vogax Prime aufgezogen und kennst die Vogax daher besser als sie sich selbst.
+Du bist darauf spezialisiert, gegen eine bestimmte Spezies, Abstammung oder Fraktion zu kämpfen. Vielleicht wurde deine Familie von Werwölfen getötet und du hast dich seitdem in all ihren Stärken und Schwächen geschult, um sie zu jagen. Vielleicht wurde in einem Gefängnis auf Vogax Prime aufgezogen und kennst die Vogax daher besser als sie sich selbst.
 
 **Effekt**  
-Wähle eine Spezies, Rasse oder Fraktion (z.B. Drachen, Leerentemplare, Gnolls oder Vampire). Du lernst die primäre Umgangssprache der Spezies und nach Abwägung des GM auch andere etwas der anderen besonderen Kommunikationsmittel deiner Feinde (wie z.B. geheime Handsignale oder Diebessprech). Weiterhin hast du pro Rang dieser Fertigkeit Vorteil 1 auf alle mentalen Attributwürfe (Lernen, Logik, Wahrnehmung, Willenskraft), die etwas mit der von dir gewählten Gruppe zu tun hat.
+Wähle eine Spezies, Abstammung oder Fraktion (z.B. Drachen, Leerentemplare, Gnolls oder Vampire). Du lernst die primäre Umgangssprache der Spezies und nach Abwägung des GM auch andere etwas der anderen besonderen Kommunikationsmittel deiner Feinde (wie z.B. geheime Handsignale oder Diebessprech). Weiterhin hast du pro Rang dieser Fertigkeit Vorteil 1 auf alle mentalen Attributwürfe (Lernen, Logik, Wahrnehmung, Willenskraft), die etwas mit der von dir gewählten Gruppe zu tun hat.
 
 **Besonders**  
 Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erwerben kannst, kannst du die Fertigkeit selbst auch mehrmals erhalten, wobei du jedes Mal eine neue Gruppe an Feinden wählst. Die Ränge der Fertigkeit für jede Gruppe werden separat behandelt. Beispielsweise könnte ein Charakter Erzfeind II (Raumtemplar) und Erzfeind IV (Werwolf) haben.
