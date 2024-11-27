@@ -21,7 +21,7 @@ Open Legend ist ein Rollenspiel, was bedeutet, dass dein Charakter mehr Tiefe be
 
 **Deine Abstammung.** Deine Entscheidung, welche Abstammung dein Charakter haben soll, ist nur durch deine Vorstellungskraft, das Setting des Spiels und die Rahmenbedingungen deines GM eingeschränkt. Eine typische Fantasykampagne könnte Zwerge, Elfen, Halblinge, Himmlische und Drachenblüter enthalten. Falls ihr in einer futuristischen Weltraumoper am Rand der Galaxis spielt, könnte dein GM vielleicht mehrere Alienspezies zur Auswahl haben. Einige Kampagnen, zum Beispiel Mysterien oder in Horrorsettings à la Lovecraft, erlauben vielleicht nur ganz normale Menschen. Egal was, solange es vom GM erlaubt ist, kannst du als alles spielen, was du magst, egal ob humanoider Tigerpsion, eine 3 Zoll große Fee oder irgendetwas dazwischen.
 
-Als Teil deiner Entscheidung für eine Abstammung solltest du auch deine **Größe** wählen: klein, mittel oder groß. Ein mittelgroßer Charakter ist etwa so groß wie ein durchschnittlicher Mensch. Kleine Kreaturen sind zwischen 2 und 4 Fuß groß, während große Kreaturen 7 bis 10 Fuß messen. Eine große Kreatur nimmt ein 10'x10' Feld im Kampf ein und hat eine Reichweite von 10' (siehe Kapitel 7: Kampf für die Details). Der GM kann Vor- oder Nachteile für Würfe bestimmen, falls deine Größe in einer Situation relevant ist. Zum Beispiel könnten kleine Kreaturen Vorteile auf Würfe zum Verstecken, aber Nachteile auf Würfe zum Eintreten einer Tür erhalten. Auf die gleiche Weise könnten große Kreaturen Nachteile auf Kampfwürfe erhalten, wenn sie in engen Räumen sind, aber Vorteile auf Einschüchterungswürfe gegenüber kleineren Kreaturen bekommen.
+Als Teil deiner Entscheidung für eine Abstammung solltest du auch deine **Größe** wählen: klein, mittel oder groß. Ein mittelgroßer Charakter ist etwa so groß wie ein durchschnittlicher Mensch. Kleine Kreaturen sind zwischen 2 und 4 Fuß groß, während große Kreaturen 7 bis 10 Fuß messen. Eine große Kreatur nimmt ein 10'x10' Feld im Kampf ein und hat eine Reichweite von 10' (siehe [Kapitel 7: Kampf](./Kapitel-7_Kampf.md) für die Details). Der GM kann Vor- oder Nachteile für Würfe bestimmen, falls deine Größe in einer Situation relevant ist. Zum Beispiel könnten kleine Kreaturen Vorteile auf Würfe zum Verstecken, aber Nachteile auf Würfe zum Eintreten einer Tür erhalten. Auf die gleiche Weise könnten große Kreaturen Nachteile auf Kampfwürfe erhalten, wenn sie in engen Räumen sind, aber Vorteile auf Einschüchterungswürfe gegenüber kleineren Kreaturen bekommen.
 
 Nach dem Ermessen des GM kannst du auch noch kleinere oder noch größere Größen wählen, als die oben aufgeführten. Die Reichweite einer großen Kreatur ist immer gleich der Länge ihrer Basis. Ein Riese mit einer 15'x15' großen Basis würde also eine Reichweite von 15' haben. Kleine Kreaturen haben immer eine Reichweite von mindestens 5'.
 
@@ -81,7 +81,7 @@ Die *Attribute auf einen Blick*-Tabellen geben dir einen schnellen Überblick ei
 	</tr>
 	<tr>
 		<th>Willenskraft</th>
-		<td>die eigene Entschlossenheit wahren, Folter widerstehen, bis in die Nacht lernen, auf der Wachschicht wach bleiben, Wahnsinn abwenden</td>
+		<td>Die eigene Entschlossenheit wahren, Folter widerstehen, bis in die Nacht lernen, auf der Wachschicht wach bleiben, Wahnsinn abwenden</td>
 	</tr>
 </table>
 ##### Soziale Attribute auf einen Blick
@@ -95,7 +95,7 @@ Die *Attribute auf einen Blick*-Tabellen geben dir einen schnellen Überblick ei
 		<td>Einen Deal verhandeln, jemanden überzeugen, einen Preis runterhandeln, jemand Informationen abringen</td>
 	</tr>
 	<tr>
-		<th>Präsez</th>
+		<th>Präsenz</th>
 		<td>Eine Rede geben, ein Lied singen, eine Armee inspirieren, die Macht der eigenen Persönlichkeit ausdrücken, Glück haben</td>
 	</tr>
 </table>
@@ -111,7 +111,7 @@ Die *Attribute auf einen Blick*-Tabellen geben dir einen schnellen Überblick ei
 	</tr>
 	<tr>
 		<th>Energie</th>
-		<td>die Elemente erschaffen und kontrollieren: Feuer, Kälte, Elektrizität</td>
+		<td>Die Elemente erschaffen und kontrollieren: Feuer, Kälte, Elektrizität</td>
 	</tr>
 	<tr>
 		<th>Vergehen</th>
@@ -131,7 +131,7 @@ Die *Attribute auf einen Blick*-Tabellen geben dir einen schnellen Überblick ei
 	</tr>
 	<tr>
 		<th>Schutz</th>
-		<td>vor Schaden schützen, mentalen Einfluss durchbrechen, Magie auflösen, Dämonen binden</td>
+		<td>Vor Schaden schützen, mentalen Einfluss durchbrechen, Magie auflösen, Dämonen binden</td>
 	</tr>
 </table>
 

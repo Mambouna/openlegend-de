@@ -14,9 +14,9 @@
 *Während Elfe und Zwerg sich streiten, erhebt sich ein grauhaariger Mann, gekleidet in Smaragd, auf einem Fels in der Mitte der Ruinen. Seine Augen durchbohren die Distanz zur goldenen Sonne, die sich dem Horizont neigt, wie scharfe Dolche. Mit einem verborgenen Lächeln hebt er seinen verzogenen Eichenstab zum Himmel, unter dem sich Sturmwolken sammeln und mit dem Zorn der Natur knistern. "Gentleman, Lady..." spricht der Druide mit dezentem Selbstbewustsein, "Ich glaube, die Winde haben sich zu unserem Vorteil gewandt."*
 ***
 ### Warum Open Legend?
-Falls du schonmal Rollenspiele gespielt hast, fragst du dich vielleicht *Was macht Open Legend meiner Zeit wert? Was macht es anders?*
+Falls du schon mal Rollenspiele gespielt hast, fragst du dich vielleicht *Was macht Open Legend meiner Zeit wert? Was macht es anders?*
 > Das Geheimnis liegt im Titel: Open. Alles an diesem Spiel wurde gebaut, um die Tore der Möglichkeiten weit zu öffnen, sodass jeder Tisch eine hörenswerte Legende erzählt. Hier sind einige der Möglichkeiten, die Open Legend dir bietet.
-> **Open Source**. Ja, so ist es. The ungekürzten Kernregeln sind auf der Website verfügbar und die [Open Legend Community License]() erlaubt die Veröffentlichung von sowohl kommerziellen als auch nicht-kommerziellen Werken, die das System benutzen. Wir wissen, dass die Öffentlichkeit das Spiel genauso sehr lieben wird, wie wir und hoffen, dass sie ihre Liebe in Form von Abenteuern, Erweiterungsregeln und vielem mehr weiterverbreiten werden.
+> **Open Source**. Ja, so ist es. The ungekürzten Kernregeln sind auf der Website verfügbar und die [Open Legend Community License](https://openlegendrpg.com/community-license) erlaubt die Veröffentlichung von sowohl kommerziellen als auch nicht-kommerziellen Werken, die das System benutzen. Wir wissen, dass die Öffentlichkeit das Spiel genauso sehr lieben wird, wie wir und hoffen, dass sie ihre Liebe in Form von Abenteuern, Erweiterungsregeln und vielem mehr weiterverbreiten werden.
 > **Offene Würfel**. In Open Legend explodieren Würfel! Das bedeutet, dass du JEDEN Würfel erneut würfelst und aufaddierst, wenn du den Maximalwert wirfst, bis zum geht-nicht-mehr. Die wilde Natur des Würfelswerfens sorgt dafür, dass jeder Wurf zählt und jede Sitzung von Open Legend voller spannender Momente ist. Das Glück kann sich jederzeit wenden, zum Guten oder Schlechten.
 > **Open Legend**. Du kannst die Geschichte erzählen, die du dir wünscht, mit Charakteren, die du dir überlegst. Du musst dich nicht an spezifische Klassen, Archetypen oder Rassen halten. Die einzige Grenze ist deine eigene Vorstellungskraft (und vielleicht das Veto des GM). Anstatt einer Liste von vorgefertigten Klassen mit einem Menü an Fähigkeiten, aus denen gewählt wird, beginnst du das Spiel mit Attributpunkten, die du ausgeben kannst, wie du willst, um deinem Charakter die Kräfte zu geben, die du dir vorstellst.
 
@@ -32,7 +32,7 @@ Dies ist deine Geschichte. Erzähl sie.
 ## Was macht Open Legend aus?
 Open Legend ist ein Spiel, das für Spielende designed wurde, die genug Regeln für ein faires Spiel wollen, aber nicht so viele, dass die Regeln dem Spaß oder der Kreativität in die Quere kommen. *Open Legend* erlaubt es, das Spielgeschehen ausbalanciert zu halten, während die Geschichte durch die Taten der Charaktere im Flug angepasst wird. Die Regeln sollten robust sein, aber ihr einziger Wert liegt darin, die Geschichte zu unterstützen.
 
-Open Legends optimiertes System für Sekundäreffekte (Harme) und Multi-Ziel Attacken bedeuten, dass Charaktere alle die gleichen spielmechanischen Regeln nutzen, um einzigartige Fähigkeiten zu realisieren. In einer Fantasy-Kampagne nutzt ein Elementarmagier eventuell einen Blitzschlag, um seine Feinde zu verwunden und zu betäuben. Ein Sternentrooper in einer Geshichte der fernen Zukunft kann stattdessen eine Beam-Waffe für den gleichen Effekt einsetzen. Die Regeln für beide Angriffe sind die gleichen, egal welche Art von Geschichte du mit ihnen erzählst.
+Open Legends optimiertes System für Sekundäreffekte (Harme) und Multi-Ziel Attacken bedeuten, dass Charaktere alle die gleichen spielmechanischen Regeln nutzen, um einzigartige Fähigkeiten zu realisieren. In einer Fantasy-Kampagne nutzt ein Elementarmagier eventuell einen Blitzschlag, um seine Feinde zu verwunden und zu betäuben. Ein Sternentrooper in einer Geschichte der fernen Zukunft kann stattdessen eine Beam-Waffe für den gleichen Effekt einsetzen. Die Regeln für beide Angriffe sind die gleichen, egal welche Art von Geschichte du mit ihnen erzählst.
 
 Als Geschichtenerzähler lieben wir komplexere Handlungen mit tiefgründigen Charakteren. Als Spieler\*innen lieben wir aber auch das Würfelwerfen. Wollten wir einfach nur zusammen mit Freunden Geschichten erzählen, würden wir gemeinsam ein Buch schreiben oder einer Impro-Theatergruppe beitreten.
 
@@ -42,9 +42,9 @@ Ohne klar ausgearbeitete Regeln können die Entscheidungen eines GM willkürlich
 
 Open Legend wurde entwickelt, um Spieler\*innen einen klaren Regelrahmen an die Hand zu geben, der ihr Spiel leitet, aber nicht so viele, dass sie davon ausgebremst werden. Du machst dir schon im Job genug Sorgen um Bilanzen und Anordnungen. Wir wollen nicht, dass der Rollenspieltisch sich genauso anfühlt und haben Open Legend aufgebaut, um sich auf den Spaß zu konzentrieren, nicht die Hausaufgaben.
 
-Es gibt zum Beispiel keine langen Listen an Ressourcen, die du managen musst. Alle Fähigkeiten oder Zauber, die du nutzen kannst, kannst du nutzen wann immer du willst. Weiterhin müssen Zauberer, Psionen oder Techies nicht Seite um Seite an Regeln zu bestimmten Fähigkeiten umwälzen, um die richtige Entscheidung zu treffen. Stattdessen nutzt Open Legend ein System von ****Harmen**** und **Wohlen**, Statuseffekten, die jeder Charakter anwenden kann, wenn er dafür ausgebaut wurde.
+Es gibt zum Beispiel keine langen Listen an Ressourcen, die du managen musst. Alle Fähigkeiten oder Zauber, die du nutzen kannst, kannst du nutzen wann immer du willst. Weiterhin müssen Zauberer, Psionen oder Techies nicht Seite um Seite an Regeln zu bestimmten Fähigkeiten umwälzen, um die richtige Entscheidung zu treffen. Stattdessen nutzt Open Legend ein System von **Harmen** und **Wohlen**, Statuseffekten, die jeder Charakter anwenden kann, wenn er dafür ausgebaut wurde.
 
-Andere Spielmechaniken, wie z.B. vereinfache Systeme für Wohlstand und Tragekapazität, werden sicherstellen, dass du dich auf die Geschichte konzentrieren kannst, die ihr gemeinam erzählt. In Open Legend wirst du nie ein einzigen Goldstück auf deinem Charakterbogen festhalten müssen, oder wie viel dein Revolver wiegt.
+Andere Spielmechaniken, wie z.B. vereinfache Systeme für Wohlstand und Tragekapazität, werden sicherstellen, dass du dich auf die Geschichte konzentrieren kannst, die ihr gemeinsam erzählt. In Open Legend wirst du nie ein einzigen Goldstück auf deinem Charakterbogen festhalten müssen, oder wie viel dein Revolver wiegt.
 
 Open Legend bewegt sich auf dem schmalen Grat zwischen Geschichtenerzählen und Spielmechanik, indem du das beste aus beiden Welten bekommst. Es hebt sowohl Handlung als auch Strategie zur gleichen Zeit hervor und schränkt beide weniger ein.
 
@@ -54,11 +54,11 @@ Wir hoffen, dass wir ein Spiel für Spieler\*innen geschaffen haben, die es lieb
 
 Allem anderen voran aber hoffen wir, dass wir ein Spiel für Spieler\*innen wie dich geschaffen haben.
 ## Die Kernmechanik: Der Aktionswurf
-Die meisten relevanten Aufgaben, die dein Charakter in Open Legend versuchen wird, werden du den Wurf eines Würfels bestimmt.
+Die meisten relevanten Aufgaben, die dein Charakter in Open Legend versuchen wird, werden durch den Wurf eines Würfels bestimmt.
 
 Um das Ergebnis zu bestimmen, wirfst du 1d20 plus jegliche Bonuswürfel, die die Attribute deines Charakters dir für diese Aufgabe geben. Alle Würfel, die ihren Maximalwert zeigen, explodieren, was bedeutet, dass du sie erneut werfen und das zweite Ergebnis aufaddieren kannst. Du wirfst so lange weiter, bis keine Würfel mehr explodieren.
 
-Summiere alle Würfelergebnisse um das Gesamtergebnis deines Aktionswurfes zu bestimmen. Falls die Summe gleich doer größer dem Herausforderungswert der Aktion ist, dann hast du Erfolg. Falls nicht, entscheidet der GM, dass du entweder mit einem Haken Erfolg hast, oder aber fehlschlägst und die Geschichte trotzdem weitergeht.
+Summiere alle Würfelergebnisse um das Gesamtergebnis deines Aktionswurfes zu bestimmen. Falls die Summe gleich oder größer dem Herausforderungswert der Aktion ist, dann hast du Erfolg. Falls nicht, entscheidet der GM, dass du entweder mit einem Haken Erfolg hast, oder aber fehlschlägst und die Geschichte trotzdem weitergeht.
 
 <table>
 	<tr>
