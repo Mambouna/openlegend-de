@@ -3055,7 +3055,7 @@
   effect: |
     Dein Wohlstandswert ist um 1 erhöht.
 - !
-  name: Ausgewogen / Ausbalanciert[?]
+  name: Ausgewogen / Rundumtalent [?]
   OGname: Well-Rounded
   prerequisites:
     tier1:

@@ -633,7 +633,7 @@
     </ul>
     Diesem Harm kann auch durch die normale Nutzung einer Bewegungsaktion zum Widerstehen von Harmen aufgelöst werden.
 - !
-  name: Phantom[?]
+  name: Phantom[?] / Illusion
   OGname: Phantasm
   tags:
   - Außergewöhnlich
@@ -770,7 +770,7 @@
     Diesem Harm zu widerstehen ist eine kleine Aktion.
     Wird dieser Harm mit Kraft oder Beweglichkeit gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus Kapitel 7: Kampf bestimmen.
 - !
-  name: Fernsicht[?]
+  name: Fernsicht
   OGname: Spying
   tags:
   - Außergewöhnlich

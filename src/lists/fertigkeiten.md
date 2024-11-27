@@ -1512,7 +1512,7 @@ Dein Wohlstandswert ist um 1 erhöht.
 > Tags: Nicht-Kampf
 
 ---
-### Ausgewogen / Ausbalanciert[?]
+### Ausgewogen / Rundumtalent [?]
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  

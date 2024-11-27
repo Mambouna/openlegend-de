@@ -516,7 +516,7 @@ Diesem Harm kann auch durch die normale Nutzung einer Bewegungsaktion zum Widers
 > Tags: Außergewöhnlich, Körperlich
 
 ---
-### Phantom[?]
+### Phantom[?] / Illusion
 **Dauer:** Besonders
 
 **Wirkzeit:** 1 große Aktion
@@ -623,7 +623,7 @@ Wird dieser Harm mit Kraft oder Beweglichkeit gewirkt, kannst du die Reichweite 
 > Tags: Außergewöhnlich, Körperlich
 
 ---
-### Fernsicht[?]
+### Fernsicht
 **Dauer:** 10 Minuten (Besonders)
 
 **Wirkzeit:** 10 Minuten
