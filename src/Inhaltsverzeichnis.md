@@ -4,7 +4,7 @@
 Übersetzung: Mambouna  
 Lizenz: MPL 2.0
 ### Inhaltsverzeichnis
-Regelwerk:
+Regelwerk:  
 0. [Einführung](./Kapitel-0_Einfuehrung.md)
 1. [Kapitel 1: Charaktererstellung](Kapitel-1_Charaktererstellung.md)
 2. [Kapitel 2: Aktionen und Attribute](Kapitel-2_Aktionen-und-Attribute.md)
@@ -20,4 +20,3 @@ Listen:
 1. [Fertigkeiten](./lists/fertigkeiten.md)
 2. [Harme](./lists/harme.md)
 3. [Wohle](./lists/wohle.md)
-
