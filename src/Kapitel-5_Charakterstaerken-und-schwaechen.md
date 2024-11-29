@@ -1,3 +1,5 @@
+[Kapitel 4: Fertigkeiten](./Kapitel-4_Fertigkeiten.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 6: Wohlstand und Ausrüstung](./Kapitel-6_Wohlstand-und-Ausruestung.md)
+
 # Kapitel 5: Charakterstärken und -schwächen
 
 In diesem Kapitel findest du detaillierte Beschreibungen der Charakterstärken und -schwächen, die du nutzen kannst, um die Persönlichkeit und die Stärken und Schwächen deines Charakters darzustellen. Weiterhin wirst du lernen, wie du deine Stärken und Schwächen aktivieren kannst, um dein Rollenspiel zu vertiefen und im Spiel mechanisch dazuzugewinnen.
@@ -167,3 +169,5 @@ Dein Körper kommt nicht gut mit sich selbst klar. Du hast Probleme mit deiner B
 Du lässt keinen Schnitzer ungesühnt. Während manch anderer vielleicht die Beleidigung eines Betrunkenen in der Taverne abschütteln würden, siehst du es als persönlichen Angriff und verlangst einen Preis dafür. Je größer das Verbrechen, desto schrecklicher die Rache, die du üben wirst.
 ### Überzeugung
 Du stehst für etwas ein - sei es eine Religion, Nation, ein Codex, Lebensweg oder etwas anderes - und wirst die Grenzen normalen Verhaltens austesten, um deine Ideale zu vertreten. Das könnte bedeuten, dass du dich beim Versuch, andere zu deiner Sache zu rekrutieren, sozial ausgrenzt. Vielleicht bist du auch bereit, andererseits böse Taten zu vollbringen, wenn sie deine Überzeugung vertreten, z.B. indem du Leben Unschuldiger in Gefahr bringst.
+
+[Kapitel 4: Fertigkeiten](./Kapitel-4_Fertigkeiten.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 6: Wohlstand und Ausrüstung](./Kapitel-6_Wohlstand-und-Ausruestung.md)

@@ -1,3 +1,5 @@
+[Kapitel 3: Harme und Wohle](./Kapitel-3_Harme-und-Wohle.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 5: Charakterstärken und -schwächen](./Kapitel-5_Charakterstaerken-und-schwaechen.md)
+
 # Kapitel 4: Fertigkeiten
 In diesem Kapitel findest du die Fertigkeiten, die verfügbar sind, um deinen Charakter in Open Legend weiter zu verfeinern[?]. Fertigkeiten sind dazu da, die Expertisen deines Charakters zu definieren - die Aktionen, Aufgaben und Fähigkeiten, in denen sie allen anderen überlegen sind. Manche Fertigkeiten werden deine großen Aktionen erweitern, zum Beispiel indem sie dich mehrere Ziele mit weniger Nachteil beim Wurf angreifen lassen, während andere dir komplett neue Kräfte geben, wie zum Beispiel die Fähigkeit, deine Gestalt zu verändern.
 ## Fertigkeiten erhalten
@@ -16,3 +18,5 @@ Jede Beschreibung einer Fertigkeit enthält die folgenden Elemente.
 **Beschreibung.** Dieser Eintrag gibt einfach eine grundlegende Idee davon, wie d Fertigkeit im Kontext der Geschichte aussehen könnte. Weil Fertigkeiten meist mechanische Vorteile geben, die nicht an spezifische Auslöser gebunden sind, kannst du das Auftreten deiner Fertigkeit auf eine Weise interpretieren, die dem Konzept deines Charakters und dem Setting der Kampagne entspricht. Ein Paladin in einem typischen Fantasysetting könnte die Fertigkeit *Gefährte* nutzen, um einen noblen Knappen anzuheuern, während ein Technokrat in einer futuristischen Kampagne die gleiche Fertigkeit für einen Kampfautomaton benutzt. In beiden Fällen funktioniert die Fertigkeit gleich, obwohl sie unterschiedlich beschrieben wird.
 
 **Effekt.** Dieser Eintrag führt den spielmechanischen Einfluss der Fertigkeit nach den Regeln auf.
+
+[Kapitel 3: Harme und Wohle](./Kapitel-3_Harme-und-Wohle.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 5: Charakterstärken und -schwächen](./Kapitel-5_Charakterstaerken-und-schwaechen.md)

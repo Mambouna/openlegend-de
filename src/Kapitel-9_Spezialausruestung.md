@@ -1,3 +1,5 @@
+[Kapitel 8: Das Spiel leiten](./Kapitel-8_Das-Spiel-leiten.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | kein nächstes Kapitel
+
 # Kapitel 9: Spezialausrüstung
 Kapitel 6 hat dir die häufigsten Arten von Ausrüstung nähergebracht, die dein Charakter benutzen wird. In diesem Kapitel lernst du Regeln für besondere Ausrüstung kennen, die nicht so allgegenwärtig ist. Als erstes lernst du außergewöhnliche Items kennen: Waffen, Rüstung und andere Gegenstände, die mit Magie verstärkt, von Meistern geschmiedet, mit futuristischer Technologie ausgestattet oder anderweitig normalen Items gleicher Art überlegen sind. Danach lernst du, wie Reittiere und Fahrzeuge umgesetzt sind, die deine Charaktere für bessere Beweglichkeit und andere taktische Möglichkeiten reiten oder steuern können.
 ## Außergewöhnliche Items
@@ -526,3 +528,5 @@ Unten findest du eine Reihe an Reittieren und Fahrzeugen um deine Charaktere üb
 | Velociraptor, Dunkelwolf | 3   | 40'             |                                                                       | Beweglichkeit 5, Wahrnehmung 5 | Harmfokus I (Niedergeschlagen)                   | 24  | 1   | Deckung: 17, Zähigkeit: 14, Entschlossenheit: 15    |
 | T-Rex                    | 5   | 50'             | Unabhängig 1                                                          | Kraft 6                        | Angriffsspezialisierung II (Biss)                | 38  | 1   | Deckung: 20, Zähigkeit: 15, Entschlossenheit: 15    |
 | Riesenskorpion           | 4   | 35'             | Unabhängig 1                                                          | Beweglichkeit 5, Wahrnehmung 5 | Harmfokus I (Anhaltender Schaden)                | 20  | 2   | Deckung: 15, Zähigkeit: 15, Entschlossenheit: 18    |
+
+[Kapitel 8: Das Spiel leiten](./Kapitel-8_Das-Spiel-leiten.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | kein nächstes Kapitel

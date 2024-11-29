@@ -1,3 +1,5 @@
+kein letztes Kapitel | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 1: Charaktererstellung](./Kapitel-1_Charaktererstellung.md)
+
 # Einführung: Dies ist deine Geschichte. Erzähle sie.
 *Tief in den Eingeweiden eines lange verlassenen Sternenfrachters kauern zwei Schurken um eine massive Stasiskammer. Eine schattige Gestalt schwebt durch die milchige Flüssigkeit, kaum durch das dicke Glas ausmachbar. Einer der Entdecker, von Kopf bis Fuß mit cybernetischen Implantaten bedeckt, versucht, die am Fuß der Kammer versteckten und nur im ultraviolette Spektrum erfassbaren Symbole zu entziffern.*
 
@@ -91,3 +93,5 @@ Summiere alle Würfelergebnisse um das Gesamtergebnis deines Aktionswurfes zu be
 
 ## Größere Schätze warten auf dich
 Aktionswürfe und explodierende Würfel sind nur der Start dessen, was Open Legend ein mitreißendes Spiel macht. Lies weiter, um herauszufinden, wie du Charaktere aufbaust, die du schon immer mal spielen wolltest, sie für ihre Abenteuer ausrüstest, unerforschte Welten entdecken und epische Heldentaten vollbringen kannst.
+
+kein letztes Kapitel | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 1: Charaktererstellung](./Kapitel-1_Charaktererstellung.md)

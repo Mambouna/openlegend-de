@@ -1,3 +1,5 @@
+[Kapitel 1: Charaktererstellung](./Kapitel-1_Charaktererstellung.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 3: Harme und Wohle](./Kapitel-3_Harme-und-Wohle.md)
+
 # Kapitel 2: Aktionen & Attribute
 Die Einleitung und Kapitel 1 haben dir die Kernmechanik zum Abhandeln von Handlungen vermittelt und dir einen guten Überblick verschafft, wofür Attribute benutzt werden. Dieses Kapitel wird etwas tiefer in sie einsteigen und erklären, wann verschiedene Arten von Aktionswürfen gemacht werden sollten und wie man das Ergebnis interpretieren kann.
 ## Wann die Würfel werfen?
@@ -186,3 +188,5 @@ Der GM kann auch frei andere Regeln etablieren, nach denen Legendenpunkte verdie
 Ein Charakter kann maximal die Anzahl an Legendenpunkten entsprechend seinem eigenen Level plus 1 einsetzen, um einen einzigen Aktionswurf zu verstärken.
 
 Bevor er den Aktionswurf durchführt, gibt der Spieler an, wie viele Legendenpunkte er ausgibt und bekommt Vorteil 1 auf den Wurf pro eingesetztem Legendenpunkt. Zusätzlich wird auf das Ergebnis des Wurfes pro Legendenpunkt +1 aufgerechnet.
+
+[Kapitel 1: Charaktererstellung](./Kapitel-1_Charaktererstellung.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 3: Harme und Wohle](./Kapitel-3_Harme-und-Wohle.md)

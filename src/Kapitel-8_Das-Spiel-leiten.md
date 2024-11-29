@@ -1,3 +1,5 @@
+[Kapitel 7: Kampf](./Kapitel-7_Kampf.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 9: Spezialausrüstung](./Kapitel-9_Spezialausruestung.md)
+
 # Kapitel 8: Das Spiel leiten
 ## Der Ruf zum Gamemaster
 Liest du dieses Kapitel, hast du dich eventuell dazu entschieden, die wichtigste aller Rollen im Rollenspiel zu übernehmen: die des Gamemasters. Dieser Mantel ist nicht immer leicht zu tragen, aber deine Spielenden werden dir danken, denn eine gut geleitete Kampagne ist wahrscheinlich das schönste Gut im ganzen Hobby. Die Spielenden erschlagen Drachen, horden Reichtümer und prahlen mit ihren Taten - der GM aber kann sich aber immer gewiss sein, dass nichts davon ohne ihn möglich gewesen wäre. Der Kick einer gut laufenden Kapagne kann süchtig machen. Wir hoffen, du nimmst die Herausforderung an.
@@ -800,3 +802,5 @@ Entgegen der Warnung ihres Mentors, hat Bell einen Blick in das Buch der Verdamm
 **Erfolg mit einem Haken:** Bell schafft es, ihre Selbstkontrolle wiederzuerlangen und das Buch zu schließen. Ohne, dass sie es weiß, ist einer der Dämonen jedoch in ihr verblieben und wird sie heimsuchen, bis sie einen Exorzismus erhalten kann.
 
 **Fehlschlag, aber die Geschichte schreitet voran:** Bells Magie hat nicht die nötige Stärke, um die Mächte der Hölle zu bannen und sie fühlt sich bewegt, das ganze Buch stundenlang zu lesen. Als der mentale Angriff endlich abebbt, ist Bell für immer verändert. Sie hat die Charakterschwäche *Psychotisch* erhalten.
+
+[Kapitel 7: Kampf](./Kapitel-7_Kampf.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 9: Spezialausrüstung](./Kapitel-9_Spezialausruestung.md)

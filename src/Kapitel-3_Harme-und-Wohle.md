@@ -1,3 +1,5 @@
+[Kapitel 2: Aktionen und Attribute](./Kapitel-2_Aktionen-und-Attribute.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 4: Fertigkeiten](./Kapitel-4_Fertigkeiten.md)
+
 # Kapitel 3: Harme & Wohle
 Harme und Wohle sind ein großer Teil dessen, was Open Legend so offen macht. Sie repräsentieren die unendlichen Möglichkeiten, wie dein Charakter andere jenseits von einfachem Schaden beeinflussen kann. Harme sind negative Zustände, mit denen du Feinde belegst, zum Beispiel indem du sie betäubst, demoralisierst oder in Flammen setzt. Wohle sind das Gegenteil: hilfreiche Effekte die deine Verbündeten beispielsweise fliegen, Schaden widerstehen oder sich mit übermenschlicher Geschwindigkeit bewegen lassen.
 
@@ -48,3 +50,5 @@ Jede Beschreibung eines Wohls enthält die folgenden Elemente.
 **Beschreibung.** Dieser Eintrag gibt einfach eine grundlegende Idee davon, wie das Wohl im Kontext der Geschichte aussehen könnte.
 
 **Effekt.** Dieser Eintrag führt den spielmechanischen Einfluss des Wohls nach den Regeln auf.
+
+[Kapitel 2: Aktionen und Attribute](./Kapitel-2_Aktionen-und-Attribute.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 4: Fertigkeiten](./Kapitel-4_Fertigkeiten.md)

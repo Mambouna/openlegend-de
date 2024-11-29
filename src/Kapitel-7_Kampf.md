@@ -1,3 +1,5 @@
+[Kapitel 6: Wohlstand und Ausrüstung](./Kapitel-6_Wohlstand-und-Ausruestung.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 8: Das Spiel leiten](./Kapitel-8_Das-Spiel-leiten.md)
+
 # Kapitel 7: Kampf
 Manchmal fliegt ihr wegen eurem gutherzigen und viel zu ehrlichen Paladin auf.
 
@@ -418,3 +420,5 @@ Drustina wirkt einen Zauber, um den Boden mit Eis zu bedecken, um dem auf sie zu
 Sergeant O'Dell versucht, das Wohl *Heilen* zu wirken, um eine Schusswunde ihres Kameraden zu schließen. Leider hat sie die Verletzung falsch eingeschätzt und sucht nach einer Kugel, die sauber durch den Körper geflogen ist. Der Patient wird von den Schmerzen ohnmächtig, da O'Dell in seinem Fleisch nach einer nicht existierenden Kugel gegraben hat.
 
 Inspektor Bell will einen der Werwölfe, die ihre Gruppe angreifen, mit ihrem Silberschrot aus der Flinte niederstrecken. Furcht macht sich auf ihrem Gesicht breit, als das Silber den Schurken nicht weiter stört. Ihre Untersuchungen waren falsch, es handelt sich nicht um einfache Lycanthropen.
+
+[Kapitel 6: Wohlstand und Ausrüstung](./Kapitel-6_Wohlstand-und-Ausruestung.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 8: Das Spiel leiten](./Kapitel-8_Das-Spiel-leiten.md)
