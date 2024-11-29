@@ -25,7 +25,7 @@ Mit der Zustimmung des GM kannst du diese Fertigkeit mehr als einmal wählen. Fa
 
 > Tags: Keine Voraussetzungen
 
----
+___
 ### Gebietsmanipulation (I - V)
 **Kosten:** 1 Punkt
 
@@ -44,7 +44,7 @@ Für jeden Rang dieser Fertigkeit, den du besitzt, kannst du ein einziges 5' Rec
 
 > Tags: Keine Voraussetzungen, Außergewöhnlich
 
----
+___
 ### Rüstungsexpertise (I - II)
 **Kosten:** 3 Punkte
 
@@ -64,7 +64,7 @@ Dein Training lässt dich in deiner Rüstung schlafen, ohne dass du danach ein L
 
 > Tags: Keine Voraussetzungen
 
----
+___
 ### Angriff Umleiten
 **Kosten:** 3 Punkte
 
@@ -79,7 +79,7 @@ Wenn du eine Verteidigungsaktion ausführst und dein Wurf den Aktionswurf des An
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Angriffsspezialisierung (I - IX)
 **Kosten:** 3 Punkte
 
@@ -106,7 +106,7 @@ Zusätzlich dazu, dass du den Rang dieser Fertigkeit erhöhen kannst, kannst du 
 
 > Tags: Passiv, Waffe, Außergewöhnlich, Kampf
 
----
+___
 ### Attributsubstitution (I - II)
 **Kosten:** 2 Punkte
 
@@ -138,7 +138,7 @@ Die Verbindung zwischen zwei Attributen muss immer Fall für Fall entschieden we
 
 > Tags: Beliebiges Attribut
 
----
+___
 ### Harmfokus
 **Kosten:** 3 Punkte
 
@@ -156,7 +156,7 @@ Du kannst diese Fertigkeit mehrmals erlangen. Für jedes weitere Mal wählst du 
 
 > Tags: Kraft, Passiv, Kampf, Harm
 
----
+___
 ### Kampftrance
 **Kosten:** 3 Punkte
 
@@ -171,7 +171,7 @@ Als kostenlose Aktion in deinem Zug kannst du dich in Kampftrance versetzen. Wä
 
 > Tags: Kampf
 
----
+___
 ### Schlachtfeldopportunist (I - V)
 **Kosten:** 2 Punkte
 
@@ -190,7 +190,7 @@ Du kannst eine zusätzliche Gelegenheitsattacke pro Rang dieser Fertigkeit, die 
 
 > Tags: Kraft, Beweglichkeit, Passiv, Kampf, Fertigkeitenkette
 
----
+___
 ### Konterschlächter[?]
 **Kosten:** 3 Punkte
 
@@ -205,7 +205,7 @@ Wähle einen Harm, den du zufügen kannst. Wann immer du eine Verteidigungsaktio
 
 > Tags: Kraft, Passiv, Kampf, Fertigkeitenkette
 
----
+___
 ### Schlachtvergeltung
 **Kosten:** 2 Punkte
 
@@ -220,7 +220,7 @@ Wenn du eine Verteidigungsaktion nutzt, fügst du dem Angreifer Schaden gleich d
 
 > Tags: Kraft, Beweglichkeit, Außergewöhnlich, Passiv, Kampf
 
----
+___
 ### Wohlzugang[?]
 **Kosten:** 1 Punkt
 
@@ -241,7 +241,7 @@ Falls du zu einem späteren Zeitpunkt die Attributvoraussetzungen des gewählten
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Wohlfokus (I - III)
 **Kosten:** 3 Punkte
 
@@ -277,7 +277,7 @@ Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erwerben kannst, kann
 
 > Tags: Außergewöhnlich, Passiv, Wohl
 
----
+___
 ### Fallsicher (I - II)
 **Kosten:** 2 Punkte
 
@@ -296,7 +296,7 @@ Du bist so anmutig wie ein Schwan. Wie die Krieger und draufgängerische Helden 
 
 > Tags: Beweglichkeit
 
----
+___
 ### Brutale Einschüchterung
 **Kosten:** 1 Punkt
 
@@ -311,7 +311,7 @@ Falls du eine Demonstration körperlicher Macht durchführen kannst, kannst du f
 
 > Tags: Nicht-Kampf
 
----
+___
 ### Klettern
 **Kosten:** 1 Punkt
 
@@ -326,7 +326,7 @@ Du erhälst eine Klettern-Geschwindigkeit gleich deiner Grundgeschwindigkeit und
 
 > Tags: Nicht-Kampf
 
----
+___
 ### Kampf Follow-Up[?]
 **Kosten:** 2 Punkte
 
@@ -341,7 +341,7 @@ Wann immer du einen Feind mit einer Kraft- oder Beweglichkeitsattacke auf 0 TP b
 
 > Tags: Kampf
 
----
+___
 ### Kampfmomentum
 **Kosten:** 1 Punkt
 
@@ -359,7 +359,7 @@ Falls du Zugang zum Wohl <em>Teleportation</em> hast, kannst du es anstatt einer
 
 > Tags: Kampf
 
----
+___
 ### Gefährte (I - III)
 **Kosten:** 2 Punkte
 
@@ -385,7 +385,7 @@ Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erlangen kannst, kann
 
 > Tags: Nicht-Kampf
 
----
+___
 ### Normales Item Erschaffen (I - II)
 **Kosten:** 2 Punkte
 
@@ -419,7 +419,7 @@ Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit erwerben kannst, k
 
 > Tags: Nicht-Kampf
 
----
+___
 ### Außergewöhnliches Item Erschaffen (I - III)
 **Kosten:** 3 Punkte
 
@@ -452,7 +452,7 @@ Am Ende dieser Zeitspanne ist das Item erschaffen. Ein Item zu erschaffen zählt
 
 > Tags: Außergewöhnlich, Nicht-Kampf
 
----
+___
 ### Zermalmender Treffer[?]
 **Kosten:** 3 Punkte
 
@@ -467,7 +467,7 @@ Wann immer du einem Feind Schaden zufügst, kannst du sie nicht nur durch die Fe
 
 > Tags: Körperlich, Kampf, Fertigkeitenkette, Kraft
 
----
+___
 ### Todesstreich (I - II)
 **Kosten:** 3 Punkte
 
@@ -486,7 +486,7 @@ Du kannst effizient Feinde töten, die dem Ende nahe sind und ihre Todesschreie 
 
 > Tags: Kampf, Körperlich
 
----
+___
 ### Todlose Trance[?]
 **Kosten:** 3 Punkte
 
@@ -501,7 +501,7 @@ Während du in einer Kampftrance bist, kannst du nicht bewusstlos geschlagen wer
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Verteidigungsexpertise
 **Kosten:** 3 Punkte
 
@@ -516,7 +516,7 @@ Wenn du eine Waffe oder andere Ausrüstung mit der Eigenschaft <em>Defensiv</em>
 
 > Tags: Kampf
 
----
+___
 ### Defensive Reflexe (I - IX)
 **Kosten:** 2 Punkte
 
@@ -539,7 +539,7 @@ Wann immer du eine Verteidigungsaktion einsetzt, erhältst du Vorteil 1 auf den 
 
 > Tags: Beweglichkeit, Außergewöhnlich
 
----
+___
 ### Zerstörerische Trance
 **Kosten:** 3 Punkte
 
@@ -554,7 +554,7 @@ Wenn du einen Angriffswurf in Kampftrance machst, explodieren alle Würfel mit i
 
 > Tags: Außergewöhnlich, Kraft
 
----
+___
 ### Stirb Langsam[?]
 **Kosten:** 2 Punkte
 
@@ -569,7 +569,7 @@ Einmal pro Tag reduziert ein Angriff, der deine TP eigentlich auf unter 1 TP fal
 
 > Tags: Sozial, Kampf
 
----
+___
 ### Energieresistenz (I - IV)
 **Kosten:** 2 Punkte
 
@@ -596,7 +596,7 @@ Zusätzlich dazu, dass mehrere Ränge dieser Fertigkeit erworben werden können,
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Flinke Beinarbeit
 **Kosten:** 2 Punkte
 
@@ -611,7 +611,7 @@ Wenn du dich von einem an einem Feind anliegenden Platz zu einem nicht an einem 
 
 > Tags: Beweglichkeit
 
----
+___
 ### Außergewöhnliche Verteidigung (I - III)
 **Kosten:** 3 Punkte
 
@@ -628,7 +628,7 @@ Du erhälst einen +1 Bonus auf alle Verteidigungen pro Rang in dieser Fertigkeit
 
 > Tags: Außergewöhnlich, Verteidigung
 
----
+___
 ### Außergewöhnlicher Fokus
 **Kosten:** 3 Punkte
 
@@ -647,7 +647,7 @@ Du kannst diese Fertigkeit mehrmals erhalten. Falls du dich dazu entscheidest, w
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Außergewöhnliche Heilung
 **Kosten:** 3 Punkte
 
@@ -662,7 +662,7 @@ Wenn du das Wohl <em>Heilung</em> wirkst, kannst du dich entscheiden, eine Stund
 
 > Tags: Außergewöhnlich, Schöpfung
 
----
+___
 ### Blitzfinger[?] / Schneller als dein Schatten[?]
 **Kosten:** 1 Punkt
 
@@ -677,7 +677,7 @@ Einmal pro Runde kannst du eine zusätzliche Waffe als kostenlose Aktion ziehen 
 
 > Tags: Kampf, Beweglichkeit
 
----
+___
 ### Spurenhund[?]
 **Kosten:** 2 Punkte
 
@@ -692,7 +692,7 @@ Du bewegst dich unbehindert und mit voller Geschwindigkeit, wenn du ein Ziel ver
 
 > Tags: Außergewöhnlich, Beweglichkeit, Wahrnehmung
 
----
+___
 ### Wilde Handlanger (I - III)
 **Kosten:** 2 Punkte
 
@@ -709,7 +709,7 @@ Kreaturen unter dem Effekt der Harme <em>Bezaubert</em> oder <em>Dominiert</em> 
 
 > Tags: Außergewöhnlich, Einfluss
 
----
+___
 ### Flinkfuß (I - III)
 **Kosten:** 2 Punkte
 
@@ -726,7 +726,7 @@ Deine Geschwindigkeit ist pro Rang dieser Fertigkeit permanent um 5' erhöht.
 
 > Tags: Außergewöhnlich, Beweglichkeit, Bewegung, Konstitution
 
----
+___
 ### Fliegen
 **Kosten:** 3 Punkte
 
@@ -741,7 +741,7 @@ Du erhälst eine Fluggeschwindigkeit gleich deiner normalen Geschwindigkeit. Nac
 
 > Tags: Nicht-Kampf
 
----
+___
 ### Großer Sprung (I - III)
 **Kosten:** 1 Punkt
 
@@ -758,7 +758,7 @@ Du kannst deinen Bewegungs- oder Beweglichkeitswert anstatt deinem Kraft nutzen,
 
 > Tags: Außergewöhnlich, Körperlich, Kampf, Nicht-Kampf, Bewegung, Beweglichkeit
 
----
+___
 ### Halluzination (I - II)
 **Kosten:** 3 Punkte
 
@@ -782,7 +782,7 @@ Du bist in der Lage, deine Illusionen nicht nur zum Erzeugen von Phantomen zu be
 
 > Tags: Außergewöhnlich, Nicht-Kampf, Einfluss
 
----
+___
 ### Verstärkte Wirkung[?] (I - III)
 **Kosten:** 2 Punkte
 
@@ -839,7 +839,7 @@ Permanente Harme und Wohle mit dieser Fertigkeit zu gewähren kann einen dramati
 
 > Tags: Außergewöhnlich, Nicht-Kampf
 
----
+___
 ### Medikus
 **Kosten:** 2 Punkte
 
@@ -854,7 +854,7 @@ Du kannst eine große Aktion benutzen, um einem Verbündeten sofort einen Widers
 
 > Tags: Nicht-Kampf, Außergewöhnlich, Sozial, Schöpfung, Präsenz, Schutz
 
----
+___
 ### Unabdingbare Trance[?]
 **Kosten:** 3 Punkte
 
@@ -869,7 +869,7 @@ Während du in einer Kampftrance liegst, bist du immun gegen Harme, die auf dein
 
 > Tags: Kampf
 
----
+___
 ### Endlose Ausdauer (I - V)
 **Kosten:** 2 Punkte
 
@@ -888,7 +888,7 @@ Du kannst die Auswirkungen des Harms <em>Erschöpft</em> abschütteln. Für jede
 
 > Tags: Körperlich
 
----
+___
 ### Stählerner Wille (I - III)
 **Kosten:** 1 Punkt
 
@@ -905,7 +905,7 @@ Für jeden Rang in dieser Fertigkeit ist deine Entschlossenheit um eins erhöht.
 
 > Tags: Kampf, Präsenz, Willenskraft
 
----
+___
 ### Inspirierender Paragon[?] / Paragon[?] (I - III)
 **Kosten:** 2 Punkte
 
@@ -927,7 +927,7 @@ Einmal pro Runde, wenn dein Angriffswurf für einen Angriff mit Schaden die Vert
 
 > Tags: Sozial, Kampf, Präsenz
 
----
+___
 ### Wissen (I - III)
 **Kosten:** 2 Punkte
 
@@ -969,7 +969,7 @@ Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit haben kannst, kann
 
 > Tags: Keine Voraussetzungen, Außergewöhnlich
 
----
+___
 ### Tödlicher Streich[?] (I - IX)
 **Kosten:** 3 Punkte
 
@@ -1008,7 +1008,7 @@ Du hast Vorteil auf Tödliche Streiche mit Vorteil-Level gleich deines Ranges in
 
 > Tags: Außergewöhnlich, Beweglichkeit, Kampf
 
----
+___
 ### Blitzreflexe (I - V)
 **Kosten:** 1 Punkt
 
@@ -1027,7 +1027,7 @@ Für jeden Rang dieser Fertigkeit hast du Vorteil 1 auf alle Initiativewürfe.
 
 > Tags: Körperlich, Außergewöhnlich, Beweglichkeit, Vorwissen
 
----
+___
 ### Zielwasser[?] / Weitschuss
 **Kosten:** 1 Punkt
 
@@ -1046,7 +1046,7 @@ Du kannst diese Fertigkeit mehrmals erhalten, wobei du jedes Mal neue Waffen ode
 
 > Tags: Kampf
 
----
+___
 ### Stummschlag
 **Kosten:** 3 Punkte
 
@@ -1061,7 +1061,7 @@ Wann immer du mit einer Waffe mit der Eigenschaft <em>Defensiv</em> einem Ziel S
 
 > Tags: Beweglichkeit, Körperlich
 
----
+___
 ### Kampffokus
 **Kosten:** 3 Punkte
 
@@ -1076,7 +1076,7 @@ Wähle eine einzige Waffe (oder wähle unbewaffneten Kampf) und gib an, auf welc
 
 > Tags: Kampf, Körperlich
 
----
+___
 ### Meisterverfolger[?] / Meisterjäger
 **Kosten:** 1 Punkt
 
@@ -1091,7 +1091,7 @@ Solange du nicht geblendet oder durch außergewöhnliche Mächte verwirrt bist, 
 
 > Tags: Nicht-Kampf, Geistig, Wahrnehmung
 
----
+___
 ### Mimikri[?]
 **Kosten:** 2 Punkte
 
@@ -1106,7 +1106,7 @@ Wenn du das Wohl <em>Gestaltwandel</em> benutzt, kannst du die Form einer spezif
 
 > Tags: Außergewöhnlich, Fertigkeitenkette, Wandlung
 
----
+___
 ### Multi-Angriffsspezialisierung (I - VI)
 **Kosten:** 3 Punkte
 
@@ -1129,7 +1129,7 @@ Die maximale Anzahl an zusätzlichen Angriffen pro Runde ist 1 + die Hälte dein
 
 > Tags: Beliebiges Attribut
 
----
+___
 ### Multi-Harmspezialisierung
 **Kosten:** 3 Punkte
 
@@ -1148,7 +1148,7 @@ Du kannst diese Fertigkeit mehr als einmal erwerben, wobei du jedes Mal ein neue
 
 > Tags: Harm, Kampf
 
----
+___
 ### Multi-Zielen Angriffsspezialisierung (I - V)
 **Kosten:** 2 Punkte
 
@@ -1170,7 +1170,7 @@ Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit erwerben kannst, k
 
 > Tags: Beliebiges Attribut
 
----
+___
 ### Multi-Zielen Wohlexperte
 **Kosten:** 3 Punkte
 
@@ -1185,7 +1185,7 @@ Wenn du ein Wohl mit Multi-Zielen wirkst, für den du die Fertigkeit Wohlfokus h
 
 > Tags: Nicht-Kampf, Beliebiges Attribut
 
----
+___
 ### Multi-Zielen Wohlspezialisierung (I - IX)
 **Kosten:** 2 Punkte
 
@@ -1208,7 +1208,7 @@ Für jeden Rang dieser Fertigkeit reduzierst du den mit Multi-Zielen von Wohlen 
 
 > Tags: Nicht-Kampf, Außergewöhnlich
 
----
+___
 ### Natürliche Verteidigung (I - III)
 **Kosten:** 2 Punkte
 
@@ -1230,7 +1230,7 @@ Wenn du keine Rüstung trägst, erhälst du einen Bonus auf Deckung und Zähigke
 
 > Tags: Kampf, Körperlich, Verteidigung, Konstitution
 
----
+___
 ### Überwältigender Schlag
 **Kosten:** 2 Punkte
 
@@ -1245,7 +1245,7 @@ Jedes Mal, wenn du mit einer Waffe mit der Eigenschaft <em>Kraftvoll</em> Schade
 
 > Tags: Körperlich, Fertigkeitenkette, Kraft
 
----
+___
 ### Hartnäckiger Harm
 **Kosten:** 3 Punkte
 
@@ -1263,7 +1263,7 @@ Du kannst diese Fertigkeit mehrmals wählen, wobei du jedes Mal einen anderen Ha
 
 > Tags: Harm, Kampf
 
----
+___
 ### Reaktive Trance[?] / Aufmerksame Trance
 **Kosten:** 2 Punkte
 
@@ -1278,7 +1278,7 @@ Du kannst als kostenlose Aktion in Kampftrance verfallen (anhand der Fertigkeit 
 
 > Tags: Kampf, Geistig, Fertigkeitenkette, Willenskraft
 
----
+___
 ### Rücksichtsloser Angriff
 **Kosten:** 3 Punkte
 
@@ -1293,7 +1293,7 @@ Während du in einer Kampftrance bist, kannst du dich entscheiden, dir selbst in
 
 > Tags: Kampf
 
----
+___
 ### Resilient
 **Kosten:** 3 Punkte
 
@@ -1308,7 +1308,7 @@ Du hast Vorteil 1 auf alle Widerstehenwürfe.
 
 > Tags: Geistig, Körperlich, Sozial
 
----
+___
 ### Wächter (I - III)
 **Kosten:** 3 Punkte
 
@@ -1325,7 +1325,7 @@ Einmal pro Runde, nachdem du deine große Aktion der nächsten Runde für eine V
 
 > Tags: Verteidigung, Körperlich, Außergewöhnlich
 
----
+___
 ### Fähigkeitsspezialisierung (I - V)
 **Kosten:** 2 Punkte
 
@@ -1347,7 +1347,7 @@ Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit haben kannst, kann
 
 > Tags: Keine Voraussetzungen
 
----
+___
 ### Erhöhte Konzentration (I - III)
 **Kosten:** 3 Punkte
 
@@ -1364,7 +1364,7 @@ Wenn du die kleine Aktion <em>Wohl aufrechterhalten</em> benutzt, kannst du pro 
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Schwimmen
 **Kosten:** 1 Punkt
 
@@ -1379,7 +1379,7 @@ Du erhälst eine Schwimmgeschwindigkeit gleich deiner normalen Geschwindigkeit u
 
 > Tags: Nicht-Kampf
 
----
+___
 ### Erzfeind (I - IX)
 **Kosten:** 1 Punkt
 
@@ -1405,7 +1405,7 @@ Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erwerben kannst, kann
 
 > Tags: Nicht-Kampf, Kampf
 
----
+___
 ### Hart wie Eisen[?] (I - II)
 **Kosten:** 2 Punkte
 
@@ -1421,7 +1421,7 @@ Du erhälst pro Rang dieser Fertigkeit permanent 5 extra TP.
 
 > Tags: Verteidigung, Körperlich, Konstitution
 
----
+___
 ### Zweiwaffen Kämpfer[?]
 **Kosten:** 3 Punkte
 
@@ -1436,7 +1436,7 @@ Du kannst Waffen mit der Eigenschaft <em>zweihändig</em> in einer Hand führen 
 
 > Tags: Kampf, Körperlich, Beweglichkeit, Kraft
 
----
+___
 ### Zweiwaffenverteidigung
 **Kosten:** 2 Punkte
 
@@ -1451,7 +1451,7 @@ Wenn du eine Waffe, für die du die Fertigkeit <em>Angriffsspezialisierung</em> 
 
 > Tags: Kampf, Körperlich, Beweglichkeit
 
----
+___
 ### Unsterbliche Bezauberung[?]
 **Kosten:** 3 Punkte
 
@@ -1466,7 +1466,7 @@ Wenn du den Harm <em>Bezaubert</em> wirkst, erleiden Ziele, die ihren Widerstehe
 
 > Tags: Außergewöhnlich, Nicht-Kampf, Einfluss
 
----
+___
 ### Spurenlos
 **Kosten:** 1 Punkt
 
@@ -1481,7 +1481,7 @@ Deine Spur und jegliche Hinweise auf deine Durchreise werden durch besondere Mit
 
 > Tags: Nicht-Kampf, Schutz, Wandlung, Einfluss
 
----
+___
 ### Brutaler Schlag
 **Kosten:** 2 Punkte
 
@@ -1496,7 +1496,7 @@ Wann immer du eine natürlich 20 auf einem d20 für einen Angriffswurf wirfst, e
 
 > Tags: Kampf
 
----
+___
 ### Wohlhabend
 **Kosten:** 3 Punkte
 
@@ -1511,7 +1511,7 @@ Dein Wohlstandswert ist um 1 erhöht.
 
 > Tags: Nicht-Kampf
 
----
+___
 ### Ausgewogen / Rundumtalent [?]
 **Kosten:** 2 Punkte
 
@@ -1526,4 +1526,4 @@ Wann immer du ein Attribut mit Wert 2 oder weniger für einen Aktionswurf außer
 
 > Tags: Nicht-Kampf
 
----
+___

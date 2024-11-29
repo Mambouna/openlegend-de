@@ -188,9 +188,9 @@ Einen Harmangriff abzuhandeln funktioniert ähnlich, wie einen Angriff mit Schad
 
 > ##### Beispielhafte Harmattacken
 > Takeo ist schwer verwundet und braucht eine Chance, dem Samurai zu entfliehen, der ihn gnadenlos bedrängt. Mit einem clever platzierten Schlangenschlag versucht der Mönch, den gepanzerten Ritter zu blenden. Takeo wirkt den Harm über eine Nahkampfattacke, die auf einen einzelnen Feind zielt, sodass er einen Attributwurf auf Beweglichkeit 5 gegen die Deckung des Samurais von 18 wirft. Der Mönch rollt 1d20 + 2d6 und erhält als Ergebnis 20, sodass der Gegner nun unter *geblendet* leidet.
-> ***
+> ___
 > Von einer schnell wachsenden Horde Zombies umzingelt, lädt Selene ihre abgesägte Schrotflinte nach und bereitet sich vor, sich ihren Weg freizuschießen und um ihr Leben zu rennen. Ihre Waffe gibt ihr in dieser Situation drei Vorzüge: die Option, eine 10' Kegel-Attacke ohne Nachteil zu nutzen, Vorteil 1 auf den Harm *Erzwungene Bewegung* und die Möglichkeit, *Erzwungene Bewegung* auf einem Kraftlevel um eins höher als ihren Attributwert zu nutzen. Da sie die Zombies nur aus dem Weg schaffen will, greift sie 3 von ihnen (die Anzahl Ziele mit einem 10' Kegel) mit der Harmattacke *Erzwungene Bewegung* an. Selenes Beweglichkeit hat den Wert 5, sodass sie normalerweise 1d20 + 2d6 werfen würde, aber aufgrund ihrer Schrotflinte hat sie Vorteil 1 auf den Wurf. Sie nutzt also 1d20 + 3d6 (den niedrigsten Würfel entfernend) und erhält ein Ergebnis von 23, womit sie mit Leichtigkeit die Deckung der Zombies von 15 übertrifft. Da die Schrotflinte sie den Harm außerdem auf einem Kraftlevel eins höher wirken lässt, als ihr Attribut normalerweise zulassen würde, kann sie den Harm *Erzwungene Bewegung* auf Kraftlevel 6 anwenden (eins über ihrem Beweglichkeitswert 5). Selene fegt die Zombies vor sich 15' von sich und fängt an, um ihr Leben zu laufen.
-> ***
+> ___
 > Zarthakis, der große Wyrm, wird von 4 Abenteurern umringt. Er entfaltet seine mächtigen Schwingen und gibt ein schreckliches Brüllen von sich, mit dem er den Harm *Demoralisiert* mit seinem Präsenz-Attribut zufügen will. Die Präsenz des Drachen ist 8, sodass er eine Reichweite von 75' hat, was ohne Probleme für alle Abenteurer reicht. Weil Zarthakis 4 Gegner durch Multi-Zielen angreift, erhält er Nachteil 4 auf seinen Wurf. Normalerweise würde er 1d20 + 3d8 werfen, aber aufgrund des Nachteils wirft er 1d20 + 7d8 (wobei die vier höchsten Würfel verfallen). Sein Endwert ist 22, was er jeweils mit der Entschlossenheit-Verteidigung der Helden vergleicht. Die Charaktere haben Entschlossenheit von 14, 17, 22 und 25. Der Drache fügt drei der vier Abenteurer *Demoralisiert* zu.
 #### Ein Wohl wirken
 Du kannst ein Wohl wirken, um dir oder Verbündeten zu helfen. Um ein Wohl zu wirken, musst du ein passendes Attribut mit mindestens einem Wert gleich dem Kraftlevel des Wohls besitzen, so wie in der [Beschreibung des Wohls](./lists/wohle.md) angegeben. Befolge diese Schritte, um das Wohl anzuwenden:
@@ -211,7 +211,7 @@ Du kannst ein Wohl wirken, um dir oder Verbündeten zu helfen. Um ein Wohl zu wi
 
 > #### Beispielhafte Wohlwirkung
 > Jade versucht, ihren Realitätswarper zu nutzen, um sich und ihren Verbündeten *unsichtbar* zu machen. Das Wandlung-Attribut von Jade ist 6, aber sie hat Nachteil 2, weil sich zwei Ziele hat. Sie wirft 1d20 + 4d8 (wobei sie die zwei höchsten Würfel verwirft) und bekommt eine 20. *Unsichtbar* hat Kraftlevel 6, sodass Jade den Herausforderungswert von 22 verfehlt hat. Das Wohl hat keinen Effekt.
-> ***
+> ___
 > Stitch ist dabei, die Wunde eines Verbündeten zu verpflegen und möchte das *Heilen*-Wohl nutzen. Sein Lernen-Attribut hat den Wert 5, also wirft er 1d20 + 2d6 mit einem Ergebnis von 24. Anhand der *Wohl Herausforderungswert*-Tabelle kann er das Wohl so mit Kraftlevel 7 wirken. Weil sein Lernen-Attribut aber nur 5 hat, kann auch das Wohl maximal auf diesem Level gewirkt werden. Er heilt seinem Kamerad anhand der Beschreibung des Wohls um 2d6 Trefferpunkte.
 #### Einem Verbündeten helfen
 Du kannst eine große Aktion nutzen, um einem Verbündeten mit einem Aktionswurf zu helfen, falls er ein Attribut benutzt, in dem du einen Wert von 1 oder höher hast. Der Verbündete erhält automatisch Vorteil 1 auf den Wurf.
@@ -257,16 +257,16 @@ Nur willentliche Bewegung eines Kämpfenden kann eine Gelgenheitsattacke auslös
 
 > ##### Beispiel für Gelegenheitsattacken
 > Tommy hat keine Wahl, als vor den drei Orks zu fliehen, die sich ihm nähern. Er bewegt sich so weit er kann von ihnen weg. Da er aber aus einem Feld anliegend an den Orks auf ein Feld nicht neben den Orks getreten ist, können alle drei Orks eine Gelegenheitsattacke nutzen.
-> ***
+> ___
 > Vera steht dräuhend über den zwei Schnupflingen, die in Panik fliehen, als sie in ihre Berserkerwut verfällt. Beide Schupflinge lösen eine Gelegenheitsattacke aus. Da Vera aber nur einen solchen Angriff pro Runde benutzen kann, kann sie nur einen der beiden attackieren.
-> ***
+> ___
 > Sergeant Rage führt eine Schrotflinte. Ein Rattenmann flizt zu ihm hinüber, greift mit einem Dolch an und schnellt wieder fort. Weil Sarge keine Nahkampfwaffe gezogen hat, kann er keine Gelegenheitsattacke gegen den Rattenmann ausführen.
 #### Ein Wohl aufrechterhalten
 Viele Wohle haben eine grundlegende Dauer von *Aufrechterhalten verlängert*, was bedeutet, dass sie jedes Mal eine weitere Runde länger anhalten, wenn ein Charakter die kleine Aktion *ein Wohl aufrechterhalten* benutzt. Falls du ein Wohl aktiv hast und diesen nicht aufrechterhälst, endet das Wohl, sobald dein Zug zu Ende ist. Weil das Aufrechterhalten eines Wohles eine kleine Aktion ist, kannst du normalerweise nur ein Wohl pro Runde aufrechterhalten und kannst dies gar nicht tun, falls du eine Fokusaktion benutzt. Solange du keine anderen Wohle aktiv hast, musst du in der Runde, in der du ein Wohl wirkst, diesen nicht aufrechterhalten. Jedes Mal, wenn du ein Wohl aufrechterhälst, bleibt er für alle Ziele aktiv, die beim ersten Wirken betroffen waren. Bei einem Wohl mit Multi-Zielen hält der Effekt des Wohls also bei allen ursprünglichen Zielen an.
 
 > ##### Beispiel für das Aufrechterhalten eines Wohles
 > Ruby wirkt das *Fliegen*-Wohl und erhebt sich in die Luft. In ihrem nächsten Zug will sie *Fliegen* aktiv halten, also benutzt sie eine kleine Aktion dazu. Ein Gegner trifft sie danach mit dem Harm *Betäubt*, sodass sie im nächsten Zug nur noch eine große, kleine oder Bewegungsaktion ausführen kann. Sie benutzt eine einzige Bewegungsaktion, um zu einem sicheren Landepunkt zu kommen. Weil sie *Betäubt* ist, hat sie danach keine kleine Aktion zur Verfügung, um das Wohl aufrechtzuerhalten, sodass es mit dem Ende ihres Zuges vergeht.
-> ***
+> ___
 > Doktor van Strankenkloff hat das Wohl *Dunkelheit* mit seinem patentierten Lichtschlucker Mark IV benutzt. In seinem nächsten Zug aktiviert er im Schutz der Schatten seinen persönlichen Transmog-Gürtel, um das Wohl *Gestaltwandel* zu aktivieren und sich in eine Maus zu verwandeln. Weil beide Wohle eine Dauer von *Aufrechterhalten verlängert* haben und der Doktor nur ein Wohl auf einmal aktiv halten kann, wählt er dafür *Gestaltwandel*. Am Ende seines Zuges ist die *Dunkelheit* aufgelöst und *Gestaltwandel* hält an.
 ### Fokusaktionen
 Eine Fokusaktion zu nutzen bedarf all einer Konzentration und Aufmerksamkeit in einer Runde. Wenn du dich entscheidest, all deine anderen Aktionen aufzugeben, kannst du eine Fokusaktion ausführen. Wähle einer der beiden möglichen Fokusaktionen:
@@ -291,7 +291,7 @@ Einmal pro Runde kannst du dich als Teil deiner Verteidigen-Aktion bis zur Hälf
 
 > #### Beispiel für Verteidigen
 > Vera ist dem Tod nahe, als der Flusstroll auf sie zuspringt. Der Troll wirft eine 23 gegen Veras Deckung von 17, also benutzt sie eine Verteidigungsaktion, um den Arm des Trolls aufzuhalten, bevor er sie zerfleischt. Vera wirft auf Kraft und erhält 20, sodass ihr Wurf ihren Verteidigungswert ersetzt. Sie erleidet 3 Schaden, anstatt von 6. Weil Verteidigen eine Unterbrechungsaktion ist, kann Vera in ihrem nächsten normalen Zug keine große Aktion nutzen.
-> ***
+> ___
 > Eine Granate landet zwischen Zak und Tomlinson. Der Angriff mit der Granate hat als Wurfergebnis 25 gegen die Deckung der beiden von 12 und 18, sodass sie 13 und 7 Schaden zufügen könnte. Tomlinson benutzt eine Verteidigungsaktion um sich um die Hälfte seiner Geschwindigkeit zu bewegen (15 Fuß) und nimmt Zak dabei mit. Daraufhin führt er einen Beweglichkeitswurf aus, um seinen Verbündeten zu schützen. Tomlinson führt einen Riot-Schild, sodass er auf den Wurf Vorteil 2 hat und bekommt am Ende 26 als Ergebnis. Zak nimmt keinen Schaden. Weil die Verteidigungsaktion aber nur eine Person schützen kann, nimmt Tomlinson trotzdem 7 Schaden. Aufgrund der Unterbrechungsaktion wird Tomlinson in seinem nächsten Zug keine große Aktion haben.
 #### Improvisieren
 Du kannst eine Unterbrechungsaktion auch benutzen, um eine improvisierte Reaktion auf eine Situation im Kampf zu machen. Falls eine Verbündete zum Beispiel von einer Klippe fällt, kannst du eine Unterbrechungsaktion nutzen, um das Wohl *Fliegen* zu wirken um sie zu retten oder ihr hinterherzuspringen und gerade noch ihre Hand zu greifen. Improvisierte Unterbrechungsaktionen sollten normalerweise nicht-offensive Handlungen sein, die Verbündeten helfen. Sie sollten die Geschichte unterstützen, sodass ein GM entscheiden kann, eine Improvisation, die nicht zur Handlung passt, nicht zuzulassen.

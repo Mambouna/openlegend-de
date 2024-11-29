@@ -15,7 +15,7 @@ Das Objekt verbleibt vollständig vor der Wahrnehmung anderer verborgen in deine
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Animieren
 **Dauer:** Permanent
 
@@ -39,7 +39,7 @@ Der GM, nicht der Spieler, ist dafür verantwortlich, die Attribute und Fähigke
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Aura
 **Dauer:** Aufrechterhalten verlängert
 
@@ -70,7 +70,7 @@ Dieses Wohl kann besondere Aufmerksamkeit und Abhandlung durch den GM erfordern,
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Barriere
 **Dauer:** Aufrechterhalten verlängert
 
@@ -100,7 +100,7 @@ Wenn du dieses Wohl wirkst, musst du Multi-Zielen benutzen, um ein spezifisches 
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Blindsicht
 **Dauer:** Aufrechterhalten verlängert
 
@@ -118,7 +118,7 @@ Das Ziel ist immun gegen den *geblendet*-Harm und kann auch in Bedingungen mit w
 
 > Tags: Außergewöhnlich, Körperlich
 
----
+___
 ### Verstärken
 **Dauer:** Aufrechterhalten verlängert
 
@@ -141,7 +141,7 @@ Wähle ein einziges Attribut. Dein Ziel erhält Vorteil auf Aktionswürfe mit di
 
 > Tags: Außergewöhnlich, Körperlich
 
----
+___
 ### Verborgenheit
 **Dauer:** Aufrechterhalten verlängert
 
@@ -173,7 +173,7 @@ Du kannst nicht Ziel von Gelegenheitsangriffen werden, außer der Gegner ist sic
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Dunkelheit
 **Dauer:** Aufrechterhalten verlängert
 
@@ -191,7 +191,7 @@ Wähle einen Raum oder ein Objekt in deiner Reichweite. Dunkelheit quillt aus de
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Detektion
 **Dauer:** Aufrechterhalten verlängert
 
@@ -219,7 +219,7 @@ Anders als bei anderen Wohlen, kann dieses Wohl nicht andere Charaktere als Ziel
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Flug
 **Dauer:** Aufrechterhalten verlängert
 
@@ -242,7 +242,7 @@ Falls das Wohl annulliert wird, während das Ziel noch fliegt, beginnt es sofort
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Genesis
 **Dauer:** Augenblicklich
 
@@ -266,7 +266,7 @@ Du erschaffst etwas aus nichts. Je nach der Kraft deiner Wirkung, kannst du eine
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Hast
 **Dauer:** Aufrechterhalten verlängert
 
@@ -289,7 +289,7 @@ Das Ziel bewegt sich mit außergewöhnlicher Geschwindigkeit, weicht Angriffen m
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Heilung
 **Dauer:** Augenblicklich
 
@@ -321,7 +321,7 @@ Dieses Wohl heilt keinen tödlichen Schaden.
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Substanzlos
 **Dauer:** Aufrechterhalten verlängert
 
@@ -340,7 +340,7 @@ Falls die Konzentration des Ziel unterbrochen wird oder das Wohl endet, während
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Unsichtbar
 **Dauer:** Aufrechterhalten verlängert
 
@@ -363,7 +363,7 @@ Licht scheint durch das Ziel hindurch, sodass es transparent wird. Seine physisc
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Lebensraub
 **Dauer:** Aufrechterhalten verlängert
 
@@ -381,7 +381,7 @@ Während dieses Wohl anhält, heilt das Ziel sich selbst um die Hälfte (aufgeru
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Licht
 **Dauer:** Aufrechterhalten verlängert
 
@@ -399,7 +399,7 @@ Wähle einen Raum oder ein Objekt innerhalb deiner Reichweite. Außergewöhnlich
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Voraussicht
 **Dauer:** 1 Runde
 
@@ -422,7 +422,7 @@ Du blickst in die Zukunft und erhälst so Wissen über den Verlauf einer Handlun
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Lesung
 **Dauer:** Aufrechterhalten verlängert
 
@@ -447,7 +447,7 @@ Wenn du dieses Wohl erfolgreich wirkst, erhälst du Informationen von einem Obje
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Regeneration
 **Dauer:** Aufrechterhalten verlängert
 
@@ -475,7 +475,7 @@ Dieses Wohl heilt keinen tödlichen Schaden.
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Resistenz
 **Dauer:** Aufrechterhalten verlängert
 
@@ -499,7 +499,7 @@ Wenn das Wohl gewirkt wird, wählt der wirkende Charakter eine Art von Angriff u
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Wiederherstellung
 **Dauer:** Augenblicklich
 
@@ -531,7 +531,7 @@ Du kannst auch Harme über dem Kraftlevel dieses Wohls auflösen. Dafür muss da
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Treusicht[?]
 **Dauer:** Aufrechterhalten verlängert
 
@@ -557,7 +557,7 @@ Falls dein Aktionswurf fehlschlägt, kannst du mit diesem Wohl für 1 Stunde nic
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Gestaltwandel
 **Dauer:** Aufrechterhalten verlängert
 
@@ -591,7 +591,7 @@ Sich in eine bestimmte Kreatur zu verwandeln (wobei man sich als diese ausgeben 
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Kreatur beschwören
 **Dauer:** Aufrechterhalten verlängert
 
@@ -615,7 +615,7 @@ Multi-Zielen funktioniert für dieses Wohl nicht wie bei anderen Wohlen. Du kann
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Versorgung
 **Dauer:** 24 Stunden
 
@@ -643,7 +643,7 @@ Du kannst nur eine Instanz dieses Wohls auf einmal aktiv haben. Sobald du das Wo
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Telekinese
 **Dauer:** Aufrechterhalten verlängert
 
@@ -667,7 +667,7 @@ Sobald du das Wohl wirkst und darauf in jeder folgenden Runde, wenn du das Wohl 
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Telepathie
 **Dauer:** Aufrechterhalten verlängert
 
@@ -691,7 +691,7 @@ Du und dein Ziel können miteinander durch einfaches Denken kommunizieren. Telep
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Teleportation
 **Dauer:** Augenblicklich
 
@@ -714,7 +714,7 @@ Du kannst dich selbst oder einen Verbündeten augenblicklich von einem Ort zu ei
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Zungen
 **Dauer:** Aufrechterhalten verlängert
 
@@ -735,7 +735,7 @@ Du oder ein Verbündeter erhalten temporär die Fähigkeit, Sprachen zu sprechen
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Transmutation
 **Dauer:** Aufrechterhalten verlängert
 
@@ -760,7 +760,7 @@ Das Kraftlevel bestimmt die Art von Materie, die du transmutieren kannst sowie d
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Klarsicht
 **Dauer:** Aufrechterhalten verlängert
 
@@ -784,4 +784,4 @@ Du gibst dem Ziel die Fähigkeit, das zu entdecken, was nicht durch normale Sinn
 
 > Tags: Außergewöhnlich
 
----
+___

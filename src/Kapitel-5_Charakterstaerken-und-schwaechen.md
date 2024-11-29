@@ -28,9 +28,9 @@ Das Hindernis durch eine aktivierte Charakterschwäche sollte mehr sein, als das
 
 > ### Beispiele für das Aktivieren einer Charakterschwäche
 > Oxnar der Barbar war noch nie für seinen Geist bekannt. Er glaubte der Fee sofort, dass der goldene Pilz ihn so stark wie hundert Rösser machen würde, weshalb er ihn mit viel Genuss verspeiste. Eine Minute später lag er sabbernd in einer Pfütze seines eigenen Speichels, während der Kobold mit seiner Börse floh. Der GM belohnt Oxnar mit einem Legendenpunkt für das eindrucksvolle Rollenspiel der Schwäche *Unterbelichtet* zu seinem eigenen Nachteil.
-> ***
+> ___
 > Normalerweise hindert Celestes Blindheit sie nicht daran, eine der besten Schützinnen der Badlands zu sein. Ihr ausgebildeter Gehörsinn und ihre übernatürliche Wahrnehmung machen das Fehlen ihres Augenlichts mehr als wett. Das fürchterliche Kreischen der Zombie-Heuler aber hat ihre Sinne überwältigt. Die Spielerin, die Celeste spielt, entscheidet, dass die Situation kritisch genug ist, aus Versehen auf eine ihrer Verbündeten zu zielen. Sie lässt den GM wissen, dass sie ihre Charakterschwäche *Behindert* aktiviert und er stimmt zu, dass die Konsequenz groß genug ist, einen Legendenpunkt für das Vertiefen der Geschichte zu verdienen, die die Gruppe gemeinsam erzählt.
-> ***
+> ___
 > Die Psionikerin Madrina hat die Schwäche *Ehrgeizig*. Nachdem sie eine Gruppe Zivilisten der Minenkolonie vor einem Einbruch der Luftschleuse gerettet hat, darf sie vom Kanzler eine Belohnung erbitten. Sie bittet um die Hand seines Ältesten in Ehe, anstatt einer vernünftigeren Option wie dem Erhalten eines Schatzes aus seinem Besitz. Der Kanzler verfällt in Rage, aber der GM vergibt einen Legendenpunkt für das Rollenspielen einer Schwäche auf eine Weise, die die Geschichte vorantreibt.
 
 ## Beschreibungen von Charakterstärken

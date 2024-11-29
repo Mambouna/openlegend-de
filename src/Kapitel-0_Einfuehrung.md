@@ -3,8 +3,8 @@
 
 *"Halt den UV-Strahler still!" raunt er seiner Gefährtin zu.*
 
-*Sein Flüstern zerschlägt die perfekte Stille, die die riesige Kammer des Zeta-Klasse-Kreuzers durchdringt und bald wirkt das Echo wie ein Sirenenlied in der Finsterniss. Paare roter Augen erwachen am Rande des Lichts, Feuer der Bosheit, die sich danach sehnen, endlich wieder Fleisch zu schmecken. "Zak", stottert die Lichthalterin, während sie ihr glänzendes Schießeisen zieht, "I glaube doch nicht, dass dieser Frachter verlassen ist."*
-***
+*Sein Flüstern zerschlägt die perfekte Stille, die die riesige Kammer des Zeta-Klasse-Kreuzers durchdringt und bald wirkt das Echo wie ein Sirenenlied in der Finsterniss. Paare roter Augen erwachen am Rande des Lichts, Feuer der Bosheit, die sich danach sehnen, endlich wieder Fleisch zu schmecken. "Zak", stottert die Lichthalterin, während sie ihr glänzendes Schießeisen zieht, "Ich glaube doch nicht, dass dieser Frachter verlassen ist."*
+___
 *Die Todesschreie der Orks können noch zwei Reiche weiter gehört werden, während sie in Wellen den Helden zum Opfer fallen, die in den Ruinen der Rabenwacht ihren letzten Widerstand leisten. Trotz ihrer Anstrengungen ist kein Ende der Horde in Sicht, die sich wie ein schwarzer Schwarm Heuschrenken über die Hügel windet.*
 
 *"Sie sind hinter dem Stein her," grunzt ein Zwerg, während er seine Axt aus dem schweinsartigen Schädel eines der Orks zieht. "Gib' ihn ihnen, vielleicht kommen wir dann noch lebendig hier raus."*
@@ -12,7 +12,7 @@
 *Eine Elfenmaid, hochgewachsen und in Kampfkleidung gewandt, antwortet: "Ich werde keinen Barden von Luthiel der Feigen singen lassen, die sich Orkabschaum ergeben hat während sie noch atmete."*
 
 *Während Elfe und Zwerg sich streiten, erhebt sich ein grauhaariger Mann, gekleidet in Smaragd, auf einem Fels in der Mitte der Ruinen. Seine Augen durchbohren die Distanz zur goldenen Sonne, die sich dem Horizont neigt, wie scharfe Dolche. Mit einem verborgenen Lächeln hebt er seinen verzogenen Eichenstab zum Himmel, unter dem sich Sturmwolken sammeln und mit dem Zorn der Natur knistern. "Gentleman, Lady..." spricht der Druide mit dezentem Selbstbewustsein, "Ich glaube, die Winde haben sich zu unserem Vorteil gewandt."*
-***
+___
 ### Warum Open Legend?
 Falls du schon mal Rollenspiele gespielt hast, fragst du dich vielleicht *Was macht Open Legend meiner Zeit wert? Was macht es anders?*
 > Das Geheimnis liegt im Titel: Open. Alles an diesem Spiel wurde gebaut, um die Tore der Möglichkeiten weit zu öffnen, sodass jeder Tisch eine hörenswerte Legende erzählt. Hier sind einige der Möglichkeiten, die Open Legend dir bietet.

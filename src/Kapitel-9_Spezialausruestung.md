@@ -362,7 +362,7 @@ Nachdem du die besondere Eigenschaft deines Items beschrieben hast, erstellt du 
 > *Schränkt sie ein?* Nein. Das Item schränkt weder andere Fähigkeiten ein noch ist es auf besondere Umstände beschränkt.
 > 
 > **Finaler WW-Modifikator:** +2
-> ***
+> ___
 > #### Lichtschein-Schild
 > Einmal pro Runde, wenn der Charakter Ziel eines Nahkampfangriffs wird, kann er *Geblendet* als Harmangriffangriff auf den Angreifer wirken. Das Item macht die folgende Attacke: *Geblendet* 5 gegen Deckung.
 > 
@@ -375,7 +375,7 @@ Nachdem du die besondere Eigenschaft deines Items beschrieben hast, erstellt du 
 > *Schränkt sie ein?* Nein. Auch wenn der Lichtschein-Schild nur nützlich ist, wenn der Charakter im Nahkampf angegriffen wird, ist diese Situation ziemlich häufig.
 > 
 > **Finaler WW-Modifikator:** +4
-> ***
+> ___
 > #### Assassinengewehr
 > Diese Waffe hat die *Harmvoll (Geblendet)* und *Harmvoll (Anhaltender Schaden)* Eigenschaften, allerdings müssen bestimmte Bedingungen erfüllt sein, um sie zu nutzen. Wenn dein Ziel seine Deckung fallen lässt, dich nicht kommen sieht oder in Nahkampfreichweite eines deiner Verbündeten ist, kannst du *Harmvoll*-Eigenschaften nutzen.
 > 
@@ -388,7 +388,7 @@ Nachdem du die besondere Eigenschaft deines Items beschrieben hast, erstellt du 
 > *Schränkt sie ein?* Ja, -1 WW. Das Ziel muss bestimmte Bedingungen erfüllen, bevor die besondere Eigenschaft genutzt werden kann, sodass der Charakter diese oft wird herbeiführen müssen.
 > 
 > **Finaler WW-Modifikator:** +4
-> ***
+> ___
 > #### Helm der Goblinbanns
 > Zu Beginn des Zuges kann der Träger dieses Helms als eine kostenlose Aktion eine Harmattacke gegen alle goblinartigen Gegner innerhalb von 100' machen, die ihn sehen können. Das Item macht den folgenden Angriff: Furcht 5 gegen Entschlossenheit.
 > 

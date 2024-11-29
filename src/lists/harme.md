@@ -21,7 +21,7 @@ Das Ziel kann nicht sehen, solange der Effekt besteht. Das Ziel schlägt automat
 
 > Tags: Außergewöhnlich, Körperlich
 
----
+___
 ### Bezaubert
 **Dauer:** Widerstehen beendet (Besonders) (3 Fehlschläge = 24 Stunden)
 
@@ -53,7 +53,7 @@ Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu wider
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Taub
 **Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
@@ -76,7 +76,7 @@ Das Ziel kann nichts hören, solange der Harm anhält. Das Ziel schlägt automat
 
 > Tags: Außergewöhnlich, Körperlich
 
----
+___
 ### Tod
 **Dauer:** Widerstehen beendet (Besonders) (3 Fehlschläge = Permanent)
 
@@ -102,7 +102,7 @@ Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu wider
 
 > Tags: Außergewöhnlich, Körperlich
 
----
+___
 ### Demoralisiert
 **Dauer:** Widerstehen (Klein) beendet (3 Fehlschläge = 1 Minute)
 
@@ -138,7 +138,7 @@ Wird dieser Harm durch Beweglichkeit oder Kraft gewirkt, kannst du die Reichweit
 
 > Tags: Körperlich, Außergewöhnlich
 
----
+___
 ### Entwaffnet
 **Dauer:** Augenblicklich
 
@@ -168,7 +168,7 @@ Du zwingst einen Feind, die Kontroller über ein Objekt zu verlieren, das er fes
 
 > Tags: Außergewöhnlich, Körperlich
 
----
+___
 ### Dominiert
 **Dauer:** Besonders
 
@@ -199,7 +199,7 @@ Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu wider
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Erschöpft
 **Dauer:** Besonders
 
@@ -231,7 +231,7 @@ Anders als bei anderen Harmen, braucht es Zeit und Ruhe, um diesen Harm zu löse
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Furcht
 **Dauer:** Besonders
 
@@ -259,7 +259,7 @@ Wird dieser Harm durch Kraft gewirkt, kannst du die Reichweite mit der Tabelle *
 
 > Tags: Außergewöhnlich, Körperlich
 
----
+___
 ### Erzwungene Bewegung
 **Dauer:** Augenblicklich
 
@@ -289,7 +289,7 @@ Das Ziel wird eine durch das Kraftlevel bestimmte Distanz gegen seinen Willen be
 
 > Tags: Außergewöhnlich, Körperlich
 
----
+___
 ### Immobilisiert
 **Dauer:** Widerstehen beendet (Besonders) (3 Fehlschläge = 1 Minute)
 
@@ -322,7 +322,7 @@ Hat ein betroffenes Ziel mit einem Widerstehenwurf Erfolg, um diesen Harm zu bre
 
 > Tags: Außergewöhnlich, Körperlich
 
----
+___
 ### Bewusstlos
 **Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
@@ -353,7 +353,7 @@ Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu wider
 
 > Tags: Außergewöhnlich, Körperlich
 
----
+___
 ### Niedergeschlagen
 **Dauer:** Augenblicklich
 
@@ -377,7 +377,7 @@ Das Ziel fällt zu Boden. Ziele am Boden haben Nachteil 1 auf alle Angriffe, die
 
 > Tags: Außergewöhnlich, Körperlich
 
----
+___
 ### Gedächtnismanipulation
 **Dauer:** Augenblicklich
 
@@ -408,7 +408,7 @@ Denn du bei deinem Aktionswurf zum Zufügen dieses Harms fehlschlägst, ist das 
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Gedankenraub
 **Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
@@ -438,7 +438,7 @@ Hat dein Ziel Erfolg mit seinem Widerstehenwurf gegen diesen Harm, wird es für 
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Annullieren
 **Dauer:** Augenblicklich
 
@@ -473,7 +473,7 @@ Wenn das Wohl, das aufgelöst werden soll, ein Gebiet abdeckt, kannst du es aufl
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Anhaltender Schaden
 **Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
@@ -515,7 +515,7 @@ Diesem Harm kann auch durch die normale Nutzung einer Bewegungsaktion zum Widers
 
 > Tags: Außergewöhnlich, Körperlich
 
----
+___
 ### Phantom[?] / Illusion
 **Dauer:** Besonders
 
@@ -554,7 +554,7 @@ Hat ein betroffener Charakter mit seinem Widerstehenwurf Erfolg, so ist er für 
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Polymorph
 **Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Stunde)
 
@@ -582,7 +582,7 @@ Um seine Trefferpunkte im Blick zu behalten, sollte das Ziel den gesamten Schade
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Provoziert
 **Dauer:** Widerstehen (Klein) beendet (3 Fehlschläge = 1 Minute)
 
@@ -622,7 +622,7 @@ Wird dieser Harm mit Kraft oder Beweglichkeit gewirkt, kannst du die Reichweite 
 
 > Tags: Außergewöhnlich, Körperlich
 
----
+___
 ### Fernsicht
 **Dauer:** 10 Minuten (Besonders)
 
@@ -653,7 +653,7 @@ Du kannst Fernsicht beliebig oft auf das gleiche Ziel wirken, aber falls du dein
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Erkrankt
 **Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
@@ -674,7 +674,7 @@ Das Ziel hat Nachteil 1 auf alle Aktionswürfe und -1 auf alle Verteidigungen.
 
 > Tags: Außergewöhnlich, Körperlich
 
----
+___
 ### Verstummt
 **Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
@@ -698,7 +698,7 @@ Falls Kraft, Beweglichkeit oder Vergehen benutzt wurden, um diesen Harm zu wirke
 
 > Tags: Außergewöhnlich, Körperlich
 
----
+___
 ### Verlangsamt
 **Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
@@ -723,7 +723,7 @@ Die Geschwindigkeit des betroffenen Ziels ist um die Hälfte reduziert, abgerund
 
 > Tags: Außergewöhnlich, Körperlich
 
----
+___
 ### Betäubt
 **Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
@@ -750,7 +750,7 @@ Dieser Harm hat besondere Regeln für Boss-NPCs (siehe Kapitel 8: Das Spiel leit
 
 > Tags: Außergewöhnlich, Körperlich
 
----
+___
 ### Beruhigt[?]
 **Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
@@ -774,7 +774,7 @@ Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu wider
 
 > Tags: Außergewöhnlich
 
----
+___
 ### Wahrheitsgebunden
 **Dauer:** 10 Minuten (Besonders)
 
@@ -799,4 +799,4 @@ Hat ein Ziel beim bestrittenen Wurf Willenskraft gegen deinen Einfluss Erfolg, w
 
 > Tags: Außergewöhnlich
 
----
+___

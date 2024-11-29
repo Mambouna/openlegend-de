@@ -36,12 +36,12 @@ Nach dem Ermessen des GM kannst du auch noch kleinere oder noch größere Größ
 
 > ### Beispielhafte Geheimnisse von Charakteren
 > *Bevor Volkor seinen Namen änderte und anfing, das Land als käuflicher Söldnerbarbar zu durchstreifen, war er Erbe des Throns.*
-> ***
-> *Sir Thomas Tuckburrough diente der örtlichen Diebesgilde als Assassine, bevor ein Autrag schiefging und er ein schuldloses Kind ermordete - nach diesem Moment begab er sich auf den Weg zur Priesterschaft.*
-> ***
-> *Thalia war als Kind Opfer eines schrecklichen Autounfalls. Sie überlebte nur, weil ein verrükter Straßenarzt ihren Körper fand und mit cybernetischen Implantaten am Leben hielt, die sie halb zur Maschine machten. Physisch, als auch mental.*
+> ___
+> *Sir Thomas Tuckburrough diente der örtlichen Diebesgilde als Assassine, bevor ein Auftrag schiefging und er ein schuldloses Kind ermordete - nach diesem Moment begab er sich auf den Weg zur Priesterschaft.*
+> ___
+> *Thalia war als Kind Opfer eines schrecklichen Autounfalls. Sie überlebte nur, weil ein verrückter Straßenarzt ihren Körper fand und mit cybernetischen Implantaten am Leben hielt, die sie halb zur Maschine machten. Physisch, als auch mental.*
 ## Schritt 2: Wähle Attribute
-Attribute sind das Rückrat jedes Charakters in Open Legend. Sie bestimmen was dein Charakter tun kann und was nicht, worin sie sich auszeichnen und was ihre größten Schwächen sind. Wann immer dein Charakter eine heroische Tat in Open Legend anstrebt, wirst du dich deinen Attributen zuwenden, um zu sehen, wie gut du dich dabei schlägst.
+Attribute sind das Rückgrat jedes Charakters in Open Legend. Sie bestimmen was dein Charakter tun kann und was nicht, worin sie sich auszeichnen und was ihre größten Schwächen sind. Wann immer dein Charakter eine heroische Tat in Open Legend anstrebt, wirst du dich deinen Attributen zuwenden, um zu sehen, wie gut du dich dabei schlägst.
 
 In Open Legend sind Attribute in vier Kategorien aufgeteilt: körperlich, sozial, geistig und übernatürlich[?].
 
@@ -148,7 +148,7 @@ Falls Rollenspiele für dich neu sind, oder du deinen Charakter einfach schnell 
 | **Alleskönner**             |
 | 3, 3, 3, 3, 3, 2, 2, 2, 1   |
 ### Ausführliche Charaktererstellung
-Wenn du mehr Kontrolle über deine Attribute haben möchtest, kannst du dein eigenes Set aus Attributwerten zusammenstellen. Bei dieser Methode hast du auf Level 1 ein Budget von 40 Attributspunkten, die du ausgeben kannt. Die Kosten der Werte sind in der *Attribute kaufen*-Tabelle aufgeführt. Der höchste Wert, den ein Attribut auf Level 1 erreichen kann ist 5 und du musst nicht all deine Attributspunkte bei der Charaktererstellung ausgeben.
+Wenn du mehr Kontrolle über deine Attribute haben möchtest, kannst du dein eigenes Set aus Attributwerten zusammenstellen. Bei dieser Methode hast du auf Level 1 ein Budget von 40 Attributpunkten, die du ausgeben kannst. Die Kosten der Werte sind in der *Attribute kaufen*-Tabelle aufgeführt. Der höchste Wert, den ein Attribut auf Level 1 erreichen kann ist 5 und du musst nicht all deine Attributpunkte bei der Charaktererstellung ausgeben.
 #### Attribute kaufen
 | Attributwert | Kosten |
 | ------------ | ------ |
@@ -187,7 +187,7 @@ Jeder Attributwert über 0 gibt dir Bonuswürfel, die deine Chancen auf Erfolg e
 > 
 > Und so weiter und so fort.
 ## Schritt 3: Verteidigungen berechnen, Trefferpunkte und Geschwindigkeit
-Wenn ein Gegner versucht, dich anzugreifen - egal ob mit dem Schuss eines Gewehrs, einem geschichten Schwertstreich oder einem mentalen Überfall, muss dieser zuerst deine Verteidigungen überwinden. Du hast drei Verteidigungswerte, von denen jeder dich vor einer anderen Art von Attacke schützt. Je höher deine Verteidigung, desto besser bist du darin, Angriffen deiner Feinde zu entgehen oder diese abzuschütteln.
+Wenn ein Gegner versucht, dich anzugreifen - egal ob mit dem Schuss eines Gewehrs, einem geschickten Schwertstreich oder einem mentalen Überfall, muss dieser zuerst deine Verteidigungen überwinden. Du hast drei Verteidigungswerte, von denen jeder dich vor einer anderen Art von Attacke schützt. Je höher deine Verteidigung, desto besser bist du darin, Angriffen deiner Feinde zu entgehen oder diese abzuschütteln.
 
 <table><tr><td><b>Zähigkeit = 10 + Konstitution + Willenskraft</b></td></tr></table>
 
@@ -195,7 +195,7 @@ Wenn ein Gegner versucht, dich anzugreifen - egal ob mit dem Schuss eines Gewehr
 
 <table><tr><td><b>Deckung = 10 + Beweglichkeit + Kraft + Rüstung</b></td></tr></table>
 
-**Deckung** beschützt dich for Angriffen, denen man ausweichen, die man abwenden oder mit denen man mit physischer Macht widerstehen kann. Deine Feinde müssten deine Deckung überwinden, um dich mit einer Granate zu verletzen, dich mit einem Pfeil zu treffen oder dich mit einem Kriegshammer zu schlagen.
+**Deckung** beschützt dich vor Angriffen, denen man ausweichen, die man abwenden oder mit denen man mit physischer Macht widerstehen kann. Deine Feinde müssten deine Deckung überwinden, um dich mit einer Granate zu verletzen, dich mit einem Pfeil zu treffen oder dich mit einem Kriegshammer zu schlagen.
 
 <table><tr><td><b>Entschlossenheit = 10 + Präsenz + Willenskraft</b></td></tr></table>
 
@@ -227,7 +227,7 @@ Bei der Charaktererstellung kannst du bis zu zwei Stärken und Schwächen auswä
 ## Schritt 7: Erzähl' deine Geschichte
 Nachdem dein Charakter erstellt ist, bist du bereit, Open Legend zu spielen. Egal, ob du mit alten Freunden oder dir bisher Unbekannten spielst und egal, ob du komplett neu in Rollenspielen bist oder ein erfahrener Veteran bist, die folgenden Tips werden dabei helfen, dass alle am Tisch eine gute Zeit haben.
 ### Entspann dich
-Open Legend gibt dir die Chance, für ein paar Stunden aus deinem Alltagsleben heraus und in eine fantastiche Welt hineinzutreten, in der du heroischeTaten vollbringen kannst. Schenk das Red Bull ein oder hol dir ein Bier, bestell etwas zu essen oder öffne die Chipstüte - egal was du tust, schüttel die Würfel, als ob das Leben deines Charakters davon abhängt, und hab Spaß. Falls du einen Zwerg spielst, kram vielleicht deinen besten Schottenakzent raus. Falls dein Charakter eine Hexe ist, kneif die Augen zusammen und sprich in Rätseln. Falls du kein Mimenexperte bist, denk dir andere Wege aus, Spaß zu haben: spiele abenteuerliche Musik auf dem Handy, zeichne die Großtaten deiner Gruppe, und so weiter.
+Open Legend gibt dir die Chance, für ein paar Stunden aus deinem Alltagsleben heraus und in eine fantastische Welt hineinzutreten, in der du heroische Taten vollbringen kannst. Schenk das Red Bull ein oder hol dir ein Bier, bestell etwas zu essen oder öffne die Chipstüte - egal was du tust, schüttel die Würfel, als ob das Leben deines Charakters davon abhängt, und hab Spaß. Falls du einen Zwerg spielst, kram vielleicht deinen besten Schottenakzent raus. Falls dein Charakter eine Hexe ist, kneif die Augen zusammen und sprich in Rätseln. Falls du kein Mimenexperte bist, denk dir andere Wege aus, Spaß zu haben: spiele abenteuerliche Musik auf dem Handy, zeichne die Großtaten deiner Gruppe, und so weiter.
 ### Respektiere den GM
 Falls du noch nie GM warst, weist du vielleicht nicht, wie viel Arbeit dahintersteckt. Wahrscheinlich hat dein GM stundenlang daran gearbeitet, die Kampagne zusammenzustellen und sich auf diese Sitzung vorzubereiten. Nimm an ihrer Geschichte teil, sieh über versehentliche Ungereimtheiten hinweg und veranstalte nicht für nichts Radau. Falls es Unstimmigkeiten über die Regeln gibt, akzeptiere die finale Entscheidung des GM, damit das Spiel weitergeht und einigt euch, es später nachzuschauen.
 ### Respektiere die anderen Spieler
@@ -239,7 +239,7 @@ Barden sind ein bisschen von allem: Anführer, Geschichtenerzähler, Künstler, 
 #### Strategie
 Barden können in fast allen Situationen außerhalb des Kampfes andere mit ihrer Fertigkeit *Rundumtalent*[?] unterstützen, wobei sie sich besonders in sozialen Situationen durch ihre hohen Werte in Präsenz und Überzeugung profilieren. Ihr Einflusswert gibt ihnen außerdem Zugang zu Flüchen wie *Bezaubert* und *Phantom*[?], die zum Täuschen, Verhören oder Gewinnen von Feinden nützlich sind.
 
-Im Kampf unterstützt ein Barde seine Verbündeten mit *verstärken*, wobei er durch die Fertigkeit *Wohlfokus* mehrere Freunde auf einmal damit belegen kann. Wird ein Kamerad verwundet nutzt der Barde *heilen* um sie wieder kampffähig zu machen und kann auch mehrere mit einer heilenden *Aura* unter die Arme greifen. Barden sind genügend kompetent im Nahkampf, in dem sie das Rapier führen und Feinde entwaffnen, wann immer sich die Chance bietet.
+Im Kampf unterstützt ein Barde seine Verbündeten mit *Verstärken*, wobei er durch die Fertigkeit *Wohlfokus* mehrere Freunde auf einmal damit belegen kann. Wird ein Kamerad verwundet nutzt der Barde *Heilen* um sie wieder kampffähig zu machen und kann auch mehrere mit einer heilenden *Aura* unter die Arme greifen. Barden sind genügend kompetent im Nahkampf, in dem sie das Rapier führen und Feinde entwaffnen, wann immer sich die Chance bietet.
 
 **Attribute:** Beweglichkeit 3 (1d8), Lernen 3 (1d8), Willenskraft 3 (1d8), Präsenz 4 (1d10), Überzeugung 3 (1d8), Einfluss 3 (1d8)
 
@@ -517,7 +517,7 @@ Für jeden Erfahrungspunkt, den du dir verdienst, gewinnst du auch 1 Fertigkeite
 
 Attributpunkte können ausgegeben werden, um ein schon erworbenes Attribut zu erhöhen, oder aber völlig neue Attribute zu kaufen. Die Kosten, um ein Attribut um einen Wert aufsteigen zu lassen sind gleich der Zahl des neuen Wertes. Um zum Beispiel deinen Kraftwert von 3 auf 4 aufsteigen zu lassen, würde 4 Attributpunkte kosten. Die Kosten, um ein komplett neues Attribut zu kaufen sind nach dem jeweiligen Wert in der *Attributsüberblick*-Tabelle aufgeführt, die auch Attributwürfel für Werte über 5 aufführt.
 
-Die vollständige Liste aller verfügbaren Fertigkeiten kann auf der [Open Legend Website](http://www.openlegendrpg.com/feats) gefunden werden.
+Die vollständige Liste aller verfügbaren Fertigkeiten kann [hier](./lists/fertigkeiten.md) gefunden werden.
 ##### Attributsüberblick
 | Attributwert | Kosten | Attributwürfel |
 | ------------ | ------ | -------------- |
