@@ -13,7 +13,7 @@ Jetzt, wo du einige deiner Lieblinge im Kopf hast, lass uns deinen Charakter ers
 
 > ### Bereitgestellte Charaktere zum Loslegen
 > 
->  Falls du Inspiration für deinen Charakter oder einen einfachen Punkt zum Starten brauchst, kannst du diese vorerstellten Charaktere durchsehen, die unten verlinkt sind. Falls du einen Charakter findest, den du gerne benutzen würdest, kopiere einfach die Tabellendatei und verändere sie so, wie es dir richtig scheint. Die Tabellen schließen Gleichungen ein, die die meisten Berechnungen für dich übernehmen. Du kannst auch das **Level**-Feld anpassen, um die korrekte Anzahl an Fertigkeiten- und Attributpunkte generieren zu lassen, falls du einen Charakter über Level 1 erstellst.
+>  Falls du Inspiration für deinen Charakter oder einen einfachen Punkt zum Starten brauchst, kannst du die vorerstellten Charaktere durchsehen, die unten verlinkt sind. Falls du einen Charakter findest, den du gerne benutzen würdest, kopiere einfach die Tabellendatei und verändere sie so, wie es dir richtig scheint. Die Tabellen schließen Gleichungen ein, die die meisten Berechnungen für dich übernehmen. Du kannst auch das **Level**-Feld anpassen, um die korrekte Anzahl an Fertigkeiten- und Attributpunkte generieren zu lassen, falls du einen Charakter über Level 1 erstellst.
 > 
 > [Bereitgestellte Charaktere durchsehen](https://drive.google.com/drive/folders/0Bx_UrXHMi3wmUlJjbDZiaGtIX00?resourcekey=0-xjZXrB5pSASVlYDvxvQR9A&usp=sharing)
 ## Schritt 1: Beschreibe deinen Charakter
@@ -217,7 +217,7 @@ Zum Beispiel könnten zwei unterschiedliche Charaktere, die beide auf Nahkampf s
 ### Fertigkeiten wählen
 Fertigkeiten kauft man mit Fertigkeitenpunkten. Auf Level 1 hast du 6 Fertigkeitenpunkte zur Verfügung. Jegliche übriggebliebenen Punkte kannst du dir für später aufheben.
 
-Eine durchsuchbare Liste aller verfügbaren Fertigkeiten kann [hier](./lists/fertigkeiten.md) gefunden werden.
+Eine Liste aller verfügbaren Fertigkeiten kann [hier](./lists/fertigkeiten.md) gefunden werden.
 ## Schritt 5: Startausrüstung wählen
 In einem typischen Open Legend-Spiel beginnt dein Charakter mit der nötigen Startausrüstung für das Leben eines Abenteurers. Der GM kann aber auch entscheiden, dass die Kampagne unter besonderen Umständen beginnt (zum Beispiel, dass die gesamte Gruppe eingesperrt in einem Sklavenkonvoi beginnt), die etwas anderes benötigen.
 
@@ -516,7 +516,7 @@ _**Leereneutralisierung**_ (Verteidigungsaktion): Energie vs. Angriffswurf des Z
 Während die Legende, die du erschaffst, ihren Lauf nimmt und in Gefahr und Gravitas steigt, wird die Macht deines Charakters ebenso wachsen, um den Herausforderungen zu entsprechen. Diese Macht erhält er in Form von Erfahrungspunkten (EP), die der GM als Belohnung vergibt und die es dir erlauben, im Level aufzusteigen und so Zugang zu neuen Fertigkeiten, Attributen, Harmen und Wohlen zu erhalten.
 
 Deine gesamten gesammelten EP bestimmen dein Level, wobei jede 3 EP dir erlauben, auf das nächste Level aufzusteigen. Dein Level bestimmt dabei die möglichen Höchstwerte für deine Attributwerte und gibt einen groben Hinweis deiner Macht im Vergleich mit anderen Charakteren, NPCs[?] und Monstern. Die *Spielercharakter Levelfortschritt*-Tabelle gibt die EP-Voraussetzungen und Höchstwerte für Attribute jedes Levels an.
-##### Spielercharakter Levelfortschritt
+#### Spielercharakter Levelfortschritt
 | Gesamt-EP | Level | Höchstwert für Attribute |
 | --------- | ----- | ------------------------ |
 | 0         | 1     | 5                        |
@@ -535,7 +535,7 @@ Für jeden Erfahrungspunkt, den du dir verdienst, gewinnst du auch 1 Fertigkeite
 Attributpunkte können ausgegeben werden, um ein schon erworbenes Attribut zu erhöhen, oder aber völlig neue Attribute zu kaufen. Die Kosten, um ein Attribut um einen Wert aufsteigen zu lassen sind gleich der Zahl des neuen Wertes. Um zum Beispiel deinen Kraftwert von 3 auf 4 aufsteigen zu lassen, würde 4 Attributpunkte kosten. Die Kosten, um ein komplett neues Attribut zu kaufen sind nach dem jeweiligen Wert in der *Attributsüberblick*-Tabelle aufgeführt, die auch Attributwürfel für Werte über 5 aufführt.
 
 Die vollständige Liste aller verfügbaren Fertigkeiten kann [hier](./lists/fertigkeiten.md) gefunden werden.
-##### Attributsüberblick
+#### Attributsüberblick
 | Attributwert | Kosten | Attributwürfel |
 | ------------ | ------ | -------------- |
 | 1            | 1      | 1d4            |
@@ -554,7 +554,7 @@ Die vollständige Liste aller verfügbaren Fertigkeiten kann [hier](./lists/fert
 In *Open Legend* sind Attribute der Weg, wie du deine Trefferpunkte erhöhen kann. Wenn du deinen Charakter widerstandsfähiger machen willst, erhöhe dein Zähigkeit-, Präsenz- oder Willenskraft-Attribut. Wie in der Gleichung der Standardtrefferpunkte dargelegt, wirst du jedes Mal, wenn du eines dieser Attribute um 1 erhöhst, 2 Trefferpunkte gewinnen.
 ## Jenseits dem ersten Level starten
 Manchmal stößt ein Charakter zu einer laufenden Kampagne hinzu, in der die anderen Spielercharaktere schon mehrere Level aufgestiegen sind. In diesem Fall wäre es nicht ausgewogen, einen Charakter auf Level 1 der Gruppe hinzuzufügen. In solchen Situationen kannst du die *Charaktere jenseits dem ersten Level*-Tabelle nutzen, um Attributpunkte, Fertigkeiten und Wohlstand des Charakters zu bestimmen. Beim Wählen deiner Startausrüstung kannst du drei Items deines momentanen Wohlstandes sowie eine beliebige Anzahl an Items niedrigeren Wertes wählen.
-##### Charaktere jenseits dem ersten Level
+#### Charaktere jenseits dem ersten Level
 
 | Level | EP  | Attributpunkte | Attributhöchstwert | Fertigkeitenpunkte | Wohlstand |
 | ----- | --- | -------------- | ------------------ | ------------------ | --------- |

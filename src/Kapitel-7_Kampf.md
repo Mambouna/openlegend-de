@@ -29,6 +29,7 @@ Falls Charaktere überrascht sind, werden zwei Reihenfolgen der Initiative gefü
 > Zak und Jalani erkunden die Absturzstelle eines Armada-Sternenkreuzers nach Bergungsgütern, als sie von einem Pack Schwerkraftwürmern aus dem Hinterhalt angegriffen werden.
 > 
 > Zak und Jalani werfen auf ihre Beweglichkeit, um ihre Initiative festzustellen und der GM wirft einmal für die ganze Gruppe Würmer. Jalani legt fest, dass sie ihre Las-Pistole ziehen wird, die die *schnell*-Eigenschaft hat, sodass sie Vorteil 2 auf ihren Initiativewurf erhält. Zak im Moment des Angriffs dabei, durch einen Schrank zu wühlen, sodass der GM entscheidet, dass er überrascht ist.
+> 
 > > Zak (Beweglichkeit 2) wirft 1d20 + 1d6 und erhält 14.
 > > 
 > > Jalani (Beweglichkeit 4) wirft 1d20 + 3d10 (wobei sie den höchsten d10 behält) und bekommt 25.
@@ -36,10 +37,10 @@ Falls Charaktere überrascht sind, werden zwei Reihenfolgen der Initiative gefü
 > > Die Schwerkraftwürmer (Beweglichkeit 3) rollen 1d20 + 1d8 und haben als Ergebnis 11.
 > 
 > Die Reihenfolge der Initiative ist wie folgt:
-> > #### Nicht überraschte Kämpfende
+> #### Nicht überraschte Kämpfende
 > > 1. Jalani 25 (muss im ersten Zug ihre Las-Pistole ziehen)
 > > 2. Schwerkraftwürmer 11
-> > #### Überraschte Kämpfende
+> #### Überraschte Kämpfende
 > > 3. Zak 14
 ### Auf Handlung warten
 Wenn du nicht im Moment deines Zuges handeln willst, kannst du dich entscheiden, deinen Zug für später aufzuheben. Dazu kannst du entweder einfach warten oder aber eine Reaktion auf eine kommende Situation vorbereiten. Falls du wartest, kannst du deinen Zug beginnen, wann immer ein anderer Charakter seinen Zug beendet hat, aber bevor ein weiterer Charakter seinen Zug begonnen hat.
@@ -108,6 +109,7 @@ Nicht-körperliche Angriffe können verschiedene Arten von Verteidigung betreffe
 > Einige Attribute kann man so gut wie immer benutzen, um Schaden zuzufügen. Darunter sind Kraft, Beweglichkeit, Energie und Vergehen. Sie sind der Normalfall für das Schwingen von Waffen, schießen von Gewehren, wirken von Zaubern, entziehen von Lebenskraft, usw. ...
 > ##### Manchmal
 > Manche Attribute können unter bestimmten Umständen benutzt werden, um Angriffe auszuführen, die Schaden zufügen. Hier sollte aus der Geschichte hervorgehen, wie das Können in einem Attribut dazu beiträgt, den Schaden anzurichten. Diese Attribute umfassen Logik, Schutz, Wandlung, Einfluss und Bewegung. Obwohl die Gelegenheiten zum Zufügen von Schaden mit diesen Attributen selten sein können, sind sie verfügbar, wenn die Story es erlaubt. Einige Beispiele für Umstände, in denen diese Attribute für Attacken benutzt werden können, sind folgend aufgeführt:
+> 
 > - **Logik.** Eine Falle auslösen, in die Feinde getappt sind.
 > - **Schutz.** Sich mit einer Wand magischer Klingen schützen.
 > - **Wandlung.** Einen Feind mit einem belebten Ast erwürgen.
@@ -184,6 +186,7 @@ Gebietsattacken sind grundsätzlich nur mit außergewöhnlichen Attributen mögl
 Anstatt zu versuchen, einem Ziel Schaden zuzufügen, kannst du dich stattdessen entscheiden, einen Harm auf einen Feind zu wirken. Um einen Harm zu wirken, musst du ein passendes Attribut mit einem Wert gleich des Kraftlevels des Harmen haben, wie in der [Harmbeschreibung](./lists/harme.md) aufgeführt. Ziele können unter mehreren Harmen leiden, aber der gleiche Harm kann nicht mehrmals auf einem Ziel liegen, außer dies ist im Effekt des Harmes explizit angegeben (z.B. *Erschöpft*).
 
 Einen Harmangriff abzuhandeln funktioniert ähnlich, wie einen Angriff mit Schaden auszuführen:
+
 1. **Attribut vs. Verteidigung feststellen.** Die [Harmbeschreibung](./lists/harme.md) gibt an, welche Attribute für den Harm benutzt werden können und gegen welche Verteidigung sie gehen.
 2. **Ziel auswählen.** Ein Ziel für einen Harm auszuwählen funktioniert genauso, wie bei einem Angriff mit Schaden, auch im Fall von Multi-Ziel-Angriffen. Harme mit Beweglichkeit oder Kraft als Attribut benötigen zum Ausführen eine Waffe oder natürliche Angriffsmöglichkeit, sodass ihre Reichweite auf die der genutzten Angriffsmethode beschränkt ist.
 3. **Wirf deinen Angriffswurf.** Wirf einen Aktionswurf mit dem passenden Attribut. Falls das Ergebnis die Verteidigung deines Ziels trifft oder überschreitet, leidet das Ziel unter dem Harm.

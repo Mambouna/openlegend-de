@@ -32,9 +32,9 @@ Du kannst nichts kaufen, was mehr als einen Wert über deinem eigenen Wohlstands
 
 > ### Beispiel für das Erwerben von Gütern und Dienstleistungen
 > Dank eines kürzlich erfolgreich abgeschlossenen Bergungsjobs hat sich der Wohlstandswert von Shara auf 4 erhöht. Sie hat schon eine Weile mit einem neuen Transportschiff geliebäugelt, das vom GM als WW 5 eingestuft wurde. Weil es ein Level höher als ihr momentaner Wohlstandswert ist, reduziert sich ihr WW beim Erwerb um 1, sodass sie nun wieder einen Wohlstand von 3 hat.
-> ---
+> ___
 > Slade, Meister der örtlichen Diebesgilde, hat einen Wohlstandswert von 5. Er will all seine Männer mit neuen Waffen ausrüsten, was vom GM als WW 5 gleichwertig eingestuft wurde. Slade erwirbt die neue Ausrüstung, strapaziert seine Finanzen dadurch aber soweit, dass er für zwei Wochen nur noch Güter unterhalb seines WW kaufen kann.
-> ---
+> ___
 > Der verrückte Mac hat sich auf einen Wohlstandswert von 1 hochgearbeitet. Ab jetzt kann er sich jeden Tag drei Mahlzeiten und ein warmes Bett leisten, weil diese Güter auf WW 0 liegen.
 
 #### Gesunder Menschenverstand
@@ -138,10 +138,10 @@ Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an 
 > ### Tech-Level
 > Tech-Level (TL) bieten einen vereinfachten Weg, die Technologien einer gegebenen Gesellschaft zu klassifizieren. Open Legend benutzt die folgenden vier Tech-Level um die technologischen Fortschritte grob einzuschätzen, die eine Gesellschaft machen kann:
 > 
-> TL 0 - Steinzeit, Bronzezeit, Eisenzeit, Mittelalter
-> TL 1 - Moderne, 20./21. Jahrhundert
-> TL 2 - Nahe Zukunft (Mechs, Cyborgs, Laserwaffen)
-> TL 3 - Ferne Zukunft (intergalaktische Raumfahrt, Nanotechnologie, Quantentechnik)
+> - TL 0 - Steinzeit, Bronzezeit, Eisenzeit, Mittelalter
+> - TL 1 - Moderne, 20./21. Jahrhundert
+> - TL 2 - Nahe Zukunft (Mechs, Cyborgs, Laserwaffen)
+> - TL 3 - Ferne Zukunft (intergalaktische Raumfahrt, Nanotechnologie, Quantentechnik)
 > 
 > Während der GM eine Kampagne vorbereitet, kann er entscheiden, welches Level oder welche Level die Geschichte benutzen wird. Eine typische Sword & Sorcery-Kampagnge würde zum Beispiel auf TL 0 spielen, während eine Steampunkt Kampagne eine Mischung aus TL 0 und TL 1 benutzen könnte.
 > 

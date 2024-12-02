@@ -5,7 +5,7 @@ In diesem Kapitel findest du die Fertigkeiten, die verfügbar sind, um deinen Ch
 ## Fertigkeiten erhalten
 Während deiner Abenteuer wird der GM dich mit Erfahrungspunkten (EP) für das Erfüllen von Quests und Vorantreiben der Geschichte belohnen. Jedes Mal, wenn du einen EP erhälst, bekommst du auch einen Fertigkeitenpunkt, der wie bei der Charaktererstellung benutzt werden kann, um neue Fertigkeiten zu kaufen. Du musst diese Punkte nicht sofort ausgeben, wenn du sie erhälst. Du kannst unbenutzte Fertigkeitenpunkte aufheben, um sie später zu benutzen.
 ## Die Beschreibung einer Fertigkeit lesen
-Die vollständige Liste an Fertigkeiten kann [hier](./lists/fertigkeiten.md) in einer durchsuchbaren Liste gefunden werden.
+Die vollständige Liste an Fertigkeiten kann [hier](./lists/fertigkeiten.md) gefunden werden.
 
 Jede Beschreibung einer Fertigkeit enthält die folgenden Elemente.
 
