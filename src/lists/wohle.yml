@@ -1,25 +1,4 @@
 - !
-  name: Objekt absorbieren
-  OGname: Absorb Object
-  tags:
-  - Außergewöhnlich
-  OGtags:
-  - Extraordinary
-  power:
-  - 4
-  attribute:
-  - Wandlung
-  - Bewegung
-  OGattribute:
-  - Alteration
-  - Movement
-  invocationTime: 1 große Aktion
-  duration: Permanent
-  description: |
-    Indem du deinen physischen Körperaufbau neustrukturierst, einen extradimesionalen Raum schaffst, ein cybernetisches Taschenimplantat oder andere Wege nutzt, kannst du ein Objekt in deinen Körper absorbieren, sodass es vollständig vor anderen verboren ist und jederzeit wieder hervorgeholt werden kann.
-  effect: |
-    Das Objekt verbleibt vollständig vor der Wahrnehmung anderer verborgen in deinem Körper, bis das Ziel es als kleine Aktion wieder hervorruft. Falls etwas passiert, was dieses Wohl auflöst (zum Beispiel das Wohl *nullifizieren*), wird das Objekt sofort aus dem Körper des Ziels herausgeholt, als wäre es absichtlich hervorgeholt.
-- !
   name: Animieren
   OGname: Animation
   tags:
@@ -166,79 +145,33 @@
   effect: |
     Das Ziel ist immun gegen den *geblendet*-Harm und kann auch in Bedingungen mit wenig oder keinem Licht normal sehen. Blindsicht kann auch potentiell Unsichtbarkeit entgegenwirken, allerdings muss der GM hier entscheiden, ob die Quelle der Blindsicht tatsächlich die Quelle der Unsichtbarkeit invalidieren würde.
 - !
-  name: Verstärken
-  OGname: Bolster
+  name: Detektion
+  OGname: Detection
   tags:
   - Außergewöhnlich
-  - Körperlich
   OGtags:
   - Extraordinary
-  - Physical
   power:
-  - 3
-  - 6
-  - 8
+  - 1
   attribute:
-  - Wandlung
-  - Schöpfung
   - Vorwissen
-  - Präsenz
   OGattribute:
-  - Alteration
-  - Creation
   - Prescience
-  - Presence
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    Du verbesserst die Erfolgschancen deines Ziels mithilfe von Inspiration, Augmentation, himmlischen Segens oder übernatürlicher Einsicht. Dein Ziel wird kompetenter als es normalerweise ist. Du könntest das Sehvermögen eines Adlers geben, die Kombinationsgabe eines Elitehackers oder aber die soziale Anmut eines trainierten Höflings.
+    Du erhälst eine außergewöhnliche Sicht, die es dir erlaubt, farbige Auras zu sehen, die von magischen, geistlichen oder anderen außergewöhnlichen Mächten hervorgerufen werden. Häufige Beispiele dieses Wohls wären z.B. ein Paladin, der die wahren Absichten eines Ziels erkennen kann, ein Psychicker, der die Aura eines Ortes ließt oder ein Cyborg, der das Terrain nach Lebenszeichen abscannt.
   effect: |
-    Wähle ein einziges Attribut. Dein Ziel erhält Vorteil auf Aktionswürfe mit diesem Attribut anhand des Kraftlevels des Wohls.
-    <ul>
-    <li><strong>Kraftlevel 3</strong> - Vorteil 1</li>
-    <li><strong>Kraftlevel 6</strong> - Vorteil 2</li>
-    <li><strong>Kraftlevel 8</strong> - Vorteil 3</li>
+    Wenn du dieses Wohl wirkst, musst du eine Art von Aura auswählen, die du wahrnehmen willst: <strong>Heilig</strong>, <strong>Unheilig</strong>, <strong>Leben</strong>, <strong>Tod</strong> oder <strong>Magisch</strong>. Du kannst unsichtbare Auras dieser Art wahrnehmen und hast eine ungefähre Idee ihrer Stärke (von schwach bis überwältigend). Diese Auras sind normalerweise das Resultat von aktiven Handlungen. Ein sonst freundlicher Händler würde also eine Weile lang eine Aura des Todes ausstrahlen, nachdem er jemanden vergiftet hat. Selbst ein Paladin, der einen boshaften Magier erschlagen hat, wird für eine Zeit nach dem letzten Schlag eine Aura des Todes von sich geben.
+    <ul> 
+    <li><strong>Heilig</strong> - Heilige Energie umgibt extradimensionale Wesen des Himmels oder ähnlicher mit dem Guten assoziierten Reiche, die pures Wohlwollen verkörpern.</li>
+    <li><strong>Unheilig</strong> - Unheilige Energie umgibt extradimensionale Wesen aus der Hölle oder ähnlichen mit dem Bösen assoziierten Reichen, die pure Bosheit verkörpern.</li>
+    <li><strong>Leben</strong> - Wesen aus himmlischen Dimensionen, Regenerationsnanotech aus der Zukunft und Kleriker, die die Mächte der Heilung und des Schutzes nutzen, strahlen für eine Zeit nach der Anwendung ihrer Kräfte eine Aura des Lebens aus.</li>
+    <li><strong>Tod</strong> - Nekromanten, Untote and Mörder strahlen alle eine Aura des Todes aus. Bei Untoten ist die Aura konstant, da die Macht des Todes sie animiert.</li>
+    <li><strong>Magisch</strong> - Außergewöhnliche magische Auras umgeben Objekte und Orte, die solcherlei Effekte verkörpern. Inhärent magische Kreaturen wie Nymphen, strahlen konstant eine magische Aura aus. Natürliche Kreaturen, die Magie nutzen können, strahlen eine magische Aura nur für eine Zeit nach dem Wirken von Magie aus.</li>
     </ul>
-- !
-  name: Verborgenheit
-  OGname: Concealment
-  tags:
-  - Außergewöhnlich
-  OGtags:
-  - Extraordinary
-  power:
-  - 3
-  - 4
-  - 5
-  - 6
-  - 7
-  - 8
-  attribute:
-  - Wandlung
-  - Einfluss
-  OGattribute:
-  - Alteration
-  - Influence
-  invocationTime: 1 große Aktion
-  duration: Aufrechterhalten verlängert
-  description: |
-    Das Ziel ist vor Detektion verborgen, entweder indem es seine Umgebung verändert oder Illusionen erschafft. Dieses Wohl ist besonders beliebt bei Assassinen, Dieben, Schattentänzern, Illusionisten, Erfindern und ähnlichen Charakteren.
-  effect: |
-    <strong>MERKE:</strong> Dieses Wohl ersetzt das Unsichtbarkeitswohl aus dem ersten Heft von "Every Roll Matters Zine (Dezember 2021)".
-    <br>
-    Der wirkende Charakter wählt einen Sinn (wie z.B. Geruch, Klang, Licht (Sicht), Hitze, usw. ...), der eingeschränkt wird. Das Wohl bewirkt, dass alle Reize für diesen Sinn innerhalb von 5' durch außergewöhnliche Mittel unterdrückt werden, sodass das Ziel sehr schwer zu entdecken wird. Das Ziel erhält Vorteil mit Wert anhand des Kraftlevels des Wohls auf Aktionswürfe, um sich zu verstecken oder unentdeckt zu bleiben.
-    <br>
-    Bei Angriffen gegen Gegner, die das Ziel nicht entdecken können, ist deren Deckung reduziert. Auf die gleiche Weise ist die Deckung des Ziels gegen Angriffe von Gegnern erhöht, die das Ziel nicht wahrnehmen. Dieser Bonus gilt nicht für Gebietsattacken.
-    <br>
-    Du kannst nicht Ziel von Gelegenheitsangriffen werden, außer der Gegner ist sich durch ein anderes Sinnesorgan, einem passenden Attributwurf oder anderem Effekt deiner Position bewusst. Ein solcher Gelegenheitsangriff kann nach Abwägung des GM für die momentane Situation unter Nachteil (0, 3 oder 5) leiden.
-    <ul>
-    <li><strong>Kraftlevel 3</strong> - Der Wirker ist in der Lage, seinen Gerucht oder seinen Klang zu unterdrücken. Vorteil 1 um sich zu verstecken, +1 Deckung gegen Angreifer, die das Ziel nicht wahrnehmen können, -1 Deckung für Gegner, die das Ziel nicht wahrnehmen können.</li>
-    <li><strong>Kraftlevel 4</strong> - Der Wirker ist in der Lage, sich vor einem weiteren Sinn zu verbergen.</li>
-    <li><strong>Kraftlevel 5</strong> - Vorteil 3 um sich zu verstecken, +3 Deckung gegen Angreifer, die das Ziel nicht wahrnehmen können, -2 Deckung für Gegner, die das Ziel nicht wahrnehmen können.</li>
-    <li><strong>Kraftlevel 6</strong> - Der Wirker kann sich vor bis zu 2 Sinnen gleichzeitig verbergen. Vorteil 5 um sich zu verstecken, +5 Deckung gegen Angreifer, die das Ziel nicht wahrnehmen können, -4 Deckung für Gegner, die das Ziel nicht wahrnehmen können.</li>
-    <li><strong>Kraftlevel 7</strong> - Der Wirker kann sich vor bis zu 3 Sinnen gleichzeitig verstecken.</li>
-    <li><strong>Kraftlevel 8</strong> - Der Wirker kann sich vor bis zu allen Sinnen gleichzeitig verstecken.</li>
-    </ul>
+  special: |
+    Anders als bei anderen Wohlen, kann dieses Wohl nicht andere Charaktere als Ziel haben. Nur der Charakter, der dieses Wohl wirkt, kann die Auras wahrnehmen. Weiterhin kann der GM nach eigenem Abwägen viele andere Arten von Auras wahrnehmbar sein lassen, je nachdem ob diese für das Setting der Kampagne angemessen sind.
 - !
   name: Dunkelheit
   OGname: Darkness
@@ -268,34 +201,6 @@
     Du erschaffst ein Gebiet illusorischer Dunkelheit oder entropischer Energie, die alles Licht verlischen lässt. Dieses Wohl ist beliebt unter Illusionisten, Schattenwebern, Psionikern und verrückten Wissenschaftlern.
   effect: |
     Wähle einen Raum oder ein Objekt in deiner Reichweite. Dunkelheit quillt aus dem Ziel hervor bis zu einem Radio von 5 Fuß pro Kraftlevel des Wohls. Dieser Effekt annuliert die Wirkung von allem natürlichen Licht innerhalb seines Radius und Kreaturen, die sich für ihre Sicht auf Licht verlassen, erleiden die gleichen Nachteile, als würden sie den *geblendet*-Harm haben, während sie im Gebiet dieses Wohls sind. Kreaturen, die sich für ihre Sicht nicht auf Licht verlassen (z.B. durch Vibrationssinne, Blindsicht, usw. ...) werden nicht eingeschränkt. Falls das Gebiet der Dunkelheit sich mit dem eines Licht-Wohls überschneidet, dann wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen im betroffenen Gebiet wieder die natürlichen Lichtverhältnisse, als gäbe es keine der beiden Wohle.
-- !
-  name: Detektion
-  OGname: Detection
-  tags:
-  - Außergewöhnlich
-  OGtags:
-  - Extraordinary
-  power:
-  - 1
-  attribute:
-  - Vorwissen
-  OGattribute:
-  - Prescience
-  invocationTime: 1 große Aktion
-  duration: Aufrechterhalten verlängert
-  description: |
-    Du erhälst eine außergewöhnliche Sicht, die es dir erlaubt, farbige Auras zu sehen, die von magischen, geistlichen oder anderen außergewöhnlichen Mächten hervorgerufen werden. Häufige Beispiele dieses Wohls wären z.B. ein Paladin, der die wahren Absichten eines Ziels erkennen kann, ein Psychicker, der die Aura eines Ortes ließt oder ein Cyborg, der das Terrain nach Lebenszeichen abscannt.
-  effect: |
-    Wenn du dieses Wohl wirkst, musst du eine Art von Aura auswählen, die du wahrnehmen willst: <strong>Heilig</strong>, <strong>Unheilig</strong>, <strong>Leben</strong>, <strong>Tod</strong> oder <strong>Magisch</strong>. Du kannst unsichtbare Auras dieser Art wahrnehmen und hast eine ungefähre Idee ihrer Stärke (von schwach bis überwältigend). Diese Auras sind normalerweise das Resultat von aktiven Handlungen. Ein sonst freundlicher Händler würde also eine Weile lang eine Aura des Todes ausstrahlen, nachdem er jemanden vergiftet hat. Selbst ein Paladin, der einen boshaften Magier erschlagen hat, wird für eine Zeit nach dem letzten Schlag eine Aura des Todes von sich geben.
-    <ul> 
-    <li><strong>Heilig</strong> - Heilige Energie umgibt extradimensionale Wesen des Himmels oder ähnlicher mit dem Guten assoziierten Reiche, die pures Wohlwollen verkörpern.</li>
-    <li><strong>Unheilig</strong> - Unheilige Energie umgibt extradimensionale Wesen aus der Hölle oder ähnlichen mit dem Bösen assoziierten Reichen, die pure Bosheit verkörpern.</li>
-    <li><strong>Leben</strong> - Wesen aus himmlischen Dimensionen, Regenerationsnanotech aus der Zukunft und Kleriker, die die Mächte der Heilung und des Schutzes nutzen, strahlen für eine Zeit nach der Anwendung ihrer Kräfte eine Aura des Lebens aus.</li>
-    <li><strong>Tod</strong> - Nekromanten, Untote and Mörder strahlen alle eine Aura des Todes aus. Bei Untoten ist die Aura konstant, da die Macht des Todes sie animiert.</li>
-    <li><strong>Magisch</strong> - Außergewöhnliche magische Auras umgeben Objekte und Orte, die solcherlei Effekte verkörpern. Inhärent magische Kreaturen wie Nymphen, strahlen konstant eine magische Aura aus. Natürliche Kreaturen, die Magie nutzen können, strahlen eine magische Aura nur für eine Zeit nach dem Wirken von Magie aus.</li>
-    </ul>
-  special: |
-    Anders als bei anderen Wohlen, kann dieses Wohl nicht andere Charaktere als Ziel haben. Nur der Charakter, der dieses Wohl wirkt, kann die Auras wahrnehmen. Weiterhin kann der GM nach eigenem Abwägen viele andere Arten von Auras wahrnehmbar sein lassen, je nachdem ob diese für das Setting der Kampagne angemessen sind.
 - !
   name: Flug
   OGname: Flight
@@ -353,6 +258,46 @@
     <li><strong>Kraftlevel 7</strong> - Du kannst <em>permanente</em> einfache oder komplexe nichtlebendige Materie (Juwelen, Eisen, Marmor usw. ...) erschaffen. Der Wert des resultierenden Items kann nicht größer sein als Wohlstandswert 2. Du produziert 1 Kubikfuß der Materie pro Attributpunkt des genutzten Attributs. Die Wirkzeit dieses Kraftlevels sind 8 Stunden.</li>
     <li><strong>Kraftlevel 9</strong> - Du kannst nicht nur Rohmaterialien erschaffen, sondern <em>permanente</em> vollständige Items. Ein Handwerker ist trotzdem nötig, um das Resultat zu exzellenter Qualität weiterzuverarbeiten. Die Wirkzeit dieses Kraftlevels sind 8 Stunden.</li>
     </ul>
+- !
+  name: Gestaltwandel
+  OGname: Shapeshift
+  tags:
+  - Außergewöhnlich
+  OGtags:
+  - Extraordinary
+  power:
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  attribute:
+  - Wandlung
+  OGattribute:
+  - Alteration
+  invocationTime: 1 große Aktion
+  duration: Aufrechterhalten verlängert
+  description: |
+    Die physische Struktur des Ziels ist temporär verändert, sodass es potentiell die Form jeder Kreatur annehmen kann, egal wie fantastisch oder exotisch. Häufige Beispiele von Gestaltwandel schließen Lykantropen (wie Werwölfe), amorphe Aliens, Doppelgänger und bestimmte Arten von Druiden ein.
+  effect: |
+    Das Ziel verwandelt sich in eine Kreatur, deren höchster Attributwert gleich oder kleiner deinem Wert in Wandlung ist. Mit der Ausnahme von Wandlung, fallen alle außergewöhnlichen Attributwerte des Ziels auf 0 und es erhält in Beweglichkeit, Konstitution, Kraft und Wahrnehmung die Werte der neuen Form.
+    Der GM, nicht der Spieler, ist dafür verantwortlich, die Attribute und Fähigkeiten der Kreatur zu bestimmen. Es wird empfohlen, dass die Kreatur den Leitlinien in der Sektion "Einfacher Aufbau" zum Erstellen von NPCs in Kapitel 8: Das Spiel leiten, folgt.
+    Um seine Trefferpunkte im Blick zu behalten, sollte das Ziel den gesamten Schaden festhalten, den es erlitten hat. Bei der Verwandlung bleibt der Schaden erhalten, selbst wenn maximale Trefferpunkte sich verändern. Beispielsweise hat Vera maximal 20 TP, ist aber in einen Drachen verwandelt, weshalb ihre Konstitution von 5 auf 9 erhöht ist, sodass ihre Trefferpunkte nun 28 sind. Im Kampf erleidet sie 10 Schaden. Später, als sie sich zurückverwandelt, bleiben diese 10 Schaden bestehen und werden von ihrem jetztigen Maximum von 20 subtrahiert, sodass sie nun 10 TP hat. Falls eine Verwandlung die TP eines Charakters auf weniger als 1 fallen lassen würde, werden die TP des Ziels stattdessen auf 1 gesetzt.
+    Beschränkungen für die Verwandlung existieren je nach Kraftlevel des Wohls und werden mit zunehmendem Kraftlevel nach und nach entfernt:
+    <em>Merke: Die Eigenschaften der Formen sind mit zunehmenden Kraftleveln kummulativ.</em>
+    <ul>
+    <li><strong>Kraftlevel 2</strong> - Die neue Form muss die gleiche Größe und eine ähnliche Physiologie haben, wie das Ziel selbst. Beispiele verschiedener physiologischer Klassifizierungen wären Tiere, Pflanzen, Elementare und Schleime. Diese Liste ist nicht abschließend und der GM hat das letzte Wort darin, welche Formen möglich sind. Das Ziel erhält keine neuen Formen der Bewegung (Flug, Schwimmen, Klettern, Graben, usw. ...). Das Ziel erhält keine außergewöhnlichen Attribute der neuen Form (kann also keine wirken, die sich auf die außergewöhnlichen Attribute der Form verlassen).</li>
+    <li><strong>Kraftlevel 3</strong> - Gestaltwandel in eine Form zwischen halb und doppelt so groß wie das Ziel. Erhalte jegliche nicht-fliegenden Bewegungsarten der neuen Form.</li>
+    <li><strong>Kraftlevel 4</strong> - Gestaltwandeln in eine Form zwischen einem Viertel und vier Mal so groß wie das Ziel.</li>
+    <li><strong>Kraftlevel 5</strong> - Erhalte die fliegende Bewegung der neuen Form, falls diese eine hat.</li>
+    <li><strong>Kraftlevel 6</strong> - Gestaltwandel in eine lebende Form einer anderen Physiologie, z.B. Elementare, Schleime oder eine Pflanze.</li>
+    <li><strong>Kraftlevel 7</strong> - Erhalte alle außergewöhnlichen Attribute der neuen Form. Falls beide Formen ein Wandlung-Attribut haben, wählt das Ziel zwischen den beiden Werten.</li>
+    <li><strong>Kraftlevel 8</strong> - Gestaltwandel in eine Kreatur jeder möglichen Größe.</li>
+    </ul>
+  special: |
+    Sich in eine bestimmte Kreatur zu verwandeln (wobei man sich als diese ausgeben möchte) erfordert einen Täuschungswurf, der vom Wahrnehmungsattribut aller bestritten wird, die das verwandelte Ziel sehen. Weiterhin erhält das Ziel bei Kraftlevel 4 und niedriger keine Expertise in besonderen Bewegungsformen der neuen Form, sodass seine Geschwindigkeit in diesen neuen Bewegungsformen halbiert ist. Der GM kann außerdem entscheiden, dass manche Handlungen, die diese Bewegungsformen nutzen, z.B. unter Beschuss zu schwimmen, mit Nachteil durchgeführt werden.
 - !
   name: Hast
   OGname: Haste
@@ -429,54 +374,40 @@
   special: |
     Dieses Wohl heilt keinen tödlichen Schaden.
 - !
-  name: Substanzlos
-  OGname: Insubstantial
+  name: Kreatur beschwören
+  OGname: Summon Creature
   tags:
   - Außergewöhnlich
   OGtags:
   - Extraordinary
   power:
-  - 7
-  attribute:
-  - Wandlung
-  - Vergehen
-  OGattribute:
-  - Alteration
-  - Entropy
-  invocationTime: 1 große Aktion
-  duration: Aufrechterhalten verlängert
-  description: |
-    Wird eine Kreatur substanzlos, so ist sie nicht mehr an physische Barrieren gebunden. Geister, Zauberer die eine Gasform annehmen und Kreaturen, die zwischen Ebenen der Realität wechseln können sind Beispiele, die das Wohl Substanzlos nutzen könnten.
-  effect: |
-    Das Ziel erhält die Fähigkeit, frei durch alle physischen Barrieren zu passieren, als wären diese leerer Raum. Weiterhin können sie sich frei in jede Richtung sowohl horizontal als auch vertikal mit ihrer Grundgeschwindigkeit bewegen (30' für die meisten Charaktere). Während sie substanzlos sind ist das Ziel immun gegen alle Attacken, die auf Deckung oder Zähigkeit zielen. Sie können aber selbst auch keine Angriffe gegen Deckung oder Zähigkeit ausführen.
-    Falls die Konzentration des Ziel unterbrochen wird oder das Wohl endet, während das Ziel in einer festen Struktur ist, wird das Ziel gewaltsam in die alternative Ebene versetzt, die es für seine substanzlosigkeit genutzt hat (typischerweise eine andere Dimension oder Realitätsebene).
-- !
-  name: Unsichtbar
-  OGname: Invisible
-  tags:
-  - Außergewöhnlich
-  OGtags:
-  - Extraordinary
-  power:
+  - 4
   - 5
   - 6
+  - 7
+  - 8
+  - 9
   attribute:
   - Wandlung
-  - Einfluss
+  - Schöpfung
+  - Vergehen
+  - Energie
   OGattribute:
   - Alteration
-  - Influence
-  invocationTime: 1 große Aktion
+  - Creation
+  - Entropy
+  - Energy
+  invocationTime: 1 Fokusaktion
   duration: Aufrechterhalten verlängert
   description: |
-    Das Ziel verschwindet aus dem sichtbaren Lichtspektrum, entweder indem es das Licht bricht, eine Illusion erschafft oder in einen extradimensionalen Raum zwischen den Ebenen der Realität tritt. Dieses Wohl ist unter Spezialagenten beliebt, Illusionisten, Schattentänzern, Erfindern und ähnlichen Charakteren.
+    Du beschwörst eine Kreatur, um dir zur Seite zu stehen, egal ob es sich um Tier handelt, das du aus der Wildnis gerufen hast, untote Bedienstete, die aus den Körperteilen deiner Feinde zusammengesetzt sind oder Arbeiterroboter, die du aus Schrott zusammengebaut hast. Dieses Wohl ist beliebt bei Druiden, Beschwörern, Ingenieuren, Nekromanten und verrückten Wissenschaftlern.
   effect: |
-    <strong>MERKE:</strong> Dieses Wohl wurde durch Verborgenheit ersetzt.<br>
-    Licht scheint durch das Ziel hindurch, sodass es transparent wird. Seine physische Form verzerrt die Lichtstrahlen auf eine Weise, die nur die schärfsten Augen wahrnehmen können. Das Ziel erhält Vorteil anhand des Kraftlevels des Wohles auf Beweglichkeitswürfe, um sich zu verstecken. Falls es vollständig stillsteht, wird der Bonus verdoppelt. Die Deckung des Ziels ist gegen Nah- und Fernkampfangriffe erhöht, bleibt gegen Gebietsattacken aber unverändert. Führt das Ziel eine Attacke gegen eine Kreatur aus, die es nicht sehen kann, ist die Deckung der Kreatur reduziert. Du kannst nicht das Ziel von Gelegenheitsattacken durch Feinde werden, die dich nicht wahrnehmen können.
-    <ul>
-    <li><strong>Kraftlevel 5</strong> - Vorteil 3 auf Verstecken, +3 Deckung gegen Nah- und Fernkampfangriffe, -2 Deckung für angegriffe Kreaturen, die dich nicht sehen können.</li>
-    <li><strong>Kraftlevel 6</strong> - Vorteil 5 auf Verstecken, +5 Deckung gegen Nah- und Fernkampfangriffe, -4 Deckung für angegriffene Kreaturen, die dich nicht sehen können.</li>
-    </ul>
+    Du erschaffst oder beschwörst einen temporären NPC-Verbündeten, der sich unter deiner Kontrolle befindet, wobei dieser aber von begrenzter Intelligenz ist. Die Werte des NPCs werden durch das Kraftlevel dieses Wohls bestimmt. Du kannst die Attributwerte frei unter den folgen Attributen verteilen: Beweglichkeit, Konstitution, Kraft, Wahrnehmung, Energie, Vergehen. Die Attribute deines NPCs wirken sich nicht auf seine Trefferpunkte oder Verteidigungen aus.
+    <table><tbody><tr class="header"><th>Kraftlevel</th><th>Trefferpunkte</th><th>Verteidigungen</th><th>Attribute</th></tr><tr class="odd"><td>4</td><td>4</td><td>11</td><td>2, 1, 1</td></tr><tr class="even"><td>5</td><td>5</td><td>12</td><td>3, 2, 2</td></tr><tr class="odd"><td>6</td><td>6</td><td>13</td><td>4, 3, 3</td></tr><tr class="even"><td>7</td><td>7</td><td>14</td><td>5, 4, 4</td></tr><tr class="odd"><td>8</td><td>8</td><td>15</td><td>6, 5, 5</td></tr><tr class="even"><td>9</td><td>9</td><td>16</td><td>7, 6, 6</td></tr></tbody></table>
+    Dein NPC kann nicht in dem Zug handeln, in dem er beschwört wird. In jeder folgenden Runde handelt der NPC in deinem Zug nach deinen Anweisungen. Der NPC hat die normale Verteilung von Aktionen pro Runde. Du kannst eine maximale Anzahl an beschworenen NPC gleich dem für die Beschwörungen genutzten Attributwert gleichzeitig haben. Fertigkeiten und andere Fähigkeiten können dieses Limit nicht erhöhen.
+  special: |
+    Von diesem Wohl beschworene Kreaturen können nicht geheilt werden, falls sie 0 TP erreichen. Sie sind permanent tot. Kreaturen, die durch dieses Wohl beschworen wurden, können dieses Wohl nicht nutzen.
+    Multi-Zielen funktioniert für dieses Wohl nicht wie bei anderen Wohlen. Du kannst ein einziges Wirken dieses Wohls benutzen, um mehrere Kreaturen zu beschwören. Für jede weitere Kreatur, die du beschwören willst, hast du Nachteil 2 auf den Aktionswurf zum Wirken des Wohls. Effekte, die Nachteile durch Multi-Zielen verändern, funktionieren hierfür normal.
 - !
   name: Lebensraub
   OGname: Life Drain
@@ -496,62 +427,6 @@
     Wie der Biss eines Vampirs, so kann auch die seelenraubende Berührung eines schwarzen Magiers oder der Strahl des Lebenssaugers eines verrückten Beösewichts dem Ziel erlauben, seinen Feinden die Lebenskraft zu entziehen.
   effect: |
     Während dieses Wohl anhält, heilt das Ziel sich selbst um die Hälfte (aufgerundet) des Schadens, den es mit jeder Attacke zufügt. Falls ein Angriff mehrere Feinde schädigt, heilt das Ziel sich um die Hälfte des gesamten Schadens, der allen Feinden zugefügt wurde.
-- !
-  name: Licht
-  OGname: Light
-  tags:
-  - Außergewöhnlich
-  OGtags:
-  - Extraordinary
-  power:
-  - 1
-  - 2
-  - 3
-  - 4
-  - 5
-  - 6
-  - 7
-  - 8
-  - 9
-  attribute:
-  - Schöpfung
-  - Energie
-  OGattribute:
-  - Creation
-  - Energy
-  invocationTime: 1 kleine Aktion
-  duration: Aufrechterhalten verlängert
-  description: |
-    Egal ob durch eine magische Beschwörung, Energiemanipulation oder einen anderen Weg, erhellst du ein Gebiet mit Licht. Ein Androide könnte seinen Kopfstrahler aktivieren, ein Feuermagier eine tanzende Fackelflamme erschaffen und ein Alchemist eine Hellkugel aktivieren.
-  effect: |
-    Wähle einen Raum oder ein Objekt innerhalb deiner Reichweite. Außergewöhnliches Licht fließt vom Ziel aus bis zu einem Radius von 5' pro Kraftlevel des Wohls. Falls das Lichtgebiet sich mit dem Gebiet eines Dunkelheitswohls überschneidet, wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen in dem von beiden betroffenen Gebiet wieder das ohne die Wohle herrschende Lichtumstände.
-- !
-  name: Voraussicht
-  OGname: Precognition
-  tags:
-  - Außergewöhnlich
-  OGtags:
-  - Extraordinary
-  power:
-  - 1
-  - 3
-  - 5
-  - 7
-  attribute:
-  - Vorwissen
-  OGattribute:
-  - Prescience
-  invocationTime: 1 Minute
-  duration: 1 Runde
-  description: |
-    Du blickst in die Zukunft und erhälst so Wissen über den Verlauf einer Handlung, eines Ereignissen, einer Person oder eines Ortes durch die Zeit. Beispiele für dieses Wohl umfassen Wahrsager, die ihre Knochen werfen, geniale Detektive, die Beweismittel analysieren, Priester, die eine höhere Macht um Führung anbeten oder hochentwickelte künstliche Intelligenzen, die jede mögliche Konsequenz von Geschehnissen berechnen.
-  effect: |
-    <ul>
-    <li><strong>Kraftlevel 1</strong> - Das Ziel stellt eine Frage über den Ablauf einer Handlung, die es innerhalb der nächsten fünf Minuten ausführen will. Der GM kommuniziert die gewonnene Einsicht durch wage Symbole, Eindrücke oder ein einziges Wort wie "positiv" oder "negativ".</li>
-    <li><strong>Kraftlevel 3</strong> - Das Ziel stellt eine Frage über eine Handlung, die es innerhalb der nächsten Stunde ausführen will. Der GM kommuniziert die gewonnene Einsicht durch wage Symbole, Eindrücke oder ein einziges Wort wie "positiv" oder "negativ".</li>
-    <li><strong>Kraftlevel 5</strong> - Das Ziel stellt eine Frage über ein bestimmtes Ereignis, eine Entscheidung, Person, einen Ort usw.. Der GM gibt eine knappe aber sinnvolle Erklärung in einem oder zwei Sätzen, die eine direkte Antwort für das Wissen ist, das das Ziel sucht. Nur eine Frage kann über ein bestimmtes Thema pro Woche gestellt werden.</li>
-    <li><strong>Kraftlevel 7</strong> - Das Ziel wählt ein bestimmtes Ereignis, eine Entscheidung, Person, einen Ort usw.. Nachdem das Wohl gewirkt wurde, beginnt das Ziel, übernatürliche Erlebnisse zu haben (Visionen, Trancen, Träume, außerkörperliche Erfahrungen, usw. ...), durch die der GM detaillierte Informationen über das gewählte Thema kommuniziert. Du kannst nur ein solches Thema auf einmal haben, Konzentration ist aber nicht nötig, um dieses aufrechtzuerhalten. Die Verbindung kannst du selbst beenden, oder aber sie endet, wenn du zu einem neuen Thema wechselst.</li>
-    </ul>
 - !
   name: Lesung
   OGname: Reading
@@ -582,6 +457,56 @@
     <li><strong>Kraftlevel 8</strong> - Wähle eins: Das Ziel sieht eine Vision des letzten wichtigen Ereignisses, das nahe dem Objekt oder an dem Ort stattfand - ODER - das Ziel fragt, ob ein bestimmtes Ereignis sich besonders auf das Objekt oder den Ort eingeprägt hat.</li>
     <li><strong>Kraftlevel 9</strong> - Das Ziel ist mit genug Zeit in der Lage, alle Erinnerungen hervorzurufen, die auf das Objekt oder den Ort eingeprägt sind. Du musst dafür deine Konzentration aufrechterhalten, wobei du alle 10 Minuten eine neue Vision der Vergangenheit des Objekts oder Ortes ergibt. Der GM bestimmt, in welcher Reihenfolge die Informationen aufgedeckt werden. Nach Abwägen des GM können verborgene oder besonders ferne Erinnerungen deutlich mehr Zeit benötigen, um gefunden zu werden.</li>
     </ul>
+- !
+  name: Licht
+  OGname: Light
+  tags:
+  - Außergewöhnlich
+  OGtags:
+  - Extraordinary
+  power:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  attribute:
+  - Schöpfung
+  - Energie
+  OGattribute:
+  - Creation
+  - Energy
+  invocationTime: 1 kleine Aktion
+  duration: Aufrechterhalten verlängert
+  description: |
+    Egal ob durch eine magische Beschwörung, Energiemanipulation oder einen anderen Weg, erhellst du ein Gebiet mit Licht. Ein Androide könnte seinen Kopfstrahler aktivieren, ein Feuermagier eine tanzende Fackelflamme erschaffen und ein Alchemist eine Hellkugel aktivieren.
+  effect: |
+    Wähle einen Raum oder ein Objekt innerhalb deiner Reichweite. Außergewöhnliches Licht fließt vom Ziel aus bis zu einem Radius von 5' pro Kraftlevel des Wohls. Falls das Lichtgebiet sich mit dem Gebiet eines Dunkelheitswohls überschneidet, wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen in dem von beiden betroffenen Gebiet wieder das ohne die Wohle herrschende Lichtumstände.
+- !
+  name: Objekt absorbieren
+  OGname: Absorb Object
+  tags:
+  - Außergewöhnlich
+  OGtags:
+  - Extraordinary
+  power:
+  - 4
+  attribute:
+  - Wandlung
+  - Bewegung
+  OGattribute:
+  - Alteration
+  - Movement
+  invocationTime: 1 große Aktion
+  duration: Permanent
+  description: |
+    Indem du deinen physischen Körperaufbau neustrukturierst, einen extradimesionalen Raum schaffst, ein cybernetisches Taschenimplantat oder andere Wege nutzt, kannst du ein Objekt in deinen Körper absorbieren, sodass es vollständig vor anderen verboren ist und jederzeit wieder hervorgeholt werden kann.
+  effect: |
+    Das Objekt verbleibt vollständig vor der Wahrnehmung anderer verborgen in deinem Körper, bis das Ziel es als kleine Aktion wieder hervorruft. Falls etwas passiert, was dieses Wohl auflöst (zum Beispiel das Wohl *nullifizieren*), wird das Objekt sofort aus dem Körper des Ziels herausgeholt, als wäre es absichtlich hervorgeholt.
 - !
   name: Regeneration
   OGname: Regeneration
@@ -651,186 +576,27 @@
     <li><strong>Kraftlevel 9</strong> - Das Ziel ist immun gegen Schaden und schadvolle Effekte durch Angriffe der gewählten Art.</li
     </ul>
 - !
-  name: Wiederherstellung
-  OGname: Restoration
+  name: Substanzlos
+  OGname: Insubstantial
   tags:
   - Außergewöhnlich
   OGtags:
   - Extraordinary
   power:
-  - 1
-  - 2
-  - 3
-  - 4
-  - 5
-  - 6
   - 7
-  - 8
-  - 9
-  attribute:
-  - Schöpfung
-  - Schutz
-  OGattribute:
-  - Creation
-  - Protection
-  invocationTime: 1 große Aktion
-  duration: Augenblicklich
-  description: |
-    Indem du Schutzmagie wirkst oder ähnliche Mächte wirkst, annullierst du alle schädlichen Zustände, die auf dein Ziel wirken. Beispiele dieses Wohls in Aktion umfassen Kleriker, die eine Verzauberung brechen, einen Ingenieur, der Rettungsbots aussendet oder ein Frontdoktor, der fortschrittliche Medizintechnik anwendet.
-  effect: |
-    Du kannst alle Harme auf einem Kraftlevel unter oder gleich dem Kraftlevel dieses Wohls auflösen, die auf deinem Ziel liegen.
-    <ul>
-    <li><strong>Kraftlevel 1</strong> - Löse Harme von Kraftlevel 1 oder niedriger auf. </li>
-    <li><strong>Kraftlevel 2</strong> - Löse Harme von Kraftlevel 2 oder niedriger auf. </li>
-    <li><strong>Kraftlevel 3</strong> - Löse Harme von Kraftlevel 3 oder niedriger auf. </li>
-    <li><strong>Kraftlevel 4</strong> - Löse Harme von Kraftlevel 4 oder niedriger auf. </li>
-    <li><strong>Kraftlevel 5</strong> - Löse Harme von Kraftlevel 5 oder niedriger auf. </li>
-    <li><strong>Kraftlevel 6</strong> - Löse Harme von Kraftlevel 6 oder niedriger auf. </li>
-    <li><strong>Kraftlevel 7</strong> - Löse Harme von Kraftlevel 7 oder niedriger auf. </li>
-    <li><strong>Kraftlevel 8</strong> - Löse Harme von Kraftlevel 8 oder niedriger auf. </li>
-    <li><strong>Kraftlevel 9</strong> - Löse Harme von Kraftlevel 9 oder niedriger auf. </li>
-    </ul>
-  special: |
-    Du kannst auch Harme über dem Kraftlevel dieses Wohls auflösen. Dafür muss das Wohl mit einem Aktionswurf gewirkt worden sein (diese Anwendung kann also nicht durch automatischen Erfolg wie bei der Fertigkeit <em>Wohlfokus</em> erreicht werden). Der Herausforderungswert, um einen Harm höheren Kraftlevels zu lösen ist gleich 20 + 2 x Kraftlevel des Harms. Ein Harm von Kraftlevel 9 kann also mit einem Wurfergebnis von 38 beim Aktionswurf für dieses Wohl aufgelöst werden, selbst wenn der wirkende Charakter keinen Attributwert von 9 im genutzten Attribut hat.
-- !
-  name: Treusicht[?]
-  OGname: Seeing
-  tags:
-  - Außergewöhnlich
-  OGtags:
-  - Extraordinary
-  power:
-  - 4
-  - 5
-  - 6
-  attribute:
-  - Vorwissen
-  OGattribute:
-  - Prescience
-  invocationTime: 1 große Aktion
-  duration: Aufrechterhalten verlängert
-  description: |
-    Du bist in der Lage, durch die Augen eines willenden Verbündeten zu sehen. Diese Fähigkeit kann aus einer psychischen Verbindung, einem cybernetischen Implantat oder einer magischen Verzauberung stammen.
-  effect: |
-    Solange du dich konzentrierst, kannst du durch die Augen deines Ziels sehen, das ein willender Verbündeter sein muss. Das Ziel kann eine befreundete Kreatur sein, darunter Tiere, Biester und Humanoide. Die maximale Distanz der Verbindung hängt vom Kraftlevel dieses Wohls ab.
-    <ul>
-    <li><strong>Kraftlevel 4</strong> - Der Verbündete muss innerhalb von 100' verbleiben.</li>
-    <li><strong>Kraftlevel 5</strong> - Der Verbündete muss innerhalb einer Meile verbleiben.</li>
-    <li><strong>Kraftlevel 6</strong> - Der Verbündete muss auf der gleichen Ebene der Realität oder in der gleichen Dimension verbleiben.</li>
-    </ul>
-  special: |
-    Falls dein Aktionswurf fehlschlägt, kannst du mit diesem Wohl für 1 Stunde nicht den gleichen Verbündeten als Ziel wählen.
-- !
-  name: Gestaltwandel
-  OGname: Shapeshift
-  tags:
-  - Außergewöhnlich
-  OGtags:
-  - Extraordinary
-  power:
-  - 2
-  - 3
-  - 4
-  - 5
-  - 6
-  - 7
-  - 8
   attribute:
   - Wandlung
-  OGattribute:
-  - Alteration
-  invocationTime: 1 große Aktion
-  duration: Aufrechterhalten verlängert
-  description: |
-    Die physische Struktur des Ziels ist temporär verändert, sodass es potentiell die Form jeder Kreatur annehmen kann, egal wie fantastisch oder exotisch. Häufige Beispiele von Gestaltwandel schließen Lykantropen (wie Werwölfe), amorphe Aliens, Doppelgänger und bestimmte Arten von Druiden ein.
-  effect: |
-    Das Ziel verwandelt sich in eine Kreatur, deren höchster Attributwert gleich oder kleiner deinem Wert in Wandlung ist. Mit der Ausnahme von Wandlung, fallen alle außergewöhnlichen Attributwerte des Ziels auf 0 und es erhält in Beweglichkeit, Konstitution, Kraft und Wahrnehmung die Werte der neuen Form.
-    Der GM, nicht der Spieler, ist dafür verantwortlich, die Attribute und Fähigkeiten der Kreatur zu bestimmen. Es wird empfohlen, dass die Kreatur den Leitlinien in der Sektion "Einfacher Aufbau" zum Erstellen von NPCs in Kapitel 8: Das Spiel leiten, folgt.
-    Um seine Trefferpunkte im Blick zu behalten, sollte das Ziel den gesamten Schaden festhalten, den es erlitten hat. Bei der Verwandlung bleibt der Schaden erhalten, selbst wenn maximale Trefferpunkte sich verändern. Beispielsweise hat Vera maximal 20 TP, ist aber in einen Drachen verwandelt, weshalb ihre Konstitution von 5 auf 9 erhöht ist, sodass ihre Trefferpunkte nun 28 sind. Im Kampf erleidet sie 10 Schaden. Später, als sie sich zurückverwandelt, bleiben diese 10 Schaden bestehen und werden von ihrem jetztigen Maximum von 20 subtrahiert, sodass sie nun 10 TP hat. Falls eine Verwandlung die TP eines Charakters auf weniger als 1 fallen lassen würde, werden die TP des Ziels stattdessen auf 1 gesetzt.
-    Beschränkungen für die Verwandlung existieren je nach Kraftlevel des Wohls und werden mit zunehmendem Kraftlevel nach und nach entfernt:
-    <em>Merke: Die Eigenschaften der Formen sind mit zunehmenden Kraftleveln kummulativ.</em>
-    <ul>
-    <li><strong>Kraftlevel 2</strong> - Die neue Form muss die gleiche Größe und eine ähnliche Physiologie haben, wie das Ziel selbst. Beispiele verschiedener physiologischer Klassifizierungen wären Tiere, Pflanzen, Elementare und Schleime. Diese Liste ist nicht abschließend und der GM hat das letzte Wort darin, welche Formen möglich sind. Das Ziel erhält keine neuen Formen der Bewegung (Flug, Schwimmen, Klettern, Graben, usw. ...). Das Ziel erhält keine außergewöhnlichen Attribute der neuen Form (kann also keine wirken, die sich auf die außergewöhnlichen Attribute der Form verlassen).</li>
-    <li><strong>Kraftlevel 3</strong> - Gestaltwandel in eine Form zwischen halb und doppelt so groß wie das Ziel. Erhalte jegliche nicht-fliegenden Bewegungsarten der neuen Form.</li>
-    <li><strong>Kraftlevel 4</strong> - Gestaltwandeln in eine Form zwischen einem Viertel und vier Mal so groß wie das Ziel.</li>
-    <li><strong>Kraftlevel 5</strong> - Erhalte die fliegende Bewegung der neuen Form, falls diese eine hat.</li>
-    <li><strong>Kraftlevel 6</strong> - Gestaltwandel in eine lebende Form einer anderen Physiologie, z.B. Elementare, Schleime oder eine Pflanze.</li>
-    <li><strong>Kraftlevel 7</strong> - Erhalte alle außergewöhnlichen Attribute der neuen Form. Falls beide Formen ein Wandlung-Attribut haben, wählt das Ziel zwischen den beiden Werten.</li>
-    <li><strong>Kraftlevel 8</strong> - Gestaltwandel in eine Kreatur jeder möglichen Größe.</li>
-    </ul>
-  special: |
-    Sich in eine bestimmte Kreatur zu verwandeln (wobei man sich als diese ausgeben möchte) erfordert einen Täuschungswurf, der vom Wahrnehmungsattribut aller bestritten wird, die das verwandelte Ziel sehen. Weiterhin erhält das Ziel bei Kraftlevel 4 und niedriger keine Expertise in besonderen Bewegungsformen der neuen Form, sodass seine Geschwindigkeit in diesen neuen Bewegungsformen halbiert ist. Der GM kann außerdem entscheiden, dass manche Handlungen, die diese Bewegungsformen nutzen, z.B. unter Beschuss zu schwimmen, mit Nachteil durchgeführt werden.
-- !
-  name: Kreatur beschwören
-  OGname: Summon Creature
-  tags:
-  - Außergewöhnlich
-  OGtags:
-  - Extraordinary
-  power:
-  - 4
-  - 5
-  - 6
-  - 7
-  - 8
-  - 9
-  attribute:
-  - Wandlung
-  - Schöpfung
   - Vergehen
-  - Energie
   OGattribute:
   - Alteration
-  - Creation
   - Entropy
-  - Energy
-  invocationTime: 1 Fokusaktion
+  invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    Du beschwörst eine Kreatur, um dir zur Seite zu stehen, egal ob es sich um Tier handelt, das du aus der Wildnis gerufen hast, untote Bedienstete, die aus den Körperteilen deiner Feinde zusammengesetzt sind oder Arbeiterroboter, die du aus Schrott zusammengebaut hast. Dieses Wohl ist beliebt bei Druiden, Beschwörern, Ingenieuren, Nekromanten und verrückten Wissenschaftlern.
+    Wird eine Kreatur substanzlos, so ist sie nicht mehr an physische Barrieren gebunden. Geister, Zauberer die eine Gasform annehmen und Kreaturen, die zwischen Ebenen der Realität wechseln können sind Beispiele, die das Wohl Substanzlos nutzen könnten.
   effect: |
-    Du erschaffst oder beschwörst einen temporären NPC-Verbündeten, der sich unter deiner Kontrolle befindet, wobei dieser aber von begrenzter Intelligenz ist. Die Werte des NPCs werden durch das Kraftlevel dieses Wohls bestimmt. Du kannst die Attributwerte frei unter den folgen Attributen verteilen: Beweglichkeit, Konstitution, Kraft, Wahrnehmung, Energie, Vergehen. Die Attribute deines NPCs wirken sich nicht auf seine Trefferpunkte oder Verteidigungen aus.
-    <table><tbody><tr class="header"><th>Kraftlevel</th><th>Trefferpunkte</th><th>Verteidigungen</th><th>Attribute</th></tr><tr class="odd"><td>4</td><td>4</td><td>11</td><td>2, 1, 1</td></tr><tr class="even"><td>5</td><td>5</td><td>12</td><td>3, 2, 2</td></tr><tr class="odd"><td>6</td><td>6</td><td>13</td><td>4, 3, 3</td></tr><tr class="even"><td>7</td><td>7</td><td>14</td><td>5, 4, 4</td></tr><tr class="odd"><td>8</td><td>8</td><td>15</td><td>6, 5, 5</td></tr><tr class="even"><td>9</td><td>9</td><td>16</td><td>7, 6, 6</td></tr></tbody></table>
-    Dein NPC kann nicht in dem Zug handeln, in dem er beschwört wird. In jeder folgenden Runde handelt der NPC in deinem Zug nach deinen Anweisungen. Der NPC hat die normale Verteilung von Aktionen pro Runde. Du kannst eine maximale Anzahl an beschworenen NPC gleich dem für die Beschwörungen genutzten Attributwert gleichzeitig haben. Fertigkeiten und andere Fähigkeiten können dieses Limit nicht erhöhen.
-  special: |
-    Von diesem Wohl beschworene Kreaturen können nicht geheilt werden, falls sie 0 TP erreichen. Sie sind permanent tot. Kreaturen, die durch dieses Wohl beschworen wurden, können dieses Wohl nicht nutzen.
-    Multi-Zielen funktioniert für dieses Wohl nicht wie bei anderen Wohlen. Du kannst ein einziges Wirken dieses Wohls benutzen, um mehrere Kreaturen zu beschwören. Für jede weitere Kreatur, die du beschwören willst, hast du Nachteil 2 auf den Aktionswurf zum Wirken des Wohls. Effekte, die Nachteile durch Multi-Zielen verändern, funktionieren hierfür normal.
-- !
-  name: Versorgung
-  OGname: Sustenance
-  tags:
-  - Außergewöhnlich
-  OGtags:
-  - Extraordinary
-  power:
-  - 3
-  - 4
-  - 5
-  - 7
-  - 9
-  attribute:
-  - Wandlung
-  - Schöpfung
-  - Schutz
-  OGattribute:
-  - Alteration
-  - Creation
-  - Protection
-  invocationTime: 1 große Aktion
-  duration: 24 Stunden
-  description: |
-    Du schützt das Ziel vor Umgebungsgefahren oder frierst seine normalen biologischen Notwendigkeiten ein. Beispiele umfassen das Wachsen von Kiemen um unterwasser atmen zu können, das Anrufen einer höheren Macht um ohne Essen auszukommen oder zukunftstechnologische Biomodifikationen des Körpers, um extremer Kälte zu widerstehen.
-  effect: |
-    Du schützt das Ziel vor einer Umgebungsgefahr, einer biologischen Notwendigkeit oder einem ähnlichen Umstand. Das Kraftlevel dieses Wohls bestimmt die Art von Umstand, vor der du schützen kannst.
-    <ul>
-    <li><strong>Kraftlevel 3</strong> - Das Ziel bleibt von einer gewählten Art gefährlicher Witterung unberührt. Beispiele schließen Hitze, Kälte oder Strahlung ein.</li>
-    <li><strong>Kraftlevel 4</strong> - Das Ziel kann eine biologische Notwendigkeit durch eine alternative Quelle erfüllen, wie etwa den Sauerstoff in Wasser zu atmen, aus einem verstrahlten Fluss zu trinken oder ungenießbares Essen zu verzehren.</li>
-    <li><strong>Kraftlevel 5</strong> - Das Ziel kann ohne normalerweise täglich nötige Ressourcen wie Essen und Wasser auskommen.</li>
-    <li><strong>Kraftlevel 7</strong> - Das Ziel kann ohne kritisch lebensnotwendige Ressourcen wie Luft zum Atmen auskommen.</li>
-    <li><strong>Kraftlevel 9</strong> - Das Ziel bleibt unberührt, selbst wenn es von allen nötigen biologischen Ressourcen wie Wärme, Wasser, Luft, Essen und allen anderen abgeschnitten ist.</li>
-    </ul>
-  special: |
-    Du kannst nur eine Instanz dieses Wohls auf einmal aktiv haben. Sobald du das Wohl wirkst, werden alle vorigen Wirkungen automatisch aufgelöst.
+    Das Ziel erhält die Fähigkeit, frei durch alle physischen Barrieren zu passieren, als wären diese leerer Raum. Weiterhin können sie sich frei in jede Richtung sowohl horizontal als auch vertikal mit ihrer Grundgeschwindigkeit bewegen (30' für die meisten Charaktere). Während sie substanzlos sind ist das Ziel immun gegen alle Attacken, die auf Deckung oder Zähigkeit zielen. Sie können aber selbst auch keine Angriffe gegen Deckung oder Zähigkeit ausführen.
+    Falls die Konzentration des Ziel unterbrochen wird oder das Wohl endet, während das Ziel in einer festen Struktur ist, wird das Ziel gewaltsam in die alternative Ebene versetzt, die es für seine substanzlosigkeit genutzt hat (typischerweise eine andere Dimension oder Realitätsebene).
 - !
   name: Telekinese
   OGname: Telekinesis
@@ -917,29 +683,6 @@
     <li><strong>Kraftlevel 9</strong> - Indem du die gleiche längere Wirkzeit von Kraftlevel 7 nutzt, kannst du dein Ziel an einen beliebigen Ort ohre Reichweitenbeschränkung teleportieren (wobei du trotzdem für jede Meile eine Minute wirken musst), solange du den Zielort selbst schonmal gesehen hast (durch normale oder magische Mittel).</li>
     </ul>
 - !
-  name: Zungen
-  OGname: Tongues
-  tags:
-  - Außergewöhnlich
-  OGtags:
-  - Extraordinary
-  power:
-  - 5
-  - 6
-  attribute:
-  - Vorwissen
-  OGattribute:
-  - Prescience
-  invocationTime: 10 Minuten
-  duration: Aufrechterhalten verlängert
-  description: |
-    Du oder ein Verbündeter erhalten temporär die Fähigkeit, Sprachen zu sprechen, lesen und schreiben, die sie normalerweise nicht beherrschen. Diese Fähigkeit stammt von interplanaren Geistern, überintelligenter KI, absurder Lernfähigkeit in Linguistik oder ähnlichen Quellen.
-  effect: |
-    <ul>
-    <li><strong>Kraftlevel 5</strong> - Dein Ziel kann eine Sprache deiner Wahl verstehen und sprechen.</li>
-    <li><strong>Kraftlevel 6</strong> - Dein Ziel kann eine Sprache deiner Wahl lesen.</li>
-    </ul>
-- !
   name: Transmutation
   OGname: Transmutation
   tags:
@@ -970,18 +713,16 @@
     <li><strong>Kraftlevel 9</strong> - Transmutiere ein simples Objekt <em>permanent</em> in ein einfaches oder komplexes Objekt. Das resultierende Objekt muss Wohlstandswert 2 oder niedriger entsprechen.</li>
     </ul>
 - !
-  name: Klarsicht
-  OGname: Truesight
+  name: Treusicht[?]
+  OGname: Seeing
   tags:
   - Außergewöhnlich
   OGtags:
   - Extraordinary
   power:
+  - 4
   - 5
   - 6
-  - 7
-  - 8
-  - 9
   attribute:
   - Vorwissen
   OGattribute:
@@ -989,12 +730,242 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    Du gibst dem Ziel die Fähigkeit, das zu entdecken, was nicht durch normale Sinne wahrgenommen werden kann. Hindernisse, die normale Sinne blockieren würden, z.B. Dunkelheit, Wände oder Objekte, Illusionen und sogar Barrieren zwischen den Dimensionen sind nutzlos gegen die Klarsicht. Diese Fähigkeit kann von übernatürlicher Wahrnehmung stammen, göttlichem Segen, cybernetischen Sinnesimplantaten, usw..
+    Du bist in der Lage, durch die Augen eines willenden Verbündeten zu sehen. Diese Fähigkeit kann aus einer psychischen Verbindung, einem cybernetischen Implantat oder einer magischen Verzauberung stammen.
+  effect: |
+    Solange du dich konzentrierst, kannst du durch die Augen deines Ziels sehen, das ein willender Verbündeter sein muss. Das Ziel kann eine befreundete Kreatur sein, darunter Tiere, Biester und Humanoide. Die maximale Distanz der Verbindung hängt vom Kraftlevel dieses Wohls ab.
+    <ul>
+    <li><strong>Kraftlevel 4</strong> - Der Verbündete muss innerhalb von 100' verbleiben.</li>
+    <li><strong>Kraftlevel 5</strong> - Der Verbündete muss innerhalb einer Meile verbleiben.</li>
+    <li><strong>Kraftlevel 6</strong> - Der Verbündete muss auf der gleichen Ebene der Realität oder in der gleichen Dimension verbleiben.</li>
+    </ul>
+  special: |
+    Falls dein Aktionswurf fehlschlägt, kannst du mit diesem Wohl für 1 Stunde nicht den gleichen Verbündeten als Ziel wählen.
+- !
+  name: Unsichtbar
+  OGname: Invisible
+  tags:
+  - Außergewöhnlich
+  OGtags:
+  - Extraordinary
+  power:
+  - 5
+  - 6
+  attribute:
+  - Wandlung
+  - Einfluss
+  OGattribute:
+  - Alteration
+  - Influence
+  invocationTime: 1 große Aktion
+  duration: Aufrechterhalten verlängert
+  description: |
+    Das Ziel verschwindet aus dem sichtbaren Lichtspektrum, entweder indem es das Licht bricht, eine Illusion erschafft oder in einen extradimensionalen Raum zwischen den Ebenen der Realität tritt. Dieses Wohl ist unter Spezialagenten beliebt, Illusionisten, Schattentänzern, Erfindern und ähnlichen Charakteren.
+  effect: |
+    <strong>MERKE:</strong> Dieses Wohl wurde durch Verborgenheit ersetzt.<br>
+    Licht scheint durch das Ziel hindurch, sodass es transparent wird. Seine physische Form verzerrt die Lichtstrahlen auf eine Weise, die nur die schärfsten Augen wahrnehmen können. Das Ziel erhält Vorteil anhand des Kraftlevels des Wohles auf Beweglichkeitswürfe, um sich zu verstecken. Falls es vollständig stillsteht, wird der Bonus verdoppelt. Die Deckung des Ziels ist gegen Nah- und Fernkampfangriffe erhöht, bleibt gegen Gebietsattacken aber unverändert. Führt das Ziel eine Attacke gegen eine Kreatur aus, die es nicht sehen kann, ist die Deckung der Kreatur reduziert. Du kannst nicht das Ziel von Gelegenheitsattacken durch Feinde werden, die dich nicht wahrnehmen können.
+    <ul>
+    <li><strong>Kraftlevel 5</strong> - Vorteil 3 auf Verstecken, +3 Deckung gegen Nah- und Fernkampfangriffe, -2 Deckung für angegriffe Kreaturen, die dich nicht sehen können.</li>
+    <li><strong>Kraftlevel 6</strong> - Vorteil 5 auf Verstecken, +5 Deckung gegen Nah- und Fernkampfangriffe, -4 Deckung für angegriffene Kreaturen, die dich nicht sehen können.</li>
+    </ul>
+- !
+  name: Verborgenheit
+  OGname: Concealment
+  tags:
+  - Außergewöhnlich
+  OGtags:
+  - Extraordinary
+  power:
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  attribute:
+  - Wandlung
+  - Einfluss
+  OGattribute:
+  - Alteration
+  - Influence
+  invocationTime: 1 große Aktion
+  duration: Aufrechterhalten verlängert
+  description: |
+    Das Ziel ist vor Detektion verborgen, entweder indem es seine Umgebung verändert oder Illusionen erschafft. Dieses Wohl ist besonders beliebt bei Assassinen, Dieben, Schattentänzern, Illusionisten, Erfindern und ähnlichen Charakteren.
+  effect: |
+    <strong>MERKE:</strong> Dieses Wohl ersetzt das Unsichtbarkeitswohl aus dem ersten Heft von "Every Roll Matters Zine (Dezember 2021)".
+    <br>
+    Der wirkende Charakter wählt einen Sinn (wie z.B. Geruch, Klang, Licht (Sicht), Hitze, usw. ...), der eingeschränkt wird. Das Wohl bewirkt, dass alle Reize für diesen Sinn innerhalb von 5' durch außergewöhnliche Mittel unterdrückt werden, sodass das Ziel sehr schwer zu entdecken wird. Das Ziel erhält Vorteil mit Wert anhand des Kraftlevels des Wohls auf Aktionswürfe, um sich zu verstecken oder unentdeckt zu bleiben.
+    <br>
+    Bei Angriffen gegen Gegner, die das Ziel nicht entdecken können, ist deren Deckung reduziert. Auf die gleiche Weise ist die Deckung des Ziels gegen Angriffe von Gegnern erhöht, die das Ziel nicht wahrnehmen. Dieser Bonus gilt nicht für Gebietsattacken.
+    <br>
+    Du kannst nicht Ziel von Gelegenheitsangriffen werden, außer der Gegner ist sich durch ein anderes Sinnesorgan, einem passenden Attributwurf oder anderem Effekt deiner Position bewusst. Ein solcher Gelegenheitsangriff kann nach Abwägung des GM für die momentane Situation unter Nachteil (0, 3 oder 5) leiden.
+    <ul>
+    <li><strong>Kraftlevel 3</strong> - Der Wirker ist in der Lage, seinen Gerucht oder seinen Klang zu unterdrücken. Vorteil 1 um sich zu verstecken, +1 Deckung gegen Angreifer, die das Ziel nicht wahrnehmen können, -1 Deckung für Gegner, die das Ziel nicht wahrnehmen können.</li>
+    <li><strong>Kraftlevel 4</strong> - Der Wirker ist in der Lage, sich vor einem weiteren Sinn zu verbergen.</li>
+    <li><strong>Kraftlevel 5</strong> - Vorteil 3 um sich zu verstecken, +3 Deckung gegen Angreifer, die das Ziel nicht wahrnehmen können, -2 Deckung für Gegner, die das Ziel nicht wahrnehmen können.</li>
+    <li><strong>Kraftlevel 6</strong> - Der Wirker kann sich vor bis zu 2 Sinnen gleichzeitig verbergen. Vorteil 5 um sich zu verstecken, +5 Deckung gegen Angreifer, die das Ziel nicht wahrnehmen können, -4 Deckung für Gegner, die das Ziel nicht wahrnehmen können.</li>
+    <li><strong>Kraftlevel 7</strong> - Der Wirker kann sich vor bis zu 3 Sinnen gleichzeitig verstecken.</li>
+    <li><strong>Kraftlevel 8</strong> - Der Wirker kann sich vor bis zu allen Sinnen gleichzeitig verstecken.</li>
+    </ul>
+- !
+  name: Versorgung
+  OGname: Sustenance
+  tags:
+  - Außergewöhnlich
+  OGtags:
+  - Extraordinary
+  power:
+  - 3
+  - 4
+  - 5
+  - 7
+  - 9
+  attribute:
+  - Wandlung
+  - Schöpfung
+  - Schutz
+  OGattribute:
+  - Alteration
+  - Creation
+  - Protection
+  invocationTime: 1 große Aktion
+  duration: 24 Stunden
+  description: |
+    Du schützt das Ziel vor Umgebungsgefahren oder frierst seine normalen biologischen Notwendigkeiten ein. Beispiele umfassen das Wachsen von Kiemen um unterwasser atmen zu können, das Anrufen einer höheren Macht um ohne Essen auszukommen oder zukunftstechnologische Biomodifikationen des Körpers, um extremer Kälte zu widerstehen.
+  effect: |
+    Du schützt das Ziel vor einer Umgebungsgefahr, einer biologischen Notwendigkeit oder einem ähnlichen Umstand. Das Kraftlevel dieses Wohls bestimmt die Art von Umstand, vor der du schützen kannst.
+    <ul>
+    <li><strong>Kraftlevel 3</strong> - Das Ziel bleibt von einer gewählten Art gefährlicher Witterung unberührt. Beispiele schließen Hitze, Kälte oder Strahlung ein.</li>
+    <li><strong>Kraftlevel 4</strong> - Das Ziel kann eine biologische Notwendigkeit durch eine alternative Quelle erfüllen, wie etwa den Sauerstoff in Wasser zu atmen, aus einem verstrahlten Fluss zu trinken oder ungenießbares Essen zu verzehren.</li>
+    <li><strong>Kraftlevel 5</strong> - Das Ziel kann ohne normalerweise täglich nötige Ressourcen wie Essen und Wasser auskommen.</li>
+    <li><strong>Kraftlevel 7</strong> - Das Ziel kann ohne kritisch lebensnotwendige Ressourcen wie Luft zum Atmen auskommen.</li>
+    <li><strong>Kraftlevel 9</strong> - Das Ziel bleibt unberührt, selbst wenn es von allen nötigen biologischen Ressourcen wie Wärme, Wasser, Luft, Essen und allen anderen abgeschnitten ist.</li>
+    </ul>
+  special: |
+    Du kannst nur eine Instanz dieses Wohls auf einmal aktiv haben. Sobald du das Wohl wirkst, werden alle vorigen Wirkungen automatisch aufgelöst.
+- !
+  name: Verstärken
+  OGname: Bolster
+  tags:
+  - Außergewöhnlich
+  - Körperlich
+  OGtags:
+  - Extraordinary
+  - Physical
+  power:
+  - 3
+  - 6
+  - 8
+  attribute:
+  - Wandlung
+  - Schöpfung
+  - Vorwissen
+  - Präsenz
+  OGattribute:
+  - Alteration
+  - Creation
+  - Prescience
+  - Presence
+  invocationTime: 1 große Aktion
+  duration: Aufrechterhalten verlängert
+  description: |
+    Du verbesserst die Erfolgschancen deines Ziels mithilfe von Inspiration, Augmentation, himmlischen Segens oder übernatürlicher Einsicht. Dein Ziel wird kompetenter als es normalerweise ist. Du könntest das Sehvermögen eines Adlers geben, die Kombinationsgabe eines Elitehackers oder aber die soziale Anmut eines trainierten Höflings.
+  effect: |
+    Wähle ein einziges Attribut. Dein Ziel erhält Vorteil auf Aktionswürfe mit diesem Attribut anhand des Kraftlevels des Wohls.
+    <ul>
+    <li><strong>Kraftlevel 3</strong> - Vorteil 1</li>
+    <li><strong>Kraftlevel 6</strong> - Vorteil 2</li>
+    <li><strong>Kraftlevel 8</strong> - Vorteil 3</li>
+    </ul>
+- !
+  name: Voraussicht
+  OGname: Precognition
+  tags:
+  - Außergewöhnlich
+  OGtags:
+  - Extraordinary
+  power:
+  - 1
+  - 3
+  - 5
+  - 7
+  attribute:
+  - Vorwissen
+  OGattribute:
+  - Prescience
+  invocationTime: 1 Minute
+  duration: 1 Runde
+  description: |
+    Du blickst in die Zukunft und erhälst so Wissen über den Verlauf einer Handlung, eines Ereignissen, einer Person oder eines Ortes durch die Zeit. Beispiele für dieses Wohl umfassen Wahrsager, die ihre Knochen werfen, geniale Detektive, die Beweismittel analysieren, Priester, die eine höhere Macht um Führung anbeten oder hochentwickelte künstliche Intelligenzen, die jede mögliche Konsequenz von Geschehnissen berechnen.
   effect: |
     <ul>
-    <li><strong>Kraftlevel 5</strong> - Das Ziel sieht die Präsenz außergewöhnlicher Vorkommnisse wie Magie, Tarntechnologie und anderer Mittel, die nur durch übernatürliche Sinne wahrgenommen werden können. Zusätzlich gibt dieses Wohl Vorteil 1 auf Aktionswürfe, mit denen einfache Verstecke durchschaut werden sollen, wie z.B. verborgene Türen, Fächer mit doppeltem Boden, nicht-magische Fallen oder andere normale versteckte Bedrohungen.</li>
-    <li><strong>Kraftlevel 6</strong> - Die übernatürliche Wahrnehmung des Ziels durchdringt natürliche und magische Dunkelheit.</li>
-    <li><strong>Kraftlevel 7</strong> - Die übernatürliche Wahrnehmung des Ziels durchdringt alle illusorischen Effekte, sodass es auch <em>Phantasmen</em> als das erkenen kann, was sie wirklich sind.</li>
-    <li><strong>Kraftlevel 8</strong> - Das Ziel kann durch feste Wände und Objekte sehen und seine natürliche Sichtreichweite ist von ihnen unbehindert.</li>
-    <li><strong>Kraftlevel 9</strong> - Die übernatürliche Wahrnehmung des Ziels erlaubt es ihm, in andere Dimensionen oder Ebenen der Realität zu blicken. Es kann dimensionale Taschenräume erkennen und mit der eigenen Realität überlappende Ebenen durchschauen. Weiterhin ist seine Sichtreichweite stark erhöht.</li>
+    <li><strong>Kraftlevel 1</strong> - Das Ziel stellt eine Frage über den Ablauf einer Handlung, die es innerhalb der nächsten fünf Minuten ausführen will. Der GM kommuniziert die gewonnene Einsicht durch wage Symbole, Eindrücke oder ein einziges Wort wie "positiv" oder "negativ".</li>
+    <li><strong>Kraftlevel 3</strong> - Das Ziel stellt eine Frage über eine Handlung, die es innerhalb der nächsten Stunde ausführen will. Der GM kommuniziert die gewonnene Einsicht durch wage Symbole, Eindrücke oder ein einziges Wort wie "positiv" oder "negativ".</li>
+    <li><strong>Kraftlevel 5</strong> - Das Ziel stellt eine Frage über ein bestimmtes Ereignis, eine Entscheidung, Person, einen Ort usw.. Der GM gibt eine knappe aber sinnvolle Erklärung in einem oder zwei Sätzen, die eine direkte Antwort für das Wissen ist, das das Ziel sucht. Nur eine Frage kann über ein bestimmtes Thema pro Woche gestellt werden.</li>
+    <li><strong>Kraftlevel 7</strong> - Das Ziel wählt ein bestimmtes Ereignis, eine Entscheidung, Person, einen Ort usw.. Nachdem das Wohl gewirkt wurde, beginnt das Ziel, übernatürliche Erlebnisse zu haben (Visionen, Trancen, Träume, außerkörperliche Erfahrungen, usw. ...), durch die der GM detaillierte Informationen über das gewählte Thema kommuniziert. Du kannst nur ein solches Thema auf einmal haben, Konzentration ist aber nicht nötig, um dieses aufrechtzuerhalten. Die Verbindung kannst du selbst beenden, oder aber sie endet, wenn du zu einem neuen Thema wechselst.</li>
+    </ul>
+- !
+  name: Wiederherstellung
+  OGname: Restoration
+  tags:
+  - Außergewöhnlich
+  OGtags:
+  - Extraordinary
+  power:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  attribute:
+  - Schöpfung
+  - Schutz
+  OGattribute:
+  - Creation
+  - Protection
+  invocationTime: 1 große Aktion
+  duration: Augenblicklich
+  description: |
+    Indem du Schutzmagie wirkst oder ähnliche Mächte wirkst, annullierst du alle schädlichen Zustände, die auf dein Ziel wirken. Beispiele dieses Wohls in Aktion umfassen Kleriker, die eine Verzauberung brechen, einen Ingenieur, der Rettungsbots aussendet oder ein Frontdoktor, der fortschrittliche Medizintechnik anwendet.
+  effect: |
+    Du kannst alle Harme auf einem Kraftlevel unter oder gleich dem Kraftlevel dieses Wohls auflösen, die auf deinem Ziel liegen.
+    <ul>
+    <li><strong>Kraftlevel 1</strong> - Löse Harme von Kraftlevel 1 oder niedriger auf. </li>
+    <li><strong>Kraftlevel 2</strong> - Löse Harme von Kraftlevel 2 oder niedriger auf. </li>
+    <li><strong>Kraftlevel 3</strong> - Löse Harme von Kraftlevel 3 oder niedriger auf. </li>
+    <li><strong>Kraftlevel 4</strong> - Löse Harme von Kraftlevel 4 oder niedriger auf. </li>
+    <li><strong>Kraftlevel 5</strong> - Löse Harme von Kraftlevel 5 oder niedriger auf. </li>
+    <li><strong>Kraftlevel 6</strong> - Löse Harme von Kraftlevel 6 oder niedriger auf. </li>
+    <li><strong>Kraftlevel 7</strong> - Löse Harme von Kraftlevel 7 oder niedriger auf. </li>
+    <li><strong>Kraftlevel 8</strong> - Löse Harme von Kraftlevel 8 oder niedriger auf. </li>
+    <li><strong>Kraftlevel 9</strong> - Löse Harme von Kraftlevel 9 oder niedriger auf. </li>
+    </ul>
+  special: |
+    Du kannst auch Harme über dem Kraftlevel dieses Wohls auflösen. Dafür muss das Wohl mit einem Aktionswurf gewirkt worden sein (diese Anwendung kann also nicht durch automatischen Erfolg wie bei der Fertigkeit <em>Wohlfokus</em> erreicht werden). Der Herausforderungswert, um einen Harm höheren Kraftlevels zu lösen ist gleich 20 + 2 x Kraftlevel des Harms. Ein Harm von Kraftlevel 9 kann also mit einem Wurfergebnis von 38 beim Aktionswurf für dieses Wohl aufgelöst werden, selbst wenn der wirkende Charakter keinen Attributwert von 9 im genutzten Attribut hat.
+- !
+  name: Zungen
+  OGname: Tongues
+  tags:
+  - Außergewöhnlich
+  OGtags:
+  - Extraordinary
+  power:
+  - 5
+  - 6
+  attribute:
+  - Vorwissen
+  OGattribute:
+  - Prescience
+  invocationTime: 10 Minuten
+  duration: Aufrechterhalten verlängert
+  description: |
+    Du oder ein Verbündeter erhalten temporär die Fähigkeit, Sprachen zu sprechen, lesen und schreiben, die sie normalerweise nicht beherrschen. Diese Fähigkeit stammt von interplanaren Geistern, überintelligenter KI, absurder Lernfähigkeit in Linguistik oder ähnlichen Quellen.
+  effect: |
+    <ul>
+    <li><strong>Kraftlevel 5</strong> - Dein Ziel kann eine Sprache deiner Wahl verstehen und sprechen.</li>
+    <li><strong>Kraftlevel 6</strong> - Dein Ziel kann eine Sprache deiner Wahl lesen.</li>
     </ul>

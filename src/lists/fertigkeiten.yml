@@ -37,84 +37,6 @@
     Deine alternative Gestalt kann nicht die Fertigkeit <em>Alternative Gestalt</em> erwerben.
     Mit der Zustimmung des GM kannst du diese Fertigkeit mehr als einmal wählen. Falls du dies tust, erhälst du eine weitere alternative Gestalt. Mehrere Alternative Gestalten können ein mächtiger Weg sein, viele neue Attribute und Fertigkeitenpunkte zu sammeln. Der GM sollte Spielende daran hindern, mithilfe dieser Fertigkeit übermäßig mächtige Charaktere zu gestalten.
 - !
-  name: Gebietsmanipulation (I - V)
-  OGname: Area Manipulation (I - V)
-  prerequisites:
-    tier1:
-      Other:
-      - Keine
-    tier2:
-      Other:
-      - Keine
-    tier3:
-      Other:
-      - Keine
-    tier4:
-      Other:
-      - Keine
-    tier5:
-      Other:
-      - Keine
-  OGprerequisites:
-    tier1:
-      Other:
-      - None
-    tier2:
-      Other:
-      - None
-    tier3:
-      Other:
-      - None
-    tier4:
-      Other:
-      - None
-    tier5:
-      Other:
-      - None
-  tags:
-  - Keine Voraussetzungen
-  - Außergewöhnlich
-  OGtags:
-  - No Prerequisite
-  - Extraordinary
-  cost:
-  - 1
-  description: |
-    Egal, ob du dein vollautomatisches Sturmgewehr für dich sprechen lässt oder eine Flammenkugel wirfst, bist du besonders präzise darin, die Ziele deine Gebietsattacken anzuvisieren, sodass du Verbündete im Gebiet nicht im Kreuzfeuer hast.
-  effect: |
-    Für jeden Rang dieser Fertigkeit, den du besitzt, kannst du ein einziges 5' Rechteck aus dem Zielgebiet einer Gebietsattacke ausnehmen.
-- !
-  name: Rüstungsexpertise (I - II)
-  OGname: Armor Mastery (I - II)
-  prerequisites:
-    tier1:
-      Other:
-      - Keine
-    tier2:
-      Other:
-      - Keine
-  OGprerequisites:
-    tier1:
-      Other:
-      - None
-    tier2:
-      Other:
-      - None
-  tags:
-  - Keine Voraussetzungen
-  OGtags:
-  - No Prerequisite
-  cost:
-  - 3
-  description: |
-    Ob du ein schwer gepanzerter Mecharitter bist oder ein flinker Schurke in gestutztem Leder, sind du und deine Rüstung eins. Dein Training und deine Erfahrung im Tragen von Rüstung erlauben es dir, ihren Schutzt zu maximieren und ihre Nachteile zu minimieren.
-  effect: |
-    Dein Training lässt dich in deiner Rüstung schlafen, ohne dass du danach ein Level des Harmes <em>erschöpft</em> erleidest. Weiterhin erhält du beim Tragen von Rüstung die folgenden Vorteile:
-    <ul>
-    <li><strong>Rang 1</strong> - Die Konstitutionsvoraussetzungen von Rüstungen sind um 1 reduziert. Während du Rüstung trägst, erhälst du +1 Deckung.</li>
-    <li><strong>Rang 2</strong> - Die Konstitutionsvoraussetzungen von Rüstungen sind um 2 reduziert. Während du Rüstung trägst, erhälst du +2 Deckung. Jegliches Geschwindigkeitsmalus durch eine Rüstung ist um 5' reduziert.</li>
-    </ul>
-- !
   name: Angriff Umleiten
   OGname: Attack Redirection
   prerequisites:
@@ -311,897 +233,28 @@
     </ul>
     Die Verbindung zwischen zwei Attributen muss immer Fall für Fall entschieden werden, wobei die Zustimmung des GM nötig ist. Die Verbindung muss im Kontext der Handlung und des Settings Sinn ergeben, in dem die Kampagne spielt. Beispielsweise könnte ein Barbar sein Logikattribut sein Kraftattribut ersetzen lassen, wenn es um die Anwendung von Hebelwirkung im Ringen mit Feinden geht. Das bedeutet aber nicht, dass der gleiche Barbar sein Logikattribut nutzen könnte, um die Stahlstäbe einer Gefängniszelle aufzubiegen. Weiterhin sollte der GM Spielende daran hindern, unlogische Verbindungen zu benutzen, die nur dazu da sind, übermäßig starke Charaktere ohne Handlungsbezug zu schaffen. Zwei sinnvolle Beispiele dieser Fertigkeit wären ein kluger Krieger, der Hebelwirkung, Momentum und Physik zu seinem Vorteil nutzt und so Kraft durch Logik ersetzt oder eine Revolverhelding, die Beweglichkeit durch Vergehen ersetzt und durch das Beschwören dunkler Energie ihre Sinne schärft und so besser zielen kann.
 - !
-  name: Harmfokus
-  OGname: Bane Focus
+  name: Außergewöhnliche Heilung
+  OGname: Extraordinary Healing
   prerequisites:
     tier1:
-      Other:
-      - Fähigkeit, den gewählten Harm zu wirken
+      Attribute:
+      - Schöpfung: 5
   OGprerequisites:
     tier1:
-      Other:
-      - Ability to invoke the chosen bane
-  tags:
-  - Kraft
-  - Passiv
-  - Kampf
-  - Harm
-  OGtags:
-  - Might
-  - Passive
-  - Combat
-  - Bane
-  cost:
-  - 3
-  description: |
-    Du bist in der Nutzung eines bestimmten Harmes spezialisiert, der bezeichnend für deinen Charakter ist. Vielleicht bist du ein Krieger, der für seinen betäubenden Schläfenschlag berüchtigt ist, ein Sniper, der sein Ziel immer zuerst lähmt oder ein Feuermagier, der seine Ziele immer durch Brand anhaltenden Schaden erleiden lässt.
-  effect: |
-    Wähle einen Harm, den du wirken kannst. Wenn dein Wurf auf einen Angriff mit Schaden die Verteidigung des Ziels um 5 oder mehr übersteigt (anstatt der normalen 10 oder mehr), kannst du den Harm automatisch zufügen. Jeder Angriff kann weiterhin nur einen einzigen Harm zufügen. Weiterhin erhälst du Vorteil 2 auf Harmattacken mit dem gewählten Harm.
-  special: |
-    Du kannst diese Fertigkeit mehrmals erlangen. Für jedes weitere Mal wählst du einen anderen Harm aus.
-- !
-  name: Kampftrance
-  OGname: Battle Trance
-  prerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Konstitution: 3
-        - Willenskraft: 3
-  OGprerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Fortitude: 3
-        - Will: 3
-  tags:
-  - Kampf
-  OGtags:
-  - Combat
-  cost:
-  - 3
-  description: |
-    Du kannst dich in einen Geisteszustand erhöhter Kampfbereitschaft versetzen, in dem dein Körper gestärkt ist und dein Geist Furch und Schmerz hinter sich lässt. Beispiele schließen Barbaren in Rage oder einen unaufhaltsamen Samurai ein, der im Kampf den Fokus einer Rasierklinge hat.
-  effect: |
-    Als kostenlose Aktion in deinem Zug kannst du dich in Kampftrance versetzen. Während du in der Trance bist, hast du Vorteil 1 auf alle Angriffe. Weiterhin sind dein Zähigkeit und Entschlossenheit um 3 erhöht. Falls dein gesamter Rüstungsbonus weniger als 3 ist, wird er zu 3. Falls du drei Züge in Folge keinen Angriffswurf gegen eine feindliche Kreatur wirfst, endet die Kampftrance. Wenn die Trance endet, erleidest du automatisch 1 Level des Harms <em>erschöpft</em>.
-- !
-  name: Schlachtfeldopportunist (I - V)
-  OGname: Battlefield Opportunist (I - V)
-  prerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Beweglichkeit: 4
-        - Kraft: 4
-    tier2:
-      any:
-        Attribute:
-        - Beweglichkeit: 4
-        - Kraft: 4
-    tier3:
-      any:
-        Attribute:
-        - Beweglichkeit: 4
-        - Kraft: 4
-    tier4:
-      any:
-        Attribute:
-        - Beweglichkeit: 4
-        - Kraft: 4
-    tier5:
-      any:
-        Attribute:
-        - Beweglichkeit: 4
-        - Kraft: 4
-  OGprerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Agility: 4
-        - Might: 4
-    tier2:
-      any:
-        Attribute:
-        - Agility: 4
-        - Might: 4
-    tier3:
-      any:
-        Attribute:
-        - Agility: 4
-        - Might: 4
-    tier4:
-      any:
-        Attribute:
-        - Agility: 4
-        - Might: 4
-    tier5:
-      any:
-        Attribute:
-        - Agility: 4
-        - Might: 4
-  tags:
-  - Kraft
-  - Beweglichkeit
-  - Passiv
-  - Kampf
-  - Fertigkeitenkette
-  OGtags:
-  - Might
-  - Agility
-  - Passive
-  - Combat
-  - Feat Chain
-  cost:
-  - 2
-  description: |
-    Deine Fähigkeiten auf dem Schlachtfeld erlauben es dir, Chancen zu ergreifen, die andere übersehen, sodass du tödlicher im Nahkampf bist. Deine Feinde tun sich schwer, sich im Kampf um dich herum zu bewegen, egal ob du mit Axt, Plasmaklinge oder bloßen Fäusten kämpfst.
-  effect: |
-    Du kannst eine zusätzliche Gelegenheitsattacke pro Rang dieser Fertigkeit, die du besitzt, in einer Runde ausführen. Du kannst aber nur eine Gelegenheitsattacke für jeden Anlass machen, der eine solche Attacke ermöglicht (du kannst also nicht mehrere Attacken gegen einen Feind ausführen, der den Nahkampf mit dir verlässt).
-- !
-  name: Konterschlächter[?]
-  OGname: Battlefield Punisher
-  prerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Beweglichkeit: 5
-        - Kraft: 5
-        - Beliebiges Außergewöhnliches: 5
-      Feat:
-      - Schlachtvergeltung
-  OGprerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Agility: 5
-        - Might: 5
-        - Any Extraordinary: 5
-      Feat:
-      - Battlefield Retribution
-  tags:
-  - Kraft
-  - Passiv
-  - Kampf
-  - Fertigkeitenkette
-  OGtags:
-  - Might
-  - Passive
-  - Combat
-  - Feat Chain
-  cost:
-  - 3
-  description: |
-    Du kannst mit einem Konter nicht nur Schaden zufügen, sondern Feinde auch mit einem spezifischen Sekundäreffekt belegen. Vielleicht bist du ein Paladin, der Feinde mit seinem Konter zu Boden wirft, ein Ninja der bei der Parade Sand in die Augen des Gegners streut oder ein Telekinetist, der seine Feinde von sich schleudert.
-  effect: |
-    Wähle einen Harm, den du zufügen kannst. Wann immer du eine Verteidigungsaktion mit einem Attribut nutzt, das den gewählten Harm wirken könnte und mit der Fertigkeit Schlachtvergeltung dem Gegner 10 oder mehr Schaden zufügst, kannst du den Harm automatisch auf den Gegner wirken.
-- !
-  name: Schlachtvergeltung
-  OGname: Battlefield Retribution
-  prerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Beweglichkeit: 4
-        - Kraft: 4
-        - Beliebiges Außergewöhnliches: 4
-  OGprerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Agility: 4
-        - Might: 4
-        - Any Extraordinary: 4
-  tags:
-  - Kraft
-  - Beweglichkeit
-  - Außergewöhnlich
-  - Passiv
-  - Kampf
-  OGtags:
-  - Might
-  - Agility
-  - Extraordinary
-  - Passive
-  - Combat
-  cost:
-  - 2
-  description: |
-    Du bist ein Meister des Konters. Du könntest flink Vorstöße deiner Gegner auf sie selbst umleiten oder mit einer außergewöhnlichen Barriere die Energie von Angriffen zurückwerfen. Deine Fähigkeiten erlauben es dir nicht nur, Angriffe auf dem Schlachtfeld abzufangen, sondern mit diesen gleichzeitig Vergeltung zu üben.
-  effect: |
-    Wenn du eine Verteidigungsaktion nutzt, fügst du dem Angreifer Schaden gleich der Anzahl zu, mit der dein Aktionswurf das Ergebnis des Angriffswurfs übertrifft.
-- !
-  name: Wohlzugang[?]
-  OGname: Boon Access
-  prerequisites:
-    tier1:
-      Other:
-      - Keine
-  OGprerequisites:
-    tier1:
-      Other:
-      - None
+      Attribute:
+      - Creation: 5
   tags:
   - Außergewöhnlich
+  - Schöpfung
   OGtags:
   - Extraordinary
-  cost:
-  - 1
-  - 2
-  - 3
-  - 4
-  - 5
-  - 6
-  - 7
-  - 8
-  - 9
-  description: |
-    Du hast ein besonderes Talent: es könnte ein Resultat deiner Herkunft sein, von einem Zusammenstoß mit magischen Energien stammen oder das Resultat jahrelangen Trainings sein. Egal woher, auch wenn du nicht mit außergewöhnlichen Kräften oder körperlichen Fähigkeiten besondere Effekte erzeugen kannst, hast du Zugang zu einem bestimmten Wohl.
-  effect: |
-    Wähle ein Wohl, für das du nicht die notwendigen Attributpunkte hast, um es zu wirken, wenn du diese Fertigkeit erwirbst. Die Kosten dieser Fertigkeit sind gleich dem Kraftlevel, das du für dieses Wohl auswählst. Du kannst das gewählte Wohl wirken, obwohl du nicht das nötige Attribut dazu hast. Für den Aktionswurf zum Wirken behandelst du deinen Attributwert, als würde er dem Kraftlevel des Wohls entsprechen. Falls das Wohl mehrere Attributsoptionen hat, wählst du eines aus, wenn du diese Fertigkeit erwirbst. Weiterhin zählt das so erhaltene Wohl im Fall von Fertigkeitenvoraussetzungen als Erhalten, wobei der Attributwert zum Erreichen der Voraussetzungen dem Kraftlevel des Wohls entspricht. Die Fertigkeit Wohlzugang umgeht zusätzlich die normalen Einschränkungen rund um Charakterlevel und Zugang zu Kraftleveln von Wohlen und Harmen. Ein Level 1 Charakter könnte also all seine 6 Fertigkeitenpunkte ausgeben, um mit dieser Fertigkeit direkt Zugang zu einem Kraftlevel 6 Wohl zu erhalten.
-    Du kannst diese Fertigkeit mehrmals erwerben. Wähle jedes Mal ein neues Wohl.
-  special: |
-    Du kannst diese Fertigkeit mehrmals erwerben. Jedes Mal wählst du ein neues Wohl aus, zu dem du besonderen Zugang erhälst.
-    Da diese Fertigkeit mächtige Wohle freischalten kann, die einen großen Einfluss auf den Verlauf der Geschichte haben können, muss das Erlangen von Wohlen mit Kraftlevel 6 oder höher vom GM je nach Angemessenheit abgesegnet werden.
-    Falls du zu einem späteren Zeitpunkt die Attributvoraussetzungen des gewählten Wohls auf normalen Weg erreichst, kannst du dich entscheiden, diese Fertigkeit zu verlieren und die dafür ausgegebenen Fertigkeitenpunkte zurückzuerhalten. Danach kannst du sie neu ausgeben, wie es dir beliebt.
-- !
-  name: Wohlfokus (I - III)
-  OGname: Boon Focus (I - III)
-  prerequisites:
-    tier1:
-      Other:
-      - Fähigkeit, das gewählte Wohl zu wirken
-    tier2:
-      Other:
-      - Fähigkeit, das gewählte Wohl zu wirken
-    tier3:
-      Other:
-      - Fähigkeit, das gewählte Wohl zu wirken
-  OGprerequisites:
-    tier1:
-      Other:
-      - Ability to invoke the chosen boon
-    tier2:
-      Other:
-      - Ability to invoke the chosen boon
-    tier3:
-      Other:
-      - Ability to invoke the chosen boon
-  tags:
-  - Außergewöhnlich
-  - Passiv
-  - Wohl
-  OGtags:
-  - Extraordinary
-  - Passive
-  - Boon
+  - Creation
   cost:
   - 3
   description: |
-     Du bist in der Nutzung eines bestimmten Wohles spezialisiert, das bezeichnend für deinen Charakter ist. Vielleicht bist du eine Druidin, die ihre Gestalt nach Willen ändert, vielleicht ein Kriegsmedicus, der viele Verwundete mit müheloser Expertise versorgt oder ein verrückter Wissenschaftler, der Horden mechanischer Handlanger ohne viel Aufwand mobilisiert.
+    Ob du heilige Magie beschwörst, fortgeschrittene Technologie benutzt oder alchemische Mittel anwendest, deine Meisterschaft außergewöhnlicher Heilung erlaubt es dir, Wunden zu heilen, an denen andere scheitern würden.
   effect: |
-    Wähle ein einziges Wohl, das du wirken kannst. Du erhälst anhand des Rangs dieser Fertigkeit Vorzüge bei der Benutzung des Wohls.
-    <ul>
-    <li><strong>Rang 1</strong> - Wenn du das gewählte Wohl auf ein einziges Ziel wirkst, hast du automatisch Erfolg und musst keinen Aktionswurf machen. Du kannst das Wohl so auf jedem Kraftlevel wirken, zu dem du auch normalerweise Zugang hast. Falls du mehr als ein einziges Ziel hast, ist der Erfolg nicht automatisch, aber du hast Vorteil 2 auf das Wirken.</li>
-    <li><strong>Rang 2</strong> - Du erhälst Vorteil 3 auf deinen Aktionswurf, falls du mehr als ein einziges Ziel hast. Weiterhin kannst du das Wohl um eine Wirkzeiteinheit schneller wirken als normal: 
-      <ul>
-      <li>1 große Aktion / 1 Bewegungsaktion -> 1 kleine Aktion</li>
-      <li>1 Fokusaktion -> 1 große Aktion</li>
-      <li>1 Minute -> 1 Fokusaktion</li>
-      <li>10 Minuten -> 1 Minute</li>
-      <li>1 Stunde -> 10 Minuten</li>
-      <li>8 Stunden -> 1 Stunde</li>
-      <li>1 kleine Aktion -> ein Mal wirken als kleine Aktion, danach ist noch eine Wirkung per großer Aktion oder Bewegungsaktion möglich.</li>
-      </ul></li>
-    <li><strong>Rang 3</strong> - Der Effekt auf Rang 3 hängt von der Dauer des Wohls ab:<br>
-      <strong>Falls das gewählte Wohl eine Dauer von "Aufrechterhalten verlängert" hat</strong>, hast du Vorteil 4 auf deinen Aktionswurf, falls du nur ein einziges Ziel hast. Weiterhin kann eine Instanz des Wohls jede Runde als kostenlose Aktion aufrechterhalten werden, anstatt als kleine Aktion. Falls das Wohl irgendwie zeitweise neutralisiert wird, kannst du es als kostenlose Aktion neu wirken, außer dies wird durch andere spielmechanische Regeln unterbunden. Falls das Wohl Ziel des Harms <em>Annulieren</em> wird, kann dieser Effekt nur mit einer Wirkung des Harms auf Kraftlevel 6 oder höher neutralisiert werden.<br>
-      <strong>Falls das Wohl eine andere Dauer hat</strong>, erhälst du Vorteil 5 auf deinen Aktionswurf, falls du nur ein einziges Ziel hast.</li>
-    </ul>
-  special: |
-    Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erwerben kannst, kannst du auch die Fertigkeit selbst mehrmals erhalten und jedes Mal ein weiteres Wohl wählen. Der Rang der Fertigkeit für dieses neue Wohl ist unabhängig von allen anderen Rängen, die du in dieser Fertigkeit für andere Wohle hast.
-- !
-  name: Fallsicher (I - II)
-  OGname: Breakfall (I - II)
-  prerequisites:
-    tier1:
-      Attribute:
-      - Beweglichkeit: 4
-    tier2:
-      Attribute:
-      - Beweglichkeit: 4
-  OGprerequisites:
-    tier1:
-      Attribute:
-      - Agility: 4
-    tier2:
-      Attribute:
-      - Agility: 4
-  tags:
-  - Beweglichkeit
-  OGtags:
-  - Agility
-  cost:
-  - 2
-  description: |
-    Du bist so anmutig wie ein Schwan. Wie die Krieger und draufgängerische Helden aus den Legenden kannst du unbeschadet aus großen Höhen fallen.
-  effect: |
-    <ul>
-    <li><strong>Rang 1</strong> - Solange du bei Bewusstsein und handlungsfähig bist, reduziere allen Fallschaden um die Hälfte.</li>
-    <li><strong>Rang 2</strong> - Solange du bei Bewusstsein und handlungsfähig bist, erleidest du keinen Fallschaden.</li>
-    </ul>
-- !
-  name: Brutale Einschüchterung
-  OGname: Brutal Intimidation
-  prerequisites:
-    tier1:
-      Attribute:
-      - Kraft: 2
-  OGprerequisites:
-    tier1:
-      Attribute:
-      - Might: 2
-  tags:
-  - Nicht-Kampf
-  OGtags:
-  - Non-Combat
-  cost:
-  - 1
-  description: |
-    Deine Überzeugungskräfte stammen aus roher Gewalt statt sozialem know-how. Wenn du einen Tisch entzweischlägst, deine Klinge zückst oder die Muskeln spielen lässt, halten die Leute ein und hören dir zu.
-  effect: |
-    Falls du eine Demonstration körperlicher Macht durchführen kannst, kannst du für den Aktionswurf Kraft anstatt von Überzeugung nutzen.
-- !
-  name: Klettern
-  OGname: Climbing
-  prerequisites:
-    tier1:
-      Other:
-      - Keine
-  OGprerequisites:
-    tier1:
-      Other:
-      - None
-  tags:
-  - Nicht-Kampf
-  OGtags:
-  - Non-Combat
-  cost:
-  - 1
-  description: |
-    Du erhälst die Fähigkeit, perfekt zu klettern oder Parkour zu nutzen, so wie manche Vampire, bizarre Kreaturen, Ninjas oder Insekten.
-  effect: |
-    Du erhälst eine Klettern-Geschwindigkeit gleich deiner Grundgeschwindigkeit und kannst horizontale und vertikale Flächen erklimmen - sogar kopfüber -, ohne einen Sturz fürchten zu müssen.
-- !
-  name: Kampf Follow-Up[?]
-  OGname: Combat Follow-through
-  prerequisites:
-    tier1:
-      Other:
-      - Keine
-  OGprerequisites:
-    tier1:
-      Other:
-      - None
-  tags:
-  - Kampf
-  OGtags:
-  - Combat
-  cost:
-  - 2
-  description: |
-    Du bist in der Lage, Feinde in schneller Folge zu dezimieren. Wie ein legendärer Samurai oder überragender Elfenschütze fallen deine Gegner in Reihen.
-  effect: |
-    Wann immer du einen Feind mit einer Kraft- oder Beweglichkeitsattacke auf 0 TP bringst, kannst du sofort einen Extraangriff als kostenlose Aktion ausführen.
-- !
-  name: Kampfmomentum
-  OGname: Combat Momentum
-  prerequisites:
-    tier1:
-      Other:
-      - Keine
-  OGprerequisites:
-    tier1:
-      Other:
-      - None
-  tags:
-  - Kampf
-  OGtags:
-  - Combat
-  cost:
-  - 1
-  description: |
-    Ob durch rohe Kraft oder Blitzreflexe, kannst du dein Momentum im Kampf nutzen, um mit Leichtigkeit über das Schlachtfeld zu maneuvrieren.
-  effect: |
-    Wann immer du einen Feind mit einer Kraft- oder Beweglichkeitsattacke auf 0 TP bringst, kannst du dich sofort als kostenlose Aktion bis zu deiner Geschwidigkeit weit bewegen.
-  special: |
-    Falls du Zugang zum Wohl <em>Teleportation</em> hast, kannst du es anstatt einer normalen Bewegung benutzen.
-- !
-  name: Gefährte (I - III)
-  OGname: Companion (I - III)
-  prerequisites:
-    tier1:
-      Other:
-      - Keine
-    tier2:
-      Other:
-      - Keine
-    tier3:
-      Other:
-      - Keine
-  OGprerequisites:
-    tier1:
-      Other:
-      - None
-    tier2:
-      Other:
-      - None
-    tier3:
-      Other:
-      - None
-  tags:
-  - Nicht-Kampf
-  OGtags:
-  - Non-Combat
-  cost:
-  - 2
-  description: |
-    Ob es sich um einen Bodyguard, treues Tier oder einen Bruder handelt, der dir überall hin folgt, du hast einen konstanten und vollständig loyalen Gefährtencharakter.
-  effect: |
-    Du bekommst einen Gefährtencharakter, der unabhängig von dir handeln. Im Kampf handelt dein Gefährte nach seinem eigenen Platz in der Initiative und hat die normale Auswahl an Aktionen, die du auswählst. Du gestaltest auch die Attribute deines Gefährten. Wann immer du im Level aufsteigst oder einen neuen Rang dieser Fertigkeit erwirbst, kannst du die Attribute und Fertigkeiten deines Charakters neu vergeben.
-    <ul>
-    <li><strong>Rang 1</strong> - Dein Gefährte hat insgesamt 20 Attributpunkte plus 4 weitere für jedes Level deines Charakters.</li>
-    <li><strong>Rang 2</strong> - Dein Gefährte erhält 3 Fertigkeitenpunkte.</li>
-    <li><strong>Rang 3</strong> - Dein Gefährte hat insgesamt 30 Attributpunkte plus 6 weitere für jedes Level deines Charakters. Weiterhin kannst du optional Fertigkeiten an deinen Gefährten weitergeben. Dazu gibst du deine eigenen Fertigkeitenpunkte aus, um Fertigkeiten für deinen Gefährten freizuschalten, wobei aber der Gefährte - nicht du - die nötigen Voraussetzungen für die Fertigkeit erfüllen muss. Alle Berechnungen für diese Fertigkeiten werden anhand der Attribute, Fertigkeiten usw. des Gefährten durchgeführt, nicht deinen. Falls du Fertigkeitenpunkte so weitergegeben hast und aus einer anderen Quelle neue Fertigkeitenpunkte erhalten würdest, reduziere diese um die Anzahl an Punkten, die du deinem Gefährten gegeben hast.</li>
-    </ul>
-  special: |
-    Falls du deinen Gefährten je verlierst, sei es absichtlich oder nicht, erhälst du die Fertigkeitenpunkte zurück, die du für diese Fertigkeit ausgegeben hast und die du eventuell weitergegeben hast und kannst diese wieder normal ausgeben.
-    Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erlangen kannst, kannst du die Fertigkeit auch mehrmals erwerben, wobei du jedes Mal einen neuen Gefährten erhälst.
-- !
-  name: Normales Item Erschaffen (I - II)
-  OGname: Craft Mundane Item (I - II)
-  prerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Lernen: 3
-        - Logik: 3
-        Feat:
-        - Wissen I
-    tier2:
-      any:
-        Attribute:
-        - Lernen: 3
-        - Logik: 3
-        Feat:
-        - Wissen I
-  OGprerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Learning: 3
-        - Logic: 3
-        Feat:
-        - Knowledge I
-    tier2:
-      any:
-        Attribute:
-        - Learning: 3
-        - Logic: 3
-        Feat:
-        - Knowledge I
-  tags:
-  - Nicht-Kampf
-  OGtags:
-  - Non-Combat
-  cost:
-  - 2
-  description: |
-    Du hast ein bestimmtes Handwerk gemeistert, sodass du mit der nötigen Zeit und Materialien Items aus diesem Gewerbe erschaffen kannst. Du könntest ein gekonnter Schmied sein, professioneller Ingenieur, Meisteralchemist oder jede andere Art Profession.
-  effect: |
-    Wähle einen spezifischen Beruf oder eine Profession. Du kannst Items erschaffen, die für deinen gewählten Job plausibel sind, wobei der GM entscheidet, wie schnell du das gewünschte Item anhand seiner Natur und den dir verfügbaren Materialien erschaffen kannst. Dein Rang in Normales Item Erschaffen bestimmt den maximalen Wohlstandswert der Items, die du erzeugen kannst. Anders als beim Kaufen von Dingen (siehe Kapitel 5), schränkt das Erschaffen von Gegenständen nicht ein, ob du weitere Güter dieses Wohlstandswertes erhalten kannst.
-    <ul>
-    <li><strong>Rang 1</strong> - Du kannst Items gleich deinem eigenen Wohlstandswert erschaffen.</li>
-    <li><strong>Rang 2</strong> - Du kannst Items gleich deinem eigenen Wohlstandswert + 1 erschaffen.</li>
-    </ul>
-    <strong>Beispiele</strong> (Diese Liste ist nicht abschließend und du kannst mit dem GM zusammenarbeiten, um andere sinnvolle Gegenstände zu erdenken, die du erschaffen könntest):
-    <ul>
-    <li>Alchemie - Säure, Chemiekalien, nicht-magische Tinkturen, Duftstoffe, Reagenzmaterialien.</li>
-    <li>Arkana - magische Zutaten, Tinten, Schriftrollen, exotische Komponenten.</li>
-    <li>Schmiedekunst - Metalle, Leder, Waffen, Rüstung, Räder, Hufeisen.</li>
-    <li>Chemie - Säure, Sprengstoffe, Betäubungsmittel.</li>
-    <li>Ingenieurswesen - Maschinen, Räder, Bauteile, Schusswaffen, Fahrzeuge.</li>
-    <li>Geographie - Karten, kartographische Lexika, Navigationsinstrumente.</li>
-    <li>Kräuterkunde - Umschläge, Naturheilmittel, Stimulanzmittel, Gebräue.</li>
-    <li>Medizin - Medizinwerkzeug, Toniken, Tinkturen, Schmerzmittel, Gegengifte.</li>
-    </ul>
-  special: |
-    Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit erwerben kannst, kannst du die Fertigkeit selbst mehrmals erhalten, wobei du jedes Mal eine neue Profession wählst.
-- !
-  name: Außergewöhnliches Item Erschaffen (I - III)
-  OGname: Craft Extraordinary Item (I - III)
-  prerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Beliebiges Außergewöhnliches: 5
-        - Lernen: 5
-        - Logik: 5
-    tier2:
-      any:
-        Attribute:
-        - Beliebiges Außergewöhnliches: 5
-        - Lernen: 5
-        - Logik: 5
-    tier3:
-      any:
-        Attribute:
-        - Beliebiges Außergewöhnliches: 5
-        - Lernen: 5
-        - Logik: 5
-  OGprerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Any Extraordinary: 5
-        - Learning: 5
-        - Logic: 5
-    tier2:
-      any:
-        Attribute:
-        - Any Extraordinary: 5
-        - Learning: 5
-        - Logic: 5
-    tier3:
-      any:
-        Attribute:
-        - Any Extraordinary: 5
-        - Learning: 5
-        - Logic: 5
-  tags:
-  - Außergewöhnlich
-  - Nicht-Kampf
-  OGtags:
-  - Extraordinary
-  - Non-Combat
-  cost:
-  - 3
-  description: |
-    Du bist in der Lage, Items mit magischer Energie zu durchdringen, futuristische Technologie zu schaffen, Tränke zu brauen oder außergewöhnliche Geräte zu bauen. Ihre Macht ist permanent, aber abhängig von deiner Expertise.
-  effect: |
-    Solange du die notwendigen Materialien und passenden Arbeitsraum hast (nach Abwägung des GM), kannst du außergewöhnliche Items erschaffen (wie in Kapitel 9: Spezialausrüstung beschrieben). Du kannst einem Item nur Attribute, Harme und Wohle geben, zu denen du selbst Zugang hast. Beispielsweise musst du einen Energiewert von 5 oder höher haben, um einem Schwert das Attribut Energie 5 einzuflößen. Die einzige Ausnahme zu dieser Regelung ist ein ausreichend großer Wert in Schöpfung, Lernen oder Logik. Diese Attribute erlauben es dir, einem Item beliebige Attribute, Harme oder Wohle zu verleihen, solange ihr Wert / Kraftlevel kleiner oder gleich deinem Attributwert ist. Der GM kann entscheiden, ob die Anwendung dieser Ausnahme in bestimmten Kontexten nicht sinnvoll ist und diese untersagen.
-    Dein Rang in dieser Fertigkeit bestimmt den maximalen Wohlstandswert von Items, die du erschaffen kannst, anhand des genutzten Attributs:
-    <ul>
-    <li><strong>Rang 1</strong> - Maximaler Wohlstandswert = Attributwert - 2.</li>
-    <li><strong>Rang 2</strong> - Maximaler Wohlstandswert = Attributwert - 1.</li>
-    <li><strong>Rang 3</strong> - Maximaler Wohlstandswert = Attributwert.</li>
-    </ul>
-    Beispielsweise kann ein Charakter mit Schöpfung 5 und Rang 1 dieser Fertigkeit ein außerordentliches Item bis Wohlstandswert 3 erschaffen.
-    Du kannst einen passenden Wohlstandswert für ein Item anhand der Beispielitems aus <strong>Kapitel 9: Spezialausrüstung</strong> finden oder diesen mit den Regeln aus dem Kapitel <strong>Eigene außergewöhnliche Items konzipieren</strong> daraus bestimmen.
-    Ein Item mit den Eigenschaften <em>Konsumgut</em> oder <em>Verbrauchsgut</em> zu erschaffen braucht einen vollen ununterbrochenen 8-Stunden Tag Arbeit[?]. Andere Items brauchen anhand ihres Wohlstandswertes unterschiedlich viel Zeit:
-    <ul>
-    <li><strong>Wohlstandswert 1 - 3</strong>: Zwei Tage pro Wohlstandswert.</li>
-    <li><strong>Wohlstandswert 4 - 5</strong>: Vier Tage pro Wohlstandswert.</li>
-    <li><strong>Wohlstandswert 6 - 7</strong>: Eine Woche pro Wohlstandswert.</li>
-    <li><strong>Wohlstandswert 8 - 9</strong>: Ein Monat pro Wohlstandswert.</li>
-    </ul>
-    Am Ende dieser Zeitspanne ist das Item erschaffen. Ein Item zu erschaffen zählt weiterhin als Ausgabe, sodass du einen Wohlstandswert haben musst, der hoch genug ist, um das Item anhand der in <strong>Kapitel 5: Wohlstand und Ausrüstung</strong> beschriebenen Regeln zu kaufen. Der GM kann nach Abwägung einige oder alle der Kosten, die mit dem Erschaffen eines Items assoziiert sind, fallen lassen, falls du besondere Materialien zum Schaffen des Items schon besitzt. Hast du z.B. kürzlich die Haut eines roten Drachen erbeutet und möchtest nun daraus eine feuerresistenze Rüstung schaffen, kann der GM bestimmen, dass die Haut den Großteil der mit der Schaffung assoziierten Kosten ausmacht und der Wohlstandswert zur Bestimmung der Beschaffungskosten für den Schaffungsprozess so um 3 reduziert ist.
-- !
-  name: Zermalmender Treffer[?]
-  OGname: Crushing Blow
-  prerequisites:
-    tier1:
-      Attribute:
-      - Kraft: 6
-      Feat:
-      - Überwältigender Schlag
-  OGprerequisites:
-    tier1:
-      Attribute:
-      - Might: 6
-      Feat:
-      - Overpowering Strike
-  tags:
-  - Körperlich
-  - Kampf
-  - Fertigkeitenkette
-  - Kraft
-  OGtags:
-  - Physical
-  - Combat
-  - Feat Chain
-  - Might
-  cost:
-  - 3
-  description: |
-    Wie ein leichtsinniger Oger, der durch den Kampf wadet, werfen deine unermüdlichen Streiche Feinde nicht nur zurück, sondern auch noch zu Boden.
-  effect: |
-    Wann immer du einem Feind Schaden zufügst, kannst du sie nicht nur durch die Fertigkeit Überwältigender Schlag 5' zurückschieben (wenn du möchtest), sondern sie auch dort zu Boden werfen, wo die erzwungene Bewegung endete. Das Ziel erleidet den Harm <em>Niedergeschlagen</em>.
-- !
-  name: Todesstreich (I - II)
-  OGname: Death Blow (I - II)
-  prerequisites:
-    tier1:
-      Attribute:
-      - Beweglichkeit: 6
-      Feat:
-      - Tödlicher Streich I
-    tier2:
-      Attribute:
-      - Beweglichkeit: 7
-      Feat:
-      - Tödlicher Streich III
-  OGprerequisites:
-    tier1:
-      Attribute:
-      - Agility: 6
-      Feat:
-      - Lethal Strike I
-    tier2:
-      Attribute:
-      - Agility: 7
-      Feat:
-      - Lethal Strike III
-  tags:
-  - Kampf
-  - Körperlich
-  OGtags:
-  - Combat
-  - Physical
-  cost:
-  - 3
-  description: |
-    Du kannst effizient Feinde töten, die dem Ende nahe sind und ihre Todesschreie verhindern. Diese Art Angriff wird oft unter Schurken, Assassinen und Snipern gefunden, die ihre Feinde still niederstrecken, ohne Aufmerksamkeit auf sich zu ziehen. 
-  effect: |
-    <ul>
-    <li><strong>Rang 1</strong> - Falls du einem Feind mit Tödlicher Streich Schaden zufügst und ihre Gesamt-TP danach 5 oder niedriger sind, kannst du dich entscheiden, sie stattdessen auf 0 TP fallen zu lassen. Weiterhin kannst du jeden von dir durch eine Attacke auf 0 TP gebrachten Feind verstummen lassen.</li>
-    <li><strong>Rang 2</strong> - Die Schwelle für einen Todesstoß ist auf 10 erhöht. Weiterhin fügst du deinem Feind bei einem erfolgreichen Tödlichen Streich automatisch den Harm <em>betäubt</em> zu, wobei dieser nicht gegen das Limit auf max. einen Harm pro Angriff zählt.</li>
-    </ul>
-- !
-  name: Todlose Trance[?]
-  OGname: Deathless Trance
-  prerequisites:
-    tier1:
-      Attribute:
-      - Konstitution: 7
-      Feat:
-      - Kampftrance
-  OGprerequisites:
-    tier1:
-      Attribute:
-      - Fortitude: 7
-      Feat:
-      - Battle Trance
-  tags:
-  - Außergewöhnlich
-  OGtags:
-  - Extraordinary
-  cost:
-  - 3
-  description: |
-    Deine Kampfraserei ist legendär, seist du ein Berserker aus dem kalten Norden, ein Superheld unaufhaltsamer Stärke oder ein cybernetisch abgehärteter Soldat. Du hast die seltene Fähigkeit, weiterzukämpfen, auch wenn dein Körper längst hätte aufgeben sollen.
-  effect: |
-    Während du in einer Kampftrance bist, kannst du nicht bewusstlos geschlagen werden. Aller Schaden, den du erleidest, muss notiert werden, auch wenn deine Gesamt-TP ins negative gehen. Unabhängig von allem Schaden bleibst du bei Bewusstsein, solange du die Kampftrance aufrechterhalten kannst. Hast du negative TP, wenn die Kampftrance endet, fällst du sofort in Ohnmacht. Wirst du nicht innerhalb von einer Runde danach auf 0 oder mehr TP geheilt, stirbst du.
-- !
-  name: Verteidigungsexpertise
-  OGname: Defensive Mastery
-  prerequisites:
-    tier1:
-      Other:
-      - Keine
-  OGprerequisites:
-    tier1:
-      Other:
-      - None
-  tags:
-  - Kampf
-  OGtags:
-  - Combat
-  cost:
-  - 3
-  description: |
-    Du weist, wie man eine gute Offensive in eine noch bessere Defensive verwandelt. Dein besonderes Training oder deine Erfahrung mit Verteidigungsausrüstung erlaubt es dir, diese effizienter zu nutzen als ein normaler Soldat. Beispiele umfassen das defensive Kata eines Kriegers oder einen Soldaten, der mit seinem Riot-Shield trainiert ist.
-  effect: |
-    Wenn du eine Waffe oder andere Ausrüstung mit der Eigenschaft <em>Defensiv</em> führst, hast du +1 zusätzlichen Rüstungsbonus. Weiterhin wird der Wert von <em>Defensiv</em> um 1 erhöht, während du den Gegenstand führst. <em>Defensiv 1</em> wird also <em>Defensiv 2</em> und <em>Defensiv 2</em> wird <em>Defensiv 3</em>.
-- !
-  name: Defensive Reflexe (I - IX)
-  OGname: Defensive Reflexes (I - IX)
-  prerequisites:
-    tier1:
-      Attribute:
-      - Beweglichkeit: 3
-    tier2:
-      Attribute:
-      - Beweglichkeit: 3
-    tier3:
-      Attribute:
-      - Beweglichkeit: 3
-    tier4:
-      Attribute:
-      - Beweglichkeit: 5
-    tier5:
-      Attribute:
-      - Beweglichkeit: 5
-    tier6:
-      Attribute:
-      - Beweglichkeit: 5
-    tier7:
-      Attribute:
-      - Beweglichkeit: 7
-    tier8:
-      Attribute:
-      - Beweglichkeit: 7
-    tier9:
-      Attribute:
-      - Beweglichkeit: 7
-  OGprerequisites:
-    tier1:
-      Attribute:
-      - Agility: 3
-    tier2:
-      Attribute:
-      - Agility: 3
-    tier3:
-      Attribute:
-      - Agility: 3
-    tier4:
-      Attribute:
-      - Agility: 5
-    tier5:
-      Attribute:
-      - Agility: 5
-    tier6:
-      Attribute:
-      - Agility: 5
-    tier7:
-      Attribute:
-      - Agility: 7
-    tier8:
-      Attribute:
-      - Agility: 7
-    tier9:
-      Attribute:
-      - Agility: 7
-  tags:
-  - Beweglichkeit
-  - Außergewöhnlich
-  OGtags:
-  - Agility
-  - Extraordinary
-  cost:
-  - 2
-  description: |
-    Du bist ein Paragon des defensiven Kampfes, der meisterhaft gegnerische Attacken abwendet. Indem du die Bewegungen, Streiche oder Schüsse deiner Feinde voraussiehst, kannst du sie unterbinden, bevor sie zur Gefahr werden.
-  effect: |
-    Wann immer du eine Verteidigungsaktion einsetzt, erhältst du Vorteil 1 auf den Aktionswurf pro Rang dieser Fertigkeit, den du besitzt.
-- !
-  name: Zerstörerische Trance
-  OGname: Destructive Trance
-  prerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Beweglichkeit: 7 
-        - Kraft: 7
-        - Energie: 7
-        - Vergehen: 7
-      Feat:
-      - Kampftrance
-  OGprerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Agility: 7 
-        - Might: 7
-        - Energy: 7
-        - Entropy: 7
-      Feat:
-      - Battle Trance
-  tags:
-  - Außergewöhnlich
-  - Kraft
-  OGtags:
-  - Extraordinary
-  - Might
-  cost:
-  - 3
-  description: |
-    Im Kampfgetümmel wirst du zu einer zestörerischen Kraft, die ihresgleichen sucht. Ob du ein rasender Barbar bist oder ein ultra-konzentrierter intergalaktischer Fechter, deine Angriffe werden besonders gefährlich, wenn du in Kampftrance verfällst.
-  effect: |
-    Wenn du einen Angriffswurf in Kampftrance machst, explodieren alle Würfel mit ihrem Höchstwert oder der Zahl eins unter dem Höchstwert (der gefürfelte Wert selbst ändert sich aber nicht). Das bedeutet, dass ein d4 bei 3 oder 4 explodiert, ein d6 bei 5 oder 6, ein d8 bei 7 oder 8 und so weiter.
-- !
-  name: Stirb Langsam[?]
-  OGname: Diehard
-  prerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Präsenz: 3
-        - Konstitution: 3
-  OGprerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Presence: 3
-        - Fortitude: 3
-  tags:
-  - Sozial
-  - Kampf
-  OGtags:
-  - Social
-  - Combat
-  cost:
-  - 2
-  description: |
-    Ob das Glück dir gewogen ist oder du einfach sehr schwer zu töten bist, du hast die Gabe, im Kampf zu bleiben wenn andere schon eingebrochen wären. Vielleicht bist du ein cleverer Schurke, der immer eine Ecke zur Deckung findet oder ein alter Veteran, der trainiert ist, trotz schlechter Karten taff zu bleiben.
-  effect: |
-    Einmal pro Tag reduziert ein Angriff, der deine TP eigentlich auf unter 1 TP fallen würde, diese stattdessen auf 1.
-- !
-  name: Energieresistenz (I - IV)
-  OGname: Energy Resistance (I - IV)
-  prerequisites:
-    tier1:
-      Other:
-      - Keine
-    tier2:
-      Other:
-      - Keine
-    tier3:
-      Other:
-      - Keine
-    tier4:
-      Other:
-      - Keine
-  OGprerequisites:
-    tier1:
-      Other:
-      - None
-    tier2:
-      Other:
-      - None
-    tier3:
-      Other:
-      - None
-    tier4:
-      Other:
-      - None
-  tags:
-  - Außergewöhnlich
-  OGtags:
-  - Extraordinary
-  cost:
-  - 2
-  description: |
-    Ob durch angeborene Abstammungsfähigkeiten, Spezialisierung in einer bestimmten Art Energie oder inhärentem außergewöhnlichem Schutz, bist du restent gegen eine bestimmte Art Energie. Eine Feuermagierin ist immun gegen die heißesten Flammen oder ein biologisch anormales Alien bleibt von Giften unberührt.
-  effect: |
-    Wähle aus den folgenden Energiearten aus: Feuer, Kälte, Blitz, Säure, Gift oder andere nach Abwägung des GM. Wenn du mit dieser Art von Energie angegriffen wirst, erhälst du Resistenz anhand des Ranges dieser Fertigkeit:
-    <ul>
-    <li><strong>Rang 1</strong> - Deine Verteidigungswerte sind um 3 erhöht.</li>
-    <li><strong>Rang 2</strong> - Deine Verteidigungswerte sind um 6 erhöht.</li>
-    <li><strong>Rang 3</strong> - Deine Verteidigungswerte sind um 9 erhöht.</li>
-    <li><strong>Rang 4</strong> - Du bist immun gegen Schaden und schadhafte Effekte.</li>
-    </ul>
-  special: |
-    Zusätzlich dazu, dass mehrere Ränge dieser Fertigkeit erworben werden können, kann die Fertigkeit selbst mehrmals erhalten werden, wobei du jedes Mal eine neue Art Energie auswählst.
-- !
-  name: Flinke Beinarbeit
-  OGname: Evasive Footwork
-  prerequisites:
-    tier1:
-      Attribute:
-      - Beweglichkeit: 4
-  OGprerequisites:
-    tier1:
-      Attribute:
-      - Agility: 4
-  tags:
-  - Beweglichkeit
-  OGtags:
-  - Agility
-  cost:
-  - 2
-  description: |
-    Du bewegst dich mit dem Fluss des Kampfes und weichst Angriffen aus, die weniger adepte Krieger treffen würden. Vielleicht bist du ein Ninja, der um seine Feinde herum wirbelt oder ein Schlangenalien, das unberührt über das Schlachtfeld gleitet.
-  effect: |
-    Wenn du dich von einem an einem Feind anliegenden Platz zu einem nicht an einem Feind anliegenden Ort bewegst, erhält der Feind keine Gelegenheitsattacke.
+    Wenn du das Wohl <em>Heilung</em> wirkst, kannst du dich entscheiden, eine Stunde Zeit statt der normalen Wirkzeit aufzuwenden. Falls du das tust, heilst du genauso viel tödlichen Schaden, wie die normale TP-Heilung der Wirkung ergeben hat. Der tödliche Schaden wird zusätzlich zu den TP des Ziels geheilt.
 - !
   name: Außergewöhnliche Verteidigung (I - III)
   OGname: Extraordinary Defense (I - III)
@@ -1280,28 +333,74 @@
     Falls du dein Fokusitem je verlierst, ob absichtlich oder nicht, erhälst du die Fertigkeitenpunkte zurück, die du für diese Fertigkeit ausgegeben hast und kannst sie wieder normal ausgeben.
     Du kannst diese Fertigkeit mehrmals erhalten. Falls du dich dazu entscheidest, wählst du jedes Mal ein neues Attribut, welches noch keinen Fokus hat. Jede Instanz dieser Fertigkeit kann den gleichen Fokus haben oder aber unterschiedliche.
 - !
-  name: Außergewöhnliche Heilung
-  OGname: Extraordinary Healing
+  name: Außergewöhnliches Item Erschaffen (I - III)
+  OGname: Craft Extraordinary Item (I - III)
   prerequisites:
     tier1:
-      Attribute:
-      - Schöpfung: 5
+      any:
+        Attribute:
+        - Beliebiges Außergewöhnliches: 5
+        - Lernen: 5
+        - Logik: 5
+    tier2:
+      any:
+        Attribute:
+        - Beliebiges Außergewöhnliches: 5
+        - Lernen: 5
+        - Logik: 5
+    tier3:
+      any:
+        Attribute:
+        - Beliebiges Außergewöhnliches: 5
+        - Lernen: 5
+        - Logik: 5
   OGprerequisites:
     tier1:
-      Attribute:
-      - Creation: 5
+      any:
+        Attribute:
+        - Any Extraordinary: 5
+        - Learning: 5
+        - Logic: 5
+    tier2:
+      any:
+        Attribute:
+        - Any Extraordinary: 5
+        - Learning: 5
+        - Logic: 5
+    tier3:
+      any:
+        Attribute:
+        - Any Extraordinary: 5
+        - Learning: 5
+        - Logic: 5
   tags:
   - Außergewöhnlich
-  - Schöpfung
+  - Nicht-Kampf
   OGtags:
   - Extraordinary
-  - Creation
+  - Non-Combat
   cost:
   - 3
   description: |
-    Ob du heilige Magie beschwörst, fortgeschrittene Technologie benutzt oder alchemische Mittel anwendest, deine Meisterschaft außergewöhnlicher Heilung erlaubt es dir, Wunden zu heilen, an denen andere scheitern würden.
+    Du bist in der Lage, Items mit magischer Energie zu durchdringen, futuristische Technologie zu schaffen, Tränke zu brauen oder außergewöhnliche Geräte zu bauen. Ihre Macht ist permanent, aber abhängig von deiner Expertise.
   effect: |
-    Wenn du das Wohl <em>Heilung</em> wirkst, kannst du dich entscheiden, eine Stunde Zeit statt der normalen Wirkzeit aufzuwenden. Falls du das tust, heilst du genauso viel tödlichen Schaden, wie die normale TP-Heilung der Wirkung ergeben hat. Der tödliche Schaden wird zusätzlich zu den TP des Ziels geheilt.
+    Solange du die notwendigen Materialien und passenden Arbeitsraum hast (nach Abwägung des GM), kannst du außergewöhnliche Items erschaffen (wie in Kapitel 9: Spezialausrüstung beschrieben). Du kannst einem Item nur Attribute, Harme und Wohle geben, zu denen du selbst Zugang hast. Beispielsweise musst du einen Energiewert von 5 oder höher haben, um einem Schwert das Attribut Energie 5 einzuflößen. Die einzige Ausnahme zu dieser Regelung ist ein ausreichend großer Wert in Schöpfung, Lernen oder Logik. Diese Attribute erlauben es dir, einem Item beliebige Attribute, Harme oder Wohle zu verleihen, solange ihr Wert / Kraftlevel kleiner oder gleich deinem Attributwert ist. Der GM kann entscheiden, ob die Anwendung dieser Ausnahme in bestimmten Kontexten nicht sinnvoll ist und diese untersagen.
+    Dein Rang in dieser Fertigkeit bestimmt den maximalen Wohlstandswert von Items, die du erschaffen kannst, anhand des genutzten Attributs:
+    <ul>
+    <li><strong>Rang 1</strong> - Maximaler Wohlstandswert = Attributwert - 2.</li>
+    <li><strong>Rang 2</strong> - Maximaler Wohlstandswert = Attributwert - 1.</li>
+    <li><strong>Rang 3</strong> - Maximaler Wohlstandswert = Attributwert.</li>
+    </ul>
+    Beispielsweise kann ein Charakter mit Schöpfung 5 und Rang 1 dieser Fertigkeit ein außerordentliches Item bis Wohlstandswert 3 erschaffen.
+    Du kannst einen passenden Wohlstandswert für ein Item anhand der Beispielitems aus <strong>Kapitel 9: Spezialausrüstung</strong> finden oder diesen mit den Regeln aus dem Kapitel <strong>Eigene außergewöhnliche Items konzipieren</strong> daraus bestimmen.
+    Ein Item mit den Eigenschaften <em>Konsumgut</em> oder <em>Verbrauchsgut</em> zu erschaffen braucht einen vollen ununterbrochenen 8-Stunden Tag Arbeit[?]. Andere Items brauchen anhand ihres Wohlstandswertes unterschiedlich viel Zeit:
+    <ul>
+    <li><strong>Wohlstandswert 1 - 3</strong>: Zwei Tage pro Wohlstandswert.</li>
+    <li><strong>Wohlstandswert 4 - 5</strong>: Vier Tage pro Wohlstandswert.</li>
+    <li><strong>Wohlstandswert 6 - 7</strong>: Eine Woche pro Wohlstandswert.</li>
+    <li><strong>Wohlstandswert 8 - 9</strong>: Ein Monat pro Wohlstandswert.</li>
+    </ul>
+    Am Ende dieser Zeitspanne ist das Item erschaffen. Ein Item zu erschaffen zählt weiterhin als Ausgabe, sodass du einen Wohlstandswert haben musst, der hoch genug ist, um das Item anhand der in <strong>Kapitel 5: Wohlstand und Ausrüstung</strong> beschriebenen Regeln zu kaufen. Der GM kann nach Abwägung einige oder alle der Kosten, die mit dem Erschaffen eines Items assoziiert sind, fallen lassen, falls du besondere Materialien zum Schaffen des Items schon besitzt. Hast du z.B. kürzlich die Haut eines roten Drachen erbeutet und möchtest nun daraus eine feuerresistenze Rüstung schaffen, kann der GM bestimmen, dass die Haut den Großteil der mit der Schaffung assoziierten Kosten ausmacht und der Wohlstandswert zur Bestimmung der Beschaffungskosten für den Schaffungsprozess so um 3 reduziert ist.
 - !
   name: Blitzfinger[?] / Schneller als dein Schatten[?]
   OGname: Fast Draw
@@ -1326,97 +425,479 @@
   effect: |
     Einmal pro Runde kannst du eine zusätzliche Waffe als kostenlose Aktion ziehen und eine andere wegstecken. Alternativ kannst du den gleichen Effekt auch für alle kleinen Gegenstände nutzen, die du besitzt.
 - !
-  name: Spurenhund[?]
-  OGname: Fast Tracker
+  name: Blitzreflexe (I - V)
+  OGname: Lightning Reflexes (I - V)
   prerequisites:
     tier1:
-      Attribute:
-      - Beweglichkeit: 5
-      - Wahrnehmung: 5
+      any:
+        Attribute:
+        - Beweglichkeit: 2
+        - Vorwissen: 2
+    tier2:
+      any:
+        Attribute:
+        - Beweglichkeit: 2
+        - Vorwissen: 2
+    tier3:
+      any:
+        Attribute:
+        - Beweglichkeit: 4
+        - Vorwissen: 4
+    tier4:
+      any:
+        Attribute:
+        - Beweglichkeit: 4
+        - Vorwissen: 4
+    tier5:
+      any:
+        Attribute:
+        - Beweglichkeit: 4
+        - Vorwissen: 4
   OGprerequisites:
     tier1:
-      Attribute:
-      - Agility: 5
-      - Perception: 5
+      any:
+        Attribute:
+        - Agility: 2
+        - Prescience: 2
+    tier2:
+      any:
+        Attribute:
+        - Agility: 2
+        - Prescience: 2
+    tier3:
+      any:
+        Attribute:
+        - Agility: 4
+        - Prescience: 4
+    tier4:
+      any:
+        Attribute:
+        - Agility: 4
+        - Prescience: 4
+    tier5:
+      any:
+        Attribute:
+        - Agility: 4
+        - Prescience: 4
   tags:
+  - Körperlich
   - Außergewöhnlich
   - Beweglichkeit
-  - Wahrnehmung
+  - Vorwissen
   OGtags:
+  - Physical
   - Extraordinary
   - Agility
-  - Perception
+  - Prescience
+  cost:
+  - 1
+  description: |
+    Du bist allzeit bereit, sodass du deinen Feinden oft zuvorkommst. Ein Revolverheld mit flinken Fingern oder ein Spion, der immer bereit für einen Hinterhalt ist, sind gute Beispiele dieser Fertigkeit.
+  effect: |
+    Für jeden Rang dieser Fertigkeit hast du Vorteil 1 auf alle Initiativewürfe.
+- !
+  name: Brutale Einschüchterung
+  OGname: Brutal Intimidation
+  prerequisites:
+    tier1:
+      Attribute:
+      - Kraft: 2
+  OGprerequisites:
+    tier1:
+      Attribute:
+      - Might: 2
+  tags:
+  - Nicht-Kampf
+  OGtags:
+  - Non-Combat
+  cost:
+  - 1
+  description: |
+    Deine Überzeugungskräfte stammen aus roher Gewalt statt sozialem know-how. Wenn du einen Tisch entzweischlägst, deine Klinge zückst oder die Muskeln spielen lässt, halten die Leute ein und hören dir zu.
+  effect: |
+    Falls du eine Demonstration körperlicher Macht durchführen kannst, kannst du für den Aktionswurf Kraft anstatt von Überzeugung nutzen.
+- !
+  name: Brutaler Schlag
+  OGname: Vicious Strike
+  prerequisites:
+    tier1:
+      Other:
+      - Keine
+  OGprerequisites:
+    tier1:
+      Other:
+      - None
+  tags:
+  - Kampf
+  OGtags:
+  - Combat
   cost:
   - 2
   description: |
-    Einer Spur zu folgen ist für dich so normal wie atmen. Du bist ein erfahrener Waldläufer, Kopfgeldjäger des galaktischen Senats oder ein Katzenmensch mit besseren Sinnen. Deine Expertise erlaubt es dir, Spuren schneller zu verfolgen als durchschnittliche Jäger.
+    Durch pure Stärke, tödliche Präzision oder überkochende Magie, deine Angriffe sind besonders verheerend. Berserker, Assassinen und Superhelden sind Beispiele dieser Fertigkeit in Aktion.
   effect: |
-    Du bewegst dich unbehindert und mit voller Geschwindigkeit, wenn du ein Ziel verfolgst.
+    Wann immer du eine natürlich 20 auf einem d20 für einen Angriffswurf wirfst, erhälst du Vorteil 1 auf alle weiteren d20, die du aufgrund der Würfelexplosionen für diesen Angriff wirfst.
 - !
-  name: Wilde Handlanger (I - III)
-  OGname: Ferocious Minions (I - III)
+  name: Defensive Reflexe (I - IX)
+  OGname: Defensive Reflexes (I - IX)
+  prerequisites:
+    tier1:
+      Attribute:
+      - Beweglichkeit: 3
+    tier2:
+      Attribute:
+      - Beweglichkeit: 3
+    tier3:
+      Attribute:
+      - Beweglichkeit: 3
+    tier4:
+      Attribute:
+      - Beweglichkeit: 5
+    tier5:
+      Attribute:
+      - Beweglichkeit: 5
+    tier6:
+      Attribute:
+      - Beweglichkeit: 5
+    tier7:
+      Attribute:
+      - Beweglichkeit: 7
+    tier8:
+      Attribute:
+      - Beweglichkeit: 7
+    tier9:
+      Attribute:
+      - Beweglichkeit: 7
+  OGprerequisites:
+    tier1:
+      Attribute:
+      - Agility: 3
+    tier2:
+      Attribute:
+      - Agility: 3
+    tier3:
+      Attribute:
+      - Agility: 3
+    tier4:
+      Attribute:
+      - Agility: 5
+    tier5:
+      Attribute:
+      - Agility: 5
+    tier6:
+      Attribute:
+      - Agility: 5
+    tier7:
+      Attribute:
+      - Agility: 7
+    tier8:
+      Attribute:
+      - Agility: 7
+    tier9:
+      Attribute:
+      - Agility: 7
+  tags:
+  - Beweglichkeit
+  - Außergewöhnlich
+  OGtags:
+  - Agility
+  - Extraordinary
+  cost:
+  - 2
+  description: |
+    Du bist ein Paragon des defensiven Kampfes, der meisterhaft gegnerische Attacken abwendet. Indem du die Bewegungen, Streiche oder Schüsse deiner Feinde voraussiehst, kannst du sie unterbinden, bevor sie zur Gefahr werden.
+  effect: |
+    Wann immer du eine Verteidigungsaktion einsetzt, erhältst du Vorteil 1 auf den Aktionswurf pro Rang dieser Fertigkeit, den du besitzt.
+- !
+  name: Endlose Ausdauer (I - V)
+  OGname: Indomitable Endurance (I - V)
   prerequisites:
     tier1:
       any:
         Attribute:
-        - Wandlung: 4
-        - Schöpfung: 4
-        - Vergehen: 4
-        - Energie: 4
-        - Einfluss: 4
+        - Konstitution: 5
+        - Willenskraft: 5
     tier2:
       any:
         Attribute:
-        - Wandlung: 5
-        - Schöpfung: 5
-        - Vergehen: 5
-        - Energie: 5
-        - Einfluss: 5
+        - Konstitution: 5
+        - Willenskraft: 5
     tier3:
       any:
         Attribute:
-        - Wandlung: 7
-        - Schöpfung: 7
-        - Vergehen: 7
-        - Energie: 7
-        - Einfluss: 7
+        - Konstitution: 5
+        - Willenskraft: 5
+    tier4:
+      any:
+        Attribute:
+        - Konstitution: 5
+        - Willenskraft: 5
+    tier5:
+      any:
+        Attribute:
+        - Konstitution: 5
+        - Willenskraft: 5
   OGprerequisites:
     tier1:
       any:
         Attribute:
-        - Alteration: 4
-        - Creation: 4
-        - Entropy: 4
-        - Energy: 4
-        - Influence: 4
+        - Fortitude: 5
+        - Will: 5
     tier2:
       any:
         Attribute:
-        - Alteration: 5
-        - Creation: 5
-        - Entropy: 5
-        - Energy: 5
-        - Influence: 5
+        - Fortitude: 5
+        - Will: 5
     tier3:
       any:
         Attribute:
-        - Alteration: 7
-        - Creation: 7
-        - Entropy: 7
-        - Energy: 7
-        - Influence: 7
+        - Fortitude: 5
+        - Will: 5
+    tier4:
+      any:
+        Attribute:
+        - Fortitude: 5
+        - Will: 5
+    tier5:
+      any:
+        Attribute:
+        - Fortitude: 5
+        - Will: 5
   tags:
-  - Außergewöhnlich
-  - Einfluss
+  - Körperlich
   OGtags:
-  - Extraordinary
-  - Influence
+  - Physical
   cost:
   - 2
   description: |
-    Nekromanten mit Horden Untoter, Erfinder mit ihren automatischen Verteidigungsdroiden oder Psychiker, die andere ihrem Willen unterwerfen, sie alle führen Handlanger an, die unter ihrem Kommando besonders gefährlich sind.
+    Deine Ausdauer und Willenskraft sind legendär, sodass du weitermachen kannst, wenn andere schon einbrechen. Ein Barbar, der unermüdlich schlachtet oder ein Hacker, der tagelang ein einziges Ziel verfolgen kann, sind gute Beispiele dieser Fertigkeit.
   effect: |
-    Kreaturen unter dem Effekt der Harme <em>Bezaubert</em> oder <em>Dominiert</em> oder des Wohls <em>Kreatur Beschwören</em> haben Vorteil 1 pro Rang dieser Fertigkeit auf alle Angriffswürfe, wenn sie dich beschützen oder in deinem Sinne handeln.
+    Du kannst die Auswirkungen des Harms <em>Erschöpft</em> abschütteln. Für jeden Rang in dieser Fertigkeit kannst du dein Level an Erschöpfung als eins weniger behandeln, als es eigentlich ist, um die Effekte des Harms zu bestimmen.
+- !
+  name: Energieresistenz (I - IV)
+  OGname: Energy Resistance (I - IV)
+  prerequisites:
+    tier1:
+      Other:
+      - Keine
+    tier2:
+      Other:
+      - Keine
+    tier3:
+      Other:
+      - Keine
+    tier4:
+      Other:
+      - Keine
+  OGprerequisites:
+    tier1:
+      Other:
+      - None
+    tier2:
+      Other:
+      - None
+    tier3:
+      Other:
+      - None
+    tier4:
+      Other:
+      - None
+  tags:
+  - Außergewöhnlich
+  OGtags:
+  - Extraordinary
+  cost:
+  - 2
+  description: |
+    Ob durch angeborene Abstammungsfähigkeiten, Spezialisierung in einer bestimmten Art Energie oder inhärentem außergewöhnlichem Schutz, bist du restent gegen eine bestimmte Art Energie. Eine Feuermagierin ist immun gegen die heißesten Flammen oder ein biologisch anormales Alien bleibt von Giften unberührt.
+  effect: |
+    Wähle aus den folgenden Energiearten aus: Feuer, Kälte, Blitz, Säure, Gift oder andere nach Abwägung des GM. Wenn du mit dieser Art von Energie angegriffen wirst, erhälst du Resistenz anhand des Ranges dieser Fertigkeit:
+    <ul>
+    <li><strong>Rang 1</strong> - Deine Verteidigungswerte sind um 3 erhöht.</li>
+    <li><strong>Rang 2</strong> - Deine Verteidigungswerte sind um 6 erhöht.</li>
+    <li><strong>Rang 3</strong> - Deine Verteidigungswerte sind um 9 erhöht.</li>
+    <li><strong>Rang 4</strong> - Du bist immun gegen Schaden und schadhafte Effekte.</li>
+    </ul>
+  special: |
+    Zusätzlich dazu, dass mehrere Ränge dieser Fertigkeit erworben werden können, kann die Fertigkeit selbst mehrmals erhalten werden, wobei du jedes Mal eine neue Art Energie auswählst.
+- !
+  name: Erhöhte Konzentration (I - III)
+  OGname: Superior Concentration (I - III)
+  prerequisites:
+    tier1:
+      Other:
+      - Keine
+    tier2:
+      Other:
+      - Keine
+    tier3:
+      Other:
+      - Keine
+  OGprerequisites:
+    tier1:
+      Other:
+      - None
+    tier2:
+      Other:
+      - None
+    tier3:
+      Other:
+      - None
+  tags:
+  - Außergewöhnlich
+  OGtags:
+  - Extraordinary
+  cost:
+  - 3
+  description: |
+    Dein Fokus ist messerschaft, sodass du dich darauf konzentrieren kannst, mehrere außergewöhnliche Effekte gleichzeitig aufrechtzuerhalten. Diese Fertigkeit ist bei Charakteren verbreitet, die darauf ausgelegt sich, sich und andere zu verstärken, z.B. Barden, Platoonführer oder Ingenieure.
+  effect: |
+    Wenn du die kleine Aktion <em>Wohl aufrechterhalten</em> benutzt, kannst du pro Rang dieser Fertigkeit ein weiteres Wohl aufrechterhalten, dass du wirken kannst.
+- !
+  name: Erzfeind (I - IX)
+  OGname: Sworn Enemy (I - IX)
+  prerequisites:
+    tier1:
+      Other:
+      - Keine
+    tier2:
+      Other:
+      - Keine
+    tier3:
+      Other:
+      - Keine
+    tier4:
+      Other:
+      - Keine
+    tier5:
+      Other:
+      - Keine
+    tier6:
+      Other:
+      - Keine
+    tier7:
+      Other:
+      - Keine
+    tier8:
+      Other:
+      - Keine
+    tier9:
+      Other:
+      - Keine
+  OGprerequisites:
+    tier1:
+      Other:
+      - None
+    tier2:
+      Other:
+      - None
+    tier3:
+      Other:
+      - None
+    tier4:
+      Other:
+      - None
+    tier5:
+      Other:
+      - None
+    tier6:
+      Other:
+      - None
+    tier7:
+      Other:
+      - None
+    tier8:
+      Other:
+      - None
+    tier9:
+      Other:
+      - None
+  tags:
+  - Nicht-Kampf
+  - Kampf
+  OGtags:
+  - Non-Combat
+  - Combat
+  cost:
+  - 1
+  description: |
+    Du bist darauf spezialisiert, gegen eine bestimmte Spezies, Abstammung oder Fraktion zu kämpfen. Vielleicht wurde deine Familie von Werwölfen getötet und du hast dich seitdem in all ihren Stärken und Schwächen geschult, um sie zu jagen. Vielleicht wurde in einem Gefängnis auf Vogax Prime aufgezogen und kennst die Vogax daher besser als sie sich selbst.
+  effect: |
+    Wähle eine Spezies, Abstammung oder Fraktion (z.B. Drachen, Leerentemplare, Gnolls oder Vampire). Du lernst die primäre Umgangssprache der Spezies und nach Abwägung des GM auch andere etwas der anderen besonderen Kommunikationsmittel deiner Feinde (wie z.B. geheime Handsignale oder Diebessprech). Weiterhin hast du pro Rang dieser Fertigkeit Vorteil 1 auf alle mentalen Attributwürfe (Lernen, Logik, Wahrnehmung, Willenskraft), die etwas mit der von dir gewählten Gruppe zu tun hat.
+  special: |
+    Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erwerben kannst, kannst du die Fertigkeit selbst auch mehrmals erhalten, wobei du jedes Mal eine neue Gruppe an Feinden wählst. Die Ränge der Fertigkeit für jede Gruppe werden separat behandelt. Beispielsweise könnte ein Charakter Erzfeind II (Raumtemplar) und Erzfeind IV (Werwolf) haben.
+- !
+  name: Fallsicher (I - II)
+  OGname: Breakfall (I - II)
+  prerequisites:
+    tier1:
+      Attribute:
+      - Beweglichkeit: 4
+    tier2:
+      Attribute:
+      - Beweglichkeit: 4
+  OGprerequisites:
+    tier1:
+      Attribute:
+      - Agility: 4
+    tier2:
+      Attribute:
+      - Agility: 4
+  tags:
+  - Beweglichkeit
+  OGtags:
+  - Agility
+  cost:
+  - 2
+  description: |
+    Du bist so anmutig wie ein Schwan. Wie die Krieger und draufgängerische Helden aus den Legenden kannst du unbeschadet aus großen Höhen fallen.
+  effect: |
+    <ul>
+    <li><strong>Rang 1</strong> - Solange du bei Bewusstsein und handlungsfähig bist, reduziere allen Fallschaden um die Hälfte.</li>
+    <li><strong>Rang 2</strong> - Solange du bei Bewusstsein und handlungsfähig bist, erleidest du keinen Fallschaden.</li>
+    </ul>
+- !
+  name: Fliegen
+  OGname: Flying
+  prerequisites:
+    tier1:
+      Other:
+      - Keine
+  OGprerequisites:
+    tier1:
+      Other:
+      - None
+  tags:
+  - Nicht-Kampf
+  OGtags:
+  - Non-Combat
+  cost:
+  - 3
+  description: |
+    Du hast die Fähigkeit, zu fliegen, die von himmlischen oder höllischen Flügeln, telekinetischer Kraft oder Mutantenkräften kommen kann.
+  effect: |
+    Du erhälst eine Fluggeschwindigkeit gleich deiner normalen Geschwindigkeit. Nach Abwägung des GM können bestimmte feindliche Handlungen deine Flugfähigkeit unterbinden, sodass du aus dem Himmel fällst. Falls deine Flugfähigkeit anatomisch bedingt ist, wäre der Harm <em>Immobilisiert</em> ein Beispiel, weil du deine Flügel nicht mehr bewegen könntest. Falls der Flug telekinetischer Art ist könnte <em>Annulieren</em> ihn beenden.
+- !
+  name: Flinke Beinarbeit
+  OGname: Evasive Footwork
+  prerequisites:
+    tier1:
+      Attribute:
+      - Beweglichkeit: 4
+  OGprerequisites:
+    tier1:
+      Attribute:
+      - Agility: 4
+  tags:
+  - Beweglichkeit
+  OGtags:
+  - Agility
+  cost:
+  - 2
+  description: |
+    Du bewegst dich mit dem Fluss des Kampfes und weichst Angriffen aus, die weniger adepte Krieger treffen würden. Vielleicht bist du ein Ninja, der um seine Feinde herum wirbelt oder ein Schlangenalien, das unberührt über das Schlachtfeld gleitet.
+  effect: |
+    Wenn du dich von einem an einem Feind anliegenden Platz zu einem nicht an einem Feind anliegenden Ort bewegst, erhält der Feind keine Gelegenheitsattacke.
 - !
   name: Flinkfuß (I - III)
   OGname: Fleet of Foot (I - III)
@@ -1475,14 +956,120 @@
   effect: |
     Deine Geschwindigkeit ist pro Rang dieser Fertigkeit permanent um 5' erhöht.
 - !
-  name: Fliegen
-  OGname: Flying
+  name: Fähigkeitsspezialisierung (I - V)
+  OGname: Skill Specialization (I - V)
   prerequisites:
     tier1:
       Other:
       - Keine
+    tier2:
+      Other:
+      - Keine
+    tier3:
+      Other:
+      - Keine
+    tier4:
+      Other:
+      - Keine
+    tier5:
+      Other:
+      - Keine
   OGprerequisites:
     tier1:
+      Other:
+      - None
+    tier2:
+      Other:
+      - None
+    tier3:
+      Other:
+      - None
+    tier4:
+      Other:
+      - None
+    tier5:
+      Other:
+      - None
+  tags:
+  - Keine Voraussetzungen
+  OGtags:
+  - No Prerequisite
+  cost:
+  - 2
+  description: |
+    Du hast Adleraugen, Ausdauer wie eine Stier, den Witz eines Fuchses oder eine ähnlich beeindruckende Fähigkeit außerhalb von Kämpfen. Eventuell hast du hart trainiert, lang gelernt oder einfach ein angeborenes Talent.
+  effect: |
+    Wähle ein Attribut. Wann immer du einen Wurf mit diesem Attribut auf etwas anderes als Initiative, Angriffe, Wirkungen von Harmen oder Wohlen oder Verteidigungsaktionen machst, erhälst du Vorteil 1 pro Rang dieser Fertigkeit.
+  special: |
+    Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit haben kannst, kannst du auch die Fertigkeit selbst mehrmals erwerben, wobei du jedes Mal ein anderes Attribut wählst. Du hast separate Ränge für jedes Attribut, für das du diese Fertigkeit hast.
+- !
+  name: Gebietsmanipulation (I - V)
+  OGname: Area Manipulation (I - V)
+  prerequisites:
+    tier1:
+      Other:
+      - Keine
+    tier2:
+      Other:
+      - Keine
+    tier3:
+      Other:
+      - Keine
+    tier4:
+      Other:
+      - Keine
+    tier5:
+      Other:
+      - Keine
+  OGprerequisites:
+    tier1:
+      Other:
+      - None
+    tier2:
+      Other:
+      - None
+    tier3:
+      Other:
+      - None
+    tier4:
+      Other:
+      - None
+    tier5:
+      Other:
+      - None
+  tags:
+  - Keine Voraussetzungen
+  - Außergewöhnlich
+  OGtags:
+  - No Prerequisite
+  - Extraordinary
+  cost:
+  - 1
+  description: |
+    Egal, ob du dein vollautomatisches Sturmgewehr für dich sprechen lässt oder eine Flammenkugel wirfst, bist du besonders präzise darin, die Ziele deine Gebietsattacken anzuvisieren, sodass du Verbündete im Gebiet nicht im Kreuzfeuer hast.
+  effect: |
+    Für jeden Rang dieser Fertigkeit, den du besitzt, kannst du ein einziges 5' Rechteck aus dem Zielgebiet einer Gebietsattacke ausnehmen.
+- !
+  name: Gefährte (I - III)
+  OGname: Companion (I - III)
+  prerequisites:
+    tier1:
+      Other:
+      - Keine
+    tier2:
+      Other:
+      - Keine
+    tier3:
+      Other:
+      - Keine
+  OGprerequisites:
+    tier1:
+      Other:
+      - None
+    tier2:
+      Other:
+      - None
+    tier3:
       Other:
       - None
   tags:
@@ -1490,11 +1077,19 @@
   OGtags:
   - Non-Combat
   cost:
-  - 3
+  - 2
   description: |
-    Du hast die Fähigkeit, zu fliegen, die von himmlischen oder höllischen Flügeln, telekinetischer Kraft oder Mutantenkräften kommen kann.
+    Ob es sich um einen Bodyguard, treues Tier oder einen Bruder handelt, der dir überall hin folgt, du hast einen konstanten und vollständig loyalen Gefährtencharakter.
   effect: |
-    Du erhälst eine Fluggeschwindigkeit gleich deiner normalen Geschwindigkeit. Nach Abwägung des GM können bestimmte feindliche Handlungen deine Flugfähigkeit unterbinden, sodass du aus dem Himmel fällst. Falls deine Flugfähigkeit anatomisch bedingt ist, wäre der Harm <em>Immobilisiert</em> ein Beispiel, weil du deine Flügel nicht mehr bewegen könntest. Falls der Flug telekinetischer Art ist könnte <em>Annulieren</em> ihn beenden.
+    Du bekommst einen Gefährtencharakter, der unabhängig von dir handeln. Im Kampf handelt dein Gefährte nach seinem eigenen Platz in der Initiative und hat die normale Auswahl an Aktionen, die du auswählst. Du gestaltest auch die Attribute deines Gefährten. Wann immer du im Level aufsteigst oder einen neuen Rang dieser Fertigkeit erwirbst, kannst du die Attribute und Fertigkeiten deines Charakters neu vergeben.
+    <ul>
+    <li><strong>Rang 1</strong> - Dein Gefährte hat insgesamt 20 Attributpunkte plus 4 weitere für jedes Level deines Charakters.</li>
+    <li><strong>Rang 2</strong> - Dein Gefährte erhält 3 Fertigkeitenpunkte.</li>
+    <li><strong>Rang 3</strong> - Dein Gefährte hat insgesamt 30 Attributpunkte plus 6 weitere für jedes Level deines Charakters. Weiterhin kannst du optional Fertigkeiten an deinen Gefährten weitergeben. Dazu gibst du deine eigenen Fertigkeitenpunkte aus, um Fertigkeiten für deinen Gefährten freizuschalten, wobei aber der Gefährte - nicht du - die nötigen Voraussetzungen für die Fertigkeit erfüllen muss. Alle Berechnungen für diese Fertigkeiten werden anhand der Attribute, Fertigkeiten usw. des Gefährten durchgeführt, nicht deinen. Falls du Fertigkeitenpunkte so weitergegeben hast und aus einer anderen Quelle neue Fertigkeitenpunkte erhalten würdest, reduziere diese um die Anzahl an Punkten, die du deinem Gefährten gegeben hast.</li>
+    </ul>
+  special: |
+    Falls du deinen Gefährten je verlierst, sei es absichtlich oder nicht, erhälst du die Fertigkeitenpunkte zurück, die du für diese Fertigkeit ausgegeben hast und die du eventuell weitergegeben hast und kannst diese wieder normal ausgeben.
+    Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erlangen kannst, kannst du die Fertigkeit auch mehrmals erwerben, wobei du jedes Mal einen neuen Gefährten erhälst.
 - !
   name: Großer Sprung (I - III)
   OGname: Great Leap (I - III)
@@ -1590,255 +1185,90 @@
       </ul></li>
     </ul>
 - !
-  name: Verstärkte Wirkung[?] (I - III)
-  OGname: Heightened Invocation (I - III)
+  name: Harmfokus
+  OGname: Bane Focus
   prerequisites:
     tier1:
-      Attribute:
-      - Beliebiges Außergewöhnliches: 4
-    tier2:
-      Attribute:
-      - Beliebiges Außergewöhnliches: 6
-    tier3:
-      Attribute:
-      - Beliebiges Außergewöhnliches: 9
+      Other:
+      - Fähigkeit, den gewählten Harm zu wirken
   OGprerequisites:
     tier1:
-      Attribute:
-      - Any Extraordinary: 4
-    tier2:
-      Attribute:
-      - Any Extraordinary: 6
-    tier3:
-      Attribute:
-      - Any Extraordinary: 9
+      Other:
+      - Ability to invoke the chosen bane
   tags:
-  - Außergewöhnlich
-  - Nicht-Kampf
+  - Kraft
+  - Passiv
+  - Kampf
+  - Harm
   OGtags:
-  - Extraordinary
-  - Non-Combat
+  - Might
+  - Passive
+  - Combat
+  - Bane
   cost:
-  - 2
+  - 3
   description: |
-    Indem du deine außergewöhnlichen Kräfte durch tiefere Recherche oder komplexere Rituale wie Meditation, Fasten, Blutlassen oder Ritualopfer unterstützt, erhöhst du die Macht deines Wirkens. Diese Fertigkeit ist bei Magiern, Erfindern, verrückten Wissenschaftlern und ähnlichen Charakteren bekannt.
+    Du bist in der Nutzung eines bestimmten Harmes spezialisiert, der bezeichnend für deinen Charakter ist. Vielleicht bist du ein Krieger, der für seinen betäubenden Schläfenschlag berüchtigt ist, ein Sniper, der sein Ziel immer zuerst lähmt oder ein Feuermagier, der seine Ziele immer durch Brand anhaltenden Schaden erleiden lässt.
   effect: |
-    Wenn du einen Harm oder ein Wohl wirkst, kannst du dich entscheiden, dies als Verstärkte Wirkung zu tun. Die Wirkzeit für eine Verstärkte Wirkung ist um einen Grad länger als normal:
-    <ul>
-    <li>1 Aktion wird 1 Minute</li>
-    <li>1 Minute wird 10 Minuten</li>
-    <li>10 Minuten werden 1 Stunde</li>
-    <li>1 Stunde wird 8 Stunden</li>
-    <li>8 Stunden werden 24 Stunden</li>
-    </ul>
-
-    <strong>Rang 1</strong> - Wenn du eine Verstärkte Wirkung durchführst, kannst du einen der folgenden Effekte wählen, der den Harm oder das Wohl betrifft:<br>
-      <ul>
-      <li>Erhöhe die Reichweite des Harms oder Wohls:
-        Attributwert 5 = 500 Fuß<br />
-        Attributwert 6 = 1/2 Meile<br />
-        Attributwert 7 = 1 Meile<br />
-        Attributwert 8 = 10 Meilen<br />
-        Attributwert 9 = 100 Meilen<br /></li>
-      <li>Neutralisiere zwei Level Nachteil, die durch Multi-Zielen bewirkt werden (z.B. kannst du auf zwei Kreaturen oder ein 10' Gebiet zielen, ohne Nachteil zu erhalten).</li>
-      <li>Behandle deinen Attributwert zum Bestimmen der Attributwürfel für diese Wirkung als eins höher als er eigentlich ist. Dies gibt dir nicht Zugang zu weiteren Harmen oder Wohlen, sondern betrifft nur die für den Wurf genutzten Würfel.</li>
-      </ul>
-
-    <strong>Rang 2</strong> - Du erhälst die folgenden Optionen, wenn du eine Verstärkte Wirkung nutzt:
-      <ul>
-        <li>Du kannst andere in einer Gruppenwirkung anleiten, solange sie den Harm oder das Wohl auf dem gleichen Kraftlevel wie du wirken können. Nach erfolgreicher Gruppenwirkung kann jeder beteiligte Charakter einen der Effekte von Rang 1 dieser Fertigkeit auswählen.</li>
-        <li>Du erhälst die folgenden weiteren Optionen, um deine Wirkung zu erweitern:
-          <ul>
-          <li>Das gewirkte Wohl hält automatisch für eine Minute an, ohne das es aufrechterhalten werden muss. Weiterhin können Feinde das Wohl nicht durch Angriffe unterbrechen (wobei der Harm <em>Annullieren</em> weiterhin wirksam ist).</li>
-          <li>Ziele können für eine Minute keine Widerstehenwürfe gegen den gewirkten Harm nutzen.</li>
-          </ul></li>
-      </ul>
-
-    <strong>Rang 3</strong> - Du erhälst die Fähigkeit, Harme und Wohle permanent zu gewähren oder aufzulösen. Um einen Harm oder ein Wohl zu übertragen, musst du dich für eine Anzahl Tage gleich des Kraftlevels vollständig mit der Verstärkten Wirkung beschäftigen. In dieser Zeit kannst du Essen, Trinken und mit zwei Ausnahmen sonst normal Handeln: 1) Du musst jeden Tag aktiv und ohne große Unterbrechungen 8 Stunden an der Wirkung des Harms oder Wohls arbeiten. 2) Du kannst dich generell frei bewegen und das Gebiet verlassen, aber für die 8 Stunden pro Tag musst du am gleichen Ort sein, an dem die Wirkung begonnen wurde. Wenn die Wirkzeit vollständig ist, mache deinen Aktionswurf je nach intendierter Anwendung:
-    <ul>
-    <li><strong>Wohl gewähren</strong> - Mache einen normalen Aktionswurf, um das Wohl zu wirken. Bei Erfolg kannst du deinem Ziel ein nicht-augenblickliches und nicht-permanentes Wohl gewähren. Das Ziel kann das Wohl danach als kostenlose Aktion wirken, ohne dazu einen Aktionswurf zu benötigen. Das Ziel muss keine Aktionen nutzen, um das Wohl aufrechtzuerhalten und es kann nur temporär durch den Harm <em>Annullieren</em> neutralisiert werden. Um das Wohl permanent zu neutraliesieren (das gewährte Wohl aufzuheben), muss Verstärkte Wirkung mit dem Effekt Wohl bannen benutzt werden (siehe folgende Absätze).</li>
-    <li><strong>Harm gewähren</strong> - Mache einen normalen Aktionswurf, um den Harm zu wirken. Bei Erfolg kannst du deinem Ziel einen nicht-augenblicklichen und nicht-permanenten Harm zufügen. Der Harm hält ohne Zeitlimit an und erlaubt keine Widerstehenwürfe, um ihn zu beenden. Der Effekt kann nur temporär mit dem Harm <em>Annullieren</em> oder permanent mit einer Verstärkten Wirkung mit der Anwendung Harm bannen benutzt werden (siehe folgende Absätze).</li>
-    <li><strong>Wohl bannen[?]</strong> - Mache einen Vergehenwurf mit einem Herausforderungswert von 10 + 2 x Kraftlevel des Wohls, das du bannen willst. Bei Erfolg entfernst du ein permanentes Wohl vom Ziel, sodass dieses dessen Effekte und die Fähigkeit verliert, es zu wirken.</li>
-    <li><strong>Harm bannen</strong> - Mache einen Schutzwurf mit einem Herausforderungswert von 10 + 2 x Kraflevel des Harms, den du bannen willst. Bei Erfolg entfernst du einen permanenten Harm vom Ziel, wobei das Ziel aber keine Resistenz oder Immunität gegen den Harm für die Zukunft erhält.</li>
-    </ul>
+    Wähle einen Harm, den du wirken kannst. Wenn dein Wurf auf einen Angriff mit Schaden die Verteidigung des Ziels um 5 oder mehr übersteigt (anstatt der normalen 10 oder mehr), kannst du den Harm automatisch zufügen. Jeder Angriff kann weiterhin nur einen einzigen Harm zufügen. Weiterhin erhälst du Vorteil 2 auf Harmattacken mit dem gewählten Harm.
   special: |
-    Permanente Harme und Wohle mit dieser Fertigkeit zu gewähren kann einen dramatischen Einfluss auf die spielmechanische Balance der Geschichte haben. Wie mit anderen Effekten wie z.B. Außergewöhnliches Item Erschaffen, unterliegt das Wirken permanenter Harme und Wohle der Abwägung des GM. Der GM sollte besonders darauf achten, dass diese Fertigkeit nicht genutzt wird, um einen Charakter übermäßig mächtig zu machen.
+    Du kannst diese Fertigkeit mehrmals erlangen. Für jedes weitere Mal wählst du einen anderen Harm aus.
 - !
-  name: Medikus
-  OGname: Hospitaler
+  name: Hart wie Eisen[?] (I - II)
+  OGname: Tough as Nails (I - II)
   prerequisites:
     tier1:
-      any:
-        Attribute:
-        - Schöpfung: 4
-        - Präsenz: 4
-        - Schutz: 4
+      Attribute:
+      - Konstitution: 3
+    tier2:
+      Attribute:
+      - Konstitution: 5
   OGprerequisites:
     tier1:
-      any:
-        Attribute:
-        - Creation: 4
-        - Presence: 4
-        - Protection: 4
+      Attribute:
+      - Fortitude: 3
+    tier2:
+      Attribute:
+      - Fortitude: 5
   tags:
-  - Nicht-Kampf
-  - Außergewöhnlich
-  - Sozial
-  - Schöpfung
-  - Präsenz
-  - Schutz
+  - Verteidigung
+  - Körperlich
+  - Konstitution
   OGtags:
-  - Non-Combat
-  - Extraordinary
-  - Social
-  - Creation
-  - Presence
-  - Protection
+  - Defense
+  - Physical
+  - Fortitude
   cost:
   - 2
   description: |
-    Durch inspirierende Worte, magische Heilung oder fortgeschrittene Medizintechnik bist du besonders effektiv dabei, anderen zu helfen, schadhafte Effekte loszuwerden. Paladine, Barden und Kampfmediziner sind typische Beispiele von Charakteren, die diese Fertigkeit haben könnten.
+    Du hast eine besonders hohe Schmerztoleranz. Diese Fertigkeit könnte von einem Chitinpanzer, extremem Kampftraining oder einfach einer Lederhaut nach jahrelangem Leben auf der Straße kommen. 
   effect: |
-    Du kannst eine große Aktion benutzen, um einem Verbündeten sofort einen Widerstehenwurf (eine kostenlose Aktion für den Verbündeten) mit Vorteil 1 zu geben. Weiterhin hast du Vorteil 1 darauf, das Wohl <em>Wiederherstellung</em> zu wirken.
+    Du erhälst pro Rang dieser Fertigkeit permanent 5 extra TP.
 - !
-  name: Unabdingbare Trance[?]
-  OGname: Impervious Trance
+  name: Hartnäckiger Harm
+  OGname: Potent Bane
   prerequisites:
     tier1:
-      Attribute:
-      - Willenskraft: 7
-      Feat:
-      - Kampftrance
+      Other:
+      - Fähigkeit, den gewählten Harm zu wirken
   OGprerequisites:
     tier1:
-      Attribute:
-      - Will: 7
-      Feat:
-      - Battle Trance
+      Other:
+      - Ability to invoke the chosen bane
   tags:
+  - Harm
   - Kampf
   OGtags:
+  - Bane
   - Combat
   cost:
   - 3
   description: |
-    Im Fokus des Kampfes wirst du unabdingbar. Wie ein Mönch mit stählernem mentalen Fokus oder ein Berserker, der zu blutrünstig ist, um sich aufhalten zu lassen, kannst du nicht durch Furcht, Bezauberung oder ähnliche Effekte gebremst werden.
+    Du bist so effektiv mit einer bestimmten Art Angiff, dass deine Feinde es schwer haben, ihre Folgen abzuschütteln. Vielleicht brennen die Flammen deines Feuerballs heißer oder du hast eine besondere chemische Mischung für dein Blindpulver entwickelt.
   effect: |
-    Während du in einer Kampftrance liegst, bist du immun gegen Harme, die auf deine Entschlossenheit zielen. Falls du zu Beginn der Trance unter einem dieser Harme lagst, ist dieser für die Dauer der Trance neutralisiert und kehr zurück, wenn die Trance endet.
-- !
-  name: Endlose Ausdauer (I - V)
-  OGname: Indomitable Endurance (I - V)
-  prerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Konstitution: 5
-        - Willenskraft: 5
-    tier2:
-      any:
-        Attribute:
-        - Konstitution: 5
-        - Willenskraft: 5
-    tier3:
-      any:
-        Attribute:
-        - Konstitution: 5
-        - Willenskraft: 5
-    tier4:
-      any:
-        Attribute:
-        - Konstitution: 5
-        - Willenskraft: 5
-    tier5:
-      any:
-        Attribute:
-        - Konstitution: 5
-        - Willenskraft: 5
-  OGprerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Fortitude: 5
-        - Will: 5
-    tier2:
-      any:
-        Attribute:
-        - Fortitude: 5
-        - Will: 5
-    tier3:
-      any:
-        Attribute:
-        - Fortitude: 5
-        - Will: 5
-    tier4:
-      any:
-        Attribute:
-        - Fortitude: 5
-        - Will: 5
-    tier5:
-      any:
-        Attribute:
-        - Fortitude: 5
-        - Will: 5
-  tags:
-  - Körperlich
-  OGtags:
-  - Physical
-  cost:
-  - 2
-  description: |
-    Deine Ausdauer und Willenskraft sind legendär, sodass du weitermachen kannst, wenn andere schon einbrechen. Ein Barbar, der unermüdlich schlachtet oder ein Hacker, der tagelang ein einziges Ziel verfolgen kann, sind gute Beispiele dieser Fertigkeit.
-  effect: |
-    Du kannst die Auswirkungen des Harms <em>Erschöpft</em> abschütteln. Für jeden Rang in dieser Fertigkeit kannst du dein Level an Erschöpfung als eins weniger behandeln, als es eigentlich ist, um die Effekte des Harms zu bestimmen.
-- !
-  name: Stählerner Wille (I - III)
-  OGname: Indomitable Resolve (I - III)
-  prerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Präsenz: 3
-        - Willenskraft: 3
-    tier2:
-      any:
-        Attribute:
-        - Präsenz: 4
-        - Willenskraft: 4
-    tier3:
-      any:
-        Attribute:
-        - Präsenz: 5
-        - Willenskraft: 5
-  OGprerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Presence: 3
-        - Will: 3
-    tier2:
-      any:
-        Attribute:
-        - Presence: 4
-        - Will: 4
-    tier3:
-      any:
-        Attribute:
-        - Presence: 5
-        - Will: 5
-  tags:
-  - Kampf
-  - Präsenz
-  - Willenskraft
-  OGtags:
-  - Combat
-  - Presence
-  - Will
-  cost:
-  - 1
-  description: |
-    Deine Entschlossenheit ist außergewöhnlich, sodass du resistenter gegen mentale Angriffe bist, die andere unterwerfen würden. Ein Raumschiffkapitän mit cleverem Geist oder ein weiser Magier könnten diese Fertigkeit nutzen.
-  effect: |
-    Für jeden Rang in dieser Fertigkeit ist deine Entschlossenheit um eins erhöht.
+    Wähle einen Harm aus, den du wirken kannst und der eine Dauer von "Widerstehen beendet" hat. Wenn ein Ziel dieses Harms von dir versucht, diesen mit einem Widerstehenwurf abzuschütteln, hat es Nachteil 1.
+  special: |
+    Du kannst diese Fertigkeit mehrmals wählen, wobei du jedes Mal einen anderen Harm wählst.
 - !
   name: Inspirierender Paragon[?] / Paragon[?] (I - III)
   OGname: Inspiring Champion (I - III)
@@ -1882,277 +1312,26 @@
     <li><strong>Rang 3</strong> - Alle Verbündeten, die den Angriff sehen können, heilen 2d4 TP.</li>
     </ul>
 - !
-  name: Wissen (I - III)
-  OGname: Knowledge (I - III)
+  name: Kampf Follow-Up[?]
+  OGname: Combat Follow-through
   prerequisites:
     tier1:
-      Other:
-      - Keine
-    tier2:
-      Other:
-      - Keine
-    tier3:
       Other:
       - Keine
   OGprerequisites:
     tier1:
       Other:
       - None
-    tier2:
-      Other:
-      - None
-    tier3:
-      Other:
-      - None
   tags:
-  - Keine Voraussetzungen
-  - Außergewöhnlich
+  - Kampf
   OGtags:
-  - No Prerequisite
-  - Extraordinary
+  - Combat
   cost:
   - 2
   description: |
-    Eingängige Studien oder jahrelange Erfahrung geben dir ein Wissen über ein bestimmtes Thema, das deine generelle Intelligenz weit übersteigt. Ein Navigator kennt die galaktische Karte in-und-auswendig, ein Barbarenlord hat lebenslage Erfahrung in Militärstrategie und ein Professor des Abnormalen wären alle Beispiele dieser Fertigkeit.
+    Du bist in der Lage, Feinde in schneller Folge zu dezimieren. Wie ein legendärer Samurai oder überragender Elfenschütze fallen deine Gegner in Reihen.
   effect: |
-    Wenn du diese Fertigkeit erwirbst, wählst du ein Wissensgebiet aus der unten aufgeführten Liste oder - mit der Zustimmung des GM - ein anderes.
-    <ul>
-    <li>Alchemie</li>
-    <li>Anatomie</li>
-    <li>Arkana</li>
-    <li>Computer</li>
-    <li>Sprengstoff</li>
-    <li>Ingenieurswesen</li>
-    <li>Geografie</li>
-    <li>Kräuterkunde</li>
-    <li>Geschichte</li>
-    <li>Ort (spezifischen angeben)</li>
-    <li>Medizin</li>
-    <li>Militärstrategie</li>
-    <li>Übernatürlich</li>
-    <li>Wildniss</li>
-    </ul>
-    Dein Rang in dieser Fertigkeit bestimmt, wie tief dein Wissen im gewählten Gebiet geht.
-    <ul>
-    <li><strong>Rang 1</strong> - Du hast automatisch bei Aktionswürfen mit HW 16 oder niedriger Erfolg, die etwas mit deinem gewählten Wissensgebiet zu tun haben. Bei höheren HW zählt dein Lernenwert für diesen Wurf als 3, falls er eigentlich niedriger ist. Ist dein Lernenwert eh schon 3 oder höher, hast du Vorteil 1 auf den Wurf.</li>
-    <li><strong>Rang 2</strong> - Du hast automatisch bei Aktionswürfen mit HW 22 oder niedriger Erfolg, die etwas mit deinem gewählten Wissensgebiet zu tun haben. Bei höheren HW zählt dein Lernenwert für diesen Wurf als 6, falls er eigentlich niedriger ist. Ist dein Lernenwert eh schon 6 oder höher, hast du Vorteil 1 auf den Wurf.</li>
-    <li><strong>Rang 3</strong> - Du hast automatisch bei Aktionswürfen mit HW 26 oder niedriger Erfolg, die etwas mit deinem gewählten Wissensgebiet zu tun haben. Bei höheren HW zählt dein Lernenwert für diesen Wurf als 8, falls er eigentlich niedriger ist. Ist dein Lernenwert eh schon 8 oder höher, hast du Vorteil 1 auf den Wurf.</li>
-    </ul>
-  special: |
-    Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit haben kannst, kannst du die Fertigkeit selbst auch mehrmals erwerben, wobei du jedes Mal ein neues Wissensgebiet wählst. Die Fertigkeit so mehrmals zu haben bringt keine Vorteile für andere Wissensgebiete.
-- !
-  name: Tödlicher Streich[?] (I - IX)
-  OGname: Lethal Strike (I - IX)
-  prerequisites:
-    tier1:
-      Attribute:
-      - Beweglichkeit: 3
-    tier2:
-      Attribute:
-      - Beweglichkeit: 3
-    tier3:
-      Attribute:
-      - Beweglichkeit: 3
-    tier4:
-      Attribute:
-      - Beweglichkeit: 5
-    tier5:
-      Attribute:
-      - Beweglichkeit: 5
-    tier6:
-      Attribute:
-      - Beweglichkeit: 5
-    tier7:
-      Attribute:
-      - Beweglichkeit: 7
-    tier8:
-      Attribute:
-      - Beweglichkeit: 7
-    tier9:
-      Attribute:
-      - Beweglichkeit: 7
-  OGprerequisites:
-    tier1:
-      Attribute:
-      - Agility: 3
-    tier2:
-      Attribute:
-      - Agility: 3
-    tier3:
-      Attribute:
-      - Agility: 3
-    tier4:
-      Attribute:
-      - Agility: 5
-    tier5:
-      Attribute:
-      - Agility: 5
-    tier6:
-      Attribute:
-      - Agility: 5
-    tier7:
-      Attribute:
-      - Agility: 7
-    tier8:
-      Attribute:
-      - Agility: 7
-    tier9:
-      Attribute:
-      - Agility: 7
-  tags:
-  - Außergewöhnlich
-  - Beweglichkeit
-  - Kampf
-  OGtags:
-  - Extraordinary
-  - Agility
-  - Combat
-  cost:
-  - 3
-  description: |
-    Hochtrainierte Sniper, legendäre Ninja oder Nahkampfderwische können Feinde mit präzise platzierten Vorstößen ausschalten, wenn sie sie kalt erwischen.
-  effect: |
-    Deine Angriffe werden als Tödlicher Streich gewertet, wenn <em>eine</em> der folgenden Bedingungen erfüllt ist:
-    <ul>
-    <li>Dein Ziel ist überrascht oder sie den Angriff anderweitig nicht kommen, z.B. wenn du vor ihm versteckt, als Freund verkleidet bist oder es erfolgreich getäuscht hast.</li>
-    <li>Dein Ziel ist in Nahkampfreichweite eines Verbündeten.</li>
-    </ul>
-    Du hast Vorteil auf Tödliche Streiche mit Vorteil-Level gleich deines Ranges in dieser Fertigkeit. Weiterhin wird ein Teil des Schadens (nie mehr als der Gesamtschaden) als tödlicher Schaden zugefügt, was ihn schwieriger zu heilen macht (siehe Kapitel 7: Kampf).
-    <ul>
-    <li><strong>Rang 1</strong> - Vorteil 1. Bis zu 5 tödlicher Schaden.</li>
-    <li><strong>Rang 2</strong> - Vorteil 2. Bis zu 5 tödlicher Schaden.</li>
-    <li><strong>Rang 3</strong> - Vorteil 3. Bis zu 10 tödlicher Schaden.</li>
-    <li><strong>Rang 4</strong> - Vorteil 4. Bis zu 10 tödlicher Schaden.</li>
-    <li><strong>Rang 5</strong> - Vorteil 5. Bis zu 15 tödlicher Schaden.</li>
-    <li><strong>Rang 6</strong> - Vorteil 6. Bis zu 20 tödlicher Schaden.</li>
-    <li><strong>Rang 7</strong> - Vorteil 7. Bis zu 20 tödlicher Schaden.</li>
-    <li><strong>Rang 8</strong> - Vorteil 8. Bis zu 25 tödlicher Schaden.</li>
-    <li><strong>Rang 9</strong> - Vorteil 9. Bis zu 25 tödlicher Schaden.</li>
-    </ul>
-- !
-  name: Blitzreflexe (I - V)
-  OGname: Lightning Reflexes (I - V)
-  prerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Beweglichkeit: 2
-        - Vorwissen: 2
-    tier2:
-      any:
-        Attribute:
-        - Beweglichkeit: 2
-        - Vorwissen: 2
-    tier3:
-      any:
-        Attribute:
-        - Beweglichkeit: 4
-        - Vorwissen: 4
-    tier4:
-      any:
-        Attribute:
-        - Beweglichkeit: 4
-        - Vorwissen: 4
-    tier5:
-      any:
-        Attribute:
-        - Beweglichkeit: 4
-        - Vorwissen: 4
-  OGprerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Agility: 2
-        - Prescience: 2
-    tier2:
-      any:
-        Attribute:
-        - Agility: 2
-        - Prescience: 2
-    tier3:
-      any:
-        Attribute:
-        - Agility: 4
-        - Prescience: 4
-    tier4:
-      any:
-        Attribute:
-        - Agility: 4
-        - Prescience: 4
-    tier5:
-      any:
-        Attribute:
-        - Agility: 4
-        - Prescience: 4
-  tags:
-  - Körperlich
-  - Außergewöhnlich
-  - Beweglichkeit
-  - Vorwissen
-  OGtags:
-  - Physical
-  - Extraordinary
-  - Agility
-  - Prescience
-  cost:
-  - 1
-  description: |
-    Du bist allzeit bereit, sodass du deinen Feinden oft zuvorkommst. Ein Revolverheld mit flinken Fingern oder ein Spion, der immer bereit für einen Hinterhalt ist, sind gute Beispiele dieser Fertigkeit.
-  effect: |
-    Für jeden Rang dieser Fertigkeit hast du Vorteil 1 auf alle Initiativewürfe.
-- !
-  name: Zielwasser[?] / Weitschuss
-  OGname: Longshot
-  prerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Beweglichkeit: 5
-        - Kraft: 5
-        - Beliebiges Außergewöhnliches: 5
-  OGprerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Agility: 5
-        - Might: 5
-        - Any Extraordinary: 5
-  tags:
-  - Kampf
-  OGtags:
-  - Combat
-  cost:
-  - 1
-  description: |
-    Deine Expertise mit einer bestimmten Fernkampfwaffe oder außergewöhnlichen Macht erlaubt es dir, Feinde auf extremer Distanz anzugreifen. Diese Fertigkeit findet man bei Snipern, Kampfpiloten und Kriegsmagiern.
-  effect: |
-    Wenn du diese Fertigkeit erwirbst, wähle eine Waffe oder einen Angriffstyp. Beispiele von Angriffstypen umfassen Feuer, Kälte, Blitz, Säure, Gift, Vergehen, Schöpfung und Kraft, wobei die Liste nicht abschließend ist.
-    Mit der von dir gewählten Waffe oder Angriffsart ist deine Reichweite verdoppelt.
-  special: |
-    Du kannst diese Fertigkeit mehrmals erhalten, wobei du jedes Mal neue Waffen oder Angriffstypen wählst.
-- !
-  name: Stummschlag
-  OGname: Silencing Strike
-  prerequisites:
-    tier1:
-      Attribute:
-      - Beweglichkeit: 4
-  OGprerequisites:
-    tier1:
-      Attribute:
-      - Agility: 4
-  tags:
-  - Beweglichkeit
-  - Körperlich
-  OGtags:
-  - Agility
-  - Physical
-  cost:
-  - 3
-  description: |
-    Wie ein Assassine oder Ninja kannst du verhindern, dass Feinde andere zu Hilfe rufen können. Das könnte sich als Wurfdart in der Luftröhre, Würgestrick um den Hals oder verzaubertes Tuch über dem Mund ausdrücken.
-  effect: |
-    Wann immer du mit einer Waffe mit der Eigenschaft <em>Defensiv</em> einem Ziel Schaden zufügst, das die Attacke nicht hat kommen sehen oder sonst unvorbereitet darauf war, erleidet es automatisch den Harm <em>Verstummt</em>. Du könntest vor dem Ziel versteckt sein, dich als Freund verkleidet oder es erfolgreich getäuscht haben.
+    Wann immer du einen Feind mit einer Kraft- oder Beweglichkeitsattacke auf 0 TP bringst, kannst du sofort einen Extraangriff als kostenlose Aktion ausführen.
 - !
   name: Kampffokus
   OGname: Martial Focus
@@ -2180,6 +1359,149 @@
     Wie ein Kensaikämpfer, der sich ganz seinem Katana verschrieben hat, oder ein Assassine der ausschließlich seine Lieblingspistole führt, ist dein Training auf einen einzigen Kampfstil fokussiert.
   effect: |
     Wähle eine einzige Waffe (oder wähle unbewaffneten Kampf) und gib an, auf welches Attribut sich dein Kampffokus verlässt: Beweglichkeit oder Kraft. Wenn du einen Angriff mit der gewählten Waffe machst, wird dein Attributwert zum Bestimmten der Attributwürfel als eins höher gewertet, als er eigentlich ist. Dein Wert bleibt für alle anderen Anwendungen - wie z.B. Fertigkeiten, Harme und Wohle - unverändert. Aufgrund deines intensiven Trainings in einem Stil, das andere Taktiken vernachlässigt, hast du Nachteil 1 auf alle Angriffe, die du ohne Kampffokus ausführst.
+- !
+  name: Kampfmomentum
+  OGname: Combat Momentum
+  prerequisites:
+    tier1:
+      Other:
+      - Keine
+  OGprerequisites:
+    tier1:
+      Other:
+      - None
+  tags:
+  - Kampf
+  OGtags:
+  - Combat
+  cost:
+  - 1
+  description: |
+    Ob durch rohe Kraft oder Blitzreflexe, kannst du dein Momentum im Kampf nutzen, um mit Leichtigkeit über das Schlachtfeld zu maneuvrieren.
+  effect: |
+    Wann immer du einen Feind mit einer Kraft- oder Beweglichkeitsattacke auf 0 TP bringst, kannst du dich sofort als kostenlose Aktion bis zu deiner Geschwidigkeit weit bewegen.
+  special: |
+    Falls du Zugang zum Wohl <em>Teleportation</em> hast, kannst du es anstatt einer normalen Bewegung benutzen.
+- !
+  name: Kampftrance
+  OGname: Battle Trance
+  prerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Konstitution: 3
+        - Willenskraft: 3
+  OGprerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Fortitude: 3
+        - Will: 3
+  tags:
+  - Kampf
+  OGtags:
+  - Combat
+  cost:
+  - 3
+  description: |
+    Du kannst dich in einen Geisteszustand erhöhter Kampfbereitschaft versetzen, in dem dein Körper gestärkt ist und dein Geist Furch und Schmerz hinter sich lässt. Beispiele schließen Barbaren in Rage oder einen unaufhaltsamen Samurai ein, der im Kampf den Fokus einer Rasierklinge hat.
+  effect: |
+    Als kostenlose Aktion in deinem Zug kannst du dich in Kampftrance versetzen. Während du in der Trance bist, hast du Vorteil 1 auf alle Angriffe. Weiterhin sind dein Zähigkeit und Entschlossenheit um 3 erhöht. Falls dein gesamter Rüstungsbonus weniger als 3 ist, wird er zu 3. Falls du drei Züge in Folge keinen Angriffswurf gegen eine feindliche Kreatur wirfst, endet die Kampftrance. Wenn die Trance endet, erleidest du automatisch 1 Level des Harms <em>erschöpft</em>.
+- !
+  name: Klettern
+  OGname: Climbing
+  prerequisites:
+    tier1:
+      Other:
+      - Keine
+  OGprerequisites:
+    tier1:
+      Other:
+      - None
+  tags:
+  - Nicht-Kampf
+  OGtags:
+  - Non-Combat
+  cost:
+  - 1
+  description: |
+    Du erhälst die Fähigkeit, perfekt zu klettern oder Parkour zu nutzen, so wie manche Vampire, bizarre Kreaturen, Ninjas oder Insekten.
+  effect: |
+    Du erhälst eine Klettern-Geschwindigkeit gleich deiner Grundgeschwindigkeit und kannst horizontale und vertikale Flächen erklimmen - sogar kopfüber -, ohne einen Sturz fürchten zu müssen.
+- !
+  name: Konterschlächter[?]
+  OGname: Battlefield Punisher
+  prerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Beweglichkeit: 5
+        - Kraft: 5
+        - Beliebiges Außergewöhnliches: 5
+      Feat:
+      - Schlachtvergeltung
+  OGprerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Agility: 5
+        - Might: 5
+        - Any Extraordinary: 5
+      Feat:
+      - Battlefield Retribution
+  tags:
+  - Kraft
+  - Passiv
+  - Kampf
+  - Fertigkeitenkette
+  OGtags:
+  - Might
+  - Passive
+  - Combat
+  - Feat Chain
+  cost:
+  - 3
+  description: |
+    Du kannst mit einem Konter nicht nur Schaden zufügen, sondern Feinde auch mit einem spezifischen Sekundäreffekt belegen. Vielleicht bist du ein Paladin, der Feinde mit seinem Konter zu Boden wirft, ein Ninja der bei der Parade Sand in die Augen des Gegners streut oder ein Telekinetist, der seine Feinde von sich schleudert.
+  effect: |
+    Wähle einen Harm, den du zufügen kannst. Wann immer du eine Verteidigungsaktion mit einem Attribut nutzt, das den gewählten Harm wirken könnte und mit der Fertigkeit Schlachtvergeltung dem Gegner 10 oder mehr Schaden zufügst, kannst du den Harm automatisch auf den Gegner wirken.
+- !
+  name: Medikus
+  OGname: Hospitaler
+  prerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Schöpfung: 4
+        - Präsenz: 4
+        - Schutz: 4
+  OGprerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Creation: 4
+        - Presence: 4
+        - Protection: 4
+  tags:
+  - Nicht-Kampf
+  - Außergewöhnlich
+  - Sozial
+  - Schöpfung
+  - Präsenz
+  - Schutz
+  OGtags:
+  - Non-Combat
+  - Extraordinary
+  - Social
+  - Creation
+  - Presence
+  - Protection
+  cost:
+  - 2
+  description: |
+    Durch inspirierende Worte, magische Heilung oder fortgeschrittene Medizintechnik bist du besonders effektiv dabei, anderen zu helfen, schadhafte Effekte loszuwerden. Paladine, Barden und Kampfmediziner sind typische Beispiele von Charakteren, die diese Fertigkeit haben könnten.
+  effect: |
+    Du kannst eine große Aktion benutzen, um einem Verbündeten sofort einen Widerstehenwurf (eine kostenlose Aktion für den Verbündeten) mit Vorteil 1 zu geben. Weiterhin hast du Vorteil 1 darauf, das Wohl <em>Wiederherstellung</em> zu wirken.
 - !
   name: Meisterverfolger[?] / Meisterjäger
   OGname: Master Tracker
@@ -2500,55 +1822,65 @@
     <li><strong>Rang 3</strong> - +3 Bonus auf Deckung und Zähigkeit.</li>
     </ul>
 - !
-  name: Überwältigender Schlag
-  OGname: Overpowering Strike
+  name: Normales Item Erschaffen (I - II)
+  OGname: Craft Mundane Item (I - II)
   prerequisites:
     tier1:
-      Attribute:
-      - Kraft: 4
+      any:
+        Attribute:
+        - Lernen: 3
+        - Logik: 3
+        Feat:
+        - Wissen I
+    tier2:
+      any:
+        Attribute:
+        - Lernen: 3
+        - Logik: 3
+        Feat:
+        - Wissen I
   OGprerequisites:
     tier1:
-      Attribute:
-      - Might: 4
+      any:
+        Attribute:
+        - Learning: 3
+        - Logic: 3
+        Feat:
+        - Knowledge I
+    tier2:
+      any:
+        Attribute:
+        - Learning: 3
+        - Logic: 3
+        Feat:
+        - Knowledge I
   tags:
-  - Körperlich
-  - Fertigkeitenkette
-  - Kraft
+  - Nicht-Kampf
   OGtags:
-  - Physical
-  - Feat Chain
-  - Might
+  - Non-Combat
   cost:
   - 2
   description: |
-    Im Kampf bist du eine überwältigende Lawine, die Feinde dahinrafft. Die reine Kraft deiner Angriffe ist so groß, dass sie Feinde zurückwirft. Ein Halboger mit einem massiven Baumstamm oder ein Supersoldat, der trainiert ist, das Gewicht seines Gegner für sich zu nutzen, sind gute Beispiele dieser Fertigkeit.
+    Du hast ein bestimmtes Handwerk gemeistert, sodass du mit der nötigen Zeit und Materialien Items aus diesem Gewerbe erschaffen kannst. Du könntest ein gekonnter Schmied sein, professioneller Ingenieur, Meisteralchemist oder jede andere Art Profession.
   effect: |
-    Jedes Mal, wenn du mit einer Waffe mit der Eigenschaft <em>Kraftvoll</em> Schaden zufügst, kannst du dich entscheiden, dein Ziel 5' von dir wegzubewegen.
-- !
-  name: Hartnäckiger Harm
-  OGname: Potent Bane
-  prerequisites:
-    tier1:
-      Other:
-      - Fähigkeit, den gewählten Harm zu wirken
-  OGprerequisites:
-    tier1:
-      Other:
-      - Ability to invoke the chosen bane
-  tags:
-  - Harm
-  - Kampf
-  OGtags:
-  - Bane
-  - Combat
-  cost:
-  - 3
-  description: |
-    Du bist so effektiv mit einer bestimmten Art Angiff, dass deine Feinde es schwer haben, ihre Folgen abzuschütteln. Vielleicht brennen die Flammen deines Feuerballs heißer oder du hast eine besondere chemische Mischung für dein Blindpulver entwickelt.
-  effect: |
-    Wähle einen Harm aus, den du wirken kannst und der eine Dauer von "Widerstehen beendet" hat. Wenn ein Ziel dieses Harms von dir versucht, diesen mit einem Widerstehenwurf abzuschütteln, hat es Nachteil 1.
+    Wähle einen spezifischen Beruf oder eine Profession. Du kannst Items erschaffen, die für deinen gewählten Job plausibel sind, wobei der GM entscheidet, wie schnell du das gewünschte Item anhand seiner Natur und den dir verfügbaren Materialien erschaffen kannst. Dein Rang in Normales Item Erschaffen bestimmt den maximalen Wohlstandswert der Items, die du erzeugen kannst. Anders als beim Kaufen von Dingen (siehe Kapitel 5), schränkt das Erschaffen von Gegenständen nicht ein, ob du weitere Güter dieses Wohlstandswertes erhalten kannst.
+    <ul>
+    <li><strong>Rang 1</strong> - Du kannst Items gleich deinem eigenen Wohlstandswert erschaffen.</li>
+    <li><strong>Rang 2</strong> - Du kannst Items gleich deinem eigenen Wohlstandswert + 1 erschaffen.</li>
+    </ul>
+    <strong>Beispiele</strong> (Diese Liste ist nicht abschließend und du kannst mit dem GM zusammenarbeiten, um andere sinnvolle Gegenstände zu erdenken, die du erschaffen könntest):
+    <ul>
+    <li>Alchemie - Säure, Chemiekalien, nicht-magische Tinkturen, Duftstoffe, Reagenzmaterialien.</li>
+    <li>Arkana - magische Zutaten, Tinten, Schriftrollen, exotische Komponenten.</li>
+    <li>Schmiedekunst - Metalle, Leder, Waffen, Rüstung, Räder, Hufeisen.</li>
+    <li>Chemie - Säure, Sprengstoffe, Betäubungsmittel.</li>
+    <li>Ingenieurswesen - Maschinen, Räder, Bauteile, Schusswaffen, Fahrzeuge.</li>
+    <li>Geographie - Karten, kartographische Lexika, Navigationsinstrumente.</li>
+    <li>Kräuterkunde - Umschläge, Naturheilmittel, Stimulanzmittel, Gebräue.</li>
+    <li>Medizin - Medizinwerkzeug, Toniken, Tinkturen, Schmerzmittel, Gegengifte.</li>
+    </ul>
   special: |
-    Du kannst diese Fertigkeit mehrmals wählen, wobei du jedes Mal einen anderen Harm wählst.
+    Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit erwerben kannst, kannst du die Fertigkeit selbst mehrmals erhalten, wobei du jedes Mal eine neue Profession wählst.
 - !
   name: Reaktive Trance[?] / Aufmerksame Trance
   OGname: Reactionary Trance
@@ -2581,27 +1913,6 @@
   effect: |
     Du kannst als kostenlose Aktion in Kampftrance verfallen (anhand der Fertigkeit Kampftrance), selbst wenn es nicht dein Zug ist. Du kannst dies als Reaktion auf eine andere Handlung tun, z.B. ein feindlicher Angriff, ein Zauber oder eine Beleidigung. Du kannst dich auch erst nach dem Wurf für die Handlung entscheiden, die Kampftrance zu nutzen. Der Effekt der Trance beginnt sofort und in diesem Fall bevor die Konsequenzen der auslösenden Handlung abgehandelt sind, sodass du potentiell Schaden oder andere schadhafte Effekte verhindern kannst.
 - !
-  name: Rücksichtsloser Angriff
-  OGname: Reckless Attack
-  prerequisites:
-    tier1:
-      Feat:
-      - Battle Trance
-  OGprerequisites:
-    tier1:
-      Feat:
-      - Battle Trance
-  tags:
-  - Kampf
-  OGtags:
-  - Combat
-  cost:
-  - 3
-  description: |
-    Indem du deinen Körper willentlich im Kampf überstrapazierst, führst du eine Reihe verheerender Attacken aus. Das Stimpack eines Supersoldaten oder ein Berserker, der seine eigenen Muskeln mit mächtigen Hieben zerreist sind Beispiele dieser Fertigkeit.
-  effect: |
-    Während du in einer Kampftrance bist, kannst du dich entscheiden, dir selbst in deinem Zug 5 TP Schaden zuzufügen, um einen Angriff als kleine Aktion zu machen. Effekte, die Schaden verhindern oder reduzieren können diesen selbstverschuldeten Schaden nicht verändern. Du erleidest den Schaden, bevor du den Extraangriff ausgeführt hast, sodass du nach dem Schaden noch bei Bewusstsein sein musst, um die Attacke ausführen zu können.
-- !
   name: Resilient
   OGname: Resilient
   prerequisites:
@@ -2632,6 +1943,879 @@
     Ob durch Glück, außergewöhnliche Willenskraft oder großen Mut, kannst du Harme schneller abschütteln als andere. Diese Fertigkeit kann gut zu jedem Charakterkonzept passen: ein Halbling dem das Glück gewogen ist, eine Zauberin mit einer Aura des Schutzes oder ein zerstreuter Professor, der keine Zeit für Störungen seiner Studien hat.
   effect: |
     Du hast Vorteil 1 auf alle Widerstehenwürfe.
+- !
+  name: Rücksichtsloser Angriff
+  OGname: Reckless Attack
+  prerequisites:
+    tier1:
+      Feat:
+      - Battle Trance
+  OGprerequisites:
+    tier1:
+      Feat:
+      - Battle Trance
+  tags:
+  - Kampf
+  OGtags:
+  - Combat
+  cost:
+  - 3
+  description: |
+    Indem du deinen Körper willentlich im Kampf überstrapazierst, führst du eine Reihe verheerender Attacken aus. Das Stimpack eines Supersoldaten oder ein Berserker, der seine eigenen Muskeln mit mächtigen Hieben zerreist sind Beispiele dieser Fertigkeit.
+  effect: |
+    Während du in einer Kampftrance bist, kannst du dich entscheiden, dir selbst in deinem Zug 5 TP Schaden zuzufügen, um einen Angriff als kleine Aktion zu machen. Effekte, die Schaden verhindern oder reduzieren können diesen selbstverschuldeten Schaden nicht verändern. Du erleidest den Schaden, bevor du den Extraangriff ausgeführt hast, sodass du nach dem Schaden noch bei Bewusstsein sein musst, um die Attacke ausführen zu können.
+- !
+  name: Rüstungsexpertise (I - II)
+  OGname: Armor Mastery (I - II)
+  prerequisites:
+    tier1:
+      Other:
+      - Keine
+    tier2:
+      Other:
+      - Keine
+  OGprerequisites:
+    tier1:
+      Other:
+      - None
+    tier2:
+      Other:
+      - None
+  tags:
+  - Keine Voraussetzungen
+  OGtags:
+  - No Prerequisite
+  cost:
+  - 3
+  description: |
+    Ob du ein schwer gepanzerter Mecharitter bist oder ein flinker Schurke in gestutztem Leder, sind du und deine Rüstung eins. Dein Training und deine Erfahrung im Tragen von Rüstung erlauben es dir, ihren Schutzt zu maximieren und ihre Nachteile zu minimieren.
+  effect: |
+    Dein Training lässt dich in deiner Rüstung schlafen, ohne dass du danach ein Level des Harmes <em>erschöpft</em> erleidest. Weiterhin erhält du beim Tragen von Rüstung die folgenden Vorteile:
+    <ul>
+    <li><strong>Rang 1</strong> - Die Konstitutionsvoraussetzungen von Rüstungen sind um 1 reduziert. Während du Rüstung trägst, erhälst du +1 Deckung.</li>
+    <li><strong>Rang 2</strong> - Die Konstitutionsvoraussetzungen von Rüstungen sind um 2 reduziert. Während du Rüstung trägst, erhälst du +2 Deckung. Jegliches Geschwindigkeitsmalus durch eine Rüstung ist um 5' reduziert.</li>
+    </ul>
+- !
+  name: Schlachtfeldopportunist (I - V)
+  OGname: Battlefield Opportunist (I - V)
+  prerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Beweglichkeit: 4
+        - Kraft: 4
+    tier2:
+      any:
+        Attribute:
+        - Beweglichkeit: 4
+        - Kraft: 4
+    tier3:
+      any:
+        Attribute:
+        - Beweglichkeit: 4
+        - Kraft: 4
+    tier4:
+      any:
+        Attribute:
+        - Beweglichkeit: 4
+        - Kraft: 4
+    tier5:
+      any:
+        Attribute:
+        - Beweglichkeit: 4
+        - Kraft: 4
+  OGprerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Agility: 4
+        - Might: 4
+    tier2:
+      any:
+        Attribute:
+        - Agility: 4
+        - Might: 4
+    tier3:
+      any:
+        Attribute:
+        - Agility: 4
+        - Might: 4
+    tier4:
+      any:
+        Attribute:
+        - Agility: 4
+        - Might: 4
+    tier5:
+      any:
+        Attribute:
+        - Agility: 4
+        - Might: 4
+  tags:
+  - Kraft
+  - Beweglichkeit
+  - Passiv
+  - Kampf
+  - Fertigkeitenkette
+  OGtags:
+  - Might
+  - Agility
+  - Passive
+  - Combat
+  - Feat Chain
+  cost:
+  - 2
+  description: |
+    Deine Fähigkeiten auf dem Schlachtfeld erlauben es dir, Chancen zu ergreifen, die andere übersehen, sodass du tödlicher im Nahkampf bist. Deine Feinde tun sich schwer, sich im Kampf um dich herum zu bewegen, egal ob du mit Axt, Plasmaklinge oder bloßen Fäusten kämpfst.
+  effect: |
+    Du kannst eine zusätzliche Gelegenheitsattacke pro Rang dieser Fertigkeit, die du besitzt, in einer Runde ausführen. Du kannst aber nur eine Gelegenheitsattacke für jeden Anlass machen, der eine solche Attacke ermöglicht (du kannst also nicht mehrere Attacken gegen einen Feind ausführen, der den Nahkampf mit dir verlässt).
+- !
+  name: Schlachtvergeltung
+  OGname: Battlefield Retribution
+  prerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Beweglichkeit: 4
+        - Kraft: 4
+        - Beliebiges Außergewöhnliches: 4
+  OGprerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Agility: 4
+        - Might: 4
+        - Any Extraordinary: 4
+  tags:
+  - Kraft
+  - Beweglichkeit
+  - Außergewöhnlich
+  - Passiv
+  - Kampf
+  OGtags:
+  - Might
+  - Agility
+  - Extraordinary
+  - Passive
+  - Combat
+  cost:
+  - 2
+  description: |
+    Du bist ein Meister des Konters. Du könntest flink Vorstöße deiner Gegner auf sie selbst umleiten oder mit einer außergewöhnlichen Barriere die Energie von Angriffen zurückwerfen. Deine Fähigkeiten erlauben es dir nicht nur, Angriffe auf dem Schlachtfeld abzufangen, sondern mit diesen gleichzeitig Vergeltung zu üben.
+  effect: |
+    Wenn du eine Verteidigungsaktion nutzt, fügst du dem Angreifer Schaden gleich der Anzahl zu, mit der dein Aktionswurf das Ergebnis des Angriffswurfs übertrifft.
+- !
+  name: Schwimmen
+  OGname: Swimming
+  prerequisites:
+    tier1:
+      Other:
+      - Keine
+  OGprerequisites:
+    tier1:
+      Other:
+      - None
+  tags:
+  - Nicht-Kampf
+  OGtags:
+  - Non-Combat
+  cost:
+  - 1
+  description: |
+    Du bist für das Wasser geboren und kannst mit der Flinkheit eines Fisches mit großer Geschwindigkeit schwimmen. Der Hintergrund dieser Fertigkeit könnte hartes Training sein oder physiologische Eigenschaften deiner Spezies wie Schwimmhäute.
+  effect: |
+    Du erhälst eine Schwimmgeschwindigkeit gleich deiner normalen Geschwindigkeit und musst keine Aktionswürfe machen um deine Schwimmgeschwindigkeit aufrechtzuerhalten.
+- !
+  name: Spurenhund[?]
+  OGname: Fast Tracker
+  prerequisites:
+    tier1:
+      Attribute:
+      - Beweglichkeit: 5
+      - Wahrnehmung: 5
+  OGprerequisites:
+    tier1:
+      Attribute:
+      - Agility: 5
+      - Perception: 5
+  tags:
+  - Außergewöhnlich
+  - Beweglichkeit
+  - Wahrnehmung
+  OGtags:
+  - Extraordinary
+  - Agility
+  - Perception
+  cost:
+  - 2
+  description: |
+    Einer Spur zu folgen ist für dich so normal wie atmen. Du bist ein erfahrener Waldläufer, Kopfgeldjäger des galaktischen Senats oder ein Katzenmensch mit besseren Sinnen. Deine Expertise erlaubt es dir, Spuren schneller zu verfolgen als durchschnittliche Jäger.
+  effect: |
+    Du bewegst dich unbehindert und mit voller Geschwindigkeit, wenn du ein Ziel verfolgst.
+- !
+  name: Spurenlos
+  OGname: Untrackable
+  prerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Beweglichkeit: 3
+        - Wandlung: 3
+        - Einfluss: 3
+  OGprerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Agility: 3
+        - Alteration: 3
+        - Influence: 3
+  tags:
+  - Nicht-Kampf
+  - Schutz
+  - Wandlung
+  - Einfluss
+  OGtags:
+  - Non-Combat
+  - Protection
+  - Alteration
+  - Influence
+  cost:
+  - 1
+  description: |
+    Ob aufgrund von Ranken, die in deinem Pfad wachsen, einem magischen Schutz gegen Aufklärung oder illusorischem Nebel, der Effekt ist der gleiche: Du bist davor geschützt, verfolgt zu werden.
+  effect: |
+    Deine Spur und jegliche Hinweise auf deine Durchreise werden durch besondere Mittel verschleiert, sodass es unmöglich ist, dich ohne außergewöhnliche Mittel zu verfolgen.
+- !
+  name: Stirb Langsam[?]
+  OGname: Diehard
+  prerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Präsenz: 3
+        - Konstitution: 3
+  OGprerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Presence: 3
+        - Fortitude: 3
+  tags:
+  - Sozial
+  - Kampf
+  OGtags:
+  - Social
+  - Combat
+  cost:
+  - 2
+  description: |
+    Ob das Glück dir gewogen ist oder du einfach sehr schwer zu töten bist, du hast die Gabe, im Kampf zu bleiben wenn andere schon eingebrochen wären. Vielleicht bist du ein cleverer Schurke, der immer eine Ecke zur Deckung findet oder ein alter Veteran, der trainiert ist, trotz schlechter Karten taff zu bleiben.
+  effect: |
+    Einmal pro Tag reduziert ein Angriff, der deine TP eigentlich auf unter 1 TP fallen würde, diese stattdessen auf 1.
+- !
+  name: Stummschlag
+  OGname: Silencing Strike
+  prerequisites:
+    tier1:
+      Attribute:
+      - Beweglichkeit: 4
+  OGprerequisites:
+    tier1:
+      Attribute:
+      - Agility: 4
+  tags:
+  - Beweglichkeit
+  - Körperlich
+  OGtags:
+  - Agility
+  - Physical
+  cost:
+  - 3
+  description: |
+    Wie ein Assassine oder Ninja kannst du verhindern, dass Feinde andere zu Hilfe rufen können. Das könnte sich als Wurfdart in der Luftröhre, Würgestrick um den Hals oder verzaubertes Tuch über dem Mund ausdrücken.
+  effect: |
+    Wann immer du mit einer Waffe mit der Eigenschaft <em>Defensiv</em> einem Ziel Schaden zufügst, das die Attacke nicht hat kommen sehen oder sonst unvorbereitet darauf war, erleidet es automatisch den Harm <em>Verstummt</em>. Du könntest vor dem Ziel versteckt sein, dich als Freund verkleidet oder es erfolgreich getäuscht haben.
+- !
+  name: Stählerner Wille (I - III)
+  OGname: Indomitable Resolve (I - III)
+  prerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Präsenz: 3
+        - Willenskraft: 3
+    tier2:
+      any:
+        Attribute:
+        - Präsenz: 4
+        - Willenskraft: 4
+    tier3:
+      any:
+        Attribute:
+        - Präsenz: 5
+        - Willenskraft: 5
+  OGprerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Presence: 3
+        - Will: 3
+    tier2:
+      any:
+        Attribute:
+        - Presence: 4
+        - Will: 4
+    tier3:
+      any:
+        Attribute:
+        - Presence: 5
+        - Will: 5
+  tags:
+  - Kampf
+  - Präsenz
+  - Willenskraft
+  OGtags:
+  - Combat
+  - Presence
+  - Will
+  cost:
+  - 1
+  description: |
+    Deine Entschlossenheit ist außergewöhnlich, sodass du resistenter gegen mentale Angriffe bist, die andere unterwerfen würden. Ein Raumschiffkapitän mit cleverem Geist oder ein weiser Magier könnten diese Fertigkeit nutzen.
+  effect: |
+    Für jeden Rang in dieser Fertigkeit ist deine Entschlossenheit um eins erhöht.
+- !
+  name: Todesstreich (I - II)
+  OGname: Death Blow (I - II)
+  prerequisites:
+    tier1:
+      Attribute:
+      - Beweglichkeit: 6
+      Feat:
+      - Tödlicher Streich I
+    tier2:
+      Attribute:
+      - Beweglichkeit: 7
+      Feat:
+      - Tödlicher Streich III
+  OGprerequisites:
+    tier1:
+      Attribute:
+      - Agility: 6
+      Feat:
+      - Lethal Strike I
+    tier2:
+      Attribute:
+      - Agility: 7
+      Feat:
+      - Lethal Strike III
+  tags:
+  - Kampf
+  - Körperlich
+  OGtags:
+  - Combat
+  - Physical
+  cost:
+  - 3
+  description: |
+    Du kannst effizient Feinde töten, die dem Ende nahe sind und ihre Todesschreie verhindern. Diese Art Angriff wird oft unter Schurken, Assassinen und Snipern gefunden, die ihre Feinde still niederstrecken, ohne Aufmerksamkeit auf sich zu ziehen. 
+  effect: |
+    <ul>
+    <li><strong>Rang 1</strong> - Falls du einem Feind mit Tödlicher Streich Schaden zufügst und ihre Gesamt-TP danach 5 oder niedriger sind, kannst du dich entscheiden, sie stattdessen auf 0 TP fallen zu lassen. Weiterhin kannst du jeden von dir durch eine Attacke auf 0 TP gebrachten Feind verstummen lassen.</li>
+    <li><strong>Rang 2</strong> - Die Schwelle für einen Todesstoß ist auf 10 erhöht. Weiterhin fügst du deinem Feind bei einem erfolgreichen Tödlichen Streich automatisch den Harm <em>betäubt</em> zu, wobei dieser nicht gegen das Limit auf max. einen Harm pro Angriff zählt.</li>
+    </ul>
+- !
+  name: Todlose Trance[?]
+  OGname: Deathless Trance
+  prerequisites:
+    tier1:
+      Attribute:
+      - Konstitution: 7
+      Feat:
+      - Kampftrance
+  OGprerequisites:
+    tier1:
+      Attribute:
+      - Fortitude: 7
+      Feat:
+      - Battle Trance
+  tags:
+  - Außergewöhnlich
+  OGtags:
+  - Extraordinary
+  cost:
+  - 3
+  description: |
+    Deine Kampfraserei ist legendär, seist du ein Berserker aus dem kalten Norden, ein Superheld unaufhaltsamer Stärke oder ein cybernetisch abgehärteter Soldat. Du hast die seltene Fähigkeit, weiterzukämpfen, auch wenn dein Körper längst hätte aufgeben sollen.
+  effect: |
+    Während du in einer Kampftrance bist, kannst du nicht bewusstlos geschlagen werden. Aller Schaden, den du erleidest, muss notiert werden, auch wenn deine Gesamt-TP ins negative gehen. Unabhängig von allem Schaden bleibst du bei Bewusstsein, solange du die Kampftrance aufrechterhalten kannst. Hast du negative TP, wenn die Kampftrance endet, fällst du sofort in Ohnmacht. Wirst du nicht innerhalb von einer Runde danach auf 0 oder mehr TP geheilt, stirbst du.
+- !
+  name: Tödlicher Streich[?] (I - IX)
+  OGname: Lethal Strike (I - IX)
+  prerequisites:
+    tier1:
+      Attribute:
+      - Beweglichkeit: 3
+    tier2:
+      Attribute:
+      - Beweglichkeit: 3
+    tier3:
+      Attribute:
+      - Beweglichkeit: 3
+    tier4:
+      Attribute:
+      - Beweglichkeit: 5
+    tier5:
+      Attribute:
+      - Beweglichkeit: 5
+    tier6:
+      Attribute:
+      - Beweglichkeit: 5
+    tier7:
+      Attribute:
+      - Beweglichkeit: 7
+    tier8:
+      Attribute:
+      - Beweglichkeit: 7
+    tier9:
+      Attribute:
+      - Beweglichkeit: 7
+  OGprerequisites:
+    tier1:
+      Attribute:
+      - Agility: 3
+    tier2:
+      Attribute:
+      - Agility: 3
+    tier3:
+      Attribute:
+      - Agility: 3
+    tier4:
+      Attribute:
+      - Agility: 5
+    tier5:
+      Attribute:
+      - Agility: 5
+    tier6:
+      Attribute:
+      - Agility: 5
+    tier7:
+      Attribute:
+      - Agility: 7
+    tier8:
+      Attribute:
+      - Agility: 7
+    tier9:
+      Attribute:
+      - Agility: 7
+  tags:
+  - Außergewöhnlich
+  - Beweglichkeit
+  - Kampf
+  OGtags:
+  - Extraordinary
+  - Agility
+  - Combat
+  cost:
+  - 3
+  description: |
+    Hochtrainierte Sniper, legendäre Ninja oder Nahkampfderwische können Feinde mit präzise platzierten Vorstößen ausschalten, wenn sie sie kalt erwischen.
+  effect: |
+    Deine Angriffe werden als Tödlicher Streich gewertet, wenn <em>eine</em> der folgenden Bedingungen erfüllt ist:
+    <ul>
+    <li>Dein Ziel ist überrascht oder sie den Angriff anderweitig nicht kommen, z.B. wenn du vor ihm versteckt, als Freund verkleidet bist oder es erfolgreich getäuscht hast.</li>
+    <li>Dein Ziel ist in Nahkampfreichweite eines Verbündeten.</li>
+    </ul>
+    Du hast Vorteil auf Tödliche Streiche mit Vorteil-Level gleich deines Ranges in dieser Fertigkeit. Weiterhin wird ein Teil des Schadens (nie mehr als der Gesamtschaden) als tödlicher Schaden zugefügt, was ihn schwieriger zu heilen macht (siehe Kapitel 7: Kampf).
+    <ul>
+    <li><strong>Rang 1</strong> - Vorteil 1. Bis zu 5 tödlicher Schaden.</li>
+    <li><strong>Rang 2</strong> - Vorteil 2. Bis zu 5 tödlicher Schaden.</li>
+    <li><strong>Rang 3</strong> - Vorteil 3. Bis zu 10 tödlicher Schaden.</li>
+    <li><strong>Rang 4</strong> - Vorteil 4. Bis zu 10 tödlicher Schaden.</li>
+    <li><strong>Rang 5</strong> - Vorteil 5. Bis zu 15 tödlicher Schaden.</li>
+    <li><strong>Rang 6</strong> - Vorteil 6. Bis zu 20 tödlicher Schaden.</li>
+    <li><strong>Rang 7</strong> - Vorteil 7. Bis zu 20 tödlicher Schaden.</li>
+    <li><strong>Rang 8</strong> - Vorteil 8. Bis zu 25 tödlicher Schaden.</li>
+    <li><strong>Rang 9</strong> - Vorteil 9. Bis zu 25 tödlicher Schaden.</li>
+    </ul>
+- !
+  name: Unabdingbare Trance[?]
+  OGname: Impervious Trance
+  prerequisites:
+    tier1:
+      Attribute:
+      - Willenskraft: 7
+      Feat:
+      - Kampftrance
+  OGprerequisites:
+    tier1:
+      Attribute:
+      - Will: 7
+      Feat:
+      - Battle Trance
+  tags:
+  - Kampf
+  OGtags:
+  - Combat
+  cost:
+  - 3
+  description: |
+    Im Fokus des Kampfes wirst du unabdingbar. Wie ein Mönch mit stählernem mentalen Fokus oder ein Berserker, der zu blutrünstig ist, um sich aufhalten zu lassen, kannst du nicht durch Furcht, Bezauberung oder ähnliche Effekte gebremst werden.
+  effect: |
+    Während du in einer Kampftrance liegst, bist du immun gegen Harme, die auf deine Entschlossenheit zielen. Falls du zu Beginn der Trance unter einem dieser Harme lagst, ist dieser für die Dauer der Trance neutralisiert und kehr zurück, wenn die Trance endet.
+- !
+  name: Unsterbliche Bezauberung[?]
+  OGname: Unending Charm
+  prerequisites:
+    tier1:
+      Attribute:
+      - Einfluss: 4
+  OGprerequisites:
+    tier1:
+      Attribute:
+      - Influence: 4
+  tags:
+  - Außergewöhnlich
+  - Nicht-Kampf
+  - Einfluss
+  OGtags:
+  - Extraordinary
+  - Non-Combat
+  - Influence
+  cost:
+  - 3
+  description: |
+    Ob du ein Verzauberer bist, Psychiker oder verrückter Wissenschaftler, du hast die Kunst andere gefügig zu machen gemeistert. Deine Bezauberungen sind so mächtig, dass deine Opfer ihnen permament verfallen können.
+  effect: |
+    Wenn du den Harm <em>Bezaubert</em> wirkst, erleiden Ziele, die ihren Widerstehenwürfe innerhalb von 24 Stunden nicht bestehen, den Harm permanent. Sie erhalten keine weiteren Widerstehenwürfe, um sich von dem Effekt zu befreien. Andere außergewöhnliche Effekte wie z.B. der Harm <em>Annulieren</em> (und weitere passende nach Abwägung des GM) können die permanente Bezauberung weiterhin brechen.
+- !
+  name: Verstärkte Wirkung[?] (I - III)
+  OGname: Heightened Invocation (I - III)
+  prerequisites:
+    tier1:
+      Attribute:
+      - Beliebiges Außergewöhnliches: 4
+    tier2:
+      Attribute:
+      - Beliebiges Außergewöhnliches: 6
+    tier3:
+      Attribute:
+      - Beliebiges Außergewöhnliches: 9
+  OGprerequisites:
+    tier1:
+      Attribute:
+      - Any Extraordinary: 4
+    tier2:
+      Attribute:
+      - Any Extraordinary: 6
+    tier3:
+      Attribute:
+      - Any Extraordinary: 9
+  tags:
+  - Außergewöhnlich
+  - Nicht-Kampf
+  OGtags:
+  - Extraordinary
+  - Non-Combat
+  cost:
+  - 2
+  description: |
+    Indem du deine außergewöhnlichen Kräfte durch tiefere Recherche oder komplexere Rituale wie Meditation, Fasten, Blutlassen oder Ritualopfer unterstützt, erhöhst du die Macht deines Wirkens. Diese Fertigkeit ist bei Magiern, Erfindern, verrückten Wissenschaftlern und ähnlichen Charakteren bekannt.
+  effect: |
+    Wenn du einen Harm oder ein Wohl wirkst, kannst du dich entscheiden, dies als Verstärkte Wirkung zu tun. Die Wirkzeit für eine Verstärkte Wirkung ist um einen Grad länger als normal:
+    <ul>
+    <li>1 Aktion wird 1 Minute</li>
+    <li>1 Minute wird 10 Minuten</li>
+    <li>10 Minuten werden 1 Stunde</li>
+    <li>1 Stunde wird 8 Stunden</li>
+    <li>8 Stunden werden 24 Stunden</li>
+    </ul>
+
+    <strong>Rang 1</strong> - Wenn du eine Verstärkte Wirkung durchführst, kannst du einen der folgenden Effekte wählen, der den Harm oder das Wohl betrifft:<br>
+      <ul>
+      <li>Erhöhe die Reichweite des Harms oder Wohls:
+        Attributwert 5 = 500 Fuß<br />
+        Attributwert 6 = 1/2 Meile<br />
+        Attributwert 7 = 1 Meile<br />
+        Attributwert 8 = 10 Meilen<br />
+        Attributwert 9 = 100 Meilen<br /></li>
+      <li>Neutralisiere zwei Level Nachteil, die durch Multi-Zielen bewirkt werden (z.B. kannst du auf zwei Kreaturen oder ein 10' Gebiet zielen, ohne Nachteil zu erhalten).</li>
+      <li>Behandle deinen Attributwert zum Bestimmen der Attributwürfel für diese Wirkung als eins höher als er eigentlich ist. Dies gibt dir nicht Zugang zu weiteren Harmen oder Wohlen, sondern betrifft nur die für den Wurf genutzten Würfel.</li>
+      </ul>
+
+    <strong>Rang 2</strong> - Du erhälst die folgenden Optionen, wenn du eine Verstärkte Wirkung nutzt:
+      <ul>
+        <li>Du kannst andere in einer Gruppenwirkung anleiten, solange sie den Harm oder das Wohl auf dem gleichen Kraftlevel wie du wirken können. Nach erfolgreicher Gruppenwirkung kann jeder beteiligte Charakter einen der Effekte von Rang 1 dieser Fertigkeit auswählen.</li>
+        <li>Du erhälst die folgenden weiteren Optionen, um deine Wirkung zu erweitern:
+          <ul>
+          <li>Das gewirkte Wohl hält automatisch für eine Minute an, ohne das es aufrechterhalten werden muss. Weiterhin können Feinde das Wohl nicht durch Angriffe unterbrechen (wobei der Harm <em>Annullieren</em> weiterhin wirksam ist).</li>
+          <li>Ziele können für eine Minute keine Widerstehenwürfe gegen den gewirkten Harm nutzen.</li>
+          </ul></li>
+      </ul>
+
+    <strong>Rang 3</strong> - Du erhälst die Fähigkeit, Harme und Wohle permanent zu gewähren oder aufzulösen. Um einen Harm oder ein Wohl zu übertragen, musst du dich für eine Anzahl Tage gleich des Kraftlevels vollständig mit der Verstärkten Wirkung beschäftigen. In dieser Zeit kannst du Essen, Trinken und mit zwei Ausnahmen sonst normal Handeln: 1) Du musst jeden Tag aktiv und ohne große Unterbrechungen 8 Stunden an der Wirkung des Harms oder Wohls arbeiten. 2) Du kannst dich generell frei bewegen und das Gebiet verlassen, aber für die 8 Stunden pro Tag musst du am gleichen Ort sein, an dem die Wirkung begonnen wurde. Wenn die Wirkzeit vollständig ist, mache deinen Aktionswurf je nach intendierter Anwendung:
+    <ul>
+    <li><strong>Wohl gewähren</strong> - Mache einen normalen Aktionswurf, um das Wohl zu wirken. Bei Erfolg kannst du deinem Ziel ein nicht-augenblickliches und nicht-permanentes Wohl gewähren. Das Ziel kann das Wohl danach als kostenlose Aktion wirken, ohne dazu einen Aktionswurf zu benötigen. Das Ziel muss keine Aktionen nutzen, um das Wohl aufrechtzuerhalten und es kann nur temporär durch den Harm <em>Annullieren</em> neutralisiert werden. Um das Wohl permanent zu neutraliesieren (das gewährte Wohl aufzuheben), muss Verstärkte Wirkung mit dem Effekt Wohl bannen benutzt werden (siehe folgende Absätze).</li>
+    <li><strong>Harm gewähren</strong> - Mache einen normalen Aktionswurf, um den Harm zu wirken. Bei Erfolg kannst du deinem Ziel einen nicht-augenblicklichen und nicht-permanenten Harm zufügen. Der Harm hält ohne Zeitlimit an und erlaubt keine Widerstehenwürfe, um ihn zu beenden. Der Effekt kann nur temporär mit dem Harm <em>Annullieren</em> oder permanent mit einer Verstärkten Wirkung mit der Anwendung Harm bannen benutzt werden (siehe folgende Absätze).</li>
+    <li><strong>Wohl bannen[?]</strong> - Mache einen Vergehenwurf mit einem Herausforderungswert von 10 + 2 x Kraftlevel des Wohls, das du bannen willst. Bei Erfolg entfernst du ein permanentes Wohl vom Ziel, sodass dieses dessen Effekte und die Fähigkeit verliert, es zu wirken.</li>
+    <li><strong>Harm bannen</strong> - Mache einen Schutzwurf mit einem Herausforderungswert von 10 + 2 x Kraflevel des Harms, den du bannen willst. Bei Erfolg entfernst du einen permanenten Harm vom Ziel, wobei das Ziel aber keine Resistenz oder Immunität gegen den Harm für die Zukunft erhält.</li>
+    </ul>
+  special: |
+    Permanente Harme und Wohle mit dieser Fertigkeit zu gewähren kann einen dramatischen Einfluss auf die spielmechanische Balance der Geschichte haben. Wie mit anderen Effekten wie z.B. Außergewöhnliches Item Erschaffen, unterliegt das Wirken permanenter Harme und Wohle der Abwägung des GM. Der GM sollte besonders darauf achten, dass diese Fertigkeit nicht genutzt wird, um einen Charakter übermäßig mächtig zu machen.
+- !
+  name: Verteidigungsexpertise
+  OGname: Defensive Mastery
+  prerequisites:
+    tier1:
+      Other:
+      - Keine
+  OGprerequisites:
+    tier1:
+      Other:
+      - None
+  tags:
+  - Kampf
+  OGtags:
+  - Combat
+  cost:
+  - 3
+  description: |
+    Du weist, wie man eine gute Offensive in eine noch bessere Defensive verwandelt. Dein besonderes Training oder deine Erfahrung mit Verteidigungsausrüstung erlaubt es dir, diese effizienter zu nutzen als ein normaler Soldat. Beispiele umfassen das defensive Kata eines Kriegers oder einen Soldaten, der mit seinem Riot-Shield trainiert ist.
+  effect: |
+    Wenn du eine Waffe oder andere Ausrüstung mit der Eigenschaft <em>Defensiv</em> führst, hast du +1 zusätzlichen Rüstungsbonus. Weiterhin wird der Wert von <em>Defensiv</em> um 1 erhöht, während du den Gegenstand führst. <em>Defensiv 1</em> wird also <em>Defensiv 2</em> und <em>Defensiv 2</em> wird <em>Defensiv 3</em>.
+- !
+  name: Wilde Handlanger (I - III)
+  OGname: Ferocious Minions (I - III)
+  prerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Wandlung: 4
+        - Schöpfung: 4
+        - Vergehen: 4
+        - Energie: 4
+        - Einfluss: 4
+    tier2:
+      any:
+        Attribute:
+        - Wandlung: 5
+        - Schöpfung: 5
+        - Vergehen: 5
+        - Energie: 5
+        - Einfluss: 5
+    tier3:
+      any:
+        Attribute:
+        - Wandlung: 7
+        - Schöpfung: 7
+        - Vergehen: 7
+        - Energie: 7
+        - Einfluss: 7
+  OGprerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Alteration: 4
+        - Creation: 4
+        - Entropy: 4
+        - Energy: 4
+        - Influence: 4
+    tier2:
+      any:
+        Attribute:
+        - Alteration: 5
+        - Creation: 5
+        - Entropy: 5
+        - Energy: 5
+        - Influence: 5
+    tier3:
+      any:
+        Attribute:
+        - Alteration: 7
+        - Creation: 7
+        - Entropy: 7
+        - Energy: 7
+        - Influence: 7
+  tags:
+  - Außergewöhnlich
+  - Einfluss
+  OGtags:
+  - Extraordinary
+  - Influence
+  cost:
+  - 2
+  description: |
+    Nekromanten mit Horden Untoter, Erfinder mit ihren automatischen Verteidigungsdroiden oder Psychiker, die andere ihrem Willen unterwerfen, sie alle führen Handlanger an, die unter ihrem Kommando besonders gefährlich sind.
+  effect: |
+    Kreaturen unter dem Effekt der Harme <em>Bezaubert</em> oder <em>Dominiert</em> oder des Wohls <em>Kreatur Beschwören</em> haben Vorteil 1 pro Rang dieser Fertigkeit auf alle Angriffswürfe, wenn sie dich beschützen oder in deinem Sinne handeln.
+- !
+  name: Wissen (I - III)
+  OGname: Knowledge (I - III)
+  prerequisites:
+    tier1:
+      Other:
+      - Keine
+    tier2:
+      Other:
+      - Keine
+    tier3:
+      Other:
+      - Keine
+  OGprerequisites:
+    tier1:
+      Other:
+      - None
+    tier2:
+      Other:
+      - None
+    tier3:
+      Other:
+      - None
+  tags:
+  - Keine Voraussetzungen
+  - Außergewöhnlich
+  OGtags:
+  - No Prerequisite
+  - Extraordinary
+  cost:
+  - 2
+  description: |
+    Eingängige Studien oder jahrelange Erfahrung geben dir ein Wissen über ein bestimmtes Thema, das deine generelle Intelligenz weit übersteigt. Ein Navigator kennt die galaktische Karte in-und-auswendig, ein Barbarenlord hat lebenslage Erfahrung in Militärstrategie und ein Professor des Abnormalen wären alle Beispiele dieser Fertigkeit.
+  effect: |
+    Wenn du diese Fertigkeit erwirbst, wählst du ein Wissensgebiet aus der unten aufgeführten Liste oder - mit der Zustimmung des GM - ein anderes.
+    <ul>
+    <li>Alchemie</li>
+    <li>Anatomie</li>
+    <li>Arkana</li>
+    <li>Computer</li>
+    <li>Sprengstoff</li>
+    <li>Ingenieurswesen</li>
+    <li>Geografie</li>
+    <li>Kräuterkunde</li>
+    <li>Geschichte</li>
+    <li>Ort (spezifischen angeben)</li>
+    <li>Medizin</li>
+    <li>Militärstrategie</li>
+    <li>Übernatürlich</li>
+    <li>Wildniss</li>
+    </ul>
+    Dein Rang in dieser Fertigkeit bestimmt, wie tief dein Wissen im gewählten Gebiet geht.
+    <ul>
+    <li><strong>Rang 1</strong> - Du hast automatisch bei Aktionswürfen mit HW 16 oder niedriger Erfolg, die etwas mit deinem gewählten Wissensgebiet zu tun haben. Bei höheren HW zählt dein Lernenwert für diesen Wurf als 3, falls er eigentlich niedriger ist. Ist dein Lernenwert eh schon 3 oder höher, hast du Vorteil 1 auf den Wurf.</li>
+    <li><strong>Rang 2</strong> - Du hast automatisch bei Aktionswürfen mit HW 22 oder niedriger Erfolg, die etwas mit deinem gewählten Wissensgebiet zu tun haben. Bei höheren HW zählt dein Lernenwert für diesen Wurf als 6, falls er eigentlich niedriger ist. Ist dein Lernenwert eh schon 6 oder höher, hast du Vorteil 1 auf den Wurf.</li>
+    <li><strong>Rang 3</strong> - Du hast automatisch bei Aktionswürfen mit HW 26 oder niedriger Erfolg, die etwas mit deinem gewählten Wissensgebiet zu tun haben. Bei höheren HW zählt dein Lernenwert für diesen Wurf als 8, falls er eigentlich niedriger ist. Ist dein Lernenwert eh schon 8 oder höher, hast du Vorteil 1 auf den Wurf.</li>
+    </ul>
+  special: |
+    Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit haben kannst, kannst du die Fertigkeit selbst auch mehrmals erwerben, wobei du jedes Mal ein neues Wissensgebiet wählst. Die Fertigkeit so mehrmals zu haben bringt keine Vorteile für andere Wissensgebiete.
+- !
+  name: Wohlfokus (I - III)
+  OGname: Boon Focus (I - III)
+  prerequisites:
+    tier1:
+      Other:
+      - Fähigkeit, das gewählte Wohl zu wirken
+    tier2:
+      Other:
+      - Fähigkeit, das gewählte Wohl zu wirken
+    tier3:
+      Other:
+      - Fähigkeit, das gewählte Wohl zu wirken
+  OGprerequisites:
+    tier1:
+      Other:
+      - Ability to invoke the chosen boon
+    tier2:
+      Other:
+      - Ability to invoke the chosen boon
+    tier3:
+      Other:
+      - Ability to invoke the chosen boon
+  tags:
+  - Außergewöhnlich
+  - Passiv
+  - Wohl
+  OGtags:
+  - Extraordinary
+  - Passive
+  - Boon
+  cost:
+  - 3
+  description: |
+     Du bist in der Nutzung eines bestimmten Wohles spezialisiert, das bezeichnend für deinen Charakter ist. Vielleicht bist du eine Druidin, die ihre Gestalt nach Willen ändert, vielleicht ein Kriegsmedicus, der viele Verwundete mit müheloser Expertise versorgt oder ein verrückter Wissenschaftler, der Horden mechanischer Handlanger ohne viel Aufwand mobilisiert.
+  effect: |
+    Wähle ein einziges Wohl, das du wirken kannst. Du erhälst anhand des Rangs dieser Fertigkeit Vorzüge bei der Benutzung des Wohls.
+    <ul>
+    <li><strong>Rang 1</strong> - Wenn du das gewählte Wohl auf ein einziges Ziel wirkst, hast du automatisch Erfolg und musst keinen Aktionswurf machen. Du kannst das Wohl so auf jedem Kraftlevel wirken, zu dem du auch normalerweise Zugang hast. Falls du mehr als ein einziges Ziel hast, ist der Erfolg nicht automatisch, aber du hast Vorteil 2 auf das Wirken.</li>
+    <li><strong>Rang 2</strong> - Du erhälst Vorteil 3 auf deinen Aktionswurf, falls du mehr als ein einziges Ziel hast. Weiterhin kannst du das Wohl um eine Wirkzeiteinheit schneller wirken als normal: 
+      <ul>
+      <li>1 große Aktion / 1 Bewegungsaktion -> 1 kleine Aktion</li>
+      <li>1 Fokusaktion -> 1 große Aktion</li>
+      <li>1 Minute -> 1 Fokusaktion</li>
+      <li>10 Minuten -> 1 Minute</li>
+      <li>1 Stunde -> 10 Minuten</li>
+      <li>8 Stunden -> 1 Stunde</li>
+      <li>1 kleine Aktion -> ein Mal wirken als kleine Aktion, danach ist noch eine Wirkung per großer Aktion oder Bewegungsaktion möglich.</li>
+      </ul></li>
+    <li><strong>Rang 3</strong> - Der Effekt auf Rang 3 hängt von der Dauer des Wohls ab:<br>
+      <strong>Falls das gewählte Wohl eine Dauer von "Aufrechterhalten verlängert" hat</strong>, hast du Vorteil 4 auf deinen Aktionswurf, falls du nur ein einziges Ziel hast. Weiterhin kann eine Instanz des Wohls jede Runde als kostenlose Aktion aufrechterhalten werden, anstatt als kleine Aktion. Falls das Wohl irgendwie zeitweise neutralisiert wird, kannst du es als kostenlose Aktion neu wirken, außer dies wird durch andere spielmechanische Regeln unterbunden. Falls das Wohl Ziel des Harms <em>Annulieren</em> wird, kann dieser Effekt nur mit einer Wirkung des Harms auf Kraftlevel 6 oder höher neutralisiert werden.<br>
+      <strong>Falls das Wohl eine andere Dauer hat</strong>, erhälst du Vorteil 5 auf deinen Aktionswurf, falls du nur ein einziges Ziel hast.</li>
+    </ul>
+  special: |
+    Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erwerben kannst, kannst du auch die Fertigkeit selbst mehrmals erhalten und jedes Mal ein weiteres Wohl wählen. Der Rang der Fertigkeit für dieses neue Wohl ist unabhängig von allen anderen Rängen, die du in dieser Fertigkeit für andere Wohle hast.
+- !
+  name: Wohlhabend
+  OGname: Wealthy
+  prerequisites:
+    tier1:
+      Other:
+      - Keine
+  OGprerequisites:
+    tier1:
+      Other:
+      - None
+  tags:
+  - Nicht-Kampf
+  OGtags:
+  - Non-Combat
+  cost:
+  - 3
+  description: |
+    Ob du als Aristokrat geboren wurdest, altes Geld in deiner Familie liegt, du einen großen Schatz geerbt hast oder selbst ein florierendes Geschäft aufgezogen hast, du bist wohlhabender als der durchschnittliche Abenteurer.
+  effect: |
+    Dein Wohlstandswert ist um 1 erhöht.
+- !
+  name: Wohlzugang[?]
+  OGname: Boon Access
+  prerequisites:
+    tier1:
+      Other:
+      - Keine
+  OGprerequisites:
+    tier1:
+      Other:
+      - None
+  tags:
+  - Außergewöhnlich
+  OGtags:
+  - Extraordinary
+  cost:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  description: |
+    Du hast ein besonderes Talent: es könnte ein Resultat deiner Herkunft sein, von einem Zusammenstoß mit magischen Energien stammen oder das Resultat jahrelangen Trainings sein. Egal woher, auch wenn du nicht mit außergewöhnlichen Kräften oder körperlichen Fähigkeiten besondere Effekte erzeugen kannst, hast du Zugang zu einem bestimmten Wohl.
+  effect: |
+    Wähle ein Wohl, für das du nicht die notwendigen Attributpunkte hast, um es zu wirken, wenn du diese Fertigkeit erwirbst. Die Kosten dieser Fertigkeit sind gleich dem Kraftlevel, das du für dieses Wohl auswählst. Du kannst das gewählte Wohl wirken, obwohl du nicht das nötige Attribut dazu hast. Für den Aktionswurf zum Wirken behandelst du deinen Attributwert, als würde er dem Kraftlevel des Wohls entsprechen. Falls das Wohl mehrere Attributsoptionen hat, wählst du eines aus, wenn du diese Fertigkeit erwirbst. Weiterhin zählt das so erhaltene Wohl im Fall von Fertigkeitenvoraussetzungen als Erhalten, wobei der Attributwert zum Erreichen der Voraussetzungen dem Kraftlevel des Wohls entspricht. Die Fertigkeit Wohlzugang umgeht zusätzlich die normalen Einschränkungen rund um Charakterlevel und Zugang zu Kraftleveln von Wohlen und Harmen. Ein Level 1 Charakter könnte also all seine 6 Fertigkeitenpunkte ausgeben, um mit dieser Fertigkeit direkt Zugang zu einem Kraftlevel 6 Wohl zu erhalten.
+    Du kannst diese Fertigkeit mehrmals erwerben. Wähle jedes Mal ein neues Wohl.
+  special: |
+    Du kannst diese Fertigkeit mehrmals erwerben. Jedes Mal wählst du ein neues Wohl aus, zu dem du besonderen Zugang erhälst.
+    Da diese Fertigkeit mächtige Wohle freischalten kann, die einen großen Einfluss auf den Verlauf der Geschichte haben können, muss das Erlangen von Wohlen mit Kraftlevel 6 oder höher vom GM je nach Angemessenheit abgesegnet werden.
+    Falls du zu einem späteren Zeitpunkt die Attributvoraussetzungen des gewählten Wohls auf normalen Weg erreichst, kannst du dich entscheiden, diese Fertigkeit zu verlieren und die dafür ausgegebenen Fertigkeitenpunkte zurückzuerhalten. Danach kannst du sie neu ausgeben, wie es dir beliebt.
 - !
   name: Wächter (I - III)
   OGname: Sentinel (I - III)
@@ -2688,210 +2872,101 @@
   effect: |
     Einmal pro Runde, nachdem du deine große Aktion der nächsten Runde für eine Verteidigungsaktion genutzt hast, erhälst du eine weitere große Aktion, die nur vor dem Beginn deines nächsten Zuges und nur für eine Verteidigungsaktion genutzt werden kann. Höhere Ränge dieser Fertigkeit geben jeweils eine weitere große Aktion, die nur für eine Verteidigungsaktion und nur vor deinem nächsten Zug genutzt werden können.
 - !
-  name: Fähigkeitsspezialisierung (I - V)
-  OGname: Skill Specialization (I - V)
+  name: Zermalmender Treffer[?]
+  OGname: Crushing Blow
   prerequisites:
     tier1:
-      Other:
-      - Keine
-    tier2:
-      Other:
-      - Keine
-    tier3:
-      Other:
-      - Keine
-    tier4:
-      Other:
-      - Keine
-    tier5:
-      Other:
-      - Keine
+      Attribute:
+      - Kraft: 6
+      Feat:
+      - Überwältigender Schlag
   OGprerequisites:
     tier1:
-      Other:
-      - None
-    tier2:
-      Other:
-      - None
-    tier3:
-      Other:
-      - None
-    tier4:
-      Other:
-      - None
-    tier5:
-      Other:
-      - None
+      Attribute:
+      - Might: 6
+      Feat:
+      - Overpowering Strike
   tags:
-  - Keine Voraussetzungen
+  - Körperlich
+  - Kampf
+  - Fertigkeitenkette
+  - Kraft
   OGtags:
-  - No Prerequisite
-  cost:
-  - 2
-  description: |
-    Du hast Adleraugen, Ausdauer wie eine Stier, den Witz eines Fuchses oder eine ähnlich beeindruckende Fähigkeit außerhalb von Kämpfen. Eventuell hast du hart trainiert, lang gelernt oder einfach ein angeborenes Talent.
-  effect: |
-    Wähle ein Attribut. Wann immer du einen Wurf mit diesem Attribut auf etwas anderes als Initiative, Angriffe, Wirkungen von Harmen oder Wohlen oder Verteidigungsaktionen machst, erhälst du Vorteil 1 pro Rang dieser Fertigkeit.
-  special: |
-    Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit haben kannst, kannst du auch die Fertigkeit selbst mehrmals erwerben, wobei du jedes Mal ein anderes Attribut wählst. Du hast separate Ränge für jedes Attribut, für das du diese Fertigkeit hast.
-- !
-  name: Erhöhte Konzentration (I - III)
-  OGname: Superior Concentration (I - III)
-  prerequisites:
-    tier1:
-      Other:
-      - Keine
-    tier2:
-      Other:
-      - Keine
-    tier3:
-      Other:
-      - Keine
-  OGprerequisites:
-    tier1:
-      Other:
-      - None
-    tier2:
-      Other:
-      - None
-    tier3:
-      Other:
-      - None
-  tags:
-  - Außergewöhnlich
-  OGtags:
-  - Extraordinary
+  - Physical
+  - Combat
+  - Feat Chain
+  - Might
   cost:
   - 3
   description: |
-    Dein Fokus ist messerschaft, sodass du dich darauf konzentrieren kannst, mehrere außergewöhnliche Effekte gleichzeitig aufrechtzuerhalten. Diese Fertigkeit ist bei Charakteren verbreitet, die darauf ausgelegt sich, sich und andere zu verstärken, z.B. Barden, Platoonführer oder Ingenieure.
+    Wie ein leichtsinniger Oger, der durch den Kampf wadet, werfen deine unermüdlichen Streiche Feinde nicht nur zurück, sondern auch noch zu Boden.
   effect: |
-    Wenn du die kleine Aktion <em>Wohl aufrechterhalten</em> benutzt, kannst du pro Rang dieser Fertigkeit ein weiteres Wohl aufrechterhalten, dass du wirken kannst.
+    Wann immer du einem Feind Schaden zufügst, kannst du sie nicht nur durch die Fertigkeit Überwältigender Schlag 5' zurückschieben (wenn du möchtest), sondern sie auch dort zu Boden werfen, wo die erzwungene Bewegung endete. Das Ziel erleidet den Harm <em>Niedergeschlagen</em>.
 - !
-  name: Schwimmen
-  OGname: Swimming
+  name: Zerstörerische Trance
+  OGname: Destructive Trance
   prerequisites:
     tier1:
-      Other:
-      - Keine
+      any:
+        Attribute:
+        - Beweglichkeit: 7 
+        - Kraft: 7
+        - Energie: 7
+        - Vergehen: 7
+      Feat:
+      - Kampftrance
   OGprerequisites:
     tier1:
-      Other:
-      - None
+      any:
+        Attribute:
+        - Agility: 7 
+        - Might: 7
+        - Energy: 7
+        - Entropy: 7
+      Feat:
+      - Battle Trance
   tags:
-  - Nicht-Kampf
+  - Außergewöhnlich
+  - Kraft
   OGtags:
-  - Non-Combat
+  - Extraordinary
+  - Might
   cost:
-  - 1
+  - 3
   description: |
-    Du bist für das Wasser geboren und kannst mit der Flinkheit eines Fisches mit großer Geschwindigkeit schwimmen. Der Hintergrund dieser Fertigkeit könnte hartes Training sein oder physiologische Eigenschaften deiner Spezies wie Schwimmhäute.
+    Im Kampfgetümmel wirst du zu einer zestörerischen Kraft, die ihresgleichen sucht. Ob du ein rasender Barbar bist oder ein ultra-konzentrierter intergalaktischer Fechter, deine Angriffe werden besonders gefährlich, wenn du in Kampftrance verfällst.
   effect: |
-    Du erhälst eine Schwimmgeschwindigkeit gleich deiner normalen Geschwindigkeit und musst keine Aktionswürfe machen um deine Schwimmgeschwindigkeit aufrechtzuerhalten.
+    Wenn du einen Angriffswurf in Kampftrance machst, explodieren alle Würfel mit ihrem Höchstwert oder der Zahl eins unter dem Höchstwert (der gefürfelte Wert selbst ändert sich aber nicht). Das bedeutet, dass ein d4 bei 3 oder 4 explodiert, ein d6 bei 5 oder 6, ein d8 bei 7 oder 8 und so weiter.
 - !
-  name: Erzfeind (I - IX)
-  OGname: Sworn Enemy (I - IX)
+  name: Zielwasser[?] / Weitschuss
+  OGname: Longshot
   prerequisites:
     tier1:
-      Other:
-      - Keine
-    tier2:
-      Other:
-      - Keine
-    tier3:
-      Other:
-      - Keine
-    tier4:
-      Other:
-      - Keine
-    tier5:
-      Other:
-      - Keine
-    tier6:
-      Other:
-      - Keine
-    tier7:
-      Other:
-      - Keine
-    tier8:
-      Other:
-      - Keine
-    tier9:
-      Other:
-      - Keine
+      any:
+        Attribute:
+        - Beweglichkeit: 5
+        - Kraft: 5
+        - Beliebiges Außergewöhnliches: 5
   OGprerequisites:
     tier1:
-      Other:
-      - None
-    tier2:
-      Other:
-      - None
-    tier3:
-      Other:
-      - None
-    tier4:
-      Other:
-      - None
-    tier5:
-      Other:
-      - None
-    tier6:
-      Other:
-      - None
-    tier7:
-      Other:
-      - None
-    tier8:
-      Other:
-      - None
-    tier9:
-      Other:
-      - None
+      any:
+        Attribute:
+        - Agility: 5
+        - Might: 5
+        - Any Extraordinary: 5
   tags:
-  - Nicht-Kampf
   - Kampf
   OGtags:
-  - Non-Combat
   - Combat
   cost:
   - 1
   description: |
-    Du bist darauf spezialisiert, gegen eine bestimmte Spezies, Abstammung oder Fraktion zu kämpfen. Vielleicht wurde deine Familie von Werwölfen getötet und du hast dich seitdem in all ihren Stärken und Schwächen geschult, um sie zu jagen. Vielleicht wurde in einem Gefängnis auf Vogax Prime aufgezogen und kennst die Vogax daher besser als sie sich selbst.
+    Deine Expertise mit einer bestimmten Fernkampfwaffe oder außergewöhnlichen Macht erlaubt es dir, Feinde auf extremer Distanz anzugreifen. Diese Fertigkeit findet man bei Snipern, Kampfpiloten und Kriegsmagiern.
   effect: |
-    Wähle eine Spezies, Abstammung oder Fraktion (z.B. Drachen, Leerentemplare, Gnolls oder Vampire). Du lernst die primäre Umgangssprache der Spezies und nach Abwägung des GM auch andere etwas der anderen besonderen Kommunikationsmittel deiner Feinde (wie z.B. geheime Handsignale oder Diebessprech). Weiterhin hast du pro Rang dieser Fertigkeit Vorteil 1 auf alle mentalen Attributwürfe (Lernen, Logik, Wahrnehmung, Willenskraft), die etwas mit der von dir gewählten Gruppe zu tun hat.
+    Wenn du diese Fertigkeit erwirbst, wähle eine Waffe oder einen Angriffstyp. Beispiele von Angriffstypen umfassen Feuer, Kälte, Blitz, Säure, Gift, Vergehen, Schöpfung und Kraft, wobei die Liste nicht abschließend ist.
+    Mit der von dir gewählten Waffe oder Angriffsart ist deine Reichweite verdoppelt.
   special: |
-    Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erwerben kannst, kannst du die Fertigkeit selbst auch mehrmals erhalten, wobei du jedes Mal eine neue Gruppe an Feinden wählst. Die Ränge der Fertigkeit für jede Gruppe werden separat behandelt. Beispielsweise könnte ein Charakter Erzfeind II (Raumtemplar) und Erzfeind IV (Werwolf) haben.
-- !
-  name: Hart wie Eisen[?] (I - II)
-  OGname: Tough as Nails (I - II)
-  prerequisites:
-    tier1:
-      Attribute:
-      - Konstitution: 3
-    tier2:
-      Attribute:
-      - Konstitution: 5
-  OGprerequisites:
-    tier1:
-      Attribute:
-      - Fortitude: 3
-    tier2:
-      Attribute:
-      - Fortitude: 5
-  tags:
-  - Verteidigung
-  - Körperlich
-  - Konstitution
-  OGtags:
-  - Defense
-  - Physical
-  - Fortitude
-  cost:
-  - 2
-  description: |
-    Du hast eine besonders hohe Schmerztoleranz. Diese Fertigkeit könnte von einem Chitinpanzer, extremem Kampftraining oder einfach einer Lederhaut nach jahrelangem Leben auf der Straße kommen. 
-  effect: |
-    Du erhälst pro Rang dieser Fertigkeit permanent 5 extra TP.
+    Du kannst diese Fertigkeit mehrmals erhalten, wobei du jedes Mal neue Waffen oder Angriffstypen wählst.
 - !
   name: Zweiwaffen Kämpfer[?]
   OGname: Two Weapon Brute
@@ -2955,123 +3030,27 @@
   effect: |
     Wenn du eine Waffe, für die du die Fertigkeit <em>Angriffsspezialisierung</em> erworben hast, in jeder Hand führst, erhälst du +1 Rüstungsbonus auf deine Deckung.
 - !
-  name: Unsterbliche Bezauberung[?]
-  OGname: Unending Charm
+  name: Überwältigender Schlag
+  OGname: Overpowering Strike
   prerequisites:
     tier1:
       Attribute:
-      - Einfluss: 4
+      - Kraft: 4
   OGprerequisites:
     tier1:
       Attribute:
-      - Influence: 4
+      - Might: 4
   tags:
-  - Außergewöhnlich
-  - Nicht-Kampf
-  - Einfluss
+  - Körperlich
+  - Fertigkeitenkette
+  - Kraft
   OGtags:
-  - Extraordinary
-  - Non-Combat
-  - Influence
-  cost:
-  - 3
-  description: |
-    Ob du ein Verzauberer bist, Psychiker oder verrückter Wissenschaftler, du hast die Kunst andere gefügig zu machen gemeistert. Deine Bezauberungen sind so mächtig, dass deine Opfer ihnen permament verfallen können.
-  effect: |
-    Wenn du den Harm <em>Bezaubert</em> wirkst, erleiden Ziele, die ihren Widerstehenwürfe innerhalb von 24 Stunden nicht bestehen, den Harm permanent. Sie erhalten keine weiteren Widerstehenwürfe, um sich von dem Effekt zu befreien. Andere außergewöhnliche Effekte wie z.B. der Harm <em>Annulieren</em> (und weitere passende nach Abwägung des GM) können die permanente Bezauberung weiterhin brechen.
-- !
-  name: Spurenlos
-  OGname: Untrackable
-  prerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Beweglichkeit: 3
-        - Wandlung: 3
-        - Einfluss: 3
-  OGprerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Agility: 3
-        - Alteration: 3
-        - Influence: 3
-  tags:
-  - Nicht-Kampf
-  - Schutz
-  - Wandlung
-  - Einfluss
-  OGtags:
-  - Non-Combat
-  - Protection
-  - Alteration
-  - Influence
-  cost:
-  - 1
-  description: |
-    Ob aufgrund von Ranken, die in deinem Pfad wachsen, einem magischen Schutz gegen Aufklärung oder illusorischem Nebel, der Effekt ist der gleiche: Du bist davor geschützt, verfolgt zu werden.
-  effect: |
-    Deine Spur und jegliche Hinweise auf deine Durchreise werden durch besondere Mittel verschleiert, sodass es unmöglich ist, dich ohne außergewöhnliche Mittel zu verfolgen.
-- !
-  name: Brutaler Schlag
-  OGname: Vicious Strike
-  prerequisites:
-    tier1:
-      Other:
-      - Keine
-  OGprerequisites:
-    tier1:
-      Other:
-      - None
-  tags:
-  - Kampf
-  OGtags:
-  - Combat
+  - Physical
+  - Feat Chain
+  - Might
   cost:
   - 2
   description: |
-    Durch pure Stärke, tödliche Präzision oder überkochende Magie, deine Angriffe sind besonders verheerend. Berserker, Assassinen und Superhelden sind Beispiele dieser Fertigkeit in Aktion.
+    Im Kampf bist du eine überwältigende Lawine, die Feinde dahinrafft. Die reine Kraft deiner Angriffe ist so groß, dass sie Feinde zurückwirft. Ein Halboger mit einem massiven Baumstamm oder ein Supersoldat, der trainiert ist, das Gewicht seines Gegner für sich zu nutzen, sind gute Beispiele dieser Fertigkeit.
   effect: |
-    Wann immer du eine natürlich 20 auf einem d20 für einen Angriffswurf wirfst, erhälst du Vorteil 1 auf alle weiteren d20, die du aufgrund der Würfelexplosionen für diesen Angriff wirfst.
-- !
-  name: Wohlhabend
-  OGname: Wealthy
-  prerequisites:
-    tier1:
-      Other:
-      - Keine
-  OGprerequisites:
-    tier1:
-      Other:
-      - None
-  tags:
-  - Nicht-Kampf
-  OGtags:
-  - Non-Combat
-  cost:
-  - 3
-  description: |
-    Ob du als Aristokrat geboren wurdest, altes Geld in deiner Familie liegt, du einen großen Schatz geerbt hast oder selbst ein florierendes Geschäft aufgezogen hast, du bist wohlhabender als der durchschnittliche Abenteurer.
-  effect: |
-    Dein Wohlstandswert ist um 1 erhöht.
-- !
-  name: Ausgewogen / Rundumtalent [?]
-  OGname: Well-Rounded
-  prerequisites:
-    tier1:
-      Other:
-      - Keine
-  OGprerequisites:
-    tier1:
-      Other:
-      - None
-  tags:
-  - Nicht-Kampf
-  OGtags:
-  - Non-Combat
-  cost:
-  - 2
-  description: |
-    Du hast eine breite Erziehung genossen, viele Erfahrungen gemacht oder einfach großes Glück. Das Resultat ist, dass du auch in Dingen, in denen du nicht spezialisiert bist, ziemlich adept bist.
-  effect: |
-    Wann immer du ein Attribut mit Wert 2 oder weniger für einen Aktionswurf außerhalb des Kampfes nutzt, der nicht zum Wirken eines Harms oder eines Wohls dient, erhälst du Vorteil 1 auf den Wurf.
+    Jedes Mal, wenn du mit einer Waffe mit der Eigenschaft <em>Kraftvoll</em> Schaden zufügst, kannst du dich entscheiden, dein Ziel 5' von dir wegzubewegen.
