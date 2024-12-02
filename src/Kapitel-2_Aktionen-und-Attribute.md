@@ -102,13 +102,13 @@ Viele Aktionen, die du in Open Legend versuchen wirst, haben einen Herausforderu
 
 Often bestimmt aber auch der GM den HW für Aktionen, die nicht klar in den Regeln ausgelegt sind. In diesen Fällen, kann der GM die *Herausforderungswerte nach Schwierigkeit*-Tabelle nutzen, um einen passenden HW festzulegen.
 #### Herausforderungswerte nach Schwierigkeit
-| Schwierigkeit  | Herausforderungswert |                                                                               Beispielaktionen                                                                               |
-| :------------: | :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   Alltäglich   |          10          |                 über eine 5'-Lücke springen, eine Wand mit einfachem Halt erklimmen, eine normale Haustür aufbrechen, einen simplen Händler herunterhandeln                  |
-| Herausfordernd |          15          |                         eine grobe Wand erklimmen, eine Idee der Bedeutung eines Texts in unbekannter Sprache haben, eine starke Holztür aufbrechen                          |
-|   Heldenhaft   |          20          | eine glatte Oberfläche erklimmen, über eine 15'-Lücke springen, einen Text in unbekannter Sprache übersetzen, eine neutrale Partei überzeugen ein Risiko für dich einzugehen |
-|     Episch     |          25          |                                        einen Text in einer Sprache aus einer völlig anderen Welt übersetzen, eine Eisentür aufbrechen                                        |
-|    Legendär    |          30          |                      über einen 25'-Spalt springen, eine makellose Oberfläche erklimmen, sich mit einem Feind mit einer Vendetta gegen dich anfreunden                       |
+| Schwierigkeit  | HW  |                                                                               Beispielaktionen                                                                               |
+| :------------: | :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   Alltäglich   | 10  |                 über eine 5'-Lücke springen, eine Wand mit einfachem Halt erklimmen, eine normale Haustür aufbrechen, einen simplen Händler herunterhandeln                  |
+| Herausfordernd | 15  |                         eine grobe Wand erklimmen, eine Idee der Bedeutung eines Texts in unbekannter Sprache haben, eine starke Holztür aufbrechen                          |
+|   Heldenhaft   | 20  | eine glatte Oberfläche erklimmen, über eine 15'-Lücke springen, einen Text in unbekannter Sprache übersetzen, eine neutrale Partei überzeugen ein Risiko für dich einzugehen |
+|     Episch     | 25  |                                        einen Text in einer Sprache aus einer völlig anderen Welt übersetzen, eine Eisentür aufbrechen                                        |
+|    Legendär    | 30  |                      über einen 25'-Spalt springen, eine makellose Oberfläche erklimmen, sich mit einem Feind mit einer Vendetta gegen dich anfreunden                       |
 
 Es sollte angemerkt werden, dass Herausforderungswerte generell nicht an das Level der Gruppe angepasst sind. Eine starke Holztür niederzutreten ist HW 15, egal ob die Gruppe auf Level 1 oder Level 10 ist. Gleichzeitig kann es aber für den GM auch nützlich beim Erstellen von Szenarios sein, die typischen Kapazitäten von Charakteren anhand ihrer Attributwerte zu kennen. Die *Durchschnittliche Herausforderung vs. Attributwert*-Tabelle führt Herausforderungswerte auf, die für verschiedene Attributwerte durchschnittlich schwierig zu erreichen sind. Ein Charakter mit dem jeweiligen Wert kann erwarten, beim aufgelisteten Herausforderungswert bei etwa **50%** der Versuche Erfolg zu haben.
 #### Durchschnittliche Herausforderung vs. Attributwert
