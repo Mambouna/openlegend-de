@@ -21,7 +21,7 @@ Open Legend ist ein Rollenspiel, was bedeutet, dass dein Charakter mehr Tiefe be
 
 **Ein heldenhafter Name.** Besprich mit deinem GM, was für ein Setting er für euer Spiel benutzen möchte. Kevin der Kämpfer würde neben Therilas Windweberin und Gorion Schädelspalter ziemlich fehl am Platz wirken.
 
-**Deine Abstammung.** Deine Entscheidung, welche Abstammung dein Charakter haben soll, ist nur durch deine Vorstellungskraft, das Setting des Spiels und die Rahmenbedingungen deines GM eingeschränkt. Eine typische Fantasykampagne könnte Zwerge, Elfen, Halblinge, Himmlische und Drachenblüter enthalten. Falls ihr in einer futuristischen Weltraumoper am Rand der Galaxis spielt, könnte dein GM vielleicht mehrere Alienspezies zur Auswahl haben. Einige Kampagnen, zum Beispiel Mysterien oder in Horrorsettings à la Lovecraft, erlauben vielleicht nur ganz normale Menschen. Egal was, solange es vom GM erlaubt ist, kannst du als alles spielen, was du magst, egal ob humanoider Tigerpsion, eine 3 Zoll große Fee oder irgendetwas dazwischen.
+**Deine Abstammung.** Deine Entscheidung, welche Abstammung dein Charakter haben soll, ist nur durch deine Vorstellungskraft, das Setting des Spiels und die Rahmenbedingungen deines GM eingeschränkt. Eine typische Fantasykampagne könnte Zwerge, Elfen, Halblinge, Himmlische und Drachenblüter enthalten. Falls ihr in einer futuristischen Space-Opera am Rand der Galaxis spielt, könnte dein GM vielleicht mehrere Alienspezies zur Auswahl haben. Einige Kampagnen, zum Beispiel Mysterien oder Horrorsettings à la Lovecraft, erlauben vielleicht nur ganz normale Menschen. Egal was, solange es vom GM erlaubt ist, kannst du als alles spielen, was du magst, egal ob humanoider Tigerpsion, eine 3 Zoll große Fee oder irgendetwas dazwischen.
 
 Als Teil deiner Entscheidung für eine Abstammung solltest du auch deine **Größe** wählen: klein, mittel oder groß. Ein mittelgroßer Charakter ist etwa so groß wie ein durchschnittlicher Mensch. Kleine Kreaturen sind zwischen 2 und 4 Fuß groß, während große Kreaturen 7 bis 10 Fuß messen. Eine große Kreatur nimmt ein 10'x10' Feld im Kampf ein und hat eine Reichweite von 10' (siehe [Kapitel 7: Kampf](./Kapitel-7_Kampf.md) für die Details). Der GM kann Vor- oder Nachteile für Würfe bestimmen, falls deine Größe in einer Situation relevant ist. Zum Beispiel könnten kleine Kreaturen Vorteile auf Würfe zum Verstecken, aber Nachteile auf Würfe zum Eintreten einer Tür erhalten. Auf die gleiche Weise könnten große Kreaturen Nachteile auf Kampfwürfe erhalten, wenn sie in engen Räumen sind, aber Vorteile auf Einschüchterungswürfe gegenüber kleineren Kreaturen bekommen.
 
@@ -49,7 +49,7 @@ In Open Legend sind Attribute in vier Kategorien aufgeteilt: körperlich, sozial
 
 Die Expertise eines Charakter mit Attributen wird durch einen Wert zwischen 0 (völlig ungeübt) und 9 (übermenschlich) repräsentiert. Ein Charakter kann kein übernatürliches[?] Attribut nutzen, falls er oder sie darin einen Wert von 0 hat. Körperliche, soziale und geistige Attribute können auch untrainiert genutzt werden.
 
-Der Durchschnittsbürger oder einfache Handwerker hat generell Werte zwischen 1 und 3 in mehreren körperlichen, sozialen und geistigen Attributen. Übernatürliche Attribute sind meist Charakteren mit großer Macht und Einfluss vorbehalten.
+Der Durchschnittsbürger oder einfache Handwerker hat generell Werte zwischen 1 und 3 in mehreren körperlichen, sozialen und geistigen Attributen. Übernatürliche Attribute sind meist Charakteren mit großer Macht und viel Einfluss vorbehalten.
 
 Die *Attribute auf einen Blick*-Tabellen geben dir einen schnellen Überblick einiger häufiger Handlungen, die die jeweiligen Attribute dir erleichtern werden.
 ##### Körperliche Attribute auf einen Blick
@@ -197,11 +197,11 @@ Wenn ein Gegner versucht, dich anzugreifen - egal ob mit dem Schuss eines Gewehr
 
 <table><tr><td><b>Deckung = 10 + Beweglichkeit + Kraft + Rüstung</b></td></tr></table>
 
-**Deckung** beschützt dich vor Angriffen, denen man ausweichen, die man abwenden oder mit denen man mit physischer Macht widerstehen kann. Deine Feinde müssten deine Deckung überwinden, um dich mit einer Granate zu verletzen, dich mit einem Pfeil zu treffen oder dich mit einem Kriegshammer zu schlagen.
+**Deckung** beschützt dich vor Angriffen, denen man ausweichen, die man abwenden oder denen man mit physischer Macht widerstehen kann. Deine Feinde müssten deine Deckung überwinden, um dich mit einer Granate zu verletzen, dich mit einem Pfeil zu treffen oder dich mit einem Kriegshammer zu schlagen.
 
 <table><tr><td><b>Entschlossenheit = 10 + Präsenz + Willenskraft</b></td></tr></table>
 
-**Entschlossenheit** stellt die Fähigkeit deines Charakter dar, mentale Unterdrückung zu widerstehen oder im Angesicht der Furcht nicht nachzugeben. Gegner, die dich bezaubern, mit Illusionen täuschen oder dich ängstigen wollen, müssen gegen deine Entschlossenheit bestehen.
+**Entschlossenheit** stellt die Fähigkeit deines Charakter dar, mentaler Unterdrückung zu widerstehen oder im Angesicht der Furcht nicht nachzugeben. Gegner, die dich bezaubern, mit Illusionen täuschen oder dich ängstigen wollen, müssen gegen deine Entschlossenheit bestehen.
 
 <table><tr><td><b>Trefferpunkte = 2 x (Zähigkeit + Präsenz + Willenskraft) + 10</b></td></tr></table>
 
@@ -209,9 +209,9 @@ Wenn ein Gegner versucht, dich anzugreifen - egal ob mit dem Schuss eines Gewehr
 
 **Trefferpunkte** (TP abgekürzt) sind eine abstrakte Repräsentation deiner Fähigkeit, Schmerzen zu ignorieren, tödlichen Angriffen zu entgehen und deine Präsenz auf dem Schlachtfeld trotz Wunden und Erschöpfung aufrechtzuerhalten. Falls sie 0 erreichen, fällst du in Ohnmacht und bist in Lebensgefahr.
 
-**Geschwindigkeit** stellt dar, wie weit dein Charakter sich in einer einzigen Bewegungsaktion fortbewegen kann (siehe Kapitel 7: Kampf). Deine Grundgeschwindigkeit sind 30 Fuß. Andere Effekte wie Harme, Wohle und Fertigkeiten können deine Geschwindigkeit erhöhen oder verringern.
+**Geschwindigkeit** stellt dar, wie weit dein Charakter sich in einer einzigen Bewegungsaktion fortbewegen kann (siehe [Kapitel 7: Kampf](./Kapitel-7_Kampf.md)). Deine Grundgeschwindigkeit sind 30 Fuß. Andere Effekte wie Harme, Wohle und Fertigkeiten können deine Geschwindigkeit erhöhen oder verringern.
 ## Schritt 4: Fertigkeiten kaufen
-Während die Attribute deines Charakters seine Expertise im erbringen heroischer Taten ausmachen, machen seine **Fertigkeiten** ihn einzigartig unter anderen Charakteren. Fertigkeiten erlauben dir, deinen Charakter anzupassen, sodass er spezifischen Anforderungen besonders gut begegnen kann.
+Während die Attribute deines Charakters seine Expertise im Erbringen heroischer Taten ausmachen, machen seine **Fertigkeiten** ihn einzigartig unter anderen Charakteren. Fertigkeiten erlauben dir, deinen Charakter anzupassen, sodass er spezifischen Anforderungen besonders gut begegnen kann.
 
 Zum Beispiel könnten zwei unterschiedliche Charaktere, die beide auf Nahkampf spezialisiert sind, mit einem Machtwert von 5 beginnen. Einer der Charaktere ist ein verwegener Pirat, also nimmt er die *Kampfmomentum*-Fertigkeit um sich wie ein Derwisch schnell von einem Gegner zum anderen bewegen zu können. Der andere, ein kampfgezeichneter Barbar, nimmt *Kampftrance*, sodass er in rasende Wut fallen kann, um seine Feinde zu dezimieren.
 ### Fertigkeiten wählen
@@ -221,9 +221,9 @@ Eine Liste aller verfügbaren Fertigkeiten kann [hier](./lists/fertigkeiten.md) 
 ## Schritt 5: Startausrüstung wählen
 In einem typischen Open Legend-Spiel beginnt dein Charakter mit der nötigen Startausrüstung für das Leben eines Abenteurers. Der GM kann aber auch entscheiden, dass die Kampagne unter besonderen Umständen beginnt (zum Beispiel, dass die gesamte Gruppe eingesperrt in einem Sklavenkonvoi beginnt), die etwas anderes benötigen.
 
-Normalerweise beginnst du aber mit einem Wohlstandswert von 2 und kannst bis zu drei Items mit Wohlstandslevel 2, sowie so viele Items eines niedrigeren Wohlstandslevels auswählen, wie du willst. Schlage in Kapitel 6 für Regeln zu Wohlstand und Ausrüstungsinformationen nach. Gehe sicher, dass du jegliche Veränderungen an deinen Verteidigungen oder anderen Werten notierst, nachdem du deine Ausrüstung ausgewählt hast.
+Normalerweise beginnst du aber mit einem Wohlstandswert von 2 und kannst bis zu drei Items mit Wohlstandswert 2, sowie so viele Items eines niedrigeren Wohlstandswerten auswählen, wie du willst. Schlage in Kapitel 6 für Regeln zu Wohlstand und Ausrüstungsinformationen nach. Gehe sicher, dass du jegliche Veränderungen an deinen Verteidigungen oder anderen Werten notierst, nachdem du deine Ausrüstung ausgewählt hast.
 ## Schritt 6: Charakterstärken und -schwächen auswählen
-Charakterstärken und -schwächen geben dir weitere Wege, die Persönlichkeit, das Aussehen, Stärken, Schwächen und Hintergrund deines Charakters auszuarbeiten. Vollständige Beschreibungen der verfügbaren Charakterstärken und -schwächen sowie wie sie im Spiel genutzt werden, findest du in [Kapitel 5: Charakterstärken und -schwächen](./Kapitel-5_Charakterstaerken-und-schwaechen.md).
+Charakterstärken und -schwächen geben dir weitere Wege, die Persönlichkeit, das Aussehen, die Stärken, Schwächen und den Hintergrund deines Charakters auszuarbeiten. Vollständige Beschreibungen der verfügbaren Charakterstärken und -schwächen sowie wie sie im Spiel genutzt werden, findest du in [Kapitel 5: Charakterstärken und -schwächen](./Kapitel-5_Charakterstaerken-und-schwaechen.md).
 
 Bei der Charaktererstellung kannst du bis zu zwei Stärken und Schwächen auswählen. Du kannst auch keine auswählen.
 ## Schritt 7: Erzähl' deine Geschichte
@@ -231,7 +231,7 @@ Nachdem dein Charakter erstellt ist, bist du bereit, Open Legend zu spielen. Ega
 ### Entspann dich
 Open Legend gibt dir die Chance, für ein paar Stunden aus deinem Alltagsleben heraus und in eine fantastische Welt hineinzutreten, in der du heroische Taten vollbringen kannst. Schenk das Red Bull ein oder hol dir ein Bier, bestell etwas zu essen oder öffne die Chipstüte - egal was du tust, schüttel die Würfel, als ob das Leben deines Charakters davon abhängt, und hab Spaß. Falls du einen Zwerg spielst, kram vielleicht deinen besten Schottenakzent raus. Falls dein Charakter eine Hexe ist, kneif die Augen zusammen und sprich in Rätseln. Falls du kein Mimenexperte bist, denk dir andere Wege aus, Spaß zu haben: spiele abenteuerliche Musik auf dem Handy, zeichne die Großtaten deiner Gruppe, und so weiter.
 ### Respektiere den GM
-Falls du noch nie GM warst, weist du vielleicht nicht, wie viel Arbeit dahintersteckt. Wahrscheinlich hat dein GM stundenlang daran gearbeitet, die Kampagne zusammenzustellen und sich auf diese Sitzung vorzubereiten. Nimm an ihrer Geschichte teil, sieh über versehentliche Ungereimtheiten hinweg und veranstalte nicht für nichts Radau. Falls es Unstimmigkeiten über die Regeln gibt, akzeptiere die finale Entscheidung des GM, damit das Spiel weitergeht und einigt euch, es später nachzuschauen.
+Falls du noch nie GM warst, weist du vielleicht nicht, wie viel Arbeit dahintersteckt. Wahrscheinlich hat dein GM stundenlang daran gearbeitet, die Kampagne zusammenzustellen und sich auf diese Sitzung vorzubereiten. Nimm an der Geschichte teil, sieh über versehentliche Ungereimtheiten hinweg und veranstalte nicht für nichts Radau. Falls es Unstimmigkeiten über die Regeln gibt, akzeptiere die finale Entscheidung des GM, damit das Spiel weitergeht und einigt euch, es später nachzuschauen.
 ### Respektiere die anderen Spieler
 Unterschiedliche Leute spielen Rollenspiele aus unterschiedlichen Gründen. Manche finden Gefallen an dem taktischen, schachartigen Kampfgeschehen. Andere wollen einfach eine epische Geschichte erzählen. Wieder andere sind geborene Schauspieler und genießen die Konversation mit jedem neuen Charakter. Egal, was dir am Open Legend-Spielen gefällt, behalte im Kopf, dass nicht allen am Tisch das gleiche gefallen muss. Der GM ist dazu da, alle Charaktere glänzen zu lassen, aber du kannst dabei helfen, indem du dich nicht ins Rampenlicht drängst und andere Spieler ermutigst, auf ihre Weise Spaß zu haben.
 ## Charakterarchetypen
