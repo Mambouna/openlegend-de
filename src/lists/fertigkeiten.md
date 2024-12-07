@@ -849,7 +849,7 @@ ___
 - **Rang 3:** Konstitution 2
 
 **Beschreibung**  
-Ob durch drakonische Abstammung, ein Cyborg-Exoskellet oder einfach lebenslange Konditionierung ist deine Haut zäh wie Stahl, sodass dein Körper allein Angriffen widersteht, die andere niederstrecken würden.
+Ob durch drakonische Abstammung, ein Cyborg-Exoskellet oder einfach lebenslange Konditionierung ist deine Haut hart wie Stahl, sodass dein Körper allein Angriffen widersteht, die andere niederstrecken würden.
 
 **Effekt**  
 Wenn du keine Rüstung trägst, erhälst du einen Bonus auf Deckung und Zähigkeit anhand des Ranges dieser Fertigkeit:
@@ -946,6 +946,21 @@ Ob durch Glück, außergewöhnliche Willenskraft oder großen Mut, kannst du Har
 Du hast Vorteil 1 auf alle Widerstehenwürfe.
 
 > Tags: Geistig, Körperlich, Sozial
+
+___
+### Rundumtalent
+**Kosten:** 2 Punkte
+
+**Voraussetzungen:**  
+- **Rang 1:** Keine
+
+**Beschreibung**  
+Du hast eine breite Erziehung genossen, viele Erfahrungen gemacht oder einfach großes Glück. Das Resultat ist, dass du auch in Dingen, in denen du nicht spezialisiert bist, ziemlich adept bist.
+
+**Effekt**  
+Wann immer du ein Attribut mit Wert 2 oder weniger für einen Aktionswurf außerhalb des Kampfes nutzt, der nicht zum Wirken eines Harms oder eines Wohls dient, erhälst du Vorteil 1 auf den Wurf.
+
+> Tags: Nicht-Kampf
 
 ___
 ### Rücksichtsloser Angriff
@@ -1180,6 +1195,21 @@ Deine Kampfraserei ist legendär, seist du ein Berserker aus dem kalten Norden, 
 Während du in einer Kampftrance bist, kannst du nicht bewusstlos geschlagen werden. Aller Schaden, den du erleidest, muss notiert werden, auch wenn deine Gesamt-TP ins negative gehen. Unabhängig von allem Schaden bleibst du bei Bewusstsein, solange du die Kampftrance aufrechterhalten kannst. Hast du negative TP, wenn die Kampftrance endet, fällst du sofort in Ohnmacht. Wirst du nicht innerhalb von einer Runde danach auf 0 oder mehr TP geheilt, stirbst du.
 
 > Tags: Außergewöhnlich
+
+___
+### Überwältigender Schlag
+**Kosten:** 2 Punkte
+
+**Voraussetzungen:**  
+- **Rang 1:** Kraft 4
+
+**Beschreibung**  
+Im Kampf bist du eine überwältigende Lawine, die Feinde dahinrafft. Die reine Kraft deiner Angriffe ist so groß, dass sie Feinde zurückwirft. Ein Halboger mit einem massiven Baumstamm oder ein Supersoldat, der trainiert ist, das Gewicht seines Gegner für sich zu nutzen, sind gute Beispiele dieser Fertigkeit.
+
+**Effekt**  
+Jedes Mal, wenn du mit einer Waffe mit der Eigenschaft <em>Kraftvoll</em> Schaden zufügst, kannst du dich entscheiden, dein Ziel 5' von dir wegzubewegen.
+
+> Tags: Körperlich, Fertigkeitenkette, Kraft
 
 ___
 ### Vertiefte Wirkung (I - III)

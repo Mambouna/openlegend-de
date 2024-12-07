@@ -239,7 +239,7 @@ Diese Sektion enthält eine Ansammlung an typischen Charakterarten, die für ver
 ### Barde
 Barden sind ein bisschen von allem: Anführer, Geschichtenerzähler, Künstler, Performer, Magier, Säbelrassler und vieles mehr. Ein Barde ist ein Alleskönner, der seine Verbündeten so oft aus dem Feuer rettet, wie er sie auch hineinwirft.
 #### Strategie
-Barden können in fast allen Situationen außerhalb des Kampfes andere mit ihrer Fertigkeit *Rundumtalent*[?] unterstützen, wobei sie sich besonders in sozialen Situationen durch ihre hohen Werte in Präsenz und Überzeugung profilieren. Ihr Einflusswert gibt ihnen außerdem Zugang zu Flüchen wie *Bezaubert* und *Phantom*[?], die zum Täuschen, Verhören oder Befreunden von Feinden nützlich sind.
+Barden können in fast allen Situationen außerhalb des Kampfes andere mit ihrer Fertigkeit *Rundumtalent* unterstützen, wobei sie sich besonders in sozialen Situationen durch ihre hohen Werte in Präsenz und Überzeugung profilieren. Ihr Einflusswert gibt ihnen außerdem Zugang zu Flüchen wie *Bezaubert* und *Phantom*, die zum Täuschen, Verhören oder Befreunden von Feinden nützlich sind.
 
 Im Kampf unterstützt ein Barde seine Verbündeten mit *Verstärken*, wobei er durch die Fertigkeit *Wohlfokus* mehrere Freunde auf einmal damit belegen kann. Wird ein Kamerad verwundet nutzt der Barde *Heilen* um sie wieder kampffähig zu machen und kann auch mehrere mit einer heilenden *Aura* unter die Arme greifen. Barden sind genügend kompetent im Nahkampf, in dem sie das Rapier führen und Feinde entwaffnen, wann immer sich die Chance bietet.
 

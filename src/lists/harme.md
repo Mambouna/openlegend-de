@@ -751,3 +751,52 @@ Die Geschwindigkeit des betroffenen Ziels ist um die Hälfte reduziert, abgerund
 > Tags: Außergewöhnlich, Körperlich
 
 ___
+### Verstummt
+**Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
+
+**Wirkzeit:** 1 große Aktion
+
+**Kraftlevel:** 2
+
+**Angriffsattribute:** Beweglichkeit, Wandlung, Vergehen, Kraft
+
+**Angriff**
+- Beweglichkeit vs. Zähigkeit
+- Wandlung vs. Zähigkeit
+- Vergehen vs. Zähigkeit
+- Kraft vs. Zähigkeit
+
+**Beschreibung**  
+Stille breitet sich um das Ziel aus, egal ob durch das Manipulieren von Schallwellen um das Ziel oder physischen Effekten wie Erwürgen oder Ersticken. Der Harm Verstummt ist verbreitet bei Assassinen, Zauberern, Ingenieuren und verrückten Wissenschaftlern.
+
+**Effekt**  
+Falls Kraft, Beweglichkeit oder Vergehen benutzt wurden, um diesen Harm zu wirken, leidet der Charakter und Erwürgung und kann nicht sprechen. Falls der Harm mit Wandlung gewirkt wurde, dann erlischt aller Klang innerhalb von 5' um das Ziel durch außergewöhnliche Mittel, sodass z.B. ihre Schritte stumm sind und das Klappern von Ausrüstung nicht gehört werden kann.
+
+> Tags: Außergewöhnlich, Körperlich
+
+___
+### Wahrheitsgebunden
+**Dauer:** 10 Minuten (Besonders)
+
+**Wirkzeit:** 10 Minuten
+
+**Kraftlevel:** 5
+
+**Angriffsattribute:** Einfluss
+
+**Angriff**
+- Einfluss vs. Entschlossenheit
+
+**Beschreibung**  
+Indem du den Geist des Ziels durch Magie, chemische Injektion, Neuralsonden oder ähnliche Wege gefügig machst, verhinderst du jede willentliche Lüge des Ziels. Dieser Harm ist beliebt bei Verzauberern, verrückten Wissenschaftlern, Psychikern und der Gesinnungspolizei[?].
+
+**Effekt**  
+Das Ziel beantwortet alle Fragen so gut es kann ehrlich. Falls eine Antwort etwas enthüllen würde, was das Ziel normalerweise verborgen halten wollte, macht das Ziel einen Willenskraftwurf gegen einen Einflusswurf durch dich. Falls der Willenskraftwurf höher ist, widersteht das Ziel dem Harm und der Effekt wird aufgelöst.
+
+**Besonders**  
+Wenn du den Harm erfolgreich wirkst, kannst du zum Ende seiner Dauer einen weiteren Einflusswurf machen, um den Harm zu verlängern. Bei Erfolg hält der Harm an, ohne dass du erneut die Wirkzeit aufbringen musst.
+Hat ein Ziel beim bestrittenen Wurf Willenskraft gegen deinen Einfluss Erfolg, wird es 24 Stunden gegen deine Wirkung dieses Harms immun.
+
+> Tags: Außergewöhnlich
+
+___

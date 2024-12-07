@@ -221,14 +221,14 @@
   invocationTime: 1 große Aktion
   duration: Aufrechterhalten verlängert
   description: |
-    Du verleihst dir oder einem Verbündeten die Fähigkeit, das wahrzunehmen, was nicht mit normalen Sinnen erfasst werden kann. Hindernisse, die normale Sicht aufhalten würden - Dunkelheit, feste Gegenstände, Illusionen und sogar Grenzen zwischen den Realitätsebenen - werden durchbrochen. Diese Kraft könnte von übernatürlichen Sinnen stammen, himmlischem Segen, cybernetisch verbesserten Sinnesorganen oder aus ähnlichen Quellen.
+    Du gibst dem Ziel die Fähigkeit, das zu entdecken, was nicht durch normale Sinne wahrgenommen werden kann. Hindernisse, die normale Sinne blockieren würden, z.B. Dunkelheit, Wände oder Objekte, Illusionen und sogar Barrieren zwischen den Dimensionen sind nutzlos gegen die Klarsicht. Diese Fähigkeit kann von übernatürlicher Wahrnehmung stammen, göttlichem Segen, cybernetischen Sinnesimplantaten, usw..
   effect: |
     <ul>
-      <li><strong>Kraftlevel 5</strong> - Das Ziel sieht die Präsenz außergewöhnlicher Effekte wie Magie, Stealth-Technologie und anderer Art, die außervisuell wahrgenommen werden können. Weiterhin gibt dieses Wohl Vorteil 1 auf Würfe, mit denen einfache Verborgenheit wie bei versteckten Durchgänge, doppelten Böden und Fallen oder anderen Gefahren durchschaut werden soll.</li>
-      <li><strong>Kraftlevel 6</strong> - Die außergewöhnliche Sicht des Ziels durchdringt natürliche und magische Dunkelheit.</li>
-      <li><strong>Kraftlevel 7</strong> - Die außergewöhnliche Sicht des Ziels durchdringt alle Arten illusorischer Effekte, sodass es auch <em>Phantome</em> durchschaut.</li>
-      <li><strong>Kraftlevel 8</strong> - Das Ziel kann durch feste Materialien hindurchsehen und seine normale Sichtweite bleibt von ihnen unbehindert.</li>
-      <li><strong>Kraftlevel 9</strong> - Die außergewöhnliche Sicht lässt das Ziel in andere Realitätsebenen oder Dimensionen blicken. Es kann in Taschendimensionen und andere Realitätsebenen sehen, die mit der momentanen überlappen. Weiterhin ist die Sichtweite des Ziels stark erweitert.</li>
+    <li><strong>Kraftlevel 5</strong> - Das Ziel sieht die Präsenz außergewöhnlicher Vorkommnisse wie Magie, Tarntechnologie und anderer Mittel, die nur durch übernatürliche Sinne wahrgenommen werden können. Zusätzlich gibt dieses Wohl Vorteil 1 auf Aktionswürfe, mit denen einfache Verstecke durchschaut werden sollen, wie z.B. verborgene Türen, Fächer mit doppeltem Boden, nicht-magische Fallen oder andere normale versteckte Bedrohungen.</li>
+    <li><strong>Kraftlevel 6</strong> - Die übernatürliche Wahrnehmung des Ziels durchdringt natürliche und magische Dunkelheit.</li>
+    <li><strong>Kraftlevel 7</strong> - Die übernatürliche Wahrnehmung des Ziels durchdringt alle illusorischen Effekte, sodass es auch <em>Phantome</em> durchschauen kann.</li>
+    <li><strong>Kraftlevel 8</strong> - Das Ziel kann durch feste Wände und Objekte sehen und seine natürliche Sichtweite ist von ihnen unbehindert.</li>
+    <li><strong>Kraftlevel 9</strong> - Die übernatürliche Wahrnehmung des Ziels erlaubt es ihm, in andere Dimensionen oder Ebenen der Realität zu blicken. Es kann dimensionale Taschenräume erkennen und mit der eigenen Realität überlappende Ebenen durchschauen. Weiterhin ist seine Sichtweite stark erhöht.</li>
     </ul>
 - !
   name: Flug
@@ -975,3 +975,26 @@
     </ul>
   special: |
     Du kannst auch Harme über dem Kraftlevel dieses Wohls auflösen. Dafür muss das Wohl mit einem Aktionswurf gewirkt worden sein (diese Anwendung kann also nicht durch automatischen Erfolg wie bei der Fertigkeit <em>Wohlfokus</em> erreicht werden). Der Herausforderungswert, um einen Harm höheren Kraftlevels zu lösen ist gleich 20 + 2 x Kraftlevel des Harms. Ein Harm von Kraftlevel 9 kann also mit einem Wurfergebnis von 38 beim Aktionswurf für dieses Wohl aufgelöst werden, selbst wenn der wirkende Charakter keinen Attributwert von 9 im genutzten Attribut hat.
+- !
+  name: Zungen
+  OGname: Tongues
+  tags:
+  - Außergewöhnlich
+  OGtags:
+  - Extraordinary
+  power:
+  - 5
+  - 6
+  attribute:
+  - Vorwissen
+  OGattribute:
+  - Prescience
+  invocationTime: 10 Minuten
+  duration: Aufrechterhalten verlängert
+  description: |
+    Du oder ein Verbündeter erhalten temporär die Fähigkeit, Sprachen zu sprechen, lesen und schreiben, die sie normalerweise nicht beherrschen. Diese Fähigkeit stammt von interplanaren Geistern, überintelligenter KI, absurder Lernfähigkeit in Linguistik oder ähnlichen Quellen.
+  effect: |
+    <ul>
+    <li><strong>Kraftlevel 5</strong> - Dein Ziel kann eine Sprache deiner Wahl verstehen und sprechen.</li>
+    <li><strong>Kraftlevel 6</strong> - Dein Ziel kann eine Sprache deiner Wahl lesen.</li>
+    </ul>

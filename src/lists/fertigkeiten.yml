@@ -1800,7 +1800,7 @@
   cost:
   - 2
   description: |
-    Ob durch drakonische Abstammung, ein Cyborg-Exoskellet oder einfach lebenslange Konditionierung ist deine Haut zäh wie Stahl, sodass dein Körper allein Angriffen widersteht, die andere niederstrecken würden.
+    Ob durch drakonische Abstammung, ein Cyborg-Exoskellet oder einfach lebenslange Konditionierung ist deine Haut hart wie Stahl, sodass dein Körper allein Angriffen widersteht, die andere niederstrecken würden.
   effect: |
     Wenn du keine Rüstung trägst, erhälst du einen Bonus auf Deckung und Zähigkeit anhand des Ranges dieser Fertigkeit:
     <ul>
@@ -1972,6 +1972,27 @@
     Ob durch Glück, außergewöhnliche Willenskraft oder großen Mut, kannst du Harme schneller abschütteln als andere. Diese Fertigkeit kann gut zu jedem Charakterkonzept passen: ein Halbling dem das Glück gewogen ist, eine Zauberin mit einer Aura des Schutzes oder ein zerstreuter Professor, der keine Zeit für Störungen seiner Studien hat.
   effect: |
     Du hast Vorteil 1 auf alle Widerstehenwürfe.
+- !
+  name: Rundumtalent
+  OGname: Well-Rounded
+  prerequisites:
+    tier1:
+      Other:
+      - Keine
+  OGprerequisites:
+    tier1:
+      Other:
+      - None
+  tags:
+  - Nicht-Kampf
+  OGtags:
+  - Non-Combat
+  cost:
+  - 2
+  description: |
+    Du hast eine breite Erziehung genossen, viele Erfahrungen gemacht oder einfach großes Glück. Das Resultat ist, dass du auch in Dingen, in denen du nicht spezialisiert bist, ziemlich adept bist.
+  effect: |
+    Wann immer du ein Attribut mit Wert 2 oder weniger für einen Aktionswurf außerhalb des Kampfes nutzt, der nicht zum Wirken eines Harms oder eines Wohls dient, erhälst du Vorteil 1 auf den Wurf.
 - !
   name: Rücksichtsloser Angriff
   OGname: Reckless Attack
@@ -2456,6 +2477,31 @@
     Deine Kampfraserei ist legendär, seist du ein Berserker aus dem kalten Norden, ein Superheld unaufhaltsamer Stärke oder ein cybernetisch abgehärteter Soldat. Du hast die seltene Fähigkeit, weiterzukämpfen, auch wenn dein Körper längst hätte aufgeben sollen.
   effect: |
     Während du in einer Kampftrance bist, kannst du nicht bewusstlos geschlagen werden. Aller Schaden, den du erleidest, muss notiert werden, auch wenn deine Gesamt-TP ins negative gehen. Unabhängig von allem Schaden bleibst du bei Bewusstsein, solange du die Kampftrance aufrechterhalten kannst. Hast du negative TP, wenn die Kampftrance endet, fällst du sofort in Ohnmacht. Wirst du nicht innerhalb von einer Runde danach auf 0 oder mehr TP geheilt, stirbst du.
+- !
+  name: Überwältigender Schlag
+  OGname: Overpowering Strike
+  prerequisites:
+    tier1:
+      Attribute:
+      - Kraft: 4
+  OGprerequisites:
+    tier1:
+      Attribute:
+      - Might: 4
+  tags:
+  - Körperlich
+  - Fertigkeitenkette
+  - Kraft
+  OGtags:
+  - Physical
+  - Feat Chain
+  - Might
+  cost:
+  - 2
+  description: |
+    Im Kampf bist du eine überwältigende Lawine, die Feinde dahinrafft. Die reine Kraft deiner Angriffe ist so groß, dass sie Feinde zurückwirft. Ein Halboger mit einem massiven Baumstamm oder ein Supersoldat, der trainiert ist, das Gewicht seines Gegner für sich zu nutzen, sind gute Beispiele dieser Fertigkeit.
+  effect: |
+    Jedes Mal, wenn du mit einer Waffe mit der Eigenschaft <em>Kraftvoll</em> Schaden zufügst, kannst du dich entscheiden, dein Ziel 5' von dir wegzubewegen.
 - !
   name: Vertiefte Wirkung (I - III)
   OGname: Heightened Invocation (I - III)
