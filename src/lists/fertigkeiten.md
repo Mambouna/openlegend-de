@@ -172,7 +172,7 @@ Dein Rang in dieser Fertigkeit bestimmt den maximalen Wohlstandswert von Items, 
 </ul>
 Beispielsweise kann ein Charakter mit Schöpfung 5 und Rang 1 dieser Fertigkeit ein außerordentliches Item bis Wohlstandswert 3 erschaffen.
 Du kannst einen passenden Wohlstandswert für ein Item anhand der Beispielitems aus <strong>Kapitel 9: Spezialausrüstung</strong> finden oder diesen mit den Regeln aus dem Kapitel <strong>Eigene außergewöhnliche Items konzipieren</strong> daraus bestimmen.
-Ein Item mit den Eigenschaften <em>Konsumgut</em> oder <em>Verbrauchsgut</em> zu erschaffen braucht einen vollen ununterbrochenen 8-Stunden Tag Arbeit[?]. Andere Items brauchen anhand ihres Wohlstandswertes unterschiedlich viel Zeit:
+Ein Item mit den Eigenschaften <em>Konsumgut</em> oder <em>Verbrauchsgut</em> zu erschaffen braucht einen vollen ununterbrochenen Tag an 8 Stunden Arbeit. Andere Items brauchen anhand ihres Wohlstandswertes unterschiedlich viel Zeit:
 <ul>
 <li><strong>Wohlstandswert 1 - 3</strong>: Zwei Tage pro Wohlstandswert.</li>
 <li><strong>Wohlstandswert 4 - 5</strong>: Vier Tage pro Wohlstandswert.</li>
@@ -184,7 +184,7 @@ Am Ende dieser Zeitspanne ist das Item erschaffen. Ein Item zu erschaffen zählt
 > Tags: Außergewöhnlich, Nicht-Kampf
 
 ___
-### Blitzfinger[?] / Schneller als dein Schatten[?]
+### Blitzfinger
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
@@ -288,6 +288,21 @@ Deine Ausdauer und Willenskraft sind legendär, sodass du weitermachen kannst, w
 Du kannst die Auswirkungen des Harms <em>Erschöpft</em> abschütteln. Für jeden Rang in dieser Fertigkeit kannst du dein Level an Erschöpfung als eins weniger behandeln, als es eigentlich ist, um die Effekte des Harms zu bestimmen.
 
 > Tags: Körperlich
+
+___
+### Endlose Bezauberung
+**Kosten:** 3 Punkte
+
+**Voraussetzungen:**  
+- **Rang 1:** Einfluss 4
+
+**Beschreibung**  
+Ob du ein Verzauberer bist, Psychiker oder verrückter Wissenschaftler, du hast die Kunst andere gefügig zu machen gemeistert. Deine Bezauberungen sind so mächtig, dass deine Opfer ihnen permament verfallen können.
+
+**Effekt**  
+Wenn du den Harm <em>Bezaubert</em> wirkst, erleiden Ziele, die ihren Widerstehenwürfe innerhalb von 24 Stunden nicht bestehen, den Harm permanent. Sie erhalten keine weiteren Widerstehenwürfe, um sich von dem Effekt zu befreien. Andere außergewöhnliche Effekte wie z.B. der Harm <em>Annulieren</em> (und weitere passende nach Abwägung des GM) können die permanente Bezauberung weiterhin brechen.
+
+> Tags: Außergewöhnlich, Nicht-Kampf, Einfluss
 
 ___
 ### Energieresistenz (I - IV)
@@ -448,6 +463,21 @@ Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit haben kannst, kann
 > Tags: Keine Voraussetzungen
 
 ___
+### Fährtenleser
+**Kosten:** 1 Punkt
+
+**Voraussetzungen:**  
+- **Rang 1:** Wahrnehmung 4
+
+**Beschreibung**  
+Du bist zur Jagd geboren. Ob du diese Fähigkeiten durch Jahre der Übrung erlangt hast oder sie durch schärfere Sinne besitzt, du verlierst so gut wie nie die Spur deines Ziels, wenn du sie aufgenommen hast.
+
+**Effekt**  
+Solange du nicht geblendet oder durch außergewöhnliche Mächte verwirrt bist, weist du immer die Richtung nach Norden. Weiterhin hast du automatisch für sieben Tage nach dem Aufnehmen der Spur bei allen Versuchen um ihr zu folgen Erfolg. Nur außergewöhnliche Fähigkeiten der Verborgenheit, fliegende Ziele oder andere ungewöhnliche Umstände können dich dein Ziel verlieren lassen.
+
+> Tags: Nicht-Kampf, Geistig, Wahrnehmung
+
+___
 ### Gebietsmanipulation (I - V)
 **Kosten:** 1 Punkt
 
@@ -552,22 +582,6 @@ Du kannst diese Fertigkeit mehrmals erlangen. Für jedes weitere Mal wählst du 
 > Tags: Kraft, Passiv, Kampf, Harm
 
 ___
-### Hart wie Eisen[?] (I - II)
-**Kosten:** 2 Punkte
-
-**Voraussetzungen:**  
-- **Rang 1:** Konstitution 3
-- **Rang 2:** Konstitution 5
-
-**Beschreibung**  
-Du hast eine besonders hohe Schmerztoleranz. Diese Fertigkeit könnte von einem Chitinpanzer, extremem Kampftraining oder einfach einer Lederhaut nach jahrelangem Leben auf der Straße kommen. 
-
-**Effekt**  
-Du erhälst pro Rang dieser Fertigkeit permanent 5 extra TP.
-
-> Tags: Verteidigung, Körperlich, Konstitution
-
-___
 ### Hartnäckiger Harm
 **Kosten:** 3 Punkte
 
@@ -586,43 +600,6 @@ Du kannst diese Fertigkeit mehrmals wählen, wobei du jedes Mal einen anderen Ha
 > Tags: Harm, Kampf
 
 ___
-### Inspirierender Paragon[?] / Paragon[?] (I - III)
-**Kosten:** 2 Punkte
-
-**Voraussetzungen:**  
-- **Rang 1:** Präsenz 4
-- **Rang 2:** Präsenz 5
-- **Rang 3:** Präsenz 6
-
-**Beschreibung**  
-Du kämpfst mit solchem Mut, Heldentum oder Tollheit, dass deine Feinde jenseits ihrer eigenen Grenzen inspiriert sind. Typische Beispiele wären Ritter in glänzender Rüstung, furchtlose Platoonführer und heroische Barden.
-
-**Effekt**  
-Einmal pro Runde, wenn dein Angriffswurf für einen Angriff mit Schaden die Verteidigung des Ziels um 10 oder mehr übertrifft, kannst du deinen Verbündeten Heilung anhand des Ranges der Fertigkeit geben. Die Reichweite des Heileffekts ist 5' x dein Präsenzwert.
-<ul>
-<li><strong>Rang 1</strong> - Ein einziger Verbündeter, der den Angriff sehen kann heilt 1d4 TP.</li>
-<li><strong>Rang 2</strong> - Eine Anzahl Verbündeter gleich deinem Präsenzwert, die den Angriff sehen können, heilen 1d4 TP.</li>
-<li><strong>Rang 3</strong> - Alle Verbündeten, die den Angriff sehen können, heilen 2d4 TP.</li>
-</ul>
-
-> Tags: Sozial, Kampf, Präsenz
-
-___
-### Kampf Follow-Up[?]
-**Kosten:** 2 Punkte
-
-**Voraussetzungen:**  
-- **Rang 1:** Keine
-
-**Beschreibung**  
-Du bist in der Lage, Feinde in schneller Folge zu dezimieren. Wie ein legendärer Samurai oder überragender Elfenschütze fallen deine Gegner in Reihen.
-
-**Effekt**  
-Wann immer du einen Feind mit einer Kraft- oder Beweglichkeitsattacke auf 0 TP bringst, kannst du sofort einen Extraangriff als kostenlose Aktion ausführen.
-
-> Tags: Kampf
-
-___
 ### Kampffokus
 **Kosten:** 3 Punkte
 
@@ -638,7 +615,7 @@ Wähle eine einzige Waffe (oder wähle unbewaffneten Kampf) und gib an, auf welc
 > Tags: Kampf, Körperlich
 
 ___
-### Kampfmomentum
+### Kampfmoment
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
@@ -671,6 +648,21 @@ Als kostenlose Aktion in deinem Zug kannst du dich in Kampftrance versetzen. Wä
 > Tags: Kampf
 
 ___
+### Kettenschlag
+**Kosten:** 2 Punkte
+
+**Voraussetzungen:**  
+- **Rang 1:** Keine
+
+**Beschreibung**  
+Du bist in der Lage, Feinde in schneller Folge zu dezimieren. Wie ein legendärer Samurai oder überragender Elfenschütze fallen deine Gegner in Reihen.
+
+**Effekt**  
+Wann immer du einen Feind mit einer Kraft- oder Beweglichkeitsattacke auf 0 TP bringst, kannst du sofort einen Extraangriff als kostenlose Aktion ausführen.
+
+> Tags: Kampf
+
+___
 ### Klettern
 **Kosten:** 1 Punkt
 
@@ -686,7 +678,22 @@ Du erhälst eine Klettern-Geschwindigkeit gleich deiner Grundgeschwindigkeit und
 > Tags: Nicht-Kampf
 
 ___
-### Konterschlächter[?]
+### Konterschlag
+**Kosten:** 2 Punkte
+
+**Voraussetzungen:**  
+- **Rang 1:** Beweglichkeit 4 / Kraft 4 / Beliebiges Außergewöhnliches 4
+
+**Beschreibung**  
+Du bist ein Meister des Konters. Du könntest flink Vorstöße deiner Gegner auf sie selbst umleiten oder mit einer außergewöhnlichen Barriere die Energie von Angriffen zurückwerfen. Deine Fähigkeiten erlauben es dir nicht nur, Angriffe auf dem Schlachtfeld abzufangen, sondern mit diesen gleichzeitig Vergeltung zu üben.
+
+**Effekt**  
+Wenn du eine Verteidigungsaktion nutzt, fügst du dem Angreifer Schaden gleich der Anzahl zu, mit der dein Aktionswurf das Ergebnis des Angriffswurfs übertrifft.
+
+> Tags: Kraft, Beweglichkeit, Außergewöhnlich, Passiv, Kampf
+
+___
+### Konterschlächter
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
@@ -716,26 +723,11 @@ Du kannst eine große Aktion benutzen, um einem Verbündeten sofort einen Widers
 > Tags: Nicht-Kampf, Außergewöhnlich, Sozial, Schöpfung, Präsenz, Schutz
 
 ___
-### Meisterverfolger[?] / Meisterjäger
-**Kosten:** 1 Punkt
-
-**Voraussetzungen:**  
-- **Rang 1:** Wahrnehmung 4
-
-**Beschreibung**  
-Du bist zur Jagd geboren. Ob du diese Fähigkeiten durch Jahre der Übrung erlangt hast oder sie durch schärfere Sinne besitzt, du verlierst so gut wie nie die Spur deines Ziels, wenn du sie aufgenommen hast.
-
-**Effekt**  
-Solange du nicht geblendet oder durch außergewöhnliche Mächte verwirrt bist, weist du immer die Richtung nach Norden. Weiterhin hast du automatisch für sieben Tage nach dem Aufnehmen der Spur bei allen Versuchen um ihr zu folgen Erfolg. Nur außergewöhnliche Fähigkeiten der Verborgenheit, fliegende Ziele oder andere ungewöhnliche Umstände können dich dein Ziel verlieren lassen.
-
-> Tags: Nicht-Kampf, Geistig, Wahrnehmung
-
-___
-### Mimikri[?]
+### Mimikri
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Wandlung 4
+- **Rang 1:** Wandlung 4 & Täuschung 3
 
 **Beschreibung**  
 Du hast dein Gestaltwandeln perfektioniert und kannst so nicht nur deine Form wandeln, sondern sogar spezifische Kreaturen imitieren. Deine Kräfte könnten aus dem Studium der Täuschungsmagie stammen, von einer Genmutation oder inhärenten außergewöhnlichen Fähigkeiten.
@@ -904,11 +896,33 @@ Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit erwerben kannst, k
 > Tags: Nicht-Kampf
 
 ___
-### Reaktive Trance[?] / Aufmerksame Trance
+### Paragon (I - III)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Willenskraft 5
+- **Rang 1:** Präsenz 4
+- **Rang 2:** Präsenz 5
+- **Rang 3:** Präsenz 6
+
+**Beschreibung**  
+Du kämpfst mit solchem Mut, Heldentum oder Tollheit, dass deine Feinde jenseits ihrer eigenen Grenzen inspiriert sind. Typische Beispiele wären Ritter in glänzender Rüstung, furchtlose Platoonführer und heroische Barden.
+
+**Effekt**  
+Einmal pro Runde, wenn dein Angriffswurf für einen Angriff mit Schaden die Verteidigung des Ziels um 10 oder mehr übertrifft, kannst du deinen Verbündeten Heilung anhand des Ranges der Fertigkeit geben. Die Reichweite des Heileffekts ist 5' x dein Präsenzwert.
+<ul>
+<li><strong>Rang 1</strong> - Ein einziger Verbündeter, der den Angriff sehen kann heilt 1d4 TP.</li>
+<li><strong>Rang 2</strong> - Eine Anzahl Verbündeter gleich deinem Präsenzwert, die den Angriff sehen können, heilen 1d4 TP.</li>
+<li><strong>Rang 3</strong> - Alle Verbündeten, die den Angriff sehen können, heilen 2d4 TP.</li>
+</ul>
+
+> Tags: Sozial, Kampf, Präsenz
+
+___
+### Reaktive Trance
+**Kosten:** 2 Punkte
+
+**Voraussetzungen:**  
+- **Rang 1:** Willenskraft 5 & Fertigkeit: Kampftrance
 
 **Beschreibung**  
 Dein intensiver Fokus lässt sich nicht brechen, sodass du augenblicklich in eine tiefere Trance verfallen kannst. Beispiele dieser Fertigkeit wären ein Berserker, der im ersten Moment der Gefahr in Rage verfällt oder ein allzeit bereiter Revolverheld.
@@ -988,21 +1002,6 @@ Du kannst eine zusätzliche Gelegenheitsattacke pro Rang dieser Fertigkeit, die 
 > Tags: Kraft, Beweglichkeit, Passiv, Kampf, Fertigkeitenkette
 
 ___
-### Schlachtvergeltung
-**Kosten:** 2 Punkte
-
-**Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 4 / Kraft 4 / Beliebiges Außergewöhnliches 4
-
-**Beschreibung**  
-Du bist ein Meister des Konters. Du könntest flink Vorstöße deiner Gegner auf sie selbst umleiten oder mit einer außergewöhnlichen Barriere die Energie von Angriffen zurückwerfen. Deine Fähigkeiten erlauben es dir nicht nur, Angriffe auf dem Schlachtfeld abzufangen, sondern mit diesen gleichzeitig Vergeltung zu üben.
-
-**Effekt**  
-Wenn du eine Verteidigungsaktion nutzt, fügst du dem Angreifer Schaden gleich der Anzahl zu, mit der dein Aktionswurf das Ergebnis des Angriffswurfs übertrifft.
-
-> Tags: Kraft, Beweglichkeit, Außergewöhnlich, Passiv, Kampf
-
-___
 ### Schwimmen
 **Kosten:** 1 Punkt
 
@@ -1018,11 +1017,11 @@ Du erhälst eine Schwimmgeschwindigkeit gleich deiner normalen Geschwindigkeit u
 > Tags: Nicht-Kampf
 
 ___
-### Spurenhund[?]
+### Spurenhund
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 5
+- **Rang 1:** Beweglichkeit 5 & Wahrnehmung 5
 
 **Beschreibung**  
 Einer Spur zu folgen ist für dich so normal wie atmen. Du bist ein erfahrener Waldläufer, Kopfgeldjäger des galaktischen Senats oder ein Katzenmensch mit besseren Sinnen. Deine Expertise erlaubt es dir, Spuren schneller zu verfolgen als durchschnittliche Jäger.
@@ -1048,7 +1047,7 @@ Deine Spur und jegliche Hinweise auf deine Durchreise werden durch besondere Mit
 > Tags: Nicht-Kampf, Schutz, Wandlung, Einfluss
 
 ___
-### Stirb Langsam[?]
+### Stirb Langsam
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -1099,37 +1098,22 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 6
-- **Rang 2:** Beweglichkeit 7
+- **Rang 1:** Beweglichkeit 6 & Fertigkeit: Tödlicher Schlag I
+- **Rang 2:** Beweglichkeit 7 & Fertigkeit: Tödlicher Schlag III
 
 **Beschreibung**  
 Du kannst effizient Feinde töten, die dem Ende nahe sind und ihre Todesschreie verhindern. Diese Art Angriff wird oft unter Schurken, Assassinen und Snipern gefunden, die ihre Feinde still niederstrecken, ohne Aufmerksamkeit auf sich zu ziehen. 
 
 **Effekt**  
 <ul>
-<li><strong>Rang 1</strong> - Falls du einem Feind mit Tödlicher Streich Schaden zufügst und ihre Gesamt-TP danach 5 oder niedriger sind, kannst du dich entscheiden, sie stattdessen auf 0 TP fallen zu lassen. Weiterhin kannst du jeden von dir durch eine Attacke auf 0 TP gebrachten Feind verstummen lassen.</li>
+<li><strong>Rang 1</strong> - Falls du einem Feind mit Tödlicher Schlag Schaden zufügst und ihre Gesamt-TP danach 5 oder niedriger sind, kannst du dich entscheiden, sie stattdessen auf 0 TP fallen zu lassen. Weiterhin kannst du jeden von dir durch eine Attacke auf 0 TP gebrachten Feind verstummen lassen.</li>
 <li><strong>Rang 2</strong> - Die Schwelle für einen Todesstoß ist auf 10 erhöht. Weiterhin fügst du deinem Feind bei einem erfolgreichen Tödlichen Streich automatisch den Harm <em>betäubt</em> zu, wobei dieser nicht gegen das Limit auf max. einen Harm pro Angriff zählt.</li>
 </ul>
 
 > Tags: Kampf, Körperlich
 
 ___
-### Todlose Trance[?]
-**Kosten:** 3 Punkte
-
-**Voraussetzungen:**  
-- **Rang 1:** Konstitution 7
-
-**Beschreibung**  
-Deine Kampfraserei ist legendär, seist du ein Berserker aus dem kalten Norden, ein Superheld unaufhaltsamer Stärke oder ein cybernetisch abgehärteter Soldat. Du hast die seltene Fähigkeit, weiterzukämpfen, auch wenn dein Körper längst hätte aufgeben sollen.
-
-**Effekt**  
-Während du in einer Kampftrance bist, kannst du nicht bewusstlos geschlagen werden. Aller Schaden, den du erleidest, muss notiert werden, auch wenn deine Gesamt-TP ins negative gehen. Unabhängig von allem Schaden bleibst du bei Bewusstsein, solange du die Kampftrance aufrechterhalten kannst. Hast du negative TP, wenn die Kampftrance endet, fällst du sofort in Ohnmacht. Wirst du nicht innerhalb von einer Runde danach auf 0 oder mehr TP geheilt, stirbst du.
-
-> Tags: Außergewöhnlich
-
-___
-### Tödlicher Streich[?] (I - IX)
+### Tödlicher Schlag(I - IX)
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
@@ -1168,11 +1152,11 @@ Du hast Vorteil auf Tödliche Streiche mit Vorteil-Level gleich deines Ranges in
 > Tags: Außergewöhnlich, Beweglichkeit, Kampf
 
 ___
-### Unabdingbare Trance[?]
+### Unabdingbare Trance
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Willenskraft 7
+- **Rang 1:** Willenskraft 7 & Fertigkeit: Kampftrance
 
 **Beschreibung**  
 Im Fokus des Kampfes wirst du unabdingbar. Wie ein Mönch mit stählernem mentalen Fokus oder ein Berserker, der zu blutrünstig ist, um sich aufhalten zu lassen, kannst du nicht durch Furcht, Bezauberung oder ähnliche Effekte gebremst werden.
@@ -1183,22 +1167,22 @@ Während du in einer Kampftrance liegst, bist du immun gegen Harme, die auf dein
 > Tags: Kampf
 
 ___
-### Unsterbliche Bezauberung[?]
+### Unsterbliche Trance
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Einfluss 4
+- **Rang 1:** Konstitution 7 & Fertigkeit: Kampftrance
 
 **Beschreibung**  
-Ob du ein Verzauberer bist, Psychiker oder verrückter Wissenschaftler, du hast die Kunst andere gefügig zu machen gemeistert. Deine Bezauberungen sind so mächtig, dass deine Opfer ihnen permament verfallen können.
+Deine Kampfraserei ist legendär, seist du ein Berserker aus dem kalten Norden, ein Superheld unaufhaltsamer Stärke oder ein cybernetisch abgehärteter Soldat. Du hast die seltene Fähigkeit, weiterzukämpfen, auch wenn dein Körper längst hätte aufgeben sollen.
 
 **Effekt**  
-Wenn du den Harm <em>Bezaubert</em> wirkst, erleiden Ziele, die ihren Widerstehenwürfe innerhalb von 24 Stunden nicht bestehen, den Harm permanent. Sie erhalten keine weiteren Widerstehenwürfe, um sich von dem Effekt zu befreien. Andere außergewöhnliche Effekte wie z.B. der Harm <em>Annulieren</em> (und weitere passende nach Abwägung des GM) können die permanente Bezauberung weiterhin brechen.
+Während du in einer Kampftrance bist, kannst du nicht bewusstlos geschlagen werden. Aller Schaden, den du erleidest, muss notiert werden, auch wenn deine Gesamt-TP ins negative gehen. Unabhängig von allem Schaden bleibst du bei Bewusstsein, solange du die Kampftrance aufrechterhalten kannst. Hast du negative TP, wenn die Kampftrance endet, fällst du sofort in Ohnmacht. Wirst du nicht innerhalb von einer Runde danach auf 0 oder mehr TP geheilt, stirbst du.
 
-> Tags: Außergewöhnlich, Nicht-Kampf, Einfluss
+> Tags: Außergewöhnlich
 
 ___
-### Verstärkte Wirkung[?] (I - III)
+### Vertiefte Wirkung (I - III)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
@@ -1210,7 +1194,7 @@ ___
 Indem du deine außergewöhnlichen Kräfte durch tiefere Recherche oder komplexere Rituale wie Meditation, Fasten, Blutlassen oder Ritualopfer unterstützt, erhöhst du die Macht deines Wirkens. Diese Fertigkeit ist bei Magiern, Erfindern, verrückten Wissenschaftlern und ähnlichen Charakteren bekannt.
 
 **Effekt**  
-Wenn du einen Harm oder ein Wohl wirkst, kannst du dich entscheiden, dies als Verstärkte Wirkung zu tun. Die Wirkzeit für eine Verstärkte Wirkung ist um einen Grad länger als normal:
+Wenn du einen Harm oder ein Wohl wirkst, kannst du dich entscheiden, dies als Vertiefte Wirkung zu tun. Die Wirkzeit für eine Vertiefte Wirkung ist um einen Grad länger als normal:
 <ul>
 <li>1 Aktion wird 1 Minute</li>
 <li>1 Minute wird 10 Minuten</li>
@@ -1219,19 +1203,19 @@ Wenn du einen Harm oder ein Wohl wirkst, kannst du dich entscheiden, dies als Ve
 <li>8 Stunden werden 24 Stunden</li>
 </ul>
 
-<strong>Rang 1</strong> - Wenn du eine Verstärkte Wirkung durchführst, kannst du einen der folgenden Effekte wählen, der den Harm oder das Wohl betrifft:<br>
+<strong>Rang 1</strong> - Wenn du eine Vertiefte Wirkung durchführst, kannst du einen der folgenden Effekte wählen, der den Harm oder das Wohl betrifft:<br>
   <ul>
   <li>Erhöhe die Reichweite des Harms oder Wohls:
-    Attributwert 5 = 500 Fuß<br />
-    Attributwert 6 = 1/2 Meile<br />
-    Attributwert 7 = 1 Meile<br />
-    Attributwert 8 = 10 Meilen<br />
-    Attributwert 9 = 100 Meilen<br /></li>
+    Attributwert 5 = 500 Fuß<br/>
+    Attributwert 6 = 1/2 Meile<br/>
+    Attributwert 7 = 1 Meile<br/>
+    Attributwert 8 = 10 Meilen<br/>
+    Attributwert 9 = 100 Meilen<br/></li>
   <li>Neutralisiere zwei Level Nachteil, die durch Multi-Zielen bewirkt werden (z.B. kannst du auf zwei Kreaturen oder ein 10' Gebiet zielen, ohne Nachteil zu erhalten).</li>
   <li>Behandle deinen Attributwert zum Bestimmen der Attributwürfel für diese Wirkung als eins höher als er eigentlich ist. Dies gibt dir nicht Zugang zu weiteren Harmen oder Wohlen, sondern betrifft nur die für den Wurf genutzten Würfel.</li>
   </ul>
 
-<strong>Rang 2</strong> - Du erhälst die folgenden Optionen, wenn du eine Verstärkte Wirkung nutzt:
+<strong>Rang 2</strong> - Du erhälst die folgenden Optionen, wenn du eine Vertiefte Wirkung nutzt:
   <ul>
     <li>Du kannst andere in einer Gruppenwirkung anleiten, solange sie den Harm oder das Wohl auf dem gleichen Kraftlevel wie du wirken können. Nach erfolgreicher Gruppenwirkung kann jeder beteiligte Charakter einen der Effekte von Rang 1 dieser Fertigkeit auswählen.</li>
     <li>Du erhälst die folgenden weiteren Optionen, um deine Wirkung zu erweitern:
@@ -1243,9 +1227,9 @@ Wenn du einen Harm oder ein Wohl wirkst, kannst du dich entscheiden, dies als Ve
 
 <strong>Rang 3</strong> - Du erhälst die Fähigkeit, Harme und Wohle permanent zu gewähren oder aufzulösen. Um einen Harm oder ein Wohl zu übertragen, musst du dich für eine Anzahl Tage gleich des Kraftlevels vollständig mit der Verstärkten Wirkung beschäftigen. In dieser Zeit kannst du Essen, Trinken und mit zwei Ausnahmen sonst normal Handeln: 1) Du musst jeden Tag aktiv und ohne große Unterbrechungen 8 Stunden an der Wirkung des Harms oder Wohls arbeiten. 2) Du kannst dich generell frei bewegen und das Gebiet verlassen, aber für die 8 Stunden pro Tag musst du am gleichen Ort sein, an dem die Wirkung begonnen wurde. Wenn die Wirkzeit vollständig ist, mache deinen Aktionswurf je nach intendierter Anwendung:
 <ul>
-<li><strong>Wohl gewähren</strong> - Mache einen normalen Aktionswurf, um das Wohl zu wirken. Bei Erfolg kannst du deinem Ziel ein nicht-augenblickliches und nicht-permanentes Wohl gewähren. Das Ziel kann das Wohl danach als kostenlose Aktion wirken, ohne dazu einen Aktionswurf zu benötigen. Das Ziel muss keine Aktionen nutzen, um das Wohl aufrechtzuerhalten und es kann nur temporär durch den Harm <em>Annullieren</em> neutralisiert werden. Um das Wohl permanent zu neutraliesieren (das gewährte Wohl aufzuheben), muss Verstärkte Wirkung mit dem Effekt Wohl bannen benutzt werden (siehe folgende Absätze).</li>
+<li><strong>Wohl gewähren</strong> - Mache einen normalen Aktionswurf, um das Wohl zu wirken. Bei Erfolg kannst du deinem Ziel ein nicht-augenblickliches und nicht-permanentes Wohl gewähren. Das Ziel kann das Wohl danach als kostenlose Aktion wirken, ohne dazu einen Aktionswurf zu benötigen. Das Ziel muss keine Aktionen nutzen, um das Wohl aufrechtzuerhalten und es kann nur temporär durch den Harm <em>Annullieren</em> neutralisiert werden. Um das Wohl permanent zu neutraliesieren (das gewährte Wohl aufzuheben), muss Vertiefte Wirkung mit dem Effekt Wohl bannen benutzt werden (siehe folgende Absätze).</li>
 <li><strong>Harm gewähren</strong> - Mache einen normalen Aktionswurf, um den Harm zu wirken. Bei Erfolg kannst du deinem Ziel einen nicht-augenblicklichen und nicht-permanenten Harm zufügen. Der Harm hält ohne Zeitlimit an und erlaubt keine Widerstehenwürfe, um ihn zu beenden. Der Effekt kann nur temporär mit dem Harm <em>Annullieren</em> oder permanent mit einer Verstärkten Wirkung mit der Anwendung Harm bannen benutzt werden (siehe folgende Absätze).</li>
-<li><strong>Wohl bannen[?]</strong> - Mache einen Vergehenwurf mit einem Herausforderungswert von 10 + 2 x Kraftlevel des Wohls, das du bannen willst. Bei Erfolg entfernst du ein permanentes Wohl vom Ziel, sodass dieses dessen Effekte und die Fähigkeit verliert, es zu wirken.</li>
+<li><strong>Wohl bannenstrong> - Mache einen Vergehenwurf mit einem Herausforderungswert von 10 + 2 x Kraftlevel des Wohls, das du bannen willst. Bei Erfolg entfernst du ein permanentes Wohl vom Ziel, sodass dieses dessen Effekte und die Fähigkeit verliert, es zu wirken.</li>
 <li><strong>Harm bannen</strong> - Mache einen Schutzwurf mit einem Herausforderungswert von 10 + 2 x Kraflevel des Harms, den du bannen willst. Bei Erfolg entfernst du einen permanenten Harm vom Ziel, wobei das Ziel aber keine Resistenz oder Immunität gegen den Harm für die Zukunft erhält.</li>
 </ul>
 
@@ -1380,7 +1364,7 @@ Dein Wohlstandswert ist um 1 erhöht.
 > Tags: Nicht-Kampf
 
 ___
-### Wohlzugang[?]
+### Wohlzugang
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
@@ -1418,11 +1402,11 @@ Einmal pro Runde, nachdem du deine große Aktion der nächsten Runde für eine V
 > Tags: Verteidigung, Körperlich, Außergewöhnlich
 
 ___
-### Zermalmender Treffer[?]
+### Zermalmender Treffer
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Kraft 6
+- **Rang 1:** Kraft 6 & Fertigkeit: Überwältigender Schlag
 
 **Beschreibung**  
 Wie ein leichtsinniger Oger, der durch den Kampf wadet, werfen deine unermüdlichen Streiche Feinde nicht nur zurück, sondern auch noch zu Boden.
@@ -1448,7 +1432,7 @@ Wenn du einen Angriffswurf in Kampftrance machst, explodieren alle Würfel mit i
 > Tags: Außergewöhnlich, Kraft
 
 ___
-### Zielwasser[?] / Weitschuss
+### Zielwasser
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
@@ -1467,11 +1451,11 @@ Du kannst diese Fertigkeit mehrmals erhalten, wobei du jedes Mal neue Waffen ode
 > Tags: Kampf
 
 ___
-### Zweiwaffen Kämpfer[?]
+### Zweiwaffenkämpfer
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 4
+- **Rang 1:** Beweglichkeit 4 & Kraft 5 & Fertigkeit: Multiangriffsspezialisierung
 
 **Beschreibung**  
 Du bist stark als auch schnell und in der Lage, in einer Hand Waffen zu führen, für die andere beide Hände benötigen würden. Gute Beispiele dieser Fertigkeit im Spiel sind orkische Barbaren, die in einer Hand eine Großaxt und in der anderen einen Schild führen oder ein Überlebender in der Zombie-Apokalypse, der zwei Kettensägen führt.
@@ -1486,7 +1470,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 4
+- **Rang 1:** Beweglichkeit 4 & Fertigkeit: Angriffsspezialisierung
 
 **Beschreibung**  
 Deine Meisterschaft im Kämpfen mit zwei Waffen erlaubt es dir, Feinde nicht nur mit blitzschnellen Angriffen einzudecken, sondern dich auch exzellent durch das Abwenden von Schlägen zu verteidigen. Duelisten, Waldläufer und Raumpiraten sind Konzepte, zu denen diese Fertigkeit gut passen könnte.
@@ -1497,18 +1481,19 @@ Wenn du eine Waffe, für die du die Fertigkeit <em>Angriffsspezialisierung</em> 
 > Tags: Kampf, Körperlich, Beweglichkeit
 
 ___
-### Überwältigender Schlag
+### Zäh wie Leder (I - II)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Kraft 4
+- **Rang 1:** Konstitution 3
+- **Rang 2:** Konstitution 5
 
 **Beschreibung**  
-Im Kampf bist du eine überwältigende Lawine, die Feinde dahinrafft. Die reine Kraft deiner Angriffe ist so groß, dass sie Feinde zurückwirft. Ein Halboger mit einem massiven Baumstamm oder ein Supersoldat, der trainiert ist, das Gewicht seines Gegner für sich zu nutzen, sind gute Beispiele dieser Fertigkeit.
+Du hast eine besonders hohe Schmerztoleranz. Diese Fertigkeit könnte von einem Chitinpanzer, extremem Kampftraining oder einfach einer Lederhaut nach jahrelangem Leben auf der Straße kommen. 
 
 **Effekt**  
-Jedes Mal, wenn du mit einer Waffe mit der Eigenschaft <em>Kraftvoll</em> Schaden zufügst, kannst du dich entscheiden, dein Ziel 5' von dir wegzubewegen.
+Du erhälst pro Rang dieser Fertigkeit permanent 5 extra TP.
 
-> Tags: Körperlich, Fertigkeitenkette, Kraft
+> Tags: Verteidigung, Körperlich, Konstitution
 
 ___

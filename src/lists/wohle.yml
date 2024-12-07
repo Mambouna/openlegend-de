@@ -25,7 +25,7 @@
     Deine Fähigkeit, eine Kreatur zu animieren, gibt dir nicht die Fähigkeit, diese permanent zu kontrollieren. Neu erschaffene Wesen liegen aber unter dem *bezaubert*-Harm (siehe unten) und behandeln dich so direkt nach ihrer Erschaffung wohlwollend.
     Der GM, nicht der Spieler, ist dafür verantwortlich, die Attribute und Fähigkeiten der animierten Kreatur zu entscheiden und sollte dabei den Leitlinien unter "Einfacher Aufbau" für das Erstellen von NPCs in Kapitel 8: Das Spiel leiten folgen. Kreaturen, die mit diesem Wohl erschaffen werden, sind typischerweise auf weniger als menschliche Intelligenz beschränkt, wie bei Zombies, Kampfdroiden oder Golems.
     <ul>
-    <li><strong>Kraftlevel 6 - </strong> Du kannst eine einzige Kreatur animieren. Dein dafür genutztes Attribut muss gleich oder höher dem höchsten Attributwert der Kreatur sein, die du animierst. Bei einem erfolgreichen Wirken, entsteht die Kreatur mit dem <em>bezaubert</em>-Harm (leichte Bezauberung[?]) schon auf sie angewendet (kein Wurf ist dafür nötig).</li>
+    <li><strong>Kraftlevel 6 - </strong> Du kannst eine einzige Kreatur animieren. Dein dafür genutztes Attribut muss gleich oder höher dem höchsten Attributwert der Kreatur sein, die du animierst. Bei einem erfolgreichen Wirken, entsteht die Kreatur mit dem <em>bezaubert</em>-Harm (oberflächliche Bezauberung) schon auf sie angewendet (kein Wurf ist dafür nötig).</li>
     <li><strong>Kraftlevel 8 - </strong> Du kannst dich entscheiden, eine Gruppe Kreaturen zu animieren: Entweder 10 Kreaturen mit einem maximalen Attributwert von 2, 5 Kreaturen mit einem maximalen Attributwert von 3 oder 2 Kreaturen mit einem maximalen Attributwert von 5. Weiterhin kommen alle diese Kreaturen mit dem Harm <em>Tiefe Bezauberung</em> in ihre Existenz statt <em>leichte Bezauberung</em>.</li>
     </ul>
 - !
@@ -201,6 +201,35 @@
     Du erschaffst ein Gebiet illusorischer Dunkelheit oder entropischer Energie, die alles Licht verlischen lässt. Dieses Wohl ist beliebt unter Illusionisten, Schattenwebern, Psionikern und verrückten Wissenschaftlern.
   effect: |
     Wähle einen Raum oder ein Objekt in deiner Reichweite. Dunkelheit quillt aus dem Ziel hervor bis zu einem Radio von 5 Fuß pro Kraftlevel des Wohls. Dieser Effekt annuliert die Wirkung von allem natürlichen Licht innerhalb seines Radius und Kreaturen, die sich für ihre Sicht auf Licht verlassen, erleiden die gleichen Nachteile, als würden sie den *geblendet*-Harm haben, während sie im Gebiet dieses Wohls sind. Kreaturen, die sich für ihre Sicht nicht auf Licht verlassen (z.B. durch Vibrationssinne, Blindsicht, usw. ...) werden nicht eingeschränkt. Falls das Gebiet der Dunkelheit sich mit dem eines Licht-Wohls überschneidet, dann wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen im betroffenen Gebiet wieder die natürlichen Lichtverhältnisse, als gäbe es keine der beiden Wohle.
+- !
+  name: Durchblick
+  OGname: Truesight
+  tags:
+  - Außergewöhnlich
+  OGtags:
+  - Extraordinary
+  power:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  attribute:
+  - Vorwissen
+  OGattribute:
+  - Prescience
+  invocationTime: 1 große Aktion
+  duration: Aufrechterhalten verlängert
+  description: |
+    Du verleihst dir oder einem Verbündeten die Fähigkeit, das wahrzunehmen, was nicht mit normalen Sinnen erfasst werden kann. Hindernisse, die normale Sicht aufhalten würden - Dunkelheit, feste Gegenstände, Illusionen und sogar Grenzen zwischen den Realitätsebenen - werden durchbrochen. Diese Kraft könnte von übernatürlichen Sinnen stammen, himmlischem Segen, cybernetisch verbesserten Sinnesorganen oder aus ähnlichen Quellen.
+  effect: |
+    <ul>
+      <li><strong>Kraftlevel 5</strong> - Das Ziel sieht die Präsenz außergewöhnlicher Effekte wie Magie, Stealth-Technologie und anderer Art, die außervisuell wahrgenommen werden können. Weiterhin gibt dieses Wohl Vorteil 1 auf Würfe, mit denen einfache Verborgenheit wie bei versteckten Durchgänge, doppelten Böden und Fallen oder anderen Gefahren durchschaut werden soll.</li>
+      <li><strong>Kraftlevel 6</strong> - Die außergewöhnliche Sicht des Ziels durchdringt natürliche und magische Dunkelheit.</li>
+      <li><strong>Kraftlevel 7</strong> - Die außergewöhnliche Sicht des Ziels durchdringt alle Arten illusorischer Effekte, sodass es auch <em>Phantome</em> durchschaut.</li>
+      <li><strong>Kraftlevel 8</strong> - Das Ziel kann durch feste Materialien hindurchsehen und seine normale Sichtweite bleibt von ihnen unbehindert.</li>
+      <li><strong>Kraftlevel 9</strong> - Die außergewöhnliche Sicht lässt das Ziel in andere Realitätsebenen oder Dimensionen blicken. Es kann in Taschendimensionen und andere Realitätsebenen sehen, die mit der momentanen überlappen. Weiterhin ist die Sichtweite des Ziels stark erweitert.</li>
+    </ul>
 - !
   name: Flug
   OGname: Flight
@@ -713,7 +742,7 @@
     <li><strong>Kraftlevel 9</strong> - Transmutiere ein simples Objekt <em>permanent</em> in ein einfaches oder komplexes Objekt. Das resultierende Objekt muss Wohlstandswert 2 oder niedriger entsprechen.</li>
     </ul>
 - !
-  name: Treusicht[?]
+  name: Treusicht
   OGname: Seeing
   tags:
   - Außergewöhnlich
@@ -946,26 +975,3 @@
     </ul>
   special: |
     Du kannst auch Harme über dem Kraftlevel dieses Wohls auflösen. Dafür muss das Wohl mit einem Aktionswurf gewirkt worden sein (diese Anwendung kann also nicht durch automatischen Erfolg wie bei der Fertigkeit <em>Wohlfokus</em> erreicht werden). Der Herausforderungswert, um einen Harm höheren Kraftlevels zu lösen ist gleich 20 + 2 x Kraftlevel des Harms. Ein Harm von Kraftlevel 9 kann also mit einem Wurfergebnis von 38 beim Aktionswurf für dieses Wohl aufgelöst werden, selbst wenn der wirkende Charakter keinen Attributwert von 9 im genutzten Attribut hat.
-- !
-  name: Zungen
-  OGname: Tongues
-  tags:
-  - Außergewöhnlich
-  OGtags:
-  - Extraordinary
-  power:
-  - 5
-  - 6
-  attribute:
-  - Vorwissen
-  OGattribute:
-  - Prescience
-  invocationTime: 10 Minuten
-  duration: Aufrechterhalten verlängert
-  description: |
-    Du oder ein Verbündeter erhalten temporär die Fähigkeit, Sprachen zu sprechen, lesen und schreiben, die sie normalerweise nicht beherrschen. Diese Fähigkeit stammt von interplanaren Geistern, überintelligenter KI, absurder Lernfähigkeit in Linguistik oder ähnlichen Quellen.
-  effect: |
-    <ul>
-    <li><strong>Kraftlevel 5</strong> - Dein Ziel kann eine Sprache deiner Wahl verstehen und sprechen.</li>
-    <li><strong>Kraftlevel 6</strong> - Dein Ziel kann eine Sprache deiner Wahl lesen.</li>
-    </ul>

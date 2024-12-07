@@ -92,7 +92,7 @@
   special: |
     Wenn das Wohl, das aufgelöst werden soll, ein Gebiet abdeckt, kannst du es auflösen, indem du ein beliebigen Abschnitt davon anvisierst, den du sehen kannst oder indem du eine Reihe an 5' Würfeln als Ziele setzt, in denen du die Wirkung des Wohls vermutest. Falls das Wohl ein Gebiet abdeckt, statt auf einer Kreatur zu liegen, wirfst du gegen einen HW des Wohls anstatt gegen eine Entschlossenheit-Verteidigung. Der HW ist 10 + 2 x Kraftlevel des Wohls.
 - !
-  name: Beruhigt[?]
+  name: Benommen
   OGname: Stupefied
   tags:
   - Außergewöhnlich
@@ -109,7 +109,7 @@
   invocationTime: 1 große Aktion
   duration: Widerstehen beendet (3 Fehlschläge = 1 Minute)
   description: |
-    Der Harm Beruhigt findet sich in vielen Geschichten und Legenden: die Augen eines Vampirs, das Lied der Sirenen, die Schönheit einer Nymphe. Sie alle sind dafür bekannt, Sterbliche mit schwachem Geist einzulullen. Beruhigt zu sein lässt das Ziel sich entgegen der eigentlichen Umstände sicher, ruhig und friedlich fühlen.
+    Der Harm Benommen findet sich in vielen Geschichten und Legenden: die Augen eines Vampirs, das Lied der Sirenen, die Schönheit einer Nymphe. Sie alle sind dafür bekannt, Sterbliche mit schwachem Geist einzulullen. Benommen zu sein lässt das Ziel sich entgegen der eigentlichen Umstände sicher, ruhig und friedlich fühlen.
   effect: |
     Das Ziel hat einen benebelten Geist, sodass seine mentale Verteidigung verringert ist. Während es vom Harm betroffen ist, ist seine Entschlossenheit-Verteidung auf 10 verringert. Weiterhin hat das Ziel etwa die Intelligenz eines Kindes. Falls es angegriffen wird, verteidigt es sich mit seinen natürlichen Waffen (Hände, Füße, Klauen, Schnabel, usw. ...), bis der Angriff aufhört. Das Ziel wird nie komplexe Taktiken oder Fähigkeiten wie Zauber anwenden. Falls das Ziel Feuer sieht oder Schmerzen fühlt, wird es fliehen.
   special: |
@@ -208,13 +208,13 @@
   description: |
     Bezauberungen sind unter den berüchtigsten Zaubern, geführt von mächtigen Magierinnen wie Circe (aus Homers Odyssee), Nymphen, Psychikern und anderen Charakteren, die den Willen anderer durch die Magie der Liebe oder Freundschaft kontrollieren.
   effect: |
-    Der Harm Bezaubert kann nur durch eine Harmattacke zugefügt werden. Angriffe mit Schaden, die Harme bewirken können, können diesen Harm nicht zufügen. Der Harm Bezaubert kann sich auf zwei Graden ausdrücken: leicht und tief[?].
-    <strong>Leichte Bezauberung</strong> - Das Ziel ist mental angehalten, dir gegenüber freundlicher zu werden. Seine Haltung ändert sich nur moderat. Falls das Ziel kurz davor ist, dich anzugreifen, wird es sich zurückhalten - immer noch wütend und feindlich gesinnt, aber nicht mehr gewalttätig. Will das Ziel dir helfen und und ist abgesehen von Zweifeln gewillt, dir zu trauen, dann werden diese Zweifel schwinden.
+    Der Harm Bezaubert kann nur durch eine Harmattacke zugefügt werden. Angriffe mit Schaden, die Harme bewirken können, können diesen Harm nicht zufügen. Der Harm Bezaubert kann sich auf zwei Graden ausdrücken: oberflächlich und tief.
+    <strong>Oberflächliche Bezauberung</strong> - Das Ziel ist mental angehalten, dir gegenüber freundlicher zu werden. Seine Haltung ändert sich nur moderat. Falls das Ziel kurz davor ist, dich anzugreifen, wird es sich zurückhalten - immer noch wütend und feindlich gesinnt, aber nicht mehr gewalttätig. Will das Ziel dir helfen und und ist abgesehen von Zweifeln gewillt, dir zu trauen, dann werden diese Zweifel schwinden.
     <strong>Tiefe Bezauberung</strong> - Der wirkende Charakter wählt aus, ob die tiefe Bezauberung platonischer oder romantischer Natur ist. Falls sie platonisch ist, lässt die Bezauberung das Zeil den wirkenden Charakter für seinen oder ihren besten Freund halten und schätzt sie als eine der vertrauenswürdigsten und nobelsten Personen ein, die er oder sie je gekannt hat. Alternativ kann der wirkende Charakter die Bezauberung sich als romantische Liebe manifestieren lassen. Das Ziel ist nicht mehr in der Lage, gegen den wirkenden Charakter zu handeln und wird den wirkenden Charakter (so bald er oder sie kann) vor kommenden Gefahren warnen, von denen er oder sie erfährt. Das Ziel wird sofort allen gegenüber misstrauisch, die schlecht vom wirkenden Charakter sprechen.
     Das Ziel ist mental dazu angehalten, dich mehr zu mögen und dir mehr zu vertrauen, je nach Kraftlevel des Harmes bei der Wirkung:
       <ul>
-      <li><strong>Kraftlevel 3</strong> - Du kannst Kreaturen von tierischer Intelligenz oder weniger mit leichter Bezauberung belegen.</li>
-      <li><strong>Kraftlevel 4</strong> - Du kannst Kreaturen humanoider Intelligenz oder weniger mit leichter Bezauberung belegen - ODER - du kannst Kreaturen von tierischer Intelligenz oder weniger mit tiefer Bezauberung belegen.</li>
+      <li><strong>Kraftlevel 3</strong> - Du kannst Kreaturen von tierischer Intelligenz oder weniger mit oberflächlicher Bezauberung belegen.</li>
+      <li><strong>Kraftlevel 4</strong> - Du kannst Kreaturen humanoider Intelligenz oder weniger mit oberflächlicher Bezauberung belegen - ODER - du kannst Kreaturen von tierischer Intelligenz oder weniger mit tiefer Bezauberung belegen.</li>
       <li><strong>Kraftlevel 6</strong> - Du kannst Kreaturen von humanoider Intelligenz oder weniger mit tiefer Bezauberung belegen.</li>
       </ul>
   special: |
@@ -292,12 +292,12 @@
   description: |
     Manche legendäre Geschichten erzählen von Vampiren, Zauberern oder verrückten Wissenschaftlern, die Armeen dominierter Sklaven anführen, die willenlos ihren Befehlen folgen.
   effect: |
-    Der Harm Dominiert kann sich auf zwei Graden ausdrücken: leicht und tief[?].
-    <strong>Leicht Dominiert</strong> - Das Ziel gehorcht einem Befehl, bestehend aus einem Wort, bis zum Ende des nächsten Zuges. An diesem Punkt endet der Harm sofort.
+    Der Harm Dominiert kann sich auf zwei Graden ausdrücken: oberflächlich und tief.
+    <strong>Oberflächlich Dominiert</strong> - Das Ziel gehorcht einem Befehl, bestehend aus einem Wort, bis zum Ende des nächsten Zuges. An diesem Punkt endet der Harm sofort.
     <strong>Tief Dominiert</strong> - Jede Bewegung und jede Aktion des Ziels steht unter deiner Kontrolle. Anders als beim Harm Bezaubert, verliert das Ziel von Dominiert Kontrolle über seine eigenen Aktionen. Sein Geist dagegen kämpft gegen den eigenen Körper an. Das Ziel kann keine Aktionen ausführen, die nicht explizit von dir befohlen wurden. Jeder Befehl, der dem Ziel gegeben wird, der der eigentlichen Natur des Ziels massiv widerspricht, gibt dem Ziel einen Widerstehenwurf als kostenlose Aktion, um den Effekt von Dominiert zu beenden. Der wirkende Charakter erhält keinen Zugang zum Geist des Ziels und kann dem Ziel so nur Befehle für Aktionen geben, von denen er weiß oder vermutet, dass das Ziel zu ihnen in der Lage ist. Jeder mentale Befehl, den der wirkende Charakter dem Ziel gibt, ist eine große Aktion. Der Befehl selbst kann aber aus einer Reihe verbaler Anweisungen bestehen, wie zum Beispiel "Greife den Gegner X an, außer jemand kommt durch die Tür. In diesem Fall sollst du fliehen." Die dominierte Kreatur wird dem letzten erhaltenen mentalen Befehl gehorchen, bis sie einen neuen Befehl von dir erhält. Nur einem Befehl kann gleichzeitig gehorcht werden. Tiefe Dominierung hat eine Dauer von Widerstehen beendet (3 Fehlschläge = 1 Stunde).
       <ul>
-      <li><strong>Kraftlevel 3</strong> - Du kannst Kreaturen nichtmenschlicher Intelligenz (Tiefe, manche Elementare, bestimmte Untote, usw. ...) mit Leicht Dominiert belegen.</li>
-      <li><strong>Kraftlevel 5</strong> - Du kannst Kreaturen menschlicher Intelligenz oder höher mit Leicht Dominiert belegen - ODER - du kannst Kreaturen nichtmenschlicher Intelligenz mit Tief Dominiert belegen.</li>
+      <li><strong>Kraftlevel 3</strong> - Du kannst Kreaturen nichtmenschlicher Intelligenz (Tiefe, manche Elementare, bestimmte Untote, usw. ...) mit Oberflächlich Dominiert belegen.</li>
+      <li><strong>Kraftlevel 5</strong> - Du kannst Kreaturen menschlicher Intelligenz oder höher mit Oberflächlich Dominiert belegen - ODER - du kannst Kreaturen nichtmenschlicher Intelligenz mit Tief Dominiert belegen.</li>
       <li><strong>Kraftlevel 9</strong> - Du kannst Kreaturen menschlicher Intelligenz oder höher mit Tief Dominiert belegen.</li>
       </ul>
   special: |
@@ -600,7 +600,7 @@
     Du verändert die Erinnerungen eines Ziels zu einem Maß bestimmt durch das Kraftlevel des Harms.
     <ul>
     <li><strong>Kraftlevel 5</strong> - Du modifizierst temporär einen minderen Aspekt der Erinnerungen des Ziels. Das Ziel erhält seine normalen Erinnerungen automatisch nach einer Stunde zurück und bemerkt die Manipulation.</li>
-    <li><strong>Kraftlevel 6</strong> - Du löschst oder veränderst permanent die letzten 5 Minuten der Erinnerungen deines Ziels. Das Ziel ist sich nur der Erinnerungen aus dieser Zeit bewusst, die du ihm eingeflößt hast (darunter auch, ob es dich gesehen hat oder nicht). Weitere Nutzungen dieses Harms löschen oder verändern aneinanderliegende weitere 5 Minutenabschnitte der Erinnerung des Ziels.[?]</li>
+    <li><strong>Kraftlevel 6</strong> - Du löschst oder veränderst permanent die letzten 5 Minuten der Erinnerungen deines Ziels. Das Ziel ist sich nur der Erinnerungen aus dieser Zeit bewusst, die du ihm eingeflößt hast (darunter auch, ob es dich gesehen hat oder nicht). Weitere Nutzungen dieses Harms löschen oder verändern aneinanderliegende weitere 5 Minutenabschnitte der Erinnerung des Ziels.</li>
     <li><strong>Kraftlevel 8</strong> - Anstatt der direkten Vergangenheit kannst du die Erinnerungen einer beliebigen Zeit ändern oder löschen.</li>
     </ul>
     Der Harm Gedächtnismanipulation kann nur durch einen Harmangriff zugefügt werden. Angriffe mit Schaden, die Harme bewirken, können diesen Harm nicht zufügen.
@@ -688,7 +688,7 @@
   effect: |
     Das Ziel fällt zu Boden. Ziele am Boden haben Nachteil 1 auf alle Angriffe, die sich ausführen. Charaktere, die am Boden liegen, haben +2 Deckung gegen Fernkampfangriffe und -2 Deckung auf Nahkampfangriffe. Aufzustehen bedarf einer Bewegungsaktion und kostet einen Charakter die Hälfte (abgerundet) seiner Geschwindigkeit für die Runde.
 - !
-  name: Phantom[?] / Illusion
+  name: Phantom
   OGname: Phantasm
   tags:
   - Außergewöhnlich
@@ -917,35 +917,3 @@
     Die Bewegung des Ziels ist erschwert, z.B. durch extreme Kälte, andauernde Hitze, Gift oder die Verwundung beider Beine. Diesen Harm findet man bei Schurken, Eismagiern, Telekinetisten und Revolverhelden.
   effect: |
     Die Geschwindigkeit des betroffenen Ziels ist um die Hälfte reduziert, abgerundet zum nächsten Vielfachen von 5'. Das gilt für alle körperliche Bewegung (Flug, Laufen, Klettern, usw. ...). Falls das Ziel momentan einen magischen Effekt hat, der seine Geschwindigkeit erhöht, neutralisieren sich beide Effekte, solange sie auf das Ziel wirken.
-- !
-  name: Verstummt
-  OGname: Silenced
-  tags:
-  - Außergewöhnlich
-  - Körperlich
-  OGtags:
-  - Extraordinary
-  - Physical
-  power:
-  - 2
-  attackAttributes:
-  - Beweglichkeit
-  - Wandlung
-  - Vergehen
-  - Kraft
-  OGattackAttributes:
-  - Agility
-  - Alteration
-  - Entropy
-  - Might
-  attack:
-  - Beweglichkeit vs. Zähigkeit
-  - Wandlung vs. Zähigkeit
-  - Vergehen vs. Zähigkeit
-  - Kraft vs. Zähigkeit
-  invocationTime: 1 große Aktion
-  duration: Widerstehen beendet (3 Fehlschläge = 1 Minute)
-  description: |
-    Stille breitet sich um das Ziel aus, egal ob durch das Manipulieren von Schallwellen um das Ziel oder physischen Effekten wie Erwürgen oder Ersticken. Der Harm Verstummt ist verbreitet bei Assassinen, Zauberern, Ingenieuren und verrückten Wissenschaftlern.
-  effect: |
-    Falls Kraft, Beweglichkeit oder Vergehen benutzt wurden, um diesen Harm zu wirken, leidet der Charakter und Erwürgung und kann nicht sprechen. Falls der Harm mit Wandlung gewirkt wurde, dann erlischt aller Klang innerhalb von 5' um das Ziel durch außergewöhnliche Mittel, sodass z.B. ihre Schritte stumm sind und das Klappern von Ausrüstung nicht gehört werden kann.
