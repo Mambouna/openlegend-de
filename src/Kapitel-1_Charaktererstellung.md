@@ -241,7 +241,7 @@ Barden sind ein bisschen von allem: Anführer, Geschichtenerzähler, Künstler, 
 #### Strategie
 Barden können in fast allen Situationen außerhalb des Kampfes andere mit ihrer Fertigkeit *Rundumtalent* unterstützen, wobei sie sich besonders in sozialen Situationen durch ihre hohen Werte in Präsenz und Überzeugung profilieren. Ihr Einflusswert gibt ihnen außerdem Zugang zu Flüchen wie *Bezaubert* und *Phantom*, die zum Täuschen, Verhören oder Befreunden von Feinden nützlich sind.
 
-Im Kampf unterstützt ein Barde seine Verbündeten mit *Verstärken*, wobei er durch die Fertigkeit *Wohlfokus* mehrere Freunde auf einmal damit belegen kann. Wird ein Kamerad verwundet nutzt der Barde *Heilen* um sie wieder kampffähig zu machen und kann auch mehrere mit einer heilenden *Aura* unter die Arme greifen. Barden sind genügend kompetent im Nahkampf, in dem sie das Rapier führen und Feinde entwaffnen, wann immer sich die Chance bietet.
+Im Kampf unterstützt ein Barde seine Verbündeten mit *Verstärken*, wobei er durch die Fertigkeit *Wohlfokus* mehrere Freunde auf einmal damit belegen kann. Wird ein Kamerad verwundet nutzt der Barde *Heilen* um sie wieder kampffähig zu machen und kann auch mehreren mit einer heilenden *Aura* unter die Arme greifen. Barden sind genügend kompetent im Nahkampf, in dem sie ein Rapier führen und Feinde entwaffnen, wann immer sich die Chance bietet.
 
 **Attribute:** Beweglichkeit 3 (1d8), Lernen 3 (1d8), Willenskraft 3 (1d8), Präsenz 4 (1d10), Überzeugung 3 (1d8), Einfluss 3 (1d8)
 
@@ -259,19 +259,19 @@ Im Kampf unterstützt ein Barde seine Verbündeten mit *Verstärken*, wobei er d
 ***Inspirierende Zeilen*** (*Verstärken* wirken):<br>=> 1 Ziel: Auto-Erfolg auf KL 3 durch *Wohlfokus*<br>=> 10' Würfel: Präsenz vs. 16 (KL 3)<br>***Heilende Zeilen*** (*Heilen* wirken): Präsenz vs. 12 - 18 (KL 1 - 4)<br>***Lied der Erquickung*** (5' *Aura: Heilen* wirken): Präsenz vs. 18 (KL 4)<br>***Gewinnendes Lächeln*** (*Bezaubert* wirken): Einfluss vs. Entschlossenheit<br>***Magischer Kniff*** (*Phantasmus* wirken): Einfluss vs. Entschlossenheit
 ___
 ### Kampfmagier
-Kampfmagier sind Meister der Kraft und Magie. Mit angeborenem Talent für den Kampf und elementare Zauberei gewappnet, sind diese Elitesoldaten eine ernstzunehmende Einheit auf dem Schlachtfeld. Der Kampfmagier ist typischerweise schwer gepanzert, mit einer Vielzahl an Waffen für den Nahkampf ausgestattet und knistert vor roher magischer Energie.
+Kampfmagier sind Meister der Kraft und Magie. Mit angeborenem Talent für den Kampf und elementarer Zauberei gewappnet, sind diese Elitesoldaten eine ernstzunehmende Einheit auf dem Schlachtfeld. Der Kampfmagier ist typischerweise schwer gepanzert, mit einer Vielzahl an Waffen für den Nahkampf ausgestattet und knistert vor roher magischer Energie.
 #### Strategie
 Kampfmagier wurden für den Kampf geboren, können sich aber trotzdem auch in einigen Situationen außerhalb des Kampfes beweisen. Sie sind generell starke Anführer, die eine einschüchternde Aura abstrahlen, sodass ihre Anweisungen auf Gehör treffen, wenn die Umstände es verlangen.
 
-Im Kampf sind Kampfmagier die Ein-Mann-Front. Ihre schwere Rüstung lässt sie gegen niedere Feinde fast unverletzbar erscheinen und ihre Kontrolle über elementares Eis lässt sie das Schlachtfeld mit Bereichsattacken kontrollieren. Mit der Fertigkeit *Multi-Ziel-Attacke Spezialisierung* können sie ohne Einschränkung mehrere Feinde angreifen. Schafft es doch ein Feind, durch die Windstöße und Eiszapfen in den Nahkampf mit ihnen zu gelangen, sind Kampfmagier bereit, mit einem Arsenal an passenden Waffen ihnen auch dort zu begegnen.
+In der Schlacht sind Kampfmagier die Ein-Mann-Front. Ihre schwere Rüstung lässt sie gegen niedere Feinde fast unverletzbar erscheinen und ihre Kontrolle über elementares Eis lässt sie das Schlachtfeld mit Bereichsattacken kontrollieren. Mit der Fertigkeit *Multi-Zielen Angriffsspezialisierung* können sie ohne Einschränkung mehrere Feinde angreifen. Schafft es doch ein Feind, durch die Windstöße und Eiszapfen in den Nahkampf mit ihnen zu gelangen, sind Kampfmagier bereit, ihm auch dort mit einem Arsenal an passenden Waffen zu begegnen.
 
-**Attribute:** Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Kraft 4 (1d10), Präsenz 3 (1d8), Energie 5 (2d6)<br>**Trefferpunkte:** 22<br>**Deckung:** 20 (21 mit Schild - Beweglichkeit 2, Kraft 4, Plattenpanzer 3 Fertigkeit 1)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 25'
+**Attribute:** Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Kraft 4 (1d10), Präsenz 3 (1d8), Energie 5 (2d6)<br>**Trefferpunkte:** 22<br>**Deckung:** 20 (21 mit Schild - Beweglichkeit 2, Kraft 4, Plattenpanzer 3, Fertigkeit 1)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 25'
 
-**Fertigkeiten:** Multi-Ziel Angriffsspezialisierung II (Bereich), Rüstungsexpertise I
+**Fertigkeiten:** Multi-Zielen Angriffsspezialisierung II (Gebiet), Rüstungsexpertise I
 
 **Wichtige Ausrüstung:** Plattenpanzer, kleiner Schild, Langschwert, Speer, Kriegshammer
 #### Bevorzugte Aktionen
-***Eiszapfen*** (Angriff mit Schaden): Energie vs. Deckung<br>***Erdbeben*** (Angriff mit Schaden, 10' Würfel): Energie vs. Deckung<br>***Frostbiss*** (*Anhaltender Schaden* zufügen, 10' Würfel): Energie vs. Deckung<br>***Beben*** (*Niedergeschlagen* zufügen, 10' Würfel): Energie vs. Deckung<br>***Treibsand*** (*immobilisiert* zufügen, 10' Würfel): Energie vs. Zähigkeit<br>***Langschwert*** (Angriff mit Schaden): Kraft vs. Deckung<br>***Speer*** (Angriff mit Schaden, 10' Reichweite): Kraft vs. Deckung, Vorteil 1
+***Eiszapfen*** (Angriff mit Schaden): Energie vs. Deckung<br>***Erdbeben*** (Angriff mit Schaden, 10' Würfel): Energie vs. Deckung<br>***Frostbiss*** (*Anhaltender Schaden* zufügen, 10' Würfel): Energie vs. Deckung<br>***Beben*** (*Niedergeschlagen* zufügen, 10' Würfel): Energie vs. Deckung<br>***Treibsand*** (*Immobilisiert* zufügen, 10' Würfel): Energie vs. Zähigkeit<br>***Langschwert*** (Angriff mit Schaden): Kraft vs. Deckung<br>***Speer*** (Angriff mit Schaden, 10' Reichweite): Kraft vs. Deckung, Vorteil 1
 ___
 ### Monsterzähmer[?]
 Der Monsterzähmer beschwört und kommandiert die Kreaturen der Wildnis und ist in der Lage, sogar legendäre Monster wie Drachen oder Mantikore zu zähmen.
@@ -297,7 +297,7 @@ Berserker sind die Elitestreiter der Barbarenhorden, bekannt dafür, gegen unmö
 #### Strategie
 Das einzige Ziel eines Berserkers ist es, Feinde niederzustrecken. Außerhalb des Kampfes können sie gelegentlich aushelfen, indem sie Stahl biegen, Fallgatter aufstemmen oder Feinde einschüchtern.
 
-Sobald der Kampf beginnt, ist der Berserker nicht mehr zu stoppen. Seine Zweihandaxt fügt mit dem Kraftwert 5 eindrucksvollen Schaden zu. Ihre Verteidigung ist ebenso solide, sodass sie häufig Feinde mit dem Harm *Provozieren* herausfordern. In besoders Schwierigen Gefechten nutzen sie ihre *Kampftrance*, um in eine Rage zu verfallen, die ihre Angriffe tödlicher und Verteidigung zäher macht. Berserker müssen die *Kampftrance* aber mit Bedacht einsetzen, da sie nach ihrem Ende unter einer Instanz des Harms *Erschöpft* leiden.
+Sobald der Kampf beginnt, ist der Berserker nicht mehr zu stoppen. Die Zweihandaxt fügt mit seinem Kraftwert 5 eindrucksvollen Schaden zu. Seine Verteidigung ist ebenso solide, sodass er häufig Feinde mit dem Harm *Provozieren* herausfordert. In besoders Schwierigen Gefechten nutzen Berserker ihre *Kampftrance*, um in eine Rage zu verfallen, die ihre Angriffe tödlicher und Verteidigung zäher macht. Berserker müssen die *Kampftrance* aber mit Bedacht einsetzen, da sie nach ihrem Ende unter einer Instanz des Harms *Erschöpft* leiden.
 
 **Attribute:** Beweglichkeit 2 (1d6), Konstitution 4 (1d10), Kraft 5 (2d6), Willenskraft 3 (1d8), Präsenz 3 (1d8)<br>**Trefferpunkte:** 30<br>**Deckung:** 19 (20 in Kampftrance - Beweglichkeit 2, Kraft 5, Kettenhemd 2)<br>**Zähigkeit:** 17 (20 in Kampftrance)<br>**Entschlossenheit:** 16 (19 in Kampftrance)<br>**Geschwindigkeit:** 30'
 
@@ -320,27 +320,28 @@ Beginnt der Kampf, dann bietet die Macht des Chronomagiers über die Zeit der Gr
 
 **Wichtige Ausrüstung:** Stahlseidenrüstung
 #### Bevorzugte Aktionen
-***Hyperverschleiss***[?] (Angriff mit Schaden): Vergehen vs. Deckung<br>***Stasisfeld*** (*5' Aura: Immobilisiert* wirken): Auto-Erfolg auf KL 1 durch *Wohlfokus*<br>***Zeitdehnungsfeld*** (*5' Aura: Verlangsamt* wirken): Auto-Erfolg auf KL 1 durch *Wohlfokus*<br>***Vorspulen*** (*Hast* wirken): Bewegung vs. 14 - 18 (KL 2 - 4)<br>***Massen-Vorspulen*** (*5' Aura: Hast* wirken): Auto-Erfolg auf KL 2 durch *Wohlfokus*<br>***Zurückspulen*** (*Heilen* wirken): Schöpfung vs. 12 - 16 (KL 1 - 3)<br>***Zeitschritt*** (*Teleport* wirken): Bewegung vs. 16 (KL 3)<br>***Zukunftsblick*** (*Voraussicht* wirken): Vorwissen vs. 12 - 16 (KL 1 - 3)
+***Der Zahn der Zeit*** (Angriff mit Schaden): Vergehen vs. Deckung<br>***Stasefeld*** (*5' Aura: Immobilisiert* wirken): Auto-Erfolg auf KL 1 durch *Wohlfokus*<br>***Zeitdehnungsfeld*** (*5' Aura: Verlangsamt* wirken): Auto-Erfolg auf KL 1 durch *Wohlfokus*<br>***Vorspulen*** (*Hast* wirken): Bewegung vs. 14 - 18 (KL 2 - 4)<br>***Massen-Vorspulen*** (*5' Aura: Hast* wirken): Auto-Erfolg auf KL 2 durch *Wohlfokus*<br>***Zurückspulen*** (*Heilen* wirken): Schöpfung vs. 12 - 16 (KL 1 - 3)<br>***Zeitschritt*** (*Teleport* wirken): Bewegung vs. 16 (KL 3)<br>***Zukunftsblick*** (*Voraussicht* wirken): Vorwissen vs. 12 - 16 (KL 1 - 3)
 ___
 ### Höfling
-Höflinge sind Karrierepolitiker, die majestätische Grazie zum Ziel ihres Lebens machen. Ihre strenge Ausstrahlung lässt alle in der Hand des Höflings zu formbaren Ton werden. Als Gastgeber plant der Höfling seine Feiern oft bis ins letzte Detail, sodass seine Gäste genau die Erfahrung haben, die er ihnen angedacht hat. Sein Antlitz verlangt Respekt, sei es königliche Brokade, fernöstliche Seide oder die eleganten Linien eines Corpo-Anzugs.
+Höflinge sind Karrierepolitiker, die majestätische Grazie zum Ziel ihres Lebens machen. Ihre strenge Ausstrahlung macht jeden im Umfeld des Höflings gefügig. Als Gastgeber plant der Höfling seine Feiern oft bis ins letzte Detail, sodass seine Gäste genau die Erfahrung haben, die er ihnen angedacht hat. Sein Antlitz verlangt Respekt, sei es königliche Brokade, fernöstliche Seide oder die eleganten Linien eines Corpo-Anzugs.
 #### Strategie
-Da er primär auf soziale Situationen spezialisiert und in Kämpfen größtenteils hilflos ist, tut er sein bestes, um die Umstände so zu gestalten, dass es gar nicht erst zum Kampf kommt. Ist der Kampf unumgänglich, schlägt der Höfling sich durch seine Täuschung, Überzeugung, Präsenz und Einfluss auf die siegende Seite. Hat der Höfling das Vertrauen seiner mächtigen Bekanntschaften durch den Harm *Bezaubert* gewonnen, kommt das Opfer typischerweise aufgrund der Fertigkeiten *Hartnäckiger Harm* und *Unsterbliche Bezauberung* nie wieder frei.
+Da er primär auf soziale Situationen spezialisiert und in Kämpfen größtenteils hilflos ist, tut er sein bestes, um die Umstände so zu gestalten, dass es gar nicht erst zum Kampf kommt. Ist der Kampf unumgänglich, schlägt der Höfling sich durch seine Täuschung, Überzeugung, Präsenz und Einfluss auf die siegende Seite. Hat der Höfling das Vertrauen seiner mächtigen Bekanntschaften durch den Harm *Bezaubert* gewonnen, kommt das Opfer typischerweise aufgrund der Fertigkeiten *Hartnäckiger Harm* und *Endlose Bezauberung* nie wieder frei.
 
 **Attribute:** Beweglichkeit 2 (1d6), Willenskraft 3 (1d8), Täuschung 4 (1d10), Präsenz 3 (1d8), Einfluss 5 (2d6)<br>**Trefferpunkte:** 22<br>**Deckung:** 13 (Beweglichkeit 2, Stahlseidenrüstung 1)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 16<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Hartnäckiger Harm (Bezaubert), Unsterbliche Bezauberung
+**Fertigkeiten:** Hartnäckiger Harm (Bezaubert), Endlose Bezauberung
 
-**Wichtige Ausrüstung:** Majestätische Kleidung, Dolch, Kompaktpistole (Pistole), Stahlseiderüstung
+**Wichtige Ausrüstung:** Vornehme Kleidung, Dolch, Kompaktpistole (Pistole), Stahlseidenrüstung
 #### Bevorzugte Aktionen
-***Unterhaltungswunder***[?] (*Bezaubert* zufügen): Einfluss vs. Entschlossenheit<br>***Mörderische Beleidigung*** (*Demoralisiert* zufügen): Einfluss vs. Entschlossenheit<br>***Widersprüchliche Aussagen*** (*Gedächtnismanipulation* zufügen): Einfluss vs. Entschlossenheit<br>***Vertrauensvolles Ohr*** (*Wahrheitszwang* zufügen): Einfluss vs. Entschlossenheit<br>***Persönlicher Gefallen*** (*Dominiert* zufügen): Einfluss vs. Entschlossenheit<br>***Versteckter Abzug*** (Angriff mit Schaden): Beweglichkeit vs. Deckung
+***Schmeichelnde Worte*** (*Bezaubert* zufügen): Einfluss vs. Entschlossenheit<br>***Mörderische Beleidigung*** (*Demoralisiert* zufügen): Einfluss vs. Entschlossenheit<br>***Widersprüchliche Aussagen*** (*Gedächtnismanipulation* zufügen): Einfluss vs. Entschlossenheit<br>***Vertrauensvolles Ohr*** (*Wahrheitsgebunden* zufügen): Einfluss vs. Entschlossenheit<br>***Persönlicher Gefallen*** (*Dominiert* zufügen): Einfluss vs. Entschlossenheit
+Versteckter Abzug (Angriff mit Schaden): Beweglichkeit vs. Deckung
 ___
 ### Druide
 Druiden sind Schützer der Natur, die aus ihr durch einen engen Bund ihre Kraft ziehen, um sich z.B. in eine mächtige Kreatur ihres Heimathabitats zu verwandeln. Nicht alle Druiden sind den Wäldern gewogen. Manche verwandeln sich in Unterwasserspezies und verbringen einen Großteil ihrer Zeit in den Tiefen, während andere als Vögel in Bergketten jenseits der Wolken leben. Unabhängig von ihrem bevorzugten Habitat sind alle Druiden eins: flexibel.
 #### Strategie
-Aufgrund ihrer engen Verbindung zur Natur neigen Druiden dazu, ihre Umgebung zum eigenen Vorteil zu nutzen, zum Beispiel indem sie eine imposante Wand aus Hecken mit dem Wohl *Barriere* beschwören, ein Ziel mithilfe einer dicken Ranke *immobilisieren* oder die natürliche Heilung durch den Wohl *Regeneration* beschleunigen. Druiden sind außerdem exzellente Kämpfer und Späher. Als Späher können sie in Form eines kleinen Tieres ungesehen in ein feindliches Lager eindringen. Als Kämpfer können sie sich in eine massive Kreatur wie einen Bären verwandeln, um ihre Feinde zu dezimieren.
+Aufgrund ihrer engen Verbindung zur Natur neigen Druiden dazu, ihre Umgebung zum eigenen Vorteil zu nutzen, zum Beispiel indem sie eine imposante Wand aus Hecken mit dem Wohl *Barriere* beschwören, ein Ziel mithilfe einer dicken Ranke *Immobilisieren* oder natürliche Heilung durch das Wohl *Regeneration* beschleunigen. Druiden sind außerdem exzellente Kämpfer und Späher. Als Späher können sie in Form eines kleinen Tieres ungesehen in ein feindliches Lager eindringen. Als Kämpfer können sie sich in eine massive Kreatur wie einen Bären verwandeln, um ihre Feinde zu dezimieren.
 
-**Attribute:** Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Kraft 2 (1d6), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Wandlung 5 (2d6), Schöpfung 3 (1d8)<br>**Trefferpunkte:** 20<br>**Deckung:** 17 (Beweglichkeit 2, Kraft 2, Schienenrüstung[?] 3)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 25'
+**Attribute:** Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Kraft 2 (1d6), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Wandlung 5 (2d6), Schöpfung 3 (1d8)<br>**Trefferpunkte:** 20<br>**Deckung:** 17 (Beweglichkeit 2, Kraft 2, Schienenrüstung 3)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 25'
 
 **Fertigkeiten:** Wohlfokus II (Gestaltwandel)
 
@@ -355,7 +356,7 @@ Aufgrund ihrer engen Verbindung zur Natur neigen Druiden dazu, ihre Umgebung zum
 **Attribute:** Kraft 4 (1d10), Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Wahrnehmung 3 (1d8)<br>**Trefferpunkte:** 20<br>**Deckung:** 19 (Beweglichkeit 2, Kraft 4, Schienenrüstung 3)<br>**Geschwindigkeit:** 30' schwimmend
 ___
 ### Ingenieur
-Ingenieure haben einen Funken Schöpfung in sich und können die Funktionsweise extrem komplexer Systeme durchschauen. Auch wenn Ingenieure selbst typischerweise flink sind und eine Lederhaut haben, liegt ihre wahre Stärke in den cleveren Maschinen, die sie aus Schrott und Ersatzteilen zusammenbauen. Diese zischenden Dampfgestalten und mechanische Werkzeuge stellen sicher, dass der Ingenieur für jede Situation gewappnet ist.
+Ingenieure haben einen Funken Schöpfung in sich und können die Funktionsweise extrem komplexer Systeme durchschauen. Auch wenn Ingenieure selbst typischerweise flink sind und eine Haut zäh wie Leder haben, liegt ihre wahre Stärke in den cleveren Maschinen, die sie aus Schrott und Ersatzteilen zusammenbauen. Diese zischenden Dampfgestalten und mechanische Werkzeuge stellen sicher, dass der Ingenieur für jede Situation gewappnet ist.
 #### Strategie
 Wenn sie nicht im Kampf sind, verlassen Ingenieure sich auf ihre cleveren Erfindungen. Mit genug Zeit können sie *Außergewöhnliches Item Erschaffen* nutzen, um sich auf eine Reihe verschiedener Situationen vorzubereiten. Ob sie eine 100' lange Leiter basteln, die sich auf die Größe eines Rucksacks zusammenfalten lässt, einen ferngesteuerten Spähroboter oder einen tragbaren Wundversorger, ein Ingenieur kann immer einen Weg finden, seine Kreativität mit flexiblen Lösungen und praktischen Gegenständen zum Wohl der Gruppe anzuwenden.
 
@@ -366,16 +367,16 @@ Im Kampf richten sich Ingenieure nach der momentanen Situation, um ihre Verbünd
 **Fertigkeiten:** Wohlfokus I (Kreatur Beschwören), Außergewöhnliches Item Erschaffen I
 
 **Wichtige Ausrüstung:** Handkanone (Revolver), Kevlarweste, 2
-Granaten, Ingenieurswerkzeuge
+Granaten, Ingenieurswerkzeug
 #### Bevorzugte Aktionen
 _**Handkanone**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Granate**_ (Angriff mit Schaden, 10' Würfel): Beweglichkeit vs. Deckung<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Verstärkung!**_ (_Kreatur Beschwören_ wirken): Auto-Erfolg auf KL 5 durch _Wohlfokus_<br>_**Gadgets & Gizmos**_ (_Verstärken_ wirken): Schöpfung vs. 16 (KL 3)<br>_**DIY-Wunder**_ (_Genesis_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)<br>_**Wunde ausbrennen**_ (_Heilen_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)
 ___
 ### Revolverheld
-Manch einer ist Richter und Exekutor zugleich. Andere sind Kopfgeldjäger, die eine alte Schuld begleichen müssen. Wieder andere sind Söldner, die nur für den Höchstbietenden ihr Eisen ziehen. Egal, woher ihre Motivation kommt, alle Revolverhelden bringen diejenigen zum Bangen, die am falschen Ende ihrer Colts landen.
+Manch einer ist Richter und Henker zugleich. Andere sind Kopfgeldjäger, die eine alte Schuld begleichen müssen. Wieder andere sind Söldner, die nur für den Höchstbietenden ihr Eisen ziehen. Egal, woher ihre Motivation kommt, alle Revolverhelden bringen diejenigen zum Bangen, die am falschen Ende ihrer Colts landen.
 #### Strategie
-Revolverhelden tun mehr, als nur um sich zu schießen. Ihre Expertise im Fernkampf wird durch Energie des Vergehens gespeist, die sie von außerweltlichen Mächten, einem Pakt mit dem Teufel oder durch die Verschmelzung von Geist und Seele erlangt haben. Außerhalb des Kampfes sind Revolverhelden aufmerksam und einschüchternd, sodass sie einfache Leute mühelos gefügig machen. Die meisten Revolverhelden sind Einzelgänger, die sich allein ihrer Mission verschrieben haben, doch manch andere zeigen sich als gekonnte Anführer, die eine Bande Einzelkämpfer in eine effektive Einheit verwandeln können.
+Revolverhelden tun mehr, als nur um sich zu schießen. Ihre Expertise im Fernkampf wird durch Energie des Vergehens gespeist, die sie von außerweltlichen Mächten, einem Pakt mit dem Teufel oder durch die Verschmelzung von Geist und Seele erlangt haben. Außerhalb des Kampfes sind Revolverhelden aufmerksam und einschüchternd, sodass sie einfache Leute mühelos gefügig machen. Die meisten Revolverhelden sind Einzelgänger, die sich allein ihrer Mission verschrieben haben, doch manch andere zeigen sich als gekonnte Anführer, die eine Bande einsamer Wölfe in eine effektive Einheit verwandeln können.
 
-Beginnt ein Gefecht, so bleibt der Revolverheld auf Distanz und benutzt seine beiden Revolver, um Feinde mit Blei zu durchlöchern. Wenn Schaden allein nicht genug ist, kann der Revolverheld bestimmte Ziele anvisieren, um die Gegner zu hindern: Waffen aus der Hand schießen, jemand mit einem Schuss den Atem nehmen oder Zehen abtrennen. Die Fertigkeit *Multiangriffsspezialisierung* erlaubt es ihm, doppelt so schnell zu schießen als ein anderer Schütze, sodass er große Gruppen Feinde ihm Alleingang niedermähen kann. Um seine Schießkunst zu ergänzen, nutzt der Revolverheld *Vergehen*, um Harme und Wohle zu wirken. Häufig ist es der Harm *Lebensraub*, um mit jedem Schuss etwas der genommenen Vitalität selbst zu erlangen, oder *Erkrankt*, um die Angriffe seiner Feinde nutzlos zu machen. Kommen Gegner näher, kann der Revolverheld das eine defensive *Aura* erzeugen oder Gegner mit *Furcht* belegen.
+Beginnt ein Gefecht, so bleibt der Revolverheld auf Distanz und benutzt seine beiden Revolver, um Feinde mit Blei zu durchlöchern. Wenn Schaden allein nicht genug ist, kann der Revolverheld bestimmte Ziele anvisieren, um die Gegner zu hindern: Waffen aus der Hand schießen, jemand mit einem Schuss den Atem nehmen oder Zehen abtrennen. Die Fertigkeit *Multiangriffsspezialisierung* erlaubt es ihm, doppelt so schnell zu schießen wie ein anderer Schütze, sodass er große Gruppen Feinde ihm Alleingang niedermähen kann. Um seine Schießkunst zu ergänzen, nutzt der Revolverheld *Vergehen*, um Harme und Wohle zu wirken. Häufig ist es der Harm *Lebensraub*, um mit jedem Schuss etwas der genommenen Vitalität selbst zu erlangen, oder *Erkrankt*, um die Angriffe seiner Feinde nutzlos zu machen. Kommen Gegner näher, kann der Revolverheld eine defensive *Aura* erzeugen oder Gegner mit *Furcht* belegen.
 
 **Attribute:** Beweglichkeit 5 (2d6), Wahrnehmung 3 (1d8), Willenskraft 2 (1d6), Präsenz 3 (1d8), Vergehen 4 (1d10)<br>**Trefferpunkte:** 20<br>**Deckung:** 17 (Beweglichkeit 5, Schwerer Trenchcoat 2)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 16<br>**Geschwindigkeit:** 30'
 
@@ -383,12 +384,12 @@ Beginnt ein Gefecht, so bleibt der Revolverheld auf Distanz und benutzt seine be
 
 **Wichtige Ausrüstung:** Schwerer Trenchcoat (als Kevlarweste gewertet), 2 Revolver, Gewehr
 #### Bevorzugte Aktionen
-_**Zwei-Knarren-Ansturm**_ (Fokusaktion, Angriff mit Schaden, 2 Angriffe): Beweglichkeit vs. Deckung<br>_**Den Spahn schlagen**_ (Fokusaktion, Angriff mit Schaden, 3 Angriffe): Beweglichkeit vs. Deckung, Nachteil 3<br>_**Kopfgeld verfluchen**_ (_Betäubt_ zufügen): Vergehen vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung. Vorteil 1<br>_**Handschuss**_ (_Entwaffnet_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Gewehr**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Dunkelknallschuss**_ (_Erkrankt_ zufügen): Vergehen vs. Zähigkeit<br>_**Missgünstiger Schatten[?]**_ (5' _Aura: Anhaltender Schaden_ wirken): Vergehen vs. 18 (KL 4)<br>_**Seelenriss**_ (_Lebensraub_ zufügen): Vergehen vs. 20 (KL 5)<br>_**Gnadenloser Blick**_ (_Furcht_ zufügen): Vergehen vs. Entschlossenheit
+_**Zwei-Knarren-Ansturm**_ (Fokusaktion, Angriff mit Schaden, 2 Angriffe): Beweglichkeit vs. Deckung<br>_**Den Spahn schlagen**_ (Fokusaktion, Angriff mit Schaden, 3 Angriffe): Beweglichkeit vs. Deckung, Nachteil 3<br>_**Ziel verfluchen**_ (_Betäubt_ zufügen): Vergehen vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung. Vorteil 1<br>_**Handschuss**_ (_Entwaffnet_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Gewehr**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Miasmaschuss**_ (_Erkrankt_ zufügen): Vergehen vs. Zähigkeit<br>_**Missgünstiger Schatten**_ (5' _Aura: Anhaltender Schaden_ wirken): Vergehen vs. 18 (KL 4)<br>_**Seelenriss**_ (_Lebensraub_ zufügen): Vergehen vs. 20 (KL 5)<br>_**Gnadenloser Blick**_ (_Furcht_ zufügen): Vergehen vs. Entschlossenheit
 ___
 ### Hacker
-Wissen ist Macht, wie das Sprichtwort verkündet. Der Hacker ist der Beweis, dass so gut wie jeder mit der richtigen Information zu Fall gebracht werden kann. Manche Hacker sind Söldner, die für den höchsten Lohn arbeiten und den Thrill lieben, riesige Mengen an Daten zu kontrollieren, von denen Leben abhängen. Andere verschreiben sich einem höheren Ziel, um die Welt zum Besseren oder Schlechteren zu wenden.
+Wissen ist Macht, wie das alte Sprichtwort mahnt. Der Hacker ist der Beweis, dass so gut wie jeder mit der richtigen Information zu Fall gebracht werden kann. Manche Hacker sind Söldner, die für den höchsten Lohn arbeiten und den Thrill lieben, riesige Mengen an Daten zu kontrollieren, von denen Leben abhängen. Andere verschreiben sich einem höheren Ziel, um die Welt zum Besseren oder Schlechteren zu wenden.
 #### Strategie
-Der Hacker ist ein Meister von Daten und Information und sucht, ihre Macht zu nutzen. Hacker stückeln aus Infofetzen Geheimnisse und Daten zusammen, die andere für verschlüsselt halten. Außerhalb des Kampfes nutzt der Hacker Harme und Wohle wie *Treusicht* um durch seine Drohne zu sehen und *Fernsicht* oder *Voraussicht*, um Informationen und Personen durch Datenbanken, Server, Sicherheitskameras, Kreditkarteneinträge und andere schlecht gesicherte Datenströme zu verfolgen. Falls Täuschung gebraucht wird, nutzt der Hacker die fast allgegenwärtigen Streams um mit dem Harm *Phantom* Videos, Hologramme und Audiosignale zu fabrizieren.
+Der Hacker ist ein Meister von Daten und Information und sucht, ihre Macht zu nutzen. Hacker stückeln aus Infofetzen Geheimnisse und Daten zusammen, die andere für verschlüsselt halten. Außerhalb des Kampfes nutzt der Hacker Harme und Wohle wie *Treusicht* um durch seine Drohne zu sehen und *Fernsicht* oder *Voraussicht*, um Informationen und Personen durch Datenbanken, Server, Sicherheitskameras, Kreditkarteneinträge und andere schlecht gesicherte Datenströme zu verfolgen. Falls Täuschung gebraucht wird, nutzt der Hacker die fast allgegenwärtigen Content-Streams, um mit dem Harm *Phantom* Videos, Hologramme und Audiosignale zu fabrizieren.
 
 Wenn ein Kampf ausbricht, meidet ein Hacker die Front und lässt seine Drohnen für sich kämpfen. Von einem sicheren Punkt aus steuert der Hacker sie mit einem Tablet oder ähnlichem Gerät und lässt ihre Laserwaffe Feinde zurückhalten. Neben dem Kampf mit der Drohne nutzen Hacker auch das Wohl *Verstärken*, um ihren Verbündeten zu helfen, indem sie ihnen Informationen zur Verfügung stellen oder lokale Systeme übernehmen.
 
@@ -398,7 +399,7 @@ Wenn ein Kampf ausbricht, meidet ein Hacker die Front und lässt seine Drohnen f
 
 **Wichtige Ausrüstung:** Tablet, Laptop, VR-Brille
 #### Bevorzugte Aktionen
-_**Dark Web Recherche**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Algorithmische Voraussage**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Multivalente Sensorenaufnahme**_ (_Wahrsicht_ wirken): Vorwissen vs. 20 (KL 5)<br>_**IoT Zombienetzwerk**_ (_Fernsicht_ zufügen): Vorwissen vs. Entschlossenheit, Vorteil 2<br>_**Hologrammprojektion**_ (_Phantasmus_ zufügen): Einfluss vs. Entschlossenheit<br>_**Neuronen neulegen**_ (_Bezaubert_ zufügen): Einfluss vs. Entschlossenheit
+_**Dark-Web Recherche**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Algorithmische Voraussage**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Multivalente Sensorenaufnahme**_ (_Wahrsicht_ wirken): Vorwissen vs. 20 (KL 5)<br>_**IoT Zombienetzwerk**_ (_Fernsicht_ zufügen): Vorwissen vs. Entschlossenheit, Vorteil 2<br>_**Hologrammprojektion**_ (_Phantasmus_ zufügen): Einfluss vs. Entschlossenheit<br>_**Neuronen neulegen**_ (_Bezaubert_ zufügen): Einfluss vs. Entschlossenheit
 #### Drohnengefährte
 **Attribute:** Beweglichkeit 3 (1d8), Konstitution 1 (1d4), Logik 1 (1d4), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Energie 4 (1d10)<br>**Trefferpunkte:** 16<br>**Deckung:** 13 (Beweglichkeit 3)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
 
@@ -407,26 +408,26 @@ _**Dark Web Recherche**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**A
 _**Laser**_ (Angriff mit Schaden): Energie vs. Deckung<br>_**Betäubungsstrahl**_ (_Immobilisiert_ zufügen): Energie vs. Zähigkeit
 ___
 ### Mystiker
-Mystiker finden sich meist abseits des Trubels der Stadt, wo sie die Fortschritte der Gesellschaft hinter sich gelassen haben. Sie ziehen es vor, der leisen Stimme im Inneren zu lauschen, wobei sie materiellen Besitz ablehnen und ein asketisches Leben auf der Suche danach führen, allen selbstzentrierten Gedanken zu entsagen. 
+Mystiker finden sich meist abseits des Trubels der Stadt, da sie die Fortschritte der Gesellschaft hinter sich gelassen haben. Sie ziehen es vor, der leisen Stimme im Inneren zu lauschen, wobei sie materiellen Besitz ablehnen und ein asketisches Leben auf der Suche danach führen, allen selbstzentrierten Gedanken zu entsagen. 
 #### Strategie
 Außerhalb des Kampfes führen Mystiker eine breite Auswahl an Fähigkeiten, die sie zu guten Informationssammlern, Detektiven, und übernatürlichen forensischen Analytikern machen. Sie sind in der Lage, zukünftige Gefahr mit dem Wohl *Voraussicht* kommen zu sehen, allerlei Informationen mit *Lesung* aus der Vergangenheit eines Items zu ziehen, mit *Fernsicht* gegnerische Bewegungen aus der Ferne zu beobachten und mit jeglicher Kreatur durch *Telepathie* zu kommunizieren.
 
-Mystiker, die sich einer größeren Gruppe angeschlossen haben, nutzen ihre Kräfte meist zu Verteidigung anderer, z.B. indem sie *Verstärken* nutzen, um Freunden psychische Kenntnisse zu geben, *Gedankenraub*, um Feinden ihre Geheimnisse zu entziehen und indem sie Schutz und die Fertigkeit *Defensive Reflexe* nutzen, um Verteidigungsaktionen auszuführen. Mystiker sind auch gewandt darin, die Pläne von Feinden mit *Annullieren* zu durchkreuzen und Harme auf Verbündeten mit der Fertigkeit *Medikus* zu behandeln.
+Mystiker, die sich einer größeren Gruppe angeschlossen haben, nutzen ihre Kräfte meist zu Verteidigung anderer, z.B. indem sie *Verstärken* nutzen, um Freunden psychische Kenntnisse zu geben, *Gedankenraub*, um Feinden ihre Geheimnisse zu entziehen und indem sie ihren Schutzwert und die Fertigkeit *Defensive Reflexe* nutzen, um Verteidigungsaktionen auszuführen. Mystiker sind auch gewandt darin, die Pläne von Feinden mit *Annullieren* zu durchkreuzen und Harme auf Verbündeten mit der Fertigkeit *Medikus* zu behandeln.
 
 **Attribute:** Beweglichkeit 3 (1d8), Willenskraft 3 (1d8), Schöpfung 2 (1d6), Vorwissen 5 (2d6), Schutz 4 (1d10)<br>**Trefferpunkte:** 16<br>**Deckung:** 13<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Verstärkte Wirkung I, Defensive Reflexe I, Medikus
+**Fertigkeiten:** Vertiefte Wirkung I, Defensive Reflexe I, Medikus
 
 **Wichtige Ausrüstung:** Stab, Robe
 #### Bevorzugte Aktionen
 _**Den Pfad vorhersehen**_ (Verteidigungsaktion): Schutz vs. Angriffswurf des Ziels, Vorteil 1<br>_**Freimachen**_ (Besondere Aktion): Fertigkeit _Medikus_ einsetzen, um einem Verbündeten einen Widerstehenwurf zu geben<br>_**Geteilte Einsicht**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Sicht aus der Ferne**_ (_Fernsicht_ zufügen): Vorwissen vs. Entschlossenheit<br>_**Gedankenbrücke**_ (_Telepathie_ wirken): Vorwissen vs. 16 - 20 (KL 3 - 5)<br>_**Kraftraub**_ (_Annulieren_ zufügen): Schutz vs. Entschlossenheit<br>_**Gedanken lesen**_ (_Gedankenraub_ zufügen): Vorwissen vs. Entschlossenheit<br>_**Blick in die Vergangenheit**_ (_Lesung_ wirken): Vorwissen vs. 20 (KL 5)<br>_**Blick in die Zukunft**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Verjüngung**_ (_Heilen_ wirken): Schöpfung vs. 12 - 14 (KL 1 - 2)
 ___
 ### Ningyozukai
-Die Ningyozukai - oder Puppenspieler - sind Zauberer, die in der Lage sind, ihren Geist verzauberte Yoroirüstungen beleben zu lassen, sodass diese zu mächtigen Waffen werden. Die Ningyozukai, die darüber hinaus außerdem Magie der Heilung und des Schutzes besitzen, rufen ihren Yoroirüstungen nur hervor, wenn die Situation Waffengewalt und rohe Kraft bedarf.
+Die Ningyozukai - oder Puppenspieler - sind Zauberer, die in der Lage sind, ihren Geist verzauberte Yoroirüstungen beleben zu lassen, sodass diese zu mächtigen Waffen werden. Die Ningyozukai, die darüber hinaus außerdem Magie der Heilung und des Schutzes besitzen, rufen ihren Yoroirüstungen nur hervor, wenn die Situation Waffengewalt und roher Kraft bedarf.
 #### Strategie
 Die Ningyozukai nutzen *Alternative Gestalt*, um je nach Bedarf zwischen zwei separaten Charakterarten zu wechseln. In ihrer normalen Form sind sie physisch schwache Zauberer, die Verbündete mit Wohlen wie *Resistenz*, *Heilen* und *Verstärken* unterstützen. Im Kampf können sie nur mit *Kreatur beschwören* Schaden zufügen, indem sie niedere Schutzgeister berufen.
 
-Wenn die Situation es erfordert, ruft der Zauberer seine Yoroirüstung hervor, die ihm als unverwüstbarer Nahkämpfer dient. Die Yoroigestalt hat starke Verteidigungen und hohe TP. Ihr Kraftwert von 5 sichert ihr zusammen mit dem zweihändigen Naginata hohen Schaden zu, während sie das Schlachtfeld mit Harmen wie *Niedergeschlagen*, *Erzwungene Bewegung* und *Immobilisiert*. In besonders harten Kämpfen verfällt die Yoroirüstung in *Kampftrance* und gewinnt so noch stärkere Verteidigungen und Angriffe.
+Wenn die Situation es erfordert, ruft der Zauberer seine Yoroirüstung hervor, die ihm als unverwüstbarer Nahkämpfer dient. Die Yoroigestalt hat starke Verteidigungen und hohe TP. Ihr Kraftwert von 5 sichert ihr zusammen mit dem zweihändigen Naginata hohen Schaden zu, während sie das Schlachtfeld mit Harmen wie *Niedergeschlagen*, *Erzwungene Bewegung* und *Immobilisiert* bestimmt. In besonders harten Kämpfen verfällt die Yoroirüstung in *Kampftrance* und gewinnt so noch stärkere Verteidigungen und Angriffe.
 
 Auch wenn Ningyozukai die Fertigkeit *Alternative Gestalt* nutzen, verwandeln sie sich nicht selbst physisch beim Wechsel zwischen Zauberer- und Yoroirüstungsform. Stattdessen hüllt die Yoroirüstung unter der mentalen Kontrolle des Ningyozukai den Zauberer zum Schutz in ihr magisches Metall. *Alternative Gestalt* zu aktivieren repräsentiert die volle Konzentrations des Zauberers auf die Kontrolle der Rüstung, sodass er währenddessen seine eigenen Fähigkeiten nicht nutzen kann und vollständig von der Rüstung repräsentiert wird.
 #### Zauberergestalt
@@ -444,23 +445,23 @@ _**Geisterführer**_ (_Verstärken_ wirken): Schöpfung vs. 16 (KL 3)<br>_**Geis
 
 **Wichtige Ausrüstung:** Yoroirüstung, Naginata, 3 Wurfspeere
 #### Bevorzugte Aktionen
-_**Naginata**_ (Angriff mit Schaden): Kraft vs. Deckung, Vorteil 1<br>_**Fang und Klaue**_ (Angriff mit Schaden, 2 targets): Kraft vs. Deckung, Nachteil 1<br>_**Wurfspeer**_ (Angriff mit Schaden): Kraft vs. Deckung<br>_**Ausholender Schlag**_ (_Niedergeschlagen_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Naginataschwung**_ (_Erzwungene Bewegung_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Skorpionstich**_ (_Immobilisiert_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Demonstration der Stärke**_ (_Furcht_ zufügen): Kraft vs. Entschlossenheit<br>_**Schlachtkommando**_ (_Heilen_ zufügen): Präsenz vs. 12 - 16 (KL 1 - 3)
+_**Naginata**_ (Angriff mit Schaden): Kraft vs. Deckung, Vorteil 1<br>_**Fang und Klaue**_ (Angriff mit Schaden, 2 Ziele): Kraft vs. Deckung, Nachteil 1<br>_**Wurfspeer**_ (Angriff mit Schaden): Kraft vs. Deckung<br>_**Ausholender Schlag**_ (_Niedergeschlagen_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Naginataschwung**_ (_Erzwungene Bewegung_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Skorpionstich**_ (_Immobilisiert_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Demonstration der Stärke**_ (_Furcht_ zufügen): Kraft vs. Entschlossenheit<br>_**Schlachtkommando**_ (_Heilen_ zufügen): Präsenz vs. 12 - 16 (KL 1 - 3)
 ___
 ### Waldläufer
-Waldläufer sind Menschen der Wildniss, Jäger und Tierzähmer. Sie können das widerste Terrain navigieren und ihre scharfen Augen erkennen selbst tagelang kalte Spuern. Mit einem treuen Tiergefährten an ihrer Seite ist der Waldläufer auf der Pirsch nie allein.
+Waldläufer sind Menschen der Wildnis, Jäger und Tierzähmer. Sie können das widerste Terrain navigieren und ihre scharfen Augen erkennen selbst tagelang kalte Spuern. Mit einem treuen Tiergefährten an ihrer Seite ist der Waldläufer auf der Pirsch nie allein.
 #### Strategie
-Waldläufer sind Experten im Verfolgen von Spuren, wobei sie die Fertigkeiten *Spurenhund* und *Meisterjäger* nutzen, um Ziele mühelos und rasch zu verfolgen. Ihr hoher Wahrnehmungswert macht den Waldläufer auch zu den Augen der Gruppe: Fallen finden, Feinde ausspähen und geheime Durchgänge finden. Die außergewöhnliche Fähigkeit, extrem gut zu klettern erlaubt ihnen außerdem, Pfade zu beschreiten, die ihre Verbündeten nicht erreichen können.
+Waldläufer sind Experten im Verfolgen von Spuren, wobei sie die Fertigkeiten *Spurenhund* und *Fährtenleser* nutzen, um Ziele mühelos und rasch zu verfolgen. Sein hoher Wahrnehmungswert macht den Waldläufer auch zu den Augen der Gruppe: Fallen finden, Feinde ausspähen und geheime Durchgänge entdecken. Die außergewöhnliche Fähigkeit, extrem gut zu klettern erlaubt ihnen außerdem, Pfade zu beschreiten, die ihre Verbündeten nicht erreichen können.
 
 Den Kampf bestreitet der Waldläufer typischerweise in enger Koordination mit seinem Tiergefährten. Im Nahkampf springt der Wolf Feinde an, um *Niedergeschlangen* zuzufügen, sodass sein Meister mit Vorteil 1 angreifen kann. Wenn sie nicht auf Schaden gehen, setzen Waldläufer *Entwaffnet* und *Anhaltender Schaden* ein. Um ihre Distanz zu wahren erklimmen sie die Bäume und feuern von dort mit dem Langbogen, während der Wolf *Immobilisiert* nutzt, um Feinde zu einfachen Zielen zu machen.
 
 **Attribute:** Beweglichkeit 4 (1d10), Konstitution 3 (1d8), Kraft 2 (1d6),
 Lernen 2 (1d6), Wahrnehmung 5 (2d6), Willenskraft 2 (1d6)<br>**Trefferpunkte:** 20<br>**Deckung:** 18 (Beweglichkeit 4, Kraft 2, Kettenhemd 2)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 35'
 
-**Fertigkeiten:** Flinkfuß I, Meisterjäger, Klettern, Gefährte I
+**Fertigkeiten:** Flinkfuß I, Fährtenleser, Klettern, Gefährte I
 
 **Wichtige Ausrüstung:** Langschwert, Dolch, Langbogen, Kettenhemd
 #### Bevorzugte Aktionen
-_**Langschwert + Dolch**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Verwundender Streich**_ (_Anhaltender Schaden_ zufügen): Beweglichkeit vs. Deckung, Vorteil 2<br>_**Kunstvolle Parade**_ (_Entwaffnet_ zufügen): Beweglichkeit vs. Deckung, Vorteil 2<br>_**Langbogen**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1
+_**Langschwert & Dolch**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Verwundender Streich**_ (_Anhaltender Schaden_ zufügen): Beweglichkeit vs. Deckung, Vorteil 2<br>_**Elegante Parade**_ (_Entwaffnet_ zufügen): Beweglichkeit vs. Deckung, Vorteil 2<br>_**Langbogen**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1
 #### Wolfsgefährte
 **Attribute:** Beweglichkeit 4 (1d10), Konstitution 2 (1d6), Kraft 2 (1d6), Wahrnehmung 3 (1d8), Willenskraft 1 (1d4), Präsenz 1 (1d4)<br>**Trefferpunkte:** 18<br>**Deckung:** 16 (Beweglichkeit 4, Kraft 2)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
 
@@ -469,53 +470,53 @@ _**Langschwert + Dolch**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung, Vort
 _**Biss**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Takedown**_ (_Niedergeschlagen_ zufügen): Beweglichkeit vs. Deckung
 ___
 ### Schatten
-Schatten sind hoch trainierte Assassinen, die ihre unnatürliche Macht aus dem Zwischen der Welt ziehen, der Leere an Schatetn in der die meisten Sterblichen sich nicht trauen, zu weilen. Nachdem sie eins mit der Dunkelheit werden, nutzen sie ihre Kräfte um zu Täuschen und in die Irre zu führen, sodass sie ihre Ziele auf dem falschen Fuß erwischen. Diese Nachtjäger sind trainiert, aus der Distanz zu töten - ungesehen, ungehört und ohne eine Spur zu hinterlassen.
+Schatten sind hoch trainierte Assassinen, die ihre unnatürliche Macht aus dem Zwischen der Welt ziehen, der Leere an Schatten, in der die meisten Sterblichen nicht verweilen würden. Nachdem sie eins mit der Dunkelheit werden, nutzen sie ihre Kräfte um zu täuschen und in die Irre zu führen, sodass sie ihre Ziele auf dem falschen Fuß erwischen. Diese Nachtjäger sind trainiert, aus der Distanz zu töten - ungesehen, ungehört und ohne eine Spur zu hinterlassen.
 #### Strategie
-Während Schatten speziell dazu ausgebildet sind, Ziele zu neutralisieren, geben ihre Fähigkeiten, die Schatten zu manipulieren auch viele verschieden nützliche Optionen außerhalb des Kampfes. Sie sind exzellente Späher, in der Lage Waffen in dimensionalen Taschen mit *Objekt absorbieren* zu verstecken. Ihre Fähigkeit, durch die Leere hindurchzutreten macht sie auch zu adepten Infiltratoren. Vor ihrer *Teleportation* ist auch keine Titantür gefeit.
+Während Schatten speziell dazu ausgebildet sind, Ziele zu neutralisieren, geben ihre Fähigkeiten, die Schatten zu manipulieren, ihnen auch viele verschiede nützliche Optionen außerhalb des Kampfes. Sie sind exzellente Späher und in der Lage, Waffen in dimensionalen Taschen mit *Objekt absorbieren* zu verstecken. Ihre Fähigkeit, durch die Leere hindurchzutreten macht sie auch zu adepten Infiltratoren. Vor ihrer *Teleportation* ist auch keine Titantür gefeit.
 
 Schatten ziehen es vor, so lange wie möglich versteckt zu bleiben, wenn ein Kampf beginnt, um ihre Feinde zu überraschen. Sie feuern mit schallgedämpften Scharfschützengewehren aus der Deckung heraus und nutzen *Teleportation*, um schnell die Position zu wechseln. Falls sie doch einmal entdeckt werden hüllen sie das Gebiet in *Dunkelheit* oder fliehen schnell mit *Hast*.
 
 **Attribute:** Beweglichkeit 4, Wahrnehmung 3, Willenskraft 2, Vergehen 3, Bewegung 5<br>**Trefferpunkte:** 14<br>**Deckung:** 15 (Beweglichkeit 4, Trenchcoat 1)<br>**Zähigkeit:** 12<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Wohlfokus I (Teleportation), Tödlicher Streich I
+**Fertigkeiten:** Wohlfokus I (Teleportation), Tödlicher Schlag I
 
 **Wichtige Ausrüstung:** Scharfschützengewehr, Maschinenpistole, Pistole, Messer, Trenchcoat (als Lederrüstung gewertet)
 #### Bevorzugte Aktionen
 _**Verborgener Schuss**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung, Vorteil 1 falls das Ziel überrascht wird oder mit einem Verbündeten im Kampf liegt<br>_**Gewehr**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Betäubungskugel**_ (_Bewusstlos_ zufügen): Beweglichkeit vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Maschinenpistole**_ (Angriff mit Schaden, 10' Würfel): Beweglichkeit vs. Deckung<br>_**Leerenschritt**_ (_Teleport_ wirken): Auto-Erfolg auf KL 5 durch _Wohlfokus_<br>_**Schattenschleier**_ (_Dunkelheit_ wirken): Vergehen vs. 12 - 16 (KL 1 - 3)<br>_**Schattenrolle**_ (_Resistenz_ wirken): Bewegung vs. 16 (KL 3)<br>_**Extradimensionale Tasche**_ (_Objekt absorbieren_ wirken): Bewegung vs. 18 (KL 4)
 ___
-### Hexenschwert[?]
-Ebenso gekonnt mit dem Schwert wie mit der Zauberei, weben Hexenschwerter aus Magie und Kampfkunst eine mächtige Kombination. Ob sie Feinde mit flammendem Schwert in Brand setzen, Kraftbarrieren beschwören, um Angriffe abzuwenden oder Gegner mit Teleportation im Staub lassen, Hexenschwerter kontrollieren das Schlachtfeld mit unanfechtbarer Magie.
+### Hexenschwert
+Ebenso gekonnt mit dem Schwert wie mit der Zauberei weben Hexenschwerter aus Magie und Kampfkunst eine mächtige Kombination. Ob sie Feinde mit flammendem Schwert in Brand setzen, Kraftbarrieren beschwören, um Angriffe abzuwenden oder Gegner mit Teleportation im Staub lassen, Hexenschwerter kontrollieren das Schlachtfeld mit unanfechtbarer Magie.
 #### Strategie
 Das Hexenschwert ist ein Meister der Vielfalt. Obwohl sie am meisten in der Hitze des Gefechts hervortreten, können Hexenschwerter auch ihre Schutz- und Bewegungsattribute nutzen, um verschiedene andere Hindernisse zu überwinden.
 
-Im Kampf erlaubt die Fertigkeit *Attributsubstitution* Hexenschwertern, ihren hohen Eneriewert für Waffenangriffe zu nutzen und ihr Trio aus außergewöhnlichen Attributen erlaubt ihnen Zugang zu einer breiten Auswahl Harme und Wohle. *Blitzreflexe* versichren, dass sie oft früh im Kampf handeln und Hexenschwerter nutzen diese Chance, um *Resistenz* auf Verbündete oder *Anhaltender Schaden* auf Feinde zu wirken. Läuft der Kampf, so konzentrieren sich Hexenschwerter auf das Niederstrecken geschwächter Feinde, um sich mit der Fertigkeit *Kampfmomentum* frei über das Schlachtfeld bewegen zu können.
+Im Kampf erlaubt die Fertigkeit *Attributsubstitution* Hexenschwertern, ihren hohen Eneriewert für Waffenangriffe zu nutzen und ihr Trio aus außergewöhnlichen Attributen erlaubt ihnen Zugang zu einer breiten Auswahl an Harmen und Wohlen. *Blitzreflexe* versichern, dass sie oft früh im Kampf handeln und Hexenschwerter nutzen diese Chance, um *Resistenz* auf Verbündete oder *Anhaltender Schaden* auf Feinde zu wirken. Läuft der Kampf, so konzentrieren sich Hexenschwerter auf das Niederstrecken geschwächter Feinde, um sich mit der Fertigkeit *Kampfmoment* frei über das Schlachtfeld bewegen zu können.
 
 **Attribute:** Konstitution 3 (1d8), Präsenz 1 (1d4), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Energie 5 (2d6), Schutz 3 (1d8), Bewegung 3 (1d8)<br>**Trefferpunkte:** 22<br>**Deckung:** 17 (Energie 5 via Attributsubstitution, Kettenhemd 2)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Attributsubstitution II (Energie > Beweglichkeit), Kampfmomentum, Blitzreflexe I
+**Fertigkeiten:** Attributsubstitution II (Energie -> Beweglichkeit), Kampfmoment, Blitzreflexe I
 
 **Wichtige Ausrüstung:** Kettenhemd, Falchion
 #### Bevorzugte Aktionen
 _**Falchion**_ (Angriff mit Schaden): Energie vs. Deckung, Vorteil 1<br>_**Entflammen**_ (_Anhaltender Schaden_ zufügen): Energie vs. Deckung (Vorteil 1 falls Falchion geführt wird)<br>_**Betäubender Schlag**_ (_Betäubt_ zufügen): Energie vs. Zähigkeit<br>_**Feuerwand**_ (_Barriere, 10' Linie_ wirken): Energie vs. 16 - 20 (KL 1 - 5), Nachteil 1<br>_**Rauchschritt**_ (_Teleportation_ wirken): Bewegung vs. 16 (KL 3)<br>_**Kraftschild**_ (_Resistenz_ wirken): Schutz vs. 16 (KL 3)
 ___
 ### Leerentemplar
-Leerentemplare des uralten Ordens Schlachtmagier erfahren mindestens 10 Jahre Training bevor sie auch nur ihren ersten Versuch der rigorosen Tests beginnen können, um ein voller Leerentemplar zu werden. Als tödliche Mischung aus Soldat und Leerenmagier bilden sie eine schwer gepanzerte Einheit, die andere Soldaten vor Gefahren bewahrt. Ihre hoch begehrte Wächterrüstung verstärkt ihre Kontrolle über die Leere, sodass ihre Fähigkeiten, feindliche Angriffe zu neutralisieren, erhöht sind.
+Leerentemplare eines uralten Ordens von Schlachtmagiern erfahren mindestens 10 Jahre Training, bevor sie auch nur ihren ersten Versuch der rigorosen Tests beginnen können, um ein voller Leerentemplar zu werden. Als tödliche Mischung aus Soldat und Leerenmagier bilden sie eine schwer gepanzerte Einheit, die andere Soldaten vor Gefahren bewahrt. Ihre hoch begehrte Wächterrüstung verstärkt ihre Kontrolle über die Leere, sodass ihre Fähigkeiten, feindliche Angriffe zu neutralisieren, erhöht sind.
 #### Strategie
-Leerentemplare sind auf Verteidigung spezialisiert und führen ihre Leerenkräfte, um Angriffe von Lasers, Magie und anderer Art zu verschlucken. Mit ihrem hohen Energieattribut rufen die Templare die Leere an um so gut wie jede Attacke aufzulösen. Auch wenn ihre schwere Rüstung sie langsamer macht als manch anderen Soldaten können sie sich und Verbündete mit *Aura: Eile* schneller machen und *Teleportation* erlaubt ihnen Zugang zu Gebieten, die anderen verwehrt blieben.
+Leerentemplare sind auf Verteidigung spezialisiert und führen ihre Leerenkräfte, um Angriffe von Lasern, Magie und anderer Art zu verschlucken. Mit ihrem hohen Energieattribut rufen die Templare die Leere an um so gut wie jede Attacke aufzulösen. Auch wenn ihre schwere Rüstung sie langsamer macht als manch anderen Soldaten können sie sich und Verbündete mit *Aura: Hast* schneller machen und *Teleportation* erlaubt ihnen Zugang zu Gebieten, die anderen verwehrt blieben.
 
-Im Kampf ist die Hauptaufgabe des Templars, seine Verbündeten am Leben zu halten. Sie nutzen häufig Verteidigungsaktionen, indem sie allerlei Schutzmechanismen ihrer Templarrüstung aktivieren wie z.B. Lasernetze oder Mikroraketen zum Abfangen von Geschossen. Ihre Fertigkeit *Schlachtvergeltung* erlaubt es Templaren, Verteidigungsaktionen gegen den Angreifer zu wenden. Zusätzlich dazu formen sie das Schlachtfeld durch Harme und Wohle wie *Erzwungene Bewegung*, *Barriere* und *Immobilisiert*.
+Im Kampf ist die Hauptaufgabe des Templars, seine Verbündeten am Leben zu halten. Sie nutzen häufig Verteidigungsaktionen, indem sie allerlei Schutzmechanismen ihrer Templarrüstung aktivieren wie z.B. Lasernetze oder Mikroraketen zum Abfangen von Geschossen. Ihre Fertigkeit *Konterschlag* erlaubt es Templaren, Verteidigungsaktionen gegen den Angreifer zu wenden. Zusätzlich dazu formen sie das Schlachtfeld durch Harme und Wohle wie *Erzwungene Bewegung*, *Barriere* und *Immobilisiert*.
 
 **Attribute:** Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Willenskraft 2 (1d6), Präsenz 2 (1d6), Energie 5 (2d6), Bewegung 4 (1d10)<br>**Trefferpunkte:** 24<br>**Deckung:** 15 (16 mit Schild - Beweglichkeit 2, Templarrüstung 3)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 14<br>**Geschwindigkeit:** 25'
 
-**Fertigkeiten:** Defensive Reflexe I, Schlachtvergeltung I, Wächter I
+**Fertigkeiten:** Defensive Reflexe I, Konterschlag I, Wächter I
 
 **Wichtige Ausrüstung:** Kampfschild, Pistole, Templarrüstung (als Plattenpanzer gewertet), 1 Granate
 #### Bevorzugte Aktionen
-_**Leereneutralisierung**_ (Verteidigungsaktion): Energie vs. Angriffswurf des Ziels, Vorteil 1<br>_**Leerenmatrix**_ (10' Linie _Barriere_ wirken): Energie vs. 16 - 20 (KL 3 - 5)<br>_**Erquickungsaura**_ (_Aura: Eile_ wirken): Bewegung vs. 18 (KL 4)<br>_**Kraftstoß**_ (_Erzwungene Bewegung_ zufügen): Bewegung vs. Deckung<br>_**Paralysestrahl**_ (_Immobilisiert_ zufügen): Bewegung vs. Deckung<br>_**Telekinese**_ (_Telekinese_ wirken): Bewegung vs. 16 (KL 3)<br>_**Unterdrückungsfeld**_ (5' _Aura: Erzwungene Bewegung_ zufügen): Energie vs. 18 (KL 4)
+_**Leereneutralisierung**_ (Verteidigungsaktion): Energie vs. Angriffswurf des Ziels, Vorteil 1<br>_**Leerenmatrix**_ (10' Linie _Barriere_ wirken): Energie vs. 16 - 20 (KL 3 - 5)<br>_**Erquickungsaura**_ (_Aura: Hast_ wirken): Bewegung vs. 18 (KL 4)<br>_**Kraftstoß**_ (_Erzwungene Bewegung_ zufügen): Bewegung vs. Deckung<br>_**Paralysestrahl**_ (_Immobilisiert_ zufügen): Bewegung vs. Deckung<br>_**Telekinese**_ (_Telekinese_ wirken): Bewegung vs. 16 (KL 3)<br>_**Unterdrückungsfeld**_ (5' _Aura: Erzwungene Bewegung_ zufügen): Energie vs. 18 (KL 4)
 ## EP erhalten und im Level aufsteigen
 Während die Legende, die du erschaffst, ihren Lauf nimmt und in Gefahr und Gravitas steigt, wird die Macht deines Charakters ebenso wachsen, um den Herausforderungen zu entsprechen. Diese Macht erhält er in Form von Erfahrungspunkten (EP), die der GM als Belohnung vergibt und die es dir erlauben, im Level aufzusteigen und so Zugang zu neuen Fertigkeiten, Attributen, Harmen und Wohlen zu erhalten.
 
-Deine gesamten gesammelten EP bestimmen dein Level, wobei jede 3 EP dir erlauben, auf das nächste Level aufzusteigen. Dein Level bestimmt dabei die möglichen Höchstwerte für deine Attributwerte und gibt einen groben Hinweis deiner Macht im Vergleich mit anderen Charakteren, NPCs[?] und Monstern. Die *Spielercharakter Levelfortschritt*-Tabelle gibt die EP-Voraussetzungen und Höchstwerte für Attribute jedes Levels an.
+Deine gesamten gesammelten EP bestimmen dein Level, wobei jede 3 EP dir erlauben, auf das nächste Level aufzusteigen. Dein Level bestimmt dabei die möglichen Höchstwerte für deine Attribute und gibt einen groben Hinweis deiner Macht im Vergleich mit anderen Charakteren, NPCs und Monstern. Die *Spielercharakter Levelfortschritt*-Tabelle gibt die EP-Voraussetzungen und Höchstwerte für Attribute für jedes Level an.
 #### Spielercharakter Levelfortschritt
 | Gesamt-EP | Level | Höchstwert für Attribute |
 | --------- | ----- | ------------------------ |
@@ -532,7 +533,7 @@ Deine gesamten gesammelten EP bestimmen dein Level, wobei jede 3 EP dir erlauben
 ### Fertigkeiten- und Attributpunkte
 Für jeden Erfahrungspunkt, den du dir verdienst, gewinnst du auch 1 Fertigkeitenpunkt und 3 Attributpunke. Diese Punkte kannst du sofort ausgeben oder aber für später sammeln. Du erhälst diese Punkte *jedes Mal*, wenn du EP erhälst, nicht nur wenn du im Level aufsteigst.
 
-Attributpunkte können ausgegeben werden, um ein schon erworbenes Attribut zu erhöhen, oder aber völlig neue Attribute zu kaufen. Die Kosten, um ein Attribut um einen Wert aufsteigen zu lassen sind gleich der Zahl des neuen Wertes. Um zum Beispiel deinen Kraftwert von 3 auf 4 aufsteigen zu lassen, würde 4 Attributpunkte kosten. Die Kosten, um ein komplett neues Attribut zu kaufen sind nach dem jeweiligen Wert in der *Attributsüberblick*-Tabelle aufgeführt, die auch Attributwürfel für Werte über 5 aufführt.
+Attributpunkte können ausgegeben werden, um ein schon erworbenes Attribut zu erhöhen, oder aber völlig neue Attribute zu kaufen. Die Kosten, um ein Attribut um einen Wert aufsteigen zu lassen sind gleich der Zahl des neuen Wertes. Um zum Beispiel deinen Kraftwert von 3 auf 4 aufsteigen zu lassen, müsstest du 4 Attributpunkte ausgeben. Die Kosten, um ein komplett neues Attribut zu kaufen sind nach dem jeweiligen Wert in der *Attributsüberblick*-Tabelle aufgeführt, die auch Attributwürfel für Werte über 5 aufführt.
 
 Die vollständige Liste aller verfügbaren Fertigkeiten kann [hier](./lists/fertigkeiten.md) gefunden werden.
 #### Attributsüberblick
