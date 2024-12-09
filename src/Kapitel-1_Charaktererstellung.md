@@ -45,11 +45,11 @@ Nach dem Ermessen des GM kannst du auch noch kleinere oder noch größere Größ
 ## Schritt 2: Wähle Attribute
 Attribute sind das Rückgrat jedes Charakters in Open Legend. Sie bestimmen was dein Charakter tun kann und was nicht, worin sie sich auszeichnen und was ihre größten Schwächen sind. Wann immer dein Charakter eine heroische Tat in Open Legend anstrebt, wirst du dich deinen Attributen zuwenden, um zu sehen, wie gut du dich dabei schlägst.
 
-In Open Legend sind Attribute in vier Kategorien aufgeteilt: körperlich, sozial, geistig und übernatürlich[?].
+In Open Legend sind Attribute in vier Kategorien aufgeteilt: körperlich, sozial, geistig und außergewöhnlich.
 
-Die Expertise eines Charakter mit Attributen wird durch einen Wert zwischen 0 (völlig ungeübt) und 9 (übermenschlich) repräsentiert. Ein Charakter kann kein übernatürliches[?] Attribut nutzen, falls er oder sie darin einen Wert von 0 hat. Körperliche, soziale und geistige Attribute können auch untrainiert genutzt werden.
+Die Expertise eines Charakter mit Attributen wird durch einen Wert zwischen 0 (völlig ungeübt) und 9 (übermenschlich) repräsentiert. Ein Charakter kann kein außergewöhnliches Attribut nutzen, falls er oder sie darin einen Wert von 0 hat. Körperliche, soziale und geistige Attribute können auch untrainiert genutzt werden.
 
-Der Durchschnittsbürger oder einfache Handwerker hat generell Werte zwischen 1 und 3 in mehreren körperlichen, sozialen und geistigen Attributen. Übernatürliche Attribute sind meist Charakteren mit großer Macht und viel Einfluss vorbehalten.
+Der Durchschnittsbürger oder einfache Handwerker hat generell Werte zwischen 1 und 3 in mehreren körperlichen, sozialen und geistigen Attributen. Außergewöhnliche Attribute sind meist Charakteren mit großer Macht und viel Einfluss vorbehalten.
 
 Die *Attribute auf einen Blick*-Tabellen geben dir einen schnellen Überblick einiger häufiger Handlungen, die die jeweiligen Attribute dir erleichtern werden.
 ##### Körperliche Attribute auf einen Blick
@@ -101,7 +101,7 @@ Die *Attribute auf einen Blick*-Tabellen geben dir einen schnellen Überblick ei
 		<td>Eine Rede geben, ein Lied singen, eine Armee inspirieren, die Macht der eigenen Persönlichkeit ausdrücken, Glück haben</td>
 	</tr>
 </table>
-##### Übernatürliche Attribute auf einen Blick
+##### Außergewöhnliche Attribute auf einen Blick
 <table>
 	<tr>
 		<th>Wandlung</th>
