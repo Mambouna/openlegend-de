@@ -1,11 +1,11 @@
 [Kapitel 1: Charaktererstellung](./Kapitel-1_Charaktererstellung.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 3: Harme und Wohle](./Kapitel-3_Harme-und-Wohle.md)
 
 # Kapitel 2: Aktionen & Attribute
-Die Einleitung und Kapitel 1 haben dir die Kernmechanik zum Abhandeln von Handlungen vermittelt und dir einen guten Überblick verschafft, wofür Attribute benutzt werden. Dieses Kapitel wird etwas tiefer in sie einsteigen und erklären, wann verschiedene Arten von Aktionswürfen gemacht werden sollten und wie man das Ergebnis interpretieren kann.
+Die Einleitung und Kapitel 1 haben dir die Kernmechanik zum Abhandeln von Aktionen vermittelt und dir einen guten Überblick verschafft, wofür Attribute benutzt werden. Dieses Kapitel wird etwas tiefer in sie einsteigen und erklären, wann verschiedene Arten von Aktionswürfen gemacht werden sollten und wie man das Ergebnis interpretieren kann.
 ## Wann die Würfel werfen?
 Open Legend dreht sich um große Geschichten voll von epischen Momenten des Heldentums, für die du Würfel werfen wirst, um das Resultat dieser Momente festzustellen. Kurz gesagt müssen Aktionswürfe nur dann ausgeführt werden, wenn die angestrebte Handlung eine wichtige Rolle in der Geschichte spielt. Im Kampf zum Beispiel wirst du viele Aktionswürfe machen um mit Schwertern zu fechten, Zauber zu werfen, Blaster zu schießen und über trügerische Abgründe zu springen. Andererseits musst du nicht jedes Mal einen Überzeugungswurf machen, wenn du im lokalen Bazaar etwas kaufst und es braucht nicht einen Logikwurf dazu, dich zu erinnern, wo du deinen Multipass gelassen hast.
 
-In Open Legend gibt es einige übernatürliche Attribute, die futuristische Technologie, Magie oder intrinsische übermenschliche Fähigkeiten darstellen können. In allen anderen Attributen kannst du Aktionswürfe mit einem Attributwert von 0 machen, aber übernatürliche Attribute verlangen einen Attributwert von 1, bevor man einen Aktionswurf mit dem Attribut ausführen kann.
+In Open Legend gibt es einige außergewöhnliche Attribute, die futuristische Technologie, Magie oder intrinsische übermenschliche Fähigkeiten darstellen können. In allen anderen Attributen kannst du Aktionswürfe mit einem Attributwert von 0 machen, aber außergewöhnliche Attribute verlangen einen Attributwert von 1, bevor man einen Aktionswurf mit dem Attribut ausführen kann.
 ## Jeder Wurf zählt
 Ein weiteres wichtiges Detail in Open Legend ist, dass jeder Aktionswurf die Geschichte vorantreiben sollte, egal ob im Guten oder Schlechten. Ein fehlgeschlagener Wurf sollte die Handlung nie stagnieren lassen, genauso wenig wie ein Fehlschlag einfach durch einen neuen Versuch eines anderen Charakters negiert werden sollte.
 
@@ -38,9 +38,9 @@ Das folgende Beispiel zeigt, wie man jeden Wurf zählen lässt.
 
 Jetzt gibt es zwei mögliche Resultate der Handlung:
 
-*Falls der GM sich für __Erfolg mit einem Haken__ entscheidet, könnte er zum Beispiel entscheiden, dass Pelias das Schloss öffnet, allerdings hört er in diesem Moment ein leises Zischen von der Tür. Eine giftige Gasfalle! Der Dieb fällt sofort in Ohnmacht und der Rest der Gruppe muss in sekundenschnelle entscheiden, was zu tun ist, bevor das Gas sie erreicht.*
+*Falls der GM sich für __Erfolg mit einem Haken__ entscheidet, könnte er zum Beispiel ansagen, dass Pelias das Schloss öffnet, allerdings in diesem Moment ein leises Zischen von der Tür hört. Eine giftige Gasfalle! Der Dieb fällt sofort in Ohnmacht und der Rest der Gruppe muss in Sekundenschnelle entscheiden, was zu tun ist, bevor das Gas sie erreicht.*
 
-*Falls der GM sich für __der Charakter schlägt fehl, aber die Handlung schreitet voran__ entscheidet, könnte er entscheiden, dass Pelias das Schloss nicht öffnen kann. Da hört Pelias Fußstapfen um die Ecke des Gangs näherkommen, zusammen mit dem Klappern [?] eines Schlüsselrings. Wenn die Gruppe sich schnell positioniert, können sie den Schlüssel vielleicht ohne Kampf erringen.*
+*Falls der GM sich für __der Charakter schlägt fehl, aber die Handlung schreitet voran__ entscheidet, könnte er ansagen, dass Pelias das Schloss nicht öffnen kann. Kurz darauf hört Pelias aber Fußstapfen um die Ecke des Gangs näherkommen, zusammen mit dem Klirren eines Schlüsselrings. Wenn die Gruppe sich schnell positioniert, können sie den Schlüssel vielleicht ohne Kampf erringen.*
 
 An diesen Beispielen wird deutlich, dass Pelias Handlung die Geschichte genauso vorantreibt, wie ein Erfolg beim Wurf es tun würde.
 ### Was man NICHT tun sollte
@@ -56,23 +56,23 @@ Im Beispiel oben würde es an vielen Spieltischen dazu kommen, dass nach dem Feh
 > - Überzeugungswürfe, um einen NPC von etwas zu überzeugen.
 > - Lernenwürfe, um sich an nützliche Informationen zu erinnern.
 ### Einfach halten: Jeder Wurf zählt für den GM
-Die "jeder Wurf zählt"-Regeln wurde erdacht, um Spieleraktionen unabhängig von Erfolg oder Fehlschlag für die Geschichte wichtig zu machen. Sie erkennt an, dass einfache Erfolg / Fehlschlag Systeme für Spielende nicht besonders viel Spaß machen. "jeder Wurf zählt" führt für den GM aber auch eine weitere Ebene der Komplexität im Spiel ein, weil es erfordert, dass der GM in Augenblick interpretiert.
+Die "jeder Wurf zählt"-Regeln wurde erdacht, um Spieleraktionen unabhängig von Erfolg oder Fehlschlag für die Geschichte wichtig zu machen. Sie erkennt an, dass einfache Erfolg / Fehlschlag Systeme für Spielende nicht besonders viel Spaß machen. "Jeder Wurf zählt" führt für den GM aber auch eine weitere Ebene der Komplexität im Spiel ein, weil es erfordert, dass der GM direkt im Augenblick interpretiert.
 
 **Wenn der GM also einen Wurf macht**, ist ein Erfolg ein Erfolg und ein Fehlschlag ein Fehlschlag.
 
 Dies wurde der Einfachheit und des Spaßes halber so entschieden. Wenn ein Spieler bei einem Wurf keinen Erfolg hat, macht es keinen Spaß, wenn daraus keine Konsequenz folgt. Wenn der GM bei einem Wurf verliert, gibt es stattdessen meist Jubel am Tisch.
 ## Aktionswürfe interpretieren
-Das oben dargestellte Szenario mit Pelias zeigt nut einen Ansatz, wie ein GM das Ergebnis eines Aktionswurfs interpretieren könnte, aber es steckt noch etwas mehr dahinter. In diesem Abschnitt bekommst du einige hilfreiche Leitlinien an die Hand, die allem am Tisch helfen sollen, sich mit der Menge an Improvisation wohl zu fühlen, die für Open Legend nötig ist.
+Das oben dargestellte Szenario mit Pelias zeigt nut einen Ansatz, wie ein GM das Ergebnis eines Aktionswurfs interpretieren könnte, aber es steckt noch etwas mehr dahinter. In diesem Abschnitt bekommst du einige hilfreiche Leitlinien an die Hand, die allen am Tisch helfen sollen, sich mit der Menge an Improvisation wohl zu fühlen, die für Open Legend nötig ist.
 ### Erfolge interpretieren
 Ein erfolgreicher Aktionswurf ist bei weitem am leichtesten zu interpretieren: er bedeutet, dass der Spieler erreicht, was er sich erhofft hatte. Falls er darauf geworfen hat, eine Klippe zu erklimmen, erklimmt er die Klippe. Falls er versucht hat, jemanden zu bestehlen, bestiehlt er sie. Versucht er, einen Ork zu erstechen, ist der Ork erstochen. Und so weiter.
 
-In einigen Fällen ist das Ergebnis eines Erfolgs schon in den Regeln festgeschrieben (zum Beispiel im Kampf, erklärt in Kapitel 7). Oft muss aber der GM entscheiden, was bei einem erfolgreichen Aktionswurf passiert.
+In einigen Fällen ist das Ergebnis eines Erfolgs schon in den Regeln festgeschrieben (zum Beispiel im Gefecht, erklärt in [Kapitel 7: Kampf](./Kapitel-7_Kampf.md)). Oft muss aber der GM entscheiden, was bei einem erfolgreichen Aktionswurf passiert.
 
 Es gibt zwei primäre Faktoren, die bedacht werden müssen, wenn man einen Erfolg auslegt:
 
 **Würfle nicht, falls Erfolg nicht möglich ist.** Wenn ein Charakter zum Beispiel in einem Korridor nach einer versteckten Tür suchen will, aber der GM weiß, dass es keine gibt, braucht der Charakter keinen Wahrnehmungswurf zu machen. Der Wurf zählt für nichts.
 
-**Beschreibe deinen Erfolg.** Wann immer die Situation es zulässt, sollte der Spieler die Möglichkeit haben, dem Rest des Tisches zu beschreiben, wie ihr Erfolg aussieht. Es ist sein Zug im Rampenlicht, also lass ihn glänzen. Wenn dein Schurke erfolgreich eine Falle entschärft, beschreibe, wie die sensenden Klingen gerade noch deine Wange ritzten, bevor du den letzten Zug tatest. Wenn dein Mech-Ritter eine erfolgreiche Sprung-Attacke gegen einen feindlichen Panzer ausführt, führe aus, wie das extra Momentum des Sprungs dich deine Servo-Klingen durch die Panzerung treiben lässt. Manchmal hat der GM auch den Spielern vorbehaltene Informationen, sodass er Ergebnisse beschreiben muss. Wo immer möglich, sollten aber Spieler ihre eigenen Erfolge beschreiben.
+**Beschreibe deinen Erfolg.** Wann immer die Situation es zulässt, sollten Spieler\*innen die Möglichkeit haben, dem Rest des Tisches zu beschreiben, wie ihr Erfolg aussieht. Es ist ihr Zug im Rampenlicht, also lass sie glänzen. Wenn dein Schurke erfolgreich eine Falle entschärft, beschreibe, wie die sensenden Klingen gerade noch deine Wange ritzten, bevor du den letzten Zug tatest. Wenn dein Mech-Ritter eine erfolgreiche Sprung-Attacke gegen einen feindlichen Panzer ausführt, erzähle, wie das extra Momentum des Sprungs dich deine Servo-Klingen durch die Panzerung treiben lässt. Manchmal hat der GM auch den Spielenden vorbehaltene Informationen, sodass er Ergebnisse beschreiben muss. Wo immer möglich, sollten aber Spieler\*innen ihre eigenen Erfolge beschreiben.
 ### Erfolg mit einem Haken interpretieren
 Wenn ein Spieler bei einem Aktionswurf fehlschlägt, kann der GM entscheiden, die Handlung des Spielers mit einem Haken durchgehen zu lassen. In diesem Fall bekommt der Spieler sein ursprüngliches Ziel, aber es gibt eine ungewollte Konsequenz oder unbedachte Kosten. Die folgende Liste ist nicht abschließend, aber sie sollte dir eine Idee geben, was als Haken bei einem Erfolg dienen könnte.
 
@@ -100,7 +100,7 @@ Der GM kann entscheiden, wie schlimm ein Fehlschlag endet. Manchmal, endet er se
 ## Herausforderung bestimmen
 Viele Aktionen, die du in Open Legend versuchen wirst, haben einen Herausforderungswert (HW), der durch die Regeln bestimmt ist. Attacken im Kampf nutzen zum Beispiel die Verteidigungswerte des Ziels als HW.
 
-Often bestimmt aber auch der GM den HW für Aktionen, die nicht klar in den Regeln ausgelegt sind. In diesen Fällen, kann der GM die *Herausforderungswerte nach Schwierigkeit*-Tabelle nutzen, um einen passenden HW festzulegen.
+Oft bestimmt aber auch der GM den HW für Aktionen, die nicht klar in den Regeln ausgelegt sind. In diesen Fällen, kann der GM die *Herausforderungswerte nach Schwierigkeit*-Tabelle nutzen, um einen passenden HW festzulegen.
 #### Herausforderungswerte nach Schwierigkeit
 | Schwierigkeit  | HW  |                                                                               Beispielaktionen                                                                               |
 | :------------: | :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -131,13 +131,13 @@ Manchmal werden zwei oder mehr Charaktere bei einer Handlung direkt durch ihre S
 Um solche Wettkämpfe durchzuführen, macht jeder involvierte Charakter einen Aktionswurf mit dem für sie passenden Attribut. Wer auch immer den höchsten Wert erzielt, hat Erfolg. Manchmal nutzen alle Parteien des Konflikts das gleiche Attribut, aber oft nutzen alle Charaktere eigene Attribute, wie im Fall des Schurken (Beweglichkeit), der an den Wachen (Wahrnehmung) vorbei schleichen möchte.
 
 > #### Beispiel für Bestrittene Aktionen
-> Während der namenlose Nekromant versucht, ein Portal zu öffnen, um den Schattendämon auf die Länder loszulassen, versucht Uldric der Beschützer, sein ganzes Maß magischen Willens aufzubringen, um das Portal zu schließen. Der GM bestimmt, dass es eine bestrittene Aktion zwischen den beiden Charakteren gibt. Der Nekromant macht einen Vergehenwurf und hat 25 als Ergebnis, während Uldric auf seinem Schutzwurf 20 hat. Zum Unglück für den Rest der Welt, wurde der Dämon freigelassen.
+> Während der namenlose Nekromant versucht, ein Portal zu öffnen, um den Schattendämon auf die Länder loszulassen, versucht Uldric der Beschützer, sein ganzes Maß magischen Willens aufzubringen, um das Portal zu schließen. Der GM bestimmt, dass es eine bestrittene Aktion zwischen den beiden Charakteren gibt. Der Nekromant macht einen Vergehenwurf und hat 25 als Ergebnis, während Uldric auf seinem Schutzwurf 20 hat. Zum Unglück für den Rest der Welt wurde der Dämon freigelassen.
 ### Gruppenaktionswürfe
 In bestimmten Szenarien hängt der Erfolg einer Aktion von den Fähigkeiten mehrerer Charaktere ab, zum Beispiel wenn eine Gruppe von Schatzjägern versuchen, an Wachen vorbeizuschleichen, oder aber zwei Hacker beim Zugriff auf geschützte Daten zusammenarbeiten. In solchen Fällen beschreiben alle Charaktere, die zur Handlung beitragen, wie sie bei der Aktion mitwirken und führen dann einen Aktionswurf mit dem passenden Attribut aus. Zähle dann die Anzahl an Erfolgen und Fehlschlägen anhand des Herausforderungswertes der Aufgabe. Falls es mehr Fehlschläge als Erfolge gibt, schlägt die gesamte Handlung fehl. Ist dies nicht der Fall, hat die Gruppe Erfolg. Der GM interpretiert diesen Erfolg oder Fehlschlag, als wäre es ein einziger Aktionswurf, anstatt jeden einzelnen Wurf abzuhandeln.
 
 Der GM hat immer das letzte Wort, ob und wann eine Gruppenaktion angebracht ist und wer wie dazu beitragen kann.
 ## Vorteil & Nachteil
-Manchmal wirst du Handlungen unter Umständen versuchen, die dir gelegen kommen - zum Beispiel wenn du einen Feind von hinten angreifst - oder aber nachteilhaft sind - zum Beispiel wenn das Seil, dass du erklimmen willst, von einem Feind mit Fett eingeschmiert wurde-. In diesen Fällen passt der GM nicht den Herausforderungswert der Aktion an, sondern gibt dir einen **Vorteil** oder einen **Nachteil**.
+Manchmal wirst du Handlungen unter Umständen versuchen, die dir gelegen kommen (zum Beispiel wenn du einen Feind von hinten angreifst) oder aber nachteilhaft sind (zum Beispiel wenn das Seil, dass du erklimmen willst, von einem Feind mit Fett eingeschmiert wurde). In diesen Fällen passt der GM nicht den Herausforderungswert der Aktion an, sondern gibt dir einen **Vorteil** oder einen **Nachteil**.
 
 Vorteil und Nachteil werden jeweils mit einem Zahlenwert dargestellt, also zum Beispiel "Vorteil 1" oder "Nachteil 3". Mehrere Einheiten von Vorteil oder Nachteil können zusammenwirken. Wenn du also Vorteil 1 auf eine Attacke hast, weil du einen Gegner von der Seite aus angreifst und du gleichzeitig eine Fertigkeit hast, die dir Vorteil 1 gibt, hast du insgesamt Vorteil 2.
 
@@ -157,12 +157,12 @@ Nachteil funktioniert sehr ähnlich. Wenn du Nachteil hast, würfelst du auf die
 Vorteil und Nachteil werden nur bei deinem ursprünglichen Würfelpool angewandt. Sie gelten nicht für darauf folgende Würfe aufgrund von explodierenden Würfeln.
 
 > #### Beispiel von Vorteil mit explodierenden Würfeln
-> Tommy "Two Guns" ballert mit seinen Pistolen auf einen feindlichen Gangster. Sein Beweglichkeitswert ist 3 und er hat Vorteil 2 auf den Wurf, also wirft er 1d20 + 3d8. Tommys d20 landet auf einer 10 und die d8 landen auf 8, 8, 3. Aufgrund seines Vorteils 2 ignoriert Tommy die niedrigsten zwei Würfel: die 3 und einen mit 8. Er würfelt die andere 8 erneut, da der Würfel beim Höchstwert explodiert und bekommt eine 5. Sein endgültiger Wurf ist also 23 (10 + 8 + 5).
+> Tommy "Two Guns" ballert mit seinen Pistolen auf einen feindlichen Gangster. Sein Beweglichkeitswert ist 3 und er hat Vorteil 2 auf den Wurf, also wirft er 1d20 + 3d8. Tommys d20 landet auf einer 10 und die d8 landen auf 8, 8, 3. Aufgrund seines Vorteils 2 ignoriert Tommy die niedrigsten zwei Würfel: den mit 3 und einen mit 8. Er würfelt die andere 8 erneut, da der Würfel beim Höchstwert explodiert und bekommt eine 5. Sein endgültiger Wurf ist also 23 (10 + 8 + 5).
 
 ### Vorteil & Nachteil ohne Attributwürfel
-Wenn man einen Aktionswurf ohne Attributwürfel macht, wirken Vorteil und Nachteil sich auf den d20 aus. Man wirft zum Beispiel 2d20 und behält den höchsten Wert. Bei Nachteil wirft man 2d20 und behält den niedrigeren Wert. Weiterhin kann man in solchen Situationen nicht mehr als Vorteil 1 oder Nachteil 1 haben. Der Charakter ist so ungeübt bei der Handlung, dass er zusammenfallende Vorzüge nicht ausnutzen und mehr Behinderung nicht weiter stören kann.
+Wenn man einen Aktionswurf ohne Attributwürfel macht, wirken Vorteil und Nachteil sich auf den d20 aus. Man wirft zum Beispiel 2d20 und behält den höchsten Wert. Bei Nachteil wirft man 2d20 und behält den niedrigeren Wert. Weiterhin kann man in solchen Situationen nicht mehr als Vorteil 1 oder Nachteil 1 haben. Der Charakter ist so ungeübt bei der Handlung, dass er zusammenfallende Vorzüge nicht ausnutzen und mehr Behinderung ihn nicht weiter stören können.
 
-Diese Regeln gelten sowohl für Aktionen, die mit einem Attributwert von 0 ausgeführt werden, als auch für nicht-Aktionswürfe (wie ein d20 bei einem Widerstehenwurf[?]). Dazu kommt, dass man nicht absichtlich Nachteile für einen positiven Effekt bei einem Wurf ohne Attributwürfel sammeln kann. Also kann man mit einem Attributwert von 0 nicht Vielfachattacken verwenden (mehr dazu in [Kapitel 7: Kampf](./Kapitel-7_Kampf.md)).
+Diese Regeln gelten sowohl für Aktionen, die mit einem Attributwert von 0 ausgeführt werden, als auch für nicht-Aktionswürfe (wie ein d20 bei einem Widerstehenwurf). Dazu kommt, dass man nicht absichtlich Nachteile für einen positiven Effekt bei einem Wurf ohne Attributwürfel sammeln kann. Also kann man mit einem Attributwert von 0 keine Angriffe mit Multi-Zielen verwenden (mehr dazu in [Kapitel 7: Kampf](./Kapitel-7_Kampf.md)).
 ### Vorteil & Nachteil zuweisen
 Vorteil und Nachteil können vom GM zugewiesen werden, oder aber durch Fertigkeiten, Harme oder Wohle erhalten werden. Wenn sie je nach Situation vom GM vergeben werden, sollte dieser nie mehr als Vor- oder Nachteil 1 anwenden. Fertigkeiten, Harme und Wohle auf der anderen Seite werden häufig mehrere Level an Vorteil oder Nachteil mit sich bringen. Die *Vorteil und Nachteil Beispiele*-Tabelle gibt eine Auflistung von typischen Situationen, in denen der GM eventuell Vorteil oder Nachteil zuweisen könnte, wobei die Liste natürlich nicht abschließend ist.
 #### Vorteil und Nachteil Beispiele
@@ -181,7 +181,7 @@ Eine weitere Form an Tiefe beim Abhandeln von Aktionen gibt es in Form von Legen
 Charaktere starten mit 0 Legendenpunkten und können maximal 10 auf einmal haben. Der GM kann einen Spielercharakter mit einem Legendenpunkt belohnen, wenn dieser seine Charakterschwächen trotz negativer Konsequenz einsetzt oder aber für besonders starkes Rollenspiel.
 
 > ### Beispiel für das Erhalten eines Legendenpunktes
-> Zaax hat die Charakterschwäche *kurze Lunte*, wodurch er schnell in Wut verfällt. Mitten in den angespannten Verhandlungen seiner Gruppe mit den imperialen Wachen, verliert Zaax die Geduld vor dem Hochkommandanten und erschießt einen seiner Männer. Das ist ein klares Beispiel, wie Zaax seine Charakterschwäche trotz negativer Konsequenzen einsetzt, sodass der GM ihm einen Legendenpunkt gibt.
+> Zaax hat die Charakterschwäche *kurze Lunte*, wodurch er schnell in Wut verfällt. Mitten in den angespannten Verhandlungen seiner Gruppe mit den imperialen Wachen verliert Zaax die Geduld vor dem Hochkommandanten und erschießt einen seiner Männer. Das ist ein klares Beispiel, wie Zaax seine Charakterschwäche trotz negativer Konsequenzen einsetzt, sodass der GM ihm einen Legendenpunkt gibt.
 
 Der GM kann auch frei andere Regeln etablieren, nach denen Legendenpunkte verdient werden können. Beispielsweise mögen es manche GMs, dass ihre Spielenden sich gegenseitig jeweils einen Legendenpunkt pro Spielsitzung geben können. Andere Tische haben vielleicht eine Wahl des MVP oder besten Rollenspielers am Ende jeder Sitzung, bei der der Gewinner einen Legendenpunkt bekommt.
 ### Legendenpunkte einsetzen

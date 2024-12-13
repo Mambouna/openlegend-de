@@ -1,32 +1,32 @@
 [Kapitel 5: Charakterstärken und -schwächen](./Kapitel-5_Charakterstaerken-und-schwaechen.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 7: Kampf](./Kapitel-7_Kampf.md)
 
 # Kapitel 6: Wohlstand & Ausrüstung
-Keine Geschichte von Helden ist ohne ebenso heldenhafte Ausrüstung, Waffen und Rüstung vollständig. Indiana Jones hatte seine Peitsche, König Arthur hatte *Exkalibur* und Bilbo hatte das Mithrilkettenhemd. In diesem Kapitel lernst du alles, was du wissen musst, um deinen Charakter auf Level 1 und jenseits davon ausrüsten zu können. Ebenso wird behandelt, wie du deinen Wohlstand verwaltest, während du die Schätze von Weltraumpiraten plünderst oder Hand an die Schatzkammer eines Königs legst.
+Keine Geschichte von Helden ist ohne ebenso heldenhafte Ausrüstung, Waffen und Rüstung vollständig. Indiana Jones hatte seine Peitsche, König Arthur hatte *Exkalibur* und Bilbo hatte das Mithrilkettenhemd. In diesem Kapitel lernst du alles, was du wissen musst, um deinen Charakter auf Level 1 und jenseits davon auszurüsten. Ebenso wird behandelt, wie du deinen Wohlstand verwaltest, während du die Schätze von Weltraumpiraten plünderst oder Hand an die Schatzkammer eines Königs legst.
 ## Wohlstand
-Anstatt jedes einzelne Goldstück, jeden Kredit oder jedes Kunstwerk im Blick zu behalten, das du auf deinen Abenteuern erhälst, benutzt Open Legend ein vereinfachtes System des Wohlstands.
+Anstatt jedes einzelne Goldstück, jeden Credit oder jedes Kunstwerk im Blick zu behalten, das du auf deinen Abenteuern erhälst, benutzt Open Legend ein vereinfachtes System des Wohlstands.
 
 Jeder Charakter hat einen Wohlstandswert, welcher bei 2 beginnt und die Werte 0 bis 9 annehmen kann, wenn du Reichtum anhäufst oder ausgibst. Dein Wohlstandswert gibt dir eine grundlegende Idee davon, wie dein momentaner Lebensstandard ist und was für Güter und Dienstleistungen du dir leisten kannst. Die *Wohlstandsüberblick*-Tabelle beschreibt den typischen Lifestyle und verfügbare Güter für jeden Wert.
 #### Wohlstandsüberblick
-| Wohlstandswert | Lifestyle                                                | bsp. Ausgaben                                                                                        |
-| -------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 0              | Bettler, Straßenkind                                     | 3 Mahlzeiten und ein warmes Bett für die Nacht                                                       |
-| 1              | Tagelöhner                                               | eine Zechnacht, Lederrüstung, einfache Waffen                                                        |
-| 2              | Handwerker, Stadtwache, Level 1 Charakter                | Kriegswaffen[?], Allzweckfahrzeug, Kettenhemd, ein gutes Pferd                                    |
-| 3              | meisterhafter Handwerker, Dorfbürgermeister              | gepanzerter Trenchcoat, Silberkugeln, ein kleines Boot, ein exzellentes Pferd, ein gutes Auto        |
-| 4              | Level 4 Charakter, Aristokrat, Stadtbürgermeister        | elfischer Plattenpanzer, ein leichter Panzer, ein kleines Schiff, eine Belagerungswaffe              |
-| 5              | Herr über Ländereien[?], Mafiachef in einer großen Stadt | ein großes Frachtschiff, eine Stadtmauer, ein schwerer Kampfpanzer, Waffen für eine kleine Miliz     |
-| 6              | Level 7 Charakter, Föderationskanzler[?]                 | ein großes Kriegsschiff, ein bahnbrechender Prototyp, die Arbeiterschaft eines mittelgroßen Konzerns |
-| 7              | König, Präsident                                         | eine Festung, ein Kampfjet, eine verdeckte Spezialeinheit[?]                                         |
-| 8              | Intergalaktischer Herrscher, Level 10 Charakter          | ein großes Landgut, eine große Konzernübernahme, eine Armee von 10.000                               |
-| 9              | Imperator                                             | ein Schloss, eine Raumstation, eine Armee von 50.000, eine Flotte Kriegsschiffe                      |
+| Wohlstandswert | Lifestyle                                         | bsp. Ausgaben                                                                                        |
+| -------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| 0              | Bettler, Straßenkind                              | 3 Mahlzeiten und ein warmes Bett für die Nacht                                                       |
+| 1              | Tagelöhner                                        | eine Zechnacht, Lederrüstung, einfache Waffen                                                        |
+| 2              | Handwerker, Stadtwache, Level 1 Charakter         | Kriegswaffen[?], Allzweckfahrzeug, Kettenhemd, ein gutes Pferd                                       |
+| 3              | Meisterhandwerker, Dorfbürgermeister              | gepanzerter Trenchcoat, Silberkugeln, ein kleines Boot, ein exzellentes Pferd, ein gutes Auto        |
+| 4              | Level 4 Charakter, Aristokrat, Stadtbürgermeister | elfischer Plattenpanzer, ein leichter Panzer, ein kleines Schiff, eine Belagerungswaffe              |
+| 5              | Fürst, Mafiachef in einer großen Stadt            | ein großes Frachtschiff, eine Stadtmauer, ein schwerer Kampfpanzer, Waffen für eine kleine Miliz     |
+| 6              | Level 7 Charakter, Kanzler                        | ein großes Kriegsschiff, ein bahnbrechender Prototyp, die Arbeiterschaft eines mittelgroßen Konzerns |
+| 7              | König, Präsident                                  | eine Festung, ein Kampfjet, eine geheime Spezialeinheit                                              |
+| 8              | Intergalaktischer Herrscher, Level 10 Charakter   | ein großes Landgut, eine große Konzernübernahme, eine Armee von 10.000                               |
+| 9              | Imperator                                         | ein Schloss, eine Raumstation, eine Armee von 50.000, eine Flotte Kriegsschiffe                      |
 ### Güter und Dienstleistungen erwerben
-Egal, ob du neue Ausrüstung kaufen, ein Gebäude errichten oder einen Handwerker anheuern willst, dein Wohlstandswert gibt an, ob du dazu in der Lage bist. Alle Güter und Dienstleistungen haben ihren eigenen Wohlstandswert (entweder von den Regeln oder dem GM festgelegt). Dieser Wert wird mit dem deinen verglichen, um festzustellen, wie viel dich der Erwerb kostet:
+Egal, ob du neue Ausrüstung kaufen, ein Gebäude errichten oder einen Handwerker anheuern willst, dein Wohlstandswert gibt an, ob du dazu in der Lage bist. Alle Güter und Dienstleistungen haben ihren eigenen Wohlstandswert (entweder von den Regeln oder dem GM festgelegt). Dieser Wert wird mit deinem verglichen, um festzustellen, wie viel dich der Erwerb kostet:
 
 Fallst die Güter, die du kaufen möchtest, einen Wohlstandswert **niedriger** als dein eigener haben, kannst du die Items ohne Probleme erwerben.
 
 Fallst der Wohlstandswert des Items **gleich** deinem Wohlstandswert ist, kannst du es erwerben, aber es beachsprucht deine Ressourcen signifikant, sodass du für zwei Wochen keine weiteren Items dieses Wohlstandswertes oder höher beanspruchen kannst.
 
-Falls der Gegenstand oder die Dienstleistung **einen Wert höher** als dein eigener Wohlstandswert ist und dein Wohlstandswert größer als 0 ist, kannst du es erwerben, aber die Kosten sind so enorm, dass dein Wohlstandswert permanent um 1 niedriger wird.
+Falls der Gegenstand oder die Dienstleistung **einen Wert höher** als dein eigener Wohlstandswert liegt und dein Wohlstandswert größer als 0 ist, kannst du es erwerben, aber die Kosten sind so enorm, dass dein Wohlstandswert permanent um 1 sinkt.
 
 Du kannst nichts kaufen, was mehr als einen Wert über deinem eigenen Wohlstandswert liegt.
 
@@ -48,7 +48,7 @@ Open Legend ist am Werfen von Würfeln, erzählen großer Geschichten und Spaß 
 ### Maximal zwanzig Items
 Du kannst bis zu 20 Ausrüstungsgegenstände tragen. Nicht eins mehr. Behalte dabei nur die Items im Blick, die tatsächlich das Spielgeschehen beeinflussen. Du musst also nicht die Hosen oder das Hemd deines Helden auf deinem Charakterbogen aufführen. Deine Rüstung zählt aber.
 
-Mehrere ähnliche Items können zusammengruppiert werden, zum Beispiel zwanzig Pfeile in einem Köcher oder mehrere Heiltränke an deinem Gürtel, und werden für das Tragelimit nur als ein Item gezählt. Der GM kann anhand seiner eigenen Einschätzung weitere Einschränkungen einführen. Obwohl 1000 Magazine an Munition nach dieser Regeln theoretisch als ein Item gelten könnten, kann der GM entscheiden, dass ein Charakter so viel nicht tragen kann, oder dass diese Menge als *sperrig* zählt (siehe unten).
+Mehrere ähnliche Items können zusammengruppiert werden, zum Beispiel zwanzig Pfeile in einem Köcher oder mehrere Heiltränke an deinem Gürtel, und werden für das Tragelimit nur als ein Item gezählt. Der GM kann anhand seiner eigenen Einschätzung weitere Einschränkungen einführen. Obwohl 1000 Magazine an Munition nach dieser Regel theoretisch als ein Item gelten könnten, kann der GM entscheiden, dass ein Charakter so viel nicht tragen kann, oder dass diese Menge als *sperrig* zählt (siehe unten).
 ### Maximale Anzahl schwerer Items anhand des Kraftwertes
 Einige Items haben die Eigenschaft *schwer*. Du kannst maximal so viele *schwere* Items mit dir tragen, wie dein Kraftwert groß ist. Sobald du deine Maximalzahl an *schweren* Items trägst, wird deine Geschwindigkeit halbiert. Ein Charakter mit Kraftwert 0 kann keine schweren Items tragen.
 ### Ein (oder zwei) sperrige Items
@@ -56,7 +56,7 @@ Manche Items haben die *sperrig* Eigenschaft. Du kannst ein einziges *sperriges*
 ## Waffen & Geräte
 Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an Ausrüstung an, die du im Kampf benutzen kannst. Sie enthält Beispiele verschiedener Genres und Settings und du kannst existierende Waffen an deine Kampagne anpassen, indem du einfach den Namen änderst aber die spielmechanischen Eigenschaften beibehälst. Ein Flammenwerfer zum Beispiel kann genauso gut ein alchemischer Säurespucker sein.
 
-**Beispiele** führen eine oder mehrere Waffen auf, die spielmechanisch equivalent sind. Es handelt sich um keine abschließende Liste, aber es kann dir helfen, loszulegen. Besprich gerne mit deinem GM, was für Items in eurem Spiel Sinn ergeben.
+**Beispiele** führen eine oder mehrere Waffen auf, die spielmechanisch equivalent sind. Es handelt sich um keine abschließende Liste, aber es kann dir helfen, loszulegen. Besprich' am besten mit deinem GM, was für Items in eurem Spiel Sinn ergeben.
 
 **Kategorie** ist eine allgemeine Gruppe, in die die Waffe fällt. Manche Waffen fallen in mehrere Gruppen. Falls eine Waffe mehrere Kategorien hat, muss der sie führende Charakter für jede Attacke entscheiden, in welcher Kategorie die Waffe für diese Attacke spielmechanisch fällt, woraufhin sie die Vorteile dieser Kategorie erhält. Beispielsweise hat ein Dolch die Kategorien "direkte Reichweite" und "Einhand Nahkampf". Bei jeder Attacke muss der Charakter entscheiden, in welcher Kategorie er die Waffe gerade nutzt.
 
@@ -65,61 +65,62 @@ Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an 
 	- **Zweihand Nahkampf** - Die Waffe benötigt zwei Hände, um sie zu führen und kann nicht mit einem Schild oder einer anderen Waffe zusammen benutzt werden. Zweihand Nahkampfwaffen geben dir Vorteil 1 auf alle Angriffe.
 	- **Vielfältig Nahkampf** - Diese Waffe kann sowohl ein- oder zweihändig geführt werden. Der Charakter kann frei zwischen den Modi wechseln und erhält dabei jeweils die Vor- und Nachteile des momentanen Modus.
 - **Fernkampf** - Waffen in dieser Kategorie können genutzt werden, um Fernkampfangriffe bis zu ihrer Reichweite (in Fuß) auszuführen, ohne dabei ein Malus zu erhalten. Angriffe bis zu zweimal der normalen Reichweite werden mit Nachteil 1 ausgeführt und Angriffe bis zu dreimal der normalen Reichweite mit Nachteil 2. Noch weiter reichende Attacken können nicht ausgeführt werden. Munition wird generell nicht abgezählt, da davon ausgegangen wird, dass du genug mitgebracht hast.
-	- **Reichweiten**
+	- **Reichweiten:**
 		- **Direkte Reichweite**[?] - Reichweite von 25'.
 		- **Kurze Reichweite** - Reichweite von 50'.
 		- **Mittlere Reichweite** - Reichweite von 75'.
 		- **Große Reichweite** - Reichweite von 125'.
 		- **Extreme Reichweite** - Reichweite von 300'.
 	- Waffen mit **direkter** und **kurzer** Reichweite sind konstruiert, um in engen Umgebungen effektiv genutzt werden zu können. Sie können mit einer Hand geführt werden, sodass die andere Hand frei bleibt.
-	- Waffen mit **mittlerer**, **großer** und **extremer** Reichweite haben unterschiedlich Stärken, sind aber generell nicht für den Kampf auf engem Raum gebaut. Sie benötigen zwei Hände, um sie zu führen und lassen so keine Hand frei.
-	- Waffen mit **extremer** Reichweite sind außerdem speziell für die  und können nicht für Angriffe auf ein Ziel näher als 50' benutzt werden.
-**WW (Wohlstandswert)** ist eine Angabe dafür, wie teuer das Item ist. Siehe die Sektion **Wohlstand** oben in diesem Kapitel, um zu lernen, wie das funktioniert.
+	- Waffen mit **mittlerer**, **großer** und **extremer** Reichweite haben unterschiedliche Stärken, sind aber generell nicht für den Kampf auf engem Raum gebaut. Sie benötigen zwei Hände, um sie zu führen und lassen so keine Hand frei.
+	- Waffen mit **extremer** Reichweite sind außerdem speziell für Distanz konstruiert und können nicht für Angriffe auf ein Ziel näher als 50' benutzt werden.
+
+**WW (Wohlstandswert)** ist eine Angabe dafür, wie teuer das Item ist. Siehe die Sektion **Wohlstand** oben in diesem Kapitel für die Details.
 
 **Eigenschaften** sind Qualitäten, die jede Waffe einzigartig macht. Wie die Eigenschaften spielmechanisch funktionieren, ist unten beschrieben.
 
-**Harme**[?] geben an, was für Harme von der Waffe besonders gut angewendet werden können. Wenn ein Angreifer die Waffe benutzt, um einen der aufgelisteten Harme zu wirken, kann er das Kraftlevel des Harmes für diese Attacke als eins niedriger ansehen, um zu prüfen, ob er den für den Harm nötigen Attributwert hat. Außerdem bekommst du bei einer Harmattacke mit dieser Waffe Vorteil 1 beim Wurf. Einige besondere Waffen führen Harme auf, die normalerweise nicht mit den Attributen Kraft oder Beweglichkeit gewirkt werden können. In diesem Fall kann das Attribut, welches für den Angriff genutzt wird, auch benutzt werden, um den Harm zu wirken.
+**Harme** geben an, was für Harme von der Waffe besonders gut angewendet werden können. Wenn ein Angreifer die Waffe benutzt, um einen der aufgelisteten Harme zu wirken, kann er das Kraftlevel des Harmes für diese Attacke als eins niedriger ansehen, um zu prüfen, ob er den für den Harm nötigen Attributwert hat. Außerdem bekommst du bei einer Harmattacke mit dieser Waffe Vorteil 1 beim Wurf. Einige besondere Waffen führen Harme auf, die normalerweise nicht mit den Attributen Kraft oder Beweglichkeit gewirkt werden können. In diesem Fall kann das Attribut, welches für den Angriff genutzt wird, auch benutzt werden, um den Harm zu wirken.
 #### Waffen & Geräte
-| Beispiele                                       | Kategorie                             | WW  | Eigenschaften                                                                | Harme                                                      |
-| ----------------------------------------------- | ------------------------------------- | --- | ---------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| unbewaffneter Schlag                            | Einhand Nahkampf                      | 0   | kraftvoll, präzise, schnell                                                  | betäubt, niedergeschlagen                                  |
-| Bowiemesser, Shiv[?], Multitool                 | Einhand Nahkampf                      | 2   | präzise, schnell                                                             | anhaltender Schaden, entwaffnet                            |
-| Krummsäbel, Kurzschwert, Machete, Sägeblatt     | Einhand Nahkampf                      | 2   | kraftvoll, präzise                                                           | anhaltender Schaden, entwaffnet                            |
-| Blasrohr, Dart[?]                               | Direkte Reichweite                    | 1   | präzise                                                                      | immobilisiert                                              |
-| Beil, Dolch                                     | Direkte Reichweite, Einhand Nahkampf  | 2   | kraftvoll, präzise, schnell                                                  | anhaltender Schaden, entwaffnet                            |
-| Langschwert, Katana, Falchion                   | Vielfältig Nahkampf                   | 2   | kraftvoll, präzise                                                           | anhaltender Schaden, entwaffnet                            |
-| Baseball-Schläger, Knüppel, Improvisierte Waffe | Einhand Nahkampf                      | 1   | kraftvoll                                                                    | niedergeschlagen, betäubt                                  |
-| Schlegel[?], Kriegshammer                       | Einhand Nahkampf                      | 2   | kraftvoll                                                                    | niedergeschlagen, betäubt, erzwungene Bewegung             |
-| Großschwert, No-Dachi, Claymore, Bastardschwert | Zweihand Nahkampf                     | 2   | kraftvoll, präzise, schwer                                                   | erzwungene Bewegung, niedergeschlagen                      |
-| Kettensäge                                      | Zweihand Nahkampf                     | 2   | kraftvoll                                                                    | anhaltender Schaden, demoralisiert, provoziert, Furcht     |
-| Kurzspeer                                       | Vielfältig Nahkampf, Kurze Reichweite | 1   | kraftvoll, präzise                                                           | anhaltender Schaden, entwaffnet, immobilisiert             |
-| Vorschlaghammer, Maul[?], Kriegsaxt             | Zweihand Nahkampf                     | 2   | kraftvoll, schwer                                                            | niedergeschlagen, erzwungene Bewegung, betäubt             |
-| Langspeer                                       | Zweihand Nahkampf, Direkte Reichweite | 2   | kraftvoll, präzise, lang                                                     | anhaltender Schaden, entwaffnet, immobilisiert             |
-| Mistgabel, Stab                                 | Zweihand Nahkampf                     | 1   | kraftvoll                                                                    | niedergeschlagen, immobilisiert, erzwungene Bewegung       |
-| Glaive, Hellebarde, Naginata                    | Zweihand Nahkampf                     | 2   | kraftvoll, lang                                                              | niedergeschlagen, immobilisiert, erzwungene Bewegung       |
-| Flammenwerfer                                   | Zweihand Nahkampf                     | 3   | Präzise, langsam, Gebiet (5' / 10' Kegel)                                    | Furcht, anhaltender Schaden                                |
-| Laserpistole, Revolver, Pistole                 | Kurze Reichweite                      | 2   | präzise                                                                      | anhaltender Schaden, verlangsamt                           |
-| Granate, Molotov Elixir                         | Direkte Reichweite                    | 2   | präzise, Verbrauchsgut, Gebiet (10' Würfel)                                  | anhaltender Schaden, niedergeschlagen, erzwungene Bewegung |
-| Leichte Armbrust                                | Mittlere Reichweite                   | 2   | präzise                                                                      | anhaltender Schaden, immobilisiert                         |
-| Abgesägte Schrotflinte                          | Kurze Reichweite                      | 2   | präzise, langsam, Gebiet (10' Kegel)                                         | anhaltender Schaden, betäubt, erzwungene Bewegung          |
-| Kurzbogen, Schrotflinte[?]                      | Mittlere Reichweite                   | 2   | präzise                                                                      | verlangsamt, anhaltender Schaden, niedergeschlagen         |
-| Maschinenpistole, M16                           | Mittlere Reichweite                   | 3   | präzise, Gebiet (10' Würfel)                                                 | anhaltender Schaden, provoziert, demoralisiert             |
-| Schwere Armbrust, Langbogen, Gewehr             | Große Reichweite                      | 2   | präzise                                                                      | anhaltender Schaden, verlangsamt                           |
-| Scharfschützengewehr, Lasergewehr               | Extreme Reichweite                    | 2   | präzise                                                                      | anhaltender Schaden, verlangsamt                           |
-| Kanone                                          | Extreme Reichweite                    | 2   | präzise, langsam, Gebiet (15' Rechteck), Verzögert Bereit, schwer, stationär | anhaltender Schaden, erzwungene Bewegung, betäubt          |
-| Kleiner Schild                                  | Einhand Nahkampf                      | 2   | kraftvoll, defensiv 1                                                        | erzwungene Bewegung, betäubt, niedergeschlagen             |
-| Riot-Schild, Turmschild                         | Einhand Nahkampf                      | 3   | kraftvoll, defensiv 2                                                        | erzwungene Bewegung, betäubt, niedergeschlagen             |
+| Beispiele                                       | Kategorie                             | WW  | Eigenschaften                                                                 | Harme                                                      |
+| ----------------------------------------------- | ------------------------------------- | --- | ----------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| unbewaffneter Schlag                            | Einhand Nahkampf                      | 0   | Kraftvoll, Präzise, Schnell                                                   | Betäubt, Niedergeschlagen                                  |
+| Bowiemesser, Shiv, Multitool                    | Einhand Nahkampf                      | 2   | Präzise, Schnell                                                              | Anhaltender Schaden, Entwaffnet                            |
+| Krummsäbel, Kurzschwert, Machete, Sägeblatt     | Einhand Nahkampf                      | 2   | Kraftvoll, Präzise                                                            | Anhaltender Schaden, Entwaffnet                            |
+| Blasrohr, Wurfdart                              | Direkte Reichweite                    | 1   | Präzise                                                                       | Immobilisiert                                              |
+| Beil, Dolch                                     | Direkte Reichweite, Einhand Nahkampf  | 2   | Kraftvoll, Präzise, Schnell                                                   | Anhaltender Schaden, Entwaffnet                            |
+| Langschwert, Katana, Falchion                   | Vielfältig Nahkampf                   | 2   | Kraftvoll, Präzise                                                            | Anhaltender Schaden, Entwaffnet                            |
+| Baseball-Schläger, Knüppel, Improvisierte Waffe | Einhand Nahkampf                      | 1   | Kraftvoll                                                                     | Niedergeschlagen, Betäubt                                  |
+| Streitkolben, Kriegshammer                      | Einhand Nahkampf                      | 2   | Kraftvoll                                                                     | Niedergeschlagen, Betäubt, Erzwungene Bewegung             |
+| Großschwert, No-Dachi, Claymore, Bastardschwert | Zweihand Nahkampf                     | 2   | Kraftvoll, Präzise, Schwer                                                    | Erzwungene Bewegung, Niedergeschlagen                      |
+| Kettensäge                                      | Zweihand Nahkampf                     | 2   | Kraftvoll                                                                     | Anhaltender Schaden, Demoralisiert, Provoziert, Furcht     |
+| Kurzspeer                                       | Vielfältig Nahkampf, Kurze Reichweite | 1   | Kraftvoll, Präzise                                                            | Anhaltender Schaden, Entwaffnet, Immobilisiert             |
+| Vorschlaghammer, Streithammer, Kriegsaxt        | Zweihand Nahkampf                     | 2   | Kraftvoll, Schwer                                                             | Niedergeschlagen, Erzwungene Bewegung, Betäubt             |
+| Langspeer                                       | Zweihand Nahkampf, Direkte Reichweite | 2   | Kraftvoll, Präzise, Lang                                                      | Anhaltender Schaden, Entwaffnet, Immobilisiert             |
+| Mistgabel, Stab                                 | Zweihand Nahkampf                     | 1   | Kraftvoll                                                                     | Niedergeschlagen, Immobilisiert, Erzwungene Bewegung       |
+| Glaive, Hellebarde, Naginata                    | Zweihand Nahkampf                     | 2   | Kraftvoll, Lang                                                               | Niedergeschlagen, Immobilisiert, Erzwungene Bewegung       |
+| Flammenwerfer                                   | Zweihand Nahkampf                     | 3   | Präzise, Langsam, Gebiet (5' / 10' Kegel)                                     | Furcht, Anhaltender Schaden                                |
+| Laserpistole, Revolver, Pistole                 | Kurze Reichweite                      | 2   | Präzise                                                                       | Anhaltender Schaden, Verlangsamt                           |
+| Granate, Molotovcocktail                        | Direkte Reichweite                    | 2   | Präzise, Verbrauchsgut, Gebiet (10' Würfel)                                   | Anhaltender Schaden, Niedergeschlagen, Erzwungene Bewegung |
+| Leichte Armbrust                                | Mittlere Reichweite                   | 2   | Präzise                                                                       | Anhaltender Schaden, Immobilisiert                         |
+| Abgesägte Schrotflinte                          | Kurze Reichweite                      | 2   | Präzise, Langsam, Gebiet (10' Kegel)                                          | Anhaltender Schaden, Betäubt, Erzwungene Bewegung          |
+| Kurzbogen, Pump-Action-Schrotflinte[?]          | Mittlere Reichweite                   | 2   | Präzise                                                                       | Verlangsamt, Anhaltender Schaden, Niedergeschlagen         |
+| Maschinenpistole, M16                           | Mittlere Reichweite                   | 3   | Präzise, Gebiet (10' Würfel)                                                  | Anhaltender Schaden, Provoziert, Demoralisiert             |
+| Schwere Armbrust, Langbogen, Gewehr             | Große Reichweite                      | 2   | Präzise                                                                       | Anhaltender Schaden, Verlangsamt                           |
+| Scharfschützengewehr, Lasergewehr               | Extreme Reichweite                    | 2   | Präzise                                                                       | Anhaltender Schaden, Verlangsamt                           |
+| Kanone                                          | Extreme Reichweite                    | 2   | Präzise, Langsam, Gebiet (15' Rechteck),  Verzögert bereit, Schwer, Stationär | Anhaltender Schaden, Erzwungene Bewegung, Betäubt          |
+| Kleiner Schild                                  | Einhand Nahkampf                      | 2   | Kraftvoll, Defensiv 1                                                         | Erzwungene Bewegung, Betäubt, Niedergeschlagen             |
+| Riot-Schild, Turmschild                         | Einhand Nahkampf                      | 3   | Kraftvoll, Defensiv 2                                                         | Erzwungene Bewegung, Betäubt, Niedergeschlagen             |
 
 > ### Waffen und Spielbalance
-> Open Legend legt meist mehr Wert auf eine gute Geschichte, als auf ein wahrliches ausgewogenes Spiel. Das ist besonders relevant für Waffen. Genauso wie in der Realität, werden nicht alle Waffen in Open Legend ausgewogen sein und manche werden über andere bevorzugt werden. Spielmechanisch hat ein Charakter keinen Anreiz, statt einem Langschwert ein Kurzschwert zu nutzen, da sie bis auf die Möglichkeit, das Langschwert mit einer oder zwei Händen zu führen, mechanisch gleich sind. Das bedeutet aber nicht, dass die Geschichte nie Situationen hervorbringen kann, in denen ein Kurzschwert einem Langschwert vorzuziehen wäre oder besser passen würde. Eine neu aufgestellte Diebesgilde könnte zu Beginn nicht die Mittel haben, alle Mitglieder mit Langschwertern auszurüsten, sodass die weniger prominenten Agenten zunächst mit Kurzschwertern ausgerüstet werden könnten.
+> Open Legend legt meist mehr Wert auf eine gute Geschichte, als auf ein wahrliches ausgewogenes Spiel. Das ist besonders relevant für Waffen. Genauso wie in der Realität, werden nicht alle Waffen in Open Legend ausgewogen sein und manche werden über andere bevorzugt werden. Spielmechanisch hat ein Charakter keinen Anreiz, statt einem Langschwert ein Kurzschwert zu nutzen, da sie bis auf die Möglichkeit, das Langschwert mit einer oder zwei Händen zu führen, gleich sind. Das bedeutet aber nicht, dass die Geschichte nie Situationen hervorbringen kann, in denen ein Kurzschwert einem Langschwert vorzuziehen wäre oder besser passen könnte. Eine neu aufgestellte Diebesgilde könnte zu Beginn nicht die Mittel haben, alle Mitglieder mit Langschwertern auszurüsten, sodass die weniger prominenten Agenten zunächst mit Kurzschwertern ausgerüstet werden könnten.
 ### Eigenschaften
-**Gebiet**[?] - Eine Gebiet-Waffe führt immer Multiziel-Attacken der aufgeführten Größe und Form aus und kann nicht für einfache Attacken mit einem Ziel genutzt werden. Falls eine Waffe mehrere verschiedene Gebietsgrößen hat, kann der Angreifer für jede Attacke entscheiden, welche er nutzen will. Die Attacken dieser Waffen leiden nicht unter dem normalen Nachteil für das Ausführen von Multiziel-Attacken.
+**Gebiet**[?] - Eine Gebietswaffe führt immer Multiziel-Attacken der aufgeführten Größe und Form aus und kann nicht für einfache Attacken mit einem Ziel genutzt werden. Falls eine Waffe mehrere verschiedene Gebietsgrößen hat, kann der Angreifer für jede Attacke entscheiden, welche er nutzen will. Die Attacken dieser Waffen leiden nicht unter dem normalen Nachteil für das Ausführen von Multiziel-Attacken.
 
 **Verbrauchsgut** - Ein Verbrauchsgegenstand kann nur einmal benutzt werden, um einen Angriff auszuführen. Danach ist das Item benutzt und kann nicht wieder verwendet werden.
 
 **Defensiv** - Eine defensive Waffe gibt dem Nutzer Vorteil entsprechend des angegebenen Wertes, wenn er die *Verteidigen*-Aktion nutzt. Außerdem erhälst du +1 Rüstungsbonus wenn du eine defensive Waffe führst (unabhängig von dem Wert, der für *defensiv* aufgeführt ist). Während man ein *defensives* Item nutzt, bekommst du nicht den Vorteil 1, der normalerweise mit einhändigen oder zweihändigen Nahkampfwaffen assoziiert ist. Eine Waffe kann keinen *defensiv*-Wert größer als 3 haben.
 
-**Verzögert bereit** - Diese Waffe kann nur einmal pro Runde benutzt werden. Außerdum muss der Nutzer vor einem Angriff eine Bewegungsaktion ausgeben, um die Waffe bereit zu machen.
+**Verzögert bereit** - Diese Waffe kann nur einmal pro Runde benutzt werden. Außerdem muss der Nutzer vor einem Angriff eine Bewegungsaktion ausgeben, um die Waffe bereit zu machen.
 
 **Kraftvoll** - Diese Waffe kann Angriffe mit dem Kraft-Attribut ausführen und Harme wirken, die über Kraft als Attribut genutzt werden.
 
@@ -129,11 +130,11 @@ Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an 
 
 **Lang** - Diese Waffe erhöht die Nahkampfreichweite der Kreatur um 5'.
 
-**Langsam** - Falls du diese Waffe zum Beginn eines Kampfes führst, erhälst du Nachteil 2 auf deinen Initiative-Wurf. Auch wenn du die Waffe noch nicht gezogen hast, wird der Nachteil angewandt, solange du sie in der ersten Runde benutzen wirst. Falls mehrere Waffen führst, wird deine Initiative-Wurf anhand des langsamsten Modifikators angepasst (langsam, schnell oder keiner).
+**Langsam** - Falls du diese Waffe zum Beginn eines Kampfes führst, erhälst du Nachteil 2 auf deinen Initiative-Wurf. Auch wenn du die Waffe noch nicht gezogen hast, wird der Nachteil angewandt, solange du sie in der ersten Runde benutzen wirst. Falls du mehrere Waffen führst wird deine Initiative-Wurf anhand des langsamsten Modifikators angepasst (langsam, schnell oder keiner).
 
 **Stationär** - Die Größe und das Gewicht der Waffe sind enorm. Um sie zu bewegen, musst du eine Fokus-Aktion nutzen, mit der du sie bis zu 30 Fuß bewegen kannst.
 
-**Schnell** - Falls du diese Waffe zum Beginn eines Kampfes führst, erhälst du Vorteil 2 auf deinen Initiative-Wurf. Auch wenn du die Waffe noch nicht gezogen hast, wird der Vorteil angewandt, solange du sie in der ersten Runde benutzen wirst. Falls mehrere Waffen führst, wird deine Initiative-Wurf anhand des langsamsten Modifikators angepasst (langsam, schnell oder keiner).
+**Schnell** - Falls du diese Waffe zum Beginn eines Kampfes führst, erhälst du Vorteil 2 auf deinen Initiative-Wurf. Auch wenn du die Waffe noch nicht gezogen hast, wird der Vorteil angewandt, solange du sie in der ersten Runde benutzen wirst. Falls du mehrere Waffen führst wird deine Initiative-Wurf anhand des langsamsten Modifikators angepasst (langsam, schnell oder keiner).
 
 > ### Tech-Level
 > Tech-Level (TL) bieten einen vereinfachten Weg, die Technologien einer gegebenen Gesellschaft zu klassifizieren. Open Legend benutzt die folgenden vier Tech-Level um die technologischen Fortschritte grob einzuschätzen, die eine Gesellschaft machen kann:
@@ -143,13 +144,13 @@ Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an 
 > - TL 2 - Nahe Zukunft (Mechs, Cyborgs, Laserwaffen)
 > - TL 3 - Ferne Zukunft (intergalaktische Raumfahrt, Nanotechnologie, Quantentechnik)
 > 
-> Während der GM eine Kampagne vorbereitet, kann er entscheiden, welches Level oder welche Level die Geschichte benutzen wird. Eine typische Sword & Sorcery-Kampagnge würde zum Beispiel auf TL 0 spielen, während eine Steampunkt Kampagne eine Mischung aus TL 0 und TL 1 benutzen könnte.
+> Während der GM eine Kampagne vorbereitet, kann er entscheiden, welches Level oder welche Level die Geschichte benutzen wird. Eine typische Sword & Sorcery-Kampagne würde zum Beispiel auf TL 0 spielen, während eine Steampunkt Kampagne eine Mischung aus TL 0 und TL 1 benutzen könnte.
 > 
 > **Tech-Level mischen**
-> Du wirst vielleicht Situationen begegnen, in denen eine Gruppe signifikant fortgeschrittenere Technologie benutzt, als eine andere Gruppe. Ein Beispiel wäre ein intergalaktisches Imperium (TL 3), welches Krieg gegen eine primitive Zivilisation (TL 0) führt. In solchen Fällen kann der GM grundsätzlich Vorteile und Nachteile für alle Würfe zwischen den Fraktionen geben, bei denen die Differenz der Technologie eine Rolle spielt, wobei der Wert des Vor- oder Nachteils der Differenz zwischen den Tech-Leveln entspricht. Im oben genannten Beispiel würden Vertreter der primitiven Zivilisation also Nachteil 3 auf alle Würfe erhalten, die in irgendeiner Weise ihre Technologie im Konflikt mit der Technologie der anderen Fraktion involviert.
+> Du wirst vielleicht Situationen begegnen, in denen eine Gruppe signifikant fortgeschrittenere Technologie benutzt, als eine andere Gruppe. Ein Beispiel wäre ein intergalaktisches Imperium (TL 3), welches Krieg gegen eine primitive Zivilisation (TL 0) führt. In solchen Fällen kann der GM grundsätzlich Vorteile und Nachteile für alle Würfe zwischen den Fraktionen geben, bei denen die Differenz der Technologie eine Rolle spielt. Der Wert des Vor- oder Nachteils entspricht der Differenz zwischen den Tech-Leveln. Im oben genannten Beispiel würden Vertreter der primitiven Zivilisation also Nachteil 3 auf alle Würfe erhalten, die in irgendeiner Weise ihre Technologie im Konflikt mit der Technologie der anderen Fraktion involviert.
 
 ## Rüstung
-Die *Rüstung*-Tabelle beschreibt verschiedene Arten an Rüstung, die du eventuell benutzt, um dich zu schützen. Wie die *Waffen & Geräte*-Tabelle auch, gibt sie Beispiele verschiedener Genres, die einfach für deine eigenen Kampagnen angepasst werden können. Rüstung gibt Boni auf die Verteidigung Deckung und reduziert oder negiert so Schaden, den du sonst nehmen würdest.
+Die *Rüstung*-Tabelle beschreibt verschiedene Arten an Rüstung, die du eventuell benutzt, um dich zu schützen. Wie die *Waffen & Geräte*-Tabelle auch gibt sie Beispiele verschiedener Genres, die einfach für deine eigenen Kampagnen angepasst werden können. Rüstung gibt Boni auf die Verteidigung Deckung und reduziert oder negiert so Schaden, den du sonst nehmen würdest.
 
 Die *Rüstung*-Tabelle fasst die folgenden Eigenschaften jeder Art von Rüstung zusammen:
 
@@ -165,35 +166,36 @@ Die *Rüstung*-Tabelle fasst die folgenden Eigenschaften jeder Art von Rüstung 
 
 **Geschwindigkeitsmalus** gibt die Reduktion der Geschwindigkeit des tragenden Charakters durch das Gewicht und die Sperrigkeit der Rüstung an.
 #### Rüstung
-| Beispiele                                     | Typ    | WW  | Nötige Zähigkeit | Verteidigungsbonus | Geschwindigkeitsmalus |
-| --------------------------------------------- | ------ | --- | ---------------- | ------------------ | --------------------- |
-| Lederrüstung, Stahlseide[?], Polsterrüstung   | Leicht | 1   | 0                | 1                  | 0                     |
-| Gepanzerter Trenchcoat, Elektropolymerrüstung | Mittel | 3   | 2                | 2                  | 0                     |
-| Kettenhemd, Kevlarweste, Brustplatte          | Mittel | 2   | 3                | 2                  | 0                     |
-| Yoroirüstung, Plattenpanzer, Riot-Suit[?]     | Schwer | 2   | 3                | 3                  | 5'                    |
-| Exo-Rüstung[?], Elfischer Plattenpanzer       | Schwer | 4   | 1                | 3                  | 0                     |
+| Beispiele                                       | Typ    | WW  | Nötige Zähigkeit | Verteidigungsbonus | Geschwindigkeitsmalus |
+| ----------------------------------------------- | ------ | --- | ---------------- | ------------------ | --------------------- |
+| Lederrüstung, Stahlseiderüstung, Polsterrüstung | Leicht | 1   | 0                | 1                  | 0                     |
+| Gepanzerter Trenchcoat, Elektropolymerrüstung   | Mittel | 3   | 2                | 2                  | 0                     |
+| Kettenhemd, Kevlarweste, Brustplatte            | Mittel | 2   | 3                | 2                  | 0                     |
+| Yoroirüstung, Plattenpanzer, Riot-Suit          | Schwer | 2   | 3                | 3                  | 5'                    |
+| Exopanzer, Elfischer Plattenpanzer              | Schwer | 4   | 1                | 3                  | 0                     |
 ### Rüstung an- und ablegen
-Rüstung anzulegen oder abzulegen dauert für leichte Rüstung 1 Runde, für mittlere Rüstung 1 Minute und 10 Minuten für schwere Rüstung. In mittlerer oder schwerer Rüstung zu schlafen bedarf spezielles Training. Ohne die Fertigkeit *Rüstungsvertrautheit*[?] leidet dein Charakter nach dem Schlafen in mittlerer oder schwerer Rüstung unter einer Instanz des Harmes *erschöpft*[?]. Dieser gibt deinem Charakter Nachteil 1 auf alle nicht-Angriffswürfe, bis er eine volle Nacht Schlaf bekommen hat.
+Rüstung anzulegen oder abzulegen dauert für leichte Rüstung 1 Runde, für mittlere Rüstung 1 Minute und 10 Minuten für schwere Rüstung. In mittlerer oder schwerer Rüstung zu schlafen bedarf spezielles Training. Ohne die Fertigkeit *Rüstungsexpertise* leidet dein Charakter nach dem Schlafen in mittlerer oder schwerer Rüstung unter einer Instanz des Harmes *Erschöpft*. Dieser gibt deinem Charakter Nachteil 1 auf alle nicht-Angriffswürfe, bis er eine volle Nacht Schlaf bekommen hat.
 ## Eigene Waffen erstellen
 Zuvor haben wir die spielmechanischen Vorzüge verschiedener Waffen aufgeführt. Eventuell möchtest du aber auch deinen Charakter oder die Kampagne mit selbst erstellen Waffen ausstatten. Im Folgenden werden die vier Schritte vorgestellt, mit denen du eine Waffe zusammenstellst. Jede Waffe beginnt mit einem Wohlstandswert von 1, welcher an den verschiedenen Schritten des Prozesses erhöht oder verringert werden kann.
 ### Schritt 1: Wähle eine Kategorie
 Typischerweise gehört eine Waffe in eine Kategorie. Manche Waffen, wie zum Beispiel ein Dolch oder ein Schwertgewehr können in zwei Kategorien fallen. Keine Waffe sollte mehr als zwei Kategorien haben, aber ob eine Waffe eine oder zwei Kategorien hat, kann vom Spieler und GM zusammen entschieden werden. Dieser Schritt hat keinen Einfluss auf den Wohlstandswert der Waffe.
 ### Schritt 2: Wähle Eigenschaften
-Jede Waffe muss mindestens eine der Eigenschaften *Kraftvoll* oder *Präzise* haben. Eine Waffe kann auch beide haben. Wähle eine oder beide.
+Jede Waffe muss mindestens eine der Eigenschaften *kraftvoll* oder *präzise* haben. Eine Waffe kann auch beide haben. Wähle eine oder beide.
 
 Wähle als nächstes eine beliebige Anzahl an weiteren Eigenschaften aus, die die Waffe haben soll. Eigenschaften beeinflussen den Wohlstandswert anhand der Angaben in der folgenden Tabelle.
 
-| Eigenschaft      | WW-Modifikator                                                                                             |
-| ---------------- | ---------------------------------------------------------------------------------------------------------- |
-| Gebiet           | + Nachteilmalus anhand des Gebiets für Multiziel-Attacken (siehe [Kapitel 7: Kampf](./Kapitel-7_Kampf.md)) |
-| Defensiv         | + *defensiv*-Wert                                                                                          |
-| Verzögert bereit | -1                                                                                                         |
-| Verbrauchsgut    | -1                                                                                                         |
-| Schwer           | 0                                                                                                          |
-| Lang             | +1                                                                                                         |
-| Langsam          | -1                                                                                                         |
-| Stationär        | -1                                                                                                         |
-| Schnell          | +1                                                                                                         |
+| Eigenschaft      | WW-Modifikator    |
+| ---------------- | ----------------- |
+| Gebiet           | + Gebietsmalus\*  |
+| Defensiv         | + *defensiv*-Wert |
+| Verzögert bereit | -1                |
+| Verbrauchsgut    | -1                |
+| Schwer           | 0                 |
+| Lang             | +1                |
+| Langsam          | -1                |
+| Stationär        | -1                |
+| Schnell          | +1                |
+*\* Wert des Nachteils anhand des Gebiets für Multi-Zielen Angriffe (siehe [Kapitel 7: Kampf](./Kapitel-7_Kampf.md)*
 ### Schritt 3: Harme auswählen
 Waffen werden in ihrem Kampfstil durch die Harme differenziert, die sie wirken können. Harme haben keinen Einfluss auf den Wohlstandswert der Waffe und die meisten Waffen haben 2 oder 3 assoziierte Harme. Waffen mit 4 oder mehr Harmen müssen vom GM akzeptiert werden.
 ### Schritt 4: Wohlstandswert berechnen
@@ -204,7 +206,7 @@ Alle Waffen (mit Ausnahme von unbewaffneter Schlag), starten mit einem Wohlstand
 > 
 > **Schritt 1 (Wähle eine Kategorie)** Während die Kusari-Gama als eine Nahkampfwaffe mit kurzer Klinge genutzt werden kann, kann ihre Kette auch auf größere Distanzen benutzt werden. Daher geben wir ihr sowohl die *Einhand Nahkampf* als auch die *direkte Reichweite* Kategorie.
 > 
-> **Schritt 2 (Wähle Eigenschaften)** Da die Kusari-Gama entweder mit defter Präzision oder mit kräftigen Schwüngen benutzt werden kann, geben wir ihr die Eigenschaften *präzise* und *kraftvoll*. Um sie noch weiter auszuarbeiten, entscheiden wir außerdem, dass die Möglichkeiten, mit der Kette Angriffe abzuwehren, genügt, um ihr noch die Eigenschaft *defensiv 1* zu geben. Aufgrund der Länge der Kette bekommt sie auch noch *lang* und langsam, da das Schwingen Zeit beansprucht.
+> **Schritt 2 (Wähle Eigenschaften)** Da die Kusari-Gama entweder mit defter Präzision oder mit kräftigen Schwüngen benutzt werden kann, geben wir ihr die Eigenschaften *präzise* und *kraftvoll*. Um sie noch weiter auszuarbeiten, entscheiden wir außerdem, dass die Möglichkeiten, mit der Kette Angriffe abzuwehren, genügt, um ihr noch die Eigenschaft *defensiv 1* zu geben. Aufgrund der Länge der Kette bekommt sie auch noch *lang* und *langsam*, da das Schwingen Zeit beansprucht.
 > 
 > **Schritt 3 (Harme auswählen)** Die Kusari-Gama kann genutzt werden, um Feinde heranzuziehen, zu fangen und sie auf breitem Gebiet zu bedrohen. Aus diesen Gründen geben wir ihr die Harme *Erzwungene Bewegung*, *Immobilisiert*, *Niedergeworfen* und *Provoziert*.
 > 
