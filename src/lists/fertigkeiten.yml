@@ -1591,9 +1591,9 @@
   description: |
     Ob du deine Schläge blitzschnell niederregnen lässt, zwei Waffen führst oder einen Kugelblitz vom Himmel beschwörst, hast du die Kunst gemeistert, viele Angriffe gleichzeitig auszuführen.
   effect: |
-    Zu Beginn deines Zuges kannst du ansagen, dass du eine Multi-Attacke nutzen wirst. Du must angeben, wie viele Extraangriffe du ausführen möchtest. Du erhälst eine dem entsprechenden Anzahl an zusätzlichen großen Aktionen, die nur für Angriffe genutzt werden können. <em>Alle</em> deine Angriffe in dieser Runde haben Nachteil gleich 3 x Anzahl an <strong>zusätzlichen</strong> Attacken (z.B. hast du bei insg. 2 Attacken Nachteil 3 auf beide, 3 Angriffe haben alle Nachteil 6, usw. ...) Für jeden Rang dieser Fertigkeit reduzierst du den gesamten Nachteil für alle Angriffe um 1 (nicht die 3 Nachteil pro Zusatzattacke).
+    Zu Beginn deines Zuges kannst du ansagen, dass du eine Multi-Attacke nutzen wirst. Du must angeben, wie viele Extraangriffe du ausführen möchtest. Du erhälst eine dem entsprechende Anzahl an zusätzlichen großen Aktionen, die nur für Angriffe genutzt werden können. <em>Alle</em> deine Angriffe in dieser Runde haben Nachteil gleich 3 x Anzahl an <strong>zusätzlichen</strong> Attacken (z.B. hast du bei insg. 2 Attacken Nachteil 3 auf beide, 3 Angriffe haben alle Nachteil 6, usw. ...) Für jeden Rang dieser Fertigkeit reduzierst du den gesamten Nachteil für alle Angriffe um 1 (nicht die 3 Nachteil pro Zusatzattacke).
     Du kannst deine Angriffe für eine beliebige Kombination aus Harmen und Attacken mit Schaden nutzen, kannst aber keine Wohle wirken. Handle jede einzelne Attacke ab, wobei du wie normal Multi-Zielen anwenden kannst. Du kannst dich zwischen den Angriffen bewegen und kannst auch die gleiche Kreatur mehrmals angreifen.
-    Die maximale Anzahl an zusätzlichen Angriffen pro Runde ist 1 + die Hälte deines Levels aufgerundet. Auf Level 1 ist das Limit also 2 zusätzliche Attacken, 3 Attacken auf Level 3 und 6 auf Level 9.
+    Die maximale Anzahl an zusätzlichen Angriffen pro Runde ist 1 + die Hälfte deines Levels aufgerundet. Auf Level 1 ist das Limit also 2 zusätzliche Attacken, 3 Attacken auf Level 3 und 6 auf Level 9.
     <strong>Beispiel</strong> - Vax der Todbringer hat Multi-Angriffsspezialisierung (Rang III). Er sagt an, dass er diese Runde drei Angriffe (also zwei zusätzliche) ausführen wird. Daher werden all seine Angriffe Nachteil 3 haben (3 x 2 = 6, davon 3 für Rang 3 abziehen). Sein erster Angriff ist ein nekromantischer Energieausbruch, der einen 10'-Würfel als Ziel hat. Aufgrund der Gebietsattacke hat Vax weitere 2 Nachteil auf den ersten Angriff, sodass er insgesamt dafür mit Nachteil 5 würfelt. Sein zweiter Angriff ist ein Harmangriff mit <em>Geblendet</em> auf einen einzigen Feind, sodass dieser mit Nachteil 3 stattfindet. Letztlich bewegt sich Vax in den Nahkampf und nutzt seine Todesberührung gegen drei Feinde, was weitere 3 Nachteil bringt. Sein letzter Angriffswurf hat also Nachteil 6.
 - !
   name: Multi-Harmspezialisierung
@@ -1617,7 +1617,7 @@
   description: |
     Du hast eine Spezialattacke gemeistert, die es dir erlaubt, zwei Harme gleichzeitig zu wirken. Ein Eisstoß, der Feinde blendet und verlangsamt, ein Schrotflintenschuss der Feinde wegstößt und zu Boden wirft oder Wurmzungenlied, dass deine Feinde einschläfert und ihre Erinnerungen verändert sind alles Spezialattacken, die mit dieser Fertigkeit erstellt werden könnten.
   effect: |
-    Wähle zwei Harme aus, die du wirken kannst und ein gemeinsamen Attribut zum Wirken haben. Du kannst beide Harme mit einem Angriff zufügen. Der dafür nötige Attributwert ist gleich der Summe der Kraftlevel beider Harme (für <em>Niedergeschlagen</em> und <em>Verlangsamt</em> beide auf Kraftlevel 1 bräuchtest du also Attributwert 2). Falls die Harme auf unterschiedliche Verteidigungen zielen wählst du selbst aus, gegen welche Verteidigung der Angriff zielt. Bei einem erfolgreichen Wurf werden dem Ziel beide Harme zugefügt. Sie beide bleiben unabhängig voneinander bestehen und gegen sie muss separat widerstanden werden.
+    Wähle zwei Harme aus, die du wirken kannst und die ein gemeinsames Attribut zum Wirken haben. Du kannst beide Harme mit einem Angriff zufügen. Der dafür nötige Attributwert ist gleich der Summe der Kraftlevel beider Harme (für <em>Niedergeschlagen</em> und <em>Verlangsamt</em> beide auf Kraftlevel 1 bräuchtest du also Attributwert 2). Falls die Harme auf unterschiedliche Verteidigungen zielen wählst du selbst aus, gegen welche Verteidigung der Angriff zielt. Bei einem erfolgreichen Wurf werden dem Ziel beide Harme zugefügt. Sie beide bleiben unabhängig voneinander bestehen und gegen sie muss separat widerstanden werden.
   special: |
     Um bei einer Multi-Harm-Attacke von der Fertigkeit <em>Harmfokus</em> zu profitieren, musst du für beide gewählten Harme <em>Harmfokus</em> haben.
     Du kannst diese Fertigkeit mehr als einmal erwerben, wobei du jedes Mal ein neues Paar aus zwei Harmen wählst.
@@ -2410,12 +2410,12 @@
   description: |
     Hochtrainierte Sniper, legendäre Ninja oder Nahkampfderwische können Feinde mit präzise platzierten Vorstößen ausschalten, wenn sie sie kalt erwischen.
   effect: |
-    Deine Angriffe werden als Tödlicher Streich gewertet, wenn <em>eine</em> der folgenden Bedingungen erfüllt ist:
+    Deine Angriffe werden als Tödlicher Schlag gewertet, wenn <em>mindestens eine</em> der folgenden Bedingungen erfüllt ist:
     <ul>
-    <li>Dein Ziel ist überrascht oder sie den Angriff anderweitig nicht kommen, z.B. wenn du vor ihm versteckt, als Freund verkleidet bist oder es erfolgreich getäuscht hast.</li>
+    <li>Dein Ziel ist überrascht oder sieht den Angriff anderweitig nicht kommen, z.B. wenn du vor ihm versteckt, als Freund verkleidet bist oder es erfolgreich getäuscht hast.</li>
     <li>Dein Ziel ist in Nahkampfreichweite eines Verbündeten.</li>
     </ul>
-    Du hast Vorteil auf Tödliche Streiche mit Vorteil-Level gleich deines Ranges in dieser Fertigkeit. Weiterhin wird ein Teil des Schadens (nie mehr als der Gesamtschaden) als tödlicher Schaden zugefügt, was ihn schwieriger zu heilen macht (siehe Kapitel 7: Kampf).
+    Du hast Vorteil auf Tödliche Schläge mit Vorteil-Level gleich deines Ranges in dieser Fertigkeit. Weiterhin wird ein Teil des Schadens (nie mehr als der Gesamtschaden) als tödlicher Schaden zugefügt, was ihn schwieriger zu heilen macht (siehe [Kapitel 7: Kampf](./Kapitel-7_Kampf.md)).
     <ul>
     <li><strong>Rang 1</strong> - Vorteil 1. Bis zu 5 tödlicher Schaden.</li>
     <li><strong>Rang 2</strong> - Vorteil 2. Bis zu 5 tödlicher Schaden.</li>
@@ -2768,7 +2768,7 @@
       <li>10 Minuten -> 1 Minute</li>
       <li>1 Stunde -> 10 Minuten</li>
       <li>8 Stunden -> 1 Stunde</li>
-      <li>1 kleine Aktion -> ein Mal wirken als kleine Aktion, danach ist noch eine Wirkung per großer Aktion oder Bewegungsaktion möglich.</li>
+      <li>1 kleine Aktion -> Wohl kann ein Mal als kleine Aktion gewirkt werden. Danach ist noch eine Wirkung per großer Aktion oder Bewegungsaktion möglich.</li>
       </ul></li>
     <li><strong>Rang 3</strong> - Der Effekt auf Rang 3 hängt von der Dauer des Wohls ab:<br>
       <strong>Falls das gewählte Wohl eine Dauer von "Aufrechterhalten verlängert" hat</strong>, hast du Vorteil 4 auf deinen Aktionswurf, falls du nur ein einziges Ziel hast. Weiterhin kann eine Instanz des Wohls jede Runde als kostenlose Aktion aufrechterhalten werden, anstatt als kleine Aktion. Falls das Wohl irgendwie zeitweise neutralisiert wird, kannst du es als kostenlose Aktion neu wirken, außer dies wird durch andere spielmechanische Regeln unterbunden. Falls das Wohl Ziel des Harms <em>Annulieren</em> wird, kann dieser Effekt nur mit einer Wirkung des Harms auf Kraftlevel 6 oder höher neutralisiert werden.<br>
