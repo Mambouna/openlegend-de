@@ -447,7 +447,9 @@ Legendäre Items können alle Eigenschaften besitzen, die auch außergewöhnlich
 ##### Unendlichkeitsanzug
 *Es wird gemunkelt, dass in den tiefen Weiten des Weltalls auf einem abgelegenen Mond der Unendlichkeitsanzug verborgen liegt. Ein Mechanzug, der so mächtig ist, dass sein Pilot beinahe unbezwingbar wird.*
 
-**Eigenschaften:** Rüstung (Exopanzer), Kraft 8, Verstärken 6 (Kraft), Regeneration 9, Fliegen 8, Anhaltend (eins aus Verstärken, Regeneration oder Fliegen)
+**Eigenschaften:** Rüstung (Exopanzer), Kraft 8, Verstärken 6 (Kraft), Regeneration 9, Fliegen 8, Anhaltend (Besonders)
+
+**Besonders:** Der Unendlichkeitsanzug kann zu jeder Zeit eines der ihm zugänglichen Wohle mit der Eigenschaft Anhaltend (Wohl) automatisch aufrechterhalten. Der tragende Charakter kann kann entscheiden, ob der Anzug gerade die Eigenschaft Anhaltend (Verstärken), Anhaltend (Regeneration) oder Anhaltend (Fliegen) hat, wobei eine kleine Aktion zum wechseln genutzt wird.
 
 **Unzerstörbar:** Während er den Anzug trägt, ist der Pilot gegen tödlichen Schaden und alle Effekte immun, die sofortigen Tod auslösen. Weiterhin erhält der Pilot 30 zusätzliche TP, während er den Anzug trägt.
 ##### Wunderlampe
