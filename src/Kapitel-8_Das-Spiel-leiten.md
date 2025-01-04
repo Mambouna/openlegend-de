@@ -308,28 +308,28 @@ Ein Boss ist ein einzelner gegnerischer NPC, der aufgrund außergewöhnlicher Ka
 
 Wenn du dich dazu entscheidest, dass ein bestimmter NPC ein Boss sein sollte, kannst du die *Boss NPC Aufbau*-Tabelle nutzen, um auf die gleiche Weise Charaktereigenschaften zu finden, wie du es in der *NPC Einfacher Aufbau*-Tabelle gemacht hast. Bosse haben hierbei mehr Trefferpunkte, stärkere Verteidigungen und ausgebildetere Attribute, damit sie sich alleine der gesamten Spielergruppe entgegenstellen können. Nutzt du den komplexen Aufbau für NPCs, so kannst du diese Tabelle als Referenz für deine Entscheidungen benutzen, um dem NPC die passende Stärke als Boss zu verleihen.
 ##### Boss NPC Aufbau
-|  Level | Trefferpunkte | Verteidigungen | Primärattribute | Sekundärattribute | Boss Edge |
-| ------ | ------------- | -------------- | --------------- | ----------------- | --------- |
-| 1      | 40            | 12 - 17        | 6               | 4                 | 1         |
-| 2      | 50            | 13 - 18        | 6               | 4                 | 1         |
-| 3      | 60            | 14 - 19        | 7               | 5                 | 2         |
-| 4      | 70            | 15 - 20        | 7               | 5                 | 2         |
-| 5      | 75            | 16 - 21        | 8               | 6                 | 2         |
-| 6      | 80            | 17 - 22        | 8               | 6                 | 3         |
-| 7      | 85            | 18 - 23        | 9               | 7                 | 3         |
-| 8      | 90            | 19 - 24        | 9               | 7                 | 3         |
-| 9      | 95            | 20 - 25        | 10              | 8                 | 4         |
-| 10     | 100           | 21 - 26        | 10              | 8                 | 4         |
-| 11     | 100           | 21 - 26        | 10              | 9                 | 4         |
-| 12     | 105           | 22 - 27        | 10              | 9                 | 5         |
-| 13     | 105           | 22 - 27        | 10              | 9                 | 5         |
-| 14     | 110           | 23 - 28        | 10              | 9                 | 5         |
-| 15     | 110           | 23 - 28        | 10              | 9                 | 6         |
-| 16     | 115           | 24 - 29        | 10              | 9                 | 6         |
-| 17     | 115           | 24 - 29        | 10              | 9                 | 6         |
-| 18     | 120           | 25 - 30        | 10              | 9                 | 7         |
-| 19     | 120           | 25 - 30        | 10              | 9                 | 7         |
-| 20     | 125           | 26 - 31        | 10              | 9                 | 7         |
+| Level | Trefferpunkte | Verteidigungen | Primärattribute | Sekundärattribute | Boss Edge |
+| ----- | ------------- | -------------- | --------------- | ----------------- | --------- |
+| 1     | 40            | 12 - 17        | 6               | 4                 | 1         |
+| 2     | 50            | 13 - 18        | 6               | 4                 | 1         |
+| 3     | 60            | 14 - 19        | 7               | 5                 | 2         |
+| 4     | 70            | 15 - 20        | 7               | 5                 | 2         |
+| 5     | 75            | 16 - 21        | 8               | 6                 | 2         |
+| 6     | 80            | 17 - 22        | 8               | 6                 | 3         |
+| 7     | 85            | 18 - 23        | 9               | 7                 | 3         |
+| 8     | 90            | 19 - 24        | 9               | 7                 | 3         |
+| 9     | 95            | 20 - 25        | 10              | 8                 | 4         |
+| 10    | 100           | 21 - 26        | 10              | 8                 | 4         |
+| 11    | 100           | 21 - 26        | 10              | 9                 | 4         |
+| 12    | 105           | 22 - 27        | 10              | 9                 | 5         |
+| 13    | 105           | 22 - 27        | 10              | 9                 | 5         |
+| 14    | 110           | 23 - 28        | 10              | 9                 | 5         |
+| 15    | 110           | 23 - 28        | 10              | 9                 | 6         |
+| 16    | 115           | 24 - 29        | 10              | 9                 | 6         |
+| 17    | 115           | 24 - 29        | 10              | 9                 | 6         |
+| 18    | 120           | 25 - 30        | 10              | 9                 | 7         |
+| 19    | 120           | 25 - 30        | 10              | 9                 | 7         |
+| 20    | 125           | 26 - 31        | 10              | 9                 | 7         |
 ##### Boss Edge
 Ein Boss ist eine besondere Art Gegner und ist so in vielfacher Art stärker als andere. Ein Boss kann keinen Gnadenstoß erhalten, außer dessen TP sind 0. Weiterhin hat ein Boss Vorteil auf alle Angriffswürfe mit Wert anhand seines Boss Edge-Wertes.
 
@@ -593,7 +593,7 @@ Adele scannt ihren Multipass, um im Bürogebäude Eintritt zu Level 5 bekommen, 
 #### Epischer Test der Täuschung (HW 25)
 Der Chronomancer Rapture hat Sarge und seine Crew gefesselt, während er sich darauf vorbereitet, seine gefürchtete Zeitkanone auf die nichts ahnende Kolonie unter ihnen abzufeuern. Um den Angriff mit Energie zu versorgen, lädt Rapture den Leerenkristall, den er vor kurzem von den Helden zurückgestohlen hat. In einem letzten Versuch, Zeit zu schinden, lügt Sarge, dass sich die Balken biegen: "Versuchs ruhig, Rapture. Den Kristall haben wir auf Alpha Prime ausgetauscht. Ich kanns kaum abwarten, zu sehen, was mit deiner Zeitkanone passiert, wenn du sie mit dem Ding da drin abfeuerst. Das ganze Schiff wird uns um die Ohren fliegen!"
 
-**Erfolg mit einem Haken:** Rapture wird unsicher und bricht den Ladevorgang der Kanone ab, verfällt aber über die Täuschung in solche Rage, dass er einem seiner Leutnants befiehlt, Sarges Kehle durchzuschneiden und so den Harm *Tot* zu applizieren.
+**Erfolg mit einem Haken:** Rapture wird unsicher und bricht den Ladevorgang der Kanone ab, verfällt aber über die Täuschung in solche Rage, dass er einem seiner Leutnants befiehlt, Sarges Kehle durchzuschneiden und so den Harm *Tod* zu applizieren.
 
 **Fehlschlag, aber die Geschichte schreitet voran:** Rapture durchschaut den Bluff und gibt sofort den Befehl zu feuern.
 ### Überzeugung
@@ -709,7 +709,7 @@ Balthazar ist tief in das Grab des Aliki eingedrungen, um zu den angeblich darin
 
 **Erfolg mit einem Haken:** Die Magie wirkt, doch der Geist ist unbeeindruckt. Aliki animiert die Schatten, den Nekromanten anzugreifen. Nun will er, dass Balthazar seinen Wert durch das Bezwingen der Schatten beweist.
 
-**Fehlschlag, aber die Geschichte schreitet voran:** Balthazars Magie wirkt nicht und die Schatten beugen sich ihm nicht. Mit einem manischen Lachen greift Aliki den Nekromanten an, indem er versucht, den *Tot* Harm zu wirken.
+**Fehlschlag, aber die Geschichte schreitet voran:** Balthazars Magie wirkt nicht und die Schatten beugen sich ihm nicht. Mit einem manischen Lachen greift Aliki den Nekromanten an, indem er versucht, den *Tod* Harm zu wirken.
 #### Epischer Test des Vergehens (HW 25)
 Xu Ming und sein Team aus Überlebenden sind mit ihrem Sternenkreuzer zu einem verlassenen Sektor der Galaxis gereist, der eine seltsame Energiesignatur verströmt. Als sie auf der Oberfläche ankommen, entdecken sie Horden alptraumhafter Aliens, die durch ein riesiges Portal einströmen. Während der Rest des Teams die anrückende Horde niedermäht, konzentriert der leerenberührte Psioniker Stryx sich darauf, höhere Leerenenergien zu rufen, um das Portal zu schließen.
 

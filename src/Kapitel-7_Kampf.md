@@ -337,8 +337,10 @@ Manche GMs mögen dieses Maß an Anspruch eventuell, sodass **sie die Kernmechan
 
 <table>
 	<tr>
-		<th style="text-align: center" colspan="2">Aktionswurf im Kampf<br>
-		Würfle 1d20 + Attributwürfel (alle Würfel explodieren)</th>
+		<th style="text-align: center" colspan="2">Aktionswurf im Kampf</th>
+	</tr>
+	<tr>
+		<td style="text-align: center" colspan="2">Würfle 1d20 + Attributwürfel (alle Würfel explodieren)</td>
 	</tr>
 	<tr>
 		<th>Falls der Aktionswurf ...</th>
@@ -350,13 +352,7 @@ Manche GMs mögen dieses Maß an Anspruch eventuell, sodass **sie die Kernmechan
 	</tr>
 	<tr>
 		<td>kleiner als der Herausforderungswert ist</td>
-		<td>der GM und Spieler wählen beide jeweils 1:
-			<ul>
-				<li>Füge 3 Schaden zu</li>
-				<li>Wirke einen Harm von Kraftlevel &lt;= 3</li>
-				<li>10' bewegen ohne Gelegenheitsattacken</li>
-			</ul>
-		</td>
+		<td>der GM und Spieler wählen beide jeweils 1:<br>- Füge 3 Schaden zu<br>- Wirke einen Harm von Kraftlevel &lt;= 3<br>- 10' bewegen ohne Gelegenheitsattacken</td>
 	</tr>
 </table>
 
