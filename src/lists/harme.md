@@ -5,10 +5,10 @@
 
 **Kraftlevel:** 2 / 4 / 6 / 8 / 9
 
-**Angriffsattribute:** Beweglichkeit, Energie, Vergehen
+**Angriffsattribute:** Geschick, Energie, Vergehen
 
 **Angriff**
-- Beweglichkeit vs. Deckung
+- Geschick vs. Deckung
 - Energie vs. Deckung
 - Vergehen vs. Zähigkeit
 
@@ -106,10 +106,10 @@ ___
 
 **Kraftlevel:** 4
 
-**Angriffsattribute:** Beweglichkeit, Energie, Vergehen, Kraft
+**Angriffsattribute:** Geschick, Energie, Vergehen, Kraft
 
 **Angriff**
-- Beweglichkeit vs. Zähigkeit
+- Geschick vs. Zähigkeit
 - Energie vs. Zähigkeit
 - Vergehen vs. Zähigkeit
 - Kraft vs. Zähigkeit
@@ -133,10 +133,10 @@ ___
 
 **Kraftlevel:** 5 / 7 / 9
 
-**Angriffsattribute:** Beweglichkeit, Vergehen, Einfluss
+**Angriffsattribute:** Geschick, Vergehen, Einfluss
 
 **Angriff**
-- Beweglichkeit vs. Zähigkeit
+- Geschick vs. Zähigkeit
 - Vergehen vs. Zähigkeit
 - Einfluss vs. Entschlossenheit
 
@@ -196,10 +196,10 @@ ___
 
 **Kraftlevel:** 3 / 6 / 8
 
-**Angriffsattribute:** Beweglichkeit, Energie, Vergehen, Einfluss, Kraft, Überzeugung, Präsenz
+**Angriffsattribute:** Geschick, Energie, Vergehen, Einfluss, Kraft, Überzeugung, Präsenz
 
 **Angriff**
-- Beweglichkeit vs. Entschlossenheit
+- Geschick vs. Entschlossenheit
 - Energie vs. Entschlossenheit
 - Vergehen vs. Entschlossenheit
 - Einfluss vs. Entschlossenheit
@@ -220,7 +220,7 @@ Das Ziel hat Nachteil anhand des Kraftlevels auf alle Aktionswürfe.
 
 **Besonders**  
 Diesem Harm zu Widerstehen ist eine kleine Aktion.
-Wird dieser Harm durch Beweglichkeit oder Kraft gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus Kapitel 7: Kampf bestimmen.
+Wird dieser Harm durch Geschick oder Kraft gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus Kapitel 7: Kampf bestimmen.
 
 > Tags: Körperlich, Außergewöhnlich
 
@@ -263,10 +263,10 @@ ___
 
 **Kraftlevel:** 3 / 6
 
-**Angriffsattribute:** Beweglichkeit, Wandlung, Energie, Vergehen, Einfluss, Kraft, Bewegung
+**Angriffsattribute:** Geschick, Wandlung, Energie, Vergehen, Einfluss, Kraft, Bewegung
 
 **Angriff**
-- Beweglichkeit vs. Deckung
+- Geschick vs. Deckung
 - Wandlung vs. Deckung
 - Energie vs. Deckung
 - Vergehen vs. Zähigkeit
@@ -328,7 +328,7 @@ Dieser Harm hat mehrere Level, die nacheinander zugefügt werden. Jedes Mal, wen
 <li><strong>Level 1</strong> - Das Ziel hat Nachteil 1 auf alle nicht-Angriffswürfe.</li>
 <li><strong>Level 2</strong> - Das Ziel erleidet den Harm Verlangsamt, sodass seine Geschwindigkeit halbiert ist. Diese Instanz des Harms kann nicht normal widerstanden werden. Er besteht, bis die Erschöpfung aufgelöst ist.</li>
 <li><strong>Level 3</strong> - Das Ziel hat Nachteil 1 auf alle Angriffswürfe.</li>
-<li><strong>Level 4</strong> - Das Ziel verliert seine Attributboni auf Verteidigungswerte (Beweglichkeit und Kraft für Deckung, Konstitution und Willenskraft für Zähigkeit, Willenskraft und Präsenz für Entschlossenheit). Es behält Rüstungsboni, außergewöhnliche Boni und Boni durch Fertigkeiten.</li>
+<li><strong>Level 4</strong> - Das Ziel verliert seine Attributboni auf Verteidigungswerte (Geschick und Kraft für Deckung, Konstitution und Willenskraft für Zähigkeit, Willenskraft und Präsenz für Entschlossenheit). Es behält Rüstungsboni, außergewöhnliche Boni und Boni durch Fertigkeiten.</li>
 <li><strong>Level 5</strong> - Das Ziel verliert das Bewusstsein und ist hilflos. Da es nun zum Ausruhen gezwungen ist, verliert es einen Grad von Erschöpft alle 24 Stunden, außer die Umstände verhindern ein normales Ausruhen.</li>
 <li><strong>Level 6</strong> - Das Ziel stirbt.</li>
 </ul>
@@ -346,10 +346,10 @@ ___
 
 **Kraftlevel:** 2 / 4 / 6 / 8
 
-**Angriffsattribute:** Beweglichkeit, Energie, Kraft, Bewegung
+**Angriffsattribute:** Geschick, Energie, Kraft, Bewegung
 
 **Angriff**
-- Beweglichkeit vs. Deckung
+- Geschick vs. Deckung
 - Energie vs. Deckung
 - Kraft vs. Deckung
 - Bewegung vs. Deckung
@@ -435,10 +435,10 @@ ___
 
 **Kraftlevel:** 5
 
-**Angriffsattribute:** Beweglichkeit, Schöpfung, Energie, Vergehen
+**Angriffsattribute:** Geschick, Schöpfung, Energie, Vergehen
 
 **Angriff**
-- Beweglichkeit vs. Deckung
+- Geschick vs. Deckung
 - Schöpfung vs. Deckung
 - Energie vs. Deckung
 - Vergehen vs. Zähigkeit
@@ -520,10 +520,10 @@ ___
 
 **Kraftlevel:** 1
 
-**Angriffsattribute:** Beweglichkeit, Wandlung, Schöpfung, Energie, Vergehen, Einfluss, Kraft, Bewegung
+**Angriffsattribute:** Geschick, Wandlung, Schöpfung, Energie, Vergehen, Einfluss, Kraft, Bewegung
 
 **Angriff**
-- Beweglichkeit vs. Deckung
+- Geschick vs. Deckung
 - Wandlung vs. Deckung
 - Schöpfung vs. Zähigkeit
 - Energie vs. Zähigkeit
@@ -553,10 +553,10 @@ ___
 
 **Kraftlevel:** 1
 
-**Angriffsattribute:** Beweglichkeit, Energie, Kraft, Bewegung
+**Angriffsattribute:** Geschick, Energie, Kraft, Bewegung
 
 **Angriff**
-- Beweglichkeit vs. Deckung
+- Geschick vs. Deckung
 - Energie vs. Deckung
 - Kraft vs. Deckung
 - Bewegung vs. Deckung
@@ -625,9 +625,9 @@ ___
 Du änderst die Größe, Form oder Komposition des Ziels, indem du es wachsen oder schrumpfen lässt, oder ihm eine komplett neue Form gibst (z.B. ein Schaf oder Molch). Polymorph kann durch den Fluch eines Druiden, den Transmogrifizierungsstrahl eines verrückten Wissenschaftlers oder durch Verstrahlung mit außerirdischen Energien gewirkt werden.
 
 **Effekt**  
-Dein Kraftlevel bestimmt das Ausmaß, bis zu dem du dein Ziel verwandeln kannst. Falls das Ziel in eine andere Kreatur verwandelt wird, nutzt es die Kraft-, Beweglichkeits-, Konstituions- und Wahrnehmungswerte der neuen Kreatur.
+Dein Kraftlevel bestimmt das Ausmaß, bis zu dem du dein Ziel verwandeln kannst. Falls das Ziel in eine andere Kreatur verwandelt wird, nutzt es die Kraft-, Geschick-, Konstituions- und Wahrnehmungswerte der neuen Kreatur.
 <ul>
-<li><strong>Kraftlevel 5</strong> - Verwandle eine Kreatur in eine andere Kreatur gleicher Größe. Die neue Form kann die Attributwerte des Ziels um bis zu 2 reduzieren. Falls die neue Form höhere Attributwerte hätte, wird das Ziel ein außergewöhnliches Beispiel der Spezies. Verwandelt man einen tödlichen Sniper mit Beweglichkeit 5 in einen tumben Oger mit normaler Beweglichkeit 0, dann hat der Sniper-Oger am Ende untypische Beweglichkeit 3.</li>
+<li><strong>Kraftlevel 5</strong> - Verwandle eine Kreatur in eine andere Kreatur gleicher Größe. Die neue Form kann die Attributwerte des Ziels um bis zu 2 reduzieren. Falls die neue Form höhere Attributwerte hätte, wird das Ziel ein außergewöhnliches Beispiel der Spezies. Verwandelt man einen tödlichen Sniper mit Geschick 5 in einen tumben Oger mit normalem Geschick 0, dann hat der Sniper-Oger am Ende untypisches Geschick 3.</li>
 <li><strong>Kraftlevel 6</strong> - Verwandle eine Kreatur in eine andere Kreatur von bis zu halber oder doppelter Größe. Die neue Form kann die Attributwerte des Ziels um bis zu 3 reduzieren.</li>
 <li><strong>Kraftlevel 8</strong> - Verwandle eine Kreatur in eine andere Kreatur von bis zu viertel oder vierfacher Größe. Alternativ kannst du die Kreatur in ein Objekt gleicher Größe verwandeln. Die neue Form kann die Attributwerte des Ziels um bis zu 5 reduzieren.</li>
 <li><strong>Kraftlevel 9</strong> - Verwandle eine Kreatur in eine andere Kreatur jeder beliebigen Größe. Alternativ kannst du die Kreatur in ein Objekt gleicher Größe verwandeln. Die neue Form kann die Attributwerte des Ziels um bis zu 7 reduzieren.</li>
@@ -644,10 +644,10 @@ ___
 
 **Kraftlevel:** 4 / 5 / 6 / 7 / 8 / 9
 
-**Angriffsattribute:** Beweglichkeit, Schöpfung, Täuschung, Energie, Einfluss, Kraft, Überzeugung, Präsenz
+**Angriffsattribute:** Geschick, Schöpfung, Täuschung, Energie, Einfluss, Kraft, Überzeugung, Präsenz
 
 **Angriff**
-- Beweglichkeit vs. Entschlossenheit
+- Geschick vs. Entschlossenheit
 - Schöpfung vs. Entschlossenheit
 - Täuschung vs. Entschlossenheit
 - Energie vs. Entschlossenheit
@@ -672,7 +672,7 @@ Alle Angriffe, die das Ziel nicht gegen dich ausführt, erleiden Nachteil. Falls
 
 **Besonders**  
 Diesem Harm zu widerstehen ist eine kleine Aktion.
-Wird dieser Harm mit Kraft oder Beweglichkeit gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus Kapitel 7: Kampf bestimmen.
+Wird dieser Harm mit Kraft oder Geschick gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus Kapitel 7: Kampf bestimmen.
 
 > Tags: Außergewöhnlich, Körperlich
 
@@ -684,10 +684,10 @@ ___
 
 **Kraftlevel:** 4
 
-**Angriffsattribute:** Beweglichkeit, Energie, Vergehen
+**Angriffsattribute:** Geschick, Energie, Vergehen
 
 **Angriff**
-- Beweglichkeit vs. Deckung
+- Geschick vs. Deckung
 - Energie vs. Zähigkeit
 - Vergehen vs. Zähigkeit
 
@@ -707,10 +707,10 @@ ___
 
 **Kraftlevel:** 9
 
-**Angriffsattribute:** Beweglichkeit, Vergehen
+**Angriffsattribute:** Geschick, Vergehen
 
 **Angriff**
-- Beweglichkeit vs. Zähigkeit
+- Geschick vs. Zähigkeit
 - Vergehen vs. Zähigkeit
 
 **Beschreibung**  
@@ -733,10 +733,10 @@ ___
 
 **Kraftlevel:** 1
 
-**Angriffsattribute:** Beweglichkeit, Energie, Vergehen, Kraft, Bewegung
+**Angriffsattribute:** Geschick, Energie, Vergehen, Kraft, Bewegung
 
 **Angriff**
-- Beweglichkeit vs. Deckung
+- Geschick vs. Deckung
 - Energie vs. Deckung
 - Vergehen vs. Zähigkeit
 - Kraft vs. Deckung
@@ -758,10 +758,10 @@ ___
 
 **Kraftlevel:** 2
 
-**Angriffsattribute:** Beweglichkeit, Wandlung, Vergehen, Kraft
+**Angriffsattribute:** Geschick, Wandlung, Vergehen, Kraft
 
 **Angriff**
-- Beweglichkeit vs. Zähigkeit
+- Geschick vs. Zähigkeit
 - Wandlung vs. Zähigkeit
 - Vergehen vs. Zähigkeit
 - Kraft vs. Zähigkeit
@@ -770,7 +770,7 @@ ___
 Stille breitet sich um das Ziel aus, egal ob durch das Manipulieren von Schallwellen um das Ziel oder physischen Effekten wie Erwürgen oder Ersticken. Der Harm Verstummt ist verbreitet bei Assassinen, Zauberern, Ingenieuren und verrückten Wissenschaftlern.
 
 **Effekt**  
-Falls Kraft, Beweglichkeit oder Vergehen benutzt wurden, um diesen Harm zu wirken, leidet der Charakter und Erwürgung und kann nicht sprechen. Falls der Harm mit Wandlung gewirkt wurde, dann erlischt aller Klang innerhalb von 5' um das Ziel durch außergewöhnliche Mittel, sodass z.B. ihre Schritte stumm sind und das Klappern von Ausrüstung nicht gehört werden kann.
+Falls Kraft, Geschick oder Vergehen benutzt wurden, um diesen Harm zu wirken, leidet der Charakter und Erwürgung und kann nicht sprechen. Falls der Harm mit Wandlung gewirkt wurde, dann erlischt aller Klang innerhalb von 5' um das Ziel durch außergewöhnliche Mittel, sodass z.B. ihre Schritte stumm sind und das Klappern von Ausrüstung nicht gehört werden kann.
 
 > Tags: Außergewöhnlich, Körperlich
 
