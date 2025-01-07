@@ -152,7 +152,7 @@ Kapitel 6 erklärt das vereinfachte Wohlstandssystem von Open Legend und die *Wo
 | -------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | 0              | Bettler, Straßenkind                              | 3 Mahlzeiten und ein warmes Bett für die Nacht                                                       |
 | 1              | Tagelöhner                                        | eine Zechnacht, Lederrüstung, einfache Waffen                                                        |
-| 2              | Handwerker, Stadtwache, Level 1 Charakter         | Kriegswaffen[?], Allzweckfahrzeug, Kettenhemd, ein gutes Pferd                                       |
+| 2              | Handwerker, Stadtwache, Level 1 Charakter         | Kriegswaffen, Allzweckfahrzeug, Kettenhemd, ein gutes Pferd                                          |
 | 3              | Meisterhandwerker, Dorfbürgermeister              | gepanzerter Trenchcoat, Silberkugeln, ein kleines Boot, ein exzellentes Pferd, ein gutes Auto        |
 | 4              | Level 4 Charakter, Aristokrat, Stadtbürgermeister | elfischer Plattenpanzer, ein leichter Panzer, ein kleines Schiff, eine Belagerungswaffe              |
 | 5              | Fürst, Mafiachef in einer großen Stadt            | ein großes Frachtschiff, eine Stadtmauer, ein schwerer Kampfpanzer, Waffen für eine kleine Miliz     |

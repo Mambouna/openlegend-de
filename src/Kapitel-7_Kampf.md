@@ -15,7 +15,7 @@ Wenn der GM angibt, dass ein Kampf beginnt, wird das Spiel in Runden aufgeteilt.
 ### Überraschung feststellen
 In jedem Kampf können einer oder mehrere der Beteiligten überrascht sein, falls ihre Feinde sie unerwartet angreifen. Beispielsweise könnte eine Bande Banditen auf einem felsigen Pfad einen Hinterhalt für die Spielergruppe legen. Der GM lässt die Spielenden einen bestrittenen Wahrnehmungswurf gegen den Beweglichkeitswurf der Banditen machen. Alle Spieler\*innen, die ihren Wurf nicht bestehen, sind überrascht. Der GM kann auch selbst entscheiden, ob einige oder alle Kämpfenden überrascht sind.
 
-Überraschte Charaktere handeln immer nach nicht-überraschten Charakteren, wie in den Regeln zur Initiative erklärt wird. Weiterhin kann ein überraschter Charakter keine Unterbrechungsaktionen[?] ausführen und alle Angriffe gegen ihn haben Vorteil 1, bis er seinen ersten Zug hatte.
+Überraschte Charaktere handeln immer nach nicht-überraschten Charakteren, wie in den Regeln zur Initiative erklärt wird. Weiterhin kann ein überraschter Charakter keine Unterbrechungsaktionen ausführen und alle Angriffe gegen ihn haben Vorteil 1, bis er seinen ersten Zug hatte.
 ### Initiative werfen
 Nachdem Überraschung festgestellt wurde, würfelt jeder Kampfbeteiligte einen Beweglichkeitswurf. Das Ergebnis des Wurfs ist der Initiativewert der Person. Der GM kann entscheiden, einen Wurf für eine Gruppe von Charakteren oder Kreaturen zu machen, anstatt für jeden einzelnen NPC individuell Initiative festzustellen.
 
@@ -282,7 +282,7 @@ Eine Fokusaktion zu nutzen bedarf all deiner Konzentration und Aufmerksamkeit in
 Wirf einen beliebigen Aktionswurf mit Vorteil 1.
 #### Stürmen
 Bewege dich bis zu zwei Mal deiner Geschwindigkeit und führe eine Nahkampfattacke mit Nachteil 1 aus.
-### Unterbrechungsaktionen[?]
+### Unterbrechungsaktionen
 In manchen Situationen würdest du vielleicht gerne eine Aktion im Zug eines anderen Charakters nutzen. In diesen Fällen kannst du eine Unterbrechungsaktion nehmen. Tust du dies, verlierst du aber deine große Aktion in deinem nächsten regulären Zug in der Initiativereihenfolge.
 
 Du kannst eine Unterbrechungsaktion nutzen, um die folgenden zwei Dinge zu tun:

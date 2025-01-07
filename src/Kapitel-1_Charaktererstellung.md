@@ -273,12 +273,12 @@ In der Schlacht sind Kampfmagier die Ein-Mann-Front. Ihre schwere Rüstung läss
 #### Bevorzugte Aktionen
 ***Eiszapfen*** (Angriff mit Schaden): Energie vs. Deckung<br>***Erdbeben*** (Angriff mit Schaden, 10' Würfel): Energie vs. Deckung<br>***Frostbiss*** (*Anhaltender Schaden* zufügen, 10' Würfel): Energie vs. Deckung<br>***Beben*** (*Niedergeschlagen* zufügen, 10' Würfel): Energie vs. Deckung<br>***Treibsand*** (*Immobilisiert* zufügen, 10' Würfel): Energie vs. Zähigkeit<br>***Langschwert*** (Angriff mit Schaden): Kraft vs. Deckung<br>***Speer*** (Angriff mit Schaden, 10' Reichweite): Kraft vs. Deckung, Vorteil 1
 ___
-### Monsterzähmer[?]
-Der Monsterzähmer beschwört und kommandiert die Kreaturen der Wildnis und ist in der Lage, sogar legendäre Monster wie Drachen oder Mantikore zu zähmen.
+### Herr der Tiere
+Der Herr der Tiere beschwört und kommandiert die Kreaturen der Wildnis und ist in der Lage, sogar legendäre Monster wie Drachen oder Mantikore zu zähmen.
 #### Strategie
-Der Monsterzähmer kommandiert einen legendären Mantikor, der als Reittier und Kämpfer agiert. Die Flugfähigkeit des Mantikors erlaubt dem Monsterzähmer Zugang zu Gebieten, die der Rest der Gruppe vielleicht nicht erreichen könnte. Außerhalb des Kampfes kann der Monsterzähmer sein Einflussattribut nutzen, um mit der Zeit die Loyalität einer Fülle an Tieren und mythischen Wesen zu gewinnen.
+Der Herr der Tiere kommandiert einen legendären Mantikor, der als Reittier und Kämpfer agiert. Die Flugfähigkeit des Mantikors erlaubt dem Herr der Tiere Zugang zu Gebieten, die der Rest der Gruppe vielleicht nicht erreichen könnte. Außerhalb des Kampfes kann der Herr der Tiere sein Einflussattribut nutzen, um mit der Zeit die Loyalität einer Fülle an Tieren und mythischen Wesen zu gewinnen.
 
-Sobald der Kampf beginnt, schwingt der Monsterzähmer sich in den Himmel und nutzt seinen Langbogen, während er dominierte Kreaturen über das Schlachtfeld befiehlt. Wenn seine Pfeile nicht ausreichen, um eine Auseinandersetzung zu bestehen, begiebt der Monsterzähmer sich in Nahkampfreichweite und lässt seinen Mantikor Feinde mit den Klauen zerfetzen oder mit dem Stachel vergiften.
+Sobald der Kampf beginnt, schwingt der Herr der Tiere sich in den Himmel und nutzt seinen Langbogen, während er dominierte Kreaturen über das Schlachtfeld befiehlt. Wenn seine Pfeile nicht ausreichen, um eine Auseinandersetzung zu bestehen, begiebt der Herr der Tiere sich in Nahkampfreichweite und lässt seinen Mantikor Feinde mit den Klauen zerfetzen oder mit dem Stachel vergiften.
 
 **Attribute:** Beweglichkeit 4 (1d10), Konstitution 2 (1d6), Kraft 1 (1d4), Wahrnehmung 3 (1d8), Willenskraft 2 (1d6), Präsenz 1 (1d4), Einfluss 5 (2d6)<br>**Trefferpunkte:** 24<br>**Deckung:** 17 (Beweglichkeit 4, Kraft 1, Brustplatte 2)<br>**Zähigkeit:** 14<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
 

@@ -788,7 +788,7 @@ ___
 - Einfluss vs. Entschlossenheit
 
 **Beschreibung**  
-Indem du den Geist des Ziels durch Magie, chemische Injektion, Neuralsonden oder ähnliche Wege gefügig machst, verhinderst du jede willentliche Lüge des Ziels. Dieser Harm ist beliebt bei Verzauberern, verrückten Wissenschaftlern, Psychikern und der Gesinnungspolizei[?].
+Indem du den Geist des Ziels durch Magie, chemische Injektion, Neuralsonden oder ähnliche Wege gefügig machst, verhinderst du jede willentliche Lüge des Ziels. Dieser Harm ist beliebt bei Verzauberern, verrückten Wissenschaftlern, Psychikern und der Gesinnungspolizei.
 
 **Effekt**  
 Das Ziel beantwortet alle Fragen so gut es kann ehrlich. Falls eine Antwort etwas enthüllen würde, was das Ziel normalerweise verborgen halten wollte, macht das Ziel einen Willenskraftwurf gegen einen Einflusswurf durch dich. Falls der Willenskraftwurf höher ist, widersteht das Ziel dem Harm und der Effekt wird aufgelöst.

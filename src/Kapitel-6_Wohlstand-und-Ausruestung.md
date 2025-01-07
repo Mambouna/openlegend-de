@@ -11,7 +11,7 @@ Jeder Charakter hat einen Wohlstandswert, welcher bei 2 beginnt und die Werte 0 
 | -------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | 0              | Bettler, Straßenkind                              | 3 Mahlzeiten und ein warmes Bett für die Nacht                                                       |
 | 1              | Tagelöhner                                        | eine Zechnacht, Lederrüstung, einfache Waffen                                                        |
-| 2              | Handwerker, Stadtwache, Level 1 Charakter         | Kriegswaffen[?], Allzweckfahrzeug, Kettenhemd, ein gutes Pferd                                       |
+| 2              | Handwerker, Stadtwache, Level 1 Charakter         | Kriegswaffen, Allzweckfahrzeug, Kettenhemd, ein gutes Pferd                                          |
 | 3              | Meisterhandwerker, Dorfbürgermeister              | gepanzerter Trenchcoat, Silberkugeln, ein kleines Boot, ein exzellentes Pferd, ein gutes Auto        |
 | 4              | Level 4 Charakter, Aristokrat, Stadtbürgermeister | elfischer Plattenpanzer, ein leichter Panzer, ein kleines Schiff, eine Belagerungswaffe              |
 | 5              | Fürst, Mafiachef in einer großen Stadt            | ein großes Frachtschiff, eine Stadtmauer, ein schwerer Kampfpanzer, Waffen für eine kleine Miliz     |
@@ -63,10 +63,10 @@ Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an 
 - **Nahkampf** - Waffen in dieser Kategorie werden in engen Umgebungen im Nahkampf benutzt.
 	- **Einhand Nahkampf** - Diese Waffe nutzt eine Hand und erlaubt es so, in der anderen Hand ein Objekt oder eine zweite Waffe zu halten oder diese für andere Aufgaben freizuhalten. Wenn man eine einhändige Waffe in jeder Hand hält und keine der beiden die *defensiv*-Eigenschaft hat, bekommst du Vorteil 1 auf alle Nahkampfattacken. Falls beide Waffen, die du führst, passive Boni wie z.B. *defensiv* haben, nutze den besseren der beiden Boni; addiere sie nicht zusammen.
 	- **Zweihand Nahkampf** - Die Waffe benötigt zwei Hände, um sie zu führen und kann nicht mit einem Schild oder einer anderen Waffe zusammen benutzt werden. Zweihand Nahkampfwaffen geben dir Vorteil 1 auf alle Angriffe.
-	- **Vielfältig Nahkampf** - Diese Waffe kann sowohl ein- oder zweihändig geführt werden. Der Charakter kann frei zwischen den Modi wechseln und erhält dabei jeweils die Vor- und Nachteile des momentanen Modus.
+	- **Flexibel Nahkampf** - Diese Waffe kann sowohl ein- oder zweihändig geführt werden. Der Charakter kann frei zwischen den Modi wechseln und erhält dabei jeweils die Vor- und Nachteile des momentanen Modus.
 - **Fernkampf** - Waffen in dieser Kategorie können genutzt werden, um Fernkampfangriffe bis zu ihrer Reichweite (in Fuß) auszuführen, ohne dabei ein Malus zu erhalten. Angriffe bis zu zweimal der normalen Reichweite werden mit Nachteil 1 ausgeführt und Angriffe bis zu dreimal der normalen Reichweite mit Nachteil 2. Noch weiter reichende Attacken können nicht ausgeführt werden. Munition wird generell nicht abgezählt, da davon ausgegangen wird, dass du genug mitgebracht hast.
 	- **Reichweiten:**
-		- **Direkte Reichweite**[?] - Reichweite von 25'.
+		- **Direkte Reichweite** - Reichweite von 25'.
 		- **Kurze Reichweite** - Reichweite von 50'.
 		- **Mittlere Reichweite** - Reichweite von 75'.
 		- **Große Reichweite** - Reichweite von 125'.
@@ -88,12 +88,12 @@ Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an 
 | Krummsäbel, Kurzschwert, Machete, Sägeblatt     | Einhand Nahkampf                      | 2   | Kraftvoll, Präzise                                                            | Anhaltender Schaden, Entwaffnet                            |
 | Blasrohr, Wurfdart                              | Direkte Reichweite                    | 1   | Präzise                                                                       | Immobilisiert                                              |
 | Beil, Dolch                                     | Direkte Reichweite, Einhand Nahkampf  | 2   | Kraftvoll, Präzise, Schnell                                                   | Anhaltender Schaden, Entwaffnet                            |
-| Langschwert, Katana, Falchion                   | Vielfältig Nahkampf                   | 2   | Kraftvoll, Präzise                                                            | Anhaltender Schaden, Entwaffnet                            |
+| Langschwert, Katana, Falchion                   | Flexibel Nahkampf                   | 2   | Kraftvoll, Präzise                                                            | Anhaltender Schaden, Entwaffnet                            |
 | Baseball-Schläger, Knüppel, Improvisierte Waffe | Einhand Nahkampf                      | 1   | Kraftvoll                                                                     | Niedergeschlagen, Betäubt                                  |
 | Streitkolben, Kriegshammer                      | Einhand Nahkampf                      | 2   | Kraftvoll                                                                     | Niedergeschlagen, Betäubt, Erzwungene Bewegung             |
 | Großschwert, No-Dachi, Claymore, Bastardschwert | Zweihand Nahkampf                     | 2   | Kraftvoll, Präzise, Schwer                                                    | Erzwungene Bewegung, Niedergeschlagen                      |
 | Kettensäge                                      | Zweihand Nahkampf                     | 2   | Kraftvoll                                                                     | Anhaltender Schaden, Demoralisiert, Provoziert, Furcht     |
-| Kurzspeer                                       | Vielfältig Nahkampf, Kurze Reichweite | 1   | Kraftvoll, Präzise                                                            | Anhaltender Schaden, Entwaffnet, Immobilisiert             |
+| Kurzspeer                                       | Flexibel Nahkampf, Kurze Reichweite | 1   | Kraftvoll, Präzise                                                            | Anhaltender Schaden, Entwaffnet, Immobilisiert             |
 | Vorschlaghammer, Streithammer, Kriegsaxt        | Zweihand Nahkampf                     | 2   | Kraftvoll, Schwer                                                             | Niedergeschlagen, Erzwungene Bewegung, Betäubt             |
 | Langspeer                                       | Zweihand Nahkampf, Direkte Reichweite | 2   | Kraftvoll, Präzise, Lang                                                      | Anhaltender Schaden, Entwaffnet, Immobilisiert             |
 | Mistgabel, Stab                                 | Zweihand Nahkampf                     | 1   | Kraftvoll                                                                     | Niedergeschlagen, Immobilisiert, Erzwungene Bewegung       |
@@ -103,7 +103,7 @@ Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an 
 | Granate, Molotovcocktail                        | Direkte Reichweite                    | 2   | Präzise, Verbrauchsgut, Gebiet (10' Würfel)                                   | Anhaltender Schaden, Niedergeschlagen, Erzwungene Bewegung |
 | Leichte Armbrust                                | Mittlere Reichweite                   | 2   | Präzise                                                                       | Anhaltender Schaden, Immobilisiert                         |
 | Abgesägte Schrotflinte                          | Kurze Reichweite                      | 2   | Präzise, Langsam, Gebiet (10' Kegel)                                          | Anhaltender Schaden, Betäubt, Erzwungene Bewegung          |
-| Kurzbogen, Pump-Action-Schrotflinte[?]          | Mittlere Reichweite                   | 2   | Präzise                                                                       | Verlangsamt, Anhaltender Schaden, Niedergeschlagen         |
+| Kurzbogen, Pump-Action-Schrotflinte          | Mittlere Reichweite                   | 2   | Präzise                                                                       | Verlangsamt, Anhaltender Schaden, Niedergeschlagen         |
 | Maschinenpistole, M16                           | Mittlere Reichweite                   | 3   | Präzise, Gebiet (10' Würfel)                                                  | Anhaltender Schaden, Provoziert, Demoralisiert             |
 | Schwere Armbrust, Langbogen, Gewehr             | Große Reichweite                      | 2   | Präzise                                                                       | Anhaltender Schaden, Verlangsamt                           |
 | Scharfschützengewehr, Lasergewehr               | Extreme Reichweite                    | 2   | Präzise                                                                       | Anhaltender Schaden, Verlangsamt                           |
