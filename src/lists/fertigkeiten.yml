@@ -64,55 +64,55 @@
     tier1:
       any:
         Attribute:
-        - Beweglichkeit: 3
+        - Geschick: 3
         - Kraft: 3
         - Beliebiges Außergewöhnliches: 3
     tier2:
       any:
         Attribute:
-        - Beweglichkeit: 3
+        - Geschick: 3
         - Kraft: 3
         - Beliebiges Außergewöhnliches: 3
     tier3:
       any:
         Attribute:
-        - Beweglichkeit: 3
+        - Geschick: 3
         - Kraft: 3
         - Beliebiges Außergewöhnliches: 3
     tier4:
       any:
         Attribute:
-        - Beweglichkeit: 5
+        - Geschick: 5
         - Kraft: 5
         - Beliebiges Außergewöhnliches: 5
     tier5:
       any:
         Attribute:
-        - Beweglichkeit: 5
+        - Geschick: 5
         - Kraft: 5
         - Beliebiges Außergewöhnliches: 5
     tier6:
       any:
         Attribute:
-        - Beweglichkeit: 5
+        - Geschick: 5
         - Kraft: 5
         - Beliebiges Außergewöhnliches: 5
     tier7:
       any:
         Attribute:
-        - Beweglichkeit: 7
+        - Geschick: 7
         - Kraft: 7
         - Beliebiges Außergewöhnliches: 7
     tier8:
       any:
         Attribute:
-        - Beweglichkeit: 7
+        - Geschick: 7
         - Kraft: 7
         - Beliebiges Außergewöhnliches: 7
     tier9:
       any:
         Attribute:
-        - Beweglichkeit: 7
+        - Geschick: 7
         - Kraft: 7
         - Beliebiges Außergewöhnliches: 7
   OGprerequisites:
@@ -213,7 +213,7 @@
   cost:
   - 2
   description: |
-    Dein Können mit einem außergewöhnlichen, geistigen oder sozialen Attribut ist mit einem anderen auf besondere Weise verbunden, sodass du es für Aufgaben nutzen kannst, die normalerweise mit dem anderen Attribut angegangen werden müssten. Beispiele von Attributsubstitution im Spiel wären z.B. ein Krieger, der körperlich schwach ist, seine Feinde aber mit internem Chi werfen und außer Gefecht setzen kann, ein Anatomiegenie, das Feinde durch logisch hergeleitetes Zielen auch Schwachpunkte anstatt von Beweglichkeit niederstreckt oder eine Revolverheldin, deren Zielsicherheit das Resultat eines dunklen Paktes ist.
+    Dein Können mit einem außergewöhnlichen, geistigen oder sozialen Attribut ist mit einem anderen auf besondere Weise verbunden, sodass du es für Aufgaben nutzen kannst, die normalerweise mit dem anderen Attribut angegangen werden müssten. Beispiele von Attributsubstitution im Spiel wären z.B. ein Krieger, der körperlich schwach ist, seine Feinde aber mit internem Chi werfen und außer Gefecht setzen kann, ein Anatomiegenie, das Feinde durch logisch hergeleitetes Zielen auf Schwachpunkte anstatt durch Geschick niederstreckt oder eine Revolverheldin, deren Zielsicherheit das Resultat eines dunklen Paktes ist.
   effect: |
     Wenn du diese Fertigkeit erwirbst, schaffst du eine permanente Verbindung zwischen zwei Attributen: einem stärkeren (das Primärattribut) und einem schwächeren (das abhängige Attribut). Du kannst das Primärattribut anstelle des abhängigen Attributes in unterschiedlichen Kontexten anhand des Kraftlevels der Fertigkeit nutzen:
     <ul>
@@ -231,7 +231,7 @@
       <li>Harme oder Wohle wirken</li>
       </ul>
     </ul>
-    Die Verbindung zwischen zwei Attributen muss immer Fall für Fall entschieden werden, wobei die Zustimmung des GM nötig ist. Die Verbindung muss im Kontext der Handlung und des Settings Sinn ergeben, in dem die Kampagne spielt. Beispielsweise könnte ein Barbar sein Logikattribut sein Kraftattribut ersetzen lassen, wenn es um die Anwendung von Hebelwirkung im Ringen mit Feinden geht. Das bedeutet aber nicht, dass der gleiche Barbar sein Logikattribut nutzen könnte, um die Stahlstäbe einer Gefängniszelle aufzubiegen. Weiterhin sollte der GM Spielende daran hindern, unlogische Verbindungen zu benutzen, die nur dazu da sind, übermäßig starke Charaktere ohne Handlungsbezug zu schaffen. Zwei sinnvolle Beispiele dieser Fertigkeit wären ein kluger Krieger, der Hebelwirkung, Momentum und Physik zu seinem Vorteil nutzt und so Kraft durch Logik ersetzt oder eine Revolverhelding, die Beweglichkeit durch Vergehen ersetzt und durch das Beschwören dunkler Energie ihre Sinne schärft und so besser zielen kann.
+    Die Verbindung zwischen zwei Attributen muss immer Fall für Fall entschieden werden, wobei die Zustimmung des GM nötig ist. Die Verbindung muss im Kontext der Handlung und des Settings Sinn ergeben, in dem die Kampagne spielt. Beispielsweise könnte ein Barbar sein Logikattribut sein Kraftattribut ersetzen lassen, wenn es um die Anwendung von Hebelwirkung im Ringen mit Feinden geht. Das bedeutet aber nicht, dass der gleiche Barbar sein Logikattribut nutzen könnte, um die Stahlstäbe einer Gefängniszelle aufzubiegen. Weiterhin sollte der GM Spielende daran hindern, unlogische Verbindungen zu benutzen, die nur dazu da sind, übermäßig starke Charaktere ohne Handlungsbezug zu schaffen. Zwei sinnvolle Beispiele dieser Fertigkeit wären ein kluger Krieger, der Hebelwirkung, Momentum und Physik zu seinem Vorteil nutzt und so Kraft durch Logik ersetzt oder eine Revolverhelding, die Geschick durch Vergehen ersetzt und durch das Beschwören dunkler Energie ihre Sinne schärft und so besser zielen kann.
 - !
   name: Außergewöhnliche Heilung
   OGname: Extraordinary Healing
@@ -407,14 +407,14 @@
   prerequisites:
     tier1:
       Attribute:
-      - Beweglichkeit: 1
+      - Geschick: 1
   OGprerequisites:
     tier1:
       Attribute:
       - Agility: 1
   tags:
   - Kampf
-  - Beweglichkeit
+  - Geschick
   OGtags:
   - Combat
   - Agility
@@ -431,27 +431,27 @@
     tier1:
       any:
         Attribute:
-        - Beweglichkeit: 2
+        - Geschick: 2
         - Vorwissen: 2
     tier2:
       any:
         Attribute:
-        - Beweglichkeit: 2
+        - Geschick: 2
         - Vorwissen: 2
     tier3:
       any:
         Attribute:
-        - Beweglichkeit: 4
+        - Geschick: 4
         - Vorwissen: 4
     tier4:
       any:
         Attribute:
-        - Beweglichkeit: 4
+        - Geschick: 4
         - Vorwissen: 4
     tier5:
       any:
         Attribute:
-        - Beweglichkeit: 4
+        - Geschick: 4
         - Vorwissen: 4
   OGprerequisites:
     tier1:
@@ -482,7 +482,7 @@
   tags:
   - Körperlich
   - Außergewöhnlich
-  - Beweglichkeit
+  - Geschick
   - Vorwissen
   OGtags:
   - Physical
@@ -543,31 +543,31 @@
   prerequisites:
     tier1:
       Attribute:
-      - Beweglichkeit: 3
+      - Geschick: 3
     tier2:
       Attribute:
-      - Beweglichkeit: 3
+      - Geschick: 3
     tier3:
       Attribute:
-      - Beweglichkeit: 3
+      - Geschick: 3
     tier4:
       Attribute:
-      - Beweglichkeit: 5
+      - Geschick: 5
     tier5:
       Attribute:
-      - Beweglichkeit: 5
+      - Geschick: 5
     tier6:
       Attribute:
-      - Beweglichkeit: 5
+      - Geschick: 5
     tier7:
       Attribute:
-      - Beweglichkeit: 7
+      - Geschick: 7
     tier8:
       Attribute:
-      - Beweglichkeit: 7
+      - Geschick: 7
     tier9:
       Attribute:
-      - Beweglichkeit: 7
+      - Geschick: 7
   OGprerequisites:
     tier1:
       Attribute:
@@ -597,7 +597,7 @@
       Attribute:
       - Agility: 7
   tags:
-  - Beweglichkeit
+  - Geschick
   - Außergewöhnlich
   OGtags:
   - Agility
@@ -857,10 +857,10 @@
   prerequisites:
     tier1:
       Attribute:
-      - Beweglichkeit: 4
+      - Geschick: 4
     tier2:
       Attribute:
-      - Beweglichkeit: 4
+      - Geschick: 4
   OGprerequisites:
     tier1:
       Attribute:
@@ -869,7 +869,7 @@
       Attribute:
       - Agility: 4
   tags:
-  - Beweglichkeit
+  - Geschick
   OGtags:
   - Agility
   cost:
@@ -908,13 +908,13 @@
   prerequisites:
     tier1:
       Attribute:
-      - Beweglichkeit: 4
+      - Geschick: 4
   OGprerequisites:
     tier1:
       Attribute:
       - Agility: 4
   tags:
-  - Beweglichkeit
+  - Geschick
   OGtags:
   - Agility
   cost:
@@ -930,19 +930,19 @@
     tier1:
       any:
         Attribute:
-        - Beweglichkeit: 4
+        - Geschick: 4
         - Konstitution: 4
         - Bewegung: 2
     tier2:
       any:
         Attribute:
-        - Beweglichkeit: 5
+        - Geschick: 5
         - Konstitution: 5
         - Bewegung: 4
     tier3:
       any:
         Attribute:
-        - Beweglichkeit: 7
+        - Geschick: 7
         - Konstitution: 7
         - Bewegung: 6
   OGprerequisites:
@@ -966,7 +966,7 @@
         - Movement: 6
   tags:
   - Außergewöhnlich
-  - Beweglichkeit
+  - Geschick
   - Bewegung
   - Konstitution
   OGtags:
@@ -1148,17 +1148,17 @@
       any:
         Attribute:
         - Bewegung: 2
-        - Beweglichkeit: 2
+        - Geschick: 2
     tier2:
       any:
         Attribute:
         - Bewegung: 4
-        - Beweglichkeit: 4
+        - Geschick: 4
     tier3:
       any:
         Attribute:
         - Bewegung: 6
-        - Beweglichkeit: 6
+        - Geschick: 6
   OGprerequisites:
     tier1:
       any:
@@ -1181,7 +1181,7 @@
   - Kampf
   - Nicht-Kampf
   - Bewegung
-  - Beweglichkeit
+  - Geschick
   OGtags:
   - Extraordinary
   - Physical
@@ -1192,9 +1192,9 @@
   cost:
   - 1
   description: |
-    Durch außergewöhnliche Kraft oder besondere Beweglichkeit kannst du deutlich weiter springen als die meisten Kreaturen. Ein telekinetischer Superheld oder eine insektoide Alienrasse könnten diese Fertigkeit haben.
+    Durch außergewöhnliche Kraft oder besonderes Geschick kannst du deutlich weiter springen als die meisten Kreaturen. Ein telekinetischer Superheld oder eine insektoide Alienrasse könnten diese Fertigkeit haben.
   effect: |
-    Du kannst deinen Bewegungs- oder Beweglichkeitswert anstatt deinem Kraft nutzen, wenn du berechnest, wie weit du springen kannst. Zusätzlich erhälst du Vorteil 1 pro Rang dieser Fertigkeit auf Aktionswürfe zum Springen.
+    Du kannst deinen Bewegungs- oder Geschickwert anstatt deinem Kraft nutzen, wenn du berechnest, wie weit du springen kannst. Zusätzlich erhälst du Vorteil 1 pro Rang dieser Fertigkeit auf Aktionswürfe zum Springen.
 - !
   name: Halluzination (I - II)
   OGname: Hallucination (I - II)
@@ -1295,7 +1295,7 @@
     tier1:
       any:
         Attribute:
-        - Beweglichkeit: 1
+        - Geschick: 1
         - Kraft: 1
   OGprerequisites:
     tier1:
@@ -1314,7 +1314,7 @@
   description: |
     Wie ein Kensaikämpfer, der sich ganz seinem Katana verschrieben hat, oder ein Assassine der ausschließlich seine Lieblingspistole führt, ist dein Training auf einen einzigen Kampfstil fokussiert.
   effect: |
-    Wähle eine einzige Waffe (oder wähle unbewaffneten Kampf) und gib an, auf welches Attribut sich dein Kampffokus verlässt: Beweglichkeit oder Kraft. Wenn du einen Angriff mit der gewählten Waffe machst, wird dein Attributwert zum Bestimmten der Attributwürfel als eins höher gewertet, als er eigentlich ist. Dein Wert bleibt für alle anderen Anwendungen - wie z.B. Fertigkeiten, Harme und Wohle - unverändert. Aufgrund deines intensiven Trainings in einem Stil, das andere Taktiken vernachlässigt, hast du Nachteil 1 auf alle Angriffe, die du ohne Kampffokus ausführst.
+    Wähle eine einzige Waffe (oder wähle unbewaffneten Kampf) und gib an, auf welches Attribut sich dein Kampffokus verlässt: Geschick oder Kraft. Wenn du einen Angriff mit der gewählten Waffe machst, wird dein Attributwert zum Bestimmten der Attributwürfel als eins höher gewertet, als er eigentlich ist. Dein Wert bleibt für alle anderen Anwendungen - wie z.B. Fertigkeiten, Harme und Wohle - unverändert. Aufgrund deines intensiven Trainings in einem Stil, das andere Taktiken vernachlässigt, hast du Nachteil 1 auf alle Angriffe, die du ohne Kampffokus ausführst.
 - !
   name: Kampfmoment
   OGname: Combat Momentum
@@ -1335,7 +1335,7 @@
   description: |
     Ob durch rohe Kraft oder Blitzreflexe, kannst du dein Momentum im Kampf nutzen, um mit Leichtigkeit über das Schlachtfeld zu maneuvrieren.
   effect: |
-    Wann immer du einen Feind mit einer Kraft- oder Beweglichkeitsattacke auf 0 TP bringst, kannst du dich sofort als kostenlose Aktion bis zu deiner Geschwidigkeit weit bewegen.
+    Wann immer du einen Feind mit einer Kraft- oder Geschickattacke auf 0 TP bringst, kannst du dich sofort als kostenlose Aktion bis zu deiner Geschwidigkeit weit bewegen.
   special: |
     Falls du Zugang zum Wohl <em>Teleportation</em> hast, kannst du es anstatt einer normalen Bewegung benutzen.
 - !
@@ -1383,7 +1383,7 @@
   description: |
     Du bist in der Lage, Feinde in schneller Folge zu dezimieren. Wie ein legendärer Samurai oder überragender Elfenschütze fallen deine Gegner in Reihen.
   effect: |
-    Wann immer du einen Feind mit einer Kraft- oder Beweglichkeitsattacke auf 0 TP bringst, kannst du sofort einen Extraangriff als kostenlose Aktion ausführen.
+    Wann immer du einen Feind mit einer Kraft- oder Geschickattacke auf 0 TP bringst, kannst du sofort einen Extraangriff als kostenlose Aktion ausführen.
 - !
   name: Klettern
   OGname: Climbing
@@ -1412,7 +1412,7 @@
     tier1:
       any:
         Attribute:
-        - Beweglichkeit: 4
+        - Geschick: 4
         - Kraft: 4
         - Beliebiges Außergewöhnliches: 4
   OGprerequisites:
@@ -1424,7 +1424,7 @@
         - Any Extraordinary: 4
   tags:
   - Kraft
-  - Beweglichkeit
+  - Geschick
   - Außergewöhnlich
   - Passiv
   - Kampf
@@ -1447,7 +1447,7 @@
     tier1:
       any:
         Attribute:
-        - Beweglichkeit: 5
+        - Geschick: 5
         - Kraft: 5
         - Beliebiges Außergewöhnliches: 5
       Feat:
@@ -2052,27 +2052,27 @@
     tier1:
       any:
         Attribute:
-        - Beweglichkeit: 4
+        - Geschick: 4
         - Kraft: 4
     tier2:
       any:
         Attribute:
-        - Beweglichkeit: 4
+        - Geschick: 4
         - Kraft: 4
     tier3:
       any:
         Attribute:
-        - Beweglichkeit: 4
+        - Geschick: 4
         - Kraft: 4
     tier4:
       any:
         Attribute:
-        - Beweglichkeit: 4
+        - Geschick: 4
         - Kraft: 4
     tier5:
       any:
         Attribute:
-        - Beweglichkeit: 4
+        - Geschick: 4
         - Kraft: 4
   OGprerequisites:
     tier1:
@@ -2102,7 +2102,7 @@
         - Might: 4
   tags:
   - Kraft
-  - Beweglichkeit
+  - Geschick
   - Passiv
   - Kampf
   - Fertigkeitenkette
@@ -2145,7 +2145,7 @@
   prerequisites:
     tier1:
       Attribute:
-      - Beweglichkeit: 5
+      - Geschick: 5
       - Wahrnehmung: 5
   OGprerequisites:
     tier1:
@@ -2154,7 +2154,7 @@
       - Perception: 5
   tags:
   - Außergewöhnlich
-  - Beweglichkeit
+  - Geschick
   - Wahrnehmung
   OGtags:
   - Extraordinary
@@ -2173,7 +2173,7 @@
     tier1:
       any:
         Attribute:
-        - Beweglichkeit: 3
+        - Geschick: 3
         - Wandlung: 3
         - Einfluss: 3
   OGprerequisites:
@@ -2232,13 +2232,13 @@
   prerequisites:
     tier1:
       Attribute:
-      - Beweglichkeit: 4
+      - Geschick: 4
   OGprerequisites:
     tier1:
       Attribute:
       - Agility: 4
   tags:
-  - Beweglichkeit
+  - Geschick
   - Körperlich
   OGtags:
   - Agility
@@ -2304,12 +2304,12 @@
   prerequisites:
     tier1:
       Attribute:
-      - Beweglichkeit: 6
+      - Geschick: 6
       Feat:
       - Tödlicher Schlag I
     tier2:
       Attribute:
-      - Beweglichkeit: 7
+      - Geschick: 7
       Feat:
       - Tödlicher Schlag III
   OGprerequisites:
@@ -2344,31 +2344,31 @@
   prerequisites:
     tier1:
       Attribute:
-      - Beweglichkeit: 3
+      - Geschick: 3
     tier2:
       Attribute:
-      - Beweglichkeit: 3
+      - Geschick: 3
     tier3:
       Attribute:
-      - Beweglichkeit: 3
+      - Geschick: 3
     tier4:
       Attribute:
-      - Beweglichkeit: 5
+      - Geschick: 5
     tier5:
       Attribute:
-      - Beweglichkeit: 5
+      - Geschick: 5
     tier6:
       Attribute:
-      - Beweglichkeit: 5
+      - Geschick: 5
     tier7:
       Attribute:
-      - Beweglichkeit: 7
+      - Geschick: 7
     tier8:
       Attribute:
-      - Beweglichkeit: 7
+      - Geschick: 7
     tier9:
       Attribute:
-      - Beweglichkeit: 7
+      - Geschick: 7
   OGprerequisites:
     tier1:
       Attribute:
@@ -2399,7 +2399,7 @@
       - Agility: 7
   tags:
   - Außergewöhnlich
-  - Beweglichkeit
+  - Geschick
   - Kampf
   OGtags:
   - Extraordinary
@@ -2838,19 +2838,19 @@
     tier1:
       any:
         Attribute:
-        - Beweglichkeit: 5
+        - Geschick: 5
         - Kraft: 5
         - Beliebiges Außergewöhnliches: 5
     tier2:
       any:
         Attribute:
-        - Beweglichkeit: 5
+        - Geschick: 5
         - Kraft: 5
         - Beliebiges Außergewöhnliches: 5
     tier3:
       any:
         Attribute:
-        - Beweglichkeit: 5
+        - Geschick: 5
         - Kraft: 5
         - Beliebiges Außergewöhnliches: 5
   OGprerequisites:
@@ -2924,7 +2924,7 @@
     tier1:
       any:
         Attribute:
-        - Beweglichkeit: 7 
+        - Geschick: 7 
         - Kraft: 7
         - Energie: 7
         - Vergehen: 7
@@ -2959,7 +2959,7 @@
     tier1:
       any:
         Attribute:
-        - Beweglichkeit: 5
+        - Geschick: 5
         - Kraft: 5
         - Beliebiges Außergewöhnliches: 5
   OGprerequisites:
@@ -2988,7 +2988,7 @@
   prerequisites:
     tier1:
       Attribute:
-      - Beweglichkeit: 4
+      - Geschick: 4
       - Kraft: 5
       Feat:
       - Multiangriffsspezialisierung
@@ -3002,7 +3002,7 @@
   tags:
   - Kampf
   - Körperlich
-  - Beweglichkeit
+  - Geschick
   - Kraft
   OGtags:
   - Combat
@@ -3021,7 +3021,7 @@
   prerequisites:
     tier1:
       Attribute:
-      - Beweglichkeit: 4
+      - Geschick: 4
       Feat:
       - Angriffsspezialisierung
   OGprerequisites:
@@ -3033,7 +3033,7 @@
   tags:
   - Kampf
   - Körperlich
-  - Beweglichkeit
+  - Geschick
   OGtags:
   - Combat
   - Physical

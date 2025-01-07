@@ -34,7 +34,7 @@ Wenn du dir die Kernmechanik nochmal in Erinnerung rufst, kannst du sehen, dass 
 
 Das folgende Beispiel zeigt, wie man jeden Wurf zählen lässt.
 
-*Pelias Quickenfit - ein Halblingdieb - versucht, das Schloss einer Tür zu knacken. Er führt einen Beweglichkeitswurf aus, erreicht aber nicht den Wert der Herausforderung.*
+*Pelias Quickenfit - ein Halblingdieb - versucht, das Schloss einer Tür zu knacken. Er führt einen Geschickwurf aus, erreicht aber nicht den Wert der Herausforderung.*
 
 Jetzt gibt es zwei mögliche Resultate der Handlung:
 
@@ -128,7 +128,7 @@ Es sollte angemerkt werden, dass Herausforderungswerte generell nicht an das Lev
 ### Bestrittene Aktionen
 Manchmal werden zwei oder mehr Charaktere bei einer Handlung direkt durch ihre Stärke, Intelligenz oder ihren Charme in Konflikt stehen. Zum Beispiel könnte ein mächtiger Barbar mit einem Minotaurus ringen, um ein magisches Juwel in die Hände zu bekommen. Oder aber drei Repräsentanten verschiedener Sternensysteme versuchen, den Kriegsherrn der intergalaktischen Reaver davon zu überzeugen, sich ihnen anzuschließen. Oder ein verborgener Ninja möchte ungesehen an den Wache stehenden Mönchen vorbeischleichen. Diese Art von Situationen nennt man **bestrittene Aktionen**.
 
-Um solche Wettkämpfe durchzuführen, macht jeder involvierte Charakter einen Aktionswurf mit dem für sie passenden Attribut. Wer auch immer den höchsten Wert erzielt, hat Erfolg. Manchmal nutzen alle Parteien des Konflikts das gleiche Attribut, aber oft nutzen alle Charaktere eigene Attribute, wie im Fall des Schurken (Beweglichkeit), der an den Wachen (Wahrnehmung) vorbei schleichen möchte.
+Um solche Wettkämpfe durchzuführen, macht jeder involvierte Charakter einen Aktionswurf mit dem für sie passenden Attribut. Wer auch immer den höchsten Wert erzielt, hat Erfolg. Manchmal nutzen alle Parteien des Konflikts das gleiche Attribut, aber oft nutzen alle Charaktere eigene Attribute, wie im Fall des Schurken (Geschick), der an den Wachen (Wahrnehmung) vorbei schleichen möchte.
 
 > #### Beispiel für Bestrittene Aktionen
 > Während der namenlose Nekromant versucht, ein Portal zu öffnen, um den Schattendämon auf die Länder loszulassen, versucht Uldric der Beschützer, sein ganzes Maß magischen Willens aufzubringen, um das Portal zu schließen. Der GM bestimmt, dass es eine bestrittene Aktion zwischen den beiden Charakteren gibt. Der Nekromant macht einen Vergehenwurf und hat 25 als Ergebnis, während Uldric auf seinem Schutzwurf 20 hat. Zum Unglück für den Rest der Welt wurde der Dämon freigelassen.
@@ -157,7 +157,7 @@ Nachteil funktioniert sehr ähnlich. Wenn du Nachteil hast, würfelst du auf die
 Vorteil und Nachteil werden nur bei deinem ursprünglichen Würfelpool angewandt. Sie gelten nicht für darauf folgende Würfe aufgrund von explodierenden Würfeln.
 
 > #### Beispiel von Vorteil mit explodierenden Würfeln
-> Tommy "Two Guns" ballert mit seinen Pistolen auf einen feindlichen Gangster. Sein Beweglichkeitswert ist 3 und er hat Vorteil 2 auf den Wurf, also wirft er 1d20 + 3d8. Tommys d20 landet auf einer 10 und die d8 landen auf 8, 8, 3. Aufgrund seines Vorteils 2 ignoriert Tommy die niedrigsten zwei Würfel: den mit 3 und einen mit 8. Er würfelt die andere 8 erneut, da der Würfel beim Höchstwert explodiert und bekommt eine 5. Sein endgültiger Wurf ist also 23 (10 + 8 + 5).
+> Tommy "Two Guns" ballert mit seinen Pistolen auf einen feindlichen Gangster. Sein Geschickwert ist 3 und er hat Vorteil 2 auf den Wurf, also wirft er 1d20 + 3d8. Tommys d20 landet auf einer 10 und die d8 landen auf 8, 8, 3. Aufgrund seines Vorteils 2 ignoriert Tommy die niedrigsten zwei Würfel: den mit 3 und einen mit 8. Er würfelt die andere 8 erneut, da der Würfel beim Höchstwert explodiert und bekommt eine 5. Sein endgültiger Wurf ist also 23 (10 + 8 + 5).
 
 ### Vorteil & Nachteil ohne Attributwürfel
 Wenn man einen Aktionswurf ohne Attributwürfel macht, wirken Vorteil und Nachteil sich auf den d20 aus. Man wirft zum Beispiel 2d20 und behält den höchsten Wert. Bei Nachteil wirft man 2d20 und behält den niedrigeren Wert. Weiterhin kann man in solchen Situationen nicht mehr als Vorteil 1 oder Nachteil 1 haben. Der Charakter ist so ungeübt bei der Handlung, dass er zusammenfallende Vorzüge nicht ausnutzen und mehr Behinderung ihn nicht weiter stören können.

@@ -55,7 +55,7 @@ Die *Attribute auf einen Blick*-Tabellen geben dir einen schnellen Überblick ei
 ##### Körperliche Attribute auf einen Blick
 <table>
 	<tr>
-		<th>Beweglichkeit</th>
+		<th>Geschick</th>
 		<td>Angriffen ausweichen, sich heimlich bewegen, Akrobatik vorführen, einen Bogen schießen, Taschendiebstahl durchführen</td>
 	</tr>
 	<tr>
@@ -195,7 +195,7 @@ Wenn ein Gegner versucht, dich anzugreifen - egal ob mit dem Schuss eines Gewehr
 
 **Zähigkeit** beschützt dich vor Angriffen, die deine Ausdauer, körperliche Gesundheit, Fitness und Überlebensfähigkeit testen. Beispielsweise zielen Vergiften, Lebenskraft entziehen oder Betäuben auf deine Zähigkeit.
 
-<table><tr><td><b>Deckung = 10 + Beweglichkeit + Kraft + Rüstung</b></td></tr></table>
+<table><tr><td><b>Deckung = 10 + Geschick + Kraft + Rüstung</b></td></tr></table>
 
 **Deckung** beschützt dich vor Angriffen, denen man ausweichen, die man abwenden oder denen man mit physischer Macht widerstehen kann. Deine Feinde müssten deine Deckung überwinden, um dich mit einer Granate zu verletzen, dich mit einem Pfeil zu treffen oder dich mit einem Kriegshammer zu schlagen.
 
@@ -243,10 +243,10 @@ Barden können in fast allen Situationen außerhalb des Kampfes andere mit ihrer
 
 Im Kampf unterstützt ein Barde seine Verbündeten mit *Verstärken*, wobei er durch die Fertigkeit *Wohlfokus* mehrere Freunde auf einmal damit belegen kann. Wird ein Kamerad verwundet nutzt der Barde *Heilen* um sie wieder kampffähig zu machen und kann auch mehreren mit einer heilenden *Aura* unter die Arme greifen. Barden sind genügend kompetent im Nahkampf, in dem sie ein Rapier führen und Feinde entwaffnen, wann immer sich die Chance bietet.
 
-**Attribute:** Beweglichkeit 3 (1d8), Lernen 3 (1d8), Willenskraft 3 (1d8), Präsenz 4 (1d10), Überzeugung 3 (1d8), Einfluss 3 (1d8)
+**Attribute:** Geschick 3 (1d8), Lernen 3 (1d8), Willenskraft 3 (1d8), Präsenz 4 (1d10), Überzeugung 3 (1d8), Einfluss 3 (1d8)
 
 **Trefferpunkte:** 24  
-**Deckung:** 14 (15 mit Schild - Beweglichkeit 3, Lederrüstung 1)  
+**Deckung:** 14 (15 mit Schild - Geschick 3, Lederrüstung 1)  
 **Zähigkeit:** 13  
 **Entschlossenheit:** 17  
 **Geschwindigkeit:** 30'
@@ -255,7 +255,7 @@ Im Kampf unterstützt ein Barde seine Verbündeten mit *Verstärken*, wobei er d
 
 **Wichtige Ausrüstung:** Lederrüstung, Rapier (als Langschwert gewertet), kleiner Schild, Sagenbuch, Musikinstrument
 #### Bevorzugte Aktionen
-***Rapier*** (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>***En Garde!*** (*Entwaffnen* zufügen): Beweglichkeit vs. Deckung, Vorteil 1  
+***Rapier*** (Angriff mit Schaden): Geschick vs. Deckung<br>***En Garde!*** (*Entwaffnen* zufügen): Geschick vs. Deckung, Vorteil 1  
 ***Inspirierende Zeilen*** (*Verstärken* wirken):<br>=> 1 Ziel: Auto-Erfolg auf KL 3 durch *Wohlfokus*<br>=> 10' Würfel: Präsenz vs. 16 (KL 3)<br>***Heilende Zeilen*** (*Heilen* wirken): Präsenz vs. 12 - 18 (KL 1 - 4)<br>***Lied der Erquickung*** (5' *Aura: Heilen* wirken): Präsenz vs. 18 (KL 4)<br>***Gewinnendes Lächeln*** (*Bezaubert* wirken): Einfluss vs. Entschlossenheit<br>***Magischer Kniff*** (*Phantasmus* wirken): Einfluss vs. Entschlossenheit
 ___
 ### Kampfmagier
@@ -265,7 +265,7 @@ Kampfmagier wurden für den Kampf geboren, können sich aber trotzdem auch in ei
 
 In der Schlacht sind Kampfmagier die Ein-Mann-Front. Ihre schwere Rüstung lässt sie gegen niedere Feinde fast unverletzbar erscheinen und ihre Kontrolle über elementares Eis lässt sie das Schlachtfeld mit Bereichsattacken kontrollieren. Mit der Fertigkeit *Multi-Zielen Angriffsspezialisierung* können sie ohne Einschränkung mehrere Feinde angreifen. Schafft es doch ein Feind, durch die Windstöße und Eiszapfen in den Nahkampf mit ihnen zu gelangen, sind Kampfmagier bereit, ihm auch dort mit einem Arsenal an passenden Waffen zu begegnen.
 
-**Attribute:** Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Kraft 4 (1d10), Präsenz 3 (1d8), Energie 5 (2d6)<br>**Trefferpunkte:** 22<br>**Deckung:** 20 (21 mit Schild - Beweglichkeit 2, Kraft 4, Plattenpanzer 3, Fertigkeit 1)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 25'
+**Attribute:** Geschick 2 (1d6), Konstitution 3 (1d8), Kraft 4 (1d10), Präsenz 3 (1d8), Energie 5 (2d6)<br>**Trefferpunkte:** 22<br>**Deckung:** 20 (21 mit Schild - Geschick 2, Kraft 4, Plattenpanzer 3, Fertigkeit 1)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 25'
 
 **Fertigkeiten:** Multi-Zielen Angriffsspezialisierung II (Gebiet), Rüstungsexpertise I
 
@@ -280,15 +280,15 @@ Der Herr der Tiere kommandiert einen legendären Mantikor, der als Reittier und 
 
 Sobald der Kampf beginnt, schwingt der Herr der Tiere sich in den Himmel und nutzt seinen Langbogen, während er dominierte Kreaturen über das Schlachtfeld befiehlt. Wenn seine Pfeile nicht ausreichen, um eine Auseinandersetzung zu bestehen, begiebt der Herr der Tiere sich in Nahkampfreichweite und lässt seinen Mantikor Feinde mit den Klauen zerfetzen oder mit dem Stachel vergiften.
 
-**Attribute:** Beweglichkeit 4 (1d10), Konstitution 2 (1d6), Kraft 1 (1d4), Wahrnehmung 3 (1d8), Willenskraft 2 (1d6), Präsenz 1 (1d4), Einfluss 5 (2d6)<br>**Trefferpunkte:** 24<br>**Deckung:** 17 (Beweglichkeit 4, Kraft 1, Brustplatte 2)<br>**Zähigkeit:** 14<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
+**Attribute:** Geschick 4 (1d10), Konstitution 2 (1d6), Kraft 1 (1d4), Wahrnehmung 3 (1d8), Willenskraft 2 (1d6), Präsenz 1 (1d4), Einfluss 5 (2d6)<br>**Trefferpunkte:** 24<br>**Deckung:** 17 (Geschick 4, Kraft 1, Brustplatte 2)<br>**Zähigkeit:** 14<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
 
 **Fertigkeiten:** Gefährte III
 
 **Wichtige Ausrüstung:** Brustplatte, Langbogen, Speer
 #### Bevorzugte Aktionen
-***Langbogen*** (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>***Gezackter Pfeil*** (*Anhaltender Schaden* zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>***Speer*** (Angriff mit Schaden, 10' Reichweite): Beweglichkeit vs. Deckung, Vorteil 1<br>***Kreatur zähmen*** (*Bezaubert* zufügen): Einfluss vs. Entschlossenheit<br>***Kreatur befehlen*** (*Dominiert* zufügen): Einfluss vs. Entschlossenheit
+***Langbogen*** (Angriff mit Schaden): Geschick vs. Deckung<br>***Gezackter Pfeil*** (*Anhaltender Schaden* zufügen): Geschick vs. Deckung, Vorteil 1<br>***Speer*** (Angriff mit Schaden, 10' Reichweite): Geschick vs. Deckung, Vorteil 1<br>***Kreatur zähmen*** (*Bezaubert* zufügen): Einfluss vs. Entschlossenheit<br>***Kreatur befehlen*** (*Dominiert* zufügen): Einfluss vs. Entschlossenheit
 #### Mantikor-Gefährte
-**Attribute:** Beweglichkeit 1 (1d4), Konstitution 3 (1d8), Kraft 4 (1d10), Wahrnehmung 1 (1d4), Willenskraft 2 (1d6), Vergehen 5 (2d6)<br>**Trefferpunkte:** 20<br>**Deckung:** 15 (Beweglichkeit 1, Kraft 4)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30' fliegend
+**Attribute:** Geschick 1 (1d4), Konstitution 3 (1d8), Kraft 4 (1d10), Wahrnehmung 1 (1d4), Willenskraft 2 (1d6), Vergehen 5 (2d6)<br>**Trefferpunkte:** 20<br>**Deckung:** 15 (Geschick 1, Kraft 4)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30' fliegend
 ##### Bevorzugte Aktionen
 ***Klauen*** (Angriff mit Schaden): Kraft vs. Deckung<br>***Tödlicher Stachel*** (Angriff mit Schaden): Vergehen vs. Deckung<br>***Giftiger Stachel*** (*Anhaltender Schaden* zufügen): Vergehen vs. Zähigkeit<br>***Bodycheck*** (*Niedergeschlagen* zufügen): Kraft vs. Deckung<br>***Verwirrender Stachel*** (*Betäubt* zufügen): Vergehen vs. Zähigkeit
 ___
@@ -299,7 +299,7 @@ Das einzige Ziel eines Berserkers ist es, Feinde niederzustrecken. Außerhalb de
 
 Sobald der Kampf beginnt, ist der Berserker nicht mehr zu stoppen. Die Zweihandaxt fügt mit seinem Kraftwert 5 eindrucksvollen Schaden zu. Seine Verteidigung ist ebenso solide, sodass er häufig Feinde mit dem Harm *Provozieren* herausfordert. In besoders Schwierigen Gefechten nutzen Berserker ihre *Kampftrance*, um in eine Rage zu verfallen, die ihre Angriffe tödlicher und Verteidigung zäher macht. Berserker müssen die *Kampftrance* aber mit Bedacht einsetzen, da sie nach ihrem Ende unter einer Instanz des Harms *Erschöpft* leiden.
 
-**Attribute:** Beweglichkeit 2 (1d6), Konstitution 4 (1d10), Kraft 5 (2d6), Willenskraft 3 (1d8), Präsenz 3 (1d8)<br>**Trefferpunkte:** 30<br>**Deckung:** 19 (20 in Kampftrance - Beweglichkeit 2, Kraft 5, Kettenhemd 2)<br>**Zähigkeit:** 17 (20 in Kampftrance)<br>**Entschlossenheit:** 16 (19 in Kampftrance)<br>**Geschwindigkeit:** 30'
+**Attribute:** Geschick 2 (1d6), Konstitution 4 (1d10), Kraft 5 (2d6), Willenskraft 3 (1d8), Präsenz 3 (1d8)<br>**Trefferpunkte:** 30<br>**Deckung:** 19 (20 in Kampftrance - Geschick 2, Kraft 5, Kettenhemd 2)<br>**Zähigkeit:** 17 (20 in Kampftrance)<br>**Entschlossenheit:** 16 (19 in Kampftrance)<br>**Geschwindigkeit:** 30'
 
 **Fertigkeiten:** Kampftrance, Rücksichtsloser Angriff
 
@@ -316,7 +316,7 @@ Beginnt der Kampf, dann bietet die Macht des Chronomagiers über die Zeit der Gr
 
 **Attribute:** Willenskraft 2 (1d6), Schöpfung 3 (1d8), Vergehen 4 (1d10), Bewegung 5 (2d6), Vorwissen 3 (1d8)<br>**Trefferpunkte:** 14<br>**Deckung:** 16 (Bewegung 5 durch *Attributsubstitution*, Stahlseidenrüstung 1)<br>**Zähigkeit:** 12<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Wohlfokus I (Aura), Blitzreflexe I, Attributsubstitution I (Bewegung > Beweglichkeit)
+**Fertigkeiten:** Wohlfokus I (Aura), Blitzreflexe I, Attributsubstitution I (Bewegung > Geschick)
 
 **Wichtige Ausrüstung:** Stahlseidenrüstung
 #### Bevorzugte Aktionen
@@ -327,21 +327,21 @@ Höflinge sind Karrierepolitiker, die majestätische Grazie zum Ziel ihres Leben
 #### Strategie
 Da er primär auf soziale Situationen spezialisiert und in Kämpfen größtenteils hilflos ist, tut er sein bestes, um die Umstände so zu gestalten, dass es gar nicht erst zum Kampf kommt. Ist der Kampf unumgänglich, schlägt der Höfling sich durch seine Täuschung, Überzeugung, Präsenz und Einfluss auf die siegende Seite. Hat der Höfling das Vertrauen seiner mächtigen Bekanntschaften durch den Harm *Bezaubert* gewonnen, kommt das Opfer typischerweise aufgrund der Fertigkeiten *Hartnäckiger Harm* und *Endlose Bezauberung* nie wieder frei.
 
-**Attribute:** Beweglichkeit 2 (1d6), Willenskraft 3 (1d8), Täuschung 4 (1d10), Präsenz 3 (1d8), Einfluss 5 (2d6)<br>**Trefferpunkte:** 22<br>**Deckung:** 13 (Beweglichkeit 2, Stahlseidenrüstung 1)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 16<br>**Geschwindigkeit:** 30'
+**Attribute:** Geschick 2 (1d6), Willenskraft 3 (1d8), Täuschung 4 (1d10), Präsenz 3 (1d8), Einfluss 5 (2d6)<br>**Trefferpunkte:** 22<br>**Deckung:** 13 (Geschick 2, Stahlseidenrüstung 1)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 16<br>**Geschwindigkeit:** 30'
 
 **Fertigkeiten:** Hartnäckiger Harm (Bezaubert), Endlose Bezauberung
 
 **Wichtige Ausrüstung:** Vornehme Kleidung, Dolch, Kompaktpistole (Pistole), Stahlseidenrüstung
 #### Bevorzugte Aktionen
 ***Schmeichelnde Worte*** (*Bezaubert* zufügen): Einfluss vs. Entschlossenheit<br>***Mörderische Beleidigung*** (*Demoralisiert* zufügen): Einfluss vs. Entschlossenheit<br>***Widersprüchliche Aussagen*** (*Gedächtnismanipulation* zufügen): Einfluss vs. Entschlossenheit<br>***Vertrauensvolles Ohr*** (*Wahrheitsgebunden* zufügen): Einfluss vs. Entschlossenheit<br>***Persönlicher Gefallen*** (*Dominiert* zufügen): Einfluss vs. Entschlossenheit
-Versteckter Abzug (Angriff mit Schaden): Beweglichkeit vs. Deckung
+Versteckter Abzug (Angriff mit Schaden): Geschick vs. Deckung
 ___
 ### Druide
 Druiden sind Schützer der Natur, die aus ihr durch einen engen Bund ihre Kraft ziehen, um sich z.B. in eine mächtige Kreatur ihres Heimathabitats zu verwandeln. Nicht alle Druiden sind den Wäldern gewogen. Manche verwandeln sich in Unterwasserspezies und verbringen einen Großteil ihrer Zeit in den Tiefen, während andere als Vögel in Bergketten jenseits der Wolken leben. Unabhängig von ihrem bevorzugten Habitat sind alle Druiden eins: flexibel.
 #### Strategie
 Aufgrund ihrer engen Verbindung zur Natur neigen Druiden dazu, ihre Umgebung zum eigenen Vorteil zu nutzen, zum Beispiel indem sie eine imposante Wand aus Hecken mit dem Wohl *Barriere* beschwören, ein Ziel mithilfe einer dicken Ranke *Immobilisieren* oder natürliche Heilung durch das Wohl *Regeneration* beschleunigen. Druiden sind außerdem exzellente Kämpfer und Späher. Als Späher können sie in Form eines kleinen Tieres ungesehen in ein feindliches Lager eindringen. Als Kämpfer können sie sich in eine massive Kreatur wie einen Bären verwandeln, um ihre Feinde zu dezimieren.
 
-**Attribute:** Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Kraft 2 (1d6), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Wandlung 5 (2d6), Schöpfung 3 (1d8)<br>**Trefferpunkte:** 20<br>**Deckung:** 17 (Beweglichkeit 2, Kraft 2, Schienenrüstung 3)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 25'
+**Attribute:** Geschick 2 (1d6), Konstitution 3 (1d8), Kraft 2 (1d6), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Wandlung 5 (2d6), Schöpfung 3 (1d8)<br>**Trefferpunkte:** 20<br>**Deckung:** 17 (Geschick 2, Kraft 2, Schienenrüstung 3)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 25'
 
 **Fertigkeiten:** Wohlfokus II (Gestaltwandel)
 
@@ -349,11 +349,11 @@ Aufgrund ihrer engen Verbindung zur Natur neigen Druiden dazu, ihre Umgebung zum
 #### Bevorzugte Aktionen
 ***Gestaltwandel*** (*Gestaltwandel* wirken): Auto-Erfolg auf KL 5 durch *Wohlfokus*<br>***Klammernde Ranken*** (*Immobilisiert* zufügen): Schöpfung vs. Zähigkeit<br>***Dornenhecke*** (*Barriere* wirken): Schöpfung vs. 16 (KL 3)<br>***Pflanzen animieren*** (*Kreatur beschwören* wirken): Wandlung vs. 18 - 20 (KL 4 - 5)<br>***Wiederwuchs*** (*Regeneration* wirken): Wandlung vs. 12 - 20 (KL 1 - 5)
 #### Bärenform
-**Attribute:** Kraft 5 (2d6), Beweglichkeit 1 (1d4), Konstitution 3 (1d8), Wahrnehmung 2 (1d6)<br>**Trefferpunkte:** 20<br>**Deckung:** 19 (Beweglichkeit 1, Kraft 5, Schienenrüstung 3)<br>**Geschwindigkeit:** 25'
+**Attribute:** Kraft 5 (2d6), Geschick 1 (1d4), Konstitution 3 (1d8), Wahrnehmung 2 (1d6)<br>**Trefferpunkte:** 20<br>**Deckung:** 19 (Geschick 1, Kraft 5, Schienenrüstung 3)<br>**Geschwindigkeit:** 25'
 #### Falkenform
-**Attribute:** Kraft 1 (1d4), Beweglichkeit 3 (1d8), Konstitution 1 (1d4), Wahrnehmung 5 (2d6)<br>**Trefferpunkte:** 16<br>**Deckung:** 14 (Beweglichkeit 3, Kraft 1)<br>**Geschwindigkeit:** 30' fliegend
+**Attribute:** Kraft 1 (1d4), Geschick 3 (1d8), Konstitution 1 (1d4), Wahrnehmung 5 (2d6)<br>**Trefferpunkte:** 16<br>**Deckung:** 14 (Geschick 3, Kraft 1)<br>**Geschwindigkeit:** 30' fliegend
 #### Haiform
-**Attribute:** Kraft 4 (1d10), Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Wahrnehmung 3 (1d8)<br>**Trefferpunkte:** 20<br>**Deckung:** 19 (Beweglichkeit 2, Kraft 4, Schienenrüstung 3)<br>**Geschwindigkeit:** 30' schwimmend
+**Attribute:** Kraft 4 (1d10), Geschick 2 (1d6), Konstitution 3 (1d8), Wahrnehmung 3 (1d8)<br>**Trefferpunkte:** 20<br>**Deckung:** 19 (Geschick 2, Kraft 4, Schienenrüstung 3)<br>**Geschwindigkeit:** 30' schwimmend
 ___
 ### Ingenieur
 Ingenieure haben einen Funken Schöpfung in sich und können die Funktionsweise extrem komplexer Systeme durchschauen. Auch wenn Ingenieure selbst typischerweise flink sind und eine Haut zäh wie Leder haben, liegt ihre wahre Stärke in den cleveren Maschinen, die sie aus Schrott und Ersatzteilen zusammenbauen. Diese zischenden Dampfgestalten und mechanische Werkzeuge stellen sicher, dass der Ingenieur für jede Situation gewappnet ist.
@@ -362,14 +362,14 @@ Wenn sie nicht im Kampf sind, verlassen Ingenieure sich auf ihre cleveren Erfind
 
 Im Kampf richten sich Ingenieure nach der momentanen Situation, um ihre Verbündeten zu unterstützen. Das Wohl *Verstärken* kann alles mögliche darstellen, von einem Paar Springstiefel zu einem zielsuchenden Helm. Wenn die Feinde übermächtig scheinen, kann der Ingenieur mit *Kreatur Beschwören* einen oder mehrere Kampfbots aktivieren. Sollten die Erfindungen und Roboter des Ingenieurs mal nicht ausreichen, so ist er selbst auch im Gebrauch seiner guten alten Handkanone geübt.
 
-**Attribute:** Beweglichkeit 3 (1d8), Konstitution 3 (1d8), Lernen 3 (1d8), Logik 3 (1d8), Wahrnehmung 1 (1d4), Schöpfung 5 (2d6)<br>**Trefferpunkte:** 16<br>**Deckung:** 15 (Beweglichkeit 3, Kevlarweste 2)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 10<br>**Geschwindigkeit:** 30'
+**Attribute:** Geschick 3 (1d8), Konstitution 3 (1d8), Lernen 3 (1d8), Logik 3 (1d8), Wahrnehmung 1 (1d4), Schöpfung 5 (2d6)<br>**Trefferpunkte:** 16<br>**Deckung:** 15 (Geschick 3, Kevlarweste 2)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 10<br>**Geschwindigkeit:** 30'
 
 **Fertigkeiten:** Wohlfokus I (Kreatur Beschwören), Außergewöhnliches Item Erschaffen I
 
 **Wichtige Ausrüstung:** Handkanone (Revolver), Kevlarweste, 2
 Granaten, Ingenieurswerkzeug
 #### Bevorzugte Aktionen
-_**Handkanone**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Granate**_ (Angriff mit Schaden, 10' Würfel): Beweglichkeit vs. Deckung<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Verstärkung!**_ (_Kreatur Beschwören_ wirken): Auto-Erfolg auf KL 5 durch _Wohlfokus_<br>_**Gadgets & Gizmos**_ (_Verstärken_ wirken): Schöpfung vs. 16 (KL 3)<br>_**DIY-Wunder**_ (_Genesis_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)<br>_**Wunde ausbrennen**_ (_Heilen_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)
+_**Handkanone**_ (Angriff mit Schaden): Geschick vs. Deckung<br>_**Granate**_ (Angriff mit Schaden, 10' Würfel): Geschick vs. Deckung<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Geschick vs. Deckung, Vorteil 1<br>_**Verstärkung!**_ (_Kreatur Beschwören_ wirken): Auto-Erfolg auf KL 5 durch _Wohlfokus_<br>_**Gadgets & Gizmos**_ (_Verstärken_ wirken): Schöpfung vs. 16 (KL 3)<br>_**DIY-Wunder**_ (_Genesis_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)<br>_**Wunde ausbrennen**_ (_Heilen_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)
 ___
 ### Revolverheld
 Manch einer ist Richter und Henker zugleich. Andere sind Kopfgeldjäger, die eine alte Schuld begleichen müssen. Wieder andere sind Söldner, die nur für den Höchstbietenden ihr Eisen ziehen. Egal, woher ihre Motivation kommt, alle Revolverhelden bringen diejenigen zum Bangen, die am falschen Ende ihrer Colts landen.
@@ -378,13 +378,13 @@ Revolverhelden tun mehr, als nur um sich zu schießen. Ihre Expertise im Fernkam
 
 Beginnt ein Gefecht, so bleibt der Revolverheld auf Distanz und benutzt seine beiden Revolver, um Feinde mit Blei zu durchlöchern. Wenn Schaden allein nicht genug ist, kann der Revolverheld bestimmte Ziele anvisieren, um die Gegner zu hindern: Waffen aus der Hand schießen, jemand mit einem Schuss den Atem nehmen oder Zehen abtrennen. Die Fertigkeit *Multiangriffsspezialisierung* erlaubt es ihm, doppelt so schnell zu schießen wie ein anderer Schütze, sodass er große Gruppen Feinde ihm Alleingang niedermähen kann. Um seine Schießkunst zu ergänzen, nutzt der Revolverheld *Vergehen*, um Harme und Wohle zu wirken. Häufig ist es der Harm *Lebensraub*, um mit jedem Schuss etwas der genommenen Vitalität selbst zu erlangen, oder *Erkrankt*, um die Angriffe seiner Feinde nutzlos zu machen. Kommen Gegner näher, kann der Revolverheld eine defensive *Aura* erzeugen oder Gegner mit *Furcht* belegen.
 
-**Attribute:** Beweglichkeit 5 (2d6), Wahrnehmung 3 (1d8), Willenskraft 2 (1d6), Präsenz 3 (1d8), Vergehen 4 (1d10)<br>**Trefferpunkte:** 20<br>**Deckung:** 17 (Beweglichkeit 5, Schwerer Trenchcoat 2)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 16<br>**Geschwindigkeit:** 30'
+**Attribute:** Geschick 5 (2d6), Wahrnehmung 3 (1d8), Willenskraft 2 (1d6), Präsenz 3 (1d8), Vergehen 4 (1d10)<br>**Trefferpunkte:** 20<br>**Deckung:** 17 (Geschick 5, Schwerer Trenchcoat 2)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 16<br>**Geschwindigkeit:** 30'
 
 **Fertigkeiten:** Multiangriffsspezialisierung II
 
 **Wichtige Ausrüstung:** Schwerer Trenchcoat (als Kevlarweste gewertet), 2 Revolver, Gewehr
 #### Bevorzugte Aktionen
-_**Zwei-Knarren-Ansturm**_ (Fokusaktion, Angriff mit Schaden, 2 Angriffe): Beweglichkeit vs. Deckung<br>_**Den Spahn schlagen**_ (Fokusaktion, Angriff mit Schaden, 3 Angriffe): Beweglichkeit vs. Deckung, Nachteil 3<br>_**Ziel verfluchen**_ (_Betäubt_ zufügen): Vergehen vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung. Vorteil 1<br>_**Handschuss**_ (_Entwaffnet_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Gewehr**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Miasmaschuss**_ (_Erkrankt_ zufügen): Vergehen vs. Zähigkeit<br>_**Missgünstiger Schatten**_ (5' _Aura: Anhaltender Schaden_ wirken): Vergehen vs. 18 (KL 4)<br>_**Seelenriss**_ (_Lebensraub_ zufügen): Vergehen vs. 20 (KL 5)<br>_**Gnadenloser Blick**_ (_Furcht_ zufügen): Vergehen vs. Entschlossenheit
+_**Zwei-Knarren-Ansturm**_ (Fokusaktion, Angriff mit Schaden, 2 Angriffe): Geschick vs. Deckung<br>_**Den Spahn schlagen**_ (Fokusaktion, Angriff mit Schaden, 3 Angriffe): Geschick vs. Deckung, Nachteil 3<br>_**Ziel verfluchen**_ (_Betäubt_ zufügen): Vergehen vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Geschick vs. Deckung. Vorteil 1<br>_**Handschuss**_ (_Entwaffnet_ zufügen): Geschick vs. Deckung, Vorteil 1<br>_**Gewehr**_ (Angriff mit Schaden): Geschick vs. Deckung<br>_**Miasmaschuss**_ (_Erkrankt_ zufügen): Vergehen vs. Zähigkeit<br>_**Missgünstiger Schatten**_ (5' _Aura: Anhaltender Schaden_ wirken): Vergehen vs. 18 (KL 4)<br>_**Seelenriss**_ (_Lebensraub_ zufügen): Vergehen vs. 20 (KL 5)<br>_**Gnadenloser Blick**_ (_Furcht_ zufügen): Vergehen vs. Entschlossenheit
 ___
 ### Hacker
 Wissen ist Macht, wie das alte Sprichtwort mahnt. Der Hacker ist der Beweis, dass so gut wie jeder mit der richtigen Information zu Fall gebracht werden kann. Manche Hacker sind Söldner, die für den höchsten Lohn arbeiten und den Thrill lieben, riesige Mengen an Daten zu kontrollieren, von denen Leben abhängen. Andere verschreiben sich einem höheren Ziel, um die Welt zum Besseren oder Schlechteren zu wenden.
@@ -401,7 +401,7 @@ Wenn ein Kampf ausbricht, meidet ein Hacker die Front und lässt seine Drohnen f
 #### Bevorzugte Aktionen
 _**Dark-Web Recherche**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Algorithmische Voraussage**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Multivalente Sensorenaufnahme**_ (_Wahrsicht_ wirken): Vorwissen vs. 20 (KL 5)<br>_**IoT Zombienetzwerk**_ (_Fernsicht_ zufügen): Vorwissen vs. Entschlossenheit, Vorteil 2<br>_**Hologrammprojektion**_ (_Phantasmus_ zufügen): Einfluss vs. Entschlossenheit<br>_**Neuronen neulegen**_ (_Bezaubert_ zufügen): Einfluss vs. Entschlossenheit
 #### Drohnengefährte
-**Attribute:** Beweglichkeit 3 (1d8), Konstitution 1 (1d4), Logik 1 (1d4), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Energie 4 (1d10)<br>**Trefferpunkte:** 16<br>**Deckung:** 13 (Beweglichkeit 3)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
+**Attribute:** Geschick 3 (1d8), Konstitution 1 (1d4), Logik 1 (1d4), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Energie 4 (1d10)<br>**Trefferpunkte:** 16<br>**Deckung:** 13 (Geschick 3)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
 
 **Fertigkeiten:** keine
 #### Bevorzugte Aktionen
@@ -414,7 +414,7 @@ Außerhalb des Kampfes führen Mystiker eine breite Auswahl an Fähigkeiten, die
 
 Mystiker, die sich einer größeren Gruppe angeschlossen haben, nutzen ihre Kräfte meist zu Verteidigung anderer, z.B. indem sie *Verstärken* nutzen, um Freunden psychische Kenntnisse zu geben, *Gedankenraub*, um Feinden ihre Geheimnisse zu entziehen und indem sie ihren Schutzwert und die Fertigkeit *Defensive Reflexe* nutzen, um Verteidigungsaktionen auszuführen. Mystiker sind auch gewandt darin, die Pläne von Feinden mit *Annullieren* zu durchkreuzen und Harme auf Verbündeten mit der Fertigkeit *Medikus* zu behandeln.
 
-**Attribute:** Beweglichkeit 3 (1d8), Willenskraft 3 (1d8), Schöpfung 2 (1d6), Vorwissen 5 (2d6), Schutz 4 (1d10)<br>**Trefferpunkte:** 16<br>**Deckung:** 13<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
+**Attribute:** Geschick 3 (1d8), Willenskraft 3 (1d8), Schöpfung 2 (1d6), Vorwissen 5 (2d6), Schutz 4 (1d10)<br>**Trefferpunkte:** 16<br>**Deckung:** 13<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
 
 **Fertigkeiten:** Vertiefte Wirkung I, Defensive Reflexe I, Medikus
 
@@ -431,7 +431,7 @@ Wenn die Situation es erfordert, ruft der Zauberer seine Yoroirüstung hervor, d
 
 Auch wenn Ningyozukai die Fertigkeit *Alternative Gestalt* nutzen, verwandeln sie sich nicht selbst physisch beim Wechsel zwischen Zauberer- und Yoroirüstungsform. Stattdessen hüllt die Yoroirüstung unter der mentalen Kontrolle des Ningyozukai den Zauberer zum Schutz in ihr magisches Metall. *Alternative Gestalt* zu aktivieren repräsentiert die volle Konzentrations des Zauberers auf die Kontrolle der Rüstung, sodass er währenddessen seine eigenen Fähigkeiten nicht nutzen kann und vollständig von der Rüstung repräsentiert wird.
 #### Zauberergestalt
-**Attribute:** Beweglichkeit 1 (1d4), Lernen 3 (1d8), Wahrnehmung 1 (1d4), Willenskraft 3 (1d8), Überzeugung 3 (1d8), Schöpfung 4 (1d10), Schutz 4 (1d10)<br>**Trefferpunkte:** 16<br>**Deckung:** 11 (Beweglichkeit 1)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
+**Attribute:** Geschick 1 (1d4), Lernen 3 (1d8), Wahrnehmung 1 (1d4), Willenskraft 3 (1d8), Überzeugung 3 (1d8), Schöpfung 4 (1d10), Schutz 4 (1d10)<br>**Trefferpunkte:** 16<br>**Deckung:** 11 (Geschick 1)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
 
 **Fertigkeiten:** Alternative Gestalt II
 
@@ -439,7 +439,7 @@ Auch wenn Ningyozukai die Fertigkeit *Alternative Gestalt* nutzen, verwandeln si
 #### Bevorzugte Aktionen
 _**Geisterführer**_ (_Verstärken_ wirken): Schöpfung vs. 16 (KL 3)<br>_**Geisterbeschützer**_ (_Kreatur beschwören_ wirken): Schöpfung vs. 18 (KL 4)<br>_**Kreis der Wunder**_ (5' _Aura: Immobilisiert_ wirken): Schöpfung vs. 18 (KL 4)<br>_**Schutzrunen**_ (_Resistenz_ wirken): Schutz vs. 16 (KL 3)<br>_**Heilendes Wort**_ (_Heilen_ wirken): Schöpfung vs. 12 - 18 (KL 1 - 4)
 #### Yoroirüstungsgestalt
-**Attribute:** Beweglichkeit 3 (1d8), Konstitution 4 (1d10), Kraft 5 (2d6), Willenskraft 2 (1d6), Präsenz 3 (1d8)<br>**Trefferpunkte:** 28<br>**Deckung:** 21 (Kraft 5, Beweglichkeit 3, Yoroirüstung 3)<br>**Zähigkeit:** 16 (19 in _Kampftrance_)<br>**Entschlossenheit:** 15 (18 in _Kampftrance_)<br>**Geschwindigkeit:** 25'
+**Attribute:** Geschick 3 (1d8), Konstitution 4 (1d10), Kraft 5 (2d6), Willenskraft 2 (1d6), Präsenz 3 (1d8)<br>**Trefferpunkte:** 28<br>**Deckung:** 21 (Kraft 5, Geschick 3, Yoroirüstung 3)<br>**Zähigkeit:** 16 (19 in _Kampftrance_)<br>**Entschlossenheit:** 15 (18 in _Kampftrance_)<br>**Geschwindigkeit:** 25'
 
 **Fertigkeiten:** Kampftrance
 
@@ -454,20 +454,20 @@ Waldläufer sind Experten im Verfolgen von Spuren, wobei sie die Fertigkeiten *S
 
 Den Kampf bestreitet der Waldläufer typischerweise in enger Koordination mit seinem Tiergefährten. Im Nahkampf springt der Wolf Feinde an, um *Niedergeschlangen* zuzufügen, sodass sein Meister mit Vorteil 1 angreifen kann. Wenn sie nicht auf Schaden gehen, setzen Waldläufer *Entwaffnet* und *Anhaltender Schaden* ein. Um ihre Distanz zu wahren erklimmen sie die Bäume und feuern von dort mit dem Langbogen, während der Wolf *Immobilisiert* nutzt, um Feinde zu einfachen Zielen zu machen.
 
-**Attribute:** Beweglichkeit 4 (1d10), Konstitution 3 (1d8), Kraft 2 (1d6),
-Lernen 2 (1d6), Wahrnehmung 5 (2d6), Willenskraft 2 (1d6)<br>**Trefferpunkte:** 20<br>**Deckung:** 18 (Beweglichkeit 4, Kraft 2, Kettenhemd 2)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 35'
+**Attribute:** Geschick 4 (1d10), Konstitution 3 (1d8), Kraft 2 (1d6),
+Lernen 2 (1d6), Wahrnehmung 5 (2d6), Willenskraft 2 (1d6)<br>**Trefferpunkte:** 20<br>**Deckung:** 18 (Geschick 4, Kraft 2, Kettenhemd 2)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 35'
 
 **Fertigkeiten:** Flinkfuß I, Fährtenleser, Klettern, Gefährte I
 
 **Wichtige Ausrüstung:** Langschwert, Dolch, Langbogen, Kettenhemd
 #### Bevorzugte Aktionen
-_**Langschwert & Dolch**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Verwundender Streich**_ (_Anhaltender Schaden_ zufügen): Beweglichkeit vs. Deckung, Vorteil 2<br>_**Elegante Parade**_ (_Entwaffnet_ zufügen): Beweglichkeit vs. Deckung, Vorteil 2<br>_**Langbogen**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1
+_**Langschwert & Dolch**_ (Angriff mit Schaden): Geschick vs. Deckung, Vorteil 1<br>_**Verwundender Streich**_ (_Anhaltender Schaden_ zufügen): Geschick vs. Deckung, Vorteil 2<br>_**Elegante Parade**_ (_Entwaffnet_ zufügen): Geschick vs. Deckung, Vorteil 2<br>_**Langbogen**_ (Angriff mit Schaden): Geschick vs. Deckung<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Geschick vs. Deckung, Vorteil 1
 #### Wolfsgefährte
-**Attribute:** Beweglichkeit 4 (1d10), Konstitution 2 (1d6), Kraft 2 (1d6), Wahrnehmung 3 (1d8), Willenskraft 1 (1d4), Präsenz 1 (1d4)<br>**Trefferpunkte:** 18<br>**Deckung:** 16 (Beweglichkeit 4, Kraft 2)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
+**Attribute:** Geschick 4 (1d10), Konstitution 2 (1d6), Kraft 2 (1d6), Wahrnehmung 3 (1d8), Willenskraft 1 (1d4), Präsenz 1 (1d4)<br>**Trefferpunkte:** 18<br>**Deckung:** 16 (Geschick 4, Kraft 2)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
 
 **Fertigkeiten:** keine
 #### Bevorzugte Aktionen
-_**Biss**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Takedown**_ (_Niedergeschlagen_ zufügen): Beweglichkeit vs. Deckung
+_**Biss**_ (Angriff mit Schaden): Geschick vs. Deckung<br>_**Takedown**_ (_Niedergeschlagen_ zufügen): Geschick vs. Deckung
 ___
 ### Schatten
 Schatten sind hoch trainierte Assassinen, die ihre unnatürliche Macht aus dem Zwischen der Welt ziehen, der Leere an Schatten, in der die meisten Sterblichen nicht verweilen würden. Nachdem sie eins mit der Dunkelheit werden, nutzen sie ihre Kräfte um zu täuschen und in die Irre zu führen, sodass sie ihre Ziele auf dem falschen Fuß erwischen. Diese Nachtjäger sind trainiert, aus der Distanz zu töten - ungesehen, ungehört und ohne eine Spur zu hinterlassen.
@@ -476,13 +476,13 @@ Während Schatten speziell dazu ausgebildet sind, Ziele zu neutralisieren, geben
 
 Schatten ziehen es vor, so lange wie möglich versteckt zu bleiben, wenn ein Kampf beginnt, um ihre Feinde zu überraschen. Sie feuern mit schallgedämpften Scharfschützengewehren aus der Deckung heraus und nutzen *Teleportation*, um schnell die Position zu wechseln. Falls sie doch einmal entdeckt werden hüllen sie das Gebiet in *Dunkelheit* oder fliehen schnell mit *Hast*.
 
-**Attribute:** Beweglichkeit 4, Wahrnehmung 3, Willenskraft 2, Vergehen 3, Bewegung 5<br>**Trefferpunkte:** 14<br>**Deckung:** 15 (Beweglichkeit 4, Trenchcoat 1)<br>**Zähigkeit:** 12<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
+**Attribute:** Geschick 4, Wahrnehmung 3, Willenskraft 2, Vergehen 3, Bewegung 5<br>**Trefferpunkte:** 14<br>**Deckung:** 15 (Geschick 4, Trenchcoat 1)<br>**Zähigkeit:** 12<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
 
 **Fertigkeiten:** Wohlfokus I (Teleportation), Tödlicher Schlag I
 
 **Wichtige Ausrüstung:** Scharfschützengewehr, Maschinenpistole, Pistole, Messer, Trenchcoat (als Lederrüstung gewertet)
 #### Bevorzugte Aktionen
-_**Verborgener Schuss**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung, Vorteil 1 falls das Ziel überrascht wird oder mit einem Verbündeten im Kampf liegt<br>_**Gewehr**_ (Angriff mit Schaden): Beweglichkeit vs. Deckung<br>_**Betäubungskugel**_ (_Bewusstlos_ zufügen): Beweglichkeit vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Beweglichkeit vs. Deckung, Vorteil 1<br>_**Maschinenpistole**_ (Angriff mit Schaden, 10' Würfel): Beweglichkeit vs. Deckung<br>_**Leerenschritt**_ (_Teleport_ wirken): Auto-Erfolg auf KL 5 durch _Wohlfokus_<br>_**Schattenschleier**_ (_Dunkelheit_ wirken): Vergehen vs. 12 - 16 (KL 1 - 3)<br>_**Schattenrolle**_ (_Resistenz_ wirken): Bewegung vs. 16 (KL 3)<br>_**Extradimensionale Tasche**_ (_Objekt absorbieren_ wirken): Bewegung vs. 18 (KL 4)
+_**Verborgener Schuss**_ (Angriff mit Schaden): Geschick vs. Deckung, Vorteil 1 falls das Ziel überrascht wird oder mit einem Verbündeten im Kampf liegt<br>_**Gewehr**_ (Angriff mit Schaden): Geschick vs. Deckung<br>_**Betäubungskugel**_ (_Bewusstlos_ zufügen): Geschick vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Geschick vs. Deckung, Vorteil 1<br>_**Maschinenpistole**_ (Angriff mit Schaden, 10' Würfel): Geschick vs. Deckung<br>_**Leerenschritt**_ (_Teleport_ wirken): Auto-Erfolg auf KL 5 durch _Wohlfokus_<br>_**Schattenschleier**_ (_Dunkelheit_ wirken): Vergehen vs. 12 - 16 (KL 1 - 3)<br>_**Schattenrolle**_ (_Resistenz_ wirken): Bewegung vs. 16 (KL 3)<br>_**Extradimensionale Tasche**_ (_Objekt absorbieren_ wirken): Bewegung vs. 18 (KL 4)
 ___
 ### Hexenschwert
 Ebenso gekonnt mit dem Schwert wie mit der Zauberei weben Hexenschwerter aus Magie und Kampfkunst eine mächtige Kombination. Ob sie Feinde mit flammendem Schwert in Brand setzen, Kraftbarrieren beschwören, um Angriffe abzuwenden oder Gegner mit Teleportation im Staub lassen, Hexenschwerter kontrollieren das Schlachtfeld mit unanfechtbarer Magie.
@@ -493,7 +493,7 @@ Im Kampf erlaubt die Fertigkeit *Attributsubstitution* Hexenschwertern, ihren ho
 
 **Attribute:** Konstitution 3 (1d8), Präsenz 1 (1d4), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Energie 5 (2d6), Schutz 3 (1d8), Bewegung 3 (1d8)<br>**Trefferpunkte:** 22<br>**Deckung:** 17 (Energie 5 via Attributsubstitution, Kettenhemd 2)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Attributsubstitution II (Energie -> Beweglichkeit), Kampfmoment, Blitzreflexe I
+**Fertigkeiten:** Attributsubstitution II (Energie -> Geschick), Kampfmoment, Blitzreflexe I
 
 **Wichtige Ausrüstung:** Kettenhemd, Falchion
 #### Bevorzugte Aktionen
@@ -506,7 +506,7 @@ Leerentemplare sind auf Verteidigung spezialisiert und führen ihre Leerenkräft
 
 Im Kampf ist die Hauptaufgabe des Templars, seine Verbündeten am Leben zu halten. Sie nutzen häufig Verteidigungsaktionen, indem sie allerlei Schutzmechanismen ihrer Templarrüstung aktivieren wie z.B. Lasernetze oder Mikroraketen zum Abfangen von Geschossen. Ihre Fertigkeit *Konterschlag* erlaubt es Templaren, Verteidigungsaktionen gegen den Angreifer zu wenden. Zusätzlich dazu formen sie das Schlachtfeld durch Harme und Wohle wie *Erzwungene Bewegung*, *Barriere* und *Immobilisiert*.
 
-**Attribute:** Beweglichkeit 2 (1d6), Konstitution 3 (1d8), Willenskraft 2 (1d6), Präsenz 2 (1d6), Energie 5 (2d6), Bewegung 4 (1d10)<br>**Trefferpunkte:** 24<br>**Deckung:** 15 (16 mit Schild - Beweglichkeit 2, Templarrüstung 3)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 14<br>**Geschwindigkeit:** 25'
+**Attribute:** Geschick 2 (1d6), Konstitution 3 (1d8), Willenskraft 2 (1d6), Präsenz 2 (1d6), Energie 5 (2d6), Bewegung 4 (1d10)<br>**Trefferpunkte:** 24<br>**Deckung:** 15 (16 mit Schild - Geschick 2, Templarrüstung 3)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 14<br>**Geschwindigkeit:** 25'
 
 **Fertigkeiten:** Defensive Reflexe I, Konterschlag I, Wächter I
 
