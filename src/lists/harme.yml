@@ -756,7 +756,7 @@
   description: |
     Du änderst die Größe, Form oder Komposition des Ziels, indem du es wachsen oder schrumpfen lässt, oder ihm eine komplett neue Form gibst (z.B. ein Schaf oder Molch). Polymorph kann durch den Fluch eines Druiden, den Transmogrifizierungsstrahl eines verrückten Wissenschaftlers oder durch Verstrahlung mit außerirdischen Energien gewirkt werden.
   effect: |
-    Dein Kraftlevel bestimmt das Ausmaß, bis zu dem du dein Ziel verwandeln kannst. Falls das Ziel in eine andere Kreatur verwandelt wird, nutzt es die Kraft-, Geschick-, Konstituions- und Wahrnehmungswerte der neuen Kreatur.
+    Dein Kraftlevel bestimmt das Ausmaß, bis zu dem du dein Ziel verwandeln kannst. Falls das Ziel in eine andere Kreatur verwandelt wird, nutzt es die Kraft-, Geschick-, Konstitutions- und Wahrnehmungswerte der neuen Kreatur.
     <ul>
     <li><strong>Kraftlevel 5</strong> - Verwandle eine Kreatur in eine andere Kreatur gleicher Größe. Die neue Form kann die Attributwerte des Ziels um bis zu 2 reduzieren. Falls die neue Form höhere Attributwerte hätte, wird das Ziel ein außergewöhnliches Beispiel der Spezies. Verwandelt man einen tödlichen Sniper mit Geschick 5 in einen tumben Oger mit normalem Geschick 0, dann hat der Sniper-Oger am Ende untypisches Geschick 3.</li>
     <li><strong>Kraftlevel 6</strong> - Verwandle eine Kreatur in eine andere Kreatur von bis zu halber oder doppelter Größe. Die neue Form kann die Attributwerte des Ziels um bis zu 3 reduzieren.</li>

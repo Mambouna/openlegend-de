@@ -171,7 +171,7 @@ Dein Rang in dieser Fertigkeit bestimmt den maximalen Wohlstandswert von Items, 
 <li><strong>Rang 3</strong> - Maximaler Wohlstandswert = Attributwert.</li>
 </ul>
 Beispielsweise kann ein Charakter mit Schöpfung 5 und Rang 1 dieser Fertigkeit ein außerordentliches Item bis Wohlstandswert 3 erschaffen.
-Du kannst einen passenden Wohlstandswert für ein Item anhand der Beispielitems aus <strong>Kapitel 9: Spezialausrüstung</strong> finden oder diesen mit den Regeln aus dem Kapitel <strong>Eigene außergewöhnliche Items konzipieren</strong> daraus bestimmen.
+Du kannst einen passenden Wohlstandswert für ein Item anhand der Beispielitems aus <strong>Kapitel 9: Spezialausrüstung</strong> finden oder diesen mit den Regeln aus dem Abschnitt <strong>Eigene außergewöhnliche Items konzipieren</strong> daraus bestimmen.
 Ein Item mit den Eigenschaften <em>Konsumgut</em> oder <em>Verbrauchsgut</em> zu erschaffen braucht einen vollen ununterbrochenen Tag an 8 Stunden Arbeit. Andere Items brauchen anhand ihres Wohlstandswertes unterschiedlich viel Zeit:
 <ul>
 <li><strong>Wohlstandswert 1 - 3</strong>: Zwei Tage pro Wohlstandswert.</li>
@@ -179,7 +179,7 @@ Ein Item mit den Eigenschaften <em>Konsumgut</em> oder <em>Verbrauchsgut</em> zu
 <li><strong>Wohlstandswert 6 - 7</strong>: Eine Woche pro Wohlstandswert.</li>
 <li><strong>Wohlstandswert 8 - 9</strong>: Ein Monat pro Wohlstandswert.</li>
 </ul>
-Am Ende dieser Zeitspanne ist das Item erschaffen. Ein Item zu erschaffen zählt weiterhin als Ausgabe, sodass du einen Wohlstandswert haben musst, der hoch genug ist, um das Item anhand der in <strong>Kapitel 5: Wohlstand und Ausrüstung</strong> beschriebenen Regeln zu kaufen. Der GM kann nach Abwägung einige oder alle der Kosten, die mit dem Erschaffen eines Items assoziiert sind, fallen lassen, falls du besondere Materialien zum Schaffen des Items schon besitzt. Hast du z.B. kürzlich die Haut eines roten Drachen erbeutet und möchtest nun daraus eine feuerresistenze Rüstung schaffen, kann der GM bestimmen, dass die Haut den Großteil der mit der Schaffung assoziierten Kosten ausmacht und der Wohlstandswert zur Bestimmung der Beschaffungskosten für den Schaffungsprozess so um 3 reduziert ist.
+Am Ende dieser Zeitspanne ist das Item erschaffen. Ein Item zu erschaffen zählt weiterhin als Ausgabe, sodass du einen Wohlstandswert haben musst, der hoch genug ist, um das Item anhand der in <strong>Kapitel 6: Wohlstand und Ausrüstung</strong> beschriebenen Regeln zu kaufen. Der GM kann nach Abwägung einige oder alle der Kosten, die mit dem Erschaffen eines Items assoziiert sind, fallen lassen, falls du besondere Materialien zum Schaffen des Items schon besitzt. Hast du z.B. kürzlich die Haut eines roten Drachen erbeutet und möchtest nun daraus eine feuerresistenze Rüstung schaffen, kann der GM bestimmen, dass die Haut den Großteil der mit der Schaffung assoziierten Kosten ausmacht und der Wohlstandswert zur Bestimmung der Beschaffungskosten für den Schaffungsprozess so um 3 reduziert ist.
 
 > Tags: Außergewöhnlich, Nicht-Kampf
 
@@ -535,7 +535,7 @@ ___
 Durch außergewöhnliche Kraft oder besonderes Geschick kannst du deutlich weiter springen als die meisten Kreaturen. Ein telekinetischer Superheld oder eine insektoide Alienrasse könnten diese Fertigkeit haben.
 
 **Effekt**  
-Du kannst deinen Bewegungs- oder Geschickwert anstatt deinem Kraft nutzen, wenn du berechnest, wie weit du springen kannst. Zusätzlich erhälst du Vorteil 1 pro Rang dieser Fertigkeit auf Aktionswürfe zum Springen.
+Du kannst deinen Bewegungs- oder Geschickwert anstatt deinem Kraftwert nutzen, wenn du berechnest, wie weit du springen kannst. Zusätzlich erhälst du Vorteil 1 pro Rang dieser Fertigkeit auf Aktionswürfe zum Springen.
 
 > Tags: Außergewöhnlich, Körperlich, Kampf, Nicht-Kampf, Bewegung, Geschick
 
@@ -873,7 +873,7 @@ ___
 Du hast ein bestimmtes Handwerk gemeistert, sodass du mit der nötigen Zeit und Materialien Items aus diesem Gewerbe erschaffen kannst. Du könntest ein gekonnter Schmied sein, professioneller Ingenieur, Meisteralchemist oder jede andere Art Profession.
 
 **Effekt**  
-Wähle einen spezifischen Beruf oder eine Profession. Du kannst Items erschaffen, die für deinen gewählten Job plausibel sind, wobei der GM entscheidet, wie schnell du das gewünschte Item anhand seiner Natur und den dir verfügbaren Materialien erschaffen kannst. Dein Rang in Normales Item Erschaffen bestimmt den maximalen Wohlstandswert der Items, die du erzeugen kannst. Anders als beim Kaufen von Dingen (siehe Kapitel 5), schränkt das Erschaffen von Gegenständen nicht ein, ob du weitere Güter dieses Wohlstandswertes erhalten kannst.
+Wähle einen spezifischen Beruf oder eine Profession. Du kannst Items erschaffen, die für deinen gewählten Job plausibel sind, wobei der GM entscheidet, wie schnell du das gewünschte Item anhand seiner Natur und den dir verfügbaren Materialien erschaffen kannst. Dein Rang in Normales Item Erschaffen bestimmt den maximalen Wohlstandswert der Items, die du erzeugen kannst. Anders als beim Kaufen von Dingen (siehe Kapitel 6), schränkt das Erschaffen von Gegenständen nicht ein, ob du weitere Güter dieses Wohlstandswertes erhalten kannst.
 <ul>
 <li><strong>Rang 1</strong> - Du kannst Items gleich deinem eigenen Wohlstandswert erschaffen.</li>
 <li><strong>Rang 2</strong> - Du kannst Items gleich deinem eigenen Wohlstandswert + 1 erschaffen.</li>
