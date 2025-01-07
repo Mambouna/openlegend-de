@@ -299,7 +299,7 @@ Sobald du die grundlegenden Werte notiert hast, wähle ein paar der folgenden Fe
 - **Erhöhte Konzentration (Rang 1 - 3, deine Wahl):** Wenn du die kleine Aktion <em>Wohl aufrechterhalten</em> benutzt, kannst du pro Rang dieser Fertigkeit ein weiteres Wohl aufrechterhalten, dass du wirken kannst.
 
 > #### Beispiel NPC Einfacher Aufbau: Sumpfschlangen
-> Lass uns zum Beispiel von vorhin zurückkehren und mit dem einfachen Aufbau die giftigen Schlangen im Sumpf erstellen. Die Spielgruppe ist zum Beispiel Level 3, sodass wir die Zeile der Tabelle für NPC auf Level 3 nutzen. Wir entscheiden, dass die Schlangen nicht besonders schwer zu töten sein sollten, also schauen wir in die Tabelle und entscheiden uns für das untere Ende der möglichen TP-Spanne, spezifisch 14 TP für die Schlangen. Schlangen sind schnell, mäßig zäh und haben keinen starken Willen. Wir entscheiden uns für hohe Deckung: 18, mittlere Zähigkeit: 15 und niedrige Entschlossenheit: 12. Wir geben den Schlangen ein primäres Attribut, in diesem Fall Beweglichkeit 5 und als sekundäre Attribute mit Wert 4 entscheiden wir uns für Wahrnehmung, Konstitution und Täuschung.
+> Lass uns zum Beispiel von vorhin zurückkehren und mit dem einfachen Aufbau die giftigen Schlangen im Sumpf erstellen. Die Spielgruppe ist zum Beispiel Level 3, sodass wir die Zeile der Tabelle für NPC auf Level 3 nutzen. Wir entscheiden, dass die Schlangen nicht besonders schwer zu töten sein sollten, also schauen wir in die Tabelle und entscheiden uns für das untere Ende der möglichen TP-Spanne, spezifisch 14 TP für die Schlangen. Schlangen sind schnell, mäßig zäh und haben keinen starken Willen. Wir entscheiden uns für hohe Deckung: 18, mittlere Zähigkeit: 15 und niedrige Entschlossenheit: 12. Wir geben den Schlangen ein primäres Attribut, in diesem Fall Geschicklichkeit 5 und als sekundäre Attribute mit Wert 4 entscheiden wir uns für Wahrnehmung, Konstitution und Täuschung.
 > 
 > Für die Fertigkeiten wollen wir die Gefahr des Gifts der Schlangen hervorheben, also wählen wir *Multi-Harmspezialisierung* und *Harmfokus*, damit sie sowohl *Betäubt* als auch *Anhaltender Schaden* zufügen können, wann immer sie erfolgreich einen Angriff mit Schaden mit 5 oder mehr Schaden durchführen.
 
@@ -456,21 +456,21 @@ Während die Gruppe sich damit beschäftigt, Pläne zu schmieden, um auf Schleic
 **Erfolg mit einem Haken:** Krund hebt das Gatter an und mehrere Gruppenmitglieder schaffen es hindurch, doch seine Kraft gibt nach, bevor alle auf der anderen Seite sind. Die Gruppe ist nun getrennt.
 
 **Fehlschlag, aber die Geschichte schreitet voran:** Trotz seiner großen Stärke kann Krund das Gatter nicht mehr als einen Fuß anheben. Als er es loslässt, macht der laute Knall des Aufpralls die Wachen auf die Gruppe aufmerksam.
-### Beweglichkeit
-Beweglichkeit ist ein Maß der Schnelligkeit, Ausdauer, Feinmotorik und Reaktionszeit deines Charakters. Sie bestimmt Handlungen wie das Schleichen, Akrobatik, manövrieren mit Fahrzeugen und das Aufbrechen von Schlössern.
-#### Herausfordernder Test der Beweglichkeit (HW 15)
+### Geschicklichkeit
+Geschicklichkeit ist ein Maß der Schnelligkeit, Ausdauer, Feinmotorik und Reaktionszeit deines Charakters. Sie bestimmt Handlungen wie das Schleichen, Akrobatik, manövrieren mit Fahrzeugen und das Aufbrechen von Schlössern.
+#### Herausfordernder Test der Geschicklichkeit (HW 15)
 Während Terri Gizmo den gnomigen Kopfgeldjäger durch die Korridore der Raumstation jagt, lässt der seine patentierte Schlüpf-Schleimbombe los, sodass der Boden zwischen ihnen mit glitschigem Öl bedeckt ist. Terri versucht, gewandt durch den Schleim zu rutschen, anstatt sich davon verlangsamen zu lassen.
 
 **Erfolg mit einem Haken:** Terri gleitet elegant über den Schleim, bemerkt aber erst im letzten Moment das Rohr, dass aus der Decke hervorsteht. Sie schafft es, auszuweichen, indem sie sich mit den Händen davon abstößt, muss aber ihre Schrotflinte fallen lassen. Wenn sie Gizmo weiterverfolgen will, muss sie es unbewaffnet tun.
 
 **Fehlschlag, aber die Geschichte schreitet voran:** Mit all der Grazie eines betrunkenen Elefanten fällt Terri im Schleim auf die Nase. Als sie wieder hochkommt, ist Gizmo schon nicht mehr zu sehen. Jetzt muss sie blitzschnell eine Entscheidung an der nächsten Kreuzung treffen, wenn sie ihr Ziel nicht völlig verlieren will.
-#### Heldenhafter Test der Beweglichkeit (HW 20)
+#### Heldenhafter Test der Geschicklichkeit (HW 20)
 Jax sitzt am Steuer seines Raumjets inmitten eines Raumkampfes gegen zwei dalturische Zerstörer. Sie sind ihm beide auf den Fersen und wenn er sie nicht bald abschüttelt, werden sie ihre Suchraketen feuern können. Jax rammt den Schubhebel nach vorn und versucht, durch einen schmalen Canyon vor sich zu entkommen.
 
 **Erfolg mit einem Haken:** Jax rast mit mörderischer Geschwindigkeit durch den Canyon. Auf der anderen Seite sieht er auf dem Radar, dass er einen der Zerstörer erfolgreich abgeschüttelt hat. Der andere Dalturier ist ihm noch immer auf den Fersen.
 
 **Fehlschlag, aber die Geschichte schreitet voran:** Jax flitzt zwischen zwei Felsenkanten hindurch, verschätzt aber die Breite der Öffnung um ein paar Zentimeter. Er hört ein lautes metallisches Knirschen als einer seiner Flügel zerrissen wird und stürzt ab. Nach dem Crash schafft es Jax, aus dem Wrack zu kriechen. Er hat überlebt, aber sein Flieger ist hinüber.
-### Epischer Test der Beweglichkeit (HW 25)
+### Epischer Test der Geschicklichkeit (HW 25)
 Winston, der beste Bogenschütze im Land, wurde vom Riesenfürst Glorrg gefangen genommen. Glorrg verlangt, dass Winston sich ihm beweist. Der Riese lässt einen Diener vier Vögel freilassen und verlangt, dass Winston sie alle niederschießt, bevor sie wegfliegen.
 
 **Erfolg mit einem Haken:** Mit seinem wohlbekannten Geschick legt Winston vier Pfeile gleichzeitig an und lässt sie fliegen. Alle vier Vögel stürzen zu Boden, aber Winston hat seine Umgebung nicht bedacht. Einer der Pfeile durchschlägt auch noch einen Diener Glorrgs, was den Riesen sofort in Wut versetzt.

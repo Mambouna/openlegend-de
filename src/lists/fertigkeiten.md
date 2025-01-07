@@ -45,15 +45,15 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 3 / Kraft 3 / Beliebiges Außergewöhnliches 3
-- **Rang 2:** Beweglichkeit 3 / Kraft 3 / Beliebiges Außergewöhnliches 3
-- **Rang 3:** Beweglichkeit 3 / Kraft 3 / Beliebiges Außergewöhnliches 3
-- **Rang 4:** Beweglichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
-- **Rang 5:** Beweglichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
-- **Rang 6:** Beweglichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
-- **Rang 7:** Beweglichkeit 7 / Kraft 7 / Beliebiges Außergewöhnliches 7
-- **Rang 8:** Beweglichkeit 7 / Kraft 7 / Beliebiges Außergewöhnliches 7
-- **Rang 9:** Beweglichkeit 7 / Kraft 7 / Beliebiges Außergewöhnliches 7
+- **Rang 1:** Geschicklichkeit 3 / Kraft 3 / Beliebiges Außergewöhnliches 3
+- **Rang 2:** Geschicklichkeit 3 / Kraft 3 / Beliebiges Außergewöhnliches 3
+- **Rang 3:** Geschicklichkeit 3 / Kraft 3 / Beliebiges Außergewöhnliches 3
+- **Rang 4:** Geschicklichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
+- **Rang 5:** Geschicklichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
+- **Rang 6:** Geschicklichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
+- **Rang 7:** Geschicklichkeit 7 / Kraft 7 / Beliebiges Außergewöhnliches 7
+- **Rang 8:** Geschicklichkeit 7 / Kraft 7 / Beliebiges Außergewöhnliches 7
+- **Rang 9:** Geschicklichkeit 7 / Kraft 7 / Beliebiges Außergewöhnliches 7
 
 **Beschreibung**  
 Wie ein Samurai, der die Kunst seines Katana gemeistert hat oder ein Elementalist, der auf Flammenbeschwörungen spezialisiert ist, bist auch du in einer bestimmten Art von Angriff besonder gut trainiert, mit der du deine Feinde effektiver dezimieren kannst als ein durchschnittlicher Kämpfer.
@@ -76,7 +76,7 @@ ___
 - **Rang 2:** Keine
 
 **Beschreibung**  
-Dein Können mit einem außergewöhnlichen, geistigen oder sozialen Attribut ist mit einem anderen auf besondere Weise verbunden, sodass du es für Aufgaben nutzen kannst, die normalerweise mit dem anderen Attribut angegangen werden müssten. Beispiele von Attributsubstitution im Spiel wären z.B. ein Krieger, der körperlich schwach ist, seine Feinde aber mit internem Chi werfen und außer Gefecht setzen kann, ein Anatomiegenie, das Feinde durch logisch hergeleitetes Zielen auch Schwachpunkte anstatt von Beweglichkeit niederstreckt oder eine Revolverheldin, deren Zielsicherheit das Resultat eines dunklen Paktes ist.
+Dein Können mit einem außergewöhnlichen, geistigen oder sozialen Attribut ist mit einem anderen auf besondere Weise verbunden, sodass du es für Aufgaben nutzen kannst, die normalerweise mit dem anderen Attribut angegangen werden müssten. Beispiele von Attributsubstitution im Spiel wären z.B. ein Krieger, der körperlich schwach ist, seine Feinde aber mit internem Chi werfen und außer Gefecht setzen kann, ein Anatomiegenie, das Feinde durch logisch hergeleitetes Zielen auf Schwachpunkte anstatt durch Geschicklichkeit niederstreckt oder eine Revolverheldin, deren Zielsicherheit das Resultat eines dunklen Paktes ist.
 
 **Effekt**  
 Wenn du diese Fertigkeit erwirbst, schaffst du eine permanente Verbindung zwischen zwei Attributen: einem stärkeren (das Primärattribut) und einem schwächeren (das abhängige Attribut). Du kannst das Primärattribut anstelle des abhängigen Attributes in unterschiedlichen Kontexten anhand des Kraftlevels der Fertigkeit nutzen:
@@ -95,7 +95,7 @@ Wenn du diese Fertigkeit erwirbst, schaffst du eine permanente Verbindung zwisch
   <li>Harme oder Wohle wirken</li>
   </ul>
 </ul>
-Die Verbindung zwischen zwei Attributen muss immer Fall für Fall entschieden werden, wobei die Zustimmung des GM nötig ist. Die Verbindung muss im Kontext der Handlung und des Settings Sinn ergeben, in dem die Kampagne spielt. Beispielsweise könnte ein Barbar sein Logikattribut sein Kraftattribut ersetzen lassen, wenn es um die Anwendung von Hebelwirkung im Ringen mit Feinden geht. Das bedeutet aber nicht, dass der gleiche Barbar sein Logikattribut nutzen könnte, um die Stahlstäbe einer Gefängniszelle aufzubiegen. Weiterhin sollte der GM Spielende daran hindern, unlogische Verbindungen zu benutzen, die nur dazu da sind, übermäßig starke Charaktere ohne Handlungsbezug zu schaffen. Zwei sinnvolle Beispiele dieser Fertigkeit wären ein kluger Krieger, der Hebelwirkung, Momentum und Physik zu seinem Vorteil nutzt und so Kraft durch Logik ersetzt oder eine Revolverhelding, die Beweglichkeit durch Vergehen ersetzt und durch das Beschwören dunkler Energie ihre Sinne schärft und so besser zielen kann.
+Die Verbindung zwischen zwei Attributen muss immer Fall für Fall entschieden werden, wobei die Zustimmung des GM nötig ist. Die Verbindung muss im Kontext der Handlung und des Settings Sinn ergeben, in dem die Kampagne spielt. Beispielsweise könnte ein Barbar sein Logikattribut sein Kraftattribut ersetzen lassen, wenn es um die Anwendung von Hebelwirkung im Ringen mit Feinden geht. Das bedeutet aber nicht, dass der gleiche Barbar sein Logikattribut nutzen könnte, um die Stahlstäbe einer Gefängniszelle aufzubiegen. Weiterhin sollte der GM Spielende daran hindern, unlogische Verbindungen zu benutzen, die nur dazu da sind, übermäßig starke Charaktere ohne Handlungsbezug zu schaffen. Zwei sinnvolle Beispiele dieser Fertigkeit wären ein kluger Krieger, der Hebelwirkung, Momentum und Physik zu seinem Vorteil nutzt und so Kraft durch Logik ersetzt oder eine Revolverhelding, die Geschicklichkeit durch Vergehen ersetzt und durch das Beschwören dunkler Energie ihre Sinne schärft und so besser zielen kann.
 
 > Tags: Beliebiges Attribut
 
@@ -163,7 +163,7 @@ ___
 Du bist in der Lage, Items mit magischer Energie zu durchdringen, futuristische Technologie zu schaffen, Tränke zu brauen oder außergewöhnliche Geräte zu bauen. Ihre Macht ist permanent, aber abhängig von deiner Expertise.
 
 **Effekt**  
-Solange du die notwendigen Materialien und passenden Arbeitsraum hast (nach Abwägung des GM), kannst du außergewöhnliche Items erschaffen (wie in Kapitel 9: Spezialausrüstung beschrieben). Du kannst einem Item nur Attribute, Harme und Wohle geben, zu denen du selbst Zugang hast. Beispielsweise musst du einen Energiewert von 5 oder höher haben, um einem Schwert das Attribut Energie 5 einzuflößen. Die einzige Ausnahme zu dieser Regelung ist ein ausreichend großer Wert in Schöpfung, Lernen oder Logik. Diese Attribute erlauben es dir, einem Item beliebige Attribute, Harme oder Wohle zu verleihen, solange ihr Wert / Kraftlevel kleiner oder gleich deinem Attributwert ist. Der GM kann entscheiden, ob die Anwendung dieser Ausnahme in bestimmten Kontexten nicht sinnvoll ist und diese untersagen.
+Solange du die notwendigen Materialien und passenden Arbeitsraum hast (nach Abwägung des GM), kannst du außergewöhnliche Items erschaffen (wie in [Kapitel 9: Spezialausrüstung](./../Kapitel-9_Spezialausruestung.md) beschrieben). Du kannst einem Item nur Attribute, Harme und Wohle geben, zu denen du selbst Zugang hast. Beispielsweise musst du einen Energiewert von 5 oder höher haben, um einem Schwert das Attribut Energie 5 einzuflößen. Die einzige Ausnahme zu dieser Regelung ist ein ausreichend großer Wert in Schöpfung, Lernen oder Logik. Diese Attribute erlauben es dir, einem Item beliebige Attribute, Harme oder Wohle zu verleihen, solange ihr Wert / Kraftlevel kleiner oder gleich deinem Attributwert ist. Der GM kann entscheiden, ob die Anwendung dieser Ausnahme in bestimmten Kontexten nicht sinnvoll ist und diese untersagen.
 Dein Rang in dieser Fertigkeit bestimmt den maximalen Wohlstandswert von Items, die du erschaffen kannst, anhand des genutzten Attributs:
 <ul>
 <li><strong>Rang 1</strong> - Maximaler Wohlstandswert = Attributwert - 2.</li>
@@ -171,7 +171,7 @@ Dein Rang in dieser Fertigkeit bestimmt den maximalen Wohlstandswert von Items, 
 <li><strong>Rang 3</strong> - Maximaler Wohlstandswert = Attributwert.</li>
 </ul>
 Beispielsweise kann ein Charakter mit Schöpfung 5 und Rang 1 dieser Fertigkeit ein außerordentliches Item bis Wohlstandswert 3 erschaffen.
-Du kannst einen passenden Wohlstandswert für ein Item anhand der Beispielitems aus <strong>Kapitel 9: Spezialausrüstung</strong> finden oder diesen mit den Regeln aus dem Kapitel <strong>Eigene außergewöhnliche Items konzipieren</strong> daraus bestimmen.
+Du kannst einen passenden Wohlstandswert für ein Item anhand der Beispielitems aus <strong>[Kapitel 9: Spezialausrüstung](./../Kapitel-9_Spezialausruestung.md)</strong> finden oder diesen mit den Regeln aus dem Abschnitt <strong>Eigene außergewöhnliche Items konzipieren</strong> daraus bestimmen.
 Ein Item mit den Eigenschaften <em>Konsumgut</em> oder <em>Verbrauchsgut</em> zu erschaffen braucht einen vollen ununterbrochenen Tag an 8 Stunden Arbeit. Andere Items brauchen anhand ihres Wohlstandswertes unterschiedlich viel Zeit:
 <ul>
 <li><strong>Wohlstandswert 1 - 3</strong>: Zwei Tage pro Wohlstandswert.</li>
@@ -179,7 +179,7 @@ Ein Item mit den Eigenschaften <em>Konsumgut</em> oder <em>Verbrauchsgut</em> zu
 <li><strong>Wohlstandswert 6 - 7</strong>: Eine Woche pro Wohlstandswert.</li>
 <li><strong>Wohlstandswert 8 - 9</strong>: Ein Monat pro Wohlstandswert.</li>
 </ul>
-Am Ende dieser Zeitspanne ist das Item erschaffen. Ein Item zu erschaffen zählt weiterhin als Ausgabe, sodass du einen Wohlstandswert haben musst, der hoch genug ist, um das Item anhand der in <strong>Kapitel 5: Wohlstand und Ausrüstung</strong> beschriebenen Regeln zu kaufen. Der GM kann nach Abwägung einige oder alle der Kosten, die mit dem Erschaffen eines Items assoziiert sind, fallen lassen, falls du besondere Materialien zum Schaffen des Items schon besitzt. Hast du z.B. kürzlich die Haut eines roten Drachen erbeutet und möchtest nun daraus eine feuerresistenze Rüstung schaffen, kann der GM bestimmen, dass die Haut den Großteil der mit der Schaffung assoziierten Kosten ausmacht und der Wohlstandswert zur Bestimmung der Beschaffungskosten für den Schaffungsprozess so um 3 reduziert ist.
+Am Ende dieser Zeitspanne ist das Item erschaffen. Ein Item zu erschaffen zählt weiterhin als Ausgabe, sodass du einen Wohlstandswert haben musst, der hoch genug ist, um das Item anhand der in <strong>[Kapitel 6: Wohlstand und Ausrüstung](./../Kapitel-6_Wohlstand-und-Ausruestung.md)</strong> beschriebenen Regeln zu kaufen. Der GM kann nach Abwägung einige oder alle der Kosten, die mit dem Erschaffen eines Items assoziiert sind, fallen lassen, falls du besondere Materialien zum Schaffen des Items schon besitzt. Hast du z.B. kürzlich die Haut eines roten Drachen erbeutet und möchtest nun daraus eine feuerresistenze Rüstung schaffen, kann der GM bestimmen, dass die Haut den Großteil der mit der Schaffung assoziierten Kosten ausmacht und der Wohlstandswert zur Bestimmung der Beschaffungskosten für den Schaffungsprozess so um 3 reduziert ist.
 
 > Tags: Außergewöhnlich, Nicht-Kampf
 
@@ -188,7 +188,7 @@ ___
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 1
+- **Rang 1:** Geschicklichkeit 1
 
 **Beschreibung**  
 Ob du ein Samuraikrieger, der schnellste Mann im Westen oder ein perfekt trainierter interstellarer Soldat bist, kannst du deine Waffe schneller ziehen, als deine Feinde blinzeln.
@@ -196,18 +196,18 @@ Ob du ein Samuraikrieger, der schnellste Mann im Westen oder ein perfekt trainie
 **Effekt**  
 Einmal pro Runde kannst du eine zusätzliche Waffe als kostenlose Aktion ziehen und eine andere wegstecken. Alternativ kannst du den gleichen Effekt auch für alle kleinen Gegenstände nutzen, die du besitzt.
 
-> Tags: Kampf, Beweglichkeit
+> Tags: Kampf, Geschicklichkeit
 
 ___
 ### Blitzreflexe (I - V)
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 2 / Vorwissen 2
-- **Rang 2:** Beweglichkeit 2 / Vorwissen 2
-- **Rang 3:** Beweglichkeit 4 / Vorwissen 4
-- **Rang 4:** Beweglichkeit 4 / Vorwissen 4
-- **Rang 5:** Beweglichkeit 4 / Vorwissen 4
+- **Rang 1:** Geschicklichkeit 2 / Vorwissen 2
+- **Rang 2:** Geschicklichkeit 2 / Vorwissen 2
+- **Rang 3:** Geschicklichkeit 4 / Vorwissen 4
+- **Rang 4:** Geschicklichkeit 4 / Vorwissen 4
+- **Rang 5:** Geschicklichkeit 4 / Vorwissen 4
 
 **Beschreibung**  
 Du bist allzeit bereit, sodass du deinen Feinden oft zuvorkommst. Ein Revolverheld mit flinken Fingern oder ein Spion, der immer bereit für einen Hinterhalt ist, sind gute Beispiele dieser Fertigkeit.
@@ -215,7 +215,7 @@ Du bist allzeit bereit, sodass du deinen Feinden oft zuvorkommst. Ein Revolverhe
 **Effekt**  
 Für jeden Rang dieser Fertigkeit hast du Vorteil 1 auf alle Initiativewürfe.
 
-> Tags: Körperlich, Außergewöhnlich, Beweglichkeit, Vorwissen
+> Tags: Körperlich, Außergewöhnlich, Geschicklichkeit, Vorwissen
 
 ___
 ### Brutale Einschüchterung
@@ -252,15 +252,15 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 3
-- **Rang 2:** Beweglichkeit 3
-- **Rang 3:** Beweglichkeit 3
-- **Rang 4:** Beweglichkeit 5
-- **Rang 5:** Beweglichkeit 5
-- **Rang 6:** Beweglichkeit 5
-- **Rang 7:** Beweglichkeit 7
-- **Rang 8:** Beweglichkeit 7
-- **Rang 9:** Beweglichkeit 7
+- **Rang 1:** Geschicklichkeit 3
+- **Rang 2:** Geschicklichkeit 3
+- **Rang 3:** Geschicklichkeit 3
+- **Rang 4:** Geschicklichkeit 5
+- **Rang 5:** Geschicklichkeit 5
+- **Rang 6:** Geschicklichkeit 5
+- **Rang 7:** Geschicklichkeit 7
+- **Rang 8:** Geschicklichkeit 7
+- **Rang 9:** Geschicklichkeit 7
 
 **Beschreibung**  
 Du bist ein Paragon des defensiven Kampfes, der meisterhaft gegnerische Attacken abwendet. Indem du die Bewegungen, Streiche oder Schüsse deiner Feinde voraussiehst, kannst du sie unterbinden, bevor sie zur Gefahr werden.
@@ -268,7 +268,7 @@ Du bist ein Paragon des defensiven Kampfes, der meisterhaft gegnerische Attacken
 **Effekt**  
 Wann immer du eine Verteidigungsaktion einsetzt, erhältst du Vorteil 1 auf den Aktionswurf pro Rang dieser Fertigkeit, den du besitzt.
 
-> Tags: Beweglichkeit, Außergewöhnlich
+> Tags: Geschicklichkeit, Außergewöhnlich
 
 ___
 ### Endlose Ausdauer (I - V)
@@ -379,8 +379,8 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 4
-- **Rang 2:** Beweglichkeit 4
+- **Rang 1:** Geschicklichkeit 4
+- **Rang 2:** Geschicklichkeit 4
 
 **Beschreibung**  
 Du bist so anmutig wie ein Schwan. Wie die Krieger und draufgängerische Helden aus den Legenden kannst du unbeschadet aus großen Höhen fallen.
@@ -391,7 +391,7 @@ Du bist so anmutig wie ein Schwan. Wie die Krieger und draufgängerische Helden 
 <li><strong>Rang 2</strong> - Solange du bei Bewusstsein und handlungsfähig bist, erleidest du keinen Fallschaden.</li>
 </ul>
 
-> Tags: Beweglichkeit
+> Tags: Geschicklichkeit
 
 ___
 ### Fliegen
@@ -413,7 +413,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 4
+- **Rang 1:** Geschicklichkeit 4
 
 **Beschreibung**  
 Du bewegst dich mit dem Fluss des Kampfes und weichst Angriffen aus, die weniger adepte Krieger treffen würden. Vielleicht bist du ein Ninja, der um seine Feinde herum wirbelt oder ein Schlangenalien, das unberührt über das Schlachtfeld gleitet.
@@ -421,16 +421,16 @@ Du bewegst dich mit dem Fluss des Kampfes und weichst Angriffen aus, die weniger
 **Effekt**  
 Wenn du dich von einem an einem Feind anliegenden Platz zu einem nicht an einem Feind anliegenden Ort bewegst, erhält der Feind keine Gelegenheitsattacke.
 
-> Tags: Beweglichkeit
+> Tags: Geschicklichkeit
 
 ___
 ### Flinkfuß (I - III)
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 4 / Konstitution 4 / Bewegung 2
-- **Rang 2:** Beweglichkeit 5 / Konstitution 5 / Bewegung 4
-- **Rang 3:** Beweglichkeit 7 / Konstitution 7 / Bewegung 6
+- **Rang 1:** Geschicklichkeit 4 / Konstitution 4 / Bewegung 2
+- **Rang 2:** Geschicklichkeit 5 / Konstitution 5 / Bewegung 4
+- **Rang 3:** Geschicklichkeit 7 / Konstitution 7 / Bewegung 6
 
 **Beschreibung**  
 Ob durch cybernetische Implantate, telekinetischen Antrieb oder einfach hardcore Training, bist du schneller als die meisten. Dieser Fertigkeit ist unter Degenhelden, Kriegern, Supersoldaten und Psychikern verbreitet.
@@ -438,7 +438,7 @@ Ob durch cybernetische Implantate, telekinetischen Antrieb oder einfach hardcore
 **Effekt**  
 Deine Geschwindigkeit ist pro Rang dieser Fertigkeit permanent um 5' erhöht.
 
-> Tags: Außergewöhnlich, Beweglichkeit, Bewegung, Konstitution
+> Tags: Außergewöhnlich, Geschicklichkeit, Bewegung, Konstitution
 
 ___
 ### Fähigkeitsspezialisierung (I - V)
@@ -527,17 +527,17 @@ ___
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
-- **Rang 1:** Bewegung 2 / Beweglichkeit 2
-- **Rang 2:** Bewegung 4 / Beweglichkeit 4
-- **Rang 3:** Bewegung 6 / Beweglichkeit 6
+- **Rang 1:** Bewegung 2 / Geschicklichkeit 2
+- **Rang 2:** Bewegung 4 / Geschicklichkeit 4
+- **Rang 3:** Bewegung 6 / Geschicklichkeit 6
 
 **Beschreibung**  
-Durch außergewöhnliche Kraft oder besondere Beweglichkeit kannst du deutlich weiter springen als die meisten Kreaturen. Ein telekinetischer Superheld oder eine insektoide Alienrasse könnten diese Fertigkeit haben.
+Durch außergewöhnliche Kraft oder besondere Geschicklichkeit kannst du deutlich weiter springen als die meisten Kreaturen. Ein telekinetischer Superheld oder eine insektoide Alienrasse könnten diese Fertigkeit haben.
 
 **Effekt**  
-Du kannst deinen Bewegungs- oder Beweglichkeitswert anstatt deinem Kraft nutzen, wenn du berechnest, wie weit du springen kannst. Zusätzlich erhälst du Vorteil 1 pro Rang dieser Fertigkeit auf Aktionswürfe zum Springen.
+Du kannst deinen Bewegungs- oder Geschicklichkeitswert anstatt deinem Kraftwert nutzen, wenn du berechnest, wie weit du springen kannst. Zusätzlich erhälst du Vorteil 1 pro Rang dieser Fertigkeit auf Aktionswürfe zum Springen.
 
-> Tags: Außergewöhnlich, Körperlich, Kampf, Nicht-Kampf, Bewegung, Beweglichkeit
+> Tags: Außergewöhnlich, Körperlich, Kampf, Nicht-Kampf, Bewegung, Geschicklichkeit
 
 ___
 ### Halluzination (I - II)
@@ -604,13 +604,13 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 1 / Kraft 1
+- **Rang 1:** Geschicklichkeit 1 / Kraft 1
 
 **Beschreibung**  
 Wie ein Kensaikämpfer, der sich ganz seinem Katana verschrieben hat, oder ein Assassine der ausschließlich seine Lieblingspistole führt, ist dein Training auf einen einzigen Kampfstil fokussiert.
 
 **Effekt**  
-Wähle eine einzige Waffe (oder wähle unbewaffneten Kampf) und gib an, auf welches Attribut sich dein Kampffokus verlässt: Beweglichkeit oder Kraft. Wenn du einen Angriff mit der gewählten Waffe machst, wird dein Attributwert zum Bestimmten der Attributwürfel als eins höher gewertet, als er eigentlich ist. Dein Wert bleibt für alle anderen Anwendungen - wie z.B. Fertigkeiten, Harme und Wohle - unverändert. Aufgrund deines intensiven Trainings in einem Stil, das andere Taktiken vernachlässigt, hast du Nachteil 1 auf alle Angriffe, die du ohne Kampffokus ausführst.
+Wähle eine einzige Waffe (oder wähle unbewaffneten Kampf) und gib an, auf welches Attribut sich dein Kampffokus verlässt: Geschicklichkeit oder Kraft. Wenn du einen Angriff mit der gewählten Waffe machst, wird dein Attributwert zum Bestimmten der Attributwürfel als eins höher gewertet, als er eigentlich ist. Dein Wert bleibt für alle anderen Anwendungen - wie z.B. Fertigkeiten, Harme und Wohle - unverändert. Aufgrund deines intensiven Trainings in einem Stil, das andere Taktiken vernachlässigt, hast du Nachteil 1 auf alle Angriffe, die du ohne Kampffokus ausführst.
 
 > Tags: Kampf, Körperlich
 
@@ -625,7 +625,7 @@ ___
 Ob durch rohe Kraft oder Blitzreflexe, kannst du dein Momentum im Kampf nutzen, um mit Leichtigkeit über das Schlachtfeld zu maneuvrieren.
 
 **Effekt**  
-Wann immer du einen Feind mit einer Kraft- oder Beweglichkeitsattacke auf 0 TP bringst, kannst du dich sofort als kostenlose Aktion bis zu deiner Geschwidigkeit weit bewegen.
+Wann immer du einen Feind mit einer Kraft- oder Geschicklichkeitsattacke auf 0 TP bringst, kannst du dich sofort als kostenlose Aktion bis zu deiner Geschwidigkeit weit bewegen.
 
 **Besonders**  
 Falls du Zugang zum Wohl <em>Teleportation</em> hast, kannst du es anstatt einer normalen Bewegung benutzen.
@@ -658,7 +658,7 @@ ___
 Du bist in der Lage, Feinde in schneller Folge zu dezimieren. Wie ein legendärer Samurai oder überragender Elfenschütze fallen deine Gegner in Reihen.
 
 **Effekt**  
-Wann immer du einen Feind mit einer Kraft- oder Beweglichkeitsattacke auf 0 TP bringst, kannst du sofort einen Extraangriff als kostenlose Aktion ausführen.
+Wann immer du einen Feind mit einer Kraft- oder Geschicklichkeitsattacke auf 0 TP bringst, kannst du sofort einen Extraangriff als kostenlose Aktion ausführen.
 
 > Tags: Kampf
 
@@ -682,7 +682,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 4 / Kraft 4 / Beliebiges Außergewöhnliches 4
+- **Rang 1:** Geschicklichkeit 4 / Kraft 4 / Beliebiges Außergewöhnliches 4
 
 **Beschreibung**  
 Du bist ein Meister des Konters. Du könntest flink Vorstöße deiner Gegner auf sie selbst umleiten oder mit einer außergewöhnlichen Barriere die Energie von Angriffen zurückwerfen. Deine Fähigkeiten erlauben es dir nicht nur, Angriffe auf dem Schlachtfeld abzufangen, sondern mit diesen gleichzeitig Vergeltung zu üben.
@@ -690,14 +690,14 @@ Du bist ein Meister des Konters. Du könntest flink Vorstöße deiner Gegner auf
 **Effekt**  
 Wenn du eine Verteidigungsaktion nutzt, fügst du dem Angreifer Schaden gleich der Anzahl zu, mit der dein Aktionswurf das Ergebnis des Angriffswurfs übertrifft.
 
-> Tags: Kraft, Beweglichkeit, Außergewöhnlich, Passiv, Kampf
+> Tags: Kraft, Geschicklichkeit, Außergewöhnlich, Passiv, Kampf
 
 ___
 ### Konterschlächter
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
+- **Rang 1:** Geschicklichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
 
 **Beschreibung**  
 Du kannst mit einem Konter nicht nur Schaden zufügen, sondern Feinde auch mit einem spezifischen Sekundäreffekt belegen. Vielleicht bist du ein Paladin, der Feinde mit seinem Konter zu Boden wirft, ein Ninja der bei der Parade Sand in die Augen des Gegners streut oder ein Telekinetist, der seine Feinde von sich schleudert.
@@ -873,7 +873,7 @@ ___
 Du hast ein bestimmtes Handwerk gemeistert, sodass du mit der nötigen Zeit und Materialien Items aus diesem Gewerbe erschaffen kannst. Du könntest ein gekonnter Schmied sein, professioneller Ingenieur, Meisteralchemist oder jede andere Art Profession.
 
 **Effekt**  
-Wähle einen spezifischen Beruf oder eine Profession. Du kannst Items erschaffen, die für deinen gewählten Job plausibel sind, wobei der GM entscheidet, wie schnell du das gewünschte Item anhand seiner Natur und den dir verfügbaren Materialien erschaffen kannst. Dein Rang in Normales Item Erschaffen bestimmt den maximalen Wohlstandswert der Items, die du erzeugen kannst. Anders als beim Kaufen von Dingen (siehe Kapitel 5), schränkt das Erschaffen von Gegenständen nicht ein, ob du weitere Güter dieses Wohlstandswertes erhalten kannst.
+Wähle einen spezifischen Beruf oder eine Profession. Du kannst Items erschaffen, die für deinen gewählten Job plausibel sind, wobei der GM entscheidet, wie schnell du das gewünschte Item anhand seiner Natur und den dir verfügbaren Materialien erschaffen kannst. Dein Rang in Normales Item Erschaffen bestimmt den maximalen Wohlstandswert der Items, die du erzeugen kannst. Anders als beim Kaufen von Dingen (siehe [Kapitel 6: Wohlstand und Ausrüstung](./../Kapitel-6_Wohlstand-und-Ausruestung.md)), schränkt das Erschaffen von Gegenständen nicht ein, ob du weitere Güter dieses Wohlstandswertes erhalten kannst.
 <ul>
 <li><strong>Rang 1</strong> - Du kannst Items gleich deinem eigenen Wohlstandswert erschaffen.</li>
 <li><strong>Rang 2</strong> - Du kannst Items gleich deinem eigenen Wohlstandswert + 1 erschaffen.</li>
@@ -1002,11 +1002,11 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 4 / Kraft 4
-- **Rang 2:** Beweglichkeit 4 / Kraft 4
-- **Rang 3:** Beweglichkeit 4 / Kraft 4
-- **Rang 4:** Beweglichkeit 4 / Kraft 4
-- **Rang 5:** Beweglichkeit 4 / Kraft 4
+- **Rang 1:** Geschicklichkeit 4 / Kraft 4
+- **Rang 2:** Geschicklichkeit 4 / Kraft 4
+- **Rang 3:** Geschicklichkeit 4 / Kraft 4
+- **Rang 4:** Geschicklichkeit 4 / Kraft 4
+- **Rang 5:** Geschicklichkeit 4 / Kraft 4
 
 **Beschreibung**  
 Deine Fähigkeiten auf dem Schlachtfeld erlauben es dir, Chancen zu ergreifen, die andere übersehen, sodass du tödlicher im Nahkampf bist. Deine Feinde tun sich schwer, sich im Kampf um dich herum zu bewegen, egal ob du mit Axt, Plasmaklinge oder bloßen Fäusten kämpfst.
@@ -1014,7 +1014,7 @@ Deine Fähigkeiten auf dem Schlachtfeld erlauben es dir, Chancen zu ergreifen, d
 **Effekt**  
 Du kannst eine zusätzliche Gelegenheitsattacke pro Rang dieser Fertigkeit, die du besitzt, in einer Runde ausführen. Du kannst aber nur eine Gelegenheitsattacke für jeden Anlass machen, der eine solche Attacke ermöglicht (du kannst also nicht mehrere Attacken gegen einen Feind ausführen, der den Nahkampf mit dir verlässt).
 
-> Tags: Kraft, Beweglichkeit, Passiv, Kampf, Fertigkeitenkette
+> Tags: Kraft, Geschicklichkeit, Passiv, Kampf, Fertigkeitenkette
 
 ___
 ### Schwimmen
@@ -1036,7 +1036,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 5 & Wahrnehmung 5
+- **Rang 1:** Geschicklichkeit 5 & Wahrnehmung 5
 
 **Beschreibung**  
 Einer Spur zu folgen ist für dich so normal wie atmen. Du bist ein erfahrener Waldläufer, Kopfgeldjäger des galaktischen Senats oder ein Katzenmensch mit besseren Sinnen. Deine Expertise erlaubt es dir, Spuren schneller zu verfolgen als durchschnittliche Jäger.
@@ -1044,14 +1044,14 @@ Einer Spur zu folgen ist für dich so normal wie atmen. Du bist ein erfahrener W
 **Effekt**  
 Du bewegst dich unbehindert und mit voller Geschwindigkeit, wenn du ein Ziel verfolgst.
 
-> Tags: Außergewöhnlich, Beweglichkeit, Wahrnehmung
+> Tags: Außergewöhnlich, Geschicklichkeit, Wahrnehmung
 
 ___
 ### Spurenlos
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 3 / Wandlung 3 / Einfluss 3
+- **Rang 1:** Geschicklichkeit 3 / Wandlung 3 / Einfluss 3
 
 **Beschreibung**  
 Ob aufgrund von Ranken, die in deinem Pfad wachsen, einem magischen Schutz gegen Aufklärung oder illusorischem Nebel, der Effekt ist der gleiche: Du bist davor geschützt, verfolgt zu werden.
@@ -1081,7 +1081,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 4
+- **Rang 1:** Geschicklichkeit 4
 
 **Beschreibung**  
 Wie ein Assassine oder Ninja kannst du verhindern, dass Feinde andere zu Hilfe rufen können. Das könnte sich als Wurfdart in der Luftröhre, Würgestrick um den Hals oder verzaubertes Tuch über dem Mund ausdrücken.
@@ -1089,7 +1089,7 @@ Wie ein Assassine oder Ninja kannst du verhindern, dass Feinde andere zu Hilfe r
 **Effekt**  
 Wann immer du mit einer Waffe mit der Eigenschaft <em>Defensiv</em> einem Ziel Schaden zufügst, das die Attacke nicht hat kommen sehen oder sonst unvorbereitet darauf war, erleidet es automatisch den Harm <em>Verstummt</em>. Du könntest vor dem Ziel versteckt sein, dich als Freund verkleidet oder es erfolgreich getäuscht haben.
 
-> Tags: Beweglichkeit, Körperlich
+> Tags: Geschicklichkeit, Körperlich
 
 ___
 ### Stählerner Wille (I - III)
@@ -1113,8 +1113,8 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 6 & Fertigkeit: Tödlicher Schlag I
-- **Rang 2:** Beweglichkeit 7 & Fertigkeit: Tödlicher Schlag III
+- **Rang 1:** Geschicklichkeit 6 & Fertigkeit: Tödlicher Schlag I
+- **Rang 2:** Geschicklichkeit 7 & Fertigkeit: Tödlicher Schlag III
 
 **Beschreibung**  
 Du kannst effizient Feinde töten, die dem Ende nahe sind und ihre Todesschreie verhindern. Diese Art Angriff wird oft unter Schurken, Assassinen und Snipern gefunden, die ihre Feinde still niederstrecken, ohne Aufmerksamkeit auf sich zu ziehen. 
@@ -1132,15 +1132,15 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 3
-- **Rang 2:** Beweglichkeit 3
-- **Rang 3:** Beweglichkeit 3
-- **Rang 4:** Beweglichkeit 5
-- **Rang 5:** Beweglichkeit 5
-- **Rang 6:** Beweglichkeit 5
-- **Rang 7:** Beweglichkeit 7
-- **Rang 8:** Beweglichkeit 7
-- **Rang 9:** Beweglichkeit 7
+- **Rang 1:** Geschicklichkeit 3
+- **Rang 2:** Geschicklichkeit 3
+- **Rang 3:** Geschicklichkeit 3
+- **Rang 4:** Geschicklichkeit 5
+- **Rang 5:** Geschicklichkeit 5
+- **Rang 6:** Geschicklichkeit 5
+- **Rang 7:** Geschicklichkeit 7
+- **Rang 8:** Geschicklichkeit 7
+- **Rang 9:** Geschicklichkeit 7
 
 **Beschreibung**  
 Hochtrainierte Sniper, legendäre Ninja oder Nahkampfderwische können Feinde mit präzise platzierten Vorstößen ausschalten, wenn sie sie kalt erwischen.
@@ -1151,7 +1151,7 @@ Deine Angriffe werden als Tödlicher Schlag gewertet, wenn <em>mindestens eine</
 <li>Dein Ziel ist überrascht oder sieht den Angriff anderweitig nicht kommen, z.B. wenn du vor ihm versteckt, als Freund verkleidet bist oder es erfolgreich getäuscht hast.</li>
 <li>Dein Ziel ist in Nahkampfreichweite eines Verbündeten.</li>
 </ul>
-Du hast Vorteil auf Tödliche Schläge mit Vorteil-Level gleich deines Ranges in dieser Fertigkeit. Weiterhin wird ein Teil des Schadens (nie mehr als der Gesamtschaden) als tödlicher Schaden zugefügt, was ihn schwieriger zu heilen macht (siehe [Kapitel 7: Kampf](./Kapitel-7_Kampf.md)).
+Du hast Vorteil auf Tödliche Schläge mit Vorteil-Level gleich deines Ranges in dieser Fertigkeit. Weiterhin wird ein Teil des Schadens (nie mehr als der Gesamtschaden) als tödlicher Schaden zugefügt, was ihn schwieriger zu heilen macht (siehe [Kapitel 7: Kampf](./../Kapitel-7_Kampf.md)).
 <ul>
 <li><strong>Rang 1</strong> - Vorteil 1. Bis zu 5 tödlicher Schaden.</li>
 <li><strong>Rang 2</strong> - Vorteil 2. Bis zu 5 tödlicher Schaden.</li>
@@ -1164,7 +1164,7 @@ Du hast Vorteil auf Tödliche Schläge mit Vorteil-Level gleich deines Ranges in
 <li><strong>Rang 9</strong> - Vorteil 9. Bis zu 25 tödlicher Schaden.</li>
 </ul>
 
-> Tags: Außergewöhnlich, Beweglichkeit, Kampf
+> Tags: Außergewöhnlich, Geschicklichkeit, Kampf
 
 ___
 ### Unabdingbare Trance
@@ -1419,9 +1419,9 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
-- **Rang 2:** Beweglichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
-- **Rang 3:** Beweglichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
+- **Rang 1:** Geschicklichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
+- **Rang 2:** Geschicklichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
+- **Rang 3:** Geschicklichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
 
 **Beschreibung**  
 Deine erhöhte Aufmerksamkeit auf dem Schlachtfeld bedeutet, dass es fast unmöglich ist, dich zu überraschen und du immer bereit bist, dich und deine Verbündeten zu verteidigen. Diese Fertigkeit ist verbreitet bei Charakteren wie Bodyguards, Zauberern und psychischen Schutzbefohlenen.
@@ -1451,7 +1451,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 7 / Kraft 7 / Energie 7 / Vergehen 7
+- **Rang 1:** Geschicklichkeit 7 / Kraft 7 / Energie 7 / Vergehen 7
 
 **Beschreibung**  
 Im Kampfgetümmel wirst du zu einer zestörerischen Kraft, die ihresgleichen sucht. Ob du ein rasender Barbar bist oder ein ultra-konzentrierter intergalaktischer Fechter, deine Angriffe werden besonders gefährlich, wenn du in Kampftrance verfällst.
@@ -1466,7 +1466,7 @@ ___
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
+- **Rang 1:** Geschicklichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
 
 **Beschreibung**  
 Deine Expertise mit einer bestimmten Fernkampfwaffe oder außergewöhnlichen Macht erlaubt es dir, Feinde auf extremer Distanz anzugreifen. Diese Fertigkeit findet man bei Snipern, Kampfpiloten und Kriegsmagiern.
@@ -1485,7 +1485,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 4 & Kraft 5 & Fertigkeit: Multiangriffsspezialisierung
+- **Rang 1:** Geschicklichkeit 4 & Kraft 5 & Fertigkeit: Multiangriffsspezialisierung
 
 **Beschreibung**  
 Du bist stark als auch schnell und in der Lage, in einer Hand Waffen zu führen, für die andere beide Hände benötigen würden. Gute Beispiele dieser Fertigkeit im Spiel sind orkische Barbaren, die in einer Hand eine Großaxt und in der anderen einen Schild führen oder ein Überlebender in der Zombie-Apokalypse, der zwei Kettensägen führt.
@@ -1493,14 +1493,14 @@ Du bist stark als auch schnell und in der Lage, in einer Hand Waffen zu führen,
 **Effekt**  
 Du kannst Waffen mit der Eigenschaft <em>zweihändig</em> in einer Hand führen und erhälst die Vorteile sowohl der <em>einhändig</em> als auch <em>zweihändig</em> Eigenschaften. Das bedeutet, dass du insgesamt Vorteil 2 erhälst, wenn du eine zweihändige Waffe in jeder Hand führst, Vorteil 1 von der Kraft zweihändiger Waffen und Vorteil 1 davon, dass du in jeder Hand eine Waffe führst.
 
-> Tags: Kampf, Körperlich, Beweglichkeit, Kraft
+> Tags: Kampf, Körperlich, Geschicklichkeit, Kraft
 
 ___
 ### Zweiwaffenverteidigung
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Beweglichkeit 4 & Fertigkeit: Angriffsspezialisierung
+- **Rang 1:** Geschicklichkeit 4 & Fertigkeit: Angriffsspezialisierung
 
 **Beschreibung**  
 Deine Meisterschaft im Kämpfen mit zwei Waffen erlaubt es dir, Feinde nicht nur mit blitzschnellen Angriffen einzudecken, sondern dich auch exzellent durch das Abwenden von Schlägen zu verteidigen. Duelisten, Waldläufer und Raumpiraten sind Konzepte, zu denen diese Fertigkeit gut passen könnte.
@@ -1508,7 +1508,7 @@ Deine Meisterschaft im Kämpfen mit zwei Waffen erlaubt es dir, Feinde nicht nur
 **Effekt**  
 Wenn du eine Waffe, für die du die Fertigkeit <em>Angriffsspezialisierung</em> erworben hast, in jeder Hand führst, erhälst du +1 Rüstungsbonus auf deine Deckung.
 
-> Tags: Kampf, Körperlich, Beweglichkeit
+> Tags: Kampf, Körperlich, Geschicklichkeit
 
 ___
 ### Zäh wie Leder (I - II)

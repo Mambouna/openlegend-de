@@ -13,13 +13,13 @@ Als erstes musst du erkennen, dass nicht alle Vorkommnisse von Gewalt in deinem 
 ## Den Kampf beginnen
 Wenn der GM angibt, dass ein Kampf beginnt, wird das Spiel in Runden aufgeteilt. Jede Runde repräsentiert um die 6 Sekunden an Zeit und alle Charaktere und Kreaturen erhalten einen Zug pro Runde. Bevor der Kampf beginnt, müssen aber noch zwei Dinge getan werden: Überraschung feststellen und Initiative werfen.
 ### Überraschung feststellen
-In jedem Kampf können einer oder mehrere der Beteiligten überrascht sein, falls ihre Feinde sie unerwartet angreifen. Beispielsweise könnte eine Bande Banditen auf einem felsigen Pfad einen Hinterhalt für die Spielergruppe legen. Der GM lässt die Spielenden einen bestrittenen Wahrnehmungswurf gegen den Beweglichkeitswurf der Banditen machen. Alle Spieler\*innen, die ihren Wurf nicht bestehen, sind überrascht. Der GM kann auch selbst entscheiden, ob einige oder alle Kämpfenden überrascht sind.
+In jedem Kampf können einer oder mehrere der Beteiligten überrascht sein, falls ihre Feinde sie unerwartet angreifen. Beispielsweise könnte eine Bande Banditen auf einem felsigen Pfad einen Hinterhalt für die Spielergruppe legen. Der GM lässt die Spielenden einen bestrittenen Wahrnehmungswurf gegen den Geschicklichkeitswurf der Banditen machen. Alle Spieler\*innen, die ihren Wurf nicht bestehen, sind überrascht. Der GM kann auch selbst entscheiden, ob einige oder alle Kämpfenden überrascht sind.
 
 Überraschte Charaktere handeln immer nach nicht-überraschten Charakteren, wie in den Regeln zur Initiative erklärt wird. Weiterhin kann ein überraschter Charakter keine Unterbrechungsaktionen ausführen und alle Angriffe gegen ihn haben Vorteil 1, bis er seinen ersten Zug hatte.
 ### Initiative werfen
-Nachdem Überraschung festgestellt wurde, würfelt jeder Kampfbeteiligte einen Beweglichkeitswurf. Das Ergebnis des Wurfs ist der Initiativewert der Person. Der GM kann entscheiden, einen Wurf für eine Gruppe von Charakteren oder Kreaturen zu machen, anstatt für jeden einzelnen NPC individuell Initiative festzustellen.
+Nachdem Überraschung festgestellt wurde, würfelt jeder Kampfbeteiligte einen Geschicklichkeitswurf. Das Ergebnis des Wurfs ist der Initiativewert der Person. Der GM kann entscheiden, einen Wurf für eine Gruppe von Charakteren oder Kreaturen zu machen, anstatt für jeden einzelnen NPC individuell Initiative festzustellen.
 
-Im Kampf führen Charaktere ihre Züge in der Reihenfolge vom höchsten Initiativewert zum niedrigsten aus. Wenn es Gleichstand gibt, handeln Charaktere mit höherem Beweglichkeitsattribut zuerst. Falls die Beweglichkeitswerte auch gleich sind, bestimmt man die Reihenfolge zufällig.
+Im Kampf führen Charaktere ihre Züge in der Reihenfolge vom höchsten Initiativewert zum niedrigsten aus. Wenn es Gleichstand gibt, handeln Charaktere mit höherem Geschicklichkeitsattribut zuerst. Falls die Geschicklichkeitswerte auch gleich sind, bestimmt man die Reihenfolge zufällig.
 
 **Anmerkung:** Falls ein Charakter eine Waffe mit der Eigenschaft *schnell* zum Beginn des Kampfes führt, erhält er Vorteil 2 auf den Initiativewurf. Ein Charakter kann diesen Bonus auch erhalten, wenn er die Waffe noch nicht gezogen hat, aber dann muss er die Waffe im ersten Zug auch ziehen.
 
@@ -28,13 +28,13 @@ Falls Charaktere überrascht sind, werden zwei Reihenfolgen der Initiative gefü
 > ### Beispiel für Initiative und Überraschung
 > Zak und Jalani erkunden die Absturzstelle eines Armada-Sternenkreuzers nach Bergungsgütern, als sie von einem Pack Schwerkraftwürmern aus dem Hinterhalt angegriffen werden.
 > 
-> Zak und Jalani werfen auf ihre Beweglichkeit, um ihre Initiative festzustellen und der GM wirft einmal für die ganze Gruppe Würmer. Jalani legt fest, dass sie ihre Las-Pistole ziehen wird, die die *schnell*-Eigenschaft hat, sodass sie Vorteil 2 auf ihren Initiativewurf erhält. Zak im Moment des Angriffs dabei, durch einen Schrank zu wühlen, sodass der GM entscheidet, dass er überrascht ist.
+> Zak und Jalani werfen auf ihre Geschicklichkeit, um ihre Initiative festzustellen und der GM wirft einmal für die ganze Gruppe Würmer. Jalani legt fest, dass sie ihre Las-Pistole ziehen wird, die die *schnell*-Eigenschaft hat, sodass sie Vorteil 2 auf ihren Initiativewurf erhält. Zak im Moment des Angriffs dabei, durch einen Schrank zu wühlen, sodass der GM entscheidet, dass er überrascht ist.
 > 
-> *Zak (Beweglichkeit 2) wirft 1d20 + 1d6 und erhält 14.*
+> *Zak (Geschicklichkeit 2) wirft 1d20 + 1d6 und erhält 14.*
 > 
-> *Jalani (Beweglichkeit 4) wirft 1d20 + 3d10 (wobei sie den höchsten d10 behält) und bekommt 25.*
+> *Jalani (Geschicklichkeit 4) wirft 1d20 + 3d10 (wobei sie den höchsten d10 behält) und bekommt 25.*
 > 
-> *Die Schwerkraftwürmer (Beweglichkeit 3) rollen 1d20 + 1d8 und haben als Ergebnis 11.*
+> *Die Schwerkraftwürmer (Geschicklichkeit 3) rollen 1d20 + 1d8 und haben als Ergebnis 11.*
 > 
 > Die Reihenfolge der Initiative ist wie folgt:
 > #### Nicht überraschte Kämpfende
@@ -90,9 +90,9 @@ Diese drei Schritte werden noch in größerem Detail erklärt.
 ##### Attribut vs. Verteidigung feststellen
 Als erstes musst du das sinnvollste Attribut für die Art deines Angriffs feststellen. Jede Attacke ist entweder körperlich oder außergewöhnlich.
 
-**Körperliche Angriffe** verwenden Waffen, Klauen, Zähne oder jede andere Art an natürlichem Weg, Schaden anzurichten, die sich generell auf die Beweglichkeit oder Kraft eines Angreifers verlassen. Wenn man mit einer Waffe angreift, bestimmt die Eigenschaft *Kraftvoll* oder *Präzise*, welches Attribut genutzt werden kann.
+**Körperliche Angriffe** verwenden Waffen, Klauen, Zähne oder jede andere Art an natürlichem Weg, Schaden anzurichten, die sich generell auf die Geschicklichkeit oder Kraft eines Angreifers verlassen. Wenn man mit einer Waffe angreift, bestimmt die Eigenschaft *Kraftvoll* oder *Präzise*, welches Attribut genutzt werden kann.
 
-**Nicht-körperliche Angriffe** sind solche, die Attribute abgesehen von Kraft und Beweglichkeit nutzen, zum Beispiel durch das Beschwören einer Flammenkugel mit Energie oder dem Auslösen einer Falle mit Logik. Ein Charakter kann einen Angriff mit einem außergewöhnlichen Attribut machen, wenn er mindestens einen Wert von 1 im jeweiligen Attribut hat.
+**Nicht-körperliche Angriffe** sind solche, die Attribute abgesehen von Kraft und Geschicklichkeit nutzen, zum Beispiel durch das Beschwören einer Flammenkugel mit Energie oder dem Auslösen einer Falle mit Logik. Ein Charakter kann einen Angriff mit einem außergewöhnlichen Attribut machen, wenn er mindestens einen Wert von 1 im jeweiligen Attribut hat.
 
 Sobald du das Attribut gewählt hast, mit dem du angreifst, musst du die passende Verteidigung (Deckung, Zähigkeit, Entschlossenheit) wählen, gegen die der Angriff als HW gemessen wird.
 
@@ -106,7 +106,7 @@ Nicht-körperliche Angriffe können verschiedene Arten von Verteidigung betreffe
 > #### Ein Attribut wählen, mit dem man Schaden zufügt
 > Kampf in Open Legend ist ein Getümmel aus Aktionswürfen, während die Klingen blitzen, Fallen aktiviert werden und Laser herumfliegen. Aufgrund der freien Natur der Geschichtserzählung, kann es aber vorkommen, dass du nicht weißt, welches Attribut du für einen Angriff nutzen kannst.
 > ##### Immer
-> Einige Attribute kann man so gut wie immer benutzen, um Schaden zuzufügen. Darunter sind Kraft, Beweglichkeit, Energie und Vergehen. Sie sind der Normalfall für das Schwingen von Waffen, schießen von Gewehren, wirken von Zaubern, entziehen von Lebenskraft, usw. ...
+> Einige Attribute kann man so gut wie immer benutzen, um Schaden zuzufügen. Darunter sind Kraft, Geschicklichkeit, Energie und Vergehen. Sie sind der Normalfall für das Schwingen von Waffen, schießen von Gewehren, wirken von Zaubern, entziehen von Lebenskraft, usw. ...
 > ##### Manchmal
 > Manche Attribute können unter bestimmten Umständen benutzt werden, um Angriffe auszuführen, die Schaden zufügen. Hier sollte aus der Geschichte hervorgehen, wie das Können in einem Attribut dazu beiträgt, den Schaden anzurichten. Diese Attribute umfassen Logik, Schutz, Wandlung, Einfluss und Bewegung. Obwohl die Gelegenheiten zum Zufügen von Schaden mit diesen Attributen selten sein können, sind sie verfügbar, wenn die Story es erlaubt. Einige Beispiele für Umstände, in denen diese Attribute für Attacken benutzt werden können, werden aufgeführt:
 > 
@@ -188,13 +188,13 @@ Anstatt zu versuchen, einem Ziel Schaden zuzufügen, kannst du dich stattdessen 
 Einen Harmangriff abzuhandeln funktioniert ähnlich, wie einen Angriff mit Schaden auszuführen:
 
 1. **Attribut vs. Verteidigung feststellen.** Die [Harmbeschreibung](./lists/harme.md) gibt an, welche Attribute für den Harm benutzt werden können und gegen welche Verteidigung sie gehen.
-2. **Ziel auswählen.** Ein Ziel für einen Harm auszuwählen funktioniert genauso, wie bei einem Angriff mit Schaden, auch im Fall von Multi-Zielen. Harme mit Beweglichkeit oder Kraft als Attribut benötigen zum Ausführen eine Waffe oder natürliche Angriffsmöglichkeit, sodass ihre Reichweite auf die der genutzten Angriffsmethode beschränkt ist.
+2. **Ziel auswählen.** Ein Ziel für einen Harm auszuwählen funktioniert genauso, wie bei einem Angriff mit Schaden, auch im Fall von Multi-Zielen. Harme mit Geschicklichkeit oder Kraft als Attribut benötigen zum Ausführen eine Waffe oder natürliche Angriffsmöglichkeit, sodass ihre Reichweite auf die der genutzten Angriffsmethode beschränkt ist.
 3. **Wirf deinen Angriffswurf.** Wirf einen Aktionswurf mit dem passenden Attribut. Falls das Ergebnis die Verteidigung deines Ziels trifft oder überschreitet, erleidet das Ziel den Harm.
 
 > ##### Beispielhafte Harmattacken
-> Takeo ist schwer verwundet und braucht eine Chance, dem Samurai zu entfliehen, der ihn gnadenlos bedrängt. Mit einem clever platzierten Schlangenschlag versucht der Mönch, den gepanzerten Ritter zu blenden. Takeo wirkt den Harm über eine Nahkampfattacke, die auf einen einzelnen Feind zielt, sodass er einen Attributwurf auf Beweglichkeit 5 gegen die Deckung des Samurais von 18 wirft. Der Mönch rollt 1d20 + 2d6 und erhält als Ergebnis 20, sodass der Gegner nun unter *Geblendet* leidet.
+> Takeo ist schwer verwundet und braucht eine Chance, dem Samurai zu entfliehen, der ihn gnadenlos bedrängt. Mit einem clever platzierten Schlangenschlag versucht der Mönch, den gepanzerten Ritter zu blenden. Takeo wirkt den Harm über eine Nahkampfattacke, die auf einen einzelnen Feind zielt, sodass er einen Attributwurf auf Geschicklichkeit 5 gegen die Deckung des Samurais von 18 wirft. Der Mönch rollt 1d20 + 2d6 und erhält als Ergebnis 20, sodass der Gegner nun unter *Geblendet* leidet.
 > ___
-> Von einer schnell wachsenden Horde Zombies umzingelt, lädt Selene ihre abgesägte Schrotflinte nach und bereitet sich vor, sich ihren Weg freizuschießen und um ihr Leben zu rennen. Ihre Waffe gibt ihr in dieser Situation drei Vorzüge: die Option, eine 10' Kegel-Attacke ohne Nachteil zu nutzen, Vorteil 1 auf den Harm *Erzwungene Bewegung* und die Möglichkeit, *Erzwungene Bewegung* auf einem Kraftlevel um eins höher als ihren Attributwert zu nutzen. Da sie die Zombies nur aus dem Weg schaffen will, greift sie 3 von ihnen (die Anzahl Ziele mit einem 10' Kegel) mit der Harmattacke *Erzwungene Bewegung* an. Selenes Beweglichkeit hat den Wert 5, sodass sie normalerweise 1d20 + 2d6 werfen würde, aber aufgrund ihrer Schrotflinte hat sie Vorteil 1 auf den Wurf. Sie nutzt also 1d20 + 3d6 (den niedrigsten Würfel entfernend) und erhält ein Ergebnis von 23, womit sie mit Leichtigkeit die Deckung der Zombies von 15 übertrifft. Da die Schrotflinte sie den Harm außerdem auf einem Kraftlevel eins höher wirken lässt, als ihr Attribut normalerweise zulassen würde, kann sie den Harm *Erzwungene Bewegung* auf Kraftlevel 6 anwenden (eins über ihrem Beweglichkeitswert 5). Selene fegt die Zombies vor sich 15' von sich und fängt an, um ihr Leben zu laufen.
+> Von einer schnell wachsenden Horde Zombies umzingelt, lädt Selene ihre abgesägte Schrotflinte nach und bereitet sich vor, sich ihren Weg freizuschießen und um ihr Leben zu rennen. Ihre Waffe gibt ihr in dieser Situation drei Vorzüge: die Option, eine 10' Kegel-Attacke ohne Nachteil zu nutzen, Vorteil 1 auf den Harm *Erzwungene Bewegung* und die Möglichkeit, *Erzwungene Bewegung* auf einem Kraftlevel um eins höher als ihren Attributwert zu nutzen. Da sie die Zombies nur aus dem Weg schaffen will, greift sie 3 von ihnen (die Anzahl Ziele mit einem 10' Kegel) mit der Harmattacke *Erzwungene Bewegung* an. Selenes Geschicklichkeit hat den Wert 5, sodass sie normalerweise 1d20 + 2d6 werfen würde, aber aufgrund ihrer Schrotflinte hat sie Vorteil 1 auf den Wurf. Sie nutzt also 1d20 + 3d6 (den niedrigsten Würfel entfernend) und erhält ein Ergebnis von 23, womit sie mit Leichtigkeit die Deckung der Zombies von 15 übertrifft. Da die Schrotflinte sie den Harm außerdem auf einem Kraftlevel eins höher wirken lässt, als ihr Attribut normalerweise zulassen würde, kann sie den Harm *Erzwungene Bewegung* auf Kraftlevel 6 anwenden (eins über ihrem Geschicklichkeitswert 5). Selene fegt die Zombies vor sich 15' von sich und fängt an, um ihr Leben zu laufen.
 > ___
 > Zarthakis, der große Wyrm, wird von 4 Abenteurern umringt. Er entfaltet seine mächtigen Schwingen und gibt ein schreckliches Brüllen von sich, mit dem er den Harm *Demoralisiert* mit seinem Präsenz-Attribut zufügen will. Die Präsenz des Drachen ist 8, sodass er eine Reichweite von 75' hat, was ohne Probleme für alle Abenteurer reicht. Weil Zarthakis 4 Gegner durch Multi-Zielen angreift, erhält er Nachteil 4 auf seinen Wurf. Normalerweise würde er 1d20 + 3d8 werfen, aber aufgrund des Nachteils wirft er 1d20 + 7d8 (wobei die vier höchsten Würfel verfallen). Sein Endwert ist 22, was er jeweils mit der Entschlossenheit-Verteidigung der Helden vergleicht. Die Charaktere haben Entschlossenheit von 14, 17, 22 und 25. Der Drache fügt drei der vier Abenteurer *Demoralisiert* zu.
 #### Ein Wohl wirken
@@ -237,7 +237,7 @@ Spezielle Bewegungen umfassen Klettern, Springen, Schwimmen und andere Bewegungs
 - **Bei einem Weitsprung** springst du eine Distanz gleich deinem Wurfergebnis in Fuß.
 - **Bei einem Hochsprung** springst du eine Höhe gleich deinem Wurfergebnis geteilt durch 2 in Fuß.
 
-**Klettern.** Du kletterst mit der Hälfte deiner normalen Geschwindigkeit. Der GM kann nach eigener Erwägung Kraft- oder Beweglichkeitswürfe fordern, falls die Situation ausreichend gefährlich ist.
+**Klettern.** Du kletterst mit der Hälfte deiner normalen Geschwindigkeit. Der GM kann nach eigener Erwägung Kraft- oder Geschicklichkeitswürfe fordern, falls die Situation ausreichend gefährlich ist.
 
 **Schwimmen.** Du schwimmst mit der Hälfte deiner normalen Geschwindigkeit. Der GM kann nach eigener Erwägung Kraft- oder Zähigkeitswürfe fordern, falls du eine weite Distanz, gegen den Strom oder in anderen gefährlichen Umständen schwimmst.
 #### Harmen widerstehen
@@ -289,7 +289,7 @@ Du kannst eine Unterbrechungsaktion nutzen, um die folgenden zwei Dinge zu tun:
 - Verteidigen
 - Improvisieren
 #### Verteidigen
-Du kannst eine Verteidigungsaktion nutzen, nachdem ein Gegner einen erfolgreichen Angriffswurf gegen dich oder einen Verbündeten geworfen hat, um zu versuchen, dagegen zu verteidigen. Beschreibe, wie du verteidigen willst und mache dann einen Aktionswurf mit einem passenden Attribut (Schutz, Beweglichkeit und Kraft sind typische Beispiele für Attribute, mit denen man verteidigen kann). Eine Verteidigungsaktion kann nur ein einziges Ziel verteidigen.
+Du kannst eine Verteidigungsaktion nutzen, nachdem ein Gegner einen erfolgreichen Angriffswurf gegen dich oder einen Verbündeten geworfen hat, um zu versuchen, dagegen zu verteidigen. Beschreibe, wie du verteidigen willst und mache dann einen Aktionswurf mit einem passenden Attribut (Schutz, Geschicklichkeit und Kraft sind typische Beispiele für Attribute, mit denen man verteidigen kann). Eine Verteidigungsaktion kann nur ein einziges Ziel verteidigen.
 
 Falls dein Attributwurf ein höheres Ergebnis hat als der Verteidigungswert, gegen den der Angriffswurf des Gegners ging, ersetze den Verteidigungswert für diesen Angriff durch dein Ergebnis. (**Merke:** Charaktere, die eine Waffe mit der *Defensiv*-Eigenschaft führen, haben Vorteil anhand des *Defensiv*-Wertes beim Aktionswurf zum Verteidigen).
 
@@ -298,7 +298,7 @@ Einmal pro Runde kannst du dich als Teil deiner Verteidigen-Aktion bis zur Hälf
 > #### Beispiel für Verteidigen
 > Vera ist dem Tod nahe, als der Flusstroll auf sie zuspringt. Der Troll wirft eine 23 gegen Veras Deckung von 17, also benutzt sie eine Verteidigungsaktion, um den Arm des Trolls aufzuhalten, bevor er sie zerfleischt. Vera wirft auf Kraft und erhält 20, sodass ihr Wurf ihren Verteidigungswert ersetzt. Sie erleidet 3 Schaden, anstatt von 6. Weil Verteidigen eine Unterbrechungsaktion ist, kann Vera in ihrem nächsten normalen Zug keine große Aktion nutzen.
 > ___
-> Eine Granate landet zwischen Zak und Tomlinson. Der Angriff mit der Granate hat als Wurfergebnis 25 gegen die Deckung der beiden von 12 und 18, sodass sie 13 und 7 Schaden zufügen könnte. Tomlinson benutzt eine Verteidigungsaktion um sich um die Hälfte seiner Geschwindigkeit zu bewegen (15 Fuß) und nimmt Zak dabei mit. Daraufhin führt er einen Beweglichkeitswurf aus, um seinen Verbündeten zu schützen. Tomlinson führt einen Riot-Schild, sodass er auf den Wurf Vorteil 2 hat und bekommt am Ende 26 als Ergebnis. Zak nimmt keinen Schaden. Weil die Verteidigungsaktion aber nur eine Person schützen kann, nimmt Tomlinson trotzdem 7 Schaden. Aufgrund der Unterbrechungsaktion wird Tomlinson in seinem nächsten Zug keine große Aktion haben.
+> Eine Granate landet zwischen Zak und Tomlinson. Der Angriff mit der Granate hat als Wurfergebnis 25 gegen die Deckung der beiden von 12 und 18, sodass sie 13 und 7 Schaden zufügen könnte. Tomlinson benutzt eine Verteidigungsaktion um sich um die Hälfte seiner Geschwindigkeit zu bewegen (15 Fuß) und nimmt Zak dabei mit. Daraufhin führt er einen Geschicklichkeitswurf aus, um seinen Verbündeten zu schützen. Tomlinson führt einen Riot-Schild, sodass er auf den Wurf Vorteil 2 hat und bekommt am Ende 26 als Ergebnis. Zak nimmt keinen Schaden. Weil die Verteidigungsaktion aber nur eine Person schützen kann, nimmt Tomlinson trotzdem 7 Schaden. Aufgrund der Unterbrechungsaktion wird Tomlinson in seinem nächsten Zug keine große Aktion haben.
 #### Improvisieren
 Du kannst eine Unterbrechungsaktion auch benutzen, um eine improvisierte Reaktion auf eine Situation im Kampf zu machen. Falls eine Verbündete zum Beispiel von einer Klippe fällt, kannst du eine Unterbrechungsaktion nutzen, um das Wohl *Fliegen* zu wirken um sie zu retten oder ihr hinterherzuspringen und gerade noch ihre Hand zu greifen. Improvisierte Unterbrechungsaktionen sollten normalerweise nicht-offensive Handlungen sein, die Verbündeten helfen. Sie sollten die Geschichte unterstützen. Der GM kann entscheiden, eine Improvisation, die nicht zur Handlung passt, zu untersagen.
 ### Kostenlose Aktionen
@@ -309,7 +309,7 @@ Deine Trefferpunkte (TP) sind eine abstrakte Repräsentation deiner Fähigkeit, 
 Wenn du von einer Attacke mit Schaden getroffen wirst, während du ohnmächtig, unbeweglich oder sonst nicht in der Lage bist, dich zu verteidigen, zählt der Angriff als *Gnadenstoß* und kann sofortigen Tod bedeuten. Deine Verteidigung gegen einen Gnadenstoß erhält keinerlei Boni durch deine Attribute (berechne deinen Verteidigungswert, ohne Attributwerte einzubeziehen). Weiterhin musst du, wann immer dir ein Gnadenstoß Schaden zufügt, einen Zähigkeitswurf gegen HW 10 + den zugefügten Schaden machen. Falls der Wurf fehlschlägt, stirbst du.
 
 > #### Beispiel Gnadenstoß
-> Ulrics normale Deckung ist 20 (+3 Plattenpanzer, +5 Kraft, +2 Beweglichkeit). Da er aber ohnmächtig ist, als ein Assassine seine Kehle durchschlitzt, zählt dessen Angriff als *Gnadenstoß*. Gegen diese Attacke kann Ulric seine Verteidigung nicht nutzen, sodass seine Deckung auf 13 reduziert ist (+3 Plattenpanzer zählt weiterhin). Der Assassine wirft eine 22 und fügt Ulric damit 9 Schaden zu. Weiterhin muss Ulric einen Zähigkeitswurf mit HW 19 erfolgreich bestehen, sonst stirbt er.
+> Ulrics normale Deckung ist 20 (+3 Plattenpanzer, +5 Kraft, +2 Geschicklichkeit). Da er aber ohnmächtig ist, als ein Assassine seine Kehle durchschlitzt, zählt dessen Angriff als *Gnadenstoß*. Gegen diese Attacke kann Ulric seine Verteidigung nicht nutzen, sodass seine Deckung auf 13 reduziert ist (+3 Plattenpanzer zählt weiterhin). Der Assassine wirft eine 22 und fügt Ulric damit 9 Schaden zu. Weiterhin muss Ulric einen Zähigkeitswurf mit HW 19 erfolgreich bestehen, sonst stirbt er.
 ### Null Trefferpunkte erreichen
 Wenn deine TP auf 0 sinken, fällst du in Ohnmacht. Deine TP können nicht unter 0 fallen. Während du ohnmächtig bist, bist du hilflos und alle Angriffe gegen dich zählen als Gnadenstöße. Jede Art von Heilung, die deine TP auf über 0 anhebt, bringt dich auch wieder zu Bewusstsein.
 ### Nach einem Kampf heilen

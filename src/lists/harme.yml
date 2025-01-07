@@ -14,7 +14,7 @@
   - 8
   - 9
   attackAttributes:
-  - Beweglichkeit
+  - Geschicklichkeit
   - Energie
   - Vergehen
   OGattackAttributes:
@@ -22,7 +22,7 @@
   - Energy
   - Entropy
   attack:
-  - Beweglichkeit vs. Deckung
+  - Geschicklichkeit vs. Deckung
   - Energie vs. Deckung
   - Vergehen vs. Zähigkeit
   invocationTime: 1 große Aktion
@@ -126,7 +126,7 @@
   power:
   - 4
   attackAttributes:
-  - Beweglichkeit
+  - Geschicklichkeit
   - Energie
   - Vergehen
   - Kraft
@@ -136,7 +136,7 @@
   - Entropy
   - Might
   attack:
-  - Beweglichkeit vs. Zähigkeit
+  - Geschicklichkeit vs. Zähigkeit
   - Energie vs. Zähigkeit
   - Vergehen vs. Zähigkeit
   - Kraft vs. Zähigkeit
@@ -147,7 +147,7 @@
   effect: |
     Im Ziel kann in seinem Zug nur eine einzige große Aktion, Bewegungsaktion oder kleine Aktion ausführen. Effekte, die dem Ziel zusätzliche Aktionen geben, werden bis auf weitere kostenlose Aktionen neutrasiliert. Falls das Ziel erfolgreich mit seiner Bewegungsaktion dem Harm widersteht, erhält es den Rest seiner Aktionen schon im gleichen Zug zurück.
   special: |
-    Dieser Harm hat besondere Regeln für Boss-NPCs (siehe Kapitel 8: Das Spiel leiten). Ein Boss unterliegt dem Effekt von Betäubt nur in seinem normalen Zug in der Initiativereihenfolge. Er kann all seine Boss-Aktionen wie normal ausführen.
+    Dieser Harm hat besondere Regeln für Boss-NPCs (siehe [Kapitel 8: Das Spiel leiten](./../Kapitel-8_Das-Spiel-leiten.md)). Ein Boss unterliegt dem Effekt von Betäubt nur in seinem normalen Zug in der Initiativereihenfolge. Er kann all seine Boss-Aktionen wie normal ausführen.
 - !
   name: Bewusstlos
   OGname: Incapacitated
@@ -162,7 +162,7 @@
   - 7
   - 9
   attackAttributes:
-  - Beweglichkeit
+  - Geschicklichkeit
   - Vergehen
   - Einfluss
   OGattackAttributes:
@@ -170,7 +170,7 @@
   - Entropy
   - Influence
   attack:
-  - Beweglichkeit vs. Zähigkeit
+  - Geschicklichkeit vs. Zähigkeit
   - Vergehen vs. Zähigkeit
   - Einfluss vs. Entschlossenheit
   invocationTime: 1 große Aktion
@@ -233,7 +233,7 @@
   - 6
   - 8
   attackAttributes:
-  - Beweglichkeit
+  - Geschicklichkeit
   - Energie
   - Vergehen
   - Einfluss
@@ -249,7 +249,7 @@
   - Persuasion
   - Presence
   attack:
-  - Beweglichkeit vs. Entschlossenheit
+  - Geschicklichkeit vs. Entschlossenheit
   - Energie vs. Entschlossenheit
   - Vergehen vs. Entschlossenheit
   - Einfluss vs. Entschlossenheit
@@ -269,7 +269,7 @@
     </ul>
   special: |
     Diesem Harm zu Widerstehen ist eine kleine Aktion.
-    Wird dieser Harm durch Beweglichkeit oder Kraft gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus Kapitel 7: Kampf bestimmen.
+    Wird dieser Harm durch Geschicklichkeit oder Kraft gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus [Kapitel 7: Kampf](./../Kapitel-7_Kampf.md) bestimmen.
 - !
   name: Dominiert
   OGname: Dominated
@@ -315,7 +315,7 @@
   - 3
   - 6
   attackAttributes:
-  - Beweglichkeit
+  - Geschicklichkeit
   - Wandlung
   - Energie
   - Vergehen
@@ -331,7 +331,7 @@
   - Might
   - Movement
   attack:
-  - Beweglichkeit vs. Deckung
+  - Geschicklichkeit vs. Deckung
   - Wandlung vs. Deckung
   - Energie vs. Deckung
   - Vergehen vs. Zähigkeit
@@ -395,7 +395,7 @@
     <li><strong>Level 1</strong> - Das Ziel hat Nachteil 1 auf alle nicht-Angriffswürfe.</li>
     <li><strong>Level 2</strong> - Das Ziel erleidet den Harm Verlangsamt, sodass seine Geschwindigkeit halbiert ist. Diese Instanz des Harms kann nicht normal widerstanden werden. Er besteht, bis die Erschöpfung aufgelöst ist.</li>
     <li><strong>Level 3</strong> - Das Ziel hat Nachteil 1 auf alle Angriffswürfe.</li>
-    <li><strong>Level 4</strong> - Das Ziel verliert seine Attributboni auf Verteidigungswerte (Beweglichkeit und Kraft für Deckung, Konstitution und Willenskraft für Zähigkeit, Willenskraft und Präsenz für Entschlossenheit). Es behält Rüstungsboni, außergewöhnliche Boni und Boni durch Fertigkeiten.</li>
+    <li><strong>Level 4</strong> - Das Ziel verliert seine Attributboni auf Verteidigungswerte (Geschicklichkeit und Kraft für Deckung, Konstitution und Willenskraft für Zähigkeit, Willenskraft und Präsenz für Entschlossenheit). Es behält Rüstungsboni, außergewöhnliche Boni und Boni durch Fertigkeiten.</li>
     <li><strong>Level 5</strong> - Das Ziel verliert das Bewusstsein und ist hilflos. Da es nun zum Ausruhen gezwungen ist, verliert es einen Grad von Erschöpft alle 24 Stunden, außer die Umstände verhindern ein normales Ausruhen.</li>
     <li><strong>Level 6</strong> - Das Ziel stirbt.</li>
     </ul>
@@ -416,7 +416,7 @@
   - 6
   - 8
   attackAttributes:
-  - Beweglichkeit
+  - Geschicklichkeit
   - Energie
   - Kraft
   - Bewegung
@@ -426,7 +426,7 @@
   - Might
   - Movement
   attack:
-  - Beweglichkeit vs. Deckung
+  - Geschicklichkeit vs. Deckung
   - Energie vs. Deckung
   - Kraft vs. Deckung
   - Bewegung vs. Deckung
@@ -509,7 +509,7 @@
     In seinem Zug muss das betroffene Ziel seinen gesamten Zug nutzen, um sich so weit wie möglich von dir wegzubewegen. Es kann seine Aktionen zu nichts anderem verwenden und kann sich nicht willentlich näher zu dir bewegen, solange der Harm anhält.
   special: |
     Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel klar denken kann. Gleichzeitig kämpft der logische Teil des Geistes vom Ziel aber darum, die Kontrolle wiederzugewinnen. Am Ende jedes Zuges erhält das Ziel einen Widerstehenwurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel mit dem Widerstehen Erfolg, so ist es für die nächste Stunde gegen alle weiteren Versuche durch dich, ihm Furcht einzuflößen, immun.
-    Wird dieser Harm durch Kraft gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus Kapitel 7: Kampf bestimmen.
+    Wird dieser Harm durch Kraft gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus [Kapitel 7: Kampf](./../Kapitel-7_Kampf.md) bestimmen.
 - !
   name: Geblendet
   OGname: Blinded
@@ -522,7 +522,7 @@
   power:
   - 5
   attackAttributes:
-  - Beweglichkeit
+  - Geschicklichkeit
   - Schöpfung
   - Energie
   - Vergehen
@@ -532,7 +532,7 @@
   - Energy
   - Entropy
   attack:
-  - Beweglichkeit vs. Deckung
+  - Geschicklichkeit vs. Deckung
   - Schöpfung vs. Deckung
   - Energie vs. Deckung
   - Vergehen vs. Zähigkeit
@@ -619,7 +619,7 @@
   power:
   - 1
   attackAttributes:
-  - Beweglichkeit
+  - Geschicklichkeit
   - Wandlung
   - Schöpfung
   - Energie
@@ -637,7 +637,7 @@
   - Might
   - Movement
   attack:
-  - Beweglichkeit vs. Deckung
+  - Geschicklichkeit vs. Deckung
   - Wandlung vs. Deckung
   - Schöpfung vs. Zähigkeit
   - Energie vs. Zähigkeit
@@ -667,7 +667,7 @@
   power:
   - 1
   attackAttributes:
-  - Beweglichkeit
+  - Geschicklichkeit
   - Energie
   - Kraft
   - Bewegung
@@ -677,7 +677,7 @@
   - Might
   - Movement
   attack:
-  - Beweglichkeit vs. Deckung
+  - Geschicklichkeit vs. Deckung
   - Energie vs. Deckung
   - Kraft vs. Deckung
   - Bewegung vs. Deckung
@@ -756,9 +756,9 @@
   description: |
     Du änderst die Größe, Form oder Komposition des Ziels, indem du es wachsen oder schrumpfen lässt, oder ihm eine komplett neue Form gibst (z.B. ein Schaf oder Molch). Polymorph kann durch den Fluch eines Druiden, den Transmogrifizierungsstrahl eines verrückten Wissenschaftlers oder durch Verstrahlung mit außerirdischen Energien gewirkt werden.
   effect: |
-    Dein Kraftlevel bestimmt das Ausmaß, bis zu dem du dein Ziel verwandeln kannst. Falls das Ziel in eine andere Kreatur verwandelt wird, nutzt es die Kraft-, Beweglichkeits-, Konstituions- und Wahrnehmungswerte der neuen Kreatur.
+    Dein Kraftlevel bestimmt das Ausmaß, bis zu dem du dein Ziel verwandeln kannst. Falls das Ziel in eine andere Kreatur verwandelt wird, nutzt es die Kraft-, Geschicklichkeits-, Konstitutions- und Wahrnehmungswerte der neuen Kreatur.
     <ul>
-    <li><strong>Kraftlevel 5</strong> - Verwandle eine Kreatur in eine andere Kreatur gleicher Größe. Die neue Form kann die Attributwerte des Ziels um bis zu 2 reduzieren. Falls die neue Form höhere Attributwerte hätte, wird das Ziel ein außergewöhnliches Beispiel der Spezies. Verwandelt man einen tödlichen Sniper mit Beweglichkeit 5 in einen tumben Oger mit normaler Beweglichkeit 0, dann hat der Sniper-Oger am Ende untypische Beweglichkeit 3.</li>
+    <li><strong>Kraftlevel 5</strong> - Verwandle eine Kreatur in eine andere Kreatur gleicher Größe. Die neue Form kann die Attributwerte des Ziels um bis zu 2 reduzieren. Falls die neue Form höhere Attributwerte hätte, wird das Ziel ein außergewöhnliches Beispiel der Spezies. Verwandelt man einen tödlichen Sniper mit Geschicklichkeit 5 in einen tumben Oger mit normaler Geschicklichkeit 0, dann hat der Sniper-Oger am Ende untypische Geschicklichkeit 3.</li>
     <li><strong>Kraftlevel 6</strong> - Verwandle eine Kreatur in eine andere Kreatur von bis zu halber oder doppelter Größe. Die neue Form kann die Attributwerte des Ziels um bis zu 3 reduzieren.</li>
     <li><strong>Kraftlevel 8</strong> - Verwandle eine Kreatur in eine andere Kreatur von bis zu viertel oder vierfacher Größe. Alternativ kannst du die Kreatur in ein Objekt gleicher Größe verwandeln. Die neue Form kann die Attributwerte des Ziels um bis zu 5 reduzieren.</li>
     <li><strong>Kraftlevel 9</strong> - Verwandle eine Kreatur in eine andere Kreatur jeder beliebigen Größe. Alternativ kannst du die Kreatur in ein Objekt gleicher Größe verwandeln. Die neue Form kann die Attributwerte des Ziels um bis zu 7 reduzieren.</li>
@@ -781,7 +781,7 @@
   - 8
   - 9
   attackAttributes:
-  - Beweglichkeit
+  - Geschicklichkeit
   - Schöpfung
   - Täuschung
   - Energie
@@ -799,7 +799,7 @@
   - Persuasion
   - Presence
   attack:
-  - Beweglichkeit vs. Entschlossenheit
+  - Geschicklichkeit vs. Entschlossenheit
   - Schöpfung vs. Entschlossenheit
   - Täuschung vs. Entschlossenheit
   - Energie vs. Entschlossenheit
@@ -823,7 +823,7 @@
     </ul>
   special: |
     Diesem Harm zu widerstehen ist eine kleine Aktion.
-    Wird dieser Harm mit Kraft oder Beweglichkeit gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus Kapitel 7: Kampf bestimmen.
+    Wird dieser Harm mit Kraft oder Geschicklichkeit gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus [Kapitel 7: Kampf](./../Kapitel-7_Kampf.md) bestimmen.
 - !
   name: Taub
   OGname: Deafened
@@ -836,7 +836,7 @@
   power:
   - 4
   attackAttributes:
-  - Beweglichkeit
+  - Geschicklichkeit
   - Energie
   - Vergehen
   OGattackAttributes:
@@ -844,7 +844,7 @@
   - Energy
   - Entropy
   attack:
-  - Beweglichkeit vs. Deckung
+  - Geschicklichkeit vs. Deckung
   - Energie vs. Zähigkeit
   - Vergehen vs. Zähigkeit
   invocationTime: 1 große Aktion
@@ -865,13 +865,13 @@
   power:
   - 9
   attackAttributes:
-  - Beweglichkeit
+  - Geschicklichkeit
   - Vergehen
   OGattackAttributes:
   - Agility
   - Entropy
   attack:
-  - Beweglichkeit vs. Zähigkeit
+  - Geschicklichkeit vs. Zähigkeit
   - Vergehen vs. Zähigkeit
   invocationTime: 1 große Aktion
   duration: Widerstehen beendet (Besonders) (3 Fehlschläge = Permanent)
@@ -894,7 +894,7 @@
   power:
   - 1
   attackAttributes:
-  - Beweglichkeit
+  - Geschicklichkeit
   - Energie
   - Vergehen
   - Kraft
@@ -906,7 +906,7 @@
   - Might
   - Movement
   attack:
-  - Beweglichkeit vs. Deckung
+  - Geschicklichkeit vs. Deckung
   - Energie vs. Deckung
   - Vergehen vs. Zähigkeit
   - Kraft vs. Deckung
@@ -929,7 +929,7 @@
   power:
   - 2
   attackAttributes:
-  - Beweglichkeit
+  - Geschicklichkeit
   - Wandlung
   - Vergehen
   - Kraft
@@ -939,7 +939,7 @@
   - Entropy
   - Might
   attack:
-  - Beweglichkeit vs. Zähigkeit
+  - Geschicklichkeit vs. Zähigkeit
   - Wandlung vs. Zähigkeit
   - Vergehen vs. Zähigkeit
   - Kraft vs. Zähigkeit
@@ -948,7 +948,7 @@
   description: |
     Stille breitet sich um das Ziel aus, egal ob durch das Manipulieren von Schallwellen um das Ziel oder physischen Effekten wie Erwürgen oder Ersticken. Der Harm Verstummt ist verbreitet bei Assassinen, Zauberern, Ingenieuren und verrückten Wissenschaftlern.
   effect: |
-    Falls Kraft, Beweglichkeit oder Vergehen benutzt wurden, um diesen Harm zu wirken, leidet der Charakter und Erwürgung und kann nicht sprechen. Falls der Harm mit Wandlung gewirkt wurde, dann erlischt aller Klang innerhalb von 5' um das Ziel durch außergewöhnliche Mittel, sodass z.B. ihre Schritte stumm sind und das Klappern von Ausrüstung nicht gehört werden kann.
+    Falls Kraft, Geschicklichkeit oder Vergehen benutzt wurden, um diesen Harm zu wirken, leidet der Charakter und Erwürgung und kann nicht sprechen. Falls der Harm mit Wandlung gewirkt wurde, dann erlischt aller Klang innerhalb von 5' um das Ziel durch außergewöhnliche Mittel, sodass z.B. ihre Schritte stumm sind und das Klappern von Ausrüstung nicht gehört werden kann.
 - !
   name: Wahrheitsgebunden
   OGname: Truthfulness

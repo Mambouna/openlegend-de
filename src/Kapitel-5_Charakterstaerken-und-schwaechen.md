@@ -164,7 +164,7 @@ Etwas an deinem Verhalten stößt anderen falsch auf. Vielleicht respektierst du
 ### Stur
 Entweder wie du willst, oder gar nicht. Vielleicht ist es nicht immer so, aber wenn du deine Entscheidung getroffen hast, lässt du dich nicht mehr bewegen. Selbst Kompromissen wirst du wahrscheinlich nicht zustimmen.
 ### Unkoordiniert
-Dein Körper kommt nicht gut mit sich selbst klar. Du hast Probleme mit deiner Balance, Fangen und Werfen und anderen Arten physischer Koordination, die Beweglichkeit und Fingerspitzengefühl verlangen.
+Dein Körper kommt nicht gut mit sich selbst klar. Du hast Probleme mit deiner Balance, Fangen und Werfen und anderen Arten physischer Koordination, die Geschicklichkeit und Fingerspitzengefühl verlangen.
 ### Rachsüchtig
 Du lässt keinen Schnitzer ungesühnt. Während manch anderer vielleicht die Beleidigung eines Betrunkenen in der Taverne abschütteln würden, siehst du es als persönlichen Angriff und verlangst einen Preis dafür. Je größer das Verbrechen, desto schrecklicher die Rache, die du üben wirst.
 ### Überzeugung

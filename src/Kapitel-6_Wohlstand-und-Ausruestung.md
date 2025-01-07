@@ -79,7 +79,7 @@ Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an 
 
 **Eigenschaften** sind Qualitäten, die jede Waffe einzigartig macht. Wie die Eigenschaften spielmechanisch funktionieren, ist unten beschrieben.
 
-**Harme** geben an, was für Harme von der Waffe besonders gut angewendet werden können. Wenn ein Angreifer die Waffe benutzt, um einen der aufgelisteten Harme zu wirken, kann er das Kraftlevel des Harmes für diese Attacke als eins niedriger ansehen, um zu prüfen, ob er den für den Harm nötigen Attributwert hat. Außerdem bekommst du bei einer Harmattacke mit dieser Waffe Vorteil 1 beim Wurf. Einige besondere Waffen führen Harme auf, die normalerweise nicht mit den Attributen Kraft oder Beweglichkeit gewirkt werden können. In diesem Fall kann das Attribut, welches für den Angriff genutzt wird, auch benutzt werden, um den Harm zu wirken.
+**Harme** geben an, was für Harme von der Waffe besonders gut angewendet werden können. Wenn ein Angreifer die Waffe benutzt, um einen der aufgelisteten Harme zu wirken, kann er das Kraftlevel des Harmes für diese Attacke als eins niedriger ansehen, um zu prüfen, ob er den für den Harm nötigen Attributwert hat. Außerdem bekommst du bei einer Harmattacke mit dieser Waffe Vorteil 1 beim Wurf. Einige besondere Waffen führen Harme auf, die normalerweise nicht mit den Attributen Kraft oder Geschicklichkeit gewirkt werden können. In diesem Fall kann das Attribut, welches für den Angriff genutzt wird, auch benutzt werden, um den Harm zu wirken.
 #### Waffen & Geräte
 | Beispiele                                       | Kategorie                             | WW  | Eigenschaften                                                                 | Harme                                                      |
 | ----------------------------------------------- | ------------------------------------- | --- | ----------------------------------------------------------------------------- | ---------------------------------------------------------- |
@@ -126,7 +126,7 @@ Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an 
 
 **Schwer** - Diese Waffe ist besonders schwer zu tragen. Du kannst maximal eine Anzahl schwerer Items tragen, die gleich deinem Kraftwert ist.
 
-**Präzise** - Diese Waffe kann Angriffe mit dem Beweglichkeit-Attribut ausführen und Harme wirken, die über Beweglichkeit als Attribut genutzt werden.
+**Präzise** - Diese Waffe kann Angriffe mit dem Geschicklichkeit-Attribut ausführen und Harme wirken, die über Geschicklichkeit als Attribut genutzt werden.
 
 **Lang** - Diese Waffe erhöht die Nahkampfreichweite der Kreatur um 5'.
 
