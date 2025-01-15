@@ -14,7 +14,6 @@ ___
 *Eine Elfenmaid, hochgewachsen und in Kampfkleidung gewandt, antwortet: "Ich werde keinen Barden von Luthiel der Feigen singen lassen, die sich Orkabschaum ergeben hat, während sie noch atmete."*
 
 *Während Elfe und Zwerg sich streiten, erhebt sich ein grauhaariger Mann, gekleidet in Smaragd, auf einem Fels in der Mitte der Ruinen. Seine Augen durchbohren die Distanz zur goldenen Sonne, die sich dem Horizont neigt, wie scharfe Dolche. Mit einem verborgenen Lächeln hebt er seinen verzogenen Eichenstab zum Himmel, unter dem sich Sturmwolken sammeln, die mit dem Zorn der Natur knistern. "Gentleman, Lady..." spricht der Druide mit dezentem Selbstbewusstsein, "Ich glaube, die Winde haben sich zu unserem Vorteil gewandt."*
-___
 ## Warum Open Legend?
 Falls du schon mal Rollenspiele gespielt hast, fragst du dich vielleicht *Was macht Open Legend meiner Zeit wert? Was macht es anders?*
 

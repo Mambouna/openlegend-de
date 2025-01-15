@@ -38,7 +38,7 @@ Falls Charaktere überrascht sind, werden zwei Reihenfolgen der Initiative gefü
 > 
 > Die Reihenfolge der Initiative ist wie folgt:
 > #### Nicht überraschte Kämpfende
-> 1\. Jalani 25 (muss im ersten Zug ihre Las-Pistole ziehen)
+> 1\. Jalani 25 (muss im ersten Zug ihre Las-Pistole ziehen)  
 > 2\. Schwerkraftwürmer 11
 > #### Überraschte Kämpfende
 > 3\. Zak 14
@@ -81,7 +81,7 @@ Diese drei Schritte werden noch in größerem Detail erklärt.
 #### Angriff mit Schaden
 <table>
 	<tr>
-		<td><b>Wurfergebnis des Angriffswurfes - Verteidigung des Ziels = zugefügter Schaden</b> <i>(mindestens 3 bei Erfolg)</i></td>
+		<td><b>Wurfergebnis des Angriffswurfes - Verteidigung des Ziels = zugefügter Schaden</b> <i> (mindestens 3 bei Erfolg)</i></td>
 	</tr>
 	<tr>
 		<td><b><i>Herausragender Erfolg:</b> Falls du die Verteidigung um 10 oder mehr übertriffst, wirke einen Harm oder breche die Konzentration des Gegners.</i></td>
@@ -109,7 +109,6 @@ Nicht-körperliche Angriffe können verschiedene Arten von Verteidigung betreffe
 > Einige Attribute kann man so gut wie immer benutzen, um Schaden zuzufügen. Darunter sind Kraft, Geschicklichkeit, Energie und Vergehen. Sie sind der Normalfall für das Schwingen von Waffen, schießen von Gewehren, wirken von Zaubern, entziehen von Lebenskraft, usw. ...
 > ##### Manchmal
 > Manche Attribute können unter bestimmten Umständen benutzt werden, um Angriffe auszuführen, die Schaden zufügen. Hier sollte aus der Geschichte hervorgehen, wie das Können in einem Attribut dazu beiträgt, den Schaden anzurichten. Diese Attribute umfassen Logik, Schutz, Wandlung, Einfluss und Bewegung. Obwohl die Gelegenheiten zum Zufügen von Schaden mit diesen Attributen selten sein können, sind sie verfügbar, wenn die Story es erlaubt. Einige Beispiele für Umstände, in denen diese Attribute für Attacken benutzt werden können, werden aufgeführt:
-> 
 > - **Logik.** Eine Falle auslösen, in die Feinde getappt sind.
 > - **Schutz.** Sich mit einer Wand magischer Klingen schützen.
 > - **Wandlung.** Einen Feind mit einem belebten Ast erwürgen.

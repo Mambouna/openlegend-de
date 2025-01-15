@@ -195,6 +195,7 @@ Wähle als nächstes eine beliebige Anzahl an weiteren Eigenschaften aus, die di
 | Langsam          | -1                |
 | Stationär        | -1                |
 | Schnell          | +1                |
+
 *\* Wert des Nachteils anhand des Gebiets für Multi-Zielen Angriffe (siehe [Kapitel 7: Kampf](./Kapitel-7_Kampf.md))*
 ### Schritt 3: Harme auswählen
 Waffen werden in ihrem Kampfstil durch die Harme differenziert, die sie wirken können. Harme haben keinen Einfluss auf den Wohlstandswert der Waffe und die meisten Waffen haben 2 oder 3 assoziierte Harme. Waffen mit 4 oder mehr Harmen müssen vom GM akzeptiert werden.

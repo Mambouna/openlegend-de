@@ -2,7 +2,7 @@
 ## Deutsche Übersetzung der Regeln
 
 Übersetzung: Mambouna  
-Mit Hilfe von: Vrenshrrg, Great Moustache, Kempeth
+Mit Hilfe von: Vrenshrrg, Great Moustache, Kempeth  
 Lizenz: MPL 2.0
 
 Lizenz der Originalregeln: *Open Legend Community License*
