@@ -26,7 +26,7 @@ Zu Beginn des Zuges deines Ziels, bevor es Aktionen ausführen kann, erleidet da
 </ul>
 
 **Besonders**  
-Anhaltender Schaden kann unterschiedliche Variationen haben: unter anderem körperlicher Schaden (Blutungen nach einem Schlag), Energieschaden (Blitz, Feuer, Kälte, Säure, usw. ...) und Vergehensschaden (nekromantische Energie). Jede Variation hat ihren eigenen Weg, die Quelle des Schadens zu neutralisieren. Wird die korrekte Methode angewandt, erhält das Ziel einen Widerstehenwurf als kostenlose Aktion mit Vorteil 1, um den Harm zu beenden. Der GM entscheidet, ob ein Heilmethode die jeweilige Quelle beheben kann. Die folgenden Beispiele können bei Entscheidungen helfeh:
+Anhaltender Schaden kann unterschiedliche Variationen haben: unter anderem körperlicher Schaden (Blutungen nach einem Schlag), Energieschaden (Blitz, Feuer, Kälte, Säure, usw. ...) und Vergehensschaden (nekromantische Energie). Jede Variation hat ihren eigenen Weg, die Quelle des Schadens zu neutralisieren. Wird die korrekte Methode angewandt, erhält das Ziel einen Widerstandswurf als kostenlose Aktion mit Vorteil 1, um den Harm zu beenden. Der GM entscheidet, ob ein Heilmethode die jeweilige Quelle beheben kann. Die folgenden Beispiele können bei Entscheidungen helfeh:
 <ul>
   <li>Blutungen werden durch einen erfolgreichen Wurf auf Lernen, Logik oder Schöpfung geheilt.</li>
   <li>Blitzschaden wird durch Entladung oder Erden des Stromflusses behoben.</li>
@@ -94,7 +94,7 @@ Der Harm Benommen findet sich in vielen Geschichten und Legenden: die Augen eine
 Das Ziel hat einen benebelten Geist, sodass seine mentale Verteidigung verringert ist. Während es vom Harm betroffen ist, ist seine Entschlossenheit-Verteidung auf 10 verringert. Weiterhin hat das Ziel etwa die Intelligenz eines Kindes. Falls es angegriffen wird, verteidigt es sich mit seinen natürlichen Waffen (Hände, Füße, Klauen, Schnabel, usw. ...), bis der Angriff aufhört. Das Ziel wird nie komplexe Taktiken oder Fähigkeiten wie Zauber anwenden. Falls das Ziel Feuer sieht oder Schmerzen fühlt, wird es fliehen.
 
 **Besonders**  
-Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel sich dem Harm überhaupt bewusst ist. Das Unterbewusstsein des Ziels ist zwar magisch unterdrückt, kämpft aber konstant um Kontrolle. Aus diesem Grund erhält das Ziel am Ende seines Zuges einen Widerstehenwurf als kostenlose Aktion spezifisch gegen diesen Harm. Jeder Angriff, der dem Ziel physischen oder geistigen Schaden zufügt, gibt ihm einen weiteren kostenlosen Widerstehenwurf. Aktionen, die ein wildes Tier verschrecken würden (von einem geworfenen Stein getroffen werden, geohrfeigt werden, usw. ...) geben dem Ziel auch einen kostenlosen Widerstehenwurf. Anders als normale Widerstehenwürfe, zählen diese kostenlos erhaltenen Würfe nicht gegen das normale Limit von 3 fehlgeschlagenen Widerstehenwürfen, bevor der Harm länger anhält. Hat das Ziel bei einem Widerstehenwurf Erfolg, so wird es für 24 Stunden immun gegen alle weiteren Versuche durch dich, diesen Harm auf es zu wirken.
+Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel sich dem Harm überhaupt bewusst ist. Das Unterbewusstsein des Ziels ist zwar magisch unterdrückt, kämpft aber konstant um Kontrolle. Aus diesem Grund erhält das Ziel am Ende seines Zuges einen Widerstandswurf als kostenlose Aktion spezifisch gegen diesen Harm. Jeder Angriff, der dem Ziel physischen oder geistigen Schaden zufügt, gibt ihm einen weiteren kostenlosen Widerstandswurf. Aktionen, die ein wildes Tier verschrecken würden (von einem geworfenen Stein getroffen werden, geohrfeigt werden, usw. ...) geben dem Ziel auch einen kostenlosen Widerstandswurf. Anders als normale Widerstandswürfe, zählen diese kostenlos erhaltenen Würfe nicht gegen das normale Limit von 3 fehlgeschlagenen Widerstandswürfen, bevor der Harm länger anhält. Hat das Ziel bei einem Widerstandswurf Erfolg, so wird es für 24 Stunden immun gegen alle weiteren Versuche durch dich, diesen Harm auf es zu wirken.
 
 > Tags: Außergewöhnlich
 
@@ -148,11 +148,11 @@ Das Ziel ist immobilisiert (kann sich nicht von seinem momentanen Platz bewegen)
 <ul>
 <li><strong>Kraftlevel 5</strong> - Der Effekt kann durch eine moderateStörung gebrochen werden, wie z.B. einem festen Stoß, einem Tritt, Glas voll Wasser, lautem Knall, usw. ...</li>
 <li><strong>Kraftlevel 7</strong> - Der Effekt kann nur gebrochen werden, wenn das Ziel 1 TP oder mehr an Schaden nimmt.</li>
-<li><strong>Kraftlevel 9</strong> - Der Effekt kann nicht durch äußere Quellen gebrochen werden. Nur ein erfolgreicher Widerstehenwurf durch das Ziel kann den Effekt beenden.</li>
+<li><strong>Kraftlevel 9</strong> - Der Effekt kann nicht durch äußere Quellen gebrochen werden. Nur ein erfolgreicher Widerstandswurf durch das Ziel kann den Effekt beenden.</li>
 </ul>
 
 **Besonders**  
-Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel sich seiner Position bewusst ist. Der Körper des Ziels kämpft aber darum, das Bewusstsein wiederzuerlangen. Am Ende jedes Zuges erhält das Ziel einen Widerstehenwurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel mit dem Widerstehen Erfolg, so ist es für die nächste Stunde gegen alle weiteren Versuche durch dich, es bewusstlos zu machen, immun.
+Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel sich seiner Position bewusst ist. Der Körper des Ziels kämpft aber darum, das Bewusstsein wiederzuerlangen. Am Ende jedes Zuges erhält das Ziel einen Widerstandswurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel mit dem Widerstehen Erfolg, so ist es für die nächste Stunde gegen alle weiteren Versuche durch dich, es bewusstlos zu machen, immun.
 
 > Tags: Außergewöhnlich, Körperlich
 
@@ -184,7 +184,7 @@ Das Ziel ist mental dazu angehalten, dich mehr zu mögen und dir mehr zu vertrau
   </ul>
 
 **Besonders**  
-Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel sich dem Harm überhaupt bewusst ist. Das Unterbewusstsein des Ziels ist zwar magisch unterdrückt, kämpft aber konstant um Kontrolle. Aus diesem Grund erhält das Ziel am Ende seines Zuges einen Widerstehenwurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel beim Widerstehenwurf Erfolg, so wird es für 24 Stunden immun gegen alle weiteren Versuche durch dich, es wieder zu bezaubern.
+Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel sich dem Harm überhaupt bewusst ist. Das Unterbewusstsein des Ziels ist zwar magisch unterdrückt, kämpft aber konstant um Kontrolle. Aus diesem Grund erhält das Ziel am Ende seines Zuges einen Widerstandswurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel beim Widerstandswurf Erfolg, so wird es für 24 Stunden immun gegen alle weiteren Versuche durch dich, es wieder zu bezaubern.
 
 > Tags: Außergewöhnlich
 
@@ -243,7 +243,7 @@ Manche legendäre Geschichten erzählen von Vampiren, Zauberern oder verrückten
 **Effekt**  
 Der Harm Dominiert kann sich auf zwei Graden ausdrücken: oberflächlich und tief.
 <strong>Oberflächlich Dominiert</strong> - Das Ziel gehorcht einem Befehl, bestehend aus einem Wort, bis zum Ende des nächsten Zuges. An diesem Punkt endet der Harm sofort.
-<strong>Tief Dominiert</strong> - Jede Bewegung und jede Aktion des Ziels steht unter deiner Kontrolle. Anders als beim Harm Bezaubert, verliert das Ziel von Dominiert Kontrolle über seine eigenen Aktionen. Sein Geist dagegen kämpft gegen den eigenen Körper an. Das Ziel kann keine Aktionen ausführen, die nicht explizit von dir befohlen wurden. Jeder Befehl, der dem Ziel gegeben wird, der der eigentlichen Natur des Ziels massiv widerspricht, gibt dem Ziel einen Widerstehenwurf als kostenlose Aktion, um den Effekt von Dominiert zu beenden. Der wirkende Charakter erhält keinen Zugang zum Geist des Ziels und kann dem Ziel so nur Befehle für Aktionen geben, von denen er weiß oder vermutet, dass das Ziel zu ihnen in der Lage ist. Jeder mentale Befehl, den der wirkende Charakter dem Ziel gibt, ist eine große Aktion. Der Befehl selbst kann aber aus einer Reihe verbaler Anweisungen bestehen, wie zum Beispiel "Greife den Gegner X an, außer jemand kommt durch die Tür. In diesem Fall sollst du fliehen." Die dominierte Kreatur wird dem letzten erhaltenen mentalen Befehl gehorchen, bis sie einen neuen Befehl von dir erhält. Nur einem Befehl kann gleichzeitig gehorcht werden. Tiefe Dominierung hat eine Dauer von Widerstehen beendet (3 Fehlschläge = 1 Stunde).
+<strong>Tief Dominiert</strong> - Jede Bewegung und jede Aktion des Ziels steht unter deiner Kontrolle. Anders als beim Harm Bezaubert, verliert das Ziel von Dominiert Kontrolle über seine eigenen Aktionen. Sein Geist dagegen kämpft gegen den eigenen Körper an. Das Ziel kann keine Aktionen ausführen, die nicht explizit von dir befohlen wurden. Jeder Befehl, der dem Ziel gegeben wird, der der eigentlichen Natur des Ziels massiv widerspricht, gibt dem Ziel einen Widerstandswurf als kostenlose Aktion, um den Effekt von Dominiert zu beenden. Der wirkende Charakter erhält keinen Zugang zum Geist des Ziels und kann dem Ziel so nur Befehle für Aktionen geben, von denen er weiß oder vermutet, dass das Ziel zu ihnen in der Lage ist. Jeder mentale Befehl, den der wirkende Charakter dem Ziel gibt, ist eine große Aktion. Der Befehl selbst kann aber aus einer Reihe verbaler Anweisungen bestehen, wie zum Beispiel "Greife den Gegner X an, außer jemand kommt durch die Tür. In diesem Fall sollst du fliehen." Die dominierte Kreatur wird dem letzten erhaltenen mentalen Befehl gehorchen, bis sie einen neuen Befehl von dir erhält. Nur einem Befehl kann gleichzeitig gehorcht werden. Tiefe Dominierung hat eine Dauer von Widerstehen beendet (3 Fehlschläge = 1 Stunde).
   <ul>
   <li><strong>Kraftlevel 3</strong> - Du kannst Kreaturen nichtmenschlicher Intelligenz (Tiefe, manche Elementare, bestimmte Untote, usw. ...) mit Oberflächlich Dominiert belegen.</li>
   <li><strong>Kraftlevel 5</strong> - Du kannst Kreaturen menschlicher Intelligenz oder höher mit Oberflächlich Dominiert belegen - ODER - du kannst Kreaturen nichtmenschlicher Intelligenz mit Tief Dominiert belegen.</li>
@@ -251,7 +251,7 @@ Der Harm Dominiert kann sich auf zwei Graden ausdrücken: oberflächlich und tie
   </ul>
 
 **Besonders**  
-Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel sich dem Harm überhaupt bewusst ist. Das Unterbewusstsein des Ziels ist zwar magisch unterdrückt, kämpft aber konstant um Kontrolle. Aus diesem Grund erhält das Ziel am Ende seines Zuges einen Widerstehenwurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel beim Widerstehenwurf Erfolg, so wird es für 24 Stunden immun gegen alle weiteren Versuche durch dich, es wieder zu dominieren.
+Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel sich dem Harm überhaupt bewusst ist. Das Unterbewusstsein des Ziels ist zwar magisch unterdrückt, kämpft aber konstant um Kontrolle. Aus diesem Grund erhält das Ziel am Ende seines Zuges einen Widerstandswurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel beim Widerstandswurf Erfolg, so wird es für 24 Stunden immun gegen alle weiteren Versuche durch dich, es wieder zu dominieren.
 
 > Tags: Außergewöhnlich
 
@@ -422,7 +422,7 @@ Durch eine überwältigende Demonstration körperlicher Gewalt oder übernatürl
 In seinem Zug muss das betroffene Ziel seinen gesamten Zug nutzen, um sich so weit wie möglich von dir wegzubewegen. Es kann seine Aktionen zu nichts anderem verwenden und kann sich nicht willentlich näher zu dir bewegen, solange der Harm anhält.
 
 **Besonders**  
-Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel klar denken kann. Gleichzeitig kämpft der logische Teil des Geistes vom Ziel aber darum, die Kontrolle wiederzugewinnen. Am Ende jedes Zuges erhält das Ziel einen Widerstehenwurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel mit dem Widerstehen Erfolg, so ist es für die nächste Stunde gegen alle weiteren Versuche durch dich, ihm Furcht einzuflößen, immun.
+Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel klar denken kann. Gleichzeitig kämpft der logische Teil des Geistes vom Ziel aber darum, die Kontrolle wiederzugewinnen. Am Ende jedes Zuges erhält das Ziel einen Widerstandswurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel mit dem Widerstehen Erfolg, so ist es für die nächste Stunde gegen alle weiteren Versuche durch dich, ihm Furcht einzuflößen, immun.
 Wird dieser Harm durch Kraft gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus [Kapitel 7: Kampf](./../Kapitel-7_Kampf.md) bestimmen.
 
 > Tags: Außergewöhnlich, Körperlich
@@ -477,7 +477,7 @@ Du blickst in den Geist einer Kreatur und liest ihre Gedanken. Die mächtigsten 
 </ul>
 
 **Besonders**  
-Hat dein Ziel Erfolg mit seinem Widerstehenwurf gegen diesen Harm, wird es für die nächsten 24 Stunden immun gegen alle weiteren Versuche durch dich, es erneut mit diesem Harm zu belegen.
+Hat dein Ziel Erfolg mit seinem Widerstandswurf gegen diesen Harm, wird es für die nächsten 24 Stunden immun gegen alle weiteren Versuche durch dich, es erneut mit diesem Harm zu belegen.
 
 > Tags: Außergewöhnlich
 
@@ -541,7 +541,7 @@ Falls du den Harm mit einem Attribut abgesehen von Kraft gewirkt hast, kannst du
 Du kannst dich entscheiden, das Ziel als kostenlose Aktion freizugeben, was den Harm sofort beendet.
 
 **Besonders**  
-Hat ein betroffenes Ziel mit einem Widerstehenwurf Erfolg, um diesen Harm zu brechen, kann es sich bis zu 15' als kostenlose Aktion bewegen.
+Hat ein betroffenes Ziel mit einem Widerstandswurf Erfolg, um diesen Harm zu brechen, kann es sich bis zu 15' als kostenlose Aktion bewegen.
 
 > Tags: Außergewöhnlich, Körperlich
 
@@ -603,8 +603,8 @@ Bis Kraftlevel 6 kannst du Sinnesillusionen kombinieren, indem du die nötigen K
 **Besonders**  
 Anders als bei anderen Harmen zielt dieser Harm nicht auf bestimmte Gegner. Stattdessen wird das Ergebnis deines Einflusswurfes mit der Entschlossenheit-Verteidigung aller Feinde verglichen, die die Illusion wahrnehmen würden. Falls der Wurf niedriger ist als die Entschlossenheit eines Wesens, nimmt diesen keinen der Effekte der Illusion wahr. Falls der Wurf gleich oder höher als ihre Entschlossenheit ist, nehmen Wesen die Illusion wahr und reagieren, als wäre sie real.
 Falls die Illusion eine Person, einen oder oder ein Objekt nachahmt, mit dem die wahrnehmenden Ziele sehr vertraut sind, kann der GM entscheiden, ob ihre Entschlossenheit-Verteidigung für diese Situation erhöht sein sollte.
-Charaktere, die von einem Phantom überzeugt sind, können normale Widerstehenwürfe machen, um den Harm abzuschütteln. Falls sie Erfolg haben, werden sie nicht weiter durch die Illusion getäuscht. Weiterhin musst du jede Runde eine kleine Aktion nutzen, um den Harm aufrechtzuerhalten. Tust du dies nicht, löst sich das Phantom zum Ende deines Zuges auf.
-Hat ein betroffener Charakter mit seinem Widerstehenwurf Erfolg, so ist er für 1 Stunde immun gegen alle weiteren Phantome, die von dir gewirkt werden.
+Charaktere, die von einem Phantom überzeugt sind, können normale Widerstandswürfe machen, um den Harm abzuschütteln. Falls sie Erfolg haben, werden sie nicht weiter durch die Illusion getäuscht. Weiterhin musst du jede Runde eine kleine Aktion nutzen, um den Harm aufrechtzuerhalten. Tust du dies nicht, löst sich das Phantom zum Ende deines Zuges auf.
+Hat ein betroffener Charakter mit seinem Widerstandswurf Erfolg, so ist er für 1 Stunde immun gegen alle weiteren Phantome, die von dir gewirkt werden.
 
 > Tags: Außergewöhnlich
 
@@ -718,10 +718,10 @@ Durch unglaubliche Präzision oder die Macht des Vergehens, beendest du das Lebe
 
 **Effekt**  
 Beim erfolgreichen Wirken des Harms wird das Ziel sofort immobilisiert, bewusstlos und kann keine Aktionen ausführen. Es hat Nachteil 5 auf alle Wahrnehmungswürfe und alle Angriffe gegen es zählen als Gnadenstoß.
-Falls das Ziel bei drei Widerstehenwürfen gegen diesen Harm fehlschlägt, stirbt es. Der Tod ist permanent und kann nur auf Zustimmung des GM durch eine besondere Mission, seltene Technologie oder lang vergessene Magie wieder aufgehoben werden.
+Falls das Ziel bei drei Widerstandswürfen gegen diesen Harm fehlschlägt, stirbt es. Der Tod ist permanent und kann nur auf Zustimmung des GM durch eine besondere Mission, seltene Technologie oder lang vergessene Magie wieder aufgehoben werden.
 
 **Besonders**  
-Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel Aktionen ausführt und so auch, dass es dem Harm entkommen kann. Der Körper des Ziels kämpft aber instinktiv gegen die Wirkung des Harms an und versucht, dem kommenden Tod zu widerstehen. Am Ende jedes Zuges des Ziels erhält das Ziel einen Widerstehenwurf als kostenlose Aktion, um diesem Harm zu widerstehen. Hat das Ziel Erfolg bei einem Widerstehenwurf gegen diesen Harm, ist es danach für 24 Stunden immun gegen weitere Versuche durch dich, diesen Harm auf es zu wirken. 
+Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel Aktionen ausführt und so auch, dass es dem Harm entkommen kann. Der Körper des Ziels kämpft aber instinktiv gegen die Wirkung des Harms an und versucht, dem kommenden Tod zu widerstehen. Am Ende jedes Zuges des Ziels erhält das Ziel einen Widerstandswurf als kostenlose Aktion, um diesem Harm zu widerstehen. Hat das Ziel Erfolg bei einem Widerstandswurf gegen diesen Harm, ist es danach für 24 Stunden immun gegen weitere Versuche durch dich, diesen Harm auf es zu wirken. 
 
 > Tags: Außergewöhnlich, Körperlich
 

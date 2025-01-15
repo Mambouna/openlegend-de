@@ -697,7 +697,7 @@
   description: |
     Ob du ein Verzauberer bist, Psychiker oder verrückter Wissenschaftler, du hast die Kunst andere gefügig zu machen gemeistert. Deine Bezauberungen sind so mächtig, dass deine Opfer ihnen permament verfallen können.
   effect: |
-    Wenn du den Harm <em>Bezaubert</em> wirkst, erleiden Ziele, die ihren Widerstehenwürfe innerhalb von 24 Stunden nicht bestehen, den Harm permanent. Sie erhalten keine weiteren Widerstehenwürfe, um sich von dem Effekt zu befreien. Andere außergewöhnliche Effekte wie z.B. der Harm <em>Annulieren</em> (und weitere passende nach Abwägung des GM) können die permanente Bezauberung weiterhin brechen.
+    Wenn du den Harm <em>Bezaubert</em> wirkst, erleiden Ziele, die ihren Widerstandswürfe innerhalb von 24 Stunden nicht bestehen, den Harm permanent. Sie erhalten keine weiteren Widerstandswürfe, um sich von dem Effekt zu befreien. Andere außergewöhnliche Effekte wie z.B. der Harm <em>Annulieren</em> (und weitere passende nach Abwägung des GM) können die permanente Bezauberung weiterhin brechen.
 - !
   name: Energieresistenz (I - IV)
   OGname: Energy Resistance (I - IV)
@@ -1226,7 +1226,7 @@
     Du bist in der Lage, deine Illusionen nicht nur zum Erzeugen von Phantomen zu benutzen, sondern auch um die Sinne deiner Ziele vollständig zu dominieren. Solche Macht wird von legendären Zauberern, Psychikern und Schamanen geführt. Die, die diese Fähigkeit meistern, sind in der Lage rasende Menge ohne einen Tropfen Blut zu pazifizieren.
   effect: |
     <ul>
-    <li><strong>Rang 1</strong> - Wenn du den Harm <em>Phantom</em> wirkst, kannst du dich entscheiden, statt der normalen Wirkweise eine Halluzination in den Sinnen eines einzigen Ziels zu schaffen. Du erlangst vollständige Kontrolle über die Sinne des Ziels (je nach Kraftlevel des Harms), sodass die Halluzination nicht durch Größe oder Fläche eingeschränkt ist. Deine Halluzination kann nur ein Ziel haben und kann nicht mit Multi-Zielen benutzt werden. Weiterhin hat das Ziel Nachteil auf seine Widerstehenwürfe gegen den Harm, außer es erleidet Schaden.</li>
+    <li><strong>Rang 1</strong> - Wenn du den Harm <em>Phantom</em> wirkst, kannst du dich entscheiden, statt der normalen Wirkweise eine Halluzination in den Sinnen eines einzigen Ziels zu schaffen. Du erlangst vollständige Kontrolle über die Sinne des Ziels (je nach Kraftlevel des Harms), sodass die Halluzination nicht durch Größe oder Fläche eingeschränkt ist. Deine Halluzination kann nur ein Ziel haben und kann nicht mit Multi-Zielen benutzt werden. Weiterhin hat das Ziel Nachteil auf seine Widerstandswürfe gegen den Harm, außer es erleidet Schaden.</li>
     <li><strong>Rang 2</strong> - Wenn du mit <em>Phantom</em> eine Halluzination wirkst, kannst du anhand deine Einfluss-Wertes weitere Kreaturen als zusätzliche Ziele einschließen. Da dies nicht als Multi-Zielen zählt, leidet dein Aktionswurf nicht unter Nachteil.
       <ul>
       <li><strong>Einfluss 7</strong> - 5 Ziele</li>
@@ -1285,7 +1285,7 @@
   description: |
     Du bist so effektiv mit einer bestimmten Art Angiff, dass deine Feinde es schwer haben, ihre Folgen abzuschütteln. Vielleicht brennen die Flammen deines Feuerballs heißer oder du hast eine besondere chemische Mischung für dein Blindpulver entwickelt.
   effect: |
-    Wähle einen Harm aus, den du wirken kannst und der eine Dauer von "Widerstehen beendet" hat. Wenn ein Ziel dieses Harms von dir versucht, diesen mit einem Widerstehenwurf abzuschütteln, hat es Nachteil 1.
+    Wähle einen Harm aus, den du wirken kannst und der eine Dauer von "Widerstehen beendet" hat. Wenn ein Ziel dieses Harms von dir versucht, diesen mit einem Widerstandswurf abzuschütteln, hat es Nachteil 1.
   special: |
     Du kannst diese Fertigkeit mehrmals wählen, wobei du jedes Mal einen anderen Harm wählst.
 - !
@@ -1513,7 +1513,7 @@
   description: |
     Durch inspirierende Worte, magische Heilung oder fortgeschrittene Medizintechnik bist du besonders effektiv dabei, anderen zu helfen, schadhafte Effekte loszuwerden. Paladine, Barden und Kampfmediziner sind typische Beispiele von Charakteren, die diese Fertigkeit haben könnten.
   effect: |
-    Du kannst eine große Aktion benutzen, um einem Verbündeten sofort einen Widerstehenwurf (eine kostenlose Aktion für den Verbündeten) mit Vorteil 1 zu geben. Weiterhin hast du Vorteil 1 darauf, das Wohl <em>Wiederherstellung</em> zu wirken.
+    Du kannst eine große Aktion benutzen, um einem Verbündeten sofort einen Widerstandswurf (eine kostenlose Aktion für den Verbündeten) mit Vorteil 1 zu geben. Weiterhin hast du Vorteil 1 darauf, das Wohl <em>Wiederherstellung</em> zu wirken.
 - !
   name: Mimikri
   OGname: Mimic
@@ -1971,7 +1971,7 @@
   description: |
     Ob durch Glück, außergewöhnliche Willenskraft oder großen Mut, kannst du Harme schneller abschütteln als andere. Diese Fertigkeit kann gut zu jedem Charakterkonzept passen: ein Halbling dem das Glück gewogen ist, eine Zauberin mit einer Aura des Schutzes oder ein zerstreuter Professor, der keine Zeit für Störungen seiner Studien hat.
   effect: |
-    Du hast Vorteil 1 auf alle Widerstehenwürfe.
+    Du hast Vorteil 1 auf alle Widerstandswürfe.
 - !
   name: Rundumtalent
   OGname: Well-Rounded
@@ -2563,14 +2563,14 @@
         <li>Du erhälst die folgenden weiteren Optionen, um deine Wirkung zu erweitern:
           <ul>
           <li>Das gewirkte Wohl hält automatisch für eine Minute an, ohne das es aufrechterhalten werden muss. Weiterhin können Feinde das Wohl nicht durch Angriffe unterbrechen (wobei der Harm <em>Annullieren</em> weiterhin wirksam ist).</li>
-          <li>Ziele können für eine Minute keine Widerstehenwürfe gegen den gewirkten Harm nutzen.</li>
+          <li>Ziele können für eine Minute keine Widerstandswürfe gegen den gewirkten Harm nutzen.</li>
           </ul></li>
       </ul>
 
     <strong>Rang 3</strong> - Du erhälst die Fähigkeit, Harme und Wohle permanent zu gewähren oder aufzulösen. Um einen Harm oder ein Wohl zu übertragen, musst du dich für eine Anzahl Tage gleich des Kraftlevels vollständig mit der Verstärkten Wirkung beschäftigen. In dieser Zeit kannst du Essen, Trinken und mit zwei Ausnahmen sonst normal Handeln: 1) Du musst jeden Tag aktiv und ohne große Unterbrechungen 8 Stunden an der Wirkung des Harms oder Wohls arbeiten. 2) Du kannst dich generell frei bewegen und das Gebiet verlassen, aber für die 8 Stunden pro Tag musst du am gleichen Ort sein, an dem die Wirkung begonnen wurde. Wenn die Wirkzeit vollständig ist, mache deinen Aktionswurf je nach intendierter Anwendung:
     <ul>
     <li><strong>Wohl gewähren</strong> - Mache einen normalen Aktionswurf, um das Wohl zu wirken. Bei Erfolg kannst du deinem Ziel ein nicht-augenblickliches und nicht-permanentes Wohl gewähren. Das Ziel kann das Wohl danach als kostenlose Aktion wirken, ohne dazu einen Aktionswurf zu benötigen. Das Ziel muss keine Aktionen nutzen, um das Wohl aufrechtzuerhalten und es kann nur temporär durch den Harm <em>Annullieren</em> neutralisiert werden. Um das Wohl permanent zu neutraliesieren (das gewährte Wohl aufzuheben), muss Vertiefte Wirkung mit dem Effekt Wohl bannen benutzt werden (siehe folgende Absätze).</li>
-    <li><strong>Harm gewähren</strong> - Mache einen normalen Aktionswurf, um den Harm zu wirken. Bei Erfolg kannst du deinem Ziel einen nicht-augenblicklichen und nicht-permanenten Harm zufügen. Der Harm hält ohne Zeitlimit an und erlaubt keine Widerstehenwürfe, um ihn zu beenden. Der Effekt kann nur temporär mit dem Harm <em>Annullieren</em> oder permanent mit einer Verstärkten Wirkung mit der Anwendung Harm bannen benutzt werden (siehe folgende Absätze).</li>
+    <li><strong>Harm gewähren</strong> - Mache einen normalen Aktionswurf, um den Harm zu wirken. Bei Erfolg kannst du deinem Ziel einen nicht-augenblicklichen und nicht-permanenten Harm zufügen. Der Harm hält ohne Zeitlimit an und erlaubt keine Widerstandswürfe, um ihn zu beenden. Der Effekt kann nur temporär mit dem Harm <em>Annullieren</em> oder permanent mit einer Verstärkten Wirkung mit der Anwendung Harm bannen benutzt werden (siehe folgende Absätze).</li>
     <li><strong>Wohl bannenstrong> - Mache einen Vergehenwurf mit einem Herausforderungswert von 10 + 2 x Kraftlevel des Wohls, das du bannen willst. Bei Erfolg entfernst du ein permanentes Wohl vom Ziel, sodass dieses dessen Effekte und die Fähigkeit verliert, es zu wirken.</li>
     <li><strong>Harm bannen</strong> - Mache einen Schutzwurf mit einem Herausforderungswert von 10 + 2 x Kraflevel des Harms, den du bannen willst. Bei Erfolg entfernst du einen permanenten Harm vom Ziel, wobei das Ziel aber keine Resistenz oder Immunität gegen den Harm für die Zukunft erhält.</li>
     </ul>
