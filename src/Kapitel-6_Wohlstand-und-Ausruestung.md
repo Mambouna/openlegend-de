@@ -98,23 +98,23 @@ Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an 
 | Langspeer                                       | Zweihand Nahkampf, Kurze Reichweite | 2   | Kraftvoll, Präzise, Lang                                                      | Anhaltender Schaden, Entwaffnet, Immobilisiert             |
 | Mistgabel, Stab                                 | Zweihand Nahkampf                     | 1   | Kraftvoll                                                                     | Niedergeschlagen, Immobilisiert, Erzwungene Bewegung       |
 | Glaive, Hellebarde, Naginata                    | Zweihand Nahkampf                     | 2   | Kraftvoll, Lang                                                               | Niedergeschlagen, Immobilisiert, Erzwungene Bewegung       |
-| Flammenwerfer                                   | Zweihand Nahkampf                     | 3   | Präzise, Langsam, Gebiet (5' / 10' Kegel)                                     | Furcht, Anhaltender Schaden                                |
+| Flammenwerfer                                   | Zweihand Nahkampf                     | 3   | Präzise, Langsam, Fläche (5' / 10' Kegel)                                     | Furcht, Anhaltender Schaden                                |
 | Laserpistole, Revolver, Pistole                 | Kleine Reichweite                      | 2   | Präzise                                                                       | Anhaltender Schaden, Verlangsamt                           |
-| Granate, Molotovcocktail                        | Kurze Reichweite                    | 2   | Präzise, Verbrauchsgut, Gebiet (10' Würfel)                                   | Anhaltender Schaden, Niedergeschlagen, Erzwungene Bewegung |
+| Granate, Molotovcocktail                        | Kurze Reichweite                    | 2   | Präzise, Verbrauchsgut, Fläche (10' Würfel)                                   | Anhaltender Schaden, Niedergeschlagen, Erzwungene Bewegung |
 | Leichte Armbrust                                | Mittlere Reichweite                   | 2   | Präzise                                                                       | Anhaltender Schaden, Immobilisiert                         |
-| Abgesägte Schrotflinte                          | Kleine Reichweite                      | 2   | Präzise, Langsam, Gebiet (10' Kegel)                                          | Anhaltender Schaden, Betäubt, Erzwungene Bewegung          |
+| Abgesägte Schrotflinte                          | Kleine Reichweite                      | 2   | Präzise, Langsam, Fläche (10' Kegel)                                          | Anhaltender Schaden, Betäubt, Erzwungene Bewegung          |
 | Kurzbogen, Pump-Action-Schrotflinte          | Mittlere Reichweite                   | 2   | Präzise                                                                       | Verlangsamt, Anhaltender Schaden, Niedergeschlagen         |
-| Maschinenpistole, M16                           | Mittlere Reichweite                   | 3   | Präzise, Gebiet (10' Würfel)                                                  | Anhaltender Schaden, Provoziert, Demoralisiert             |
+| Maschinenpistole, M16                           | Mittlere Reichweite                   | 3   | Präzise, Fläche (10' Würfel)                                                  | Anhaltender Schaden, Provoziert, Demoralisiert             |
 | Schwere Armbrust, Langbogen, Gewehr             | Große Reichweite                      | 2   | Präzise                                                                       | Anhaltender Schaden, Verlangsamt                           |
 | Scharfschützengewehr, Lasergewehr               | Extreme Reichweite                    | 2   | Präzise                                                                       | Anhaltender Schaden, Verlangsamt                           |
-| Kanone                                          | Extreme Reichweite                    | 2   | Präzise, Langsam, Gebiet (15' Rechteck),  Verzögert bereit, Schwer, Stationär | Anhaltender Schaden, Erzwungene Bewegung, Betäubt          |
+| Kanone                                          | Extreme Reichweite                    | 2   | Präzise, Langsam, Fläche (15' Rechteck),  Verzögert bereit, Schwer, Stationär | Anhaltender Schaden, Erzwungene Bewegung, Betäubt          |
 | Kleiner Schild                                  | Einhand Nahkampf                      | 2   | Kraftvoll, Defensiv 1                                                         | Erzwungene Bewegung, Betäubt, Niedergeschlagen             |
 | Riot-Schild, Turmschild                         | Einhand Nahkampf                      | 3   | Kraftvoll, Defensiv 2                                                         | Erzwungene Bewegung, Betäubt, Niedergeschlagen             |
 
 > ### Waffen und Spielbalance
 > Open Legend legt meist mehr Wert auf eine gute Geschichte, als auf ein wahrliches ausgewogenes Spiel. Das ist besonders relevant für Waffen. Genauso wie in der Realität, werden nicht alle Waffen in Open Legend ausgewogen sein und manche werden über andere bevorzugt werden. Spielmechanisch hat ein Charakter keinen Anreiz, statt einem Langschwert ein Kurzschwert zu nutzen, da sie bis auf die Möglichkeit, das Langschwert mit einer oder zwei Händen zu führen, gleich sind. Das bedeutet aber nicht, dass die Geschichte nie Situationen hervorbringen kann, in denen ein Kurzschwert einem Langschwert vorzuziehen wäre oder besser passen könnte. Eine neu aufgestellte Diebesgilde könnte zu Beginn nicht die Mittel haben, alle Mitglieder mit Langschwertern auszurüsten, sodass die weniger prominenten Agenten zunächst mit Kurzschwertern ausgerüstet werden könnten.
 ### Eigenschaften
-**Gebiet**[?] - Eine Gebietswaffe führt immer Multiziel-Attacken der aufgeführten Größe und Form aus und kann nicht für einfache Attacken mit einem Ziel genutzt werden. Falls eine Waffe mehrere verschiedene Gebietsgrößen hat, kann der Angreifer für jede Attacke entscheiden, welche er nutzen will. Die Attacken dieser Waffen leiden nicht unter dem normalen Nachteil für das Ausführen von Multiziel-Attacken.
+**Fläche** - Eine Flächenwaffe führt immer Multiziel-Attacken der aufgeführten Größe und Form aus und kann nicht für einfache Attacken mit einem Ziel genutzt werden. Falls eine Waffe mehrere verschiedene Flächengrößen hat, kann der Angreifer für jede Attacke entscheiden, welche er nutzen will. Die Attacken dieser Waffen leiden nicht unter dem normalen Nachteil für das Ausführen von Multiziel-Attacken.
 
 **Verbrauchsgut** - Ein Verbrauchsgegenstand kann nur einmal benutzt werden, um einen Angriff auszuführen. Danach ist das Item benutzt und kann nicht wieder verwendet werden.
 
@@ -186,7 +186,7 @@ Wähle als nächstes eine beliebige Anzahl an weiteren Eigenschaften aus, die di
 
 | Eigenschaft      | WW-Modifikator    |
 | ---------------- | ----------------- |
-| Gebiet           | + Gebietsmalus\*  |
+| Fläche           | + Flächenmalus\*  |
 | Defensiv         | + *defensiv*-Wert |
 | Verzögert bereit | -1                |
 | Verbrauchsgut    | -1                |
@@ -196,7 +196,7 @@ Wähle als nächstes eine beliebige Anzahl an weiteren Eigenschaften aus, die di
 | Stationär        | -1                |
 | Schnell          | +1                |
 
-*\* Wert des Nachteils anhand des Gebiets für Multi-Zielen Angriffe (siehe [Kapitel 7: Kampf](./Kapitel-7_Kampf.md))*
+*\* Wert des Nachteils anhand der Fläche für Multi-Zielen Angriffe (siehe [Kapitel 7: Kampf](./Kapitel-7_Kampf.md))*
 ### Schritt 3: Harme auswählen
 Waffen werden in ihrem Kampfstil durch die Harme differenziert, die sie wirken können. Harme haben keinen Einfluss auf den Wohlstandswert der Waffe und die meisten Waffen haben 2 oder 3 assoziierte Harme. Waffen mit 4 oder mehr Harmen müssen vom GM akzeptiert werden.
 ### Schritt 4: Wohlstandswert berechnen

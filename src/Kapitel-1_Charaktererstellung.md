@@ -267,7 +267,7 @@ In der Schlacht sind Kampfmagier die Ein-Mann-Front. Ihre schwere Rüstung läss
 
 **Attribute:** Geschicklichkeit 2 (1d6), Konstitution 3 (1d8), Kraft 4 (1d10), Präsenz 3 (1d8), Energie 5 (2d6)<br>**Trefferpunkte:** 22<br>**Deckung:** 20 (21 mit Schild - Geschicklichkeit 2, Kraft 4, Plattenpanzer 3, Fertigkeit 1)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 25'
 
-**Fertigkeiten:** Multi-Zielen Angriffsspezialisierung II (Gebiet), Rüstungsexpertise I
+**Fertigkeiten:** Multi-Zielen Angriffsspezialisierung II (Fläche), Rüstungsexpertise I
 
 **Wichtige Ausrüstung:** Plattenpanzer, kleiner Schild, Langschwert, Speer, Kriegshammer
 #### Bevorzugte Aktionen
@@ -312,7 +312,7 @@ Chronomagier sehen und manipulieren die größte Kraft des Universums: die Zeit.
 #### Strategie
 Chronomagier können den Fluss der Zeit kontrollieren und jenseits ihrer Grenzen sehen. Außerhalb von Kämpfen benutzen sie ihren sechsten Sinn mithilfe des Wohls *Voraussicht*, um vergangene und zukünftige Vorkommnisse jenseits der physischen Welt zu sehen.
 
-Beginnt der Kampf, dann bietet die Macht des Chronomagiers über die Zeit der Gruppe verschiedene Optionen. Egal, ob er die Zeit verlangsamt, sodass die Bewegungen seiner Verbündeten unmenschlich schnell erscheinen, sie beschleunigt um Feinde auszulaugen oder sie zurückdreht, um Wunden zu heilen, er gewinnt in jeder Situation die Oberhand. Mit der Fertigkeit *Wohlfokus* kann er diese Effekte in einem Gebiet um sich oder Verbündete wirken. *Attributsubstitution* schützt den fragilen Körper des Magiers, der abgesehen seiner Magie weder stark noch beweglich ist. Fällt sein Zorn auf einen Feind, kann der Chronomagier die Zeit seiner Organe beschleunigen und ihn so von innen heraus verrotten lassen.
+Beginnt der Kampf, dann bietet die Macht des Chronomagiers über die Zeit der Gruppe verschiedene Optionen. Egal, ob er die Zeit verlangsamt, sodass die Bewegungen seiner Verbündeten unmenschlich schnell erscheinen, sie beschleunigt um Feinde auszulaugen oder sie zurückdreht, um Wunden zu heilen, er gewinnt in jeder Situation die Oberhand. Mit der Fertigkeit *Wohlfokus* kann er diese Effekte in einer Fläche um sich oder Verbündete wirken. *Attributsubstitution* schützt den fragilen Körper des Magiers, der abgesehen seiner Magie weder stark noch beweglich ist. Fällt sein Zorn auf einen Feind, kann der Chronomagier die Zeit seiner Organe beschleunigen und ihn so von innen heraus verrotten lassen.
 
 **Attribute:** Willenskraft 2 (1d6), Schöpfung 3 (1d8), Vergehen 4 (1d10), Bewegung 5 (2d6), Vorwissen 3 (1d8)<br>**Trefferpunkte:** 14<br>**Deckung:** 16 (Bewegung 5 durch *Attributsubstitution*, Stahlseidenrüstung 1)<br>**Zähigkeit:** 12<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
 
@@ -474,7 +474,7 @@ Schatten sind hoch trainierte Assassinen, die ihre unnatürliche Macht aus dem Z
 #### Strategie
 Während Schatten speziell dazu ausgebildet sind, Ziele zu neutralisieren, geben ihre Fähigkeiten, die Schatten zu manipulieren, ihnen auch viele verschiede nützliche Optionen außerhalb des Kampfes. Sie sind exzellente Späher und in der Lage, Waffen in dimensionalen Taschen mit *Objekt absorbieren* zu verstecken. Ihre Fähigkeit, durch die Leere hindurchzutreten macht sie auch zu adepten Infiltratoren. Vor ihrer *Teleportation* ist auch keine Titantür gefeit.
 
-Schatten ziehen es vor, so lange wie möglich versteckt zu bleiben, wenn ein Kampf beginnt, um ihre Feinde zu überraschen. Sie feuern mit schallgedämpften Scharfschützengewehren aus der Deckung heraus und nutzen *Teleportation*, um schnell die Position zu wechseln. Falls sie doch einmal entdeckt werden hüllen sie das Gebiet in *Dunkelheit* oder fliehen schnell mit *Hast*.
+Schatten ziehen es vor, so lange wie möglich versteckt zu bleiben, wenn ein Kampf beginnt, um ihre Feinde zu überraschen. Sie feuern mit schallgedämpften Scharfschützengewehren aus der Deckung heraus und nutzen *Teleportation*, um schnell die Position zu wechseln. Falls sie doch einmal entdeckt werden, hüllen sie das Gebiet in *Dunkelheit* oder fliehen schnell mit *Hast*.
 
 **Attribute:** Geschicklichkeit 4, Wahrnehmung 3, Willenskraft 2, Vergehen 3, Bewegung 5<br>**Trefferpunkte:** 14<br>**Deckung:** 15 (Geschicklichkeit 4, Trenchcoat 1)<br>**Zähigkeit:** 12<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
 

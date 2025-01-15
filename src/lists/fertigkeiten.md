@@ -478,7 +478,7 @@ Solange du nicht geblendet oder durch außergewöhnliche Mächte verwirrt bist, 
 > Tags: Nicht-Kampf, Geistig, Wahrnehmung
 
 ___
-### Gebietsmanipulation (I - V)
+### Flächenmanipulation (I - V)
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
@@ -489,10 +489,10 @@ ___
 - **Rang 5:** Keine
 
 **Beschreibung**  
-Egal, ob du dein vollautomatisches Sturmgewehr für dich sprechen lässt oder eine Flammenkugel wirfst, bist du besonders präzise darin, die Ziele deine Gebietsattacken anzuvisieren, sodass du Verbündete im Gebiet nicht im Kreuzfeuer hast.
+Egal, ob du dein vollautomatisches Sturmgewehr für dich sprechen lässt oder eine Flammenkugel wirfst, bist du besonders präzise darin, die Ziele deiner Flächenattacken anzuvisieren, sodass du Verbündete im Gebiet nicht im Kreuzfeuer hast.
 
 **Effekt**  
-Für jeden Rang dieser Fertigkeit, den du besitzt, kannst du ein einziges 5' Rechteck aus dem Zielgebiet einer Gebietsattacke ausnehmen.
+Für jeden Rang dieser Fertigkeit, den du besitzt, kannst du ein einziges 5' Rechteck aus dem Zielgebiet einer Flächenattacke ausnehmen.
 
 > Tags: Keine Voraussetzungen, Außergewöhnlich
 
@@ -552,7 +552,7 @@ Du bist in der Lage, deine Illusionen nicht nur zum Erzeugen von Phantomen zu be
 
 **Effekt**  
 <ul>
-<li><strong>Rang 1</strong> - Wenn du den Harm <em>Phantom</em> wirkst, kannst du dich entscheiden, statt der normalen Wirkweise eine Halluzination in den Sinnen eines einzigen Ziels zu schaffen. Du erlangst vollständige Kontrolle über die Sinne des Ziels (je nach Kraftlevel des Harms), sodass die Halluzination nicht durch Größe oder Gebiet eingeschränkt ist. Deine Halluzination kann nur ein Ziel haben und kann nicht mit Multi-Zielen benutzt werden. Weiterhin hat das Ziel Nachteil auf seine Widerstehenwürfe gegen den Harm, außer es erleidet Schaden.</li>
+<li><strong>Rang 1</strong> - Wenn du den Harm <em>Phantom</em> wirkst, kannst du dich entscheiden, statt der normalen Wirkweise eine Halluzination in den Sinnen eines einzigen Ziels zu schaffen. Du erlangst vollständige Kontrolle über die Sinne des Ziels (je nach Kraftlevel des Harms), sodass die Halluzination nicht durch Größe oder Fläche eingeschränkt ist. Deine Halluzination kann nur ein Ziel haben und kann nicht mit Multi-Zielen benutzt werden. Weiterhin hat das Ziel Nachteil auf seine Widerstehenwürfe gegen den Harm, außer es erleidet Schaden.</li>
 <li><strong>Rang 2</strong> - Wenn du mit <em>Phantom</em> eine Halluzination wirkst, kannst du anhand deine Einfluss-Wertes weitere Kreaturen als zusätzliche Ziele einschließen. Da dies nicht als Multi-Zielen zählt, leidet dein Aktionswurf nicht unter Nachteil.
   <ul>
   <li><strong>Einfluss 7</strong> - 5 Ziele</li>
@@ -756,7 +756,7 @@ Ob du deine Schläge blitzschnell niederregnen lässt, zwei Waffen führst oder 
 Zu Beginn deines Zuges kannst du ansagen, dass du eine Multi-Attacke nutzen wirst. Du must angeben, wie viele Extraangriffe du ausführen möchtest. Du erhälst eine dem entsprechende Anzahl an zusätzlichen großen Aktionen, die nur für Angriffe genutzt werden können. <em>Alle</em> deine Angriffe in dieser Runde haben Nachteil gleich 3 x Anzahl an <strong>zusätzlichen</strong> Attacken (z.B. hast du bei insg. 2 Attacken Nachteil 3 auf beide, 3 Angriffe haben alle Nachteil 6, usw. ...) Für jeden Rang dieser Fertigkeit reduzierst du den gesamten Nachteil für alle Angriffe um 1 (nicht die 3 Nachteil pro Zusatzattacke).
 Du kannst deine Angriffe für eine beliebige Kombination aus Harmen und Attacken mit Schaden nutzen, kannst aber keine Wohle wirken. Handle jede einzelne Attacke ab, wobei du wie normal Multi-Zielen anwenden kannst. Du kannst dich zwischen den Angriffen bewegen und kannst auch die gleiche Kreatur mehrmals angreifen.
 Die maximale Anzahl an zusätzlichen Angriffen pro Runde ist 1 + die Hälfte deines Levels aufgerundet. Auf Level 1 ist das Limit also 2 zusätzliche Attacken, 3 Attacken auf Level 3 und 6 auf Level 9.
-<strong>Beispiel</strong> - Vax der Todbringer hat Multi-Angriffsspezialisierung (Rang III). Er sagt an, dass er diese Runde drei Angriffe (also zwei zusätzliche) ausführen wird. Daher werden all seine Angriffe Nachteil 3 haben (3 x 2 = 6, davon 3 für Rang 3 abziehen). Sein erster Angriff ist ein nekromantischer Energieausbruch, der einen 10'-Würfel als Ziel hat. Aufgrund der Gebietsattacke hat Vax weitere 2 Nachteil auf den ersten Angriff, sodass er insgesamt dafür mit Nachteil 5 würfelt. Sein zweiter Angriff ist ein Harmangriff mit <em>Geblendet</em> auf einen einzigen Feind, sodass dieser mit Nachteil 3 stattfindet. Letztlich bewegt sich Vax in den Nahkampf und nutzt seine Todesberührung gegen drei Feinde, was weitere 3 Nachteil bringt. Sein letzter Angriffswurf hat also Nachteil 6.
+<strong>Beispiel</strong> - Vax der Todbringer hat Multi-Angriffsspezialisierung (Rang III). Er sagt an, dass er diese Runde drei Angriffe (also zwei zusätzliche) ausführen wird. Daher werden all seine Angriffe Nachteil 3 haben (3 x 2 = 6, davon 3 für Rang 3 abziehen). Sein erster Angriff ist ein nekromantischer Energieausbruch, der einen 10'-Würfel als Ziel hat. Aufgrund der Flächenattacke hat Vax weitere 2 Nachteil auf den ersten Angriff, sodass er insgesamt dafür mit Nachteil 5 würfelt. Sein zweiter Angriff ist ein Harmangriff mit <em>Geblendet</em> auf einen einzigen Feind, sodass dieser mit Nachteil 3 stattfindet. Letztlich bewegt sich Vax in den Nahkampf und nutzt seine Todesberührung gegen drei Feinde, was weitere 3 Nachteil bringt. Sein letzter Angriffswurf hat also Nachteil 6.
 
 > Tags: Beliebiges Attribut
 
@@ -794,10 +794,10 @@ ___
 Du bist ein Meister darin, viele Feinde gleichzeitig niederzustrecken, sei es mit einem Wirbel deiner Zwillingsschwerter, einem Kugelhagel, einer Welle psionischer Energie oder einem vernichtenden Feuerball.
 
 **Effekt**  
-Wenn du diese Fertigkeit wählst, musst du dich für einen Ansatz aus Nahkampf, Fernkampf oder Gebietsangriffen entscheiden. Für jeden Rang dieser Fertigkeit reduzierst du den mit Multi-Zielen assoziierten Nachteil für deinen gewählten Ansatz um 1. 
+Wenn du diese Fertigkeit wählst, musst du dich für einen Ansatz aus Nahkampf, Fernkampf oder Flächenangriffen entscheiden. Für jeden Rang dieser Fertigkeit reduzierst du den mit Multi-Zielen assoziierten Nachteil für deinen gewählten Ansatz um 1. 
 
 **Besonders**  
-Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit erwerben kannst, kannst du die Fertigkeit selbst auch mehrmals erhalten, wobei du jedes Mal einen anderen Ansatz (Nahkampf, Fernkampf, Gebietsattacken) auswählst. Jede Instanz dieser Fertigkeit hat separate Ränge.
+Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit erwerben kannst, kannst du die Fertigkeit selbst auch mehrmals erhalten, wobei du jedes Mal einen anderen Ansatz (Nahkampf, Fernkampf, Flächenattacken) auswählst. Jede Instanz dieser Fertigkeit hat separate Ränge.
 
 > Tags: Beliebiges Attribut
 
@@ -1241,7 +1241,7 @@ Wenn du einen Harm oder ein Wohl wirkst, kannst du dich entscheiden, dies als Ve
     Attributwert 7 = 1 Meile<br/>
     Attributwert 8 = 10 Meilen<br/>
     Attributwert 9 = 100 Meilen<br/></li>
-  <li>Neutralisiere zwei Level Nachteil, die durch Multi-Zielen bewirkt werden (z.B. kannst du auf zwei Kreaturen oder ein 10' Gebiet zielen, ohne Nachteil zu erhalten).</li>
+  <li>Neutralisiere zwei Level Nachteil, die durch Multi-Zielen bewirkt werden (z.B. kannst du auf zwei Kreaturen oder eine 10' Fläche zielen, ohne Nachteil zu erhalten).</li>
   <li>Behandle deinen Attributwert zum Bestimmen der Attributwürfel für diese Wirkung als eins höher als er eigentlich ist. Dies gibt dir nicht Zugang zu weiteren Harmen oder Wohlen, sondern betrifft nur die für den Wurf genutzten Würfel.</li>
   </ul>
 

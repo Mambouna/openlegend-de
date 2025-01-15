@@ -50,7 +50,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 | Trank der kleinen Heilung  | 1   |               | Heilen 3                                        | Konsumgut                                                                                   |
 | Raketenwerfer              | 3   |               |                                                 | Fatal 2, Verbrauchsgut, Waffe (Kanone)                                                      |
 | Stab der Furcht            | 3   |               | Furcht 7                                        |                                                                                             |
-| Schlafgas                  | 4   |               | Bewusstlos 5                                    | Verbrauchsgut, Gebiet (15' Würfel)                                                          |
+| Schlafgas                  | 4   |               | Bewusstlos 5                                    | Verbrauchsgut, Fläche (15' Würfel)                                                          |
 | Seelensauger               | 2   |               | Erschöpft 5                                     |                                                                                             |
 | Fernglas der Weitsicht     | 4   | Wahrnehmung 6 |                                                 |                                                                                             |
 | Transmogrifizierungsstrahl | 5   |               | Polymorph 6                                     |                                                                                             |
@@ -60,7 +60,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 #### Eigenschaften
 **Augmentierend** - Harme, die mit diesem Item assoziiert sind, können mit einer alternativen Methode, zum Beispiel einer Waffe oder anderem Angriff mit Schaden, zugefügt werden. Eine Waffe oder Attacke mit diesem Item zu augmentieren ist eine Bewegungsaktion, die das Item verbraucht. Bei der Augmentierung wählst du einen Harm, den das Item wirken kann. Die nächste Attacke mit dem augmentierten Item wirkt den Harm, wenn dein Angriffswurf die Verteidigung deines Feindes trifft oder übersteigt. Beispiele für die Eigenschaft *Augmentierend* schließen Gift, besondere Munition oder magische Juwelen ein, die Waffen verstärken. Alle Items mit *Augmentierend* müssen auch die Eigenschaft *Verbrauchsgut* haben.
 
-**Gebiet** - Eine Gebietswaffe führt immer Multi-Zielen Angriffe der aufgeführten Größe und Form aus und kann nicht für einfache Attacken mit einem Ziel genutzt werden. Falls eine Waffe mehrere verschiedene Gebietsgrößen hat, kann der Angreifer für jede Attacke entscheiden, welche er nutzen will. Die Attacken dieser Waffen leiden nicht unter den normalen Nachteilen bei Multi-Zielen.
+**Fläche** - Eine Flächenwaffe führt immer Multi-Zielen Angriffe der aufgeführten Größe und Form aus und kann nicht für einfache Attacken mit einem Ziel genutzt werden. Falls eine Waffe mehrere verschiedene Flächengrößen hat, kann der Angreifer für jede Attacke entscheiden, welche er nutzen will. Die Attacken dieser Waffen leiden nicht unter den normalen Nachteilen bei Multi-Zielen.
 
 **Rüstung (Typ)** - Das Item fungiert als Rüstung des gegebenen Typs und gibt dabei alle Vorzüge und Nachteile dieser Art Rüstung für den sie tragenden Charakter.
 
@@ -84,7 +84,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 
 **Mächtig** - Mit diesem Item gewirkte Harme oder Wohle haben Vorteil anhand dem *Mächtig*-Wert des Items. Ein Item kann keinen Wert für *Mächtig* größer als 3 haben.
 
-**Zuverlässig** - Der das Item nutzende Charakter muss nicht werfen, um für dieses Item unter Harme & Wohle aufgelisteten Wohle zu wirken, falls das Wohl nur ein einziges Ziel hat. Das Wirken hat automatisch Erfolg. Falls das Item außerdem die Eigenschaft *Gebiet* hat, kann es trotz Multi-Zielen vom Effekt der Eigenschaft *Zuverlässig* profitieren.
+**Zuverlässig** - Der das Item nutzende Charakter muss nicht werfen, um für dieses Item unter Harme & Wohle aufgelisteten Wohle zu wirken, falls das Wohl nur ein einziges Ziel hat. Das Wirken hat automatisch Erfolg. Falls das Item außerdem die Eigenschaft *Fläche* hat, kann es trotz Multi-Zielen vom Effekt der Eigenschaft *Zuverlässig* profitieren.
 
 **Intelligent** - Dieses Item hat ein eigenes Bewusstsein oder zumindest grundlegende Intelligenz. Es hat keine inhärente Verbindung zu seinem Schöpfer und wird wie jeder andere NPC behandelt. Es hat einen eigenen Zug in der Initiativereihenfolge und hat einen eigenen Satz an möglichen Aktionen. Das Item hat keine geistigen oder sozialen Attribute, sondern kann einfach nur denken. Der GM kann auch entscheiden, dass das Item sich auf bestimmte Weise bewegen kann, zum Beispiel durch laufen, klettern, fliegen oder schwimmen.
 
@@ -207,9 +207,9 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 
 *Wird dieses Horn geblasen, erzeugt es eine Schallwelle, die stark genug ist, Kreaturen taub zu schlagen und Gegenstände bersten zu lassen.*
 
-**Eigenschaften:** Gebiet 20' Kegel
+**Eigenschaften:** Fläche (20' Kegel)
 
-**Besonders:** Der nutzende Charakter kann mit einer großen Aktion in das Horn blasen um einen Gebietsangriff als 20' Kegel auszuführen. Der Angriff hat Kraft 5 gegen Zähigkeit. Kreaturen, die von der Attacke getroffen werden, erleiden die Harme *Taub* (Kraftlevel 4) und *Niedergeschlagen* (Kraftlevel 1). Objekte in der Umgebung werden statt den Harmen der Attacke dem doppelten Schaden ausgesetzt. Das Horn kann ohne Risiko einmal pro Tag geblasen werden. Wann immer es öfter geblasen wird, gibt es eine 25% Chance, dass das Horn beim Versuch zerbirst.
+**Besonders:** Der nutzende Charakter kann mit einer großen Aktion in das Horn blasen um einen Flächenangriff als 20' Kegel auszuführen. Der Angriff hat Kraft 5 gegen Zähigkeit. Kreaturen, die von der Attacke getroffen werden, erleiden die Harme *Taub* (Kraftlevel 4) und *Niedergeschlagen* (Kraftlevel 1). Objekte in der Umgebung werden statt den Harmen der Attacke dem doppelten Schaden ausgesetzt. Das Horn kann ohne Risiko einmal pro Tag geblasen werden. Wann immer es öfter geblasen wird, gibt es eine 25% Chance, dass das Horn beim Versuch zerbirst.
 ##### Jetpack
 **Wohlstandswert:** 3
 
@@ -221,7 +221,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 
 *Dieses Laserturret entfesselt einen massiven Strahl stark aufgeladener Photonen, um Feinde zu dezimieren. Ihre gigantische Kraft wird durch die nötige Zeit, sie aufzuladen, ausgeglichen.*
 
-**Eigenschaften:** Gebiet (50' Linie), Fatal 2, Waffe (Kanone)
+**Eigenschaften:** Fläche (50' Linie), Fatal 2, Waffe (Kanone)
 ##### Kriegshammer der Dominanz
 **Wohlstandswert:** 4
 
@@ -263,7 +263,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 
 **Eigenschaften:** Fatal 2, Verbrauchsgut, Waffe (Kanone)
 
-**Besonders:** Diese Waffe hat extreme Reichweite und die Eigenschaften Präzise, Verzögert bereit, Schwer und Gebiet (15' Würfel). Weiterhin hat sie die Harme *Anhaltender Schaden*, *Betäubt* und *Erzwungene Bewegung*. Die Eigenschaft *Verbrauchsgut* bezieht sich auf die Munition. Jeder Schuss verbraucht ein außergewöhnliches Item.
+**Besonders:** Diese Waffe hat extreme Reichweite und die Eigenschaften Präzise, Verzögert bereit, Schwer und Fläche (15' Würfel). Weiterhin hat sie die Harme *Anhaltender Schaden*, *Betäubt* und *Erzwungene Bewegung*. Die Eigenschaft *Verbrauchsgut* bezieht sich auf die Munition. Jeder Schuss verbraucht ein außergewöhnliches Item.
 ##### Stab der Furcht
 **Wohlstandswert:** 3
 
@@ -275,7 +275,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 
 *Manche Granaten zerfetzen deine Feinde. Diese ist eher für diejenigen geeignet, die einen subtileren Angang bevorzugen.*
 
-**Eigenschaften:** Bewusstlos 5, Verbrauchsgut, Gebiet (15' Würfel)
+**Eigenschaften:** Bewusstlos 5, Verbrauchsgut, Fläche (15' Würfel)
 ##### Seelensauger
 **Wohlstandswert:** 2
 
@@ -327,7 +327,7 @@ Wähle eine beliebige Anzahl weiterer Eigenschaften, die das Item haben soll. Ei
 
 | Eigenschaft   | WW Modifikation                                                                  |
 | ------------- | -------------------------------------------------------------------------------- |
-| Gebiet        | + Gebietsmalus\*                                                                 |
+| Fläche        | + Flächenmalus\*                                                                 |
 | Rüstung       | Muss zunächst erhalten oder erschafft werden                                     |
 | Augmentierend | +1                                                                               |
 | Autonom       | +2                                                                               |
@@ -343,7 +343,7 @@ Wähle eine beliebige Anzahl weiterer Eigenschaften, die das Item haben soll. Ei
 | Mächtig       | 2 + *Mächtig*-Wert                                                               |
 | Intelligent   | +3                                                                               |
 | Waffe         | Muss zunächst erhalten oder erschafft werden                                     |
-*\* Wert des Nachteils anhand des Gebiets für Multi-Zielen Angriffe (siehe [Kapitel 7: Kampf](./Kapitel-7_Kampf.md))*
+*\* Wert des Nachteils anhand der Fläche für Multi-Zielen Angriffe (siehe [Kapitel 7: Kampf](./Kapitel-7_Kampf.md))*
 #### Schritt 3: Besondere Eigenschaften schreiben
 Im letzten Schritt konntest du aus den vordefinierten Eigenschaften auswählen. Nun kannst du deinem Item einzigartige Effekte verleihen, indem du deine eigenen besonderen Eigenschaften schreibst. Dafür schreibst du eine klare Beschreibung der spielmechanischen Auswirkungen des Items sowie möglicher Bedingungen oder Einschränkungen dafür.
 
@@ -434,9 +434,9 @@ Legendäre Items können alle Eigenschaften besitzen, die auch außergewöhnlich
 ##### Allkanone
 *Diese Universen zerschmetternde Waffe der weit entfernten Zukunft kann buchstäbliche Löcher in das Raum-Zeitkontinuum reißen. Wird sie mit voller Ladung gefeuert, reißt die Allkanone einen Riss in die Raumzeit, der sich als konzentrierter Strahl der Vernichtung manifestiert, der alles auf seinem Weg aus der Existenz tilgt.*
 
-**Waffe:** Normalerweise ist die Allkanone eine Waffe mit den folgenden Werten und Eigenschaften: mittlere Reichweite, Präzise, Fatal 3, Verzögert bereit, Gebiet (10' Würfel), Harme: *Anhaltender Schaden*.
+**Waffe:** Normalerweise ist die Allkanone eine Waffe mit den folgenden Werten und Eigenschaften: mittlere Reichweite, Präzise, Fatal 3, Verzögert bereit, Fläche (10' Würfel), Harme: *Anhaltender Schaden*.
 
-**All:** Der Träger kann die Kanone mit voller Ladung abfeuern, indem er zwei ununterbrochene Runden hintereinander Fokusaktionen nutzt, um sie aufzuladen. In der dritten Runde kann der Träger eine weitere Fokusaktion nutzen, um den Strahl abzufeuern, der eine 10' breite Linie bis zur maximalen Reichweite der Waffe abdeckt. Objekte und Strukturen im getroffenen Gebiet sind komplett vernichtet. Kreaturen müssen einen Geschicklichkeitswurf mit HW 15 bestehen oder sonst das gleiche Schicksal teilen. Bei einem erfolgreichen Wurf nehmen sie immer noch 50 Schaden. Wurde die Waffe mit voller Ladung abgefeuert, kann sie für 24 Stunden nicht benutzt werden.
+**All:** Der Träger kann die Kanone mit voller Ladung abfeuern, indem er zwei ununterbrochene Runden hintereinander Fokusaktionen nutzt, um sie aufzuladen. In der dritten Runde kann der Träger eine weitere Fokusaktion nutzen, um den Strahl abzufeuern, der eine 10' breite Linie bis zur maximalen Reichweite der Waffe abdeckt. Objekte und Strukturen in der getroffenen Fläche sind komplett vernichtet. Kreaturen müssen einen Geschicklichkeitswurf mit HW 15 bestehen oder sonst das gleiche Schicksal teilen. Bei einem erfolgreichen Wurf nehmen sie immer noch 50 Schaden. Wurde die Waffe mit voller Ladung abgefeuert, kann sie für 24 Stunden nicht benutzt werden.
 
 ##### Riesenbann
 *Dieser unscheinbare Langbogen verbirgt eine geheime Kraft. Er enthält die Seelen von vier legendären Jägern, die zu ihrer Zeit nicht in der Lage waren, die Frostriesen zu bezwingen, die das Reich seit einhundert Jahren heimsuchen. Nach Rache und der ewigen Ruhe sehnend können die Jäger nicht in das nächste Leben übergehen, bis der König der Riesen bezwungen ist.*
@@ -520,14 +520,14 @@ Unten findest du eine Reihe an Reittieren und Fahrzeugen um deine Charaktere üb
 | Beispiel                 | WW  | Geschwindigkeit | Eigenschaften                                                         | Attribute                      | Fertigkeiten                                      | TP  | SG  | Verteidigung                                        |
 | ------------------------ | --- | --------------- | --------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------- | --- | --- | --------------------------------------------------- |
 | Offroad-Fahrzeug         | 2   | 80'             |                                                                       | Geschicklichkeit 4                |                                                   | 20  | 2   | Deckung: 14, Zähigkeit: 14, Entschlossenheit: immun |
-| Kampfkreuzer             | 9   | 1000' fliegend  | FTL, Zielsuchende Waffen, Gezielte Waffen, Unabhängig 2, Multi-Crew 4 | Energie 7                      | Multi-Zielen Angriffsspezialisierung (Gebiet) V   | 50  | 5   | Deckung: 25, Zähigkeit: 18, Entschlossenheit: immun |
-| Wyvern                   | 5   | 50' fliegend    | Unabhängig 1                                                          | Energie 6                      | Multi-Zielen Angriffsspezialisierung (Gebiet) III | 38  | 1   | Deckung: 20, Zähigkeit: 18, Entschlossenheit: 15    |
-| Kampfschiff              | 5   | 2000' fliegend  | FTL, Zielsuchende Waffen, Gezielte Waffen, Multi-Crew 2               | Energie 6                      | Multi-Zielen Angriffsspezialisierung (Gebiet) III | 36  | 4   | Deckung: 22, Zähigkeit: 15, Entschlossenheit: immun |
-| Hydropod                 | 4   | 50' schwimmend  | Zielsuchende Waffen, Gezielte Waffen, Multi-Crew 2                    | Geschicklichkeit 5, Energie 4     | Multi-Zielen Angriffsspezialisierung (Gebiet) II  | 20  | 3   | Deckung: 20, Zähigkeit: 17, Entschlossenheit: immun |
-| Galleone                 | 6   | 70' schwimmend  | Gezielte Waffen, Multi-Crew 10                                        | Geschicklichkeit 6                | Multi-Zielen Angriffsspezialisierung (Gebiet) III | 30  | 5   | Deckung: 19, Zähigkeit: 15, Entschlossenheit: immun |
+| Kampfkreuzer             | 9   | 1000' fliegend  | FTL, Zielsuchende Waffen, Gezielte Waffen, Unabhängig 2, Multi-Crew 4 | Energie 7                      | Multi-Zielen Angriffsspezialisierung (Fläche) V   | 50  | 5   | Deckung: 25, Zähigkeit: 18, Entschlossenheit: immun |
+| Wyvern                   | 5   | 50' fliegend    | Unabhängig 1                                                          | Energie 6                      | Multi-Zielen Angriffsspezialisierung (Fläche) III | 38  | 1   | Deckung: 20, Zähigkeit: 18, Entschlossenheit: 15    |
+| Kampfschiff              | 5   | 2000' fliegend  | FTL, Zielsuchende Waffen, Gezielte Waffen, Multi-Crew 2               | Energie 6                      | Multi-Zielen Angriffsspezialisierung (Fläche) III | 36  | 4   | Deckung: 22, Zähigkeit: 15, Entschlossenheit: immun |
+| Hydropod                 | 4   | 50' schwimmend  | Zielsuchende Waffen, Gezielte Waffen, Multi-Crew 2                    | Geschicklichkeit 5, Energie 4     | Multi-Zielen Angriffsspezialisierung (Fläche) II  | 20  | 3   | Deckung: 20, Zähigkeit: 17, Entschlossenheit: immun |
+| Galleone                 | 6   | 70' schwimmend  | Gezielte Waffen, Multi-Crew 10                                        | Geschicklichkeit 6                | Multi-Zielen Angriffsspezialisierung (Fläche) III | 30  | 5   | Deckung: 19, Zähigkeit: 15, Entschlossenheit: immun |
 | Greiff                   | 4   | 50' fliegend    | Unabhängig 1                                                          | Kraft 5                        | Harmfokus (Immobilisiert)                         | 34  | 1   | Deckung: 19, Zähigkeit: 16, Entschlossenheit: 13    |
 | Pferd                    | 3   | 40'             |                                                                       | Kraft 4                        |                                                   | 28  | 1   | Deckung: 15, Zähigkeit: 15, Entschlossenheit: 10    |
-| Mech                     | 4   | 40'             | Zielsuchende Waffen, Gezielte Waffen                                  | Energie 5, Geschicklichkeit 6     | Multi-Zielen Angriffsspezialisierung (Gebiet) II  | 22  | 3   | Deckung: 22, Zähigkeit: 20, Entschlossenheit: immun |
+| Mech                     | 4   | 40'             | Zielsuchende Waffen, Gezielte Waffen                                  | Energie 5, Geschicklichkeit 6     | Multi-Zielen Angriffsspezialisierung (Fläche) II  | 22  | 3   | Deckung: 22, Zähigkeit: 20, Entschlossenheit: immun |
 | Phönix                   | 5   | 50' fliegend    |                                                                       | Energie 7                      | Angriffsspezialisierung II (Feuer)                | 32  | 1   | Deckung: 20, Zähigkeit: 16, Entschlossenheit: 19    |
 | Pegasus                  | 4   | 50' fliegend    |                                                                       | Kraft 4, Schöpfung 4           | Wohlfokus I (Heilen)                              | 28  | 1   | Deckung: 18, Zähigkeit: 17, Entschlossenheit: 17    |
 | Velociraptor, Dunkelwolf | 3   | 40'             |                                                                       | Geschicklichkeit 5, Wahrnehmung 5 | Harmfokus I (Niedergeschlagen)                    | 24  | 1   | Deckung: 17, Zähigkeit: 14, Entschlossenheit: 15    |

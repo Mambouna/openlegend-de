@@ -131,7 +131,7 @@ Du musst ein Ziel in Reichweite wählen:
 | 4 - 6        | 50 Fuß     |
 | 7 - 9        | 75 Fuß     |
 > ##### Fernkampfattacken im Nahkampf
-> Wann immer du einen Fernkampfangriff ausführst, während ein Feind in Nahkampfreichweite zu dir ist, hast du Nachteil 1 auf deinen Angriffswurf. Gebietsattacken zählen in diesem Fall als Fernkampfangriffe, solange das Zielgebiet nicht mindestens ein Feld direkt angrenzend zu dir hat.
+> Wann immer du einen Fernkampfangriff ausführst, während ein Feind in Nahkampfreichweite zu dir ist, hast du Nachteil 1 auf deinen Angriffswurf. Flächenattacken zählen in diesem Fall als Fernkampfangriffe, solange das Zielgebiet nicht mindestens ein Feld direkt angrenzend zu dir hat.
 ##### Wirf deinen Angriffswurf
 Führe einen Attributwurf mit dem in Schritt 1 festgestellten Attribut aus. Du fügst Schaden gleich der Differenz aus deinem Wurfergebnis und der Verteidigung deines Ziels zu, wobei negative Ergebnisse ignoriert werden. Dieser Schaden wird von den Trefferpunkten deines Ziels subtrahiert. Wann immer du den HW des Wurfes triffst oder darüber liegst, fügst du **mindestens 3 Schaden zu.**
 ##### Herausragender Erfolg
@@ -142,15 +142,15 @@ Alternativ dazu, einen Harm zu wirken, kannst du auch die Konzentration deines Z
 > #### Kampf auf einem Raster
 > Viele Spielende ziehen es vor, Kampf auf einem Raster mit Miniaturen oder Tokens als Beteiligte abzuhandeln. In diesem Vorgehen repräsentiert jedes Feld des Rasters eine Fläche von 5 mal 5 Fuß. Bewegung wird dann nur in Schritten von 5 Fuß ausgeführt und du musst mindestens 5' zur Verfügung haben, um ein neues Feld zu betreten. Kämpfende können sich hier nur dann diagonal über Felder bewegen, wenn keines der an die Diagonale angrenzenden Felder ein Hindernis enthält, welches Bewegung erschwert. Beispiele solcher Hindernisse wären etwa Bäume, Gebäude oder Felsen.
 ##### Multi-Zielen
-Grundsätzlich zielen deine Angriffe jeweils auf einen einzelnen Feind. Du kannst dich aber auch entscheiden, mit einem Angriff mehrere Feinde ins Visier zu nehmen oder auf ein Gebiet zu zielen, das mehrere Feinde enthält.
+Grundsätzlich zielen deine Angriffe jeweils auf einen einzelnen Feind. Du kannst dich aber auch entscheiden, mit einem Angriff mehrere Feinde ins Visier zu nehmen oder auf eine Fläche zu zielen, die mehrere Feinde enthält.
 
 Auf mehrere Feinde zu zielen fügt deinem Angriffswurf wie unten ausgeführt Nachteil hinzu.
 ##### Nahkampf Multi-Zielen
 Du kannst auf eine beliebige Anzahl an Feinden in Nahkampfreichweite zielen. Wenn du auf mehr als einen Feind zielst leidet dein Angriffswurf unter einem Grad an Nachteil gleich der Anzahl an Feinden, auf die du zielst (2 Ziele = Nachteil 2, 3 Ziele = Nachteil 3, usw. ...).
 ##### Fernkampf Multi-Zielen
 Du kannst auf bis zu fünf Ziele innerhalb eines Rechtecks von 25' Länge und Breite zielen. Wenn du auf mehrere Feinde zielst, leidest du unter Nachteil gleich der Anzahl an Zielen, genauso wie bei Nahkampf Multi-Zielen.
-##### Gebiet Multi-Zielen
-Gebietsattacken sind grundsätzlich nur mit außergewöhnlichen Attributen möglich, außer eine bestimmte Waffeneigenschaft oder andere Regel erlaubt explizit Gebietsattacken ohne ein außergewöhnliches Attribut. Sowohl Feind als auch Freund werden von Gebietsattacken getroffen, wenn sie sich im Zielgebiet befinden.
+##### Fläche Multi-Zielen
+Flächenattacken sind grundsätzlich nur mit außergewöhnlichen Attributen möglich, außer eine bestimmte Waffeneigenschaft oder andere Regel erlaubt explizit Flächenattacken ohne ein außergewöhnliches Attribut. Sowohl Feind als auch Freund werden von Flächenattacken getroffen, wenn sie sich im Zielgebiet befinden.
 
 **Würfel.** Du zielst auf ein Würfelgebiet mit gleicher Länge, Breite und Höhe, wie von dir angegeben. Der Angriff leidet unter Nachteil 1 pro 5' Länge der Würfelseiten, außer es handelt sich um einen Würfel von nur 5', der nicht unter Nachteil leidet. Ein Würfel von 10' zum Beispiel erhält Nachteil 2, ein 15' Würfel Nachteil 3 und so weiter.
 
@@ -292,7 +292,7 @@ Du kannst eine Verteidigungsaktion nutzen, nachdem ein Gegner einen erfolgreiche
 
 Falls dein Attributwurf ein höheres Ergebnis hat als der Verteidigungswert, gegen den der Angriffswurf des Gegners ging, ersetze den Verteidigungswert für diesen Angriff durch dein Ergebnis. (**Merke:** Charaktere, die eine Waffe mit der *Defensiv*-Eigenschaft führen, haben Vorteil anhand des *Defensiv*-Wertes beim Aktionswurf zum Verteidigen).
 
-Einmal pro Runde kannst du dich als Teil deiner Verteidigen-Aktion bis zur Hälfte deiner Geschwindigkeit bewegen. Falls du einen Verbündeten verteidigst und neben ihm stehst, kann der Verbündete sich auch entscheiden, sich bis zur Hälfte seiner Geschwindigkeit zu bewegen. Weder du noch dein Verbündeter lösen mit dieser Bewegung Gelegenheitsattacken aus. Diese Bewegung kann den ursprünglichen Angriff nicht negieren, selbst wenn sie das Ziel aus der Reichweite des Angriffs oder dem Gebiet bewegt.
+Einmal pro Runde kannst du dich als Teil deiner Verteidigen-Aktion bis zur Hälfte deiner Geschwindigkeit bewegen. Falls du einen Verbündeten verteidigst und neben ihm stehst, kann der Verbündete sich auch entscheiden, sich bis zur Hälfte seiner Geschwindigkeit zu bewegen. Weder du noch dein Verbündeter lösen mit dieser Bewegung Gelegenheitsattacken aus. Diese Bewegung kann den ursprünglichen Angriff nicht negieren, selbst wenn sie das Ziel aus der Reichweite des Angriffs oder der Fläche bewegt.
 
 > #### Beispiel für Verteidigen
 > Vera ist dem Tod nahe, als der Flusstroll auf sie zuspringt. Der Troll wirft eine 23 gegen Veras Deckung von 17, also benutzt sie eine Verteidigungsaktion, um den Arm des Trolls aufzuhalten, bevor er sie zerfleischt. Vera wirft auf Kraft und erhält 20, sodass ihr Wurf ihren Verteidigungswert ersetzt. Sie erleidet 3 Schaden, anstatt von 6. Weil Verteidigen eine Unterbrechungsaktion ist, kann Vera in ihrem nächsten normalen Zug keine große Aktion nutzen.

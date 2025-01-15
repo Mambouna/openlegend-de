@@ -43,8 +43,8 @@ Eine Aura erstreckt sich von einem willigen Ziel aus bis zu einer Distanz, die v
 </ul>
 Wähle einen einzigen Harm oder ein Wohl aus, die das gleiche Attribut nutzen, mit der du diese Aura wirkst. Das maximale Kraftlevel für den gewählten Harm oder das Wohl ist die Hälfte des kraftlevels dieser Aura. Deine Aura strahlt den gewählten Harm oder das Wohl wie folgt aus:
 <ul>
-<li><strong>Falls die Aura einen Harm ausstrahlt,</strong> dann wird das Ziel der Aura nicht von diesem getroffen. Alle anderen Kreaturen (Freund und Feind), die willentlich das Gebiet der Aura betreten oder ihren Zug darin beenden erleiden einen Harmangriff, der diesen Harm zufügt. Keine Kreatur kann mehr als einmal pro Runde von einer Harmattacke der gleichen Aura getroffen werden.</li>
-<li><strong>Falls die Aura ein Wohl ausstrahlt,</strong> dann wird das Ziel der Aura auch davon betroffen. Das Ziel und alle Verbündeten, die ihren Zug im Gebiet der Aura beenden, erhalten automatisch das gewählte Wohl. Sobald sie das Gebiet der Aura verlassen, verfällt das Wohl sofort. Keine Kreatur kann ein Wohl mehr als einmal pro Runde von der gleichen Aura erhalten.</li>
+<li><strong>Falls die Aura einen Harm ausstrahlt,</strong> dann wird das Ziel der Aura nicht von diesem getroffen. Alle anderen Kreaturen (Freund und Feind), die willentlich die Fläche der Aura betreten oder ihren Zug darin beenden erleiden einen Harmangriff, der diesen Harm zufügt. Keine Kreatur kann mehr als einmal pro Runde von einer Harmattacke der gleichen Aura getroffen werden.</li>
+<li><strong>Falls die Aura ein Wohl ausstrahlt,</strong> dann wird das Ziel der Aura auch davon betroffen. Das Ziel und alle Verbündeten, die ihren Zug in der Fläche der Aura beenden, erhalten automatisch das gewählte Wohl. Sobald sie die Fläche der Aura verlassen, verfällt das Wohl sofort. Keine Kreatur kann ein Wohl mehr als einmal pro Runde von der gleichen Aura erhalten.</li>
 </ul>
 
 **Besonders**  
@@ -66,7 +66,7 @@ ___
 Du beschwörst eine Wand aus Dornen, einen Ring aus Flammen, einen Schwarm Roboterinsekten, eine Wolke betäubenden Gases oder ähnliche Barriere, um Feinde zu behindern oder zu verletzen.
 
 **Effekt**  
-Wenn du dieses Wohl wirkst, musst du Multi-Zielen benutzen, um ein spezifisches Gebiet für deine Barriere zu definieren. Bei einer erfolgreichen Wirkung wählst du anhand des Kraftlevels eine Reihe von Eigenschaften für deine Wand:
+Wenn du dieses Wohl wirkst, musst du Multi-Zielen benutzen, um eine spezifische Fläche für deine Barriere zu definieren. Bei einer erfolgreichen Wirkung wählst du anhand des Kraftlevels eine Reihe von Eigenschaften für deine Wand:
 <ul>
 <li><strong>Kraftlevel 3 - </strong>Wähle 1 Eigenschaft: Schaden (1d4), Verbergend, Behindernd</li>
 <li><strong>Kraftlevel 5 - </strong>Wähle 2 Eigenschaften: Schaden (1d8), Verbergend, Behindernd, Harmvoll, Mobil</li>
@@ -142,7 +142,7 @@ ___
 Du erschaffst ein Gebiet illusorischer Dunkelheit oder entropischer Energie, die alles Licht verlischen lässt. Dieses Wohl ist beliebt unter Illusionisten, Schattenwebern, Psionikern und verrückten Wissenschaftlern.
 
 **Effekt**  
-Wähle einen Raum oder ein Objekt in deiner Reichweite. Dunkelheit quillt aus dem Ziel hervor bis zu einem Radio von 5 Fuß pro Kraftlevel des Wohls. Dieser Effekt annuliert die Wirkung von allem natürlichen Licht innerhalb seines Radius und Kreaturen, die sich für ihre Sicht auf Licht verlassen, erleiden die gleichen Nachteile, als würden sie den *geblendet*-Harm haben, während sie im Gebiet dieses Wohls sind. Kreaturen, die sich für ihre Sicht nicht auf Licht verlassen (z.B. durch Vibrationssinne, Blindsicht, usw. ...) werden nicht eingeschränkt. Falls das Gebiet der Dunkelheit sich mit dem eines Licht-Wohls überschneidet, dann wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen im betroffenen Gebiet wieder die natürlichen Lichtverhältnisse, als gäbe es keine der beiden Wohle.
+Wähle einen Raum oder ein Objekt in deiner Reichweite. Dunkelheit quillt aus dem Ziel hervor bis zu einem Radius von 5 Fuß pro Kraftlevel des Wohls. Dieser Effekt annuliert die Wirkung von allem natürlichen Licht innerhalb seines Radius und Kreaturen, die sich für ihre Sicht auf Licht verlassen, erleiden die gleichen Nachteile, als würden sie den *geblendet*-Harm haben, während sie in der Fläche dieses Wohls sind. Kreaturen, die sich für ihre Sicht nicht auf Licht verlassen (z.B. durch Vibrationssinne, Blindsicht, usw. ...) werden nicht eingeschränkt. Falls die Fläche der Dunkelheit sich mit der eines Licht-Wohls überschneidet, dann wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen in der betroffenen Fläche wieder die natürlichen Lichtverhältnisse, als gäbe es keine der beiden Wohle.
 
 > Tags: Außergewöhnlich
 
@@ -387,7 +387,7 @@ ___
 Egal ob durch eine magische Beschwörung, Energiemanipulation oder einen anderen Weg, erhellst du ein Gebiet mit Licht. Ein Androide könnte seinen Kopfstrahler aktivieren, ein Feuermagier eine tanzende Fackelflamme erschaffen und ein Alchemist eine Hellkugel aktivieren.
 
 **Effekt**  
-Wähle einen Raum oder ein Objekt innerhalb deiner Reichweite. Außergewöhnliches Licht fließt vom Ziel aus bis zu einem Radius von 5' pro Kraftlevel des Wohls. Falls das Lichtgebiet sich mit dem Gebiet eines Dunkelheitswohls überschneidet, wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen in dem von beiden betroffenen Gebiet wieder das ohne die Wohle herrschende Lichtumstände.
+Wähle einen Raum oder ein Objekt innerhalb deiner Reichweite. Außergewöhnliches Licht fließt vom Ziel aus bis zu einem Radius von 5' pro Kraftlevel des Wohls. Falls die Lichtfläche sich mit der Fläche eines Dunkelheitswohls überschneidet, wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen in der von beiden betroffenen Fläche wieder das ohne die Wohle herrschende Lichtumstände.
 
 > Tags: Außergewöhnlich
 
@@ -617,7 +617,7 @@ Das Ziel verschwindet aus dem sichtbaren Lichtspektrum, entweder indem es das Li
 
 **Effekt**  
 <strong>MERKE:</strong> Dieses Wohl wurde durch Verborgenheit ersetzt.<br>
-Licht scheint durch das Ziel hindurch, sodass es transparent wird. Seine physische Form verzerrt die Lichtstrahlen auf eine Weise, die nur die schärfsten Augen wahrnehmen können. Das Ziel erhält Vorteil anhand des Kraftlevels des Wohles auf Geschicklichkeitswürfe, um sich zu verstecken. Falls es vollständig stillsteht, wird der Bonus verdoppelt. Die Deckung des Ziels ist gegen Nah- und Fernkampfangriffe erhöht, bleibt gegen Gebietsattacken aber unverändert. Führt das Ziel eine Attacke gegen eine Kreatur aus, die es nicht sehen kann, ist die Deckung der Kreatur reduziert. Du kannst nicht das Ziel von Gelegenheitsattacken durch Feinde werden, die dich nicht wahrnehmen können.
+Licht scheint durch das Ziel hindurch, sodass es transparent wird. Seine physische Form verzerrt die Lichtstrahlen auf eine Weise, die nur die schärfsten Augen wahrnehmen können. Das Ziel erhält Vorteil anhand des Kraftlevels des Wohles auf Geschicklichkeitswürfe, um sich zu verstecken. Falls es vollständig stillsteht, wird der Bonus verdoppelt. Die Deckung des Ziels ist gegen Nah- und Fernkampfangriffe erhöht, bleibt gegen Flächenattacken aber unverändert. Führt das Ziel eine Attacke gegen eine Kreatur aus, die es nicht sehen kann, ist die Deckung der Kreatur reduziert. Du kannst nicht das Ziel von Gelegenheitsattacken durch Feinde werden, die dich nicht wahrnehmen können.
 <ul>
 <li><strong>Kraftlevel 5</strong> - Vorteil 3 auf Verstecken, +3 Deckung gegen Nah- und Fernkampfangriffe, -2 Deckung für angegriffe Kreaturen, die dich nicht sehen können.</li>
 <li><strong>Kraftlevel 6</strong> - Vorteil 5 auf Verstecken, +5 Deckung gegen Nah- und Fernkampfangriffe, -4 Deckung für angegriffene Kreaturen, die dich nicht sehen können.</li>
@@ -643,7 +643,7 @@ Das Ziel ist vor Detektion verborgen, entweder indem es seine Umgebung veränder
 <br>
 Der wirkende Charakter wählt einen Sinn (wie z.B. Geruch, Klang, Licht (Sicht), Hitze, usw. ...), der eingeschränkt wird. Das Wohl bewirkt, dass alle Reize für diesen Sinn innerhalb von 5' durch außergewöhnliche Mittel unterdrückt werden, sodass das Ziel sehr schwer zu entdecken wird. Das Ziel erhält Vorteil mit Wert anhand des Kraftlevels des Wohls auf Aktionswürfe, um sich zu verstecken oder unentdeckt zu bleiben.
 <br>
-Bei Angriffen gegen Gegner, die das Ziel nicht entdecken können, ist deren Deckung reduziert. Auf die gleiche Weise ist die Deckung des Ziels gegen Angriffe von Gegnern erhöht, die das Ziel nicht wahrnehmen. Dieser Bonus gilt nicht für Gebietsattacken.
+Bei Angriffen gegen Gegner, die das Ziel nicht entdecken können, ist deren Deckung reduziert. Auf die gleiche Weise ist die Deckung des Ziels gegen Angriffe von Gegnern erhöht, die das Ziel nicht wahrnehmen. Dieser Bonus gilt nicht für Flächenattacken.
 <br>
 Du kannst nicht Ziel von Gelegenheitsangriffen werden, außer der Gegner ist sich durch ein anderes Sinnesorgan, einem passenden Attributwurf oder anderem Effekt deiner Position bewusst. Ein solcher Gelegenheitsangriff kann nach Abwägung des GM für die momentane Situation unter Nachteil (0, 3 oder 5) leiden.
 <ul>

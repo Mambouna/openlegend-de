@@ -90,7 +90,7 @@
     <li><strong>Kraftlevel 9</strong> -  Löse ein Wohl von Kraftlevel 9 auf.</li>
     </ul>
   special: |
-    Wenn das Wohl, das aufgelöst werden soll, ein Gebiet abdeckt, kannst du es auflösen, indem du ein beliebigen Abschnitt davon anvisierst, den du sehen kannst oder indem du eine Reihe an 5' Würfeln als Ziele setzt, in denen du die Wirkung des Wohls vermutest. Falls das Wohl ein Gebiet abdeckt, statt auf einer Kreatur zu liegen, wirfst du gegen einen HW des Wohls anstatt gegen eine Entschlossenheit-Verteidigung. Der HW ist 10 + 2 x Kraftlevel des Wohls.
+    Wenn das Wohl, das aufgelöst werden soll, eine Fläche abdeckt, kannst du es auflösen, indem du einen beliebigen Abschnitt davon anvisierst, den du sehen kannst oder indem du eine Reihe an 5' Würfeln als Ziele setzt, in denen du die Wirkung des Wohls vermutest. Falls das Wohl eine Fläche abdeckt, statt auf einer Kreatur zu liegen, wirfst du gegen einen HW des Wohls anstatt gegen eine Entschlossenheit-Verteidigung. Der HW ist 10 + 2 x Kraftlevel des Wohls.
 - !
   name: Benommen
   OGname: Stupefied
@@ -717,15 +717,15 @@
   effect: |
     Du erschaffst ein Phantom deiner Wahl. Das Kraftlevel, mit dem du diesen Harm wirkst, bestimmt, welche Sinne du täuschen kannst sowie die Größe deiner Illusion. 
     <ul>
-    <li><strong>Kraftlevel 1</strong> - Beeinflusse den Geschmackssinn. Erschaffe ein Phantom auf einem 5' x 5' x 5' Gebiet</li>
+    <li><strong>Kraftlevel 1</strong> - Beeinflusse den Geschmackssinn. Erschaffe ein Phantom auf einer 5' x 5' x 5' Fläche</li>
     <li><strong>Kraftlevel 2</strong> - Beinflusse den Geruchs-, Hör- und / oder Berühungssinn.</li>
     <li><strong>Kraftlevel 3</strong> - Beinflusse den Sehsinn.</li>
-    <li><strong>Kraftlevel 4</strong> - Erschaffe ein Phantom auf einem 10' x 10' x 10' Gebiet.</li>
-    <li><strong>Kraftlevel 5</strong> - Erschaffe ein Phantom auf einem 15' x 15' x 15' Gebiet.</li>
+    <li><strong>Kraftlevel 4</strong> - Erschaffe ein Phantom auf einer 10' x 10' x 10' Fläche.</li>
+    <li><strong>Kraftlevel 5</strong> - Erschaffe ein Phantom auf einer 15' x 15' x 15' Fläche.</li>
     <li><strong>Kraftlevel 6</strong> - Beeinflusse alle Sinne.</li>
-    <li><strong>Kraftlevel 7</strong> - Erschaffe ein Phantom auf einem 20' x 20' x 20' Gebiet.</li>
-    <li><strong>Kraftlevel 8</strong> - Erschaffe ein Phantom auf einem 30' x 30' x 30' Gebiet.</li>
-    <li><strong>Kraftlevel 9</strong> - Erschaffe ein Phantom auf einem 50' x 50' x 50' Gebiet.</li>
+    <li><strong>Kraftlevel 7</strong> - Erschaffe ein Phantom auf einer 20' x 20' x 20' Fläche.</li>
+    <li><strong>Kraftlevel 8</strong> - Erschaffe ein Phantom auf einer 30' x 30' x 30' Fläche.</li>
+    <li><strong>Kraftlevel 9</strong> - Erschaffe ein Phantom auf einer 50' x 50' x 50' Fläche.</li>
     </ul>
     Bis Kraftlevel 6 kannst du Sinnesillusionen kombinieren, indem du die nötigen Kraftlevel aufaddierst (z.B. bräuchte eine Illusion für Sicht und Klang zusammen Kraftlevel 5). Während das Phantom bestehen bleibt, kannst du logische Änderungen daran frei vornehmen. Beispielsweise kann eine illusorische Person durch deine Anleitung natürlich wirkend sprechen und als Resultat einer Attacke durch deine Kontrolle stürzen. Starke Änderungen (z.B. die Illusion eines Menschen zu einem Goblin zu machen) erfordern ein neues Wirken des Harms.
   special: |
