@@ -58,7 +58,7 @@ Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an 
 
 **Beispiele** führen eine oder mehrere Waffen auf, die spielmechanisch equivalent sind. Es handelt sich um keine abschließende Liste, aber es kann dir helfen, loszulegen. Besprich' am besten mit deinem GM, was für Items in eurem Spiel Sinn ergeben.
 
-**Kategorie** ist eine allgemeine Gruppe, in die die Waffe fällt. Manche Waffen fallen in mehrere Gruppen. Falls eine Waffe mehrere Kategorien hat, muss der sie führende Charakter für jede Attacke entscheiden, in welcher Kategorie die Waffe für diese Attacke spielmechanisch fällt, woraufhin sie die Vorteile dieser Kategorie erhält. Beispielsweise hat ein Dolch die Kategorien "direkte Reichweite" und "Einhand Nahkampf". Bei jeder Attacke muss der Charakter entscheiden, in welcher Kategorie er die Waffe gerade nutzt.
+**Kategorie** ist eine allgemeine Gruppe, in die die Waffe fällt. Manche Waffen fallen in mehrere Gruppen. Falls eine Waffe mehrere Kategorien hat, muss der sie führende Charakter für jede Attacke entscheiden, in welcher Kategorie die Waffe für diese Attacke spielmechanisch fällt, woraufhin sie die Vorteile dieser Kategorie erhält. Beispielsweise hat ein Dolch die Kategorien "Kurze Reichweite" und "Einhand Nahkampf". Bei jeder Attacke muss der Charakter entscheiden, in welcher Kategorie er die Waffe gerade nutzt.
 
 - **Nahkampf** - Waffen in dieser Kategorie werden in engen Umgebungen im Nahkampf benutzt.
 	- **Einhand Nahkampf** - Diese Waffe nutzt eine Hand und erlaubt es so, in der anderen Hand ein Objekt oder eine zweite Waffe zu halten oder diese für andere Aufgaben freizuhalten. Wenn man eine einhändige Waffe in jeder Hand hält und keine der beiden die *defensiv*-Eigenschaft hat, bekommst du Vorteil 1 auf alle Nahkampfattacken. Falls beide Waffen, die du führst, passive Boni wie z.B. *defensiv* haben, nutze den besseren der beiden Boni; addiere sie nicht zusammen.
@@ -66,12 +66,12 @@ Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an 
 	- **Flexibel Nahkampf** - Diese Waffe kann sowohl ein- oder zweihändig geführt werden. Der Charakter kann frei zwischen den Modi wechseln und erhält dabei jeweils die Vor- und Nachteile des momentanen Modus.
 - **Fernkampf** - Waffen in dieser Kategorie können genutzt werden, um Fernkampfangriffe bis zu ihrer Reichweite (in Fuß) auszuführen, ohne dabei ein Malus zu erhalten. Angriffe bis zu zweimal der normalen Reichweite werden mit Nachteil 1 ausgeführt und Angriffe bis zu dreimal der normalen Reichweite mit Nachteil 2. Noch weiter reichende Attacken können nicht ausgeführt werden. Munition wird generell nicht abgezählt, da davon ausgegangen wird, dass du genug mitgebracht hast.
 	- **Reichweiten:**
-		- **Direkte Reichweite** - Reichweite von 25'.
-		- **Kurze Reichweite** - Reichweite von 50'.
+		- **Kurze Reichweite** - Reichweite von 25'.
+		- **Kleine Reichweite** - Reichweite von 50'.
 		- **Mittlere Reichweite** - Reichweite von 75'.
 		- **Große Reichweite** - Reichweite von 125'.
 		- **Extreme Reichweite** - Reichweite von 300'.
-	- Waffen mit **direkter** und **kurzer** Reichweite sind konstruiert, um in engen Umgebungen effektiv genutzt werden zu können. Sie können mit einer Hand geführt werden, sodass die andere Hand frei bleibt.
+	- Waffen mit **kurzer** und **kleiner** Reichweite sind konstruiert, um in engen Umgebungen effektiv genutzt werden zu können. Sie können mit einer Hand geführt werden, sodass die andere Hand frei bleibt.
 	- Waffen mit **mittlerer**, **großer** und **extremer** Reichweite haben unterschiedliche Stärken, sind aber generell nicht für den Kampf auf engem Raum gebaut. Sie benötigen zwei Hände, um sie zu führen und lassen so keine Hand frei.
 	- Waffen mit **extremer** Reichweite sind außerdem speziell für Distanz konstruiert und können nicht für Angriffe auf ein Ziel näher als 50' benutzt werden.
 
@@ -86,23 +86,23 @@ Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an 
 | unbewaffneter Schlag                            | Einhand Nahkampf                      | 0   | Kraftvoll, Präzise, Schnell                                                   | Betäubt, Niedergeschlagen                                  |
 | Bowiemesser, Shiv, Multitool                    | Einhand Nahkampf                      | 2   | Präzise, Schnell                                                              | Anhaltender Schaden, Entwaffnet                            |
 | Krummsäbel, Kurzschwert, Machete, Sägeblatt     | Einhand Nahkampf                      | 2   | Kraftvoll, Präzise                                                            | Anhaltender Schaden, Entwaffnet                            |
-| Blasrohr, Wurfdart                              | Direkte Reichweite                    | 1   | Präzise                                                                       | Immobilisiert                                              |
-| Beil, Dolch                                     | Direkte Reichweite, Einhand Nahkampf  | 2   | Kraftvoll, Präzise, Schnell                                                   | Anhaltender Schaden, Entwaffnet                            |
+| Blasrohr, Wurfdart                              | Kurze Reichweite                    | 1   | Präzise                                                                       | Immobilisiert                                              |
+| Beil, Dolch                                     | Kurze Reichweite, Einhand Nahkampf  | 2   | Kraftvoll, Präzise, Schnell                                                   | Anhaltender Schaden, Entwaffnet                            |
 | Langschwert, Katana, Falchion                   | Flexibel Nahkampf                   | 2   | Kraftvoll, Präzise                                                            | Anhaltender Schaden, Entwaffnet                            |
 | Baseball-Schläger, Knüppel, Improvisierte Waffe | Einhand Nahkampf                      | 1   | Kraftvoll                                                                     | Niedergeschlagen, Betäubt                                  |
 | Streitkolben, Kriegshammer                      | Einhand Nahkampf                      | 2   | Kraftvoll                                                                     | Niedergeschlagen, Betäubt, Erzwungene Bewegung             |
 | Großschwert, No-Dachi, Claymore, Bastardschwert | Zweihand Nahkampf                     | 2   | Kraftvoll, Präzise, Schwer                                                    | Erzwungene Bewegung, Niedergeschlagen                      |
 | Kettensäge                                      | Zweihand Nahkampf                     | 2   | Kraftvoll                                                                     | Anhaltender Schaden, Demoralisiert, Provoziert, Furcht     |
-| Kurzspeer                                       | Flexibel Nahkampf, Kurze Reichweite | 1   | Kraftvoll, Präzise                                                            | Anhaltender Schaden, Entwaffnet, Immobilisiert             |
+| Kurzspeer                                       | Flexibel Nahkampf, Kleine Reichweite | 1   | Kraftvoll, Präzise                                                            | Anhaltender Schaden, Entwaffnet, Immobilisiert             |
 | Vorschlaghammer, Streithammer, Kriegsaxt        | Zweihand Nahkampf                     | 2   | Kraftvoll, Schwer                                                             | Niedergeschlagen, Erzwungene Bewegung, Betäubt             |
-| Langspeer                                       | Zweihand Nahkampf, Direkte Reichweite | 2   | Kraftvoll, Präzise, Lang                                                      | Anhaltender Schaden, Entwaffnet, Immobilisiert             |
+| Langspeer                                       | Zweihand Nahkampf, Kurze Reichweite | 2   | Kraftvoll, Präzise, Lang                                                      | Anhaltender Schaden, Entwaffnet, Immobilisiert             |
 | Mistgabel, Stab                                 | Zweihand Nahkampf                     | 1   | Kraftvoll                                                                     | Niedergeschlagen, Immobilisiert, Erzwungene Bewegung       |
 | Glaive, Hellebarde, Naginata                    | Zweihand Nahkampf                     | 2   | Kraftvoll, Lang                                                               | Niedergeschlagen, Immobilisiert, Erzwungene Bewegung       |
 | Flammenwerfer                                   | Zweihand Nahkampf                     | 3   | Präzise, Langsam, Gebiet (5' / 10' Kegel)                                     | Furcht, Anhaltender Schaden                                |
-| Laserpistole, Revolver, Pistole                 | Kurze Reichweite                      | 2   | Präzise                                                                       | Anhaltender Schaden, Verlangsamt                           |
-| Granate, Molotovcocktail                        | Direkte Reichweite                    | 2   | Präzise, Verbrauchsgut, Gebiet (10' Würfel)                                   | Anhaltender Schaden, Niedergeschlagen, Erzwungene Bewegung |
+| Laserpistole, Revolver, Pistole                 | Kleine Reichweite                      | 2   | Präzise                                                                       | Anhaltender Schaden, Verlangsamt                           |
+| Granate, Molotovcocktail                        | Kurze Reichweite                    | 2   | Präzise, Verbrauchsgut, Gebiet (10' Würfel)                                   | Anhaltender Schaden, Niedergeschlagen, Erzwungene Bewegung |
 | Leichte Armbrust                                | Mittlere Reichweite                   | 2   | Präzise                                                                       | Anhaltender Schaden, Immobilisiert                         |
-| Abgesägte Schrotflinte                          | Kurze Reichweite                      | 2   | Präzise, Langsam, Gebiet (10' Kegel)                                          | Anhaltender Schaden, Betäubt, Erzwungene Bewegung          |
+| Abgesägte Schrotflinte                          | Kleine Reichweite                      | 2   | Präzise, Langsam, Gebiet (10' Kegel)                                          | Anhaltender Schaden, Betäubt, Erzwungene Bewegung          |
 | Kurzbogen, Pump-Action-Schrotflinte          | Mittlere Reichweite                   | 2   | Präzise                                                                       | Verlangsamt, Anhaltender Schaden, Niedergeschlagen         |
 | Maschinenpistole, M16                           | Mittlere Reichweite                   | 3   | Präzise, Gebiet (10' Würfel)                                                  | Anhaltender Schaden, Provoziert, Demoralisiert             |
 | Schwere Armbrust, Langbogen, Gewehr             | Große Reichweite                      | 2   | Präzise                                                                       | Anhaltender Schaden, Verlangsamt                           |
@@ -205,7 +205,7 @@ Alle Waffen (mit Ausnahme von unbewaffneter Schlag), starten mit einem Wohlstand
 > ### Beispiel Waffen erstellen: Kusari-Gama (Kettensense)
 > Die Kusari-Gama ist eine einzigartige Waffe der japanischen Geschichte. Es ist eine Kombination aus einer Kette und einer Kama (einem traditionellen Farmwerkzeug).
 > 
-> **Schritt 1 (Wähle eine Kategorie)** Während die Kusari-Gama als eine Nahkampfwaffe mit kurzer Klinge genutzt werden kann, kann ihre Kette auch auf größere Distanzen benutzt werden. Daher geben wir ihr sowohl die *Einhand Nahkampf* als auch die *direkte Reichweite* Kategorie.
+> **Schritt 1 (Wähle eine Kategorie)** Während die Kusari-Gama als eine Nahkampfwaffe mit kurzer Klinge genutzt werden kann, kann ihre Kette auch auf größere Distanzen benutzt werden. Daher geben wir ihr sowohl die *Einhand Nahkampf* als auch die *Kurze Reichweite* Kategorie.
 > 
 > **Schritt 2 (Wähle Eigenschaften)** Da die Kusari-Gama entweder mit defter Präzision oder mit kräftigen Schwüngen benutzt werden kann, geben wir ihr die Eigenschaften *präzise* und *kraftvoll*. Um sie noch weiter auszuarbeiten, entscheiden wir außerdem, dass die Möglichkeiten, mit der Kette Angriffe abzuwehren, genügt, um ihr noch die Eigenschaft *defensiv 1* zu geben. Aufgrund der Länge der Kette bekommt sie auch noch *lang* und *langsam*, da das Schwingen Zeit beansprucht.
 > 
