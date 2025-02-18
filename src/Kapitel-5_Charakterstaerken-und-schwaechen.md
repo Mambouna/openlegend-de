@@ -44,7 +44,7 @@ Wähle ein spezifisches Handwerk, zum Beispiel Waffenschmied, Ingenieur, Glasbla
 Du bist mit dem Leben mit wenig gut vertraut. Egal, ob du ein Mönch im Kloster, ein transzendenter Psioniker oder ein grauer Zauberer in deinem Bücherturm bist, du bist es gewohnt, lange Zeit mit wenig Wasser, Essen oder Gesellschaft auszukommen. Mangel in diesen Bereichen beeinflusst dich weniger, als die meisten anderen, da du gegen ihre physischen und geistigen Effekte gestählt bist und deine Selbstkontrolle über deine Dränge ist stark ausgeprägt. Wann immer du in einer Situation bist, in der deine Natur als Asket eine Rolle spielt, hast du Vorteil 1 auf alle davon betroffenen Aktionswürfe.
 ### Attraktiv
 Du bist ein absoluter Hingucker. Die Vorteile dessen helfen dir in einer Vielzahl sozialer Situationen, nicht nur in der Romantik. Wann immer deine Attraktivität in einer Situation eine Rolle spielt, erhälst du Vorteil 1 auf alle davon betroffenen Aktionswürfe.
-### Grobian / Schläger / Rohling [?]
+### Grobian / Schläger / Rohling / Brutalo [?]
 Während andere ihre Silberzunge schnellen lassen, sprichst du die universelle Sprache der Furcht. Einmal pro Spielsitzung kannst du während einer Demonstration deiner physischen Macht dein Kraftattribut als relevantes Attribut für einen Überzeugungswurf nutzen. Falls dein Überzeugungswert höher oder gleich deinem Kraftwert ist, erhälst du stattdessen Vorteil 1 auf den Wurf.
 ### Mutig
 Wenn alles verloren scheint, gibst du trotzdem nicht auf. Einmal pro Spielsitzung kannst du als kostenlose Aktion alle negativen Effekte abschütteln, die mit Furcht oder schlechter Moral zu tun haben.
