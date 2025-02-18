@@ -44,7 +44,7 @@ Wähle ein spezifisches Handwerk, zum Beispiel Waffenschmied, Ingenieur, Glasbla
 Du bist mit dem Leben mit wenig gut vertraut. Egal, ob du ein Mönch im Kloster, ein transzendenter Psioniker oder ein grauer Zauberer in deinem Bücherturm bist, du bist es gewohnt, lange Zeit mit wenig Wasser, Essen oder Gesellschaft auszukommen. Mangel in diesen Bereichen beeinflusst dich weniger, als die meisten anderen, da du gegen ihre physischen und geistigen Effekte gestählt bist und deine Selbstkontrolle über deine Dränge ist stark ausgeprägt. Wann immer du in einer Situation bist, in der deine Natur als Asket eine Rolle spielt, hast du Vorteil 1 auf alle davon betroffenen Aktionswürfe.
 ### Attraktiv
 Du bist ein absoluter Hingucker. Die Vorteile dessen helfen dir in einer Vielzahl sozialer Situationen, nicht nur in der Romantik. Wann immer deine Attraktivität in einer Situation eine Rolle spielt, erhälst du Vorteil 1 auf alle davon betroffenen Aktionswürfe.
-### Grobian / Schläger / Rohling / Brutalo [?]
+### Macho / Muskelprotz / Schlägertyp [?]
 Während andere ihre Silberzunge schnellen lassen, sprichst du die universelle Sprache der Furcht. Einmal pro Spielsitzung kannst du während einer Demonstration deiner physischen Macht dein Kraftattribut als relevantes Attribut für einen Überzeugungswurf nutzen. Falls dein Überzeugungswert höher oder gleich deinem Kraftwert ist, erhälst du stattdessen Vorteil 1 auf den Wurf.
 ### Mutig
 Wenn alles verloren scheint, gibst du trotzdem nicht auf. Einmal pro Spielsitzung kannst du als kostenlose Aktion alle negativen Effekte abschütteln, die mit Furcht oder schlechter Moral zu tun haben.
@@ -137,7 +137,7 @@ Du würdest nicht mal um deines Lebens oder das eines anderen willen lügen oder
 Deine Lunte ist kurz und wenn du explodierst, dann aber richtig. Manchmal kocht deine Wut langsam über und manchmal geht sie unerwartet wie ein Vulkan hoch. Deine Ausbrüche nehmen für dich selbst meist kein gutes Ende.
 ### Analphabet
 Du kannst weder lesen noch schreiben, auch in Sprachen die du flüssig sprichst.
-### Geradeaus-Geist / Wortwörtlich / Buchstabengetreu[?]
+### Literalsinn
 Du hast Schwierigkeiten mit Konzepten und Formulierungen, die nicht buchstäblich wahr sind, wie z.B. Sprichwörter und Metaphern. Sagt dir jemand, dass es Hunde und Katzen regnet, vermutest du vielleicht, dass Magie im Spiel ist. Wenn ein Freund dir sagt "Ich würde mich umbringen, sollte Melzak tatsächlich Bundesrichter werden" machst du dir ernsthaft Sorgen um ihn, sollte Melzak gewählt werden.
 ### Stimmungsstörung
 Du leidest unter einer psychologischen Krankheit, die deine Stimmung beeinflusst, z.B. Depression oder Angstzustände. Du entscheidest, welcher Art und Schwere deine psychische Krankheit ist.

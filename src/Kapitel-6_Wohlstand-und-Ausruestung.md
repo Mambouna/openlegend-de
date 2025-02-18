@@ -24,7 +24,7 @@ Egal, ob du neue Ausrüstung kaufen, ein Gebäude errichten oder einen Handwerke
 
 Fallst die Güter, die du kaufen möchtest, einen Wohlstandswert **niedriger** als dein eigener haben, kannst du die Items ohne Probleme erwerben.
 
-Fallst der Wohlstandswert des Items **gleich** deinem Wohlstandswert ist, kannst du es erwerben, aber es beachsprucht deine Ressourcen signifikant, sodass du für zwei Wochen keine weiteren Items dieses Wohlstandswertes oder höher beanspruchen kannst.
+Fallst der Wohlstandswert des Items **gleich** deinem Wohlstandswert ist, kannst du es erwerben, aber es beansprucht deine Ressourcen signifikant, sodass du für zwei Wochen keine weiteren Items dieses Wohlstandswertes oder höher beanspruchen kannst.
 
 Falls der Gegenstand oder die Dienstleistung **einen Wert höher** als dein eigener Wohlstandswert liegt und dein Wohlstandswert größer als 0 ist, kannst du es erwerben, aber die Kosten sind so enorm, dass dein Wohlstandswert permanent um 1 sinkt.
 
