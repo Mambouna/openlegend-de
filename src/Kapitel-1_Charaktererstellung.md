@@ -1,4 +1,4 @@
-[Einführung](./Einfuehrung.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 2: Aktionen und Attribute](./Kapitel-2_Aktionen-und-Attribute.md)
+[Einführung](./Kapitel-0_Einfuehrung.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 2: Aktionen und Attribute](./Kapitel-2_Aktionen-und-Attribute.md)
 
 # Kapitel 1: Charaktererstellung
 Bevor du beginnen kannst, deine eigene Geschichte zu erzählen, brauchst du einen Charakter, den du spielen kannst. Dieses Kapitel wird dir Schritt-für-Schritt-Anweisungen geben, mit denen du deinen eigenen Helden erstellen kannst. In *Open Legend* beginnst du normalerweise als Charakter auf Level 1. Indem du Missionen oder Quests erfüllst und als Held Erfahrung sammelst, steigst du im Level aus und wächst in deiner Macht. Diese Regeln erklären, wie du einen Charakter auf Level 1 erstellen kannst. Später lernst du, was zu tun ist, wenn du im Level aufsteigst.

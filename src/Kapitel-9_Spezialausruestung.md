@@ -66,7 +66,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 
 **Autonom** - Wenn dieses Item fertiggestellt wird, wählt der Schöpfer eine Bedingung oder Situation aus, die die Aktivierung einer spezifischen Aktion auslöst. Dieses Autonomievermögen könnte magische Führung sein, algorithmische Zielfindung oder mechanische Autonomie wie bei Druckplatten, die eine Falle auslösen.
 
-**Harmvoll / Harmend[?] (Harm)** - Wenn du einen Angriff mit Schaden mit diesem Item machst, kannst du automatisch den genannten Harm auf das Angriffsziel wirken, wenn dein Angriffswurf die Verteidigung des Ziels um 5 oder mehr übersteigt. Der Harm kann auf diese Weise auch anstatt einem anderen Harm gewirkt werden, selbst wenn das Item oder der führende Charakter keinen Zugang zu diesem Harm hat. Das zum Angreifen genutzte Attribut ist für diesen Angriff auch das wirkende Attribut für den Harm.
+**Harmvoll (Harm)** - Wenn du einen Angriff mit Schaden mit diesem Item machst, kannst du automatisch den genannten Harm auf das Angriffsziel wirken, wenn dein Angriffswurf die Verteidigung des Ziels um 5 oder mehr übersteigt. Der Harm kann auf diese Weise auch anstatt einem anderen Harm gewirkt werden, selbst wenn das Item oder der führende Charakter keinen Zugang zu diesem Harm hat. Das zum Angreifen genutzte Attribut ist für diesen Angriff auch das wirkende Attribut für den Harm.
 
 **Konsumgut** - Ein Konsumgut kann einmal benutzt werden, um das unter Harme & Wohle angegebene Wohl auf dem jeweiligen Kraftlevel zu wirken. Das Wirken des Wohls hat automatisch ohne einen Wurf Erfolg und kann nicht mit Multi-Zielen benutzt werden. Danach ist das Item aufgebraucht und kann nicht noch einmal benutzt werden.
 
