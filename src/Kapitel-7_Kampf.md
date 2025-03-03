@@ -251,7 +251,7 @@ Kleine Aktionen sind Handlungen, die nicht viel Zeit oder Einsatz erfordern, abe
 - Eine Gelegenheitsattacke nutzen
 - Ein Wohl aufrechterhalten
 - Ziehen oder Wegstecken einer Waffe
-- Ein Item am eigenen Körper hervorholen
+- Einen Gegenstand am eigenen Körper hervorholen
 - Einen Wahrnehmungswurf ausführen, um die Umgebung zu betrachten
 - Einen Lernenwurf nutzen, um sich an nützliche Informationen zu erinnern
 - Eine Tür, Kiste, einen Schrank usw. ... öffnen

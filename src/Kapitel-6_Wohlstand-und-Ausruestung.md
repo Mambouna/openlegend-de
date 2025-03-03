@@ -22,9 +22,9 @@ Jeder Charakter hat einen Wohlstandswert, welcher bei 2 beginnt und die Werte 0 
 ### Güter und Dienstleistungen erwerben
 Egal, ob du neue Ausrüstung kaufen, ein Gebäude errichten oder einen Handwerker anheuern willst, dein Wohlstandswert gibt an, ob du dazu in der Lage bist. Alle Güter und Dienstleistungen haben ihren eigenen Wohlstandswert (entweder von den Regeln oder dem GM festgelegt). Dieser Wert wird mit deinem verglichen, um festzustellen, wie viel dich der Erwerb kostet:
 
-Fallst die Güter, die du kaufen möchtest, einen Wohlstandswert **niedriger** als dein eigener haben, kannst du die Items ohne Probleme erwerben.
+Fallst die Güter, die du kaufen möchtest, einen Wohlstandswert **niedriger** als dein eigener haben, kannst du die Gegenstände ohne Probleme erwerben.
 
-Fallst der Wohlstandswert des Items **gleich** deinem Wohlstandswert ist, kannst du es erwerben, aber es beansprucht deine Ressourcen signifikant, sodass du für zwei Wochen keine weiteren Items dieses Wohlstandswertes oder höher beanspruchen kannst.
+Fallst der Wohlstandswert des Gegenstandes **gleich** deinem Wohlstandswert ist, kannst du es erwerben, aber es beansprucht deine Ressourcen signifikant, sodass du für zwei Wochen keine weiteren Gegenstände dieses Wohlstandswertes oder höher beanspruchen kannst.
 
 Falls der Gegenstand oder die Dienstleistung **einen Wert höher** als dein eigener Wohlstandswert liegt und dein Wohlstandswert größer als 0 ist, kannst du es erwerben, aber die Kosten sind so enorm, dass dein Wohlstandswert permanent um 1 sinkt.
 
@@ -42,21 +42,19 @@ Dein Wohlstandswert gibt an, was für Ausgaben unter den jeweiligen Umständen a
 ### Wohlstand erweitern
 Während du durch die Sterne ziehst, mythische Bestien bezwingst und reiche Aristokraten für dich gewinnst, wird dein Wohlstand wachsen. Der GM entscheidet, wann der Wohlstandswert eines Charakters erhöht wird und die *Wohlstandsüberblick*-Tabelle von oben gibt dir eine Idee, was für Wohlstandswerte Charaktere verschiedener Level generell haben.
 
-Typischerweise könnte der GM Wohlstandswerte erhöhen, nachdem du den Schatz aus der Höhle eines Monsters geborgen, einen Käufer für ein mächtiges magisches Item gefunden hast oder durch einen Herrscher belohnt wirst.
+Typischerweise könnte der GM Wohlstandswerte erhöhen, nachdem du den Schatz aus der Höhle eines Monsters geborgen, einen Käufer für einen mächtigen magischen Gegenstand gefunden hast oder durch einen Herrscher belohnt wirst.
 ## Tragelimit
 Open Legend ist am Werfen von Würfeln, erzählen großer Geschichten und Spaß haben interessiert. Die Regeln, wie viel du tragen kannst sind daher absichtlich vereinfacht, damit du und deine Freunde euch auf das konzentrieren könnt, was zählt: das Spiel.
-### Maximal zwanzig Items
-Du kannst bis zu 20 Ausrüstungsgegenstände tragen. Nicht eins mehr. Behalte dabei nur die Items im Blick, die tatsächlich das Spielgeschehen beeinflussen. Du musst also nicht die Hosen oder das Hemd deines Helden auf deinem Charakterbogen aufführen. Deine Rüstung zählt aber.
+### Maximal zwanzig Gegenstände
+Du kannst bis zu 20 Ausrüstungsgegenstände tragen. Nicht eins mehr. Behalte dabei nur die Gegenstände im Blick, die tatsächlich das Spielgeschehen beeinflussen. Du musst also nicht die Hosen oder das Hemd deines Helden auf deinem Charakterbogen aufführen. Deine Rüstung zählt aber.
 
-Mehrere ähnliche Items können zusammengruppiert werden, zum Beispiel zwanzig Pfeile in einem Köcher oder mehrere Heiltränke an deinem Gürtel, und werden für das Tragelimit nur als ein Item gezählt. Der GM kann anhand seiner eigenen Einschätzung weitere Einschränkungen einführen. Obwohl 1000 Magazine an Munition nach dieser Regel theoretisch als ein Item gelten könnten, kann der GM entscheiden, dass ein Charakter so viel nicht tragen kann, oder dass diese Menge als *sperrig* zählt (siehe unten).
-### Maximale Anzahl schwerer Items anhand des Kraftwertes
-Einige Items haben die Eigenschaft *schwer*. Du kannst maximal so viele *schwere* Items mit dir tragen, wie dein Kraftwert groß ist. Sobald du deine Maximalzahl an *schweren* Items trägst, wird deine Geschwindigkeit halbiert. Ein Charakter mit Kraftwert 0 kann keine schweren Items tragen.
-### Ein (oder zwei) sperrige Items
-Manche Items haben die *sperrig* Eigenschaft. Du kannst ein einziges *sperriges* Item ohne negative Auswirkungen mit dir tragen. Ein zweites *sperriges* Item kannst du mitführen, aber deine Geschwindigkeit wird dann auf 5' reduziert.
+Mehrere ähnliche Gegenstände können zusammengruppiert werden, zum Beispiel zwanzig Pfeile in einem Köcher oder mehrere Heiltränke an deinem Gürtel, und werden für das Tragelimit nur als ein Gegenstand gezählt. Der GM kann anhand seiner eigenen Einschätzung weitere Einschränkungen einführen. Obwohl 1000 Magazine an Munition nach dieser Regel theoretisch als ein Gegenstand gelten könnten, kann der GM entscheiden, dass ein Charakter so viel nicht tragen kann, oder dass diese Menge als *sperrig* zählt (siehe unten).
+### Maximale Anzahl schwerer Gegenstände anhand des Kraftwertes
+Einige Gegenstände haben die Eigenschaft *schwer*. Du kannst maximal so viele *schwere* Gegenstände mit dir tragen, wie dein Kraftwert groß ist. Sobald du deine Maximalzahl an *schweren* Gegenständen trägst, wird deine Geschwindigkeit halbiert. Ein Charakter mit Kraftwert 0 kann keine schweren Gegenstände tragen. 
+### Ein (oder zwei) sperrige Gegenstände
+Manche Gegenstände haben die *sperrig* Eigenschaft. Du kannst einen einzigen *sperrigen* Gegenstand ohne negative Auswirkungen mit dir tragen. Einen zweiten *sperrigen* Gegenstand kannst du mitführen, aber deine Geschwindigkeit wird dann auf 5' reduziert.
 ## Waffen & Geräte
-Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an Ausrüstung an, die du im Kampf benutzen kannst. Sie enthält Beispiele verschiedener Genres und Settings und du kannst existierende Waffen an deine Kampagne anpassen, indem du einfach den Namen änderst aber die spielmechanischen Eigenschaften beibehälst. Ein Flammenwerfer zum Beispiel kann genauso gut ein alchemischer Säurespucker sein.
-
-**Beispiele** führen eine oder mehrere Waffen auf, die spielmechanisch equivalent sind. Es handelt sich um keine abschließende Liste, aber es kann dir helfen, loszulegen. Besprich' am besten mit deinem GM, was für Items in eurem Spiel Sinn ergeben.
+Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an Ausrüstung an, die du im Kampf benutzen kannst. Sie enthält Beispiele verschiedener Genres und Settings und du kannst existierende Waffen an deine Kampagne anpassen, indem du einfach den Namen änderst aber die spielmechanischen Eigenschaften beibehälst. Ein Flammenwerfer zum Beispiel kann genauso gut ein alchemischer Säurespucker sein. **Beispiele** führen eine oder mehrere Waffen auf, die spielmechanisch equivalent sind. Es handelt sich um keine abschließende Liste, aber es kann dir helfen, loszulegen. Besprich' am besten mit deinem GM, was für Gegenstände in eurem Spiel Sinn ergeben.
 
 **Kategorie** ist eine allgemeine Gruppe, in die die Waffe fällt. Manche Waffen fallen in mehrere Gruppen. Falls eine Waffe mehrere Kategorien hat, muss der sie führende Charakter für jede Attacke entscheiden, in welcher Kategorie die Waffe für diese Attacke spielmechanisch fällt, woraufhin sie die Vorteile dieser Kategorie erhält. Beispielsweise hat ein Dolch die Kategorien "Kurze Reichweite" und "Einhand Nahkampf". Bei jeder Attacke muss der Charakter entscheiden, in welcher Kategorie er die Waffe gerade nutzt.
 
@@ -75,7 +73,7 @@ Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an 
 	- Waffen mit **mittlerer**, **großer** und **extremer** Reichweite haben unterschiedliche Stärken, sind aber generell nicht für den Kampf auf engem Raum gebaut. Sie benötigen zwei Hände, um sie zu führen und lassen so keine Hand frei.
 	- Waffen mit **extremer** Reichweite sind außerdem speziell für Distanz konstruiert und können nicht für Angriffe auf ein Ziel näher als 50' benutzt werden.
 
-**WW (Wohlstandswert)** ist eine Angabe dafür, wie teuer das Item ist. Siehe die Sektion **Wohlstand** oben in diesem Kapitel für die Details.
+**WW (Wohlstandswert)** ist eine Angabe dafür, wie teuer der Gegenstand ist. Siehe die Sektion **Wohlstand** oben in diesem Kapitel für die Details.
 
 **Eigenschaften** sind Qualitäten, die jede Waffe einzigartig macht. Wie die Eigenschaften spielmechanisch funktionieren, ist unten beschrieben.
 
@@ -116,15 +114,15 @@ Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an 
 ### Eigenschaften
 **Fläche** - Eine Flächenwaffe führt immer Multiziel-Attacken der aufgeführten Größe und Form aus und kann nicht für einfache Attacken mit einem Ziel genutzt werden. Falls eine Waffe mehrere verschiedene Flächengrößen hat, kann der Angreifer für jede Attacke entscheiden, welche er nutzen will. Die Attacken dieser Waffen leiden nicht unter dem normalen Nachteil für das Ausführen von Multiziel-Attacken.
 
-**Verbrauchsgut** - Ein Verbrauchsgegenstand kann nur einmal benutzt werden, um einen Angriff auszuführen. Danach ist das Item benutzt und kann nicht wieder verwendet werden.
+**Verbrauchsgut** - Ein Verbrauchsgegenstand kann nur einmal benutzt werden, um einen Angriff auszuführen. Danach ist der Gegenstand benutzt und kann nicht wieder verwendet werden.
 
-**Defensiv** - Eine defensive Waffe gibt dem Nutzer Vorteil entsprechend des angegebenen Wertes, wenn er die *Verteidigen*-Aktion nutzt. Außerdem erhälst du +1 Rüstungsbonus wenn du eine defensive Waffe führst (unabhängig von dem Wert, der für *defensiv* aufgeführt ist). Während man ein *defensives* Item nutzt, bekommst du nicht den Vorteil 1, der normalerweise mit einhändigen oder zweihändigen Nahkampfwaffen assoziiert ist. Eine Waffe kann keinen *defensiv*-Wert größer als 3 haben.
+**Defensiv** - Eine defensive Waffe gibt dem Nutzer Vorteil entsprechend des angegebenen Wertes, wenn er die *Verteidigen*-Aktion nutzt. Außerdem erhälst du +1 Rüstungsbonus wenn du eine defensive Waffe führst (unabhängig von dem Wert, der für *defensiv* aufgeführt ist). Während man einen *defensiven* Gegenstand nutzt, bekommst du nicht den Vorteil 1, der normalerweise mit einhändigen oder zweihändigen Nahkampfwaffen assoziiert ist. Eine Waffe kann keinen *defensiv*-Wert größer als 3 haben.
 
 **Verzögert bereit** - Diese Waffe kann nur einmal pro Runde benutzt werden. Außerdem muss der Nutzer vor einem Angriff eine Bewegungsaktion ausgeben, um die Waffe bereit zu machen.
 
 **Kraftvoll** - Diese Waffe kann Angriffe mit dem Kraft-Attribut ausführen und Harme wirken, die über Kraft als Attribut genutzt werden.
 
-**Schwer** - Diese Waffe ist besonders schwer zu tragen. Du kannst maximal eine Anzahl schwerer Items tragen, die gleich deinem Kraftwert ist.
+**Schwer** - Diese Waffe ist besonders schwer zu tragen. Du kannst maximal eine Anzahl schwerer Gegenstände tragen, die gleich deinem Kraftwert ist.
 
 **Präzise** - Diese Waffe kann Angriffe mit dem Geschicklichkeit-Attribut ausführen und Harme wirken, die über Geschicklichkeit als Attribut genutzt werden.
 
@@ -200,7 +198,7 @@ Wähle als nächstes eine beliebige Anzahl an weiteren Eigenschaften aus, die di
 ### Schritt 3: Harme auswählen
 Waffen werden in ihrem Kampfstil durch die Harme differenziert, die sie wirken können. Harme haben keinen Einfluss auf den Wohlstandswert der Waffe und die meisten Waffen haben 2 oder 3 assoziierte Harme. Waffen mit 4 oder mehr Harmen müssen vom GM akzeptiert werden.
 ### Schritt 4: Wohlstandswert berechnen
-Alle Waffen (mit Ausnahme von unbewaffneter Schlag), starten mit einem Wohlstandswert von 1. Von hier aus berechnest du den finalen Wohlstandswert anhand der Entscheidungen, die du in Schritt 2 und 3 gemacht hast. Vergleiche danach die Waffe mit Gegenständen ähnlicher Macht. Falls nötig, verändere den Wohlstandswert der Waffe noch leicht, damit der WW am Ende eine passende Repräsentation der Wichtigkeit der Waffe in der Geschichte und ihrer Macht im Vergleich zu anderen Items ist.
+Alle Waffen (mit Ausnahme von unbewaffneter Schlag), starten mit einem Wohlstandswert von 1. Von hier aus berechnest du den finalen Wohlstandswert anhand der Entscheidungen, die du in Schritt 2 und 3 gemacht hast. Vergleiche danach die Waffe mit Gegenständen ähnlicher Macht. Falls nötig, verändere den Wohlstandswert der Waffe noch leicht, damit der WW am Ende eine passende Repräsentation der Wichtigkeit der Waffe in der Geschichte und ihrer Macht im Vergleich zu anderen Gegenständen ist.
 
 > ### Beispiel Waffen erstellen: Kusari-Gama (Kettensense)
 > Die Kusari-Gama ist eine einzigartige Waffe der japanischen Geschichte. Es ist eine Kombination aus einer Kette und einer Kama (einem traditionellen Farmwerkzeug).

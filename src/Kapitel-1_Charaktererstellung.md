@@ -221,7 +221,7 @@ Eine Liste aller verfügbaren Fertigkeiten kann [hier](./lists/fertigkeiten.md) 
 ## Schritt 5: Startausrüstung wählen
 In einem typischen Open Legend-Spiel beginnt dein Charakter mit der nötigen Startausrüstung für das Leben eines Abenteurers. Der GM kann aber auch entscheiden, dass die Kampagne unter besonderen Umständen beginnt (zum Beispiel, dass die gesamte Gruppe eingesperrt in einem Sklavenkonvoi beginnt), die etwas anderes benötigen.
 
-Normalerweise beginnst du aber mit einem Wohlstandswert von 2 und kannst bis zu drei Items mit Wohlstandswert 2, sowie so viele Items eines niedrigeren Wohlstandswerten auswählen, wie du willst. Schlage in Kapitel 6 für Regeln zu Wohlstand und Ausrüstungsinformationen nach. Gehe sicher, dass du jegliche Veränderungen an deinen Verteidigungen oder anderen Werten notierst, nachdem du deine Ausrüstung ausgewählt hast.
+Normalerweise beginnst du aber mit einem Wohlstandswert von 2 und kannst bis zu drei Gegenstände mit Wohlstandswert 2, sowie so viele Gegenstände eines niedrigeren Wohlstandswerten auswählen, wie du willst. Schlage in Kapitel 6 für Regeln zu Wohlstand und Ausrüstungsinformationen nach. Gehe sicher, dass du jegliche Veränderungen an deinen Verteidigungen oder anderen Werten notierst, nachdem du deine Ausrüstung ausgewählt hast.
 ## Schritt 6: Charakterstärken und -schwächen auswählen
 Charakterstärken und -schwächen geben dir weitere Wege, die Persönlichkeit, das Aussehen, die Stärken, Schwächen und den Hintergrund deines Charakters auszuarbeiten. Vollständige Beschreibungen der verfügbaren Charakterstärken und -schwächen sowie wie sie im Spiel genutzt werden, findest du in [Kapitel 5: Charakterstärken und -schwächen](./Kapitel-5_Charakterstaerken-und-schwaechen.md).
 
@@ -358,13 +358,13 @@ ___
 ### Ingenieur
 Ingenieure haben einen Funken Schöpfung in sich und können die Funktionsweise extrem komplexer Systeme durchschauen. Auch wenn Ingenieure selbst typischerweise flink sind und eine Haut zäh wie Leder haben, liegt ihre wahre Stärke in den cleveren Maschinen, die sie aus Schrott und Ersatzteilen zusammenbauen. Diese zischenden Dampfgestalten und mechanische Werkzeuge stellen sicher, dass der Ingenieur für jede Situation gewappnet ist.
 #### Strategie
-Wenn sie nicht im Kampf sind, verlassen Ingenieure sich auf ihre cleveren Erfindungen. Mit genug Zeit können sie *Außergewöhnliches Item Erschaffen* nutzen, um sich auf eine Reihe verschiedener Situationen vorzubereiten. Ob sie eine 100' lange Leiter basteln, die sich auf die Größe eines Rucksacks zusammenfalten lässt, einen ferngesteuerten Spähroboter oder einen tragbaren Wundversorger, ein Ingenieur kann immer einen Weg finden, seine Kreativität mit flexiblen Lösungen und praktischen Gegenständen zum Wohl der Gruppe anzuwenden.
+Wenn sie nicht im Kampf sind, verlassen Ingenieure sich auf ihre cleveren Erfindungen. Mit genug Zeit können sie *Außergewöhnlichen Gegenstand Erschaffen* nutzen, um sich auf eine Reihe verschiedener Situationen vorzubereiten. Ob sie eine 100' lange Leiter basteln, die sich auf die Größe eines Rucksacks zusammenfalten lässt, einen ferngesteuerten Spähroboter oder einen tragbaren Wundversorger, ein Ingenieur kann immer einen Weg finden, seine Kreativität mit flexiblen Lösungen und praktischen Gegenständen zum Wohl der Gruppe anzuwenden.
 
 Im Kampf richten sich Ingenieure nach der momentanen Situation, um ihre Verbündeten zu unterstützen. Das Wohl *Verstärken* kann alles mögliche darstellen, von einem Paar Springstiefel zu einem zielsuchenden Helm. Wenn die Feinde übermächtig scheinen, kann der Ingenieur mit *Kreatur Beschwören* einen oder mehrere Kampfbots aktivieren. Sollten die Erfindungen und Roboter des Ingenieurs mal nicht ausreichen, so ist er selbst auch im Gebrauch seiner guten alten Handkanone geübt.
 
 **Attribute:** Geschicklichkeit 3 (1d8), Konstitution 3 (1d8), Lernen 3 (1d8), Logik 3 (1d8), Wahrnehmung 1 (1d4), Schöpfung 5 (2d6)<br>**Trefferpunkte:** 16<br>**Deckung:** 15 (Geschicklichkeit 3, Kevlarweste 2)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 10<br>**Geschwindigkeit:** 30'
 
-**Fertigkeiten:** Wohlfokus I (Kreatur Beschwören), Außergewöhnliches Item Erschaffen I
+**Fertigkeiten:** Wohlfokus I (Kreatur Beschwören), Außergewöhnlichen Gegenstand Erschaffen I
 
 **Wichtige Ausrüstung:** Handkanone (Revolver), Kevlarweste, 2
 Granaten, Ingenieurswerkzeug
@@ -410,7 +410,7 @@ ___
 ### Mystiker
 Mystiker finden sich meist abseits des Trubels der Stadt, da sie die Fortschritte der Gesellschaft hinter sich gelassen haben. Sie ziehen es vor, der leisen Stimme im Inneren zu lauschen, wobei sie materiellen Besitz ablehnen und ein asketisches Leben auf der Suche danach führen, allen selbstzentrierten Gedanken zu entsagen. 
 #### Strategie
-Außerhalb des Kampfes führen Mystiker eine breite Auswahl an Fähigkeiten, die sie zu guten Informationssammlern, Detektiven, und übernatürlichen forensischen Analytikern machen. Sie sind in der Lage, zukünftige Gefahr mit dem Wohl *Voraussicht* kommen zu sehen, allerlei Informationen mit *Lesung* aus der Vergangenheit eines Items zu ziehen, mit *Fernsicht* gegnerische Bewegungen aus der Ferne zu beobachten und mit jeglicher Kreatur durch *Telepathie* zu kommunizieren.
+Außerhalb des Kampfes führen Mystiker eine breite Auswahl an Fähigkeiten, die sie zu guten Informationssammlern, Detektiven, und übernatürlichen forensischen Analytikern machen. Sie sind in der Lage, zukünftige Gefahr mit dem Wohl *Voraussicht* kommen zu sehen, allerlei Informationen mit *Lesung* aus der Vergangenheit eines Gegenstands zu ziehen, mit *Fernsicht* gegnerische Bewegungen aus der Ferne zu beobachten und mit jeglicher Kreatur durch *Telepathie* zu kommunizieren.
 
 Mystiker, die sich einer größeren Gruppe angeschlossen haben, nutzen ihre Kräfte meist zu Verteidigung anderer, z.B. indem sie *Verstärken* nutzen, um Freunden psychische Kenntnisse zu geben, *Gedankenraub*, um Feinden ihre Geheimnisse zu entziehen und indem sie ihren Schutzwert und die Fertigkeit *Defensive Reflexe* nutzen, um Verteidigungsaktionen auszuführen. Mystiker sind auch gewandt darin, die Pläne von Feinden mit *Annullieren* zu durchkreuzen und Harme auf Verbündeten mit der Fertigkeit *Medikus* zu behandeln.
 
@@ -554,7 +554,7 @@ Die vollständige Liste aller verfügbaren Fertigkeiten kann [hier](./lists/fert
 ### Neue Trefferpunkte
 In *Open Legend* sind Attribute der Weg, wie du deine Trefferpunkte erhöhen kann. Wenn du deinen Charakter widerstandsfähiger machen willst, erhöhe dein Zähigkeit-, Präsenz- oder Willenskraft-Attribut. Wie in der Gleichung der Standardtrefferpunkte dargelegt, wirst du jedes Mal, wenn du eines dieser Attribute um 1 erhöhst, 2 Trefferpunkte gewinnen.
 ## Jenseits dem ersten Level starten
-Manchmal stößt ein Charakter zu einer laufenden Kampagne hinzu, in der die anderen Spielercharaktere schon mehrere Level aufgestiegen sind. In diesem Fall wäre es nicht ausgewogen, einen Charakter auf Level 1 der Gruppe hinzuzufügen. In solchen Situationen kannst du die *Charaktere jenseits dem ersten Level*-Tabelle nutzen, um Attributpunkte, Fertigkeiten und Wohlstand des Charakters zu bestimmen. Beim Wählen deiner Startausrüstung kannst du drei Items deines momentanen Wohlstandes sowie eine beliebige Anzahl an Items niedrigeren Wertes wählen.
+Manchmal stößt ein Charakter zu einer laufenden Kampagne hinzu, in der die anderen Spielercharaktere schon mehrere Level aufgestiegen sind. In diesem Fall wäre es nicht ausgewogen, einen Charakter auf Level 1 der Gruppe hinzuzufügen. In solchen Situationen kannst du die *Charaktere jenseits dem ersten Level*-Tabelle nutzen, um Attributpunkte, Fertigkeiten und Wohlstand des Charakters zu bestimmen. Beim Wählen deiner Startausrüstung kannst du drei Gegenstände deines momentanen Wohlstandes sowie eine beliebige Anzahl an Gegenständen niedrigeren Wertes wählen.
 #### Charaktere jenseits dem ersten Level
 
 | Level | EP  | Attributpunkte | Attributhöchstwert | Fertigkeitenpunkte | Wohlstand |

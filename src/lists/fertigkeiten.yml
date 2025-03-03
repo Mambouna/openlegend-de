@@ -326,14 +326,14 @@
   cost:
   - 3
   description: |
-    Deine außergewöhnliche Macht stammt von einer Verbindung mit einem bestimmten Fokusobjekt, wie einem Stab, digitalen Psiverstärker, heiligem Symbol oder einem Zauberbuch. Wenn du dieses Fokusitem in der Hand hältst, muss man im Kampf mit dir rechnen.
+    Deine außergewöhnliche Macht stammt von einer Verbindung mit einem bestimmten Fokusobjekt, wie einem Stab, digitalen Psiverstärker, heiligem Symbol oder einem Zauberbuch. Wenn du diesen Fokusgegenstand in der Hand hältst, muss man im Kampf mit dir rechnen.
   effect: |
     Mit der Zustimmung deines GM wählst du einen Fokus aus, von dem deine Macht mit einem einzigen außergewöhnlichen Attribut stammt. Einige Beispiele wären Zauberstäbe, Psiverstärker, Kristallkugeln, Zauberbücher, heilige Symboe, Waffen, deine Stimme oder ein dir treues Tier. Du kannst das ausgewählte Attribut nicht ohne deinen Fokus nutzen. Der Fokus verstärkt deine Kräfte und erlaubt es dir so, das gewählte Attribut als eins höher zu behandeln, wenn du Attributwürfel für Aktionswürfe bestimmst. Für alle anderen Applikationen (Fertigkeiten, Harme, Wohle, usw. ...) bleibt dein Attributwert unverändert.
   special: |
-    Falls du dein Fokusitem je verlierst, ob absichtlich oder nicht, erhälst du die Fertigkeitenpunkte zurück, die du für diese Fertigkeit ausgegeben hast und kannst sie wieder normal ausgeben.
+    Falls du deinen Fokusgegenstand je verlierst, ob absichtlich oder nicht, erhälst du die Fertigkeitenpunkte zurück, die du für diese Fertigkeit ausgegeben hast und kannst sie wieder normal ausgeben.
     Du kannst diese Fertigkeit mehrmals erhalten. Falls du dich dazu entscheidest, wählst du jedes Mal ein neues Attribut, welches noch keinen Fokus hat. Jede Instanz dieser Fertigkeit kann den gleichen Fokus haben oder aber unterschiedliche.
 - !
-  name: Außergewöhnliches Item Erschaffen (I - III)
+  name: Außergewöhnlichen Gegenstand Erschaffen (I - III)
   OGname: Craft Extraordinary Item (I - III)
   prerequisites:
     tier1:
@@ -382,25 +382,25 @@
   cost:
   - 3
   description: |
-    Du bist in der Lage, Items mit magischer Energie zu durchdringen, futuristische Technologie zu schaffen, Tränke zu brauen oder außergewöhnliche Geräte zu bauen. Ihre Macht ist permanent, aber abhängig von deiner Expertise.
+    Du bist in der Lage, Gegenstände mit magischer Energie zu durchdringen, futuristische Technologie zu schaffen, Tränke zu brauen oder außergewöhnliche Geräte zu bauen. Ihre Macht ist permanent, aber abhängig von deiner Expertise.
   effect: |
-    Solange du die notwendigen Materialien und passenden Arbeitsraum hast (nach Abwägung des GM), kannst du außergewöhnliche Items erschaffen (wie in [Kapitel 9: Spezialausrüstung](./../Kapitel-9_Spezialausruestung.md) beschrieben). Du kannst einem Item nur Attribute, Harme und Wohle geben, zu denen du selbst Zugang hast. Beispielsweise musst du einen Energiewert von 5 oder höher haben, um einem Schwert das Attribut Energie 5 einzuflößen. Die einzige Ausnahme zu dieser Regelung ist ein ausreichend großer Wert in Schöpfung, Lernen oder Logik. Diese Attribute erlauben es dir, einem Item beliebige Attribute, Harme oder Wohle zu verleihen, solange ihr Wert / Kraftlevel kleiner oder gleich deinem Attributwert ist. Der GM kann entscheiden, ob die Anwendung dieser Ausnahme in bestimmten Kontexten nicht sinnvoll ist und diese untersagen.
-    Dein Rang in dieser Fertigkeit bestimmt den maximalen Wohlstandswert von Items, die du erschaffen kannst, anhand des genutzten Attributs:
+    Solange du die notwendigen Materialien und passenden Arbeitsraum hast (nach Abwägung des GM), kannst du außergewöhnliche Gegenstände erschaffen (wie in [Kapitel 9: Spezialausrüstung](./../Kapitel-9_Spezialausruestung.md) beschrieben). Du kannst einem Gegenstand nur Attribute, Harme und Wohle geben, zu denen du selbst Zugang hast. Beispielsweise musst du einen Energiewert von 5 oder höher haben, um einem Schwert das Attribut Energie 5 einzuflößen. Die einzige Ausnahme zu dieser Regelung ist ein ausreichend großer Wert in Schöpfung, Lernen oder Logik. Diese Attribute erlauben es dir, einem Gegenstand beliebige Attribute, Harme oder Wohle zu verleihen, solange ihr Wert / Kraftlevel kleiner oder gleich deinem Attributwert ist. Der GM kann entscheiden, ob die Anwendung dieser Ausnahme in bestimmten Kontexten nicht sinnvoll ist und diese untersagen.
+    Dein Rang in dieser Fertigkeit bestimmt den maximalen Wohlstandswert von Gegenständen, die du erschaffen kannst, anhand des genutzten Attributs:
     <ul>
     <li><strong>Rang 1</strong> - Maximaler Wohlstandswert = Attributwert - 2.</li>
     <li><strong>Rang 2</strong> - Maximaler Wohlstandswert = Attributwert - 1.</li>
     <li><strong>Rang 3</strong> - Maximaler Wohlstandswert = Attributwert.</li>
     </ul>
-    Beispielsweise kann ein Charakter mit Schöpfung 5 und Rang 1 dieser Fertigkeit ein außerordentliches Item bis Wohlstandswert 3 erschaffen.
-    Du kannst einen passenden Wohlstandswert für ein Item anhand der Beispielitems aus <strong>[Kapitel 9: Spezialausrüstung](./../Kapitel-9_Spezialausruestung.md)</strong> finden oder diesen mit den Regeln aus dem Abschnitt <strong>Eigene außergewöhnliche Items konzipieren</strong> daraus bestimmen.
-    Ein Item mit den Eigenschaften <em>Konsumgut</em> oder <em>Verbrauchsgut</em> zu erschaffen braucht einen vollen ununterbrochenen Tag an 8 Stunden Arbeit. Andere Items brauchen anhand ihres Wohlstandswertes unterschiedlich viel Zeit:
+    Beispielsweise kann ein Charakter mit Schöpfung 5 und Rang 1 dieser Fertigkeit einen außerordentlichen Gegenstand bis Wohlstandswert 3 erschaffen.
+    Du kannst einen passenden Wohlstandswert für einen Gegenstand anhand der Beispielgegenstände aus <strong>[Kapitel 9: Spezialausrüstung](./../Kapitel-9_Spezialausruestung.md)</strong> finden oder diesen mit den Regeln aus dem Abschnitt <strong>Eigene außergewöhnliche Gegenstände konzipieren</strong> bestimmen.
+    Ein Gegenstand mit den Eigenschaften <em>Konsumgut</em> oder <em>Verbrauchsgut</em> zu erschaffen braucht einen vollen ununterbrochenen Tag an 8 Stunden Arbeit. Andere Gegenstände brauchen anhand ihres Wohlstandswertes unterschiedlich viel Zeit:
     <ul>
     <li><strong>Wohlstandswert 1 - 3</strong>: Zwei Tage pro Wohlstandswert.</li>
     <li><strong>Wohlstandswert 4 - 5</strong>: Vier Tage pro Wohlstandswert.</li>
     <li><strong>Wohlstandswert 6 - 7</strong>: Eine Woche pro Wohlstandswert.</li>
     <li><strong>Wohlstandswert 8 - 9</strong>: Ein Monat pro Wohlstandswert.</li>
     </ul>
-    Am Ende dieser Zeitspanne ist das Item erschaffen. Ein Item zu erschaffen zählt weiterhin als Ausgabe, sodass du einen Wohlstandswert haben musst, der hoch genug ist, um das Item anhand der in <strong>[Kapitel 6: Wohlstand und Ausrüstung](./../Kapitel-6_Wohlstand-und-Ausruestung.md)</strong> beschriebenen Regeln zu kaufen. Der GM kann nach Abwägung einige oder alle der Kosten, die mit dem Erschaffen eines Items assoziiert sind, fallen lassen, falls du besondere Materialien zum Schaffen des Items schon besitzt. Hast du z.B. kürzlich die Haut eines roten Drachen erbeutet und möchtest nun daraus eine feuerresistenze Rüstung schaffen, kann der GM bestimmen, dass die Haut den Großteil der mit der Schaffung assoziierten Kosten ausmacht und der Wohlstandswert zur Bestimmung der Beschaffungskosten für den Schaffungsprozess so um 3 reduziert ist.
+    Am Ende dieser Zeitspanne ist der Gegenstand erschaffen. Einen Gegenstand zu erschaffen zählt weiterhin als Ausgabe, sodass du einen Wohlstandswert haben musst, der hoch genug ist, um den Gegenstand anhand der in <strong>[Kapitel 6: Wohlstand und Ausrüstung](./../Kapitel-6_Wohlstand-und-Ausruestung.md)</strong> beschriebenen Regeln zu kaufen. Der GM kann nach Abwägung einige oder alle der Kosten, die mit dem Erschaffen eines Gegenstandes assoziiert sind, fallen lassen, falls du besondere Materialien zum Schaffen des Gegenstandes schon besitzt. Hast du z.B. kürzlich die Haut eines roten Drachen erbeutet und möchtest nun daraus eine feuerresistenze Rüstung schaffen, kann der GM bestimmen, dass die Haut den Großteil der mit der Schaffung assoziierten Kosten ausmacht und der Wohlstandswert zur Bestimmung der Beschaffungskosten für den Schaffungsprozess so um 3 reduziert ist.
 - !
   name: Blitzfinger
   OGname: Fast Draw
@@ -1809,7 +1809,7 @@
     <li><strong>Rang 3</strong> - +3 Bonus auf Deckung und Zähigkeit.</li>
     </ul>
 - !
-  name: Normales Item Erschaffen (I - II)
+  name: Normalen Gegenstand Erschaffen (I - II)
   OGname: Craft Mundane Item (I - II)
   prerequisites:
     tier1:
@@ -1848,12 +1848,12 @@
   cost:
   - 2
   description: |
-    Du hast ein bestimmtes Handwerk gemeistert, sodass du mit der nötigen Zeit und Materialien Items aus diesem Gewerbe erschaffen kannst. Du könntest ein gekonnter Schmied sein, professioneller Ingenieur, Meisteralchemist oder jede andere Art Profession.
+    Du hast ein bestimmtes Handwerk gemeistert, sodass du mit der nötigen Zeit und Materialien Gegenstände aus diesem Gewerbe erschaffen kannst. Du könntest ein gekonnter Schmied sein, professioneller Ingenieur, Meisteralchemist oder jede andere Art Profession.
   effect: |
-    Wähle einen spezifischen Beruf oder eine Profession. Du kannst Items erschaffen, die für deinen gewählten Job plausibel sind, wobei der GM entscheidet, wie schnell du das gewünschte Item anhand seiner Natur und den dir verfügbaren Materialien erschaffen kannst. Dein Rang in Normales Item Erschaffen bestimmt den maximalen Wohlstandswert der Items, die du erzeugen kannst. Anders als beim Kaufen von Dingen (siehe [Kapitel 6: Wohlstand und Ausrüstung](./../Kapitel-6_Wohlstand-und-Ausruestung.md)), schränkt das Erschaffen von Gegenständen nicht ein, ob du weitere Güter dieses Wohlstandswertes erhalten kannst.
+    Wähle einen spezifischen Beruf oder eine Profession. Du kannst Gegenstände erschaffen, die für deinen gewählten Job plausibel sind, wobei der GM entscheidet, wie schnell du den gewünschten Gegenstand anhand seiner Natur und den dir verfügbaren Materialien erschaffen kannst. Dein Rang in Normalen Gegenstand Erschaffen bestimmt den maximalen Wohlstandswert der Gegenstände, die du erzeugen kannst. Anders als beim Kaufen von Dingen (siehe [Kapitel 6: Wohlstand und Ausrüstung](./../Kapitel-6_Wohlstand-und-Ausruestung.md)), schränkt das Erschaffen von Gegenständen nicht ein, ob du weitere Güter dieses Wohlstandswertes erhalten kannst.
     <ul>
-    <li><strong>Rang 1</strong> - Du kannst Items gleich deinem eigenen Wohlstandswert erschaffen.</li>
-    <li><strong>Rang 2</strong> - Du kannst Items gleich deinem eigenen Wohlstandswert + 1 erschaffen.</li>
+    <li><strong>Rang 1</strong> - Du kannst Gegenstände gleich deinem eigenen Wohlstandswert erschaffen.</li>
+    <li><strong>Rang 2</strong> - Du kannst Gegenstände gleich deinem eigenen Wohlstandswert + 1 erschaffen.</li>
     </ul>
     <strong>Beispiele</strong> (Diese Liste ist nicht abschließend und du kannst mit dem GM zusammenarbeiten, um andere sinnvolle Gegenstände zu erdenken, die du erschaffen könntest):
     <ul>
@@ -2575,7 +2575,7 @@
     <li><strong>Harm bannen</strong> - Mache einen Schutzwurf mit einem Herausforderungswert von 10 + 2 x Kraflevel des Harms, den du bannen willst. Bei Erfolg entfernst du einen permanenten Harm vom Ziel, wobei das Ziel aber keine Resistenz oder Immunität gegen den Harm für die Zukunft erhält.</li>
     </ul>
   special: |
-    Permanente Harme und Wohle mit dieser Fertigkeit zu gewähren kann einen dramatischen Einfluss auf die spielmechanische Balance der Geschichte haben. Wie mit anderen Effekten wie z.B. Außergewöhnliches Item Erschaffen, unterliegt das Wirken permanenter Harme und Wohle der Abwägung des GM. Der GM sollte besonders darauf achten, dass diese Fertigkeit nicht genutzt wird, um einen Charakter übermäßig mächtig zu machen.
+    Permanente Harme und Wohle mit dieser Fertigkeit zu gewähren kann einen dramatischen Einfluss auf die spielmechanische Balance der Geschichte haben. Wie mit anderen Effekten wie z.B. Außergewöhnlichen Gegenstand Erschaffen, unterliegt das Wirken permanenter Harme und Wohle der Abwägung des GM. Der GM sollte besonders darauf achten, dass diese Fertigkeit nicht genutzt wird, um einen Charakter übermäßig mächtig zu machen.
 - !
   name: Verteidigungsexpertise
   OGname: Defensive Mastery

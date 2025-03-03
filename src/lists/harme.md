@@ -280,7 +280,7 @@ Du zwingst einen Feind, die Kontroller über ein Objekt zu verlieren, das er fes
 **Effekt**  
 <ul>
 <li><strong>Kraftlevel 3</strong> - Das Ziel lässt ein Objekt deiner Wahl an einem Punkt in einer Reichweite von 15' vom Ziel aus fallen.</li>
-<li><strong>Kraftlevel 6</strong> - Als Alternative dazu, das Item zu bewegen, kannst du auch entscheiden, die Kontrolle darüber zu übernehmen. Falls du dich dafür entscheidest, wirst du der das Objekt führende Charakter. Um die Kontrolle wiederzuerlangen, kann der ursprüngliche Charakter selbst mit einem Entwaffnet-Harm reagieren, um den Effekt zu kontern oder einen Attributwurf (typischerweise Kraft) mit einem Herausforderungswert von 10 + 2 x Attributwert des den Harm wirkenden Charakters nutzen.</li>
+<li><strong>Kraftlevel 6</strong> - Als Alternative dazu, den Gegenstand zu bewegen, kannst du auch entscheiden, die Kontrolle darüber zu übernehmen. Falls du dich dafür entscheidest, wirst du der das Objekt führende Charakter. Um die Kontrolle wiederzuerlangen, kann der ursprüngliche Charakter selbst mit einem Entwaffnet-Harm reagieren, um den Effekt zu kontern oder einen Attributwurf (typischerweise Kraft) mit einem Herausforderungswert von 10 + 2 x Attributwert des den Harm wirkenden Charakters nutzen.</li>
 </ul>
 
 > Tags: Außergewöhnlich, Körperlich

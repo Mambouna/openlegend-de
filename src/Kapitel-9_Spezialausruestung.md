@@ -1,97 +1,97 @@
 [Kapitel 8: Das Spiel leiten](./Kapitel-8_Das-Spiel-leiten.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | kein nächstes Kapitel
 
 # Kapitel 9: Spezialausrüstung
-Kapitel 6 hat dir die häufigsten Arten von Ausrüstung näher gebracht, die dein Charakter benutzen wird. In diesem Kapitel lernst du Regeln für besondere Ausrüstung kennen, die nicht so allgegenwärtig ist. Als erstes lernst du außergewöhnliche Items kennen: Waffen, Rüstung und andere Gegenstände, die mit Magie verstärkt, von Meistern geschmiedet, mit futuristischer Technologie ausgestattet oder anderweitig normalen Items gleicher Art überlegen sind. Danach lernst du, wie Reittiere und Fahrzeuge umgesetzt sind, die deine Charaktere für bessere Beweglichkeit und andere taktische Möglichkeiten reiten oder steuern können.
-## Außergewöhnliche Items
-In Kapitel 6 wurde schon besprochen, wie wichtig einprägsame und besondere Items in Geschichten sind, z.B. Arthurs **Exkalibur**, Lovecrafts **Necronomicon**, Thors Hammer **Mjolnir** oder **Spice** aus Frank Herberts Roman *Dune*. Viele großartige Geschichten brauchen diese Relikte und in diesem Abschnitt zeigen wir dir, wie du sie für dein Open Legend Spiel selbst erstellen kannst.
+Kapitel 6 hat dir die häufigsten Arten von Ausrüstung näher gebracht, die dein Charakter benutzen wird. In diesem Kapitel lernst du Regeln für besondere Ausrüstung kennen, die nicht so allgegenwärtig ist. Als erstes lernst du außergewöhnliche Gegenstände kennen: Waffen, Rüstung und andere Gegenstände, die mit Magie verstärkt, von Meistern geschmiedet, mit futuristischer Technologie ausgestattet oder anderweitig normalen Gegenstände gleicher Art überlegen sind. Danach lernst du, wie Reittiere und Fahrzeuge umgesetzt sind, die deine Charaktere für bessere Beweglichkeit und andere taktische Möglichkeiten reiten oder steuern können.
+## Außergewöhnliche Gegenstände
+In Kapitel 6 wurde schon besprochen, wie wichtig einprägsame und besondere Gegenstände in Geschichten sind, z.B. Arthurs **Exkalibur**, Lovecrafts **Necronomicon**, Thors Hammer **Mjolnir** oder **Spice** aus Frank Herberts Roman *Dune*. Viele großartige Geschichten brauchen diese Relikte und in diesem Abschnitt zeigen wir dir, wie du sie für dein Open Legend Spiel selbst erstellen kannst.
 
-In Open Legend werden solche Items großer Kraft als *Außergewöhnliche Items* bezeichnet, da sie Mächte jenseits derer normaler Waffen, Rüstung oder Gegenstände verleihen.
-### Außergewöhnliche Items erhalten
-Außergewöhnliche Items können auf viele verschiedene Weise erhalten werden. Sie können aus dem Schatz eines besiegten Feindes gezogen, von einem Wohltäter als Belohnung vergeben, einem mysteriösen reisenden Händler abgekauft oder von einem Spielercharakter mit der Fertigkeit *Außergewöhnliches Item Erschaffen* geschmiedet werden.
+In Open Legend werden solche Gegenstände großer Kraft als *Außergewöhnliche Gegenstände* bezeichnet, da sie Mächte jenseits derer normaler Waffen, Rüstung oder Gegenstände verleihen.
+### Außergewöhnliche Gegenstände erhalten
+Außergewöhnliche Gegenstände können auf viele verschiedene Weise erhalten werden. Sie können aus dem Schatz eines besiegten Feindes gezogen, von einem Wohltäter als Belohnung vergeben, einem mysteriösen reisenden Händler abgekauft oder von einem Spielercharakter mit der Fertigkeit *Außergewöhnlichen Gegenstand Erschaffen* geschmiedet werden.
 
-Außergewöhnliche Items sind aber so mächtig, dass sie den Verlauf der Geschichte und die Fähigkeiten ihres Führers stark beeinflussen können. Daher brauchen sie immer die Zustimmung des GM, wenn sie erhalten werden sollen. Der GM kann den Wohlstandswert als grobe Einordnung der relativen Macht des außergewöhnlichen Items benutzen, aber die Entscheidung, ob ein Charakter ein solches Item erhalten sollte oder nicht, sollte immer auch von anderen Faktoren abhängig gemacht werden. Was trägt das Item zur Geschichte bei? Wie wird das Machtverhältnis innerhalb der Spieler\*innengruppe dadurch beeinflusst? Solche und andere Fragen kann der GM sich bei seiner Abwägung stellen.
-### Beschreibung außergewöhnlicher Items
-Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und anderer Ausrüstung, weil sie dem sie führenden Charakter Zugang zu Attributen, Harmen und Wohlen erlauben, die seine eigene Macht übersteigen. Anders ist es auch möglich, dass sie Attribute, Harme oder Wohle, die der Charakter schon nutzen kann, verstärken oder erweitern. Die Tabelle *Außergewöhnliche Items* stellt Beispiele dieser Items aus vielen verschiedenen Genres dar. Die Beispiele umfassen Waffen und Ausrüstung, potente Magie, Alchemie und Technologie und sollten eine Fülle an Inspiration schaffen, mit der du selbst außergewöhnliche Items für deine eigenen Kampagnen erstellen kannst.
+Außergewöhnliche Gegenstände sind aber so mächtig, dass sie den Verlauf der Geschichte und die Fähigkeiten ihres Führers stark beeinflussen können. Daher brauchen sie immer die Zustimmung des GM, wenn sie erhalten werden sollen. Der GM kann den Wohlstandswert als grobe Einordnung der relativen Macht des außergewöhnlichen Gegenstände benutzen, aber die Entscheidung, ob ein Charakter einen solchen Gegenstand erhalten sollte oder nicht, sollte immer auch von anderen Faktoren abhängig gemacht werden. Was trägt der Gegenstand zur Geschichte bei? Wie wird das Machtverhältnis innerhalb der Spieler\*innengruppe dadurch beeinflusst? Solche und andere Fragen kann der GM sich bei seiner Abwägung stellen.
+### Beschreibung außergewöhnlicher Gegenstände
+Außergewöhnliche Gegenstände unterscheiden sich von normalen Waffen, Rüstung und anderer Ausrüstung, weil sie dem sie führenden Charakter Zugang zu Attributen, Harmen und Wohlen erlauben, die seine eigene Macht übersteigen. Anders ist es auch möglich, dass sie Attribute, Harme oder Wohle, die der Charakter schon nutzen kann, verstärken oder erweitern. Die Tabelle *Außergewöhnliche Gegenstände* stellt Beispiele dieser Gegenstände aus vielen verschiedenen Genres dar. Die Beispiele umfassen Waffen und Ausrüstung, potente Magie, Alchemie und Technologie und sollten eine Fülle an Inspiration schaffen, mit der du selbst außergewöhnliche Gegenstände für deine eigenen Kampagnen erstellen kannst.
 
-**Wohlstandswert (WW)** gibt den Wohlstandswert an, mit dem das Item assoziiert ist. Um das Item zu erwerben, muss der Charakter den nötigen Wohlstand haben, wobei den Regeln aus [Kapitel 6: Wohlstand und Ausrüstung](./Kapitel-6_Wohlstand-und-Ausruestung.md) genau wie bei normalen Items gefolgt wird.
+**Wohlstandswert (WW)** gibt den Wohlstandswert an, mit dem der Gegenstand assoziiert ist. Um den Gegenstand zu erwerben, muss der Charakter den nötigen Wohlstand haben, wobei den Regeln aus [Kapitel 6: Wohlstand und Ausrüstung](./Kapitel-6_Wohlstand-und-Ausruestung.md) genau wie bei normalen Gegenstände gefolgt wird.
 
-**Attribute** geben an, welche Attribute mit dem Item genutzt werden können. Ein Item kann Attribute nutzen, um Angriffe zu machen, Harme oder Wohle zu wirken oder andere Aktionen auszuführen, die unter die Möglichkeiten des Items fallen. Der führende Charakter gibt seine eigenen Aktionen aus, um das Item zu nutzen, aber alle Attributwürfel und Kraftlevel werden durch den Attributwert des Items bestimmt. Zutreffende Fertigkeiten des Charakters werden weiterhin angewandt. Falls der Attributwert des Charakters höher ist als der des Items, kann er sein eigenes Attribut verwenden, wobei das Item dann Vorteil 1 auf alle Würfe mit diesem Attribut gibt. Dieser Bonus kann nur einmal erhalten werden, egal wie viele Items du führst, die diese Möglichkeit theoretisch hätten.
+**Attribute** geben an, welche Attribute mit dem Gegenstand genutzt werden können. Ein Gegenstand kann Attribute nutzen, um Angriffe zu machen, Harme oder Wohle zu wirken oder andere Aktionen auszuführen, die unter die Möglichkeiten des Gegenstände fallen. Der führende Charakter gibt seine eigenen Aktionen aus, um den Gegenstand zu nutzen, aber alle Attributwürfel und Kraftlevel werden durch den Attributwert des Gegenstände bestimmt. Zutreffende Fertigkeiten des Charakters werden weiterhin angewandt. Falls der Attributwert des Charakters höher ist als der des Gegenstände, kann er sein eigenes Attribut verwenden, wobei der Gegenstand dann Vorteil 1 auf alle Würfe mit diesem Attribut gibt. Dieser Bonus kann nur einmal erhalten werden, egal wie viele Gegenstände du führst, die diese Möglichkeit theoretisch hätten.
 
-**Harme & Wohle** zeigen die Harme und Wohle an, zu denen das Item Zugang gewährt. Der das Item nutzende Charakter kann mithilfe dessen die aufgeführten Harme oder Wohle wirken. Die Nummernwerte geben das Kraftlevel und die Attributwürfel des Harmes oder Wohles an. Der Charakter kann den Harm bewusst auf einem niedrigeren Kraftlevel wirken, wobei die Attributwürfel aber trotzdem bei ihrem Ausgangswert bleiben. Alle Regeln für Items mit Attributen gelten auch hier, wobei in diesem Fall der Zugang zum Attribut nur für diese Harme oder Wohle gewährt ist.
+**Harme & Wohle** zeigen die Harme und Wohle an, zu denen der Gegenstand Zugang gewährt. Der den Gegenstand nutzende Charakter kann mithilfe dessen die aufgeführten Harme oder Wohle wirken. Die Nummernwerte geben das Kraftlevel und die Attributwürfel des Harmes oder Wohles an. Der Charakter kann den Harm bewusst auf einem niedrigeren Kraftlevel wirken, wobei die Attributwürfel aber trotzdem bei ihrem Ausgangswert bleiben. Alle Regeln für Gegenstände mit Attributen gelten auch hier, wobei in diesem Fall der Zugang zum Attribut nur für diese Harme oder Wohle gewährt ist.
 
-**Eigenschaften** sind Beschreibungen besonderer Qualitäten, die jedes Item einzigartig machen. Diese Eigenschaften werden durch spielmechanische Regeln wiedergespiegelt, welche unten beschrieben sind.
+**Eigenschaften** sind Beschreibungen besonderer Qualitäten, die jeden Gegenstand einzigartig machen. Diese Eigenschaften werden durch spielmechanische Regeln wiedergespiegelt, welche unten beschrieben sind.
 
-| Außergewöhnliches Item     | WW  | Attribute     | Harme & Wohle                                   | Eigenschaften                                                                               |
-| -------------------------- | --- | ------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Haftstiefel                | 2   |               |                                                 | Besonders                                                                                   |
-| Adrenalin-Biomod           | 4   |               | Heilen 3                                        | Anhaltend (Heilen)                                                                          |
-| Aegis des Schutzes         | 4   | Energie 5     |                                                 | Autonom, Besonders                                                                          |
-| Schwarzer Lotus Extrakt    | 6   |               | Tod 9                                           | Augmentierend, Verbrauchsgut, Hartnäckig                                                    |
-| Kugelfischgift             | 3   |               | Immobilisiert 5                                 | Augmentierend, Verbrauchsgut                                                                |
-| Buch der Schatten          | 5   |               | Dunkelheit 5, Geblendet 5, Kreatur beschwören 5 | Besonders                                                                                   |
-| Großhirnsonde              | 3   |               | Gedankenraub 8                                  | Besonders                                                                                   |
-| Würgehalsband              | 1   |               |                                                 | Verflucht (Anhaltender Schaden 2)                                                           |
-| Colt 45                    | 3   |               |                                                 | Fatal 1, Waffe (Revolver)                                                                   |
-| Kristallkugel              | 3   |               | Fernsicht 6                                     |                                                                                             |
-| Digitale Tarnkleidung      | 4   |               | Verborgenheit 5                                 | Zuverlässig                                                                                 |
-| Dotanuki                   | 5   |               |                                                 | Fatal 2, Waffe (Katana), Besonders                                                          |
-| Explosive Munition         | 2   |               | Anhaltender Schaden 4                           |                                                                                             |
-| Feuerbrand                 | 4   |               |                                                 | Anhaltender Schaden 4, Harmvoll (Anhaltender Schaden), Schaden (Feuer), Waffe (Langschwert) |
-| Frostbiss                  | 4   |               | Energie 3                                       | Energie 3, Anhaltend (Aura), Rüstung (Plattenpanzer)                                        |
-| Geisterfeuer               | 2   | Energie 5     |                                                 | Energie 5, Verbrauchsgut                                                                    |
-| Helm der Wahrheit          | 5   |               | Verstärken 3                                    | Verstärken 3, Anhaltend (Verstärken), Verflucht (Wahrheitsgebunden 5)                       |
-| Horn des Donners           | 5   |               |                                                 |                                                                                             |
-| Jetpack                    | 4   |               | Fliegen 6                                       |                                                                                             |
-| Laserkanone                | 6   | Energie 9     |                                                 |                                                                                             |
-| Kriegshammer der Dominanz  | 4   |               | Aura 8                                          |                                                                                             |
-| Phasergewehr               | 4   |               |                                                 |                                                                                             |
-| Plasmaklinge               | 5   |               |                                                 |                                                                                             |
-| Trank der großen Heilung   | 2   |               | Heilen 7                                        | Konsumgut                                                                                   |
-| Trank der kleinen Heilung  | 1   |               | Heilen 3                                        | Konsumgut                                                                                   |
-| Raketenwerfer              | 3   |               |                                                 | Fatal 2, Verbrauchsgut, Waffe (Kanone)                                                      |
-| Stab der Furcht            | 3   |               | Furcht 7                                        |                                                                                             |
-| Schlafgas                  | 4   |               | Bewusstlos 5                                    | Verbrauchsgut, Fläche (15' Würfel)                                                          |
-| Seelensauger               | 2   |               | Erschöpft 5                                     |                                                                                             |
-| Fernglas der Weitsicht     | 4   | Wahrnehmung 6 |                                                 |                                                                                             |
-| Transmogrifizierungsstrahl | 5   |               | Polymorph 6                                     |                                                                                             |
-| Universalzugangs-Implantat | 6   | Überzeugung 7 |                                                 |                                                                                             |
-| Arbeiterroboter            | 4   | Kraft 3       |                                                 |                                                                                             |
+| Außergewöhnlicher Gegenstand | WW  | Attribute     | Harme & Wohle                                   | Eigenschaften                                                                               |
+| ---------------------------- | --- | ------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Haftstiefel                  | 2   |               |                                                 | Besonders                                                                                   |
+| Adrenalin-Biomod             | 4   |               | Heilen 3                                        | Anhaltend (Heilen)                                                                          |
+| Aegis des Schutzes           | 4   | Energie 5     |                                                 | Autonom, Besonders                                                                          |
+| Schwarzer Lotus Extrakt      | 6   |               | Tod 9                                           | Augmentierend, Verbrauchsgut, Hartnäckig                                                    |
+| Kugelfischgift               | 3   |               | Immobilisiert 5                                 | Augmentierend, Verbrauchsgut                                                                |
+| Buch der Schatten            | 5   |               | Dunkelheit 5, Geblendet 5, Kreatur beschwören 5 | Besonders                                                                                   |
+| Großhirnsonde                | 3   |               | Gedankenraub 8                                  | Besonders                                                                                   |
+| Würgehalsband                | 1   |               |                                                 | Verflucht (Anhaltender Schaden 2)                                                           |
+| Colt 45                      | 3   |               |                                                 | Fatal 1, Waffe (Revolver)                                                                   |
+| Kristallkugel                | 3   |               | Fernsicht 6                                     |                                                                                             |
+| Digitale Tarnkleidung        | 4   |               | Verborgenheit 5                                 | Zuverlässig                                                                                 |
+| Dotanuki                     | 5   |               |                                                 | Fatal 2, Waffe (Katana), Besonders                                                          |
+| Explosive Munition           | 2   |               | Anhaltender Schaden 4                           |                                                                                             |
+| Feuerbrand                   | 4   |               |                                                 | Anhaltender Schaden 4, Harmvoll (Anhaltender Schaden), Schaden (Feuer), Waffe (Langschwert) |
+| Frostbiss                    | 4   |               | Energie 3                                       | Energie 3, Anhaltend (Aura), Rüstung (Plattenpanzer)                                        |
+| Geisterfeuer                 | 2   | Energie 5     |                                                 | Energie 5, Verbrauchsgut                                                                    |
+| Helm der Wahrheit            | 5   |               | Verstärken 3                                    | Verstärken 3, Anhaltend (Verstärken), Verflucht (Wahrheitsgebunden 5)                       |
+| Horn des Donners             | 5   |               |                                                 |                                                                                             |
+| Jetpack                      | 4   |               | Fliegen 6                                       |                                                                                             |
+| Laserkanone                  | 6   | Energie 9     |                                                 |                                                                                             |
+| Kriegshammer der Dominanz    | 4   |               | Aura 8                                          |                                                                                             |
+| Phasergewehr                 | 4   |               |                                                 |                                                                                             |
+| Plasmaklinge                 | 5   |               |                                                 |                                                                                             |
+| Trank der großen Heilung     | 2   |               | Heilen 7                                        | Konsumgut                                                                                   |
+| Trank der kleinen Heilung    | 1   |               | Heilen 3                                        | Konsumgut                                                                                   |
+| Raketenwerfer                | 3   |               |                                                 | Fatal 2, Verbrauchsgut, Waffe (Kanone)                                                      |
+| Stab der Furcht              | 3   |               | Furcht 7                                        |                                                                                             |
+| Schlafgas                    | 4   |               | Bewusstlos 5                                    | Verbrauchsgut, Fläche (15' Würfel)                                                          |
+| Seelensauger                 | 2   |               | Erschöpft 5                                     |                                                                                             |
+| Fernglas der Weitsicht       | 4   | Wahrnehmung 6 |                                                 |                                                                                             |
+| Transmogrifizierungsstrahl   | 5   |               | Polymorph 6                                     |                                                                                             |
+| Universalzugangs-Implantat   | 6   | Überzeugung 7 |                                                 |                                                                                             |
+| Arbeiterroboter              | 4   | Kraft 3       |                                                 |                                                                                             |
 
 #### Eigenschaften
-**Augmentierend** - Harme, die mit diesem Item assoziiert sind, können mit einer alternativen Methode, zum Beispiel einer Waffe oder anderem Angriff mit Schaden, zugefügt werden. Eine Waffe oder Attacke mit diesem Item zu augmentieren ist eine Bewegungsaktion, die das Item verbraucht. Bei der Augmentierung wählst du einen Harm, den das Item wirken kann. Die nächste Attacke mit dem augmentierten Item wirkt den Harm, wenn dein Angriffswurf die Verteidigung deines Feindes trifft oder übersteigt. Beispiele für die Eigenschaft *Augmentierend* schließen Gift, besondere Munition oder magische Juwelen ein, die Waffen verstärken. Alle Items mit *Augmentierend* müssen auch die Eigenschaft *Verbrauchsgut* haben.
+**Augmentierend** - Harme, die mit diesem Gegenstand assoziiert sind, können mit einer alternativen Methode, zum Beispiel einer Waffe oder anderem Angriff mit Schaden, zugefügt werden. Eine Waffe oder Attacke mit diesem Gegenstand zu augmentieren ist eine Bewegungsaktion, die den Gegenstand verbraucht. Bei der Augmentierung wählst du einen Harm, den der Gegenstand wirken kann. Die nächste Attacke mit dem augmentierten Gegenstand wirkt den Harm, wenn dein Angriffswurf die Verteidigung deines Feindes trifft oder übersteigt. Beispiele für die Eigenschaft *Augmentierend* schließen Gift, besondere Munition oder magische Juwelen ein, die Waffen verstärken. Alle Gegenstände mit *Augmentierend* müssen auch die Eigenschaft *Verbrauchsgut* haben.
 
 **Fläche** - Eine Flächenwaffe führt immer Multi-Zielen Angriffe der aufgeführten Größe und Form aus und kann nicht für einfache Attacken mit einem Ziel genutzt werden. Falls eine Waffe mehrere verschiedene Flächengrößen hat, kann der Angreifer für jede Attacke entscheiden, welche er nutzen will. Die Attacken dieser Waffen leiden nicht unter den normalen Nachteilen bei Multi-Zielen.
 
-**Rüstung (Typ)** - Das Item fungiert als Rüstung des gegebenen Typs und gibt dabei alle Vorzüge und Nachteile dieser Art Rüstung für den sie tragenden Charakter.
+**Rüstung (Typ)** - Der Gegenstand fungiert als Rüstung des gegebenen Typs und gibt dabei alle Vorzüge und Nachteile dieser Art Rüstung für den sie tragenden Charakter.
 
-**Autonom** - Wenn dieses Item fertiggestellt wird, wählt der Schöpfer eine Bedingung oder Situation aus, die die Aktivierung einer spezifischen Aktion auslöst. Dieses Autonomievermögen könnte magische Führung sein, algorithmische Zielfindung oder mechanische Autonomie wie bei Druckplatten, die eine Falle auslösen.
+**Autonom** - Wenn dieser Gegenstand fertiggestellt wird, wählt der Schöpfer eine Bedingung oder Situation aus, die die Aktivierung einer spezifischen Aktion auslöst. Dieses Autonomievermögen könnte magische Führung sein, algorithmische Zielfindung oder mechanische Autonomie wie bei Druckplatten, die eine Falle auslösen.
 
-**Harmvoll (Harm)** - Wenn du einen Angriff mit Schaden mit diesem Item machst, kannst du automatisch den genannten Harm auf das Angriffsziel wirken, wenn dein Angriffswurf die Verteidigung des Ziels um 5 oder mehr übersteigt. Der Harm kann auf diese Weise auch anstatt einem anderen Harm gewirkt werden, selbst wenn das Item oder der führende Charakter keinen Zugang zu diesem Harm hat. Das zum Angreifen genutzte Attribut ist für diesen Angriff auch das wirkende Attribut für den Harm.
+**Harmvoll (Harm)** - Wenn du einen Angriff mit Schaden mit diesem Gegenstand machst, kannst du automatisch den genannten Harm auf das Angriffsziel wirken, wenn dein Angriffswurf die Verteidigung des Ziels um 5 oder mehr übersteigt. Der Harm kann auf diese Weise auch anstatt einem anderen Harm gewirkt werden, selbst wenn der Gegenstand oder der führende Charakter keinen Zugang zu diesem Harm hat. Das zum Angreifen genutzte Attribut ist für diesen Angriff auch das wirkende Attribut für den Harm.
 
-**Konsumgut** - Ein Konsumgut kann einmal benutzt werden, um das unter Harme & Wohle angegebene Wohl auf dem jeweiligen Kraftlevel zu wirken. Das Wirken des Wohls hat automatisch ohne einen Wurf Erfolg und kann nicht mit Multi-Zielen benutzt werden. Danach ist das Item aufgebraucht und kann nicht noch einmal benutzt werden.
+**Konsumgut** - Ein Konsumgut kann einmal benutzt werden, um das unter Harme & Wohle angegebene Wohl auf dem jeweiligen Kraftlevel zu wirken. Das Wirken des Wohls hat automatisch ohne einen Wurf Erfolg und kann nicht mit Multi-Zielen benutzt werden. Danach ist der Gegenstand aufgebraucht und kann nicht noch einmal benutzt werden.
 
-**Verflucht (Harm)** - Der dieses Item führende Charakter erleidet automatisch den aufgeführten Harm mit dem angegebenen Kraftlevel. Der Harm kann nicht mit der *Harm widerstehen*-Aktion abgeschüttelt werden. Weiterhin kann das verfluchte Item nicht abgenommen werden, außer der Charakter steht unter dem Wohl *Wiederherstellung* auf einem Kraftlevel hoch genug, um den Harm zu brechen.
+**Verflucht (Harm)** - Der diesen Gegenstand führende Charakter erleidet automatisch den aufgeführten Harm mit dem angegebenen Kraftlevel. Der Harm kann nicht mit der *Harm widerstehen*-Aktion abgeschüttelt werden. Weiterhin kann der verfluchte Gegenstand nicht abgenommen werden, außer der Charakter steht unter dem Wohl *Wiederherstellung* auf einem Kraftlevel hoch genug, um den Harm zu brechen.
 
-**Schaden (Typ)** - Wenn du einen Angriff mit Schaden mit diesem Item ausführst, kannst du eine Art Schaden auswählen, die der Angriff anstatt des normalen Typs Schaden für die Waffe zufügt. Ein Item kann diese Eigenschaft nur einmal haben. Die Schadenstypen sind: Präzise, Kraftvoll, Feuer, Kälte, Blitz, Säure, Einfluss und Vergehen. Falls angebracht kann der GM andere Schadensarten zulassen.
+**Schaden (Typ)** - Wenn du einen Angriff mit Schaden mit diesem Gegenstand ausführst, kannst du eine Art Schaden auswählen, die der Angriff anstatt des normalen Typs Schaden für die Waffe zufügt. Ein Gegenstand kann diese Eigenschaft nur einmal haben. Die Schadenstypen sind: Präzise, Kraftvoll, Feuer, Kälte, Blitz, Säure, Einfluss und Vergehen. Falls angebracht kann der GM andere Schadensarten zulassen.
 
 **Fatal** - Manche Waffen sind so effektiv, dass ihre Natur den führenden Charakter merklich gefährlicher macht. Angriffe mit dieser Waffe erhalten Vorteil auf Angriffswürfe anhand ihres *Fatal*-Wertes. Eine Waffe kann keinen *Fatal*-Wert größer als 3 haben.
 
-**Verbrauchsgut** - Ein Verbrauchsgegenstand kann nur einmal benutzt werden, um einen Angriff auszuführen oder einen Harm zu wirken. Danach ist das Item benutzt und kann nicht wieder verwendet werden.
+**Verbrauchsgut** - Ein Verbrauchsgegenstand kann nur einmal benutzt werden, um einen Angriff auszuführen oder einen Harm zu wirken. Danach ist der Gegenstand benutzt und kann nicht wieder verwendet werden.
 
-**Anhaltend (Wohl)** - Ein Item mit dieser Eigenschaft wirkt und hält automatisch eine Instanz des angegebenen Wohles aufrecht, ohne dass der führende Charakter dafür werfen oder *Wohl aufrechterhalten*-Aktionen nutzen muss. Falls die Dauer des Wohls *Augenblicklich* ist, wirkt das Item das Wohl jede Runde einmal zu Beginn des Zuges des führenden Charakters. Der führende Charakter muss diesen Effekt nicht bewusst ausführen. Diese Eigenschaft des Items bleibt aufrechterhalten, solange der führende Charakter sie nicht mit einer kleinen Aktion bewusst deaktiviert. In diesem Fall kann er den Effekt mit einer kleinen Aktion zu jeder Zeit wieder reaktivieren.
+**Anhaltend (Wohl)** - Ein Gegenstand mit dieser Eigenschaft wirkt und hält automatisch eine Instanz des angegebenen Wohles aufrecht, ohne dass der führende Charakter dafür werfen oder *Wohl aufrechterhalten*-Aktionen nutzen muss. Falls die Dauer des Wohls *Augenblicklich* ist, wirkt der Gegenstand das Wohl jede Runde einmal zu Beginn des Zuges des führenden Charakters. Der führende Charakter muss diesen Effekt nicht bewusst ausführen. Diese Eigenschaft des Gegenstände bleibt aufrechterhalten, solange der führende Charakter sie nicht mit einer kleinen Aktion bewusst deaktiviert. In diesem Fall kann er den Effekt mit einer kleinen Aktion zu jeder Zeit wieder reaktivieren.
 
-**Hartnäckig** - Ziele haben Nachteil 1 auf Widerstandswürfe zum Abschütteln von Harmen, die von diesem Item zugefügt wurden.
+**Hartnäckig** - Ziele haben Nachteil 1 auf Widerstandswürfe zum Abschütteln von Harmen, die von diesem Gegenstand zugefügt wurden.
 
-**Mächtig** - Mit diesem Item gewirkte Harme oder Wohle haben Vorteil anhand dem *Mächtig*-Wert des Items. Ein Item kann keinen Wert für *Mächtig* größer als 3 haben.
+**Mächtig** - Mit diesem Gegenstand gewirkte Harme oder Wohle haben Vorteil anhand dem *Mächtig*-Wert des Gegenstände. Ein Gegenstand kann keinen Wert für *Mächtig* größer als 3 haben.
 
-**Zuverlässig** - Der das Item nutzende Charakter muss nicht werfen, um für dieses Item unter Harme & Wohle aufgelisteten Wohle zu wirken, falls das Wohl nur ein einziges Ziel hat. Das Wirken hat automatisch Erfolg. Falls das Item außerdem die Eigenschaft *Fläche* hat, kann es trotz Multi-Zielen vom Effekt der Eigenschaft *Zuverlässig* profitieren.
+**Zuverlässig** - Der den Gegenstand nutzende Charakter muss nicht werfen, um die für diesen Gegenstand unter Harme & Wohle aufgelisteten Wohle zu wirken, falls das Wohl nur ein einziges Ziel hat. Das Wirken hat automatisch Erfolg. Falls der Gegenstand außerdem die Eigenschaft *Fläche* hat, kann es trotz Multi-Zielen vom Effekt der Eigenschaft *Zuverlässig* profitieren.
 
-**Intelligent** - Dieses Item hat ein eigenes Bewusstsein oder zumindest grundlegende Intelligenz. Es hat keine inhärente Verbindung zu seinem Schöpfer und wird wie jeder andere NPC behandelt. Es hat einen eigenen Zug in der Initiativereihenfolge und hat einen eigenen Satz an möglichen Aktionen. Das Item hat keine geistigen oder sozialen Attribute, sondern kann einfach nur denken. Der GM kann auch entscheiden, dass das Item sich auf bestimmte Weise bewegen kann, zum Beispiel durch laufen, klettern, fliegen oder schwimmen.
+**Intelligent** - Dieser Gegenstand hat ein eigenes Bewusstsein oder zumindest grundlegende Intelligenz. Es hat keine inhärente Verbindung zu seinem Schöpfer und wird wie jeder andere NPC behandelt. Es hat einen eigenen Zug in der Initiativereihenfolge und hat einen eigenen Satz an möglichen Aktionen. Der Gegenstand hat keine geistigen oder sozialen Attribute, sondern kann einfach nur denken. Der GM kann auch entscheiden, dass der Gegenstand sich auf bestimmte Weise bewegen kann, zum Beispiel durch laufen, klettern, fliegen oder schwimmen.
 
-**Besonders** - Das Item hat eine besondere Eigenschaft, deren spezifische Regelauswirkunken vollständig in der Beschreibung dieser Eigenschaft erklärt werden.
+**Besonders** - Der Gegenstand hat eine besondere Eigenschaft, deren spezifische Regelauswirkunken vollständig in der Beschreibung dieser Eigenschaft erklärt werden.
 
-**Waffe (Typ)** - Dieses Item ist eine Waffe des angegebenen Typs. Es hat alle Vorzüge und Nachteile dieser Art Waffe und kann diese beim Angreifen nutzen.
-#### Ausführliche Itemliste
+**Waffe (Typ)** - Dieser Gegenstand ist eine Waffe des angegebenen Typs. Es hat alle Vorzüge und Nachteile dieser Art Waffe und kann diese beim Angreifen nutzen.
+#### Ausführliche Gegenstandsliste
 ##### Haftstiefel
 **Wohlstandswert:** 2
 
@@ -111,7 +111,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 
 **Eigenschaften:** Energie 5, Autonom
 
-**Besonders:** Sobald eine Aegis des Schutzes an einer Oberfläche angebracht und aktiviert wurde, kann das Item nicht mehr bewegt werden. Es erfolgreich zu entfernen zerstört das Item. Aller Schaden, der von Aegis des Schutzes zugefügt wird, ist tödlicher Schaden.
+**Besonders:** Sobald eine Aegis des Schutzes an einer Oberfläche angebracht und aktiviert wurde, kann der Gegenstand nicht mehr bewegt werden. Ihn erfolgreich zu entfernen zerstört den Gegenstand. Aller Schaden, der von Aegis des Schutzes zugefügt wird, ist tödlicher Schaden.
 ##### Schwarzer Lotus Extrakt
 **Wohlstandswert:** 6
 
@@ -139,7 +139,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 
 **Eigenschaften:** Gedankenraub 8
 
-**Besonders:** Diese Maschine muss vorsichtig am Ziel angebracht werden. Damit das möglich ist, muss das Ziel also bewusstlos oder anderweitig vollständig immobilisiert oder hilflos sein, bevor der *Gedankenraub*-Angriff ausgeführt werden kann. Solange das Ziel von einem Harm dieses Items betroffen ist, leidet es automatisch unter dem Harm *Immobilisiert*, bis der erste Harm (*Gedankenraub*) beendet ist.
+**Besonders:** Diese Maschine muss vorsichtig am Ziel angebracht werden. Damit das möglich ist, muss das Ziel also bewusstlos oder anderweitig vollständig immobilisiert oder hilflos sein, bevor der *Gedankenraub*-Angriff ausgeführt werden kann. Solange das Ziel von einem Harm dieses Gegenstände betroffen ist, leidet es automatisch unter dem Harm *Immobilisiert*, bis der erste Harm (*Gedankenraub*) beendet ist.
 ##### Würgehalsband
 **Wohlstandswert:** 1
 
@@ -263,7 +263,7 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 
 **Eigenschaften:** Fatal 2, Verbrauchsgut, Waffe (Kanone)
 
-**Besonders:** Diese Waffe hat extreme Reichweite und die Eigenschaften Präzise, Verzögert bereit, Schwer und Fläche (15' Würfel). Weiterhin hat sie die Harme *Anhaltender Schaden*, *Betäubt* und *Erzwungene Bewegung*. Die Eigenschaft *Verbrauchsgut* bezieht sich auf die Munition. Jeder Schuss verbraucht ein außergewöhnliches Item.
+**Besonders:** Diese Waffe hat extreme Reichweite und die Eigenschaften Präzise, Verzögert bereit, Schwer und Fläche (15' Würfel). Weiterhin hat sie die Harme *Anhaltender Schaden*, *Betäubt* und *Erzwungene Bewegung*. Die Eigenschaft *Verbrauchsgut* bezieht sich auf die Munition. Jeder Schuss verbraucht einen außergewöhnlichen Gegenstand.
 ##### Stab der Furcht
 **Wohlstandswert:** 3
 
@@ -308,12 +308,12 @@ Außergewöhnliche Items unterscheiden sich von normalen Waffen, Rüstung und an
 *Dieser kleine Roboter von Flaschengröße besteht aus unzähligen beweglichen Teilen, Zahnrädern, Lüftern und Reglern. Obwohl er Schwierigkeiten mit komplexen Anweisungen hat, ist er als täglicher Assistent im Ingenieurswesen sehr nützlich.*
 
 **Eigenschaften:** Kraft 3, Autonom
-### Eigene außergewöhnliche Items konzipieren
-Die hier aufgeführten außergewöhnlichen Items sollen als Startpunkt der Inspiration für dich wirken, wie diese Items aussehen und in deine Kampagne passen könnten. Um deine eigenen Items zu erstellen, kannst du vier einfachen Schritten folgen. Attribute sowie Harme und Wohle festlegen, Eigenschaften festlegen, besondere Eigenschaft schreiben, Wohlstandswert als grobe Repräsentation der Macht des Items berechnen.
+### Eigene außergewöhnliche Gegenstände konzipieren
+Die hier aufgeführten außergewöhnlichen Gegenstände sollen als Startpunkt der Inspiration für dich wirken, wie diese Gegenstände aussehen und in deine Kampagne passen könnten. Um deine eigenen Gegenstände zu erstellen, kannst du vier einfachen Schritten folgen. Attribute sowie Harme und Wohle festlegen, Eigenschaften festlegen, besondere Eigenschaft schreiben, Wohlstandswert als grobe Repräsentation der Macht des Gegenstände berechnen.
 #### Schritt 1: Attribute, Harme und Wohle wählen
-Ein außergewöhnliches Item kann Zugang zu einem oder mehreren Attributen, Harmen und Wohlen gewähren. Wähle eine beliebige Kombination daraus aus.
+Ein außergewöhnlicher Gegenstand kann Zugang zu einem oder mehreren Attributen, Harmen und Wohlen gewähren. Wähle eine beliebige Kombination daraus aus.
 
-Jedes Attribut, jeder Harm und jedes Wohl erhöhen den Wohlstandswert des Items anhand der folgenden Tabelle.
+Jedes Attribut, jeder Harm und jedes Wohl erhöhen den Wohlstandswert des Gegenstände anhand der folgenden Tabelle.
 
 | Wert  | Harm / Wohl WW | Attribut WW |
 | :---: | :------------: | :---------: |
@@ -323,7 +323,7 @@ Jedes Attribut, jeder Harm und jedes Wohl erhöhen den Wohlstandswert des Items 
 |   8   |       +4       |     +5      |
 |   9   |       +5       |     +6      |
 #### Schritt 2: Eigenschaften wählen
-Wähle eine beliebige Anzahl weiterer Eigenschaften, die das Item haben soll. Eigenschaften modifizieren den Wohlstandswert anhand der folgenden Tabelle.
+Wähle eine beliebige Anzahl weiterer Eigenschaften, die der Gegenstand haben soll. Eigenschaften modifizieren den Wohlstandswert anhand der folgenden Tabelle.
 
 | Eigenschaft   | WW Modifikation                                                                  |
 | ------------- | -------------------------------------------------------------------------------- |
@@ -345,16 +345,16 @@ Wähle eine beliebige Anzahl weiterer Eigenschaften, die das Item haben soll. Ei
 | Waffe         | Muss zunächst erhalten oder erschafft werden                                     |
 *\* Wert des Nachteils anhand der Fläche für Multi-Zielen Angriffe (siehe [Kapitel 7: Kampf](./Kapitel-7_Kampf.md))*
 #### Schritt 3: Besondere Eigenschaften schreiben
-Im letzten Schritt konntest du aus den vordefinierten Eigenschaften auswählen. Nun kannst du deinem Item einzigartige Effekte verleihen, indem du deine eigenen besonderen Eigenschaften schreibst. Dafür schreibst du eine klare Beschreibung der spielmechanischen Auswirkungen des Items sowie möglicher Bedingungen oder Einschränkungen dafür.
+Im letzten Schritt konntest du aus den vordefinierten Eigenschaften auswählen. Nun kannst du deinem Gegenstand einzigartige Effekte verleihen, indem du deine eigenen besonderen Eigenschaften schreibst. Dafür schreibst du eine klare Beschreibung der spielmechanischen Auswirkungen des Gegenstände sowie möglicher Bedingungen oder Einschränkungen dafür.
 
-Nachdem du die besondere Eigenschaft deines Items beschrieben hast, erstellst du den Wohlstandswertmodifikator anhand der Antworten auf die folgenden Fragen zu der Eigenschaft.
+Nachdem du die besondere Eigenschaft deines Gegenstände beschrieben hast, erstellst du den Wohlstandswertmodifikator anhand der Antworten auf die folgenden Fragen zu der Eigenschaft.
 - **Ist sie häufig nützlich?** Wird der Charakter diese Eigenschaft oft nutzen können? Falls ja, Wohlstandswert +1.
 - **Ist sie vielfältig?** Ist die Eigenschaft in vielen verschiedenen Arten von Situationen nützlich? Falls ja, Wohlstandswert +1.
 - **Ist sie machtvoll?** Gibt die Eigenschaft dem Charakter deutlich mehr Macht oder erlaubt einen großen Einfluss auf den Verlauf der Geschichte? Falls ja, Wohlstandswert zwischen +1 und +9.
 	- Ein guter Weg, zu entscheiden, wie groß der Modifikator sein soll, ist es, die Eigenschaft mit Harmen oder Wohlen ähnlichen Effektes zu vergleichen. Daraufhin kannst du die Tabelle aus Schritt 1 benutzen, um einen ähnlichen Modifikator anhand des passenden Kraftlevels dieses Harms oder Wohls zu wählen.
 - **Schränkt sie ein?** Mindert die Eigenschaft die Effektivität einer anderen Fähigkeit oder ist sonst nur in sehr spezifischen Situationen nützlich? Falls ja, Wohlstandswert -1.
 
-> ### Beispielitems mit besonderen Eigenschaften
+> ### BeispielGegenstände mit besonderen Eigenschaften
 > #### Hydraulische Schubimplantate
 > Jeder Sprung zählt für dich als Sprung mit Anlauf und deine Sprungdistanz ist verdoppelt.
 > 
@@ -362,20 +362,20 @@ Nachdem du die besondere Eigenschaft deines Items beschrieben hast, erstellst du
 > 
 > *Ist sie vielfältig?* Ja, +1 WW. Doppelte Sprungdistanz wird es dem Charakter erlauben, verschiedene Hindernisse zu überwinden und kann sowohl im Kampf als auch außerhalb genutzt werden.
 > 
-> *Ist sie machtvoll?* Mäßig, +1 WW. Die Manövrierbarkeit, die dieses Item verleiht ist etwa vergleichbar mit dem Wohl Teleportation auf Kraftlevel 3.
+> *Ist sie machtvoll?* Mäßig, +1 WW. Die Manövrierbarkeit, die dieser Gegenstand verleiht ist etwa vergleichbar mit dem Wohl Teleportation auf Kraftlevel 3.
 > 
-> *Schränkt sie ein?* Nein. Das Item schränkt weder andere Fähigkeiten ein noch ist es auf besondere Umstände beschränkt.
+> *Schränkt sie ein?* Nein. Der Gegenstand schränkt weder andere Fähigkeiten ein noch ist es auf besondere Umstände beschränkt.
 > 
 > **Finaler WW-Modifikator:** +2
 > ___
 > #### Lichtschein-Schild
-> Einmal pro Runde, wenn der Charakter Ziel eines Nahkampfangriffs wird, kann er *Geblendet* als Harmangriffangriff auf den Angreifer wirken. Das Item macht die folgende Attacke: *Geblendet* 5 gegen Deckung.
+> Einmal pro Runde, wenn der Charakter Ziel eines Nahkampfangriffs wird, kann er *Geblendet* als Harmangriffangriff auf den Angreifer wirken. Der Gegenstand macht die folgende Attacke: *Geblendet* 5 gegen Deckung.
 > 
-> *Ist sie häufig nützlich?* Ja, +1 WW. Falls der Charakter selbst Nahkämpfer ist, kann er das Item potentiell jede Runde nutzen.
+> *Ist sie häufig nützlich?* Ja, +1 WW. Falls der Charakter selbst Nahkämpfer ist, kann er den Gegenstand potentiell jede Runde nutzen.
 > 
 > *Ist sie vielfältig?* Nein. Der Lichtschein-Schild hat nur einen Zweck.
 > 
-> *Ist sie machtvoll?* Etwas mächtiger, als ein Item mit *Geblendet* 5, weil der Lichtschein-Schild das Wirken ohne eine Aktion erlaubt. +3 WW.
+> *Ist sie machtvoll?* Etwas mächtiger, als ein Gegenstand mit *Geblendet* 5, weil der Lichtschein-Schild das Wirken ohne eine Aktion erlaubt. +3 WW.
 > 
 > *Schränkt sie ein?* Nein. Auch wenn der Lichtschein-Schild nur nützlich ist, wenn der Charakter im Nahkampf angegriffen wird, ist diese Situation ziemlich häufig.
 > 
@@ -384,9 +384,9 @@ Nachdem du die besondere Eigenschaft deines Items beschrieben hast, erstellst du
 > #### Assassinengewehr
 > Diese Waffe hat die *Harmvoll (Geblendet)* und *Harmvoll (Anhaltender Schaden)* Eigenschaften, allerdings müssen bestimmte Bedingungen erfüllt sein, um sie zu nutzen. Wenn dein Ziel seine Deckung fallen lässt, dich nicht kommen sieht oder in Nahkampfreichweite eines deiner Verbündeten ist, kannst du *Harmvoll*-Eigenschaften nutzen.
 > 
-> *Ist sie häufig nützlich?* Nicht häufiger als bei Items, die auf normalem Weg Harme zufügen können.
+> *Ist sie häufig nützlich?* Nicht häufiger als bei Gegenstände, die auf normalem Weg Harme zufügen können.
 > 
-> *Ist sie vielfältig?* Nein. Obwohl das Item mehrere Arten der *Harmvoll*-Eigenschaft hat, wird die Auswirkung auf den Wohlstandswert schon von ihnen selbst abgedeckt.
+> *Ist sie vielfältig?* Nein. Obwohl der Gegenstand mehrere Arten der *Harmvoll*-Eigenschaft hat, wird die Auswirkung auf den Wohlstandswert schon von ihnen selbst abgedeckt.
 > 
 > *Ist sie machtvoll?* Ja, weil sie es zulässt, mehrere Harme in einer Attacke zu wirken. Wir berechnen die Auswirkungen wie zwei Instanzen der *Harmvoll*-Eigenschaft. +3 WW *Geblendet*, +2 WW *Anhaltender Schaden*.
 > 
@@ -395,41 +395,41 @@ Nachdem du die besondere Eigenschaft deines Items beschrieben hast, erstellst du
 > **Finaler WW-Modifikator:** +4
 > ___
 > #### Helm des Goblinbanns
-> Zu Beginn des Zuges kann der Träger dieses Helms als eine kostenlose Aktion eine Harmattacke gegen alle goblinartigen Gegner innerhalb von 100' machen, die ihn sehen können. Das Item macht den folgenden Angriff: *Furcht* 5 gegen Entschlossenheit.
+> Zu Beginn des Zuges kann der Träger dieses Helms als eine kostenlose Aktion eine Harmattacke gegen alle goblinartigen Gegner innerhalb von 100' machen, die ihn sehen können. Der Gegenstand macht den folgenden Angriff: *Furcht* 5 gegen Entschlossenheit.
 > 
 > *Ist sie häufig nützlich?* Nein, außer die Kampagne spielt in einer Welt überrant von Goblins, wird der Spieler wahrscheinlich ganze Sitzungen haben, ohne davon Gebrauch machen zu können.
 > 
 > *Ist sie vielfältig?* Nein. Es tut genau eins: Goblins erschrecken.
 > 
-> *Ist sie machtvoll?* Etwas mächtiger als ein Item mit Furcht 5, weil es als kostenlose Aktion aktiviert wird. +3 WW.
+> *Ist sie machtvoll?* Etwas mächtiger als ein Gegenstand mit Furcht 5, weil es als kostenlose Aktion aktiviert wird. +3 WW.
 > 
 > *Schränkt sie ein?* Ja, da der Helm nur gegen eine Art von Kreatur nützlich ist. -1 WW.
 > 
 > **Finaler WW-Modifikator:** +2
 
 #### Schritt 4: Gesamtwohlstandswert berechnen
-Berechne den totalen Wohlstandswert anhand aller Modifikatoren aus den vorigen Schritten. Vergleiche das Item dann mit anderen Items ähnlicher Macht. Falls nötig, setze den WW etwas höher oder niedriger, um eine akkurate Repräsentation des Einflusses des Items auf das Spielgeschehen im Vergleich zu anderen außergewöhnlichen Items zu schaffen. Kein außergewöhnliches Item kann einen Wohlstandswert unter 1 haben.
-## Liste legendärer Items
-Legendäre Items sind außergewöhnlichen Items insofern ähnlich, als das sie auch Zugang zu Attributen, Harmen und Wohlen geben. Sie haben aber zwei wichtige Unterschiede: Erstens können sie weitere Eigenschaften haben, die außergewöhnliche Items nicht haben können. Zweitens geben sie so große und einzigartige Kräfte, dass ihr Einfluss oft nicht einfach mit einem Wohlstandswert numerisch dargestellt werden kann.
-### Legendäre Items erhalten
-Legendäre Items sollten mehr sein als nur einfache Belohnungen. Wird ein legendäres Item in eine Kampagne eingeführt, sollte es meistens der Geschichte in einer bestimmten Weise dienen. Beispielsweise könnten die Spielenden den Bogen *Riesenbann* erhalten, der das Bewusstsein vier legendärer Jäger enthält und ihnen hilft, die Frostriesen zu erschlagen, die das Reich seit einem Jahrhundert plagen.
+Berechne den totalen Wohlstandswert anhand aller Modifikatoren aus den vorigen Schritten. Vergleiche den Gegenstand dann mit anderen Gegenstände ähnlicher Macht. Falls nötig, setze den WW etwas höher oder niedriger, um eine akkurate Repräsentation des Einflusses des Gegenstände auf das Spielgeschehen im Vergleich zu anderen außergewöhnlichen Gegenstände zu schaffen. Kein außergewöhnlicher Gegenstand kann einen Wohlstandswert unter 1 haben.
+## Liste legendärer Gegenstände
+Legendäre Gegenstände sind außergewöhnlichen Gegenstände insofern ähnlich, als das sie auch Zugang zu Attributen, Harmen und Wohlen geben. Sie haben aber zwei wichtige Unterschiede: Erstens können sie weitere Eigenschaften haben, die außergewöhnliche Gegenstände nicht haben können. Zweitens geben sie so große und einzigartige Kräfte, dass ihr Einfluss oft nicht einfach mit einem Wohlstandswert numerisch dargestellt werden kann.
+### Legendäre Gegenstände erhalten
+Legendäre Gegenstände sollten mehr sein als nur einfache Belohnungen. Wird ein legendärer Gegenstand in eine Kampagne eingeführt, sollte es meistens der Geschichte in einer bestimmten Weise dienen. Beispielsweise könnten die Spielenden den Bogen *Riesenbann* erhalten, der das Bewusstsein vier legendärer Jäger enthält und ihnen hilft, die Frostriesen zu erschlagen, die das Reich seit einem Jahrhundert plagen.
 
-Weiterhin sollte der GM auf die potentiell Kampagnen-ändernden Konsequenzen von legendären Items vorbereitet sein. Gibst du den Spielenden eine *Zeitmaschine*, eine *Allkanone* oder eine *Wunderlampe*, musst du darauf gefasst sein, dass diese zu ihrem vollen Potential ausgenutzt werden. Versuche vor allem nicht, die Gruppe legendäre Items nur auf eine bestimmte Weise nutzen zu lassen, obwohl diese offensichtlich mehr Potential haben.
+Weiterhin sollte der GM auf die potentiell Kampagnen-ändernden Konsequenzen von legendären Gegenstände vorbereitet sein. Gibst du den Spielenden eine *Zeitmaschine*, eine *Allkanone* oder eine *Wunderlampe*, musst du darauf gefasst sein, dass diese zu ihrem vollen Potential ausgenutzt werden. Versuche vor allem nicht, die Gruppe legendäre Gegenstände nur auf eine bestimmte Weise nutzen zu lassen, obwohl diese offensichtlich mehr Potential haben.
 ### Attribute, Harme und Wohle
-Legendäre Items nutzen die gleichen Regeln wie außergewöhnliche Items, wenn es darum geht, Attribute, Harme und Wohle zu bestimmen.
+Legendäre Gegenstände nutzen die gleichen Regeln wie außergewöhnliche Gegenstände, wenn es darum geht, Attribute, Harme und Wohle zu bestimmen.
 ### Eigenschaften
-Legendäre Items können alle Eigenschaften besitzen, die auch außergewöhnliche Items haben können. Weiterhin können sie auch eine beliebige Anzahl der folgenden Eigenschaften haben.
+Legendäre Gegenstände können alle Eigenschaften besitzen, die auch außergewöhnliche Gegenstände haben können. Weiterhin können sie auch eine beliebige Anzahl der folgenden Eigenschaften haben.
 
 **Attributbonus/malus** - Das Attribut des Trägers dieser Waffe ist beim Führen ihrer um den angegebenen Wert erhöht oder verringert.
 
-**Intelligent** - Das Item hat ein eigenes Bewusstsein und eine Persönlichkeit, was auch mentale und soziale Attribute einschließt. Es kann außerdem entweder hörbar oder telepathisch kommunizieren. Die Beschreibung des Items wird alle nötigen Attributwerte und Einschränkungen der Kommunikation angeben (z.B. dass das Item nur mit seinem Träger sprechen kann).
+**Intelligent** - Der Gegenstand hat ein eigenes Bewusstsein und eine Persönlichkeit, was auch mentale und soziale Attribute einschließt. Es kann außerdem entweder hörbar oder telepathisch kommunizieren. Die Beschreibung des Gegenstände wird alle nötigen Attributwerte und Einschränkungen der Kommunikation angeben (z.B. dass der Gegenstand nur mit seinem Träger sprechen kann).
 
-**Unfehlbar** - Alle Würfelwürfe, die die Fähigkeiten dieses Items nutzen, behandeln eine 1 stattdessen als einen Maximalwert des Würfels. Eine 1 zu werfen führt auch zu einer Explosion als ob der Würfel das Maximum geworfen hätte. Eine 1 auf einem d8 würde also als 8 gewertet werden. Eine 1 auf einem d20 als eine 20.
+**Unfehlbar** - Alle Würfelwürfe, die die Fähigkeiten dieses Gegenstände nutzen, behandeln eine 1 stattdessen als einen Maximalwert des Würfels. Eine 1 zu werfen führt auch zu einer Explosion als ob der Würfel das Maximum geworfen hätte. Eine 1 auf einem d8 würde also als 8 gewertet werden. Eine 1 auf einem d20 als eine 20.
 
-**Niederstrecken (Kreaturentyp)** - Wenn das Item einen Angriff mit Schaden auf eine Kreatur des angegebenen Typs ausführt und die Verteidigung des Ziels um 5 oder mehr übertrifft, stirbt das Ziel sofort.
+**Niederstrecken (Kreaturentyp)** - Wenn der Gegenstand einen Angriff mit Schaden auf eine Kreatur des angegebenen Typs ausführt und die Verteidigung des Ziels um 5 oder mehr übertrifft, stirbt das Ziel sofort.
 
 > #### Manches kann selbst Gold nicht kaufen
-> Ein legendäres Item zu besitzen bezeugt eine dramatische Entwicklung in den Fähigkeiten und der Macht eines Charakters. Aus diesem Grund sind solche Items zu wertvoll, als das sie einfach gekauft werden könnten. Auf die gleiche Weise könnten sie auch nur für einen Bruchteil ihres wahren Wertes verkauft werden, sollte man das tun wollen. Meist macht es den meisten Spaß, wenn Spielende diese Art Item als Teil von Quests selbst entdecken oder als unerwartete Belohnung für eine Heldentat in der Geschichte erhalten. GMs können Spieler\*innen auch fragen, was für eine Art mächtiges Artefakt oder Relikt ihnen passend für ihren Charakter erscheint. Kein Charakter sollte jemals das Spiel mit Zugang zu einem solchen Item beginnen.
+> Einen legendären Gegenstand zu besitzen bezeugt eine dramatische Entwicklung in den Fähigkeiten und der Macht eines Charakters. Aus diesem Grund sind solche Gegenstände zu wertvoll, als das sie einfach gekauft werden könnten. Auf die gleiche Weise könnten sie auch nur für einen Bruchteil ihres wahren Wertes verkauft werden, sollte man das tun wollen. Meist macht es den meisten Spaß, wenn Spielende diese Art Gegenstand als Teil von Quests selbst entdecken oder als unerwartete Belohnung für eine Heldentat in der Geschichte erhalten. GMs können Spieler\*innen auch fragen, was für eine Art mächtiges Artefakt oder Relikt ihnen passend für ihren Charakter erscheint. Kein Charakter sollte jemals das Spiel mit Zugang zu einem solchen Gegenstand beginnen.
 
 ##### Allkanone
 *Diese Universen zerschmetternde Waffe der weit entfernten Zukunft kann buchstäbliche Löcher in das Raum-Zeitkontinuum reißen. Wird sie mit voller Ladung gefeuert, reißt die Allkanone einen Riss in die Raumzeit, der sich als konzentrierter Strahl der Vernichtung manifestiert, der alles auf seinem Weg aus der Existenz tilgt.*
@@ -443,7 +443,7 @@ Legendäre Items können alle Eigenschaften besitzen, die auch außergewöhnlich
 
 **Eigenschaften:** Waffe (Langbogen), Fatal 2, Niederstrecken (Riesen), Geschicklichkeit +1, Wahrnehmung +2, Intelligent
 
-**Intelligent:** Der Bogen kann mit jedem innerhalb von 30' telepathisch kommunizieren und enthält vier separate Persönlichkeiten vergangener Helden. Der GM kann diese Persönlichkeiten so weit entwickeln, wie gewünscht, aber sie alle sehnen sich danach, ihre alte Niederlage gegen den König der Riesen zu sühnen. Solange die Gruppe auf ihr Ziel hinarbeitet teilen die Seelen frei ihren Hort an Wissen über Taktiken, Orte und Heerzahlen der Riesen aus ihrer Zeit. Wird der König der Riesen getötet, so werden die Seelen aus dem Bogen befreit. Zu diesem Zeitpunkt wird der Bogen ein außergewöhnliches Item mit den Eigenschaften Waffe (Langbogen) und Fatal 2. Zusätzlich gibt er Vorteil 2 auf alle Angriffe gegen Riesen.
+**Intelligent:** Der Bogen kann mit jedem innerhalb von 30' telepathisch kommunizieren und enthält vier separate Persönlichkeiten vergangener Helden. Der GM kann diese Persönlichkeiten so weit entwickeln, wie gewünscht, aber sie alle sehnen sich danach, ihre alte Niederlage gegen den König der Riesen zu sühnen. Solange die Gruppe auf ihr Ziel hinarbeitet teilen die Seelen frei ihren Hort an Wissen über Taktiken, Orte und Heerzahlen der Riesen aus ihrer Zeit. Wird der König der Riesen getötet, so werden die Seelen aus dem Bogen befreit. Zu diesem Zeitpunkt wird der Bogen ein außergewöhnlicher Gegenstand mit den Eigenschaften Waffe (Langbogen) und Fatal 2. Zusätzlich gibt er Vorteil 2 auf alle Angriffe gegen Riesen.
 ##### Unendlichkeitsanzug
 *Es wird gemunkelt, dass in den tiefen Weiten des Weltalls auf einem abgelegenen Mond der Unendlichkeitsanzug verborgen liegt. Ein Mechanzug, der so mächtig ist, dass sein Pilot beinahe unbezwingbar wird.*
 
