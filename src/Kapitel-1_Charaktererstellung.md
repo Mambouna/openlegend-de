@@ -569,4 +569,4 @@ Manchmal stößt ein Charakter zu einer laufenden Kampagne hinzu, in der die and
 | 9     | 24  | 112            | 9                  | 30                 | 7         |
 | 10    | 27  | 121            | 9                  | 33                 | 8         |
 
-[Einführung](./Einfuehrung.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 2: Aktionen und Attribute](./Kapitel-2_Aktionen-und-Attribute.md)
+[Einführung](./Kapitel-0_Einfuehrung.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 2: Aktionen und Attribute](./Kapitel-2_Aktionen-und-Attribute.md)
