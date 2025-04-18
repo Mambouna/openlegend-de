@@ -24,7 +24,7 @@ Deine alternative Gestalt kann nicht die Fertigkeit <em>Alternative Gestalt</em>
 Mit der Zustimmung des GM kannst du diese Fertigkeit mehr als einmal wählen. Falls du dies tust, erhälst du eine weitere alternative Gestalt. Mehrere Alternative Gestalten können ein mächtiger Weg sein, viele neue Attribute und Fertigkeitenpunkte zu sammeln. Der GM sollte Spielende daran hindern, mithilfe dieser Fertigkeit übermäßig mächtige Charaktere zu gestalten.
 
 > Tags: Keine Voraussetzungen  
-> Englischer Titel: _Alternate Form (I - II)_
+> Englisch: _Alternate Form (I - II)_
 
 ___
 
@@ -41,7 +41,7 @@ Du bist darin gekonnt, die Angriffe deiner Feinde umzuleiten. Ob durch elegante 
 Wenn du eine Verteidigungsaktion ausführst und dein Wurf den Aktionswurf des Angreifers übertrifft, kannst du dich entscheiden, den Angriff auf ein Ziel umzuleiten, das weder du noch der Angreifer ist. Die ursprüngliche Attacke verändert sich nicht, nur das Ziel. Falls der Angriff ein Nahkampfangriff war, kannst du ihn auf ein beliebiges Ziel innerhalb von 5' von dir umleiten (nicht 5' um den Angreifer).
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Attack Redirection_
+> Englisch: _Attack Redirection_
 
 ___
 
@@ -70,7 +70,7 @@ Beispiele von Angriffsarten umfassen unter anderem Feuer, Kälte, Blitz, Säure,
 Zusätzlich dazu, dass du den Rang dieser Fertigkeit erhöhen kannst, kannst du diese Fertigkeit auch mehrmals lernen und jeweils eine neue Waffe oder eine neue Angriffsart auswählen. Dein gesamter Vorteil auf Attacken mit der Waffe oder Angriffsart entspricht deinem Rang der Fertigkeit für diese Waffe oder Art. Beispielsweise könnte ein Charakter Angriffsspezialisierung II (Feuer) für Feuerzauber haben und Angriffsspezialisierung IV (Langschwert) für Angriffe mit dem Schwert.
 
 > Tags: Passiv, Waffe, Außergewöhnlich, Kampf  
-> Englischer Titel: _Attack Specialization (I - IX)_
+> Englisch: _Attack Specialization (I - IX)_
 
 ___
 
@@ -104,7 +104,7 @@ Wenn du diese Fertigkeit erwirbst, schaffst du eine permanente Verbindung zwisch
 Die Verbindung zwischen zwei Attributen muss immer Fall für Fall entschieden werden, wobei die Zustimmung des GM nötig ist. Die Verbindung muss im Kontext der Handlung und des Settings Sinn ergeben, in dem die Kampagne spielt. Beispielsweise könnte ein Barbar sein Logikattribut sein Kraftattribut ersetzen lassen, wenn es um die Anwendung von Hebelwirkung im Ringen mit Feinden geht. Das bedeutet aber nicht, dass der gleiche Barbar sein Logikattribut nutzen könnte, um die Stahlstäbe einer Gefängniszelle aufzubiegen. Weiterhin sollte der GM Spielende daran hindern, unlogische Verbindungen zu benutzen, die nur dazu da sind, übermäßig starke Charaktere ohne Handlungsbezug zu schaffen. Zwei sinnvolle Beispiele dieser Fertigkeit wären ein kluger Krieger, der Hebelwirkung, Momentum und Physik zu seinem Vorteil nutzt und so Kraft durch Logik ersetzt oder eine Revolverhelding, die Geschicklichkeit durch Vergehen ersetzt und durch das Beschwören dunkler Energie ihre Sinne schärft und so besser zielen kann.
 
 > Tags: Beliebiges Attribut  
-> Englischer Titel: _Attribute Substitution (I - II)_
+> Englisch: _Attribute Substitution (I - II)_
 
 ___
 
@@ -121,7 +121,7 @@ Ob du heilige Magie beschwörst, fortgeschrittene Technologie benutzt oder alche
 Wenn du das Wohl <em>Heilung</em> wirkst, kannst du dich entscheiden, eine Stunde Zeit statt der normalen Wirkzeit aufzuwenden. Falls du das tust, heilst du genauso viel tödlichen Schaden, wie die normale TP-Heilung der Wirkung ergeben hat. Der tödliche Schaden wird zusätzlich zu den TP des Ziels geheilt.
 
 > Tags: Außergewöhnlich, Schöpfung  
-> Englischer Titel: _Extraordinary Healing_
+> Englisch: _Extraordinary Healing_
 
 ___
 
@@ -140,7 +140,7 @@ Ob durch eine magische Barriere, einen Blick in die Zukunft oder übernatürlich
 Du erhälst einen +1 Bonus auf alle Verteidigungen pro Rang in dieser Fertigkeit. Der Bonus gilt für Deckung, Zähigkeit und Entschlossenheit.
 
 > Tags: Außergewöhnlich, Verteidigung  
-> Englischer Titel: _Extraordinary Defense (I - III)_
+> Englisch: _Extraordinary Defense (I - III)_
 
 ___
 
@@ -161,7 +161,7 @@ Falls du deinen Fokusgegenstand je verlierst, ob absichtlich oder nicht, erhäls
 Du kannst diese Fertigkeit mehrmals erhalten. Falls du dich dazu entscheidest, wählst du jedes Mal ein neues Attribut, welches noch keinen Fokus hat. Jede Instanz dieser Fertigkeit kann den gleichen Fokus haben oder aber unterschiedliche.
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Extraordinary Focus_
+> Englisch: _Extraordinary Focus_
 
 ___
 
@@ -196,7 +196,7 @@ Ein Gegenstand mit den Eigenschaften <em>Konsumgut</em> oder <em>Verbrauchsgut</
 Am Ende dieser Zeitspanne ist der Gegenstand erschaffen. Einen Gegenstand zu erschaffen zählt weiterhin als Ausgabe, sodass du einen Wohlstandswert haben musst, der hoch genug ist, um den Gegenstand anhand der in <strong>[Kapitel 6: Wohlstand und Ausrüstung](./../Kapitel-6_Wohlstand-und-Ausruestung.md)</strong> beschriebenen Regeln zu kaufen. Der GM kann nach Abwägung einige oder alle der Kosten, die mit dem Erschaffen eines Gegenstandes assoziiert sind, fallen lassen, falls du besondere Materialien zum Schaffen des Gegenstandes schon besitzt. Hast du z.B. kürzlich die Haut eines roten Drachen erbeutet und möchtest nun daraus eine feuerresistenze Rüstung schaffen, kann der GM bestimmen, dass die Haut den Großteil der mit der Schaffung assoziierten Kosten ausmacht und der Wohlstandswert zur Bestimmung der Beschaffungskosten für den Schaffungsprozess so um 3 reduziert ist.
 
 > Tags: Außergewöhnlich, Nicht-Kampf  
-> Englischer Titel: _Craft Extraordinary Item (I - III)_
+> Englisch: _Craft Extraordinary Item (I - III)_
 
 ___
 
@@ -213,7 +213,7 @@ Ob du ein Samuraikrieger, der schnellste Mann im Westen oder ein perfekt trainie
 Einmal pro Runde kannst du eine zusätzliche Waffe als kostenlose Aktion ziehen und eine andere wegstecken. Alternativ kannst du den gleichen Effekt auch für alle kleinen Gegenstände nutzen, die du besitzt.
 
 > Tags: Kampf, Geschicklichkeit  
-> Englischer Titel: _Fast Draw_
+> Englisch: _Fast Draw_
 
 ___
 
@@ -234,7 +234,7 @@ Du bist allzeit bereit, sodass du deinen Feinden oft zuvorkommst. Ein Revolverhe
 Für jeden Rang dieser Fertigkeit hast du Vorteil 1 auf alle Initiativewürfe.
 
 > Tags: Körperlich, Außergewöhnlich, Geschicklichkeit, Vorwissen  
-> Englischer Titel: _Lightning Reflexes (I - V)_
+> Englisch: _Lightning Reflexes (I - V)_
 
 ___
 
@@ -251,7 +251,7 @@ Deine Überzeugungskräfte stammen aus roher Gewalt statt sozialem know-how. Wen
 Falls du eine Demonstration körperlicher Macht durchführen kannst, kannst du für den Aktionswurf Kraft anstatt von Überzeugung nutzen.
 
 > Tags: Nicht-Kampf  
-> Englischer Titel: _Brutal Intimidation_
+> Englisch: _Brutal Intimidation_
 
 ___
 
@@ -268,7 +268,7 @@ Durch pure Stärke, tödliche Präzision oder überkochende Magie, deine Angriff
 Wann immer du eine natürlich 20 auf einem d20 für einen Angriffswurf wirfst, erhälst du Vorteil 1 auf alle weiteren d20, die du aufgrund der Würfelexplosionen für diesen Angriff wirfst.
 
 > Tags: Kampf  
-> Englischer Titel: _Vicious Strike_
+> Englisch: _Vicious Strike_
 
 ___
 
@@ -293,7 +293,7 @@ Du bist ein Paragon des defensiven Kampfes, der meisterhaft gegnerische Attacken
 Wann immer du eine Verteidigungsaktion einsetzt, erhältst du Vorteil 1 auf den Aktionswurf pro Rang dieser Fertigkeit, den du besitzt.
 
 > Tags: Geschicklichkeit, Außergewöhnlich  
-> Englischer Titel: _Defensive Reflexes (I - IX)_
+> Englisch: _Defensive Reflexes (I - IX)_
 
 ___
 
@@ -314,7 +314,7 @@ Deine Ausdauer und Willenskraft sind legendär, sodass du weitermachen kannst, w
 Du kannst die Auswirkungen des Harms <em>Erschöpft</em> abschütteln. Für jeden Rang in dieser Fertigkeit kannst du dein Level an Erschöpfung als eins weniger behandeln, als es eigentlich ist, um die Effekte des Harms zu bestimmen.
 
 > Tags: Körperlich  
-> Englischer Titel: _Indomitable Endurance (I - V)_
+> Englisch: _Indomitable Endurance (I - V)_
 
 ___
 
@@ -331,7 +331,7 @@ Ob du ein Verzauberer bist, Psychiker oder verrückter Wissenschaftler, du hast 
 Wenn du den Harm <em>Bezaubert</em> wirkst, erleiden Ziele, die ihren Widerstandswürfe innerhalb von 24 Stunden nicht bestehen, den Harm permanent. Sie erhalten keine weiteren Widerstandswürfe, um sich von dem Effekt zu befreien. Andere außergewöhnliche Effekte wie z.B. der Harm <em>Annulieren</em> (und weitere passende nach Abwägung des GM) können die permanente Bezauberung weiterhin brechen.
 
 > Tags: Außergewöhnlich, Nicht-Kampf, Einfluss  
-> Englischer Titel: _Unending Charm_
+> Englisch: _Unending Charm_
 
 ___
 
@@ -360,7 +360,7 @@ Wähle aus den folgenden Energiearten aus: Feuer, Kälte, Blitz, Säure, Gift od
 Zusätzlich dazu, dass mehrere Ränge dieser Fertigkeit erworben werden können, kann die Fertigkeit selbst mehrmals erhalten werden, wobei du jedes Mal eine neue Art Energie auswählst.
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Energy Resistance (I - IV)_
+> Englisch: _Energy Resistance (I - IV)_
 
 ___
 
@@ -379,7 +379,7 @@ Dein Fokus ist messerschaft, sodass du dich darauf konzentrieren kannst, mehrere
 Wenn du die kleine Aktion <em>Wohl aufrechterhalten</em> benutzt, kannst du pro Rang dieser Fertigkeit ein weiteres Wohl aufrechterhalten, dass du wirken kannst.
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Superior Concentration (I - III)_
+> Englisch: _Superior Concentration (I - III)_
 
 ___
 
@@ -407,7 +407,7 @@ Wähle eine Spezies, Abstammung oder Fraktion (z.B. Drachen, Leerentemplare, Gno
 Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erwerben kannst, kannst du die Fertigkeit selbst auch mehrmals erhalten, wobei du jedes Mal eine neue Gruppe an Feinden wählst. Die Ränge der Fertigkeit für jede Gruppe werden separat behandelt. Beispielsweise könnte ein Charakter Erzfeind II (Raumtemplar) und Erzfeind IV (Werwolf) haben.
 
 > Tags: Nicht-Kampf, Kampf  
-> Englischer Titel: _Sworn Enemy (I - IX)_
+> Englisch: _Sworn Enemy (I - IX)_
 
 ___
 
@@ -428,7 +428,7 @@ Du bist so anmutig wie ein Schwan. Wie die Krieger und draufgängerische Helden 
 </ul>
 
 > Tags: Geschicklichkeit  
-> Englischer Titel: _Breakfall (I - II)_
+> Englisch: _Breakfall (I - II)_
 
 ___
 
@@ -445,7 +445,7 @@ Du hast die Fähigkeit, zu fliegen, die von himmlischen oder höllischen Flügel
 Du erhälst eine Fluggeschwindigkeit gleich deiner normalen Geschwindigkeit. Nach Abwägung des GM können bestimmte feindliche Handlungen deine Flugfähigkeit unterbinden, sodass du aus dem Himmel fällst. Falls deine Flugfähigkeit anatomisch bedingt ist, wäre der Harm <em>Immobilisiert</em> ein Beispiel, weil du deine Flügel nicht mehr bewegen könntest. Falls der Flug telekinetischer Art ist könnte <em>Annulieren</em> ihn beenden.
 
 > Tags: Nicht-Kampf  
-> Englischer Titel: _Flying_
+> Englisch: _Flying_
 
 ___
 
@@ -462,7 +462,7 @@ Du bewegst dich mit dem Fluss des Kampfes und weichst Angriffen aus, die weniger
 Wenn du dich von einem an einem Feind anliegenden Platz zu einem nicht an einem Feind anliegenden Ort bewegst, erhält der Feind keine Gelegenheitsattacke.
 
 > Tags: Geschicklichkeit  
-> Englischer Titel: _Evasive Footwork_
+> Englisch: _Evasive Footwork_
 
 ___
 
@@ -481,7 +481,7 @@ Ob durch cybernetische Implantate, telekinetischen Antrieb oder einfach hardcore
 Deine Geschwindigkeit ist pro Rang dieser Fertigkeit permanent um 5' erhöht.
 
 > Tags: Außergewöhnlich, Geschicklichkeit, Bewegung, Konstitution  
-> Englischer Titel: _Fleet of Foot (I - III)_
+> Englisch: _Fleet of Foot (I - III)_
 
 ___
 
@@ -505,7 +505,7 @@ Wähle ein Attribut. Wann immer du einen Wurf mit diesem Attribut auf etwas ande
 Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit haben kannst, kannst du auch die Fertigkeit selbst mehrmals erwerben, wobei du jedes Mal ein anderes Attribut wählst. Du hast separate Ränge für jedes Attribut, für das du diese Fertigkeit hast.
 
 > Tags: Keine Voraussetzungen  
-> Englischer Titel: _Skill Specialization (I - V)_
+> Englisch: _Skill Specialization (I - V)_
 
 ___
 
@@ -522,7 +522,7 @@ Du bist zur Jagd geboren. Ob du diese Fähigkeiten durch Jahre der Übrung erlan
 Solange du nicht geblendet oder durch außergewöhnliche Mächte verwirrt bist, weist du immer die Richtung nach Norden. Weiterhin hast du automatisch für sieben Tage nach dem Aufnehmen der Spur bei allen Versuchen um ihr zu folgen Erfolg. Nur außergewöhnliche Fähigkeiten der Verborgenheit, fliegende Ziele oder andere ungewöhnliche Umstände können dich dein Ziel verlieren lassen.
 
 > Tags: Nicht-Kampf, Geistig, Wahrnehmung  
-> Englischer Titel: _Master Tracker_
+> Englisch: _Master Tracker_
 
 ___
 
@@ -543,7 +543,7 @@ Egal, ob du dein vollautomatisches Sturmgewehr für dich sprechen lässt oder ei
 Für jeden Rang dieser Fertigkeit, den du besitzt, kannst du ein einziges 5' Rechteck aus dem Zielgebiet einer Flächenattacke ausnehmen.
 
 > Tags: Keine Voraussetzungen, Außergewöhnlich  
-> Englischer Titel: _Area Manipulation (I - V)_
+> Englisch: _Area Manipulation (I - V)_
 
 ___
 
@@ -571,7 +571,7 @@ Falls du deinen Gefährten je verlierst, sei es absichtlich oder nicht, erhälst
 Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erlangen kannst, kannst du die Fertigkeit auch mehrmals erwerben, wobei du jedes Mal einen neuen Gefährten erhälst.
 
 > Tags: Nicht-Kampf  
-> Englischer Titel: _Companion (I - III)_
+> Englisch: _Companion (I - III)_
 
 ___
 
@@ -590,7 +590,7 @@ Durch außergewöhnliche Kraft oder besondere Geschicklichkeit kannst du deutlic
 Du kannst deinen Bewegungs- oder Geschicklichkeitswert anstatt deinem Kraftwert nutzen, wenn du berechnest, wie weit du springen kannst. Zusätzlich erhälst du Vorteil 1 pro Rang dieser Fertigkeit auf Aktionswürfe zum Springen.
 
 > Tags: Außergewöhnlich, Körperlich, Kampf, Nicht-Kampf, Bewegung, Geschicklichkeit  
-> Englischer Titel: _Great Leap (I - III)_
+> Englisch: _Great Leap (I - III)_
 
 ___
 
@@ -616,7 +616,7 @@ Du bist in der Lage, deine Illusionen nicht nur zum Erzeugen von Phantomen zu be
 </ul>
 
 > Tags: Außergewöhnlich, Nicht-Kampf, Einfluss  
-> Englischer Titel: _Hallucination (I - II)_
+> Englisch: _Hallucination (I - II)_
 
 ___
 
@@ -636,7 +636,7 @@ Wähle einen Harm, den du wirken kannst. Wenn dein Wurf auf einen Angriff mit Sc
 Du kannst diese Fertigkeit mehrmals erlangen. Für jedes weitere Mal wählst du einen anderen Harm aus.
 
 > Tags: Kraft, Passiv, Kampf, Harm  
-> Englischer Titel: _Bane Focus_
+> Englisch: _Bane Focus_
 
 ___
 
@@ -656,7 +656,7 @@ Wähle einen Harm aus, den du wirken kannst und der eine Dauer von "Widerstehen 
 Du kannst diese Fertigkeit mehrmals wählen, wobei du jedes Mal einen anderen Harm wählst.
 
 > Tags: Harm, Kampf  
-> Englischer Titel: _Potent Bane_
+> Englisch: _Potent Bane_
 
 ___
 
@@ -673,7 +673,7 @@ Wie ein Kensaikämpfer, der sich ganz seinem Katana verschrieben hat, oder ein A
 Wähle eine einzige Waffe (oder wähle unbewaffneten Kampf) und gib an, auf welches Attribut sich dein Kampffokus verlässt: Geschicklichkeit oder Kraft. Wenn du einen Angriff mit der gewählten Waffe machst, wird dein Attributwert zum Bestimmten der Attributwürfel als eins höher gewertet, als er eigentlich ist. Dein Wert bleibt für alle anderen Anwendungen - wie z.B. Fertigkeiten, Harme und Wohle - unverändert. Aufgrund deines intensiven Trainings in einem Stil, das andere Taktiken vernachlässigt, hast du Nachteil 1 auf alle Angriffe, die du ohne Kampffokus ausführst.
 
 > Tags: Kampf, Körperlich  
-> Englischer Titel: _Martial Focus_
+> Englisch: _Martial Focus_
 
 ___
 
@@ -693,7 +693,7 @@ Wann immer du einen Feind mit einer Kraft- oder Geschicklichkeitsattacke auf 0 T
 Falls du Zugang zum Wohl <em>Teleportation</em> hast, kannst du es anstatt einer normalen Bewegung benutzen.
 
 > Tags: Kampf  
-> Englischer Titel: _Combat Momentum_
+> Englisch: _Combat Momentum_
 
 ___
 
@@ -710,7 +710,7 @@ Du kannst dich in einen Geisteszustand erhöhter Kampfbereitschaft versetzen, in
 Als kostenlose Aktion in deinem Zug kannst du dich in Kampftrance versetzen. Während du in der Trance bist, hast du Vorteil 1 auf alle Angriffe. Weiterhin sind dein Zähigkeit und Entschlossenheit um 3 erhöht. Falls dein gesamter Rüstungsbonus weniger als 3 ist, wird er zu 3. Falls du drei Züge in Folge keinen Angriffswurf gegen eine feindliche Kreatur wirfst, endet die Kampftrance. Wenn die Trance endet, erleidest du automatisch 1 Level des Harms <em>erschöpft</em>.
 
 > Tags: Kampf  
-> Englischer Titel: _Battle Trance_
+> Englisch: _Battle Trance_
 
 ___
 
@@ -727,7 +727,7 @@ Du bist in der Lage, Feinde in schneller Folge zu dezimieren. Wie ein legendäre
 Wann immer du einen Feind mit einer Kraft- oder Geschicklichkeitsattacke auf 0 TP bringst, kannst du sofort einen Extraangriff als kostenlose Aktion ausführen.
 
 > Tags: Kampf  
-> Englischer Titel: _Combat Follow-through_
+> Englisch: _Combat Follow-through_
 
 ___
 
@@ -744,7 +744,7 @@ Du erhälst die Fähigkeit, perfekt zu klettern oder Parkour zu nutzen, so wie m
 Du erhälst eine Klettern-Geschwindigkeit gleich deiner Grundgeschwindigkeit und kannst horizontale und vertikale Flächen erklimmen - sogar kopfüber -, ohne einen Sturz fürchten zu müssen.
 
 > Tags: Nicht-Kampf  
-> Englischer Titel: _Climbing_
+> Englisch: _Climbing_
 
 ___
 
@@ -761,7 +761,7 @@ Du bist ein Meister des Konters. Du könntest flink Vorstöße deiner Gegner auf
 Wenn du eine Verteidigungsaktion nutzt, fügst du dem Angreifer Schaden gleich der Anzahl zu, mit der dein Aktionswurf das Ergebnis des Angriffswurfs übertrifft.
 
 > Tags: Kraft, Geschicklichkeit, Außergewöhnlich, Passiv, Kampf  
-> Englischer Titel: _Battlefield Retribution_
+> Englisch: _Battlefield Retribution_
 
 ___
 
@@ -778,7 +778,7 @@ Du kannst mit einem Konter nicht nur Schaden zufügen, sondern Feinde auch mit e
 Wähle einen Harm, den du zufügen kannst. Wann immer du eine Verteidigungsaktion mit einem Attribut nutzt, das den gewählten Harm wirken könnte und mit der Fertigkeit Schlachtvergeltung dem Gegner 10 oder mehr Schaden zufügst, kannst du den Harm automatisch auf den Gegner wirken.
 
 > Tags: Kraft, Passiv, Kampf, Fertigkeitenkette  
-> Englischer Titel: _Battlefield Punisher_
+> Englisch: _Battlefield Punisher_
 
 ___
 
@@ -795,7 +795,7 @@ Durch inspirierende Worte, magische Heilung oder fortgeschrittene Medizintechnik
 Du kannst eine große Aktion benutzen, um einem Verbündeten sofort einen Widerstandswurf (eine kostenlose Aktion für den Verbündeten) mit Vorteil 1 zu geben. Weiterhin hast du Vorteil 1 darauf, das Wohl <em>Wiederherstellung</em> zu wirken.
 
 > Tags: Nicht-Kampf, Außergewöhnlich, Sozial, Schöpfung, Präsenz, Schutz  
-> Englischer Titel: _Hospitaler_
+> Englisch: _Hospitaler_
 
 ___
 
@@ -812,7 +812,7 @@ Du hast dein Gestaltwandeln perfektioniert und kannst so nicht nur deine Form wa
 Wenn du das Wohl <em>Gestaltwandel</em> benutzt, kannst du die Form einer spezifischen Kreatur annehmen. Anstatt dich einfach in einen Elf zu verwandeln, kannst du die Gestalt von Galdion dem Elfenkönig annehmen. Die Verkleidung ist visuell nahezu perfekt. Falls dein Verhalten oder andere Anzeichen jemand misstrauisch werden lassen, kann die Person einen Wahrnehmungswurf mit Herausforderungswert 10 + 3 x dein Wandlungs-/Täuschungswert (höheren Wert nutzen) versuchen. Falls sie Erfolg hat, durschaut die Person deine Verwandlung.
 
 > Tags: Außergewöhnlich, Fertigkeitenkette, Wandlung  
-> Englischer Titel: _Mimic_
+> Englisch: _Mimic_
 
 ___
 
@@ -837,7 +837,7 @@ Die maximale Anzahl an zusätzlichen Angriffen pro Runde ist 1 + die Hälfte dei
 <strong>Beispiel</strong> - Vax der Todbringer hat Multi-Angriffsspezialisierung (Rang III). Er sagt an, dass er diese Runde drei Angriffe (also zwei zusätzliche) ausführen wird. Daher werden all seine Angriffe Nachteil 3 haben (3 x 2 = 6, davon 3 für Rang 3 abziehen). Sein erster Angriff ist ein nekromantischer Energieausbruch, der einen 10'-Würfel als Ziel hat. Aufgrund der Flächenattacke hat Vax weitere 2 Nachteil auf den ersten Angriff, sodass er insgesamt dafür mit Nachteil 5 würfelt. Sein zweiter Angriff ist ein Harmangriff mit <em>Geblendet</em> auf einen einzigen Feind, sodass dieser mit Nachteil 3 stattfindet. Letztlich bewegt sich Vax in den Nahkampf und nutzt seine Todesberührung gegen drei Feinde, was weitere 3 Nachteil bringt. Sein letzter Angriffswurf hat also Nachteil 6.
 
 > Tags: Beliebiges Attribut  
-> Englischer Titel: _Multi-Attack Specialist (I - VI)_
+> Englisch: _Multi-Attack Specialist (I - VI)_
 
 ___
 
@@ -858,7 +858,7 @@ Um bei einer Multi-Harm-Attacke von der Fertigkeit <em>Harmfokus</em> zu profiti
 Du kannst diese Fertigkeit mehr als einmal erwerben, wobei du jedes Mal ein neues Paar aus zwei Harmen wählst.
 
 > Tags: Harm, Kampf  
-> Englischer Titel: _Multi-Bane Specialist_
+> Englisch: _Multi-Bane Specialist_
 
 ___
 
@@ -882,7 +882,7 @@ Wenn du diese Fertigkeit wählst, musst du dich für einen Ansatz aus Nahkampf, 
 Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit erwerben kannst, kannst du die Fertigkeit selbst auch mehrmals erhalten, wobei du jedes Mal einen anderen Ansatz (Nahkampf, Fernkampf, Flächenattacken) auswählst. Jede Instanz dieser Fertigkeit hat separate Ränge.
 
 > Tags: Beliebiges Attribut  
-> Englischer Titel: _Multi-Target Attack Specialist (I - V)_
+> Englisch: _Multi-Target Attack Specialist (I - V)_
 
 ___
 
@@ -899,7 +899,7 @@ Du bist so geübt darin, Gruppen Verbündeter zu helfen, dass du bestimmte Wohle
 Wenn du ein Wohl mit Multi-Zielen wirkst, für den du die Fertigkeit Wohlfokus hast, musst du keinen Aktionswurf machen, falls der durch Multi-Zielen erhaltene Nachteil vollständig von deiner Fertigkeit Multi-Zielen Wohlspezialisierung negiert wird. In diesem Fall hat die Wirkung automatisch Erfolg.
 
 > Tags: Nicht-Kampf, Beliebiges Attribut  
-> Englischer Titel: _Multi-Target Boon Expert_
+> Englisch: _Multi-Target Boon Expert_
 
 ___
 
@@ -924,7 +924,7 @@ Du bist ein Meister darin, Wohle auf mehrere Verbündete zu wirken. Eine Massent
 Für jeden Rang dieser Fertigkeit reduzierst du den mit Multi-Zielen von Wohlen assoziierten Nachteil um 1.
 
 > Tags: Nicht-Kampf, Außergewöhnlich  
-> Englischer Titel: _Multi-Target Boon Specialist (I - IX)_
+> Englisch: _Multi-Target Boon Specialist (I - IX)_
 
 ___
 
@@ -948,7 +948,7 @@ Wenn du keine Rüstung trägst, erhälst du einen Bonus auf Deckung und Zähigke
 </ul>
 
 > Tags: Kampf, Körperlich, Verteidigung, Konstitution  
-> Englischer Titel: _Natural Defense (I - III)_
+> Englisch: _Natural Defense (I - III)_
 
 ___
 
@@ -984,7 +984,7 @@ Wähle einen spezifischen Beruf oder eine Profession. Du kannst Gegenstände ers
 Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit erwerben kannst, kannst du die Fertigkeit selbst mehrmals erhalten, wobei du jedes Mal eine neue Profession wählst.
 
 > Tags: Nicht-Kampf  
-> Englischer Titel: _Craft Mundane Item (I - II)_
+> Englisch: _Craft Mundane Item (I - II)_
 
 ___
 
@@ -1008,7 +1008,7 @@ Einmal pro Runde, wenn dein Angriffswurf für einen Angriff mit Schaden die Vert
 </ul>
 
 > Tags: Sozial, Kampf, Präsenz  
-> Englischer Titel: _Inspiring Champion (I - III)_
+> Englisch: _Inspiring Champion (I - III)_
 
 ___
 
@@ -1025,7 +1025,7 @@ Dein intensiver Fokus lässt sich nicht brechen, sodass du augenblicklich in ein
 Du kannst als kostenlose Aktion in Kampftrance verfallen (anhand der Fertigkeit Kampftrance), selbst wenn es nicht dein Zug ist. Du kannst dies als Reaktion auf eine andere Handlung tun, z.B. ein feindlicher Angriff, ein Zauber oder eine Beleidigung. Du kannst dich auch erst nach dem Wurf für die Handlung entscheiden, die Kampftrance zu nutzen. Der Effekt der Trance beginnt sofort und in diesem Fall bevor die Konsequenzen der auslösenden Handlung abgehandelt sind, sodass du potentiell Schaden oder andere schadhafte Effekte verhindern kannst.
 
 > Tags: Kampf, Geistig, Fertigkeitenkette, Willenskraft  
-> Englischer Titel: _Reactionary Trance_
+> Englisch: _Reactionary Trance_
 
 ___
 
@@ -1042,7 +1042,7 @@ Ob durch Glück, außergewöhnliche Willenskraft oder großen Mut, kannst du Har
 Du hast Vorteil 1 auf alle Widerstandswürfe.
 
 > Tags: Geistig, Körperlich, Sozial  
-> Englischer Titel: _Resilient_
+> Englisch: _Resilient_
 
 ___
 
@@ -1059,7 +1059,7 @@ Du hast eine breite Erziehung genossen, viele Erfahrungen gemacht oder einfach g
 Wann immer du ein Attribut mit Wert 2 oder weniger für einen Aktionswurf außerhalb des Kampfes nutzt, der nicht zum Wirken eines Harms oder eines Wohls dient, erhälst du Vorteil 1 auf den Wurf.
 
 > Tags: Nicht-Kampf  
-> Englischer Titel: _Well-Rounded_
+> Englisch: _Well-Rounded_
 
 ___
 
@@ -1076,7 +1076,7 @@ Indem du deinen Körper willentlich im Kampf überstrapazierst, führst du eine 
 Während du in einer Kampftrance bist, kannst du dich entscheiden, dir selbst in deinem Zug 5 TP Schaden zuzufügen, um einen Angriff als kleine Aktion zu machen. Effekte, die Schaden verhindern oder reduzieren können diesen selbstverschuldeten Schaden nicht verändern. Du erleidest den Schaden, bevor du den Extraangriff ausgeführt hast, sodass du nach dem Schaden noch bei Bewusstsein sein musst, um die Attacke ausführen zu können.
 
 > Tags: Kampf  
-> Englischer Titel: _Reckless Attack_
+> Englisch: _Reckless Attack_
 
 ___
 
@@ -1098,7 +1098,7 @@ Dein Training lässt dich in deiner Rüstung schlafen, ohne dass du danach ein L
 </ul>
 
 > Tags: Keine Voraussetzungen  
-> Englischer Titel: _Armor Mastery (I - II)_
+> Englisch: _Armor Mastery (I - II)_
 
 ___
 
@@ -1119,7 +1119,7 @@ Deine Fähigkeiten auf dem Schlachtfeld erlauben es dir, Chancen zu ergreifen, d
 Du kannst eine zusätzliche Gelegenheitsattacke pro Rang dieser Fertigkeit, die du besitzt, in einer Runde ausführen. Du kannst aber nur eine Gelegenheitsattacke für jeden Anlass machen, der eine solche Attacke ermöglicht (du kannst also nicht mehrere Attacken gegen einen Feind ausführen, der den Nahkampf mit dir verlässt).
 
 > Tags: Kraft, Geschicklichkeit, Passiv, Kampf, Fertigkeitenkette  
-> Englischer Titel: _Battlefield Opportunist (I - V)_
+> Englisch: _Battlefield Opportunist (I - V)_
 
 ___
 
@@ -1136,7 +1136,7 @@ Du bist für das Wasser geboren und kannst mit der Flinkheit eines Fisches mit g
 Du erhälst eine Schwimmgeschwindigkeit gleich deiner normalen Geschwindigkeit und musst keine Aktionswürfe machen um deine Schwimmgeschwindigkeit aufrechtzuerhalten.
 
 > Tags: Nicht-Kampf  
-> Englischer Titel: _Swimming_
+> Englisch: _Swimming_
 
 ___
 
@@ -1153,7 +1153,7 @@ Einer Spur zu folgen ist für dich so normal wie atmen. Du bist ein erfahrener W
 Du bewegst dich unbehindert und mit voller Geschwindigkeit, wenn du ein Ziel verfolgst.
 
 > Tags: Außergewöhnlich, Geschicklichkeit, Wahrnehmung  
-> Englischer Titel: _Fast Tracker_
+> Englisch: _Fast Tracker_
 
 ___
 
@@ -1170,7 +1170,7 @@ Ob aufgrund von Ranken, die in deinem Pfad wachsen, einem magischen Schutz gegen
 Deine Spur und jegliche Hinweise auf deine Durchreise werden durch besondere Mittel verschleiert, sodass es unmöglich ist, dich ohne außergewöhnliche Mittel zu verfolgen.
 
 > Tags: Nicht-Kampf, Schutz, Wandlung, Einfluss  
-> Englischer Titel: _Untrackable_
+> Englisch: _Untrackable_
 
 ___
 
@@ -1187,7 +1187,7 @@ Ob das Glück dir gewogen ist oder du einfach sehr schwer zu töten bist, du has
 Einmal pro Tag reduziert ein Angriff, der deine TP eigentlich auf unter 1 TP fallen würde, diese stattdessen auf 1.
 
 > Tags: Sozial, Kampf  
-> Englischer Titel: _Diehard_
+> Englisch: _Diehard_
 
 ___
 
@@ -1204,7 +1204,7 @@ Wie ein Assassine oder Ninja kannst du verhindern, dass Feinde andere zu Hilfe r
 Wann immer du mit einer Waffe mit der Eigenschaft <em>Defensiv</em> einem Ziel Schaden zufügst, das die Attacke nicht hat kommen sehen oder sonst unvorbereitet darauf war, erleidet es automatisch den Harm <em>Verstummt</em>. Du könntest vor dem Ziel versteckt sein, dich als Freund verkleidet oder es erfolgreich getäuscht haben.
 
 > Tags: Geschicklichkeit, Körperlich  
-> Englischer Titel: _Silencing Strike_
+> Englisch: _Silencing Strike_
 
 ___
 
@@ -1223,7 +1223,7 @@ Deine Entschlossenheit ist außergewöhnlich, sodass du resistenter gegen mental
 Für jeden Rang in dieser Fertigkeit ist deine Entschlossenheit um eins erhöht.
 
 > Tags: Kampf, Präsenz, Willenskraft  
-> Englischer Titel: _Indomitable Resolve (I - III)_
+> Englisch: _Indomitable Resolve (I - III)_
 
 ___
 
@@ -1244,7 +1244,7 @@ Du kannst effizient Feinde töten, die dem Ende nahe sind und ihre Todesschreie 
 </ul>
 
 > Tags: Kampf, Körperlich  
-> Englischer Titel: _Death Blow (I - II)_
+> Englisch: _Death Blow (I - II)_
 
 ___
 
@@ -1285,7 +1285,7 @@ Du hast Vorteil auf Tödliche Schläge mit Vorteil-Level gleich deines Ranges in
 </ul>
 
 > Tags: Außergewöhnlich, Geschicklichkeit, Kampf  
-> Englischer Titel: _Lethal Strike (I - IX)_
+> Englisch: _Lethal Strike (I - IX)_
 
 ___
 
@@ -1302,7 +1302,7 @@ Im Fokus des Kampfes wirst du unabdingbar. Wie ein Mönch mit stählernem mental
 Während du in einer Kampftrance liegst, bist du immun gegen Harme, die auf deine Entschlossenheit zielen. Falls du zu Beginn der Trance unter einem dieser Harme lagst, ist dieser für die Dauer der Trance neutralisiert und kehr zurück, wenn die Trance endet.
 
 > Tags: Kampf  
-> Englischer Titel: _Impervious Trance_
+> Englisch: _Impervious Trance_
 
 ___
 
@@ -1319,7 +1319,7 @@ Deine Kampfraserei ist legendär, seist du ein Berserker aus dem kalten Norden, 
 Während du in einer Kampftrance bist, kannst du nicht bewusstlos geschlagen werden. Aller Schaden, den du erleidest, muss notiert werden, auch wenn deine Gesamt-TP ins negative gehen. Unabhängig von allem Schaden bleibst du bei Bewusstsein, solange du die Kampftrance aufrechterhalten kannst. Hast du negative TP, wenn die Kampftrance endet, fällst du sofort in Ohnmacht. Wirst du nicht innerhalb von einer Runde danach auf 0 oder mehr TP geheilt, stirbst du.
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Deathless Trance_
+> Englisch: _Deathless Trance_
 
 ___
 
@@ -1336,7 +1336,7 @@ Im Kampf bist du eine überwältigende Lawine, die Feinde dahinrafft. Die reine 
 Jedes Mal, wenn du mit einer Waffe mit der Eigenschaft <em>Kraftvoll</em> Schaden zufügst, kannst du dich entscheiden, dein Ziel 5' von dir wegzubewegen.
 
 > Tags: Körperlich, Fertigkeitenkette, Kraft  
-> Englischer Titel: _Overpowering Strike_
+> Englisch: _Overpowering Strike_
 
 ___
 
@@ -1395,7 +1395,7 @@ Wenn du einen Harm oder ein Wohl wirkst, kannst du dich entscheiden, dies als Ve
 Permanente Harme und Wohle mit dieser Fertigkeit zu gewähren kann einen dramatischen Einfluss auf die spielmechanische Balance der Geschichte haben. Wie mit anderen Effekten wie z.B. Außergewöhnlichen Gegenstand Erschaffen, unterliegt das Wirken permanenter Harme und Wohle der Abwägung des GM. Der GM sollte besonders darauf achten, dass diese Fertigkeit nicht genutzt wird, um einen Charakter übermäßig mächtig zu machen.
 
 > Tags: Außergewöhnlich, Nicht-Kampf  
-> Englischer Titel: _Heightened Invocation (I - III)_
+> Englisch: _Heightened Invocation (I - III)_
 
 ___
 
@@ -1412,7 +1412,7 @@ Du weist, wie man eine gute Offensive in eine noch bessere Defensive verwandelt.
 Wenn du eine Waffe oder andere Ausrüstung mit der Eigenschaft <em>Defensiv</em> führst, hast du +1 zusätzlichen Rüstungsbonus. Weiterhin wird der Wert von <em>Defensiv</em> um 1 erhöht, während du den Gegenstand führst. <em>Defensiv 1</em> wird also <em>Defensiv 2</em> und <em>Defensiv 2</em> wird <em>Defensiv 3</em>.
 
 > Tags: Kampf  
-> Englischer Titel: _Defensive Mastery_
+> Englisch: _Defensive Mastery_
 
 ___
 
@@ -1431,7 +1431,7 @@ Nekromanten mit Horden Untoter, Erfinder mit ihren automatischen Verteidigungsdr
 Kreaturen unter dem Effekt der Harme <em>Bezaubert</em> oder <em>Dominiert</em> oder des Wohls <em>Kreatur Beschwören</em> haben Vorteil 1 pro Rang dieser Fertigkeit auf alle Angriffswürfe, wenn sie dich beschützen oder in deinem Sinne handeln.
 
 > Tags: Außergewöhnlich, Einfluss  
-> Englischer Titel: _Ferocious Minions (I - III)_
+> Englisch: _Ferocious Minions (I - III)_
 
 ___
 
@@ -1475,7 +1475,7 @@ Dein Rang in dieser Fertigkeit bestimmt, wie tief dein Wissen im gewählten Gebi
 Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit haben kannst, kannst du die Fertigkeit selbst auch mehrmals erwerben, wobei du jedes Mal ein neues Wissensgebiet wählst. Die Fertigkeit so mehrmals zu haben bringt keine Vorteile für andere Wissensgebiete.
 
 > Tags: Keine Voraussetzungen, Außergewöhnlich  
-> Englischer Titel: _Knowledge (I - III)_
+> Englisch: _Knowledge (I - III)_
 
 ___
 
@@ -1513,7 +1513,7 @@ Wähle ein einziges Wohl, das du wirken kannst. Du erhälst anhand des Rangs die
 Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erwerben kannst, kannst du auch die Fertigkeit selbst mehrmals erhalten und jedes Mal ein weiteres Wohl wählen. Der Rang der Fertigkeit für dieses neue Wohl ist unabhängig von allen anderen Rängen, die du in dieser Fertigkeit für andere Wohle hast.
 
 > Tags: Außergewöhnlich, Passiv, Wohl  
-> Englischer Titel: _Boon Focus (I - III)_
+> Englisch: _Boon Focus (I - III)_
 
 ___
 
@@ -1530,7 +1530,7 @@ Ob du als Aristokrat geboren wurdest, altes Geld in deiner Familie liegt, du ein
 Dein Wohlstandswert ist um 1 erhöht.
 
 > Tags: Nicht-Kampf  
-> Englischer Titel: _Wealthy_
+> Englisch: _Wealthy_
 
 ___
 
@@ -1553,7 +1553,7 @@ Da diese Fertigkeit mächtige Wohle freischalten kann, die einen großen Einflus
 Falls du zu einem späteren Zeitpunkt die Attributvoraussetzungen des gewählten Wohls auf normalen Weg erreichst, kannst du dich entscheiden, diese Fertigkeit zu verlieren und die dafür ausgegebenen Fertigkeitenpunkte zurückzuerhalten. Danach kannst du sie neu ausgeben, wie es dir beliebt.
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Boon Access_
+> Englisch: _Boon Access_
 
 ___
 
@@ -1572,7 +1572,7 @@ Deine erhöhte Aufmerksamkeit auf dem Schlachtfeld bedeutet, dass es fast unmög
 Einmal pro Runde, nachdem du deine große Aktion der nächsten Runde für eine Verteidigungsaktion genutzt hast, erhälst du eine weitere große Aktion, die nur vor dem Beginn deines nächsten Zuges und nur für eine Verteidigungsaktion genutzt werden kann. Höhere Ränge dieser Fertigkeit geben jeweils eine weitere große Aktion, die nur für eine Verteidigungsaktion und nur vor deinem nächsten Zug genutzt werden können.
 
 > Tags: Verteidigung, Körperlich, Außergewöhnlich  
-> Englischer Titel: _Sentinel (I - III)_
+> Englisch: _Sentinel (I - III)_
 
 ___
 
@@ -1589,7 +1589,7 @@ Wie ein leichtsinniger Oger, der durch den Kampf wadet, werfen deine unermüdlic
 Wann immer du einem Feind Schaden zufügst, kannst du sie nicht nur durch die Fertigkeit Überwältigender Schlag 5' zurückschieben (wenn du möchtest), sondern sie auch dort zu Boden werfen, wo die erzwungene Bewegung endete. Das Ziel erleidet den Harm <em>Niedergeschlagen</em>.
 
 > Tags: Körperlich, Kampf, Fertigkeitenkette, Kraft  
-> Englischer Titel: _Crushing Blow_
+> Englisch: _Crushing Blow_
 
 ___
 
@@ -1606,7 +1606,7 @@ Im Kampfgetümmel wirst du zu einer zestörerischen Kraft, die ihresgleichen suc
 Wenn du einen Angriffswurf in Kampftrance machst, explodieren alle Würfel mit ihrem Höchstwert oder der Zahl eins unter dem Höchstwert (der gefürfelte Wert selbst ändert sich aber nicht). Das bedeutet, dass ein d4 bei 3 oder 4 explodiert, ein d6 bei 5 oder 6, ein d8 bei 7 oder 8 und so weiter.
 
 > Tags: Außergewöhnlich, Kraft  
-> Englischer Titel: _Destructive Trance_
+> Englisch: _Destructive Trance_
 
 ___
 
@@ -1627,7 +1627,7 @@ Mit der von dir gewählten Waffe oder Angriffsart ist deine Reichweite verdoppel
 Du kannst diese Fertigkeit mehrmals erhalten, wobei du jedes Mal neue Waffen oder Angriffstypen wählst.
 
 > Tags: Kampf  
-> Englischer Titel: _Longshot_
+> Englisch: _Longshot_
 
 ___
 
@@ -1644,7 +1644,7 @@ Du bist stark als auch schnell und in der Lage, in einer Hand Waffen zu führen,
 Du kannst Waffen mit der Eigenschaft <em>zweihändig</em> in einer Hand führen und erhälst die Vorteile sowohl der <em>einhändig</em> als auch <em>zweihändig</em> Eigenschaften. Das bedeutet, dass du insgesamt Vorteil 2 erhälst, wenn du eine zweihändige Waffe in jeder Hand führst, Vorteil 1 von der Kraft zweihändiger Waffen und Vorteil 1 davon, dass du in jeder Hand eine Waffe führst.
 
 > Tags: Kampf, Körperlich, Geschicklichkeit, Kraft  
-> Englischer Titel: _Two Weapon Brute_
+> Englisch: _Two Weapon Brute_
 
 ___
 
@@ -1661,7 +1661,7 @@ Deine Meisterschaft im Kämpfen mit zwei Waffen erlaubt es dir, Feinde nicht nur
 Wenn du eine Waffe, für die du die Fertigkeit <em>Angriffsspezialisierung</em> erworben hast, in jeder Hand führst, erhälst du +1 Rüstungsbonus auf deine Deckung.
 
 > Tags: Kampf, Körperlich, Geschicklichkeit  
-> Englischer Titel: _Two Weapon Defense_
+> Englisch: _Two Weapon Defense_
 
 ___
 
@@ -1679,7 +1679,7 @@ Du hast eine besonders hohe Schmerztoleranz. Diese Fertigkeit könnte von einem 
 Du erhälst pro Rang dieser Fertigkeit permanent 5 extra TP.
 
 > Tags: Verteidigung, Körperlich, Konstitution  
-> Englischer Titel: _Tough as Nails (I - II)_
+> Englisch: _Tough as Nails (I - II)_
 
 ___
 

@@ -20,7 +20,7 @@ Der GM, nicht der Spieler, ist dafür verantwortlich, die Attribute und Fähigke
 </ul>
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Animation_
+> Englisch: _Animation_
 
 ___
 
@@ -53,7 +53,7 @@ Wähle einen einzigen Harm oder ein Wohl aus, die das gleiche Attribut nutzen, m
 Dieses Wohl kann besondere Aufmerksamkeit und Abhandlung durch den GM erfordern, da nicht alle Harme und Wohle gut für die Nutzung als Aura geeignet sind. Telekinese zum Beispiel kann Verbündeten nicht gegeben werden und eignet sich so nicht als Aura.
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Aura_
+> Englisch: _Aura_
 
 ___
 
@@ -85,7 +85,7 @@ Wenn du dieses Wohl wirkst, musst du Multi-Zielen benutzen, um eine spezifische 
 <strong>Mobil:</strong> Du kannst eine große Aktion nutzen, um die Barriere bis zu 30 Fuß zu bewegen.
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Barrier_
+> Englisch: _Barrier_
 
 ___
 
@@ -105,7 +105,7 @@ Selbst bei absoluter Dunkelheit kannst du deine Umgebung ausmachen. Einige Beisp
 Das Ziel ist immun gegen den *geblendet*-Harm und kann auch in Bedingungen mit wenig oder keinem Licht normal sehen. Blindsicht kann auch potentiell Unsichtbarkeit entgegenwirken, allerdings muss der GM hier entscheiden, ob die Quelle der Blindsicht tatsächlich die Quelle der Unsichtbarkeit invalidieren würde.
 
 > Tags: Außergewöhnlich, Körperlich  
-> Englischer Titel: _Blindsight_
+> Englisch: _Blindsight_
 
 ___
 
@@ -135,7 +135,7 @@ Wenn du dieses Wohl wirkst, musst du eine Art von Aura auswählen, die du wahrne
 Anders als bei anderen Wohlen, kann dieses Wohl nicht andere Charaktere als Ziel haben. Nur der Charakter, der dieses Wohl wirkt, kann die Auras wahrnehmen. Weiterhin kann der GM nach eigenem Abwägen viele andere Arten von Auras wahrnehmbar sein lassen, je nachdem ob diese für das Setting der Kampagne angemessen sind.
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Detection_
+> Englisch: _Detection_
 
 ___
 
@@ -155,7 +155,7 @@ Du erschaffst ein Gebiet illusorischer Dunkelheit oder entropischer Energie, die
 Wähle einen Raum oder ein Objekt in deiner Reichweite. Dunkelheit quillt aus dem Ziel hervor bis zu einem Radius von 5 Fuß pro Kraftlevel des Wohls. Dieser Effekt annuliert die Wirkung von allem natürlichen Licht innerhalb seines Radius und Kreaturen, die sich für ihre Sicht auf Licht verlassen, erleiden die gleichen Nachteile, als würden sie den *geblendet*-Harm haben, während sie in der Fläche dieses Wohls sind. Kreaturen, die sich für ihre Sicht nicht auf Licht verlassen (z.B. durch Vibrationssinne, Blindsicht, usw. ...) werden nicht eingeschränkt. Falls die Fläche der Dunkelheit sich mit der eines Licht-Wohls überschneidet, dann wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen in der betroffenen Fläche wieder die natürlichen Lichtverhältnisse, als gäbe es keine der beiden Wohle.
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Darkness_
+> Englisch: _Darkness_
 
 ___
 
@@ -181,7 +181,7 @@ Du gibst dem Ziel die Fähigkeit, das zu entdecken, was nicht durch normale Sinn
 </ul>
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Truesight_
+> Englisch: _Truesight_
 
 ___
 
@@ -206,7 +206,7 @@ Indem ihm Flügel wachsen, es Antigrav-Technik aktiviert, telekinetische Kräfte
 Falls das Wohl annulliert wird, während das Ziel noch fliegt, beginnt es sofort, zu fallen.
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Flight_
+> Englisch: _Flight_
 
 ___
 
@@ -232,7 +232,7 @@ Du erschaffst etwas aus nichts. Je nach der Kraft deiner Wirkung, kannst du eine
 </ul>
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Genesis_
+> Englisch: _Genesis_
 
 ___
 
@@ -268,7 +268,7 @@ Beschränkungen für die Verwandlung existieren je nach Kraftlevel des Wohls und
 Sich in eine bestimmte Kreatur zu verwandeln (wobei man sich als diese ausgeben möchte) erfordert einen Täuschungswurf, der vom Wahrnehmungsattribut aller bestritten wird, die das verwandelte Ziel sehen. Weiterhin erhält das Ziel bei Kraftlevel 4 und niedriger keine Expertise in besonderen Bewegungsformen der neuen Form, sodass seine Geschwindigkeit in diesen neuen Bewegungsformen halbiert ist. Der GM kann außerdem entscheiden, dass manche Handlungen, die diese Bewegungsformen nutzen, z.B. unter Beschuss zu schwimmen, mit Nachteil durchgeführt werden.
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Shapeshift_
+> Englisch: _Shapeshift_
 
 ___
 
@@ -293,7 +293,7 @@ Das Ziel bewegt sich mit außergewöhnlicher Geschwindigkeit, weicht Angriffen m
 </ul>
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Haste_
+> Englisch: _Haste_
 
 ___
 
@@ -327,7 +327,7 @@ Wirf die unten für jedes Kraftlevel angegebenen Würfel. Die Würfel explodiere
 Dieses Wohl heilt keinen tödlichen Schaden.
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Heal_
+> Englisch: _Heal_
 
 ___
 
@@ -353,7 +353,7 @@ Von diesem Wohl beschworene Kreaturen können nicht geheilt werden, falls sie 0 
 Multi-Zielen funktioniert für dieses Wohl nicht wie bei anderen Wohlen. Du kannst ein einziges Wirken dieses Wohls benutzen, um mehrere Kreaturen zu beschwören. Für jede weitere Kreatur, die du beschwören willst, hast du Nachteil 2 auf den Aktionswurf zum Wirken des Wohls. Effekte, die Nachteile durch Multi-Zielen verändern, funktionieren hierfür normal.
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Summon Creature_
+> Englisch: _Summon Creature_
 
 ___
 
@@ -373,7 +373,7 @@ Wie der Biss eines Vampirs, so kann auch die seelenraubende Berührung eines sch
 Während dieses Wohl anhält, heilt das Ziel sich selbst um die Hälfte (aufgerundet) des Schadens, den es mit jeder Attacke zufügt. Falls ein Angriff mehrere Feinde schädigt, heilt das Ziel sich um die Hälfte des gesamten Schadens, der allen Feinden zugefügt wurde.
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Life Drain_
+> Englisch: _Life Drain_
 
 ___
 
@@ -400,7 +400,7 @@ Wenn du dieses Wohl erfolgreich wirkst, erhälst du Informationen von einem Obje
 </ul>
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Reading_
+> Englisch: _Reading_
 
 ___
 
@@ -420,7 +420,7 @@ Egal ob durch eine magische Beschwörung, Energiemanipulation oder einen anderen
 Wähle einen Raum oder ein Objekt innerhalb deiner Reichweite. Außergewöhnliches Licht fließt vom Ziel aus bis zu einem Radius von 5' pro Kraftlevel des Wohls. Falls die Lichtfläche sich mit der Fläche eines Dunkelheitswohls überschneidet, wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen in der von beiden betroffenen Fläche wieder das ohne die Wohle herrschende Lichtumstände.
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Light_
+> Englisch: _Light_
 
 ___
 
@@ -440,7 +440,7 @@ Indem du deinen physischen Körperaufbau neustrukturierst, einen extradimesional
 Das Objekt verbleibt vollständig vor der Wahrnehmung anderer verborgen in deinem Körper, bis das Ziel es als kleine Aktion wieder hervorruft. Falls etwas passiert, was dieses Wohl auflöst (zum Beispiel das Wohl *nullifizieren*), wird das Objekt sofort aus dem Körper des Ziels herausgeholt, als wäre es absichtlich hervorgeholt.
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Absorb Object_
+> Englisch: _Absorb Object_
 
 ___
 
@@ -470,7 +470,7 @@ Während das Wohl Regeneration aufrechterhalten wird, heilt das Ziel Trefferpunk
 Dieses Wohl heilt keinen tödlichen Schaden.
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Regeneration_
+> Englisch: _Regeneration_
 
 ___
 
@@ -496,7 +496,7 @@ Wenn das Wohl gewirkt wird, wählt der wirkende Charakter eine Art von Angriff u
 </ul>
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Resistance_
+> Englisch: _Resistance_
 
 ___
 
@@ -517,7 +517,7 @@ Das Ziel erhält die Fähigkeit, frei durch alle physischen Barrieren zu passier
 Falls die Konzentration des Ziel unterbrochen wird oder das Wohl endet, während das Ziel in einer festen Struktur ist, wird das Ziel gewaltsam in die alternative Ebene versetzt, die es für seine substanzlosigkeit genutzt hat (typischerweise eine andere Dimension oder Realitätsebene).
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Insubstantial_
+> Englisch: _Insubstantial_
 
 ___
 
@@ -543,7 +543,7 @@ Sobald du das Wohl wirkst und darauf in jeder folgenden Runde, wenn du das Wohl 
 </ul>
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Telekinesis_
+> Englisch: _Telekinesis_
 
 ___
 
@@ -569,7 +569,7 @@ Du und dein Ziel können miteinander durch einfaches Denken kommunizieren. Telep
 </ul>
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Telepathy_
+> Englisch: _Telepathy_
 
 ___
 
@@ -594,7 +594,7 @@ Du kannst dich selbst oder einen Verbündeten augenblicklich von einem Ort zu ei
 </ul>
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Teleport_
+> Englisch: _Teleport_
 
 ___
 
@@ -621,7 +621,7 @@ Das Kraftlevel bestimmt die Art von Materie, die du transmutieren kannst sowie d
 </ul>
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Transmutation_
+> Englisch: _Transmutation_
 
 ___
 
@@ -649,7 +649,7 @@ Solange du dich konzentrierst, kannst du durch die Augen deines Ziels sehen, das
 Falls dein Aktionswurf fehlschlägt, kannst du mit diesem Wohl für 1 Stunde nicht den gleichen Verbündeten als Ziel wählen.
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Seeing_
+> Englisch: _Seeing_
 
 ___
 
@@ -674,7 +674,7 @@ Licht scheint durch das Ziel hindurch, sodass es transparent wird. Seine physisc
 </ul>
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Invisible_
+> Englisch: _Invisible_
 
 ___
 
@@ -708,7 +708,7 @@ Du kannst nicht Ziel von Gelegenheitsangriffen werden, außer der Gegner ist sic
 </ul>
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Concealment_
+> Englisch: _Concealment_
 
 ___
 
@@ -738,7 +738,7 @@ Du schützt das Ziel vor einer Umgebungsgefahr, einer biologischen Notwendigkeit
 Du kannst nur eine Instanz dieses Wohls auf einmal aktiv haben. Sobald du das Wohl wirkst, werden alle vorigen Wirkungen automatisch aufgelöst.
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Sustenance_
+> Englisch: _Sustenance_
 
 ___
 
@@ -763,7 +763,7 @@ Wähle ein einziges Attribut. Dein Ziel erhält Vorteil auf Aktionswürfe mit di
 </ul>
 
 > Tags: Außergewöhnlich, Körperlich  
-> Englischer Titel: _Bolster_
+> Englisch: _Bolster_
 
 ___
 
@@ -788,7 +788,7 @@ Du blickst in die Zukunft und erhälst so Wissen über den Verlauf einer Handlun
 </ul>
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Precognition_
+> Englisch: _Precognition_
 
 ___
 
@@ -822,7 +822,7 @@ Du kannst alle Harme auf einem Kraftlevel unter oder gleich dem Kraftlevel diese
 Du kannst auch Harme über dem Kraftlevel dieses Wohls auflösen. Dafür muss das Wohl mit einem Aktionswurf gewirkt worden sein (diese Anwendung kann also nicht durch automatischen Erfolg wie bei der Fertigkeit <em>Wohlfokus</em> erreicht werden). Der Herausforderungswert, um einen Harm höheren Kraftlevels zu lösen ist gleich 20 + 2 x Kraftlevel des Harms. Ein Harm von Kraftlevel 9 kann also mit einem Wurfergebnis von 38 beim Aktionswurf für dieses Wohl aufgelöst werden, selbst wenn der wirkende Charakter keinen Attributwert von 9 im genutzten Attribut hat.
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Restoration_
+> Englisch: _Restoration_
 
 ___
 
@@ -845,7 +845,7 @@ Du oder ein Verbündeter erhalten temporär die Fähigkeit, Sprachen zu sprechen
 </ul>
 
 > Tags: Außergewöhnlich  
-> Englischer Titel: _Tongues_
+> Englisch: _Tongues_
 
 ___
 
