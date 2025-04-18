@@ -238,7 +238,7 @@ Spezielle Bewegungen umfassen Klettern, Springen, Schwimmen und andere Bewegungs
 
 **Klettern.** Du kletterst mit der Hälfte deiner normalen Geschwindigkeit. Der GM kann nach eigener Erwägung Kraft- oder Geschicklichkeitswürfe fordern, falls die Situation ausreichend gefährlich ist.
 
-**Schwimmen.** Du schwimmst mit der Hälfte deiner normalen Geschwindigkeit. Der GM kann nach eigener Erwägung Kraft- oder Zähigkeitswürfe fordern, falls du eine weite Distanz, gegen den Strom oder in anderen gefährlichen Umständen schwimmst.
+**Schwimmen.** Du schwimmst mit der Hälfte deiner normalen Geschwindigkeit. Der GM kann nach eigener Erwägung Kraft- oder Konstitutionswürfe fordern, falls du eine weite Distanz, gegen den Strom oder in anderen gefährlichen Umständen schwimmst.
 #### Harmen widerstehen
 Du kannst eine Bewegungsaktion nutzen, um dich von einem Harm zu erholen. Die Bewegungsaktion ist dabei eine vereinfachte Repräsentation vieler verschiedener Wege, wie du die Effekte eines Harmes abschütteln könntest. Wirf 1d20 (ohne Attributwürfel). Falls dein Wurf 10 oder höher ergibt, ist der Harm aufgehoben. Manche Harme haben andere Regeln, wie ihnen widerstanden werden kann.
 
@@ -305,10 +305,10 @@ Falls eine Fertigkeit, eine Charakterstärke, ein Wohl oder eine andere Quelle d
 ## Schaden und Heilung
 Deine Trefferpunkte (TP) sind eine abstrakte Repräsentation deiner Fähigkeit, Schmerzen zu ignorieren, tödlichen Angriffen zu entgehen und deine Präsenz auf dem Schlachtfeld trotz Wunden und Erschöpfung aufrechtzuerhalten. Wann immer du Schaden erleidest, werden deine TP reduziert und wann immer du geheilt wirst, werden sie erhöht.
 ### Gnadenstöße
-Wenn du von einer Attacke mit Schaden getroffen wirst, während du ohnmächtig, unbeweglich oder sonst nicht in der Lage bist, dich zu verteidigen, zählt der Angriff als *Gnadenstoß* und kann sofortigen Tod bedeuten. Deine Verteidigung gegen einen Gnadenstoß erhält keinerlei Boni durch deine Attribute (berechne deinen Verteidigungswert, ohne Attributwerte einzubeziehen). Weiterhin musst du, wann immer dir ein Gnadenstoß Schaden zufügt, einen Zähigkeitswurf gegen HW 10 + den zugefügten Schaden machen. Falls der Wurf fehlschlägt, stirbst du.
+Wenn du von einer Attacke mit Schaden getroffen wirst, während du ohnmächtig, unbeweglich oder sonst nicht in der Lage bist, dich zu verteidigen, zählt der Angriff als *Gnadenstoß* und kann sofortigen Tod bedeuten. Deine Verteidigung gegen einen Gnadenstoß erhält keinerlei Boni durch deine Attribute (berechne deinen Verteidigungswert, ohne Attributwerte einzubeziehen). Weiterhin musst du, wann immer dir ein Gnadenstoß Schaden zufügt, einen Konstitutionswurf gegen HW 10 + den zugefügten Schaden machen. Falls der Wurf fehlschlägt, stirbst du.
 
 > #### Beispiel Gnadenstoß
-> Ulrics normale Deckung ist 20 (+3 Plattenpanzer, +5 Kraft, +2 Geschicklichkeit). Da er aber ohnmächtig ist, als ein Assassine seine Kehle durchschlitzt, zählt dessen Angriff als *Gnadenstoß*. Gegen diese Attacke kann Ulric seine Verteidigung nicht nutzen, sodass seine Deckung auf 13 reduziert ist (+3 Plattenpanzer zählt weiterhin). Der Assassine wirft eine 22 und fügt Ulric damit 9 Schaden zu. Weiterhin muss Ulric einen Zähigkeitswurf mit HW 19 erfolgreich bestehen, sonst stirbt er.
+> Ulrics normale Deckung ist 20 (+3 Plattenpanzer, +5 Kraft, +2 Geschicklichkeit). Da er aber ohnmächtig ist, als ein Assassine seine Kehle durchschlitzt, zählt dessen Angriff als *Gnadenstoß*. Gegen diese Attacke kann Ulric seine Verteidigung nicht nutzen, sodass seine Deckung auf 13 reduziert ist (+3 Plattenpanzer zählt weiterhin). Der Assassine wirft eine 22 und fügt Ulric damit 9 Schaden zu. Weiterhin muss Ulric einen Konstitutionswurf mit HW 19 erfolgreich bestehen, sonst stirbt er.
 ### Null Trefferpunkte erreichen
 Wenn deine TP auf 0 sinken, fällst du in Ohnmacht. Deine TP können nicht unter 0 fallen. Während du ohnmächtig bist, bist du hilflos und alle Angriffe gegen dich zählen als Gnadenstöße. Jede Art von Heilung, die deine TP auf über 0 anhebt, bringt dich auch wieder zu Bewusstsein.
 ### Nach einem Kampf heilen

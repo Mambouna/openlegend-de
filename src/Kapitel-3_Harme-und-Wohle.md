@@ -17,7 +17,7 @@ Um einen Harm zu wirken, ist die primäre Methode ein Attributwurf mit einem fü
 
 Um ein Wohl zu wirken, musst du bei einem Attributwurf Erfolg habe, dessen Herausforderungswert anhand des Kraftlevels des Wohls bestimmt wird. Der HW entspricht 10 + 2 x Kraftlevel. Falls ein Wohl mit verschiedenen Kraftleveln genutzt werden kann, entscheidest du nach dem Attributwurf, auf welchem Kraftlevel du es tun möchtest. Während Ziele verschiedene Wohle auf sich liegen haben können, können auch Wohle nicht gestapelt werden. Falls ein zweites Wirken eines gleichen Wohls einen Charakter betreffen würde, entscheidet der Charakter welche Instanz des Wohls er behalten möchte und welche negiert wird. 
 
-Weitere Details zum Wirken von Harmen und Wohlen wie zum Beispiel Reichweite und das Zielen auf mehrere Kreaturen, können in Kapitel 7: Kampf gefunden werden.
+Weitere Details zum Wirken von Harmen und Wohlen wie zum Beispiel Reichweite und das Zielen auf mehrere Kreaturen, können in [Kapitel 7: Kampf](./Kapitel-7_Kampf.md) gefunden werden.
 ### Die Beschreibung eines Harmes lesen
 Die vollständige Liste an Harmen kann [hier](./lists/harme.md) gefunden werden.
 
