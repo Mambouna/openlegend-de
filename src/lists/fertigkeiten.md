@@ -23,9 +23,11 @@ Um deine Trefferpunkte im Blick zu behalten, solltest du den gesamten erhaltenen
 Deine alternative Gestalt kann nicht die Fertigkeit <em>Alternative Gestalt</em> erwerben.
 Mit der Zustimmung des GM kannst du diese Fertigkeit mehr als einmal wählen. Falls du dies tust, erhälst du eine weitere alternative Gestalt. Mehrere Alternative Gestalten können ein mächtiger Weg sein, viele neue Attribute und Fertigkeitenpunkte zu sammeln. Der GM sollte Spielende daran hindern, mithilfe dieser Fertigkeit übermäßig mächtige Charaktere zu gestalten.
 
-> Tags: Keine Voraussetzungen
+> Tags: Keine Voraussetzungen  
+> Englischer Titel: _Alternate Form (I - II)_
 
 ___
+
 ### Angriff Umleiten
 **Kosten:** 3 Punkte
 
@@ -38,9 +40,11 @@ Du bist darin gekonnt, die Angriffe deiner Feinde umzuleiten. Ob durch elegante 
 **Effekt**  
 Wenn du eine Verteidigungsaktion ausführst und dein Wurf den Aktionswurf des Angreifers übertrifft, kannst du dich entscheiden, den Angriff auf ein Ziel umzuleiten, das weder du noch der Angreifer ist. Die ursprüngliche Attacke verändert sich nicht, nur das Ziel. Falls der Angriff ein Nahkampfangriff war, kannst du ihn auf ein beliebiges Ziel innerhalb von 5' von dir umleiten (nicht 5' um den Angreifer).
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Attack Redirection_
 
 ___
+
 ### Angriffsspezialisierung (I - IX)
 **Kosten:** 3 Punkte
 
@@ -65,9 +69,11 @@ Beispiele von Angriffsarten umfassen unter anderem Feuer, Kälte, Blitz, Säure,
 **Besonders**  
 Zusätzlich dazu, dass du den Rang dieser Fertigkeit erhöhen kannst, kannst du diese Fertigkeit auch mehrmals lernen und jeweils eine neue Waffe oder eine neue Angriffsart auswählen. Dein gesamter Vorteil auf Attacken mit der Waffe oder Angriffsart entspricht deinem Rang der Fertigkeit für diese Waffe oder Art. Beispielsweise könnte ein Charakter Angriffsspezialisierung II (Feuer) für Feuerzauber haben und Angriffsspezialisierung IV (Langschwert) für Angriffe mit dem Schwert.
 
-> Tags: Passiv, Waffe, Außergewöhnlich, Kampf
+> Tags: Passiv, Waffe, Außergewöhnlich, Kampf  
+> Englischer Titel: _Attack Specialization (I - IX)_
 
 ___
+
 ### Attributsubstitution (I - II)
 **Kosten:** 2 Punkte
 
@@ -97,9 +103,11 @@ Wenn du diese Fertigkeit erwirbst, schaffst du eine permanente Verbindung zwisch
 </ul>
 Die Verbindung zwischen zwei Attributen muss immer Fall für Fall entschieden werden, wobei die Zustimmung des GM nötig ist. Die Verbindung muss im Kontext der Handlung und des Settings Sinn ergeben, in dem die Kampagne spielt. Beispielsweise könnte ein Barbar sein Logikattribut sein Kraftattribut ersetzen lassen, wenn es um die Anwendung von Hebelwirkung im Ringen mit Feinden geht. Das bedeutet aber nicht, dass der gleiche Barbar sein Logikattribut nutzen könnte, um die Stahlstäbe einer Gefängniszelle aufzubiegen. Weiterhin sollte der GM Spielende daran hindern, unlogische Verbindungen zu benutzen, die nur dazu da sind, übermäßig starke Charaktere ohne Handlungsbezug zu schaffen. Zwei sinnvolle Beispiele dieser Fertigkeit wären ein kluger Krieger, der Hebelwirkung, Momentum und Physik zu seinem Vorteil nutzt und so Kraft durch Logik ersetzt oder eine Revolverhelding, die Geschicklichkeit durch Vergehen ersetzt und durch das Beschwören dunkler Energie ihre Sinne schärft und so besser zielen kann.
 
-> Tags: Beliebiges Attribut
+> Tags: Beliebiges Attribut  
+> Englischer Titel: _Attribute Substitution (I - II)_
 
 ___
+
 ### Außergewöhnliche Heilung
 **Kosten:** 3 Punkte
 
@@ -112,9 +120,11 @@ Ob du heilige Magie beschwörst, fortgeschrittene Technologie benutzt oder alche
 **Effekt**  
 Wenn du das Wohl <em>Heilung</em> wirkst, kannst du dich entscheiden, eine Stunde Zeit statt der normalen Wirkzeit aufzuwenden. Falls du das tust, heilst du genauso viel tödlichen Schaden, wie die normale TP-Heilung der Wirkung ergeben hat. Der tödliche Schaden wird zusätzlich zu den TP des Ziels geheilt.
 
-> Tags: Außergewöhnlich, Schöpfung
+> Tags: Außergewöhnlich, Schöpfung  
+> Englischer Titel: _Extraordinary Healing_
 
 ___
+
 ### Außergewöhnliche Verteidigung (I - III)
 **Kosten:** 3 Punkte
 
@@ -129,9 +139,11 @@ Ob durch eine magische Barriere, einen Blick in die Zukunft oder übernatürlich
 **Effekt**  
 Du erhälst einen +1 Bonus auf alle Verteidigungen pro Rang in dieser Fertigkeit. Der Bonus gilt für Deckung, Zähigkeit und Entschlossenheit.
 
-> Tags: Außergewöhnlich, Verteidigung
+> Tags: Außergewöhnlich, Verteidigung  
+> Englischer Titel: _Extraordinary Defense (I - III)_
 
 ___
+
 ### Außergewöhnlicher Fokus
 **Kosten:** 3 Punkte
 
@@ -148,9 +160,11 @@ Mit der Zustimmung deines GM wählst du einen Fokus aus, von dem deine Macht mit
 Falls du deinen Fokusgegenstand je verlierst, ob absichtlich oder nicht, erhälst du die Fertigkeitenpunkte zurück, die du für diese Fertigkeit ausgegeben hast und kannst sie wieder normal ausgeben.
 Du kannst diese Fertigkeit mehrmals erhalten. Falls du dich dazu entscheidest, wählst du jedes Mal ein neues Attribut, welches noch keinen Fokus hat. Jede Instanz dieser Fertigkeit kann den gleichen Fokus haben oder aber unterschiedliche.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Extraordinary Focus_
 
 ___
+
 ### Außergewöhnlichen Gegenstand Erschaffen (I - III)
 **Kosten:** 3 Punkte
 
@@ -181,9 +195,11 @@ Ein Gegenstand mit den Eigenschaften <em>Konsumgut</em> oder <em>Verbrauchsgut</
 </ul>
 Am Ende dieser Zeitspanne ist der Gegenstand erschaffen. Einen Gegenstand zu erschaffen zählt weiterhin als Ausgabe, sodass du einen Wohlstandswert haben musst, der hoch genug ist, um den Gegenstand anhand der in <strong>[Kapitel 6: Wohlstand und Ausrüstung](./../Kapitel-6_Wohlstand-und-Ausruestung.md)</strong> beschriebenen Regeln zu kaufen. Der GM kann nach Abwägung einige oder alle der Kosten, die mit dem Erschaffen eines Gegenstandes assoziiert sind, fallen lassen, falls du besondere Materialien zum Schaffen des Gegenstandes schon besitzt. Hast du z.B. kürzlich die Haut eines roten Drachen erbeutet und möchtest nun daraus eine feuerresistenze Rüstung schaffen, kann der GM bestimmen, dass die Haut den Großteil der mit der Schaffung assoziierten Kosten ausmacht und der Wohlstandswert zur Bestimmung der Beschaffungskosten für den Schaffungsprozess so um 3 reduziert ist.
 
-> Tags: Außergewöhnlich, Nicht-Kampf
+> Tags: Außergewöhnlich, Nicht-Kampf  
+> Englischer Titel: _Craft Extraordinary Item (I - III)_
 
 ___
+
 ### Blitzfinger
 **Kosten:** 1 Punkt
 
@@ -196,9 +212,11 @@ Ob du ein Samuraikrieger, der schnellste Mann im Westen oder ein perfekt trainie
 **Effekt**  
 Einmal pro Runde kannst du eine zusätzliche Waffe als kostenlose Aktion ziehen und eine andere wegstecken. Alternativ kannst du den gleichen Effekt auch für alle kleinen Gegenstände nutzen, die du besitzt.
 
-> Tags: Kampf, Geschicklichkeit
+> Tags: Kampf, Geschicklichkeit  
+> Englischer Titel: _Fast Draw_
 
 ___
+
 ### Blitzreflexe (I - V)
 **Kosten:** 1 Punkt
 
@@ -215,9 +233,11 @@ Du bist allzeit bereit, sodass du deinen Feinden oft zuvorkommst. Ein Revolverhe
 **Effekt**  
 Für jeden Rang dieser Fertigkeit hast du Vorteil 1 auf alle Initiativewürfe.
 
-> Tags: Körperlich, Außergewöhnlich, Geschicklichkeit, Vorwissen
+> Tags: Körperlich, Außergewöhnlich, Geschicklichkeit, Vorwissen  
+> Englischer Titel: _Lightning Reflexes (I - V)_
 
 ___
+
 ### Brutale Einschüchterung
 **Kosten:** 1 Punkt
 
@@ -230,9 +250,11 @@ Deine Überzeugungskräfte stammen aus roher Gewalt statt sozialem know-how. Wen
 **Effekt**  
 Falls du eine Demonstration körperlicher Macht durchführen kannst, kannst du für den Aktionswurf Kraft anstatt von Überzeugung nutzen.
 
-> Tags: Nicht-Kampf
+> Tags: Nicht-Kampf  
+> Englischer Titel: _Brutal Intimidation_
 
 ___
+
 ### Brutaler Schlag
 **Kosten:** 2 Punkte
 
@@ -245,9 +267,11 @@ Durch pure Stärke, tödliche Präzision oder überkochende Magie, deine Angriff
 **Effekt**  
 Wann immer du eine natürlich 20 auf einem d20 für einen Angriffswurf wirfst, erhälst du Vorteil 1 auf alle weiteren d20, die du aufgrund der Würfelexplosionen für diesen Angriff wirfst.
 
-> Tags: Kampf
+> Tags: Kampf  
+> Englischer Titel: _Vicious Strike_
 
 ___
+
 ### Defensive Reflexe (I - IX)
 **Kosten:** 2 Punkte
 
@@ -268,9 +292,11 @@ Du bist ein Paragon des defensiven Kampfes, der meisterhaft gegnerische Attacken
 **Effekt**  
 Wann immer du eine Verteidigungsaktion einsetzt, erhältst du Vorteil 1 auf den Aktionswurf pro Rang dieser Fertigkeit, den du besitzt.
 
-> Tags: Geschicklichkeit, Außergewöhnlich
+> Tags: Geschicklichkeit, Außergewöhnlich  
+> Englischer Titel: _Defensive Reflexes (I - IX)_
 
 ___
+
 ### Endlose Ausdauer (I - V)
 **Kosten:** 2 Punkte
 
@@ -287,9 +313,11 @@ Deine Ausdauer und Willenskraft sind legendär, sodass du weitermachen kannst, w
 **Effekt**  
 Du kannst die Auswirkungen des Harms <em>Erschöpft</em> abschütteln. Für jeden Rang in dieser Fertigkeit kannst du dein Level an Erschöpfung als eins weniger behandeln, als es eigentlich ist, um die Effekte des Harms zu bestimmen.
 
-> Tags: Körperlich
+> Tags: Körperlich  
+> Englischer Titel: _Indomitable Endurance (I - V)_
 
 ___
+
 ### Endlose Bezauberung
 **Kosten:** 3 Punkte
 
@@ -302,9 +330,11 @@ Ob du ein Verzauberer bist, Psychiker oder verrückter Wissenschaftler, du hast 
 **Effekt**  
 Wenn du den Harm <em>Bezaubert</em> wirkst, erleiden Ziele, die ihren Widerstandswürfe innerhalb von 24 Stunden nicht bestehen, den Harm permanent. Sie erhalten keine weiteren Widerstandswürfe, um sich von dem Effekt zu befreien. Andere außergewöhnliche Effekte wie z.B. der Harm <em>Annulieren</em> (und weitere passende nach Abwägung des GM) können die permanente Bezauberung weiterhin brechen.
 
-> Tags: Außergewöhnlich, Nicht-Kampf, Einfluss
+> Tags: Außergewöhnlich, Nicht-Kampf, Einfluss  
+> Englischer Titel: _Unending Charm_
 
 ___
+
 ### Energieresistenz (I - IV)
 **Kosten:** 2 Punkte
 
@@ -329,9 +359,11 @@ Wähle aus den folgenden Energiearten aus: Feuer, Kälte, Blitz, Säure, Gift od
 **Besonders**  
 Zusätzlich dazu, dass mehrere Ränge dieser Fertigkeit erworben werden können, kann die Fertigkeit selbst mehrmals erhalten werden, wobei du jedes Mal eine neue Art Energie auswählst.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Energy Resistance (I - IV)_
 
 ___
+
 ### Erhöhte Konzentration (I - III)
 **Kosten:** 3 Punkte
 
@@ -346,9 +378,11 @@ Dein Fokus ist messerschaft, sodass du dich darauf konzentrieren kannst, mehrere
 **Effekt**  
 Wenn du die kleine Aktion <em>Wohl aufrechterhalten</em> benutzt, kannst du pro Rang dieser Fertigkeit ein weiteres Wohl aufrechterhalten, dass du wirken kannst.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Superior Concentration (I - III)_
 
 ___
+
 ### Erzfeind (I - IX)
 **Kosten:** 1 Punkt
 
@@ -372,9 +406,11 @@ Wähle eine Spezies, Abstammung oder Fraktion (z.B. Drachen, Leerentemplare, Gno
 **Besonders**  
 Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erwerben kannst, kannst du die Fertigkeit selbst auch mehrmals erhalten, wobei du jedes Mal eine neue Gruppe an Feinden wählst. Die Ränge der Fertigkeit für jede Gruppe werden separat behandelt. Beispielsweise könnte ein Charakter Erzfeind II (Raumtemplar) und Erzfeind IV (Werwolf) haben.
 
-> Tags: Nicht-Kampf, Kampf
+> Tags: Nicht-Kampf, Kampf  
+> Englischer Titel: _Sworn Enemy (I - IX)_
 
 ___
+
 ### Fallsicher (I - II)
 **Kosten:** 2 Punkte
 
@@ -391,9 +427,11 @@ Du bist so anmutig wie ein Schwan. Wie die Krieger und draufgängerische Helden 
 <li><strong>Rang 2</strong> - Solange du bei Bewusstsein und handlungsfähig bist, erleidest du keinen Fallschaden.</li>
 </ul>
 
-> Tags: Geschicklichkeit
+> Tags: Geschicklichkeit  
+> Englischer Titel: _Breakfall (I - II)_
 
 ___
+
 ### Fliegen
 **Kosten:** 3 Punkte
 
@@ -406,9 +444,11 @@ Du hast die Fähigkeit, zu fliegen, die von himmlischen oder höllischen Flügel
 **Effekt**  
 Du erhälst eine Fluggeschwindigkeit gleich deiner normalen Geschwindigkeit. Nach Abwägung des GM können bestimmte feindliche Handlungen deine Flugfähigkeit unterbinden, sodass du aus dem Himmel fällst. Falls deine Flugfähigkeit anatomisch bedingt ist, wäre der Harm <em>Immobilisiert</em> ein Beispiel, weil du deine Flügel nicht mehr bewegen könntest. Falls der Flug telekinetischer Art ist könnte <em>Annulieren</em> ihn beenden.
 
-> Tags: Nicht-Kampf
+> Tags: Nicht-Kampf  
+> Englischer Titel: _Flying_
 
 ___
+
 ### Flinke Beinarbeit
 **Kosten:** 2 Punkte
 
@@ -421,9 +461,11 @@ Du bewegst dich mit dem Fluss des Kampfes und weichst Angriffen aus, die weniger
 **Effekt**  
 Wenn du dich von einem an einem Feind anliegenden Platz zu einem nicht an einem Feind anliegenden Ort bewegst, erhält der Feind keine Gelegenheitsattacke.
 
-> Tags: Geschicklichkeit
+> Tags: Geschicklichkeit  
+> Englischer Titel: _Evasive Footwork_
 
 ___
+
 ### Flinkfuß (I - III)
 **Kosten:** 2 Punkte
 
@@ -438,9 +480,11 @@ Ob durch cybernetische Implantate, telekinetischen Antrieb oder einfach hardcore
 **Effekt**  
 Deine Geschwindigkeit ist pro Rang dieser Fertigkeit permanent um 5' erhöht.
 
-> Tags: Außergewöhnlich, Geschicklichkeit, Bewegung, Konstitution
+> Tags: Außergewöhnlich, Geschicklichkeit, Bewegung, Konstitution  
+> Englischer Titel: _Fleet of Foot (I - III)_
 
 ___
+
 ### Fähigkeitsspezialisierung (I - V)
 **Kosten:** 2 Punkte
 
@@ -460,9 +504,11 @@ Wähle ein Attribut. Wann immer du einen Wurf mit diesem Attribut auf etwas ande
 **Besonders**  
 Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit haben kannst, kannst du auch die Fertigkeit selbst mehrmals erwerben, wobei du jedes Mal ein anderes Attribut wählst. Du hast separate Ränge für jedes Attribut, für das du diese Fertigkeit hast.
 
-> Tags: Keine Voraussetzungen
+> Tags: Keine Voraussetzungen  
+> Englischer Titel: _Skill Specialization (I - V)_
 
 ___
+
 ### Fährtenleser
 **Kosten:** 1 Punkt
 
@@ -475,9 +521,11 @@ Du bist zur Jagd geboren. Ob du diese Fähigkeiten durch Jahre der Übrung erlan
 **Effekt**  
 Solange du nicht geblendet oder durch außergewöhnliche Mächte verwirrt bist, weist du immer die Richtung nach Norden. Weiterhin hast du automatisch für sieben Tage nach dem Aufnehmen der Spur bei allen Versuchen um ihr zu folgen Erfolg. Nur außergewöhnliche Fähigkeiten der Verborgenheit, fliegende Ziele oder andere ungewöhnliche Umstände können dich dein Ziel verlieren lassen.
 
-> Tags: Nicht-Kampf, Geistig, Wahrnehmung
+> Tags: Nicht-Kampf, Geistig, Wahrnehmung  
+> Englischer Titel: _Master Tracker_
 
 ___
+
 ### Flächenmanipulation (I - V)
 **Kosten:** 1 Punkt
 
@@ -494,9 +542,11 @@ Egal, ob du dein vollautomatisches Sturmgewehr für dich sprechen lässt oder ei
 **Effekt**  
 Für jeden Rang dieser Fertigkeit, den du besitzt, kannst du ein einziges 5' Rechteck aus dem Zielgebiet einer Flächenattacke ausnehmen.
 
-> Tags: Keine Voraussetzungen, Außergewöhnlich
+> Tags: Keine Voraussetzungen, Außergewöhnlich  
+> Englischer Titel: _Area Manipulation (I - V)_
 
 ___
+
 ### Gefährte (I - III)
 **Kosten:** 2 Punkte
 
@@ -520,9 +570,11 @@ Du bekommst einen Gefährtencharakter, der unabhängig von dir handeln. Im Kampf
 Falls du deinen Gefährten je verlierst, sei es absichtlich oder nicht, erhälst du die Fertigkeitenpunkte zurück, die du für diese Fertigkeit ausgegeben hast und die du eventuell weitergegeben hast und kannst diese wieder normal ausgeben.
 Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erlangen kannst, kannst du die Fertigkeit auch mehrmals erwerben, wobei du jedes Mal einen neuen Gefährten erhälst.
 
-> Tags: Nicht-Kampf
+> Tags: Nicht-Kampf  
+> Englischer Titel: _Companion (I - III)_
 
 ___
+
 ### Großer Sprung (I - III)
 **Kosten:** 1 Punkt
 
@@ -537,9 +589,11 @@ Durch außergewöhnliche Kraft oder besondere Geschicklichkeit kannst du deutlic
 **Effekt**  
 Du kannst deinen Bewegungs- oder Geschicklichkeitswert anstatt deinem Kraftwert nutzen, wenn du berechnest, wie weit du springen kannst. Zusätzlich erhälst du Vorteil 1 pro Rang dieser Fertigkeit auf Aktionswürfe zum Springen.
 
-> Tags: Außergewöhnlich, Körperlich, Kampf, Nicht-Kampf, Bewegung, Geschicklichkeit
+> Tags: Außergewöhnlich, Körperlich, Kampf, Nicht-Kampf, Bewegung, Geschicklichkeit  
+> Englischer Titel: _Great Leap (I - III)_
 
 ___
+
 ### Halluzination (I - II)
 **Kosten:** 3 Punkte
 
@@ -561,9 +615,11 @@ Du bist in der Lage, deine Illusionen nicht nur zum Erzeugen von Phantomen zu be
   </ul></li>
 </ul>
 
-> Tags: Außergewöhnlich, Nicht-Kampf, Einfluss
+> Tags: Außergewöhnlich, Nicht-Kampf, Einfluss  
+> Englischer Titel: _Hallucination (I - II)_
 
 ___
+
 ### Harmfokus
 **Kosten:** 3 Punkte
 
@@ -579,9 +635,11 @@ Wähle einen Harm, den du wirken kannst. Wenn dein Wurf auf einen Angriff mit Sc
 **Besonders**  
 Du kannst diese Fertigkeit mehrmals erlangen. Für jedes weitere Mal wählst du einen anderen Harm aus.
 
-> Tags: Kraft, Passiv, Kampf, Harm
+> Tags: Kraft, Passiv, Kampf, Harm  
+> Englischer Titel: _Bane Focus_
 
 ___
+
 ### Hartnäckiger Harm
 **Kosten:** 3 Punkte
 
@@ -597,9 +655,11 @@ Wähle einen Harm aus, den du wirken kannst und der eine Dauer von "Widerstehen 
 **Besonders**  
 Du kannst diese Fertigkeit mehrmals wählen, wobei du jedes Mal einen anderen Harm wählst.
 
-> Tags: Harm, Kampf
+> Tags: Harm, Kampf  
+> Englischer Titel: _Potent Bane_
 
 ___
+
 ### Kampffokus
 **Kosten:** 3 Punkte
 
@@ -612,9 +672,11 @@ Wie ein Kensaikämpfer, der sich ganz seinem Katana verschrieben hat, oder ein A
 **Effekt**  
 Wähle eine einzige Waffe (oder wähle unbewaffneten Kampf) und gib an, auf welches Attribut sich dein Kampffokus verlässt: Geschicklichkeit oder Kraft. Wenn du einen Angriff mit der gewählten Waffe machst, wird dein Attributwert zum Bestimmten der Attributwürfel als eins höher gewertet, als er eigentlich ist. Dein Wert bleibt für alle anderen Anwendungen - wie z.B. Fertigkeiten, Harme und Wohle - unverändert. Aufgrund deines intensiven Trainings in einem Stil, das andere Taktiken vernachlässigt, hast du Nachteil 1 auf alle Angriffe, die du ohne Kampffokus ausführst.
 
-> Tags: Kampf, Körperlich
+> Tags: Kampf, Körperlich  
+> Englischer Titel: _Martial Focus_
 
 ___
+
 ### Kampfmoment
 **Kosten:** 1 Punkt
 
@@ -630,9 +692,11 @@ Wann immer du einen Feind mit einer Kraft- oder Geschicklichkeitsattacke auf 0 T
 **Besonders**  
 Falls du Zugang zum Wohl <em>Teleportation</em> hast, kannst du es anstatt einer normalen Bewegung benutzen.
 
-> Tags: Kampf
+> Tags: Kampf  
+> Englischer Titel: _Combat Momentum_
 
 ___
+
 ### Kampftrance
 **Kosten:** 3 Punkte
 
@@ -645,9 +709,11 @@ Du kannst dich in einen Geisteszustand erhöhter Kampfbereitschaft versetzen, in
 **Effekt**  
 Als kostenlose Aktion in deinem Zug kannst du dich in Kampftrance versetzen. Während du in der Trance bist, hast du Vorteil 1 auf alle Angriffe. Weiterhin sind dein Zähigkeit und Entschlossenheit um 3 erhöht. Falls dein gesamter Rüstungsbonus weniger als 3 ist, wird er zu 3. Falls du drei Züge in Folge keinen Angriffswurf gegen eine feindliche Kreatur wirfst, endet die Kampftrance. Wenn die Trance endet, erleidest du automatisch 1 Level des Harms <em>erschöpft</em>.
 
-> Tags: Kampf
+> Tags: Kampf  
+> Englischer Titel: _Battle Trance_
 
 ___
+
 ### Kettenschlag
 **Kosten:** 2 Punkte
 
@@ -660,9 +726,11 @@ Du bist in der Lage, Feinde in schneller Folge zu dezimieren. Wie ein legendäre
 **Effekt**  
 Wann immer du einen Feind mit einer Kraft- oder Geschicklichkeitsattacke auf 0 TP bringst, kannst du sofort einen Extraangriff als kostenlose Aktion ausführen.
 
-> Tags: Kampf
+> Tags: Kampf  
+> Englischer Titel: _Combat Follow-through_
 
 ___
+
 ### Klettern
 **Kosten:** 1 Punkt
 
@@ -675,9 +743,11 @@ Du erhälst die Fähigkeit, perfekt zu klettern oder Parkour zu nutzen, so wie m
 **Effekt**  
 Du erhälst eine Klettern-Geschwindigkeit gleich deiner Grundgeschwindigkeit und kannst horizontale und vertikale Flächen erklimmen - sogar kopfüber -, ohne einen Sturz fürchten zu müssen.
 
-> Tags: Nicht-Kampf
+> Tags: Nicht-Kampf  
+> Englischer Titel: _Climbing_
 
 ___
+
 ### Konterschlag
 **Kosten:** 2 Punkte
 
@@ -690,9 +760,11 @@ Du bist ein Meister des Konters. Du könntest flink Vorstöße deiner Gegner auf
 **Effekt**  
 Wenn du eine Verteidigungsaktion nutzt, fügst du dem Angreifer Schaden gleich der Anzahl zu, mit der dein Aktionswurf das Ergebnis des Angriffswurfs übertrifft.
 
-> Tags: Kraft, Geschicklichkeit, Außergewöhnlich, Passiv, Kampf
+> Tags: Kraft, Geschicklichkeit, Außergewöhnlich, Passiv, Kampf  
+> Englischer Titel: _Battlefield Retribution_
 
 ___
+
 ### Konterschlächter
 **Kosten:** 3 Punkte
 
@@ -705,9 +777,11 @@ Du kannst mit einem Konter nicht nur Schaden zufügen, sondern Feinde auch mit e
 **Effekt**  
 Wähle einen Harm, den du zufügen kannst. Wann immer du eine Verteidigungsaktion mit einem Attribut nutzt, das den gewählten Harm wirken könnte und mit der Fertigkeit Schlachtvergeltung dem Gegner 10 oder mehr Schaden zufügst, kannst du den Harm automatisch auf den Gegner wirken.
 
-> Tags: Kraft, Passiv, Kampf, Fertigkeitenkette
+> Tags: Kraft, Passiv, Kampf, Fertigkeitenkette  
+> Englischer Titel: _Battlefield Punisher_
 
 ___
+
 ### Medikus
 **Kosten:** 2 Punkte
 
@@ -720,9 +794,11 @@ Durch inspirierende Worte, magische Heilung oder fortgeschrittene Medizintechnik
 **Effekt**  
 Du kannst eine große Aktion benutzen, um einem Verbündeten sofort einen Widerstandswurf (eine kostenlose Aktion für den Verbündeten) mit Vorteil 1 zu geben. Weiterhin hast du Vorteil 1 darauf, das Wohl <em>Wiederherstellung</em> zu wirken.
 
-> Tags: Nicht-Kampf, Außergewöhnlich, Sozial, Schöpfung, Präsenz, Schutz
+> Tags: Nicht-Kampf, Außergewöhnlich, Sozial, Schöpfung, Präsenz, Schutz  
+> Englischer Titel: _Hospitaler_
 
 ___
+
 ### Mimikri
 **Kosten:** 2 Punkte
 
@@ -735,9 +811,11 @@ Du hast dein Gestaltwandeln perfektioniert und kannst so nicht nur deine Form wa
 **Effekt**  
 Wenn du das Wohl <em>Gestaltwandel</em> benutzt, kannst du die Form einer spezifischen Kreatur annehmen. Anstatt dich einfach in einen Elf zu verwandeln, kannst du die Gestalt von Galdion dem Elfenkönig annehmen. Die Verkleidung ist visuell nahezu perfekt. Falls dein Verhalten oder andere Anzeichen jemand misstrauisch werden lassen, kann die Person einen Wahrnehmungswurf mit Herausforderungswert 10 + 3 x dein Wandlungs-/Täuschungswert (höheren Wert nutzen) versuchen. Falls sie Erfolg hat, durschaut die Person deine Verwandlung.
 
-> Tags: Außergewöhnlich, Fertigkeitenkette, Wandlung
+> Tags: Außergewöhnlich, Fertigkeitenkette, Wandlung  
+> Englischer Titel: _Mimic_
 
 ___
+
 ### Multi-Angriffsspezialisierung (I - VI)
 **Kosten:** 3 Punkte
 
@@ -758,9 +836,11 @@ Du kannst deine Angriffe für eine beliebige Kombination aus Harmen und Attacken
 Die maximale Anzahl an zusätzlichen Angriffen pro Runde ist 1 + die Hälfte deines Levels aufgerundet. Auf Level 1 ist das Limit also 2 zusätzliche Attacken, 3 Attacken auf Level 3 und 6 auf Level 9.
 <strong>Beispiel</strong> - Vax der Todbringer hat Multi-Angriffsspezialisierung (Rang III). Er sagt an, dass er diese Runde drei Angriffe (also zwei zusätzliche) ausführen wird. Daher werden all seine Angriffe Nachteil 3 haben (3 x 2 = 6, davon 3 für Rang 3 abziehen). Sein erster Angriff ist ein nekromantischer Energieausbruch, der einen 10'-Würfel als Ziel hat. Aufgrund der Flächenattacke hat Vax weitere 2 Nachteil auf den ersten Angriff, sodass er insgesamt dafür mit Nachteil 5 würfelt. Sein zweiter Angriff ist ein Harmangriff mit <em>Geblendet</em> auf einen einzigen Feind, sodass dieser mit Nachteil 3 stattfindet. Letztlich bewegt sich Vax in den Nahkampf und nutzt seine Todesberührung gegen drei Feinde, was weitere 3 Nachteil bringt. Sein letzter Angriffswurf hat also Nachteil 6.
 
-> Tags: Beliebiges Attribut
+> Tags: Beliebiges Attribut  
+> Englischer Titel: _Multi-Attack Specialist (I - VI)_
 
 ___
+
 ### Multi-Harmspezialisierung
 **Kosten:** 3 Punkte
 
@@ -777,9 +857,11 @@ Wähle zwei Harme aus, die du wirken kannst und die ein gemeinsames Attribut zum
 Um bei einer Multi-Harm-Attacke von der Fertigkeit <em>Harmfokus</em> zu profitieren, musst du für beide gewählten Harme <em>Harmfokus</em> haben.
 Du kannst diese Fertigkeit mehr als einmal erwerben, wobei du jedes Mal ein neues Paar aus zwei Harmen wählst.
 
-> Tags: Harm, Kampf
+> Tags: Harm, Kampf  
+> Englischer Titel: _Multi-Bane Specialist_
 
 ___
+
 ### Multi-Zielen Angriffsspezialisierung (I - V)
 **Kosten:** 2 Punkte
 
@@ -799,9 +881,11 @@ Wenn du diese Fertigkeit wählst, musst du dich für einen Ansatz aus Nahkampf, 
 **Besonders**  
 Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit erwerben kannst, kannst du die Fertigkeit selbst auch mehrmals erhalten, wobei du jedes Mal einen anderen Ansatz (Nahkampf, Fernkampf, Flächenattacken) auswählst. Jede Instanz dieser Fertigkeit hat separate Ränge.
 
-> Tags: Beliebiges Attribut
+> Tags: Beliebiges Attribut  
+> Englischer Titel: _Multi-Target Attack Specialist (I - V)_
 
 ___
+
 ### Multi-Zielen Wohlexperte
 **Kosten:** 3 Punkte
 
@@ -814,9 +898,11 @@ Du bist so geübt darin, Gruppen Verbündeter zu helfen, dass du bestimmte Wohle
 **Effekt**  
 Wenn du ein Wohl mit Multi-Zielen wirkst, für den du die Fertigkeit Wohlfokus hast, musst du keinen Aktionswurf machen, falls der durch Multi-Zielen erhaltene Nachteil vollständig von deiner Fertigkeit Multi-Zielen Wohlspezialisierung negiert wird. In diesem Fall hat die Wirkung automatisch Erfolg.
 
-> Tags: Nicht-Kampf, Beliebiges Attribut
+> Tags: Nicht-Kampf, Beliebiges Attribut  
+> Englischer Titel: _Multi-Target Boon Expert_
 
 ___
+
 ### Multi-Zielen Wohlspezialisierung (I - IX)
 **Kosten:** 2 Punkte
 
@@ -837,9 +923,11 @@ Du bist ein Meister darin, Wohle auf mehrere Verbündete zu wirken. Eine Massent
 **Effekt**  
 Für jeden Rang dieser Fertigkeit reduzierst du den mit Multi-Zielen von Wohlen assoziierten Nachteil um 1.
 
-> Tags: Nicht-Kampf, Außergewöhnlich
+> Tags: Nicht-Kampf, Außergewöhnlich  
+> Englischer Titel: _Multi-Target Boon Specialist (I - IX)_
 
 ___
+
 ### Natürliche Verteidigung (I - III)
 **Kosten:** 2 Punkte
 
@@ -859,9 +947,11 @@ Wenn du keine Rüstung trägst, erhälst du einen Bonus auf Deckung und Zähigke
 <li><strong>Rang 3</strong> - +3 Bonus auf Deckung und Zähigkeit.</li>
 </ul>
 
-> Tags: Kampf, Körperlich, Verteidigung, Konstitution
+> Tags: Kampf, Körperlich, Verteidigung, Konstitution  
+> Englischer Titel: _Natural Defense (I - III)_
 
 ___
+
 ### Normalen Gegenstand Erschaffen (I - II)
 **Kosten:** 2 Punkte
 
@@ -893,9 +983,11 @@ Wähle einen spezifischen Beruf oder eine Profession. Du kannst Gegenstände ers
 **Besonders**  
 Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit erwerben kannst, kannst du die Fertigkeit selbst mehrmals erhalten, wobei du jedes Mal eine neue Profession wählst.
 
-> Tags: Nicht-Kampf
+> Tags: Nicht-Kampf  
+> Englischer Titel: _Craft Mundane Item (I - II)_
 
 ___
+
 ### Paragon (I - III)
 **Kosten:** 2 Punkte
 
@@ -915,9 +1007,11 @@ Einmal pro Runde, wenn dein Angriffswurf für einen Angriff mit Schaden die Vert
 <li><strong>Rang 3</strong> - Alle Verbündeten, die den Angriff sehen können, heilen 2d4 TP.</li>
 </ul>
 
-> Tags: Sozial, Kampf, Präsenz
+> Tags: Sozial, Kampf, Präsenz  
+> Englischer Titel: _Inspiring Champion (I - III)_
 
 ___
+
 ### Reaktive Trance
 **Kosten:** 2 Punkte
 
@@ -930,9 +1024,11 @@ Dein intensiver Fokus lässt sich nicht brechen, sodass du augenblicklich in ein
 **Effekt**  
 Du kannst als kostenlose Aktion in Kampftrance verfallen (anhand der Fertigkeit Kampftrance), selbst wenn es nicht dein Zug ist. Du kannst dies als Reaktion auf eine andere Handlung tun, z.B. ein feindlicher Angriff, ein Zauber oder eine Beleidigung. Du kannst dich auch erst nach dem Wurf für die Handlung entscheiden, die Kampftrance zu nutzen. Der Effekt der Trance beginnt sofort und in diesem Fall bevor die Konsequenzen der auslösenden Handlung abgehandelt sind, sodass du potentiell Schaden oder andere schadhafte Effekte verhindern kannst.
 
-> Tags: Kampf, Geistig, Fertigkeitenkette, Willenskraft
+> Tags: Kampf, Geistig, Fertigkeitenkette, Willenskraft  
+> Englischer Titel: _Reactionary Trance_
 
 ___
+
 ### Resilient
 **Kosten:** 3 Punkte
 
@@ -945,9 +1041,11 @@ Ob durch Glück, außergewöhnliche Willenskraft oder großen Mut, kannst du Har
 **Effekt**  
 Du hast Vorteil 1 auf alle Widerstandswürfe.
 
-> Tags: Geistig, Körperlich, Sozial
+> Tags: Geistig, Körperlich, Sozial  
+> Englischer Titel: _Resilient_
 
 ___
+
 ### Rundumtalent
 **Kosten:** 2 Punkte
 
@@ -960,9 +1058,11 @@ Du hast eine breite Erziehung genossen, viele Erfahrungen gemacht oder einfach g
 **Effekt**  
 Wann immer du ein Attribut mit Wert 2 oder weniger für einen Aktionswurf außerhalb des Kampfes nutzt, der nicht zum Wirken eines Harms oder eines Wohls dient, erhälst du Vorteil 1 auf den Wurf.
 
-> Tags: Nicht-Kampf
+> Tags: Nicht-Kampf  
+> Englischer Titel: _Well-Rounded_
 
 ___
+
 ### Rücksichtsloser Angriff
 **Kosten:** 3 Punkte
 
@@ -975,9 +1075,11 @@ Indem du deinen Körper willentlich im Kampf überstrapazierst, führst du eine 
 **Effekt**  
 Während du in einer Kampftrance bist, kannst du dich entscheiden, dir selbst in deinem Zug 5 TP Schaden zuzufügen, um einen Angriff als kleine Aktion zu machen. Effekte, die Schaden verhindern oder reduzieren können diesen selbstverschuldeten Schaden nicht verändern. Du erleidest den Schaden, bevor du den Extraangriff ausgeführt hast, sodass du nach dem Schaden noch bei Bewusstsein sein musst, um die Attacke ausführen zu können.
 
-> Tags: Kampf
+> Tags: Kampf  
+> Englischer Titel: _Reckless Attack_
 
 ___
+
 ### Rüstungsexpertise (I - II)
 **Kosten:** 3 Punkte
 
@@ -995,9 +1097,11 @@ Dein Training lässt dich in deiner Rüstung schlafen, ohne dass du danach ein L
 <li><strong>Rang 2</strong> - Die Konstitutionsvoraussetzungen von Rüstungen sind um 2 reduziert. Während du Rüstung trägst, erhälst du +2 Deckung. Jegliches Geschwindigkeitsmalus durch eine Rüstung ist um 5' reduziert.</li>
 </ul>
 
-> Tags: Keine Voraussetzungen
+> Tags: Keine Voraussetzungen  
+> Englischer Titel: _Armor Mastery (I - II)_
 
 ___
+
 ### Schlachtfeldopportunist (I - V)
 **Kosten:** 2 Punkte
 
@@ -1014,9 +1118,11 @@ Deine Fähigkeiten auf dem Schlachtfeld erlauben es dir, Chancen zu ergreifen, d
 **Effekt**  
 Du kannst eine zusätzliche Gelegenheitsattacke pro Rang dieser Fertigkeit, die du besitzt, in einer Runde ausführen. Du kannst aber nur eine Gelegenheitsattacke für jeden Anlass machen, der eine solche Attacke ermöglicht (du kannst also nicht mehrere Attacken gegen einen Feind ausführen, der den Nahkampf mit dir verlässt).
 
-> Tags: Kraft, Geschicklichkeit, Passiv, Kampf, Fertigkeitenkette
+> Tags: Kraft, Geschicklichkeit, Passiv, Kampf, Fertigkeitenkette  
+> Englischer Titel: _Battlefield Opportunist (I - V)_
 
 ___
+
 ### Schwimmen
 **Kosten:** 1 Punkt
 
@@ -1029,9 +1135,11 @@ Du bist für das Wasser geboren und kannst mit der Flinkheit eines Fisches mit g
 **Effekt**  
 Du erhälst eine Schwimmgeschwindigkeit gleich deiner normalen Geschwindigkeit und musst keine Aktionswürfe machen um deine Schwimmgeschwindigkeit aufrechtzuerhalten.
 
-> Tags: Nicht-Kampf
+> Tags: Nicht-Kampf  
+> Englischer Titel: _Swimming_
 
 ___
+
 ### Spurenhund
 **Kosten:** 2 Punkte
 
@@ -1044,9 +1152,11 @@ Einer Spur zu folgen ist für dich so normal wie atmen. Du bist ein erfahrener W
 **Effekt**  
 Du bewegst dich unbehindert und mit voller Geschwindigkeit, wenn du ein Ziel verfolgst.
 
-> Tags: Außergewöhnlich, Geschicklichkeit, Wahrnehmung
+> Tags: Außergewöhnlich, Geschicklichkeit, Wahrnehmung  
+> Englischer Titel: _Fast Tracker_
 
 ___
+
 ### Spurenlos
 **Kosten:** 1 Punkt
 
@@ -1059,9 +1169,11 @@ Ob aufgrund von Ranken, die in deinem Pfad wachsen, einem magischen Schutz gegen
 **Effekt**  
 Deine Spur und jegliche Hinweise auf deine Durchreise werden durch besondere Mittel verschleiert, sodass es unmöglich ist, dich ohne außergewöhnliche Mittel zu verfolgen.
 
-> Tags: Nicht-Kampf, Schutz, Wandlung, Einfluss
+> Tags: Nicht-Kampf, Schutz, Wandlung, Einfluss  
+> Englischer Titel: _Untrackable_
 
 ___
+
 ### Stirb Langsam
 **Kosten:** 2 Punkte
 
@@ -1074,9 +1186,11 @@ Ob das Glück dir gewogen ist oder du einfach sehr schwer zu töten bist, du has
 **Effekt**  
 Einmal pro Tag reduziert ein Angriff, der deine TP eigentlich auf unter 1 TP fallen würde, diese stattdessen auf 1.
 
-> Tags: Sozial, Kampf
+> Tags: Sozial, Kampf  
+> Englischer Titel: _Diehard_
 
 ___
+
 ### Stummschlag
 **Kosten:** 3 Punkte
 
@@ -1089,9 +1203,11 @@ Wie ein Assassine oder Ninja kannst du verhindern, dass Feinde andere zu Hilfe r
 **Effekt**  
 Wann immer du mit einer Waffe mit der Eigenschaft <em>Defensiv</em> einem Ziel Schaden zufügst, das die Attacke nicht hat kommen sehen oder sonst unvorbereitet darauf war, erleidet es automatisch den Harm <em>Verstummt</em>. Du könntest vor dem Ziel versteckt sein, dich als Freund verkleidet oder es erfolgreich getäuscht haben.
 
-> Tags: Geschicklichkeit, Körperlich
+> Tags: Geschicklichkeit, Körperlich  
+> Englischer Titel: _Silencing Strike_
 
 ___
+
 ### Stählerner Wille (I - III)
 **Kosten:** 1 Punkt
 
@@ -1106,9 +1222,11 @@ Deine Entschlossenheit ist außergewöhnlich, sodass du resistenter gegen mental
 **Effekt**  
 Für jeden Rang in dieser Fertigkeit ist deine Entschlossenheit um eins erhöht.
 
-> Tags: Kampf, Präsenz, Willenskraft
+> Tags: Kampf, Präsenz, Willenskraft  
+> Englischer Titel: _Indomitable Resolve (I - III)_
 
 ___
+
 ### Todesstreich (I - II)
 **Kosten:** 3 Punkte
 
@@ -1125,9 +1243,11 @@ Du kannst effizient Feinde töten, die dem Ende nahe sind und ihre Todesschreie 
 <li><strong>Rang 2</strong> - Die Schwelle für einen Todesstoß ist auf 10 erhöht. Weiterhin fügst du deinem Feind bei einem erfolgreichen Tödlichen Streich automatisch den Harm <em>betäubt</em> zu, wobei dieser nicht gegen das Limit auf max. einen Harm pro Angriff zählt.</li>
 </ul>
 
-> Tags: Kampf, Körperlich
+> Tags: Kampf, Körperlich  
+> Englischer Titel: _Death Blow (I - II)_
 
 ___
+
 ### Tödlicher Schlag(I - IX)
 **Kosten:** 3 Punkte
 
@@ -1164,9 +1284,11 @@ Du hast Vorteil auf Tödliche Schläge mit Vorteil-Level gleich deines Ranges in
 <li><strong>Rang 9</strong> - Vorteil 9. Bis zu 25 tödlicher Schaden.</li>
 </ul>
 
-> Tags: Außergewöhnlich, Geschicklichkeit, Kampf
+> Tags: Außergewöhnlich, Geschicklichkeit, Kampf  
+> Englischer Titel: _Lethal Strike (I - IX)_
 
 ___
+
 ### Unabdingbare Trance
 **Kosten:** 3 Punkte
 
@@ -1179,9 +1301,11 @@ Im Fokus des Kampfes wirst du unabdingbar. Wie ein Mönch mit stählernem mental
 **Effekt**  
 Während du in einer Kampftrance liegst, bist du immun gegen Harme, die auf deine Entschlossenheit zielen. Falls du zu Beginn der Trance unter einem dieser Harme lagst, ist dieser für die Dauer der Trance neutralisiert und kehr zurück, wenn die Trance endet.
 
-> Tags: Kampf
+> Tags: Kampf  
+> Englischer Titel: _Impervious Trance_
 
 ___
+
 ### Unsterbliche Trance
 **Kosten:** 3 Punkte
 
@@ -1194,9 +1318,11 @@ Deine Kampfraserei ist legendär, seist du ein Berserker aus dem kalten Norden, 
 **Effekt**  
 Während du in einer Kampftrance bist, kannst du nicht bewusstlos geschlagen werden. Aller Schaden, den du erleidest, muss notiert werden, auch wenn deine Gesamt-TP ins negative gehen. Unabhängig von allem Schaden bleibst du bei Bewusstsein, solange du die Kampftrance aufrechterhalten kannst. Hast du negative TP, wenn die Kampftrance endet, fällst du sofort in Ohnmacht. Wirst du nicht innerhalb von einer Runde danach auf 0 oder mehr TP geheilt, stirbst du.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Deathless Trance_
 
 ___
+
 ### Überwältigender Schlag
 **Kosten:** 2 Punkte
 
@@ -1209,9 +1335,11 @@ Im Kampf bist du eine überwältigende Lawine, die Feinde dahinrafft. Die reine 
 **Effekt**  
 Jedes Mal, wenn du mit einer Waffe mit der Eigenschaft <em>Kraftvoll</em> Schaden zufügst, kannst du dich entscheiden, dein Ziel 5' von dir wegzubewegen.
 
-> Tags: Körperlich, Fertigkeitenkette, Kraft
+> Tags: Körperlich, Fertigkeitenkette, Kraft  
+> Englischer Titel: _Overpowering Strike_
 
 ___
+
 ### Vertiefte Wirkung (I - III)
 **Kosten:** 2 Punkte
 
@@ -1266,9 +1394,11 @@ Wenn du einen Harm oder ein Wohl wirkst, kannst du dich entscheiden, dies als Ve
 **Besonders**  
 Permanente Harme und Wohle mit dieser Fertigkeit zu gewähren kann einen dramatischen Einfluss auf die spielmechanische Balance der Geschichte haben. Wie mit anderen Effekten wie z.B. Außergewöhnlichen Gegenstand Erschaffen, unterliegt das Wirken permanenter Harme und Wohle der Abwägung des GM. Der GM sollte besonders darauf achten, dass diese Fertigkeit nicht genutzt wird, um einen Charakter übermäßig mächtig zu machen.
 
-> Tags: Außergewöhnlich, Nicht-Kampf
+> Tags: Außergewöhnlich, Nicht-Kampf  
+> Englischer Titel: _Heightened Invocation (I - III)_
 
 ___
+
 ### Verteidigungsexpertise
 **Kosten:** 3 Punkte
 
@@ -1281,9 +1411,11 @@ Du weist, wie man eine gute Offensive in eine noch bessere Defensive verwandelt.
 **Effekt**  
 Wenn du eine Waffe oder andere Ausrüstung mit der Eigenschaft <em>Defensiv</em> führst, hast du +1 zusätzlichen Rüstungsbonus. Weiterhin wird der Wert von <em>Defensiv</em> um 1 erhöht, während du den Gegenstand führst. <em>Defensiv 1</em> wird also <em>Defensiv 2</em> und <em>Defensiv 2</em> wird <em>Defensiv 3</em>.
 
-> Tags: Kampf
+> Tags: Kampf  
+> Englischer Titel: _Defensive Mastery_
 
 ___
+
 ### Wilde Handlanger (I - III)
 **Kosten:** 2 Punkte
 
@@ -1298,9 +1430,11 @@ Nekromanten mit Horden Untoter, Erfinder mit ihren automatischen Verteidigungsdr
 **Effekt**  
 Kreaturen unter dem Effekt der Harme <em>Bezaubert</em> oder <em>Dominiert</em> oder des Wohls <em>Kreatur Beschwören</em> haben Vorteil 1 pro Rang dieser Fertigkeit auf alle Angriffswürfe, wenn sie dich beschützen oder in deinem Sinne handeln.
 
-> Tags: Außergewöhnlich, Einfluss
+> Tags: Außergewöhnlich, Einfluss  
+> Englischer Titel: _Ferocious Minions (I - III)_
 
 ___
+
 ### Wissen (I - III)
 **Kosten:** 2 Punkte
 
@@ -1340,9 +1474,11 @@ Dein Rang in dieser Fertigkeit bestimmt, wie tief dein Wissen im gewählten Gebi
 **Besonders**  
 Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit haben kannst, kannst du die Fertigkeit selbst auch mehrmals erwerben, wobei du jedes Mal ein neues Wissensgebiet wählst. Die Fertigkeit so mehrmals zu haben bringt keine Vorteile für andere Wissensgebiete.
 
-> Tags: Keine Voraussetzungen, Außergewöhnlich
+> Tags: Keine Voraussetzungen, Außergewöhnlich  
+> Englischer Titel: _Knowledge (I - III)_
 
 ___
+
 ### Wohlfokus (I - III)
 **Kosten:** 3 Punkte
 
@@ -1376,9 +1512,11 @@ Wähle ein einziges Wohl, das du wirken kannst. Du erhälst anhand des Rangs die
 **Besonders**  
 Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erwerben kannst, kannst du auch die Fertigkeit selbst mehrmals erhalten und jedes Mal ein weiteres Wohl wählen. Der Rang der Fertigkeit für dieses neue Wohl ist unabhängig von allen anderen Rängen, die du in dieser Fertigkeit für andere Wohle hast.
 
-> Tags: Außergewöhnlich, Passiv, Wohl
+> Tags: Außergewöhnlich, Passiv, Wohl  
+> Englischer Titel: _Boon Focus (I - III)_
 
 ___
+
 ### Wohlhabend
 **Kosten:** 3 Punkte
 
@@ -1391,9 +1529,11 @@ Ob du als Aristokrat geboren wurdest, altes Geld in deiner Familie liegt, du ein
 **Effekt**  
 Dein Wohlstandswert ist um 1 erhöht.
 
-> Tags: Nicht-Kampf
+> Tags: Nicht-Kampf  
+> Englischer Titel: _Wealthy_
 
 ___
+
 ### Wohlzugang
 **Kosten:** 1 Punkt
 
@@ -1412,9 +1552,11 @@ Du kannst diese Fertigkeit mehrmals erwerben. Jedes Mal wählst du ein neues Woh
 Da diese Fertigkeit mächtige Wohle freischalten kann, die einen großen Einfluss auf den Verlauf der Geschichte haben können, muss das Erlangen von Wohlen mit Kraftlevel 6 oder höher vom GM je nach Angemessenheit abgesegnet werden.
 Falls du zu einem späteren Zeitpunkt die Attributvoraussetzungen des gewählten Wohls auf normalen Weg erreichst, kannst du dich entscheiden, diese Fertigkeit zu verlieren und die dafür ausgegebenen Fertigkeitenpunkte zurückzuerhalten. Danach kannst du sie neu ausgeben, wie es dir beliebt.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Boon Access_
 
 ___
+
 ### Wächter (I - III)
 **Kosten:** 3 Punkte
 
@@ -1429,9 +1571,11 @@ Deine erhöhte Aufmerksamkeit auf dem Schlachtfeld bedeutet, dass es fast unmög
 **Effekt**  
 Einmal pro Runde, nachdem du deine große Aktion der nächsten Runde für eine Verteidigungsaktion genutzt hast, erhälst du eine weitere große Aktion, die nur vor dem Beginn deines nächsten Zuges und nur für eine Verteidigungsaktion genutzt werden kann. Höhere Ränge dieser Fertigkeit geben jeweils eine weitere große Aktion, die nur für eine Verteidigungsaktion und nur vor deinem nächsten Zug genutzt werden können.
 
-> Tags: Verteidigung, Körperlich, Außergewöhnlich
+> Tags: Verteidigung, Körperlich, Außergewöhnlich  
+> Englischer Titel: _Sentinel (I - III)_
 
 ___
+
 ### Zermalmender Treffer
 **Kosten:** 3 Punkte
 
@@ -1444,9 +1588,11 @@ Wie ein leichtsinniger Oger, der durch den Kampf wadet, werfen deine unermüdlic
 **Effekt**  
 Wann immer du einem Feind Schaden zufügst, kannst du sie nicht nur durch die Fertigkeit Überwältigender Schlag 5' zurückschieben (wenn du möchtest), sondern sie auch dort zu Boden werfen, wo die erzwungene Bewegung endete. Das Ziel erleidet den Harm <em>Niedergeschlagen</em>.
 
-> Tags: Körperlich, Kampf, Fertigkeitenkette, Kraft
+> Tags: Körperlich, Kampf, Fertigkeitenkette, Kraft  
+> Englischer Titel: _Crushing Blow_
 
 ___
+
 ### Zerstörerische Trance
 **Kosten:** 3 Punkte
 
@@ -1459,9 +1605,11 @@ Im Kampfgetümmel wirst du zu einer zestörerischen Kraft, die ihresgleichen suc
 **Effekt**  
 Wenn du einen Angriffswurf in Kampftrance machst, explodieren alle Würfel mit ihrem Höchstwert oder der Zahl eins unter dem Höchstwert (der gefürfelte Wert selbst ändert sich aber nicht). Das bedeutet, dass ein d4 bei 3 oder 4 explodiert, ein d6 bei 5 oder 6, ein d8 bei 7 oder 8 und so weiter.
 
-> Tags: Außergewöhnlich, Kraft
+> Tags: Außergewöhnlich, Kraft  
+> Englischer Titel: _Destructive Trance_
 
 ___
+
 ### Zielwasser
 **Kosten:** 1 Punkt
 
@@ -1478,9 +1626,11 @@ Mit der von dir gewählten Waffe oder Angriffsart ist deine Reichweite verdoppel
 **Besonders**  
 Du kannst diese Fertigkeit mehrmals erhalten, wobei du jedes Mal neue Waffen oder Angriffstypen wählst.
 
-> Tags: Kampf
+> Tags: Kampf  
+> Englischer Titel: _Longshot_
 
 ___
+
 ### Zweiwaffenkämpfer
 **Kosten:** 3 Punkte
 
@@ -1493,9 +1643,11 @@ Du bist stark als auch schnell und in der Lage, in einer Hand Waffen zu führen,
 **Effekt**  
 Du kannst Waffen mit der Eigenschaft <em>zweihändig</em> in einer Hand führen und erhälst die Vorteile sowohl der <em>einhändig</em> als auch <em>zweihändig</em> Eigenschaften. Das bedeutet, dass du insgesamt Vorteil 2 erhälst, wenn du eine zweihändige Waffe in jeder Hand führst, Vorteil 1 von der Kraft zweihändiger Waffen und Vorteil 1 davon, dass du in jeder Hand eine Waffe führst.
 
-> Tags: Kampf, Körperlich, Geschicklichkeit, Kraft
+> Tags: Kampf, Körperlich, Geschicklichkeit, Kraft  
+> Englischer Titel: _Two Weapon Brute_
 
 ___
+
 ### Zweiwaffenverteidigung
 **Kosten:** 2 Punkte
 
@@ -1508,9 +1660,11 @@ Deine Meisterschaft im Kämpfen mit zwei Waffen erlaubt es dir, Feinde nicht nur
 **Effekt**  
 Wenn du eine Waffe, für die du die Fertigkeit <em>Angriffsspezialisierung</em> erworben hast, in jeder Hand führst, erhälst du +1 Rüstungsbonus auf deine Deckung.
 
-> Tags: Kampf, Körperlich, Geschicklichkeit
+> Tags: Kampf, Körperlich, Geschicklichkeit  
+> Englischer Titel: _Two Weapon Defense_
 
 ___
+
 ### Zäh wie Leder (I - II)
 **Kosten:** 2 Punkte
 
@@ -1524,6 +1678,8 @@ Du hast eine besonders hohe Schmerztoleranz. Diese Fertigkeit könnte von einem 
 **Effekt**  
 Du erhälst pro Rang dieser Fertigkeit permanent 5 extra TP.
 
-> Tags: Verteidigung, Körperlich, Konstitution
+> Tags: Verteidigung, Körperlich, Konstitution  
+> Englischer Titel: _Tough as Nails (I - II)_
 
 ___
+

@@ -37,9 +37,11 @@ Anhaltender Schaden kann unterschiedliche Variationen haben: unter anderem körp
 </ul>
 Diesem Harm kann auch durch die normale Nutzung einer Bewegungsaktion zum Widerstehen von Harmen aufgelöst werden.
 
-> Tags: Außergewöhnlich, Körperlich
+> Tags: Außergewöhnlich, Körperlich  
+> Englischer Titel: _Persistent Damage_
 
 ___
+
 ### Annullieren
 **Dauer:** Augenblicklich
 
@@ -72,9 +74,11 @@ Du löst ein einziges aktives Wohl mit Kraftlevel gleich der Wirkung dieses Harm
 **Besonders**  
 Wenn das Wohl, das aufgelöst werden soll, eine Fläche abdeckt, kannst du es auflösen, indem du einen beliebigen Abschnitt davon anvisierst, den du sehen kannst oder indem du eine Reihe an 5' Würfeln als Ziele setzt, in denen du die Wirkung des Wohls vermutest. Falls das Wohl eine Fläche abdeckt, statt auf einer Kreatur zu liegen, wirfst du gegen einen HW des Wohls anstatt gegen eine Entschlossenheit-Verteidigung. Der HW ist 10 + 2 x Kraftlevel des Wohls.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Nullify_
 
 ___
+
 ### Benommen
 **Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
@@ -96,9 +100,11 @@ Das Ziel hat einen benebelten Geist, sodass seine mentale Verteidigung verringer
 **Besonders**  
 Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel sich dem Harm überhaupt bewusst ist. Das Unterbewusstsein des Ziels ist zwar magisch unterdrückt, kämpft aber konstant um Kontrolle. Aus diesem Grund erhält das Ziel am Ende seines Zuges einen Widerstandswurf als kostenlose Aktion spezifisch gegen diesen Harm. Jeder Angriff, der dem Ziel physischen oder geistigen Schaden zufügt, gibt ihm einen weiteren kostenlosen Widerstandswurf. Aktionen, die ein wildes Tier verschrecken würden (von einem geworfenen Stein getroffen werden, geohrfeigt werden, usw. ...) geben dem Ziel auch einen kostenlosen Widerstandswurf. Anders als normale Widerstandswürfe, zählen diese kostenlos erhaltenen Würfe nicht gegen das normale Limit von 3 fehlgeschlagenen Widerstandswürfen, bevor der Harm länger anhält. Hat das Ziel bei einem Widerstandswurf Erfolg, so wird es für 24 Stunden immun gegen alle weiteren Versuche durch dich, diesen Harm auf es zu wirken.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Stupefied_
 
 ___
+
 ### Betäubt
 **Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
@@ -123,9 +129,11 @@ Im Ziel kann in seinem Zug nur eine einzige große Aktion, Bewegungsaktion oder 
 **Besonders**  
 Dieser Harm hat besondere Regeln für Boss-NPCs (siehe [Kapitel 8: Das Spiel leiten](./../Kapitel-8_Das-Spiel-leiten.md)). Ein Boss unterliegt dem Effekt von Betäubt nur in seinem normalen Zug in der Initiativereihenfolge. Er kann all seine Boss-Aktionen wie normal ausführen.
 
-> Tags: Außergewöhnlich, Körperlich
+> Tags: Außergewöhnlich, Körperlich  
+> Englischer Titel: _Stunned_
 
 ___
+
 ### Bewusstlos
 **Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
@@ -154,9 +162,11 @@ Das Ziel ist immobilisiert (kann sich nicht von seinem momentanen Platz bewegen)
 **Besonders**  
 Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel sich seiner Position bewusst ist. Der Körper des Ziels kämpft aber darum, das Bewusstsein wiederzuerlangen. Am Ende jedes Zuges erhält das Ziel einen Widerstandswurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel mit dem Widerstehen Erfolg, so ist es für die nächste Stunde gegen alle weiteren Versuche durch dich, es bewusstlos zu machen, immun.
 
-> Tags: Außergewöhnlich, Körperlich
+> Tags: Außergewöhnlich, Körperlich  
+> Englischer Titel: _Incapacitated_
 
 ___
+
 ### Bezaubert
 **Dauer:** Widerstehen beendet (Besonders) (3 Fehlschläge = 24 Stunden)
 
@@ -186,9 +196,11 @@ Das Ziel ist mental dazu angehalten, dich mehr zu mögen und dir mehr zu vertrau
 **Besonders**  
 Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel sich dem Harm überhaupt bewusst ist. Das Unterbewusstsein des Ziels ist zwar magisch unterdrückt, kämpft aber konstant um Kontrolle. Aus diesem Grund erhält das Ziel am Ende seines Zuges einen Widerstandswurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel beim Widerstandswurf Erfolg, so wird es für 24 Stunden immun gegen alle weiteren Versuche durch dich, es wieder zu bezaubern.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Charmed_
 
 ___
+
 ### Demoralisiert
 **Dauer:** Widerstehen (Klein) beendet (3 Fehlschläge = 1 Minute)
 
@@ -222,9 +234,11 @@ Das Ziel hat Nachteil anhand des Kraftlevels auf alle Aktionswürfe.
 Diesem Harm zu Widerstehen ist eine kleine Aktion.
 Wird dieser Harm durch Geschicklichkeit oder Kraft gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus [Kapitel 7: Kampf](./../Kapitel-7_Kampf.md) bestimmen.
 
-> Tags: Körperlich, Außergewöhnlich
+> Tags: Körperlich, Außergewöhnlich  
+> Englischer Titel: _Demoralized_
 
 ___
+
 ### Dominiert
 **Dauer:** Besonders
 
@@ -253,9 +267,11 @@ Der Harm Dominiert kann sich auf zwei Graden ausdrücken: oberflächlich und tie
 **Besonders**  
 Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel sich dem Harm überhaupt bewusst ist. Das Unterbewusstsein des Ziels ist zwar magisch unterdrückt, kämpft aber konstant um Kontrolle. Aus diesem Grund erhält das Ziel am Ende seines Zuges einen Widerstandswurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel beim Widerstandswurf Erfolg, so wird es für 24 Stunden immun gegen alle weiteren Versuche durch dich, es wieder zu dominieren.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Dominated_
 
 ___
+
 ### Entwaffnet
 **Dauer:** Augenblicklich
 
@@ -283,9 +299,11 @@ Du zwingst einen Feind, die Kontroller über ein Objekt zu verlieren, das er fes
 <li><strong>Kraftlevel 6</strong> - Als Alternative dazu, den Gegenstand zu bewegen, kannst du auch entscheiden, die Kontrolle darüber zu übernehmen. Falls du dich dafür entscheidest, wirst du der das Objekt führende Charakter. Um die Kontrolle wiederzuerlangen, kann der ursprüngliche Charakter selbst mit einem Entwaffnet-Harm reagieren, um den Effekt zu kontern oder einen Attributwurf (typischerweise Kraft) mit einem Herausforderungswert von 10 + 2 x Attributwert des den Harm wirkenden Charakters nutzen.</li>
 </ul>
 
-> Tags: Außergewöhnlich, Körperlich
+> Tags: Außergewöhnlich, Körperlich  
+> Englischer Titel: _Disarmed_
 
 ___
+
 ### Erkrankt
 **Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
@@ -304,9 +322,11 @@ Energie des Vergehens überkommt das Ziel und bombardiert dessen Metabolismus, w
 **Effekt**  
 Das Ziel hat Nachteil 1 auf alle Aktionswürfe und -1 auf alle Verteidigungen.
 
-> Tags: Außergewöhnlich, Körperlich
+> Tags: Außergewöhnlich, Körperlich  
+> Englischer Titel: _Sickened_
 
 ___
+
 ### Erschöpft
 **Dauer:** Besonders
 
@@ -336,9 +356,11 @@ Dieser Harm hat mehrere Level, die nacheinander zugefügt werden. Jedes Mal, wen
 **Besonders**  
 Anders als bei anderen Harmen, braucht es Zeit und Ruhe, um diesen Harm zu lösen. Alle 24 Stunden, die ein Charakter mit wenig oder keiner Anstrengung ausruht, löst ein Level des Harms Erschöpft. Falls das Wohl <em>Wiederherstellung</em> erfolgreich gewirkt wird, um diesen Harm zu annulieren, wird nur ein Level von Erschöpft aufgehoben (zusätzlich zu Leveln, die möglicherweise durch Ruhe aufgehoben werden). Falls der genutzte Attributwert des Wirkers von <em>Wiederherstellung</em> 7 oder höher beträgt, werden stattdessen alle Level von Erschöpft aufgehoben. Ein Ziel kann nur einmal alle 24 Stunden durch das Wirken von <em>Wiederherstellung</em> ein Level Erschöpft annuliert bekommen.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Fatigued_
 
 ___
+
 ### Erzwungene Bewegung
 **Dauer:** Augenblicklich
 
@@ -366,9 +388,11 @@ Das Ziel wird eine durch das Kraftlevel bestimmte Distanz gegen seinen Willen be
 <li><strong>Kraftlevel 8</strong> - Das Ziel wird um 20' bewegt.</li>
 </ul>
 
-> Tags: Außergewöhnlich, Körperlich
+> Tags: Außergewöhnlich, Körperlich  
+> Englischer Titel: _Forced Move_
 
 ___
+
 ### Fernsicht
 **Dauer:** 10 Minuten (Besonders)
 
@@ -397,9 +421,11 @@ Du kannst eine Person oder ein Gebiet ausspionieren, mit dem du vertraut bist. D
 Wenn du diesen Harm erfolgreich wirkst kannst du zum Ende seiner Dauer einen Wurf auf Vorwissen machen, um zu versuchen, den Harm anhalten zu lassen. Bei Erfolg hält der Harm an, ohne die Wirkzeit erneut aufwenden zu müssen. Im Zielgebiet wird der Entschlossenheitswert der Betroffenen wieder mit deinem Wurfergebnis verglichen, um festzustellen, ob sie sich der Präsenz der Fernsicht bewusst werden.
 Du kannst Fernsicht beliebig oft auf das gleiche Ziel wirken, aber falls du deinen Aktionswurf zum Wirken verfehlst, ist das Ziel für die nächsten 24 Stunden immun.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Spying_
 
 ___
+
 ### Furcht
 **Dauer:** Besonders
 
@@ -425,9 +451,11 @@ In seinem Zug muss das betroffene Ziel seinen gesamten Zug nutzen, um sich so we
 Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel klar denken kann. Gleichzeitig kämpft der logische Teil des Geistes vom Ziel aber darum, die Kontrolle wiederzugewinnen. Am Ende jedes Zuges erhält das Ziel einen Widerstandswurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel mit dem Widerstehen Erfolg, so ist es für die nächste Stunde gegen alle weiteren Versuche durch dich, ihm Furcht einzuflößen, immun.
 Wird dieser Harm durch Kraft gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus [Kapitel 7: Kampf](./../Kapitel-7_Kampf.md) bestimmen.
 
-> Tags: Außergewöhnlich, Körperlich
+> Tags: Außergewöhnlich, Körperlich  
+> Englischer Titel: _Fear_
 
 ___
+
 ### Geblendet
 **Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
@@ -449,9 +477,11 @@ Du blendest deinen Feind mit einer massiven Explosion, einer handvoll Sand, eine
 **Effekt**  
 Das Ziel kann nicht sehen, solange der Effekt besteht. Das Ziel schlägt automatisch bei allen Wahrnehmungswürfen fehl, die sich nur auf seine Sehfähigkeit verlassen. Angriffswürfe und Wahrnehmungswürfe, die sich teilweise auf seine Sehfähigkeit verlassen erleiden Nachteil 5. Die Deckung des Ziels ist um 3 reduziert.
 
-> Tags: Außergewöhnlich, Körperlich
+> Tags: Außergewöhnlich, Körperlich  
+> Englischer Titel: _Blinded_
 
 ___
+
 ### Gedankenraub
 **Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
@@ -479,9 +509,11 @@ Du blickst in den Geist einer Kreatur und liest ihre Gedanken. Die mächtigsten 
 **Besonders**  
 Hat dein Ziel Erfolg mit seinem Widerstandswurf gegen diesen Harm, wird es für die nächsten 24 Stunden immun gegen alle weiteren Versuche durch dich, es erneut mit diesem Harm zu belegen.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Mind Dredge_
 
 ___
+
 ### Gedächtnismanipulation
 **Dauer:** Augenblicklich
 
@@ -510,9 +542,11 @@ Dieser Harm gibt dem wirkenden Charakter kein Wissen über den Inhalt der Erinne
 **Besonders**  
 Denn du bei deinem Aktionswurf zum Zufügen dieses Harms fehlschlägst, ist das Ziel für die nächsten 24 Stunden immun gegen weitere Versuche durch dich, es mit diesem Harm zu belegen.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Memory Alteration_
 
 ___
+
 ### Immobilisiert
 **Dauer:** Widerstehen beendet (Besonders) (3 Fehlschläge = 1 Minute)
 
@@ -543,9 +577,11 @@ Du kannst dich entscheiden, das Ziel als kostenlose Aktion freizugeben, was den 
 **Besonders**  
 Hat ein betroffenes Ziel mit einem Widerstandswurf Erfolg, um diesen Harm zu brechen, kann es sich bis zu 15' als kostenlose Aktion bewegen.
 
-> Tags: Außergewöhnlich, Körperlich
+> Tags: Außergewöhnlich, Körperlich  
+> Englischer Titel: _Immobile_
 
 ___
+
 ### Niedergeschlagen
 **Dauer:** Augenblicklich
 
@@ -567,9 +603,11 @@ Egal ob durch einen donnernden Schlag deiner Axt, einen überwältigenden Strahl
 **Effekt**  
 Das Ziel fällt zu Boden. Ziele am Boden haben Nachteil 1 auf alle Angriffe, die sich ausführen. Charaktere, die am Boden liegen, haben +2 Deckung gegen Fernkampfangriffe und -2 Deckung auf Nahkampfangriffe. Aufzustehen bedarf einer Bewegungsaktion und kostet einen Charakter die Hälfte (abgerundet) seiner Geschwindigkeit für die Runde.
 
-> Tags: Außergewöhnlich, Körperlich
+> Tags: Außergewöhnlich, Körperlich  
+> Englischer Titel: _Knockdown_
 
 ___
+
 ### Phantom
 **Dauer:** Besonders
 
@@ -606,9 +644,11 @@ Falls die Illusion eine Person, einen oder oder ein Objekt nachahmt, mit dem die
 Charaktere, die von einem Phantom überzeugt sind, können normale Widerstandswürfe machen, um den Harm abzuschütteln. Falls sie Erfolg haben, werden sie nicht weiter durch die Illusion getäuscht. Weiterhin musst du jede Runde eine kleine Aktion nutzen, um den Harm aufrechtzuerhalten. Tust du dies nicht, löst sich das Phantom zum Ende deines Zuges auf.
 Hat ein betroffener Charakter mit seinem Widerstandswurf Erfolg, so ist er für 1 Stunde immun gegen alle weiteren Phantome, die von dir gewirkt werden.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Phantasm_
 
 ___
+
 ### Polymorph
 **Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Stunde)
 
@@ -634,9 +674,11 @@ Dein Kraftlevel bestimmt das Ausmaß, bis zu dem du dein Ziel verwandeln kannst.
 </ul>
 Um seine Trefferpunkte im Blick zu behalten, sollte das Ziel den gesamten Schaden festhalten, den es erlitten hat. Bei der Verwandlung bleibt der Schaden erhalten, selbst wenn maximale Trefferpunkte sich verändern. Beispielsweise hat Agent Walker maximal 20 TP, wurde aber in ein Schaf verwandelt und hat so 2 Konstitutionspunkte verloren, weshalb sie jetzt nur noch maximal 16 TP hat. Im Kampf erleidet sie 10 Schaden. Als sie sich später zurückverwandelt, bleiben die 10 Schaden erhalten und werden von ihrem neuen Maximum subtrahiert, sodass sie 10 von 20 TP hat. Falls die Verwandlung die TP des Ziels auf weniger als 1 reduziert, wird das neue TP-Maximum stattdessen 1.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Polymorph_
 
 ___
+
 ### Provoziert
 **Dauer:** Widerstehen (Klein) beendet (3 Fehlschläge = 1 Minute)
 
@@ -674,9 +716,11 @@ Alle Angriffe, die das Ziel nicht gegen dich ausführt, erleiden Nachteil. Falls
 Diesem Harm zu widerstehen ist eine kleine Aktion.
 Wird dieser Harm mit Kraft oder Geschicklichkeit gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus [Kapitel 7: Kampf](./../Kapitel-7_Kampf.md) bestimmen.
 
-> Tags: Außergewöhnlich, Körperlich
+> Tags: Außergewöhnlich, Körperlich  
+> Englischer Titel: _Provoked_
 
 ___
+
 ### Taub
 **Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
@@ -697,9 +741,11 @@ Du lässt deinen Feind nach einem Donnerschlag, schnellem Tritt gegen das Ohr od
 **Effekt**  
 Das Ziel kann nichts hören, solange der Harm anhält. Das Ziel schlägt automatsich bei Wahrnehmungswürfen fehl, die sich auf das Gehör verlassen. Wahrnehmungswürfe, die sich teilweise auf das Gehör verlassen erleiden Nachteil 3.
 
-> Tags: Außergewöhnlich, Körperlich
+> Tags: Außergewöhnlich, Körperlich  
+> Englischer Titel: _Deafened_
 
 ___
+
 ### Tod
 **Dauer:** Widerstehen beendet (Besonders) (3 Fehlschläge = Permanent)
 
@@ -723,9 +769,11 @@ Falls das Ziel bei drei Widerstandswürfen gegen diesen Harm fehlschlägt, stirb
 **Besonders**  
 Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel Aktionen ausführt und so auch, dass es dem Harm entkommen kann. Der Körper des Ziels kämpft aber instinktiv gegen die Wirkung des Harms an und versucht, dem kommenden Tod zu widerstehen. Am Ende jedes Zuges des Ziels erhält das Ziel einen Widerstandswurf als kostenlose Aktion, um diesem Harm zu widerstehen. Hat das Ziel Erfolg bei einem Widerstandswurf gegen diesen Harm, ist es danach für 24 Stunden immun gegen weitere Versuche durch dich, diesen Harm auf es zu wirken. 
 
-> Tags: Außergewöhnlich, Körperlich
+> Tags: Außergewöhnlich, Körperlich  
+> Englischer Titel: _Death_
 
 ___
+
 ### Verlangsamt
 **Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
@@ -748,9 +796,11 @@ Die Bewegung des Ziels ist erschwert, z.B. durch extreme Kälte, andauernde Hitz
 **Effekt**  
 Die Geschwindigkeit des betroffenen Ziels ist um die Hälfte reduziert, abgerundet zum nächsten Vielfachen von 5'. Das gilt für alle körperliche Bewegung (Flug, Laufen, Klettern, usw. ...). Falls das Ziel momentan einen magischen Effekt hat, der seine Geschwindigkeit erhöht, neutralisieren sich beide Effekte, solange sie auf das Ziel wirken.
 
-> Tags: Außergewöhnlich, Körperlich
+> Tags: Außergewöhnlich, Körperlich  
+> Englischer Titel: _Slowed_
 
 ___
+
 ### Verstummt
 **Dauer:** Widerstehen beendet (3 Fehlschläge = 1 Minute)
 
@@ -772,9 +822,11 @@ Stille breitet sich um das Ziel aus, egal ob durch das Manipulieren von Schallwe
 **Effekt**  
 Falls Kraft, Geschicklichkeit oder Vergehen benutzt wurden, um diesen Harm zu wirken, leidet der Charakter und Erwürgung und kann nicht sprechen. Falls der Harm mit Wandlung gewirkt wurde, dann erlischt aller Klang innerhalb von 5' um das Ziel durch außergewöhnliche Mittel, sodass z.B. ihre Schritte stumm sind und das Klappern von Ausrüstung nicht gehört werden kann.
 
-> Tags: Außergewöhnlich, Körperlich
+> Tags: Außergewöhnlich, Körperlich  
+> Englischer Titel: _Silenced_
 
 ___
+
 ### Wahrheitsgebunden
 **Dauer:** 10 Minuten (Besonders)
 
@@ -797,6 +849,8 @@ Das Ziel beantwortet alle Fragen so gut es kann ehrlich. Falls eine Antwort etwa
 Wenn du den Harm erfolgreich wirkst, kannst du zum Ende seiner Dauer einen weiteren Einflusswurf machen, um den Harm zu verlängern. Bei Erfolg hält der Harm an, ohne dass du erneut die Wirkzeit aufbringen musst.
 Hat ein Ziel beim bestrittenen Wurf Willenskraft gegen deinen Einfluss Erfolg, wird es 24 Stunden gegen deine Wirkung dieses Harms immun.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Truthfulness_
 
 ___
+

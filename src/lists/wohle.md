@@ -19,9 +19,11 @@ Der GM, nicht der Spieler, ist dafür verantwortlich, die Attribute und Fähigke
 <li><strong>Kraftlevel 8 - </strong> Du kannst dich entscheiden, eine Gruppe Kreaturen zu animieren: Entweder 10 Kreaturen mit einem maximalen Attributwert von 2, 5 Kreaturen mit einem maximalen Attributwert von 3 oder 2 Kreaturen mit einem maximalen Attributwert von 5. Weiterhin kommen alle diese Kreaturen mit dem Harm <em>Tiefe Bezauberung</em> in ihre Existenz statt <em>leichte Bezauberung</em>.</li>
 </ul>
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Animation_
 
 ___
+
 ### Aura
 **Dauer:** Aufrechterhalten verlängert
 
@@ -50,9 +52,11 @@ Wähle einen einzigen Harm oder ein Wohl aus, die das gleiche Attribut nutzen, m
 **Besonders**  
 Dieses Wohl kann besondere Aufmerksamkeit und Abhandlung durch den GM erfordern, da nicht alle Harme und Wohle gut für die Nutzung als Aura geeignet sind. Telekinese zum Beispiel kann Verbündeten nicht gegeben werden und eignet sich so nicht als Aura.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Aura_
 
 ___
+
 ### Barriere
 **Dauer:** Aufrechterhalten verlängert
 
@@ -80,9 +84,11 @@ Wenn du dieses Wohl wirkst, musst du Multi-Zielen benutzen, um eine spezifische 
 <strong>Harmvoll:</strong> Wähle einen Harm, den du mit einem Kraftlevel gleich oder unter dem deiner Barriere wirken kannst. Wenn eine Kreatur innerhalb der Barriere ihren Zug beendet oder diese willentlich betritt, kannst du sofort eine Harmattacke mit dem gewählten Harm gegen sie durchführen. Eine Kreatur nur einmal pro Runde eine Harmattacke durch diese Barriere erleiden.<br>
 <strong>Mobil:</strong> Du kannst eine große Aktion nutzen, um die Barriere bis zu 30 Fuß zu bewegen.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Barrier_
 
 ___
+
 ### Blindsicht
 **Dauer:** Aufrechterhalten verlängert
 
@@ -98,9 +104,11 @@ Selbst bei absoluter Dunkelheit kannst du deine Umgebung ausmachen. Einige Beisp
 **Effekt**  
 Das Ziel ist immun gegen den *geblendet*-Harm und kann auch in Bedingungen mit wenig oder keinem Licht normal sehen. Blindsicht kann auch potentiell Unsichtbarkeit entgegenwirken, allerdings muss der GM hier entscheiden, ob die Quelle der Blindsicht tatsächlich die Quelle der Unsichtbarkeit invalidieren würde.
 
-> Tags: Außergewöhnlich, Körperlich
+> Tags: Außergewöhnlich, Körperlich  
+> Englischer Titel: _Blindsight_
 
 ___
+
 ### Detektion
 **Dauer:** Aufrechterhalten verlängert
 
@@ -126,9 +134,11 @@ Wenn du dieses Wohl wirkst, musst du eine Art von Aura auswählen, die du wahrne
 **Besonders**  
 Anders als bei anderen Wohlen, kann dieses Wohl nicht andere Charaktere als Ziel haben. Nur der Charakter, der dieses Wohl wirkt, kann die Auras wahrnehmen. Weiterhin kann der GM nach eigenem Abwägen viele andere Arten von Auras wahrnehmbar sein lassen, je nachdem ob diese für das Setting der Kampagne angemessen sind.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Detection_
 
 ___
+
 ### Dunkelheit
 **Dauer:** Aufrechterhalten verlängert
 
@@ -144,9 +154,11 @@ Du erschaffst ein Gebiet illusorischer Dunkelheit oder entropischer Energie, die
 **Effekt**  
 Wähle einen Raum oder ein Objekt in deiner Reichweite. Dunkelheit quillt aus dem Ziel hervor bis zu einem Radius von 5 Fuß pro Kraftlevel des Wohls. Dieser Effekt annuliert die Wirkung von allem natürlichen Licht innerhalb seines Radius und Kreaturen, die sich für ihre Sicht auf Licht verlassen, erleiden die gleichen Nachteile, als würden sie den *geblendet*-Harm haben, während sie in der Fläche dieses Wohls sind. Kreaturen, die sich für ihre Sicht nicht auf Licht verlassen (z.B. durch Vibrationssinne, Blindsicht, usw. ...) werden nicht eingeschränkt. Falls die Fläche der Dunkelheit sich mit der eines Licht-Wohls überschneidet, dann wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen in der betroffenen Fläche wieder die natürlichen Lichtverhältnisse, als gäbe es keine der beiden Wohle.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Darkness_
 
 ___
+
 ### Durchblick
 **Dauer:** Aufrechterhalten verlängert
 
@@ -168,9 +180,11 @@ Du gibst dem Ziel die Fähigkeit, das zu entdecken, was nicht durch normale Sinn
 <li><strong>Kraftlevel 9</strong> - Die übernatürliche Wahrnehmung des Ziels erlaubt es ihm, in andere Dimensionen oder Ebenen der Realität zu blicken. Es kann dimensionale Taschenräume erkennen und mit der eigenen Realität überlappende Ebenen durchschauen. Weiterhin ist seine Sichtweite stark erhöht.</li>
 </ul>
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Truesight_
 
 ___
+
 ### Flug
 **Dauer:** Aufrechterhalten verlängert
 
@@ -191,9 +205,11 @@ Indem ihm Flügel wachsen, es Antigrav-Technik aktiviert, telekinetische Kräfte
 </ul>
 Falls das Wohl annulliert wird, während das Ziel noch fliegt, beginnt es sofort, zu fallen.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Flight_
 
 ___
+
 ### Genesis
 **Dauer:** Augenblicklich
 
@@ -215,9 +231,11 @@ Du erschaffst etwas aus nichts. Je nach der Kraft deiner Wirkung, kannst du eine
 <li><strong>Kraftlevel 9</strong> - Du kannst nicht nur Rohmaterialien erschaffen, sondern <em>permanente</em> vollständige Gegenstände. Ein Handwerker ist trotzdem nötig, um das Resultat zu exzellenter Qualität weiterzuverarbeiten. Die Wirkzeit dieses Kraftlevels sind 8 Stunden.</li>
 </ul>
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Genesis_
 
 ___
+
 ### Gestaltwandel
 **Dauer:** Aufrechterhalten verlängert
 
@@ -249,9 +267,11 @@ Beschränkungen für die Verwandlung existieren je nach Kraftlevel des Wohls und
 **Besonders**  
 Sich in eine bestimmte Kreatur zu verwandeln (wobei man sich als diese ausgeben möchte) erfordert einen Täuschungswurf, der vom Wahrnehmungsattribut aller bestritten wird, die das verwandelte Ziel sehen. Weiterhin erhält das Ziel bei Kraftlevel 4 und niedriger keine Expertise in besonderen Bewegungsformen der neuen Form, sodass seine Geschwindigkeit in diesen neuen Bewegungsformen halbiert ist. Der GM kann außerdem entscheiden, dass manche Handlungen, die diese Bewegungsformen nutzen, z.B. unter Beschuss zu schwimmen, mit Nachteil durchgeführt werden.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Shapeshift_
 
 ___
+
 ### Hast
 **Dauer:** Aufrechterhalten verlängert
 
@@ -272,9 +292,11 @@ Das Ziel bewegt sich mit außergewöhnlicher Geschwindigkeit, weicht Angriffen m
 <li><strong>Kraftlevel 8</strong> - Die Geschwindigkeit des Ziels ist um 30' erhöht und es erhält +3 auf seine Deckung. Weiterhin kann das Ziel bis zu zwei weitere große Aktionen in seinem Zug ausführen. Diese Aktionen können aber nicht für eine Unterbrechungsaktion genutzt werden. Falls die erste weitere Aktion einen Wurf benötigt, wird dieser mit Nachteil 3 ausgeführt, die zweite weitere Aktion mit Nachteil 6.</li>
 </ul>
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Haste_
 
 ___
+
 ### Heilung
 **Dauer:** Augenblicklich
 
@@ -304,9 +326,11 @@ Wirf die unten für jedes Kraftlevel angegebenen Würfel. Die Würfel explodiere
 **Besonders**  
 Dieses Wohl heilt keinen tödlichen Schaden.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Heal_
 
 ___
+
 ### Kreatur beschwören
 **Dauer:** Aufrechterhalten verlängert
 
@@ -328,9 +352,11 @@ Dein NPC kann nicht in dem Zug handeln, in dem er beschwört wird. In jeder folg
 Von diesem Wohl beschworene Kreaturen können nicht geheilt werden, falls sie 0 TP erreichen. Sie sind permanent tot. Kreaturen, die durch dieses Wohl beschworen wurden, können dieses Wohl nicht nutzen.
 Multi-Zielen funktioniert für dieses Wohl nicht wie bei anderen Wohlen. Du kannst ein einziges Wirken dieses Wohls benutzen, um mehrere Kreaturen zu beschwören. Für jede weitere Kreatur, die du beschwören willst, hast du Nachteil 2 auf den Aktionswurf zum Wirken des Wohls. Effekte, die Nachteile durch Multi-Zielen verändern, funktionieren hierfür normal.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Summon Creature_
 
 ___
+
 ### Lebensraub
 **Dauer:** Aufrechterhalten verlängert
 
@@ -346,9 +372,11 @@ Wie der Biss eines Vampirs, so kann auch die seelenraubende Berührung eines sch
 **Effekt**  
 Während dieses Wohl anhält, heilt das Ziel sich selbst um die Hälfte (aufgerundet) des Schadens, den es mit jeder Attacke zufügt. Falls ein Angriff mehrere Feinde schädigt, heilt das Ziel sich um die Hälfte des gesamten Schadens, der allen Feinden zugefügt wurde.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Life Drain_
 
 ___
+
 ### Lesung
 **Dauer:** Aufrechterhalten verlängert
 
@@ -371,9 +399,11 @@ Wenn du dieses Wohl erfolgreich wirkst, erhälst du Informationen von einem Obje
 <li><strong>Kraftlevel 9</strong> - Das Ziel ist mit genug Zeit in der Lage, alle Erinnerungen hervorzurufen, die auf das Objekt oder den Ort eingeprägt sind. Du musst dafür deine Konzentration aufrechterhalten, wobei du alle 10 Minuten eine neue Vision der Vergangenheit des Objekts oder Ortes ergibt. Der GM bestimmt, in welcher Reihenfolge die Informationen aufgedeckt werden. Nach Abwägen des GM können verborgene oder besonders ferne Erinnerungen deutlich mehr Zeit benötigen, um gefunden zu werden.</li>
 </ul>
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Reading_
 
 ___
+
 ### Licht
 **Dauer:** Aufrechterhalten verlängert
 
@@ -389,9 +419,11 @@ Egal ob durch eine magische Beschwörung, Energiemanipulation oder einen anderen
 **Effekt**  
 Wähle einen Raum oder ein Objekt innerhalb deiner Reichweite. Außergewöhnliches Licht fließt vom Ziel aus bis zu einem Radius von 5' pro Kraftlevel des Wohls. Falls die Lichtfläche sich mit der Fläche eines Dunkelheitswohls überschneidet, wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen in der von beiden betroffenen Fläche wieder das ohne die Wohle herrschende Lichtumstände.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Light_
 
 ___
+
 ### Objekt absorbieren
 **Dauer:** Permanent
 
@@ -407,9 +439,11 @@ Indem du deinen physischen Körperaufbau neustrukturierst, einen extradimesional
 **Effekt**  
 Das Objekt verbleibt vollständig vor der Wahrnehmung anderer verborgen in deinem Körper, bis das Ziel es als kleine Aktion wieder hervorruft. Falls etwas passiert, was dieses Wohl auflöst (zum Beispiel das Wohl *nullifizieren*), wird das Objekt sofort aus dem Körper des Ziels herausgeholt, als wäre es absichtlich hervorgeholt.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Absorb Object_
 
 ___
+
 ### Regeneration
 **Dauer:** Aufrechterhalten verlängert
 
@@ -435,9 +469,11 @@ Während das Wohl Regeneration aufrechterhalten wird, heilt das Ziel Trefferpunk
 **Besonders**  
 Dieses Wohl heilt keinen tödlichen Schaden.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Regeneration_
 
 ___
+
 ### Resistenz
 **Dauer:** Aufrechterhalten verlängert
 
@@ -459,9 +495,11 @@ Wenn das Wohl gewirkt wird, wählt der wirkende Charakter eine Art von Angriff u
 <li><strong>Kraftlevel 9</strong> - Das Ziel ist immun gegen Schaden und schadvolle Effekte durch Angriffe der gewählten Art.</li
 </ul>
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Resistance_
 
 ___
+
 ### Substanzlos
 **Dauer:** Aufrechterhalten verlängert
 
@@ -478,9 +516,11 @@ Wird eine Kreatur substanzlos, so ist sie nicht mehr an physische Barrieren gebu
 Das Ziel erhält die Fähigkeit, frei durch alle physischen Barrieren zu passieren, als wären diese leerer Raum. Weiterhin können sie sich frei in jede Richtung sowohl horizontal als auch vertikal mit ihrer Grundgeschwindigkeit bewegen (30' für die meisten Charaktere). Während sie substanzlos sind ist das Ziel immun gegen alle Attacken, die auf Deckung oder Zähigkeit zielen. Sie können aber selbst auch keine Angriffe gegen Deckung oder Zähigkeit ausführen.
 Falls die Konzentration des Ziel unterbrochen wird oder das Wohl endet, während das Ziel in einer festen Struktur ist, wird das Ziel gewaltsam in die alternative Ebene versetzt, die es für seine substanzlosigkeit genutzt hat (typischerweise eine andere Dimension oder Realitätsebene).
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Insubstantial_
 
 ___
+
 ### Telekinese
 **Dauer:** Aufrechterhalten verlängert
 
@@ -502,9 +542,11 @@ Sobald du das Wohl wirkst und darauf in jeder folgenden Runde, wenn du das Wohl 
 <li><strong>Kraftlevel 9</strong> - Das Objekt muss kleiner als 20 Kubikfuß sein oder leichter als 10.000 Pfund.</li>
 </ul>
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Telekinesis_
 
 ___
+
 ### Telepathie
 **Dauer:** Aufrechterhalten verlängert
 
@@ -526,9 +568,11 @@ Du und dein Ziel können miteinander durch einfaches Denken kommunizieren. Telep
 <li><strong>Kraftlevel 7</strong> - Du kannst telepathisch mit allen Kreaturen kommunizieren, die du sehen kannst.</li>
 </ul>
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Telepathy_
 
 ___
+
 ### Teleportation
 **Dauer:** Augenblicklich
 
@@ -549,9 +593,11 @@ Du kannst dich selbst oder einen Verbündeten augenblicklich von einem Ort zu ei
 <li><strong>Kraftlevel 9</strong> - Indem du die gleiche längere Wirkzeit von Kraftlevel 7 nutzt, kannst du dein Ziel an einen beliebigen Ort ohre Reichweitenbeschränkung teleportieren (wobei du trotzdem für jede Meile eine Minute wirken musst), solange du den Zielort selbst schonmal gesehen hast (durch normale oder magische Mittel).</li>
 </ul>
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Teleport_
 
 ___
+
 ### Transmutation
 **Dauer:** Aufrechterhalten verlängert
 
@@ -574,9 +620,11 @@ Das Kraftlevel bestimmt die Art von Materie, die du transmutieren kannst sowie d
 <li><strong>Kraftlevel 9</strong> - Transmutiere ein simples Objekt <em>permanent</em> in ein einfaches oder komplexes Objekt. Das resultierende Objekt muss Wohlstandswert 2 oder niedriger entsprechen.</li>
 </ul>
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Transmutation_
 
 ___
+
 ### Treusicht
 **Dauer:** Aufrechterhalten verlängert
 
@@ -600,9 +648,11 @@ Solange du dich konzentrierst, kannst du durch die Augen deines Ziels sehen, das
 **Besonders**  
 Falls dein Aktionswurf fehlschlägt, kannst du mit diesem Wohl für 1 Stunde nicht den gleichen Verbündeten als Ziel wählen.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Seeing_
 
 ___
+
 ### Unsichtbar
 **Dauer:** Aufrechterhalten verlängert
 
@@ -623,9 +673,11 @@ Licht scheint durch das Ziel hindurch, sodass es transparent wird. Seine physisc
 <li><strong>Kraftlevel 6</strong> - Vorteil 5 auf Verstecken, +5 Deckung gegen Nah- und Fernkampfangriffe, -4 Deckung für angegriffene Kreaturen, die dich nicht sehen können.</li>
 </ul>
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Invisible_
 
 ___
+
 ### Verborgenheit
 **Dauer:** Aufrechterhalten verlängert
 
@@ -655,9 +707,11 @@ Du kannst nicht Ziel von Gelegenheitsangriffen werden, außer der Gegner ist sic
 <li><strong>Kraftlevel 8</strong> - Der Wirker kann sich vor bis zu allen Sinnen gleichzeitig verstecken.</li>
 </ul>
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Concealment_
 
 ___
+
 ### Versorgung
 **Dauer:** 24 Stunden
 
@@ -683,9 +737,11 @@ Du schützt das Ziel vor einer Umgebungsgefahr, einer biologischen Notwendigkeit
 **Besonders**  
 Du kannst nur eine Instanz dieses Wohls auf einmal aktiv haben. Sobald du das Wohl wirkst, werden alle vorigen Wirkungen automatisch aufgelöst.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Sustenance_
 
 ___
+
 ### Verstärken
 **Dauer:** Aufrechterhalten verlängert
 
@@ -706,9 +762,11 @@ Wähle ein einziges Attribut. Dein Ziel erhält Vorteil auf Aktionswürfe mit di
 <li><strong>Kraftlevel 8</strong> - Vorteil 3</li>
 </ul>
 
-> Tags: Außergewöhnlich, Körperlich
+> Tags: Außergewöhnlich, Körperlich  
+> Englischer Titel: _Bolster_
 
 ___
+
 ### Voraussicht
 **Dauer:** 1 Runde
 
@@ -729,9 +787,11 @@ Du blickst in die Zukunft und erhälst so Wissen über den Verlauf einer Handlun
 <li><strong>Kraftlevel 7</strong> - Das Ziel wählt ein bestimmtes Ereignis, eine Entscheidung, Person, einen Ort usw.. Nachdem das Wohl gewirkt wurde, beginnt das Ziel, übernatürliche Erlebnisse zu haben (Visionen, Trancen, Träume, außerkörperliche Erfahrungen, usw. ...), durch die der GM detaillierte Informationen über das gewählte Thema kommuniziert. Du kannst nur ein solches Thema auf einmal haben, Konzentration ist aber nicht nötig, um dieses aufrechtzuerhalten. Die Verbindung kannst du selbst beenden, oder aber sie endet, wenn du zu einem neuen Thema wechselst.</li>
 </ul>
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Precognition_
 
 ___
+
 ### Wiederherstellung
 **Dauer:** Augenblicklich
 
@@ -761,9 +821,11 @@ Du kannst alle Harme auf einem Kraftlevel unter oder gleich dem Kraftlevel diese
 **Besonders**  
 Du kannst auch Harme über dem Kraftlevel dieses Wohls auflösen. Dafür muss das Wohl mit einem Aktionswurf gewirkt worden sein (diese Anwendung kann also nicht durch automatischen Erfolg wie bei der Fertigkeit <em>Wohlfokus</em> erreicht werden). Der Herausforderungswert, um einen Harm höheren Kraftlevels zu lösen ist gleich 20 + 2 x Kraftlevel des Harms. Ein Harm von Kraftlevel 9 kann also mit einem Wurfergebnis von 38 beim Aktionswurf für dieses Wohl aufgelöst werden, selbst wenn der wirkende Charakter keinen Attributwert von 9 im genutzten Attribut hat.
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Restoration_
 
 ___
+
 ### Zungen
 **Dauer:** Aufrechterhalten verlängert
 
@@ -782,6 +844,8 @@ Du oder ein Verbündeter erhalten temporär die Fähigkeit, Sprachen zu sprechen
 <li><strong>Kraftlevel 6</strong> - Dein Ziel kann eine Sprache deiner Wahl lesen.</li>
 </ul>
 
-> Tags: Außergewöhnlich
+> Tags: Außergewöhnlich  
+> Englischer Titel: _Tongues_
 
 ___
+
