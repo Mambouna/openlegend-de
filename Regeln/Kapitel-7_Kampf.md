@@ -182,11 +182,11 @@ Flächenattacken sind grundsätzlich nur mit außergewöhnlichen Attributen mög
 </table>
 
 #### Mit einem Harm angreifen
-Anstatt zu versuchen, einem Ziel Schaden zuzufügen, kannst du dich stattdessen entscheiden, einen Harm auf einen Feind zu wirken. Um einen Harm zu wirken, musst du ein passendes Attribut mit einem Wert gleich des Kraftlevels des Harmen haben, wie in der [Harmbeschreibung](./lists/harme.md) aufgeführt. Ziele können unter mehreren Harmen leiden, aber der gleiche Harm kann nicht mehrmals auf einem Ziel liegen, außer dies ist im Effekt des Harmes explizit angegeben (z.B. *Erschöpft*).
+Anstatt zu versuchen, einem Ziel Schaden zuzufügen, kannst du dich stattdessen entscheiden, einen Harm auf einen Feind zu wirken. Um einen Harm zu wirken, musst du ein passendes Attribut mit einem Wert gleich des Kraftlevels des Harmen haben, wie in der [Harmbeschreibung](./Listen/Harme.md) aufgeführt. Ziele können unter mehreren Harmen leiden, aber der gleiche Harm kann nicht mehrmals auf einem Ziel liegen, außer dies ist im Effekt des Harmes explizit angegeben (z.B. *Erschöpft*).
 
 Einen Harmangriff abzuhandeln funktioniert ähnlich, wie einen Angriff mit Schaden auszuführen:
 
-1. **Attribut vs. Verteidigung feststellen.** Die [Harmbeschreibung](./lists/harme.md) gibt an, welche Attribute für den Harm benutzt werden können und gegen welche Verteidigung sie gehen.
+1. **Attribut vs. Verteidigung feststellen.** Die [Harmbeschreibung](./Listen/Harme.md) gibt an, welche Attribute für den Harm benutzt werden können und gegen welche Verteidigung sie gehen.
 2. **Ziel auswählen.** Ein Ziel für einen Harm auszuwählen funktioniert genauso, wie bei einem Angriff mit Schaden, auch im Fall von Multi-Zielen. Harme mit Geschicklichkeit oder Kraft als Attribut benötigen zum Ausführen eine Waffe oder natürliche Angriffsmöglichkeit, sodass ihre Reichweite auf die der genutzten Angriffsmethode beschränkt ist.
 3. **Wirf deinen Angriffswurf.** Wirf einen Aktionswurf mit dem passenden Attribut. Falls das Ergebnis die Verteidigung deines Ziels trifft oder überschreitet, erleidet das Ziel den Harm.
 
@@ -197,10 +197,10 @@ Einen Harmangriff abzuhandeln funktioniert ähnlich, wie einen Angriff mit Schad
 > ___
 > Zarthakis, der große Wyrm, wird von 4 Abenteurern umringt. Er entfaltet seine mächtigen Schwingen und gibt ein schreckliches Brüllen von sich, mit dem er den Harm *Demoralisiert* mit seinem Präsenz-Attribut zufügen will. Die Präsenz des Drachen ist 8, sodass er eine Reichweite von 75' hat, was ohne Probleme für alle Abenteurer reicht. Weil Zarthakis 4 Gegner durch Multi-Zielen angreift, erhält er Nachteil 4 auf seinen Wurf. Normalerweise würde er 1d20 + 3d8 werfen, aber aufgrund des Nachteils wirft er 1d20 + 7d8 (wobei die vier höchsten Würfel verfallen). Sein Endwert ist 22, was er jeweils mit der Entschlossenheit-Verteidigung der Helden vergleicht. Die Charaktere haben Entschlossenheit von 14, 17, 22 und 25. Der Drache fügt drei der vier Abenteurer *Demoralisiert* zu.
 #### Ein Wohl wirken
-Du kannst ein Wohl wirken, um dir oder Verbündeten zu helfen. Um ein Wohl zu wirken, musst du ein passendes Attribut mit mindestens einem Wert gleich dem Kraftlevel des Wohls besitzen, so wie in der [Beschreibung des Wohls](./lists/wohle.md) angegeben. Befolge diese Schritte, um das Wohl anzuwenden:
+Du kannst ein Wohl wirken, um dir oder Verbündeten zu helfen. Um ein Wohl zu wirken, musst du ein passendes Attribut mit mindestens einem Wert gleich dem Kraftlevel des Wohls besitzen, so wie in der [Beschreibung des Wohls](./Listen/Wohle.md) angegeben. Befolge diese Schritte, um das Wohl anzuwenden:
 
 1. **Wähle ein Ziel.** Ein Ziel für ein Wohl zu wählen und die Reichweite eines Wohls festzustellen ist identisch zum Prozess, ein Ziel für einen Angriff mit Schaden auszuwählen, auch in Bezug auf Multi-Zielen. Wenn du das Wohl später aufrechterhälst, gilt dies für alle Ziele, die von der ursprünglichen Anwendung des Wohls betroffen wurden.
-2. **Wirf zum Wirken.** Mache einen Aktionswurf mit den gewählten Attribut, wie in der [Beschreibung des Wohls](./lists/wohle.md) aufgeführt.
+2. **Wirf zum Wirken.** Mache einen Aktionswurf mit den gewählten Attribut, wie in der [Beschreibung des Wohls](./Listen/Wohle.md) aufgeführt.
 3. **Ermittle das Kraftlevel.** Manche Wohle haben nur ein einziges Kraftlevel, während andere mit verschieden viel Macht gewirkt werden können. Nutze die *Wohl Herausforderungswert*-Tabelle, um zu ermitteln, mit welchem Kraftlevel du das Wohl mit deinem Wurf maximal wirken kannst. Unabhängig vom Kraftlevel, kannst du ein Wohl nie auf einem Kraftlevel über dem Attributwert wirken, mit dem du das Wohl anwendest. Falls du den Herausforderungswert des niedrigsten Kraftlevels des Wohls nicht erreichst, schlägst du im Wirken des Wohls fehl.
 ##### Wohl Herausforderungswert
 <table>

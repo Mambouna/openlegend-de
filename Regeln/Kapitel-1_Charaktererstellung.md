@@ -217,7 +217,7 @@ Zum Beispiel könnten zwei unterschiedliche Charaktere, die beide auf Nahkampf s
 ### Fertigkeiten wählen
 Fertigkeiten kauft man mit Fertigkeitenpunkten. Auf Level 1 hast du 6 Fertigkeitenpunkte zur Verfügung. Jegliche übriggebliebenen Punkte kannst du dir für später aufheben.
 
-Eine Liste aller verfügbaren Fertigkeiten kann [hier](./lists/fertigkeiten.md) gefunden werden.
+Eine Liste aller verfügbaren Fertigkeiten kann [hier](./Listen/Fertigkeiten.md) gefunden werden.
 ## Schritt 5: Startausrüstung wählen
 In einem typischen Open Legend-Spiel beginnt dein Charakter mit der nötigen Startausrüstung für das Leben eines Abenteurers. Der GM kann aber auch entscheiden, dass die Kampagne unter besonderen Umständen beginnt (zum Beispiel, dass die gesamte Gruppe eingesperrt in einem Sklavenkonvoi beginnt), die etwas anderes benötigen.
 
@@ -535,7 +535,7 @@ Für jeden Erfahrungspunkt, den du dir verdienst, gewinnst du auch 1 Fertigkeite
 
 Attributpunkte können ausgegeben werden, um ein schon erworbenes Attribut zu erhöhen, oder aber völlig neue Attribute zu kaufen. Die Kosten, um ein Attribut um einen Wert aufsteigen zu lassen sind gleich der Zahl des neuen Wertes. Um zum Beispiel deinen Kraftwert von 3 auf 4 aufsteigen zu lassen, müsstest du 4 Attributpunkte ausgeben. Die Kosten, um ein komplett neues Attribut zu kaufen sind nach dem jeweiligen Wert in der *Attributsüberblick*-Tabelle aufgeführt, die auch Attributwürfel für Werte über 5 aufführt.
 
-Die vollständige Liste aller verfügbaren Fertigkeiten kann [hier](./lists/fertigkeiten.md) gefunden werden.
+Die vollständige Liste aller verfügbaren Fertigkeiten kann [hier](./Listen/Fertigkeiten.md) gefunden werden.
 #### Attributsüberblick
 | Attributwert | Kosten | Attributwürfel |
 | ------------ | ------ | -------------- |

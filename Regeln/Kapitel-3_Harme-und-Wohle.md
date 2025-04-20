@@ -19,7 +19,7 @@ Um ein Wohl zu wirken, musst du bei einem Attributwurf Erfolg habe, dessen Herau
 
 Weitere Details zum Wirken von Harmen und Wohlen wie zum Beispiel Reichweite und das Zielen auf mehrere Kreaturen, können in [Kapitel 7: Kampf](./Kapitel-7_Kampf.md) gefunden werden.
 ### Die Beschreibung eines Harmes lesen
-Die vollständige Liste an Harmen kann [hier](./lists/harme.md) gefunden werden.
+Die vollständige Liste an Harmen kann [hier](./Listen/Harme.md) gefunden werden.
 
 Jede Beschreibung eines Harmes enthält die folgenden Elemente:
 
@@ -35,7 +35,7 @@ Jede Beschreibung eines Harmes enthält die folgenden Elemente:
 
 **Effekt.** Dieser Eintrag führt den spielmechanischen Einfluss des Harmes nach den Regeln auf. Manche Harme haben zusätzlich noch eine Sektion Besonders mit erweiterten spielmechanischen Auswirkungen.
 ### Die Beschreibung eines Wohles lesen
-Die vollständige Liste an Wohlen kann [hier](./lists/wohle.md) gefunden werden.
+Die vollständige Liste an Wohlen kann [hier](./Listen/Wohle.md) gefunden werden.
 
 Jede Beschreibung eines Wohls enthält die folgenden Elemente:
 

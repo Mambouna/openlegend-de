@@ -20,9 +20,9 @@ Regelwerk:
 - [Kapitel 9: Spezialausrüstung](./Kapitel-9_Spezialausruestung.md)
 
 Listen:
-- [Fertigkeiten](./lists/fertigkeiten.md)
-- [Harme](./lists/harme.md)
-- [Wohle](./lists/wohle.md)
+- [Fertigkeiten](./Listen/Fertigkeiten.md)
+- [Harme](./Listen/Harme.md)
+- [Wohle](./Listen/Wohle.md)
 
 Disclaimer: *This product was created under the Open Legend Community License and contains material that is copyright to Seventh Sphere Entertainment. Such use of Seventh Sphere Entertainment materials in this product is in accordance with the Open Legend Community License and shall not be construed as a challenge to the intellectual property rights reserved by Seventh Sphere Entertainment. Seventh Sphere Entertainment and Open Legend RPG and their respective logos are trademarks of Seventh Sphere Entertainment in the U.S.A. and other countries.*
 
