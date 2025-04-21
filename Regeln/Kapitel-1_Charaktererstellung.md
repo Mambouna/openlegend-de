@@ -203,7 +203,7 @@ Wenn ein Gegner versucht, dich anzugreifen - egal ob mit dem Schuss eines Gewehr
 
 **Entschlossenheit** stellt die Fähigkeit deines Charakter dar, mentaler Unterdrückung zu widerstehen oder im Angesicht der Furcht nicht nachzugeben. Gegner, die dich bezaubern, mit Illusionen täuschen oder dich ängstigen wollen, müssen gegen deine Entschlossenheit bestehen.
 
-<table><tr><td><b>Trefferpunkte = 2 x (Zähigkeit + Präsenz + Willenskraft) + 10</b></td></tr></table>
+<table><tr><td><b>Trefferpunkte = 2 x (Konstitution + Präsenz + Willenskraft) + 10</b></td></tr></table>
 
 *Erklärung: Addiere deine Zähigkeit, Präsenz und Willenskraft zusammen. Multipliziere das Ergebnis mit 2. Addiere zuletzt 10.*
 
@@ -255,8 +255,8 @@ Im Kampf unterstützt ein Barde seine Verbündeten mit *Verstärken*, wobei er d
 
 **Wichtige Ausrüstung:** Lederrüstung, Rapier (als Langschwert gewertet), kleiner Schild, Sagenbuch, Musikinstrument
 #### Bevorzugte Aktionen
-***Rapier*** (Angriff mit Schaden): Geschicklichkeit vs. Deckung<br>***En Garde!*** (*Entwaffnen* zufügen): Geschicklichkeit vs. Deckung, Vorteil 1  
-***Inspirierende Zeilen*** (*Verstärken* wirken):<br>=> 1 Ziel: Auto-Erfolg auf KL 3 durch *Wohlfokus*<br>=> 10' Würfel: Präsenz vs. 16 (KL 3)<br>***Heilende Zeilen*** (*Heilen* wirken): Präsenz vs. 12 - 18 (KL 1 - 4)<br>***Lied der Erquickung*** (5' *Aura: Heilen* wirken): Präsenz vs. 18 (KL 4)<br>***Gewinnendes Lächeln*** (*Bezaubert* wirken): Einfluss vs. Entschlossenheit<br>***Magischer Kniff*** (*Phantasmus* wirken): Einfluss vs. Entschlossenheit
+***Rapier*** (Angriff mit Schaden): Geschicklichkeit vs. Deckung<br>***En Garde!*** (*Entwaffnet* zufügen): Geschicklichkeit vs. Deckung, Vorteil 1  
+***Inspirierende Zeilen*** (*Verstärken* wirken):<br>=> 1 Ziel: Auto-Erfolg auf KL 3 durch *Wohlfokus*<br>=> 10' Würfel: Präsenz vs. 16 (KL 3)<br>***Heilende Zeilen*** (*Heilen* wirken): Präsenz vs. 12 - 18 (KL 1 - 4)<br>***Lied der Erquickung*** (5' *Aura: Heilen* wirken): Präsenz vs. 18 (KL 4)<br>***Gewinnendes Lächeln*** (*Bezaubert* zufügen): Einfluss vs. Entschlossenheit<br>***Magischer Kniff*** (*Phantom* zufügen): Einfluss vs. Entschlossenheit
 ___
 ### Kampfmagier
 Kampfmagier sind Meister der Kraft und Magie. Mit angeborenem Talent für den Kampf und elementarer Zauberei gewappnet, sind diese Elitesoldaten eine ernstzunehmende Einheit auf dem Schlachtfeld. Der Kampfmagier ist typischerweise schwer gepanzert, mit einer Vielzahl an Waffen für den Nahkampf ausgestattet und knistert vor roher magischer Energie.
@@ -305,7 +305,7 @@ Sobald der Kampf beginnt, ist der Berserker nicht mehr zu stoppen. Die Zweihanda
 
 **Wichtige Ausrüstung:** Großaxt, Kettenhemd, Wurfaxt
 #### Bevorzugte Aktionen
-***Großaxt*** (Angriff mit Schaden): Kraft vs. Deckung, Vorteil 1<br>***Kraftvoller Schlag*** (*Erzwungene Bewegung* zufügen): Kraft vs. Deckung, Vorteil 2<br>***Vernichtender Schlag*** (*Betäubt* zufügen): Kraft vs. Zähigkeit, Vorteil 2<br>***Kampfschrei*** (*Furcht* zufügen): Kraft vs. Entschlossenheit<br>***Schaum vor dem Mund*** (*Provozieren* zufügen): Kraft vs. Entschlossenheit<br>***Kriegsmantra*** (*Verstärken* wirken): Präsenz vs. 16 (KL 3)
+***Großaxt*** (Angriff mit Schaden): Kraft vs. Deckung, Vorteil 1<br>***Kraftvoller Schlag*** (*Erzwungene Bewegung* zufügen): Kraft vs. Deckung, Vorteil 2<br>***Vernichtender Schlag*** (*Betäubt* zufügen): Kraft vs. Zähigkeit, Vorteil 2<br>***Kampfschrei*** (*Furcht* zufügen): Kraft vs. Entschlossenheit<br>***Schaum vor dem Mund*** (*Provoziert* zufügen): Kraft vs. Entschlossenheit<br>***Kriegsmantra*** (*Verstärken* wirken): Präsenz vs. 16 (KL 3)
 ___
 ### Chronomagier
 Chronomagier sehen und manipulieren die größte Kraft des Universums: die Zeit. Sie besitzen die Macht, die Fäden des Universums selbst neu anzuordnen, um ihrem Willen zu entsprechen. Vergangenheit, Gegenwart und Zukunft sind alles ein und dasselbe für den Chronomagie und ihre inhärente Verbindung zur vierten Dimension kann zu Kommunikationsproblemen mit denjenigen führen, die einem konventionellen Verständnis der Zeit unterliegen.
@@ -320,7 +320,7 @@ Beginnt der Kampf, dann bietet die Macht des Chronomagiers über die Zeit der Gr
 
 **Wichtige Ausrüstung:** Stahlseidenrüstung
 #### Bevorzugte Aktionen
-***Der Zahn der Zeit*** (Angriff mit Schaden): Vergehen vs. Deckung<br>***Stasefeld*** (*5' Aura: Immobilisiert* wirken): Auto-Erfolg auf KL 1 durch *Wohlfokus*<br>***Zeitdehnungsfeld*** (*5' Aura: Verlangsamt* wirken): Auto-Erfolg auf KL 1 durch *Wohlfokus*<br>***Vorspulen*** (*Hast* wirken): Bewegung vs. 14 - 18 (KL 2 - 4)<br>***Massen-Vorspulen*** (*5' Aura: Hast* wirken): Auto-Erfolg auf KL 2 durch *Wohlfokus*<br>***Zurückspulen*** (*Heilen* wirken): Schöpfung vs. 12 - 16 (KL 1 - 3)<br>***Zeitschritt*** (*Teleport* wirken): Bewegung vs. 16 (KL 3)<br>***Zukunftsblick*** (*Voraussicht* wirken): Vorwissen vs. 12 - 16 (KL 1 - 3)
+***Der Zahn der Zeit*** (Angriff mit Schaden): Vergehen vs. Deckung<br>***Stasefeld*** (*5' Aura: Immobilisiert* wirken): Auto-Erfolg auf KL 1 durch *Wohlfokus*<br>***Zeitdehnungsfeld*** (*5' Aura: Verlangsamt* wirken): Auto-Erfolg auf KL 1 durch *Wohlfokus*<br>***Vorspulen*** (*Hast* wirken): Bewegung vs. 14 - 18 (KL 2 - 4)<br>***Massen-Vorspulen*** (*5' Aura: Hast* wirken): Auto-Erfolg auf KL 2 durch *Wohlfokus*<br>***Zurückspulen*** (*Heilen* wirken): Schöpfung vs. 12 - 16 (KL 1 - 3)<br>***Zeitschritt*** (*Teleportation* wirken): Bewegung vs. 16 (KL 3)<br>***Zukunftsblick*** (*Voraussicht* wirken): Vorwissen vs. 12 - 16 (KL 1 - 3)
 ___
 ### Höfling
 Höflinge sind Karrierepolitiker, die majestätische Grazie zum Ziel ihres Lebens machen. Ihre strenge Ausstrahlung macht jeden im Umfeld des Höflings gefügig. Als Gastgeber plant der Höfling seine Feiern oft bis ins letzte Detail, sodass seine Gäste genau die Erfahrung haben, die er ihnen angedacht hat. Sein Antlitz verlangt Respekt, sei es königliche Brokade, fernöstliche Seide oder die eleganten Linien eines Corpo-Anzugs.
@@ -334,7 +334,7 @@ Da er primär auf soziale Situationen spezialisiert und in Kämpfen größtentei
 **Wichtige Ausrüstung:** Vornehme Kleidung, Dolch, Kompaktpistole (Pistole), Stahlseidenrüstung
 #### Bevorzugte Aktionen
 ***Schmeichelnde Worte*** (*Bezaubert* zufügen): Einfluss vs. Entschlossenheit<br>***Mörderische Beleidigung*** (*Demoralisiert* zufügen): Einfluss vs. Entschlossenheit<br>***Widersprüchliche Aussagen*** (*Gedächtnismanipulation* zufügen): Einfluss vs. Entschlossenheit<br>***Vertrauensvolles Ohr*** (*Wahrheitsgebunden* zufügen): Einfluss vs. Entschlossenheit<br>***Persönlicher Gefallen*** (*Dominiert* zufügen): Einfluss vs. Entschlossenheit
-Versteckter Abzug (Angriff mit Schaden): Geschicklichkeit vs. Deckung
+***Versteckter Abzug*** (Angriff mit Schaden): Geschicklichkeit vs. Deckung
 ___
 ### Druide
 Druiden sind Schützer der Natur, die aus ihr durch einen engen Bund ihre Kraft ziehen, um sich z.B. in eine mächtige Kreatur ihres Heimathabitats zu verwandeln. Nicht alle Druiden sind den Wäldern gewogen. Manche verwandeln sich in Unterwasserspezies und verbringen einen Großteil ihrer Zeit in den Tiefen, während andere als Vögel in Bergketten jenseits der Wolken leben. Unabhängig von ihrem bevorzugten Habitat sind alle Druiden eins: flexibel.
@@ -384,7 +384,7 @@ Beginnt ein Gefecht, so bleibt der Revolverheld auf Distanz und benutzt seine be
 
 **Wichtige Ausrüstung:** Schwerer Trenchcoat (als Kevlarweste gewertet), 2 Revolver, Gewehr
 #### Bevorzugte Aktionen
-_**Zwei-Knarren-Ansturm**_ (Fokusaktion, Angriff mit Schaden, 2 Angriffe): Geschicklichkeit vs. Deckung<br>_**Den Spahn schlagen**_ (Fokusaktion, Angriff mit Schaden, 3 Angriffe): Geschicklichkeit vs. Deckung, Nachteil 3<br>_**Ziel verfluchen**_ (_Betäubt_ zufügen): Vergehen vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Geschicklichkeit vs. Deckung. Vorteil 1<br>_**Handschuss**_ (_Entwaffnet_ zufügen): Geschicklichkeit vs. Deckung, Vorteil 1<br>_**Gewehr**_ (Angriff mit Schaden): Geschicklichkeit vs. Deckung<br>_**Miasmaschuss**_ (_Erkrankt_ zufügen): Vergehen vs. Zähigkeit<br>_**Missgünstiger Schatten**_ (5' _Aura: Anhaltender Schaden_ wirken): Vergehen vs. 18 (KL 4)<br>_**Seelenriss**_ (_Lebensraub_ zufügen): Vergehen vs. 20 (KL 5)<br>_**Gnadenloser Blick**_ (_Furcht_ zufügen): Vergehen vs. Entschlossenheit
+_**Zwei-Knarren-Ansturm**_ (Fokusaktion, Angriff mit Schaden, 2 Angriffe): Geschicklichkeit vs. Deckung<br>_**Den Spahn schlagen**_ (Fokusaktion, Angriff mit Schaden, 3 Angriffe): Geschicklichkeit vs. Deckung, Nachteil 3<br>_**Ziel verfluchen**_ (_Betäubt_ zufügen): Vergehen vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Geschicklichkeit vs. Deckung. Vorteil 1<br>_**Handschuss**_ (_Entwaffnet_ zufügen): Geschicklichkeit vs. Deckung, Vorteil 1<br>_**Gewehr**_ (Angriff mit Schaden): Geschicklichkeit vs. Deckung<br>_**Miasmaschuss**_ (_Erkrankt_ zufügen): Vergehen vs. Zähigkeit<br>_**Missgünstiger Schatten**_ (5' _Aura: Anhaltender Schaden_ wirken): Vergehen vs. 18 (KL 4)<br>_**Seelenriss**_ (_Lebensraub_ wirken): Vergehen vs. 20 (KL 5)<br>_**Gnadenloser Blick**_ (_Furcht_ zufügen): Vergehen vs. Entschlossenheit
 ___
 ### Hacker
 Wissen ist Macht, wie das alte Sprichtwort mahnt. Der Hacker ist der Beweis, dass so gut wie jeder mit der richtigen Information zu Fall gebracht werden kann. Manche Hacker sind Söldner, die für den höchsten Lohn arbeiten und den Thrill lieben, riesige Mengen an Daten zu kontrollieren, von denen Leben abhängen. Andere verschreiben sich einem höheren Ziel, um die Welt zum Besseren oder Schlechteren zu wenden.
@@ -399,7 +399,7 @@ Wenn ein Kampf ausbricht, meidet ein Hacker die Front und lässt seine Drohnen f
 
 **Wichtige Ausrüstung:** Tablet, Laptop, VR-Brille
 #### Bevorzugte Aktionen
-_**Dark-Web Recherche**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Algorithmische Voraussage**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Multivalente Sensorenaufnahme**_ (_Wahrsicht_ wirken): Vorwissen vs. 20 (KL 5)<br>_**IoT Zombienetzwerk**_ (_Fernsicht_ zufügen): Vorwissen vs. Entschlossenheit, Vorteil 2<br>_**Hologrammprojektion**_ (_Phantasmus_ zufügen): Einfluss vs. Entschlossenheit<br>_**Neuronen neulegen**_ (_Bezaubert_ zufügen): Einfluss vs. Entschlossenheit
+_**Dark-Web Recherche**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Algorithmische Voraussage**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Multivalente Sensorenaufnahme**_ (_Wahrsicht_ wirken): Vorwissen vs. 20 (KL 5)<br>_**IoT Zombienetzwerk**_ (_Fernsicht_ zufügen): Vorwissen vs. Entschlossenheit, Vorteil 2<br>_**Hologrammprojektion**_ (_Phantom_ zufügen): Einfluss vs. Entschlossenheit<br>_**Neuronen neulegen**_ (_Bezaubert_ zufügen): Einfluss vs. Entschlossenheit
 #### Drohnengefährte
 **Attribute:** Geschicklichkeit 3 (1d8), Konstitution 1 (1d4), Logik 1 (1d4), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Energie 4 (1d10)<br>**Trefferpunkte:** 16<br>**Deckung:** 13 (Geschicklichkeit 3)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
 
@@ -445,7 +445,7 @@ _**Geisterführer**_ (_Verstärken_ wirken): Schöpfung vs. 16 (KL 3)<br>_**Geis
 
 **Wichtige Ausrüstung:** Yoroirüstung, Naginata, 3 Wurfspeere
 #### Bevorzugte Aktionen
-_**Naginata**_ (Angriff mit Schaden): Kraft vs. Deckung, Vorteil 1<br>_**Fang und Klaue**_ (Angriff mit Schaden, 2 Ziele): Kraft vs. Deckung, Nachteil 1<br>_**Wurfspeer**_ (Angriff mit Schaden): Kraft vs. Deckung<br>_**Ausholender Schlag**_ (_Niedergeschlagen_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Naginataschwung**_ (_Erzwungene Bewegung_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Skorpionstich**_ (_Immobilisiert_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Demonstration der Stärke**_ (_Furcht_ zufügen): Kraft vs. Entschlossenheit<br>_**Schlachtkommando**_ (_Heilen_ zufügen): Präsenz vs. 12 - 16 (KL 1 - 3)
+_**Naginata**_ (Angriff mit Schaden): Kraft vs. Deckung, Vorteil 1<br>_**Fang und Klaue**_ (Angriff mit Schaden, 2 Ziele): Kraft vs. Deckung, Nachteil 1<br>_**Wurfspeer**_ (Angriff mit Schaden): Kraft vs. Deckung<br>_**Ausholender Schlag**_ (_Niedergeschlagen_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Naginataschwung**_ (_Erzwungene Bewegung_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Skorpionstich**_ (_Immobilisiert_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Demonstration der Stärke**_ (_Furcht_ zufügen): Kraft vs. Entschlossenheit<br>_**Schlachtkommando**_ (_Heilen_ wirken): Präsenz vs. 12 - 16 (KL 1 - 3)
 ___
 ### Waldläufer
 Waldläufer sind Menschen der Wildnis, Jäger und Tierzähmer. Sie können das widerste Terrain navigieren und ihre scharfen Augen erkennen selbst tagelang kalte Spuern. Mit einem treuen Tiergefährten an ihrer Seite ist der Waldläufer auf der Pirsch nie allein.
@@ -482,7 +482,7 @@ Schatten ziehen es vor, so lange wie möglich versteckt zu bleiben, wenn ein Kam
 
 **Wichtige Ausrüstung:** Scharfschützengewehr, Maschinenpistole, Pistole, Messer, Trenchcoat (als Lederrüstung gewertet)
 #### Bevorzugte Aktionen
-_**Verborgener Schuss**_ (Angriff mit Schaden): Geschicklichkeit vs. Deckung, Vorteil 1 falls das Ziel überrascht wird oder mit einem Verbündeten im Kampf liegt<br>_**Gewehr**_ (Angriff mit Schaden): Geschicklichkeit vs. Deckung<br>_**Betäubungskugel**_ (_Bewusstlos_ zufügen): Geschicklichkeit vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Geschicklichkeit vs. Deckung, Vorteil 1<br>_**Maschinenpistole**_ (Angriff mit Schaden, 10' Würfel): Geschicklichkeit vs. Deckung<br>_**Leerenschritt**_ (_Teleport_ wirken): Auto-Erfolg auf KL 5 durch _Wohlfokus_<br>_**Schattenschleier**_ (_Dunkelheit_ wirken): Vergehen vs. 12 - 16 (KL 1 - 3)<br>_**Schattenrolle**_ (_Resistenz_ wirken): Bewegung vs. 16 (KL 3)<br>_**Extradimensionale Tasche**_ (_Objekt absorbieren_ wirken): Bewegung vs. 18 (KL 4)
+_**Verborgener Schuss**_ (Angriff mit Schaden): Geschicklichkeit vs. Deckung, Vorteil 1 falls das Ziel überrascht wird oder mit einem Verbündeten im Kampf liegt<br>_**Gewehr**_ (Angriff mit Schaden): Geschicklichkeit vs. Deckung<br>_**Betäubungskugel**_ (_Bewusstlos_ zufügen): Geschicklichkeit vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Geschicklichkeit vs. Deckung, Vorteil 1<br>_**Maschinenpistole**_ (Angriff mit Schaden, 10' Würfel): Geschicklichkeit vs. Deckung<br>_**Leerenschritt**_ (_Teleportation_ wirken): Auto-Erfolg auf KL 5 durch _Wohlfokus_<br>_**Schattenschleier**_ (_Dunkelheit_ wirken): Vergehen vs. 12 - 16 (KL 1 - 3)<br>_**Schattenrolle**_ (_Resistenz_ wirken): Bewegung vs. 16 (KL 3)<br>_**Extradimensionale Tasche**_ (_Objekt absorbieren_ wirken): Bewegung vs. 18 (KL 4)
 ___
 ### Hexenschwert
 Ebenso gekonnt mit dem Schwert wie mit der Zauberei weben Hexenschwerter aus Magie und Kampfkunst eine mächtige Kombination. Ob sie Feinde mit flammendem Schwert in Brand setzen, Kraftbarrieren beschwören, um Angriffe abzuwenden oder Gegner mit Teleportation im Staub lassen, Hexenschwerter kontrollieren das Schlachtfeld mit unanfechtbarer Magie.
