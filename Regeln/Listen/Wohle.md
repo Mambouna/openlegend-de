@@ -15,8 +15,8 @@ Du bist in der Lage, ein autonomes Wesen auf nichtlebendigen Materialien wie Erd
 Deine Fähigkeit, eine Kreatur zu animieren, gibt dir nicht die Fähigkeit, diese permanent zu kontrollieren. Neu erschaffene Wesen liegen aber unter dem *bezaubert*-Harm (siehe unten) und behandeln dich so direkt nach ihrer Erschaffung wohlwollend.
 Der GM, nicht der Spieler, ist dafür verantwortlich, die Attribute und Fähigkeiten der animierten Kreatur zu entscheiden und sollte dabei den Leitlinien unter "Einfacher Aufbau" für das Erstellen von NPCs in [Kapitel 8: Das Spiel leiten](./../Kapitel-8_Das-Spiel-leiten.md) folgen. Kreaturen, die mit diesem Wohl erschaffen werden, sind typischerweise auf weniger als menschliche Intelligenz beschränkt, wie bei Zombies, Kampfdroiden oder Golems.
 <ul>
-<li><strong>Kraftlevel 6 - </strong> Du kannst eine einzige Kreatur animieren. Dein dafür genutztes Attribut muss gleich oder höher dem höchsten Attributwert der Kreatur sein, die du animierst. Bei einem erfolgreichen Wirken, entsteht die Kreatur mit dem <em>bezaubert</em>-Harm (oberflächliche Bezauberung) schon auf sie angewendet (kein Wurf ist dafür nötig).</li>
-<li><strong>Kraftlevel 8 - </strong> Du kannst dich entscheiden, eine Gruppe Kreaturen zu animieren: Entweder 10 Kreaturen mit einem maximalen Attributwert von 2, 5 Kreaturen mit einem maximalen Attributwert von 3 oder 2 Kreaturen mit einem maximalen Attributwert von 5. Weiterhin kommen alle diese Kreaturen mit dem Harm <em>Tiefe Bezauberung</em> in ihre Existenz statt <em>leichte Bezauberung</em>.</li>
+<li><strong>Kraftlevel 6 -</strong> Du kannst eine einzige Kreatur animieren. Dein dafür genutztes Attribut muss gleich oder höher dem höchsten Attributwert der Kreatur sein, die du animierst. Bei einem erfolgreichen Wirken, entsteht die Kreatur mit dem <em>Bezaubert</em>-Harm (Leichte Bezauberung) schon auf sie angewendet (kein Wurf ist dafür nötig).</li>
+<li><strong>Kraftlevel 8 -</strong> Du kannst dich entscheiden, eine Gruppe Kreaturen zu animieren: Entweder 10 Kreaturen mit einem maximalen Attributwert von 2, 5 Kreaturen mit einem maximalen Attributwert von 3 oder 2 Kreaturen mit einem maximalen Attributwert von 5. Weiterhin kommen alle diese Kreaturen mit dem Harm <em>Tiefe Bezauberung</em> in ihre Existenz statt <em>Leichte Bezauberung</em>.</li>
 </ul>
 
 > Tags: Außergewöhnlich  
@@ -43,7 +43,7 @@ Eine Aura erstreckt sich von einem willigen Ziel aus bis zu einer Distanz, die v
 <li><strong>Kraftlevel 6</strong> - 10' Radius</li>
 <li><strong>Kraftlevel 8</strong> - 15' Radius</li>
 </ul>
-Wähle einen einzigen Harm oder ein Wohl aus, die das gleiche Attribut nutzen, mit der du diese Aura wirkst. Das maximale Kraftlevel für den gewählten Harm oder das Wohl ist die Hälfte des kraftlevels dieser Aura. Deine Aura strahlt den gewählten Harm oder das Wohl wie folgt aus:
+Wähle einen einzigen Harm oder ein Wohl aus, der oder das das gleiche Attribut nutzt, mit dem du diese Aura wirkst. Das maximale Kraftlevel für den gewählten Harm oder das Wohl ist die Hälfte des Kraftlevels dieser Aura. Deine Aura strahlt den gewählten Harm oder das Wohl wie folgt aus:
 <ul>
 <li><strong>Falls die Aura einen Harm ausstrahlt,</strong> dann wird das Ziel der Aura nicht von diesem getroffen. Alle anderen Kreaturen (Freund und Feind), die willentlich die Fläche der Aura betreten oder ihren Zug darin beenden erleiden einen Harmangriff, der diesen Harm zufügt. Keine Kreatur kann mehr als einmal pro Runde von einer Harmattacke der gleichen Aura getroffen werden.</li>
 <li><strong>Falls die Aura ein Wohl ausstrahlt,</strong> dann wird das Ziel der Aura auch davon betroffen. Das Ziel und alle Verbündeten, die ihren Zug in der Fläche der Aura beenden, erhalten automatisch das gewählte Wohl. Sobald sie die Fläche der Aura verlassen, verfällt das Wohl sofort. Keine Kreatur kann ein Wohl mehr als einmal pro Runde von der gleichen Aura erhalten.</li>
@@ -72,10 +72,10 @@ Du beschwörst eine Wand aus Dornen, einen Ring aus Flammen, einen Schwarm Robot
 **Effekt**  
 Wenn du dieses Wohl wirkst, musst du Multi-Zielen benutzen, um eine spezifische Fläche für deine Barriere zu definieren. Bei einer erfolgreichen Wirkung wählst du anhand des Kraftlevels eine Reihe von Eigenschaften für deine Wand:
 <ul>
-<li><strong>Kraftlevel 3 - </strong>Wähle 1 Eigenschaft: Schaden (1d4), Verbergend, Behindernd</li>
-<li><strong>Kraftlevel 5 - </strong>Wähle 2 Eigenschaften: Schaden (1d8), Verbergend, Behindernd, Harmvoll, Mobil</li>
-<li><strong>Kraftlevel 7 - </strong>Wähle 3 Eigenschaften: Schaden (1d10), Verbergend, Behindernd, Harmvoll, Mobil, Unpassierbar</li>
-<li><strong>Kraftlevel 9 - </strong>Wähle 4 Eigenschaften: Schaden (2d6), Verbergend, Behindernd, Harmvoll, Mobil, Unpassierbar</li>
+<li><strong>Kraftlevel 3 -</strong> Wähle 1 Eigenschaft: Schaden (1d4), Verbergend, Behindernd</li>
+<li><strong>Kraftlevel 5 -</strong> Wähle 2 Eigenschaften: Schaden (1d8), Verbergend, Behindernd, Harmvoll, Mobil</li>
+<li><strong>Kraftlevel 7 -</strong> Wähle 3 Eigenschaften: Schaden (1d10), Verbergend, Behindernd, Harmvoll, Mobil, Unpassierbar</li>
+<li><strong>Kraftlevel 9 -</strong> Wähle 4 Eigenschaften: Schaden (2d6), Verbergend, Behindernd, Harmvoll, Mobil, Unpassierbar</li>
 </ul>
 <strong>Schaden:</strong> Eine Kreatur, die ihren Zug innerhalb der Barriere beendet oder diese willentlich betritt, erleidet automatisch den angezeigten Schaden. Eine Kreatur kann diesen Schaden nur einmal pro Runde erleiden.<br>
 <strong>Verbergend:</strong> Kreaturen können nicht in diese Barriere hinein oder durch sie hindurchsehen.<br>

@@ -1131,7 +1131,7 @@
   description: |
     Ob es sich um einen Bodyguard, treues Tier oder einen Bruder handelt, der dir überall hin folgt, du hast einen konstanten und vollständig loyalen Gefährtencharakter.
   effect: |
-    Du bekommst einen Gefährtencharakter, der unabhängig von dir handeln. Im Kampf handelt dein Gefährte nach seinem eigenen Platz in der Initiative und hat die normale Auswahl an Aktionen, die du auswählst. Du gestaltest auch die Attribute deines Gefährten. Wann immer du im Level aufsteigst oder einen neuen Rang dieser Fertigkeit erwirbst, kannst du die Attribute und Fertigkeiten deines Charakters neu vergeben.
+    Du bekommst einen Gefährtencharakter, der unabhängig von dir handelt. Im Kampf handelt dein Gefährte nach seinem eigenen Platz in der Initiative und hat die normale Auswahl an Aktionen, aus denen du auswählst. Du gestaltest auch die Attribute deines Gefährten. Wann immer du im Level aufsteigst oder einen neuen Rang dieser Fertigkeit erwirbst, kannst du die Attribute und Fertigkeiten deines Charakters neu vergeben.
     <ul>
     <li><strong>Rang 1</strong> - Dein Gefährte hat insgesamt 20 Attributpunkte plus 4 weitere für jedes Level deines Charakters.</li>
     <li><strong>Rang 2</strong> - Dein Gefährte erhält 3 Fertigkeitenpunkte.</li>
