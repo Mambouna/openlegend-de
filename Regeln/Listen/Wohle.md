@@ -487,7 +487,7 @@ ___
 Ob mit einem magischen Energiefeld, einer elementalen Wand, selbstzusammensetzender Körperpanzerung oder einer temporären Mutation, wird das Ziel resistent gegen Schaden von bestimmten Arten von Angriffen. Dieses Wohl ist unter Ingenieuren, Telekinetisten und elementalen Magiern verbreitet.
 
 **Effekt**  
-Wenn das Wohl gewirkt wird, wählt der wirkende Charakter eine Art von Angriff und erhält Resistenz dagegen. Die Arten umfassen präzise, kraftvoll, Feuer, Kälte, Blitz, Säure, Einfluss und Vergehen (andere Arten können mit Zustimmung des GM genutzt werden). Der Effekt der Resistenz wird durch das Kraftlevel des Wohls bestimmt (die Effekte sind nicht kummulativ):
+Wenn das Wohl gewirkt wird, wählt der wirkende Charakter eine Art von Angriff und erhält Resistenz dagegen. Die Arten umfassen Präzise, Kraftvoll, Feuer, Kälte, Blitz, Säure, Einfluss und Vergehen (andere Arten können mit Zustimmung des GM genutzt werden). Der Effekt der Resistenz wird durch das Kraftlevel des Wohls bestimmt (die Effekte sind nicht kummulativ):
 <ul>
 <li><strong>Kraftlevel 3</strong> - Die Verteidigungswerte des Ziels sind gegen Angriffe der gewählten Art um 3 erhöht.</li>
 <li><strong>Kraftlevel 5</strong> - Die Verteidigungswerte des Ziels sind gegen Angriffe der gewählten Art um 6 erhöht.</li>
