@@ -1,9 +1,4 @@
 # Arkaner Beschützer
-Beschreibung
-
-## Strategie
-Strategiebeschreibung
-
 **Attribute:** Schutz 5 (2d6), Bewegung 3 (1d8), Geschicklichkeit 3 (1d8), Willenskraft 3 (1d8), Präsenz 2 (1d6), Lernen 2 (1d6), Logik 1 (1d4)  
 **Trefferpunkte:** 20  
 **Deckung:** 14 (Geschicklichkeit 3, Rüstung 1)  
