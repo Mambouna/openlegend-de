@@ -1362,7 +1362,7 @@
   description: |
     Du kannst dich in einen Geisteszustand erhöhter Kampfbereitschaft versetzen, in dem dein Körper gestärkt ist und dein Geist Furch und Schmerz hinter sich lässt. Beispiele schließen Barbaren in Rage oder einen unaufhaltsamen Samurai ein, der im Kampf den Fokus einer Rasierklinge hat.
   effect: |
-    Als kostenlose Aktion in deinem Zug kannst du dich in Kampftrance versetzen. Während du in der Trance bist, hast du Vorteil 1 auf alle Angriffe. Weiterhin sind dein Zähigkeit und Entschlossenheit um 3 erhöht. Falls dein gesamter Rüstungsbonus weniger als 3 ist, wird er zu 3. Falls du drei Züge in Folge keinen Angriffswurf gegen eine feindliche Kreatur wirfst, endet die Kampftrance. Wenn die Trance endet, erleidest du automatisch 1 Level des Harms <em>erschöpft</em>.
+    Als kostenlose Aktion in deinem Zug kannst du dich in Kampftrance versetzen. Während du in der Trance bist, hast du Vorteil 1 auf alle Angriffe. Weiterhin sind dein Zähigkeit und Entschlossenheit um 3 erhöht. Falls dein gesamter Rüstungsbonus weniger als 3 ist, wird er zu 3. Falls du drei Züge in Folge keinen Angriffswurf gegen eine feindliche Kreatur wirfst, endet die Kampftrance. Wenn die Trance endet, erleidest du automatisch 1 Level des Harms <em>Erschöpft</em>.
 - !
   name: Kettenschlag
   OGname: Combat Follow-through
@@ -1999,7 +1999,7 @@
   prerequisites:
     tier1:
       Feat:
-      - Battle Trance
+      - Kampftrance
   OGprerequisites:
     tier1:
       Feat:
@@ -2991,7 +2991,7 @@
       - Geschicklichkeit: 4
       - Kraft: 5
       Feat:
-      - Multiangriffsspezialisierung
+      - Multi-Angriffsspezialisierung
   OGprerequisites:
     tier1:
       Attribute:

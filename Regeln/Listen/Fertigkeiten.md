@@ -707,7 +707,7 @@ ___
 Du kannst dich in einen Geisteszustand erhöhter Kampfbereitschaft versetzen, in dem dein Körper gestärkt ist und dein Geist Furch und Schmerz hinter sich lässt. Beispiele schließen Barbaren in Rage oder einen unaufhaltsamen Samurai ein, der im Kampf den Fokus einer Rasierklinge hat.
 
 **Effekt**  
-Als kostenlose Aktion in deinem Zug kannst du dich in Kampftrance versetzen. Während du in der Trance bist, hast du Vorteil 1 auf alle Angriffe. Weiterhin sind dein Zähigkeit und Entschlossenheit um 3 erhöht. Falls dein gesamter Rüstungsbonus weniger als 3 ist, wird er zu 3. Falls du drei Züge in Folge keinen Angriffswurf gegen eine feindliche Kreatur wirfst, endet die Kampftrance. Wenn die Trance endet, erleidest du automatisch 1 Level des Harms <em>erschöpft</em>.
+Als kostenlose Aktion in deinem Zug kannst du dich in Kampftrance versetzen. Während du in der Trance bist, hast du Vorteil 1 auf alle Angriffe. Weiterhin sind dein Zähigkeit und Entschlossenheit um 3 erhöht. Falls dein gesamter Rüstungsbonus weniger als 3 ist, wird er zu 3. Falls du drei Züge in Folge keinen Angriffswurf gegen eine feindliche Kreatur wirfst, endet die Kampftrance. Wenn die Trance endet, erleidest du automatisch 1 Level des Harms <em>Erschöpft</em>.
 
 > Tags: Kampf  
 > Englisch: _Battle Trance_
@@ -1067,7 +1067,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Fertigkeit: Battle Trance
+- **Rang 1:** Fertigkeit: Kampftrance
 
 **Beschreibung**  
 Indem du deinen Körper willentlich im Kampf überstrapazierst, führst du eine Reihe verheerender Attacken aus. Das Stimpack eines Supersoldaten oder ein Berserker, der seine eigenen Muskeln mit mächtigen Hieben zerreist sind Beispiele dieser Fertigkeit.
@@ -1635,7 +1635,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
-- **Rang 1:** Geschicklichkeit 4 & Kraft 5 & Fertigkeit: Multiangriffsspezialisierung
+- **Rang 1:** Geschicklichkeit 4 & Kraft 5 & Fertigkeit: Multi-Angriffsspezialisierung
 
 **Beschreibung**  
 Du bist stark als auch schnell und in der Lage, in einer Hand Waffen zu führen, für die andere beide Hände benötigen würden. Gute Beispiele dieser Fertigkeit im Spiel sind orkische Barbaren, die in einer Hand eine Großaxt und in der anderen einen Schild führen oder ein Überlebender in der Zombie-Apokalypse, der zwei Kettensägen führt.
