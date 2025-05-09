@@ -52,6 +52,7 @@ Die Expertise eines Charakter mit Attributen wird durch einen Wert zwischen 0 (v
 Der Durchschnittsbürger oder einfache Handwerker hat generell Werte zwischen 1 und 3 in mehreren körperlichen, sozialen und geistigen Attributen. Außergewöhnliche Attribute sind meist Charakteren mit großer Macht und viel Einfluss vorbehalten.
 
 Die *Attribute auf einen Blick*-Tabellen geben dir einen schnellen Überblick einiger häufiger Handlungen, die die jeweiligen Attribute dir erleichtern werden.
+
 ##### Körperliche Attribute auf einen Blick
 <table>
 	<tr>
@@ -149,8 +150,10 @@ Falls Rollenspiele für dich neu sind, oder du deinen Charakter einfach schnell 
 | 4, 4, 3, 3, 3, 1, 1         |
 | **Alleskönner**             |
 | 3, 3, 3, 3, 3, 2, 2, 2, 1   |
+
 ### Ausführliche Charaktererstellung
 Wenn du mehr Kontrolle über deine Attribute haben möchtest, kannst du dein eigenes Set aus Attributwerten zusammenstellen. Bei dieser Methode hast du auf Level 1 ein Budget von 40 Attributpunkten, die du ausgeben kannst. Die Kosten der Werte sind in der *Attribute kaufen*-Tabelle aufgeführt. Der höchste Wert, den ein Attribut auf Level 1 erreichen kann ist 5 und du musst nicht all deine Attributpunkte bei der Charaktererstellung ausgeben.
+
 #### Attribute kaufen
 | Attributwert | Kosten |
 | ------------ | ------ |
@@ -160,6 +163,7 @@ Wenn du mehr Kontrolle über deine Attribute haben möchtest, kannst du dein eig
 | 3            | 6      |
 | 4            | 10     |
 | 5            | 15     |
+
 ### Attributwürfel erfassen
 Jeder Attributwert über 0 gibt dir Bonuswürfel, die deine Chancen auf Erfolg erhöhen. Nutze die *Attributwürfel*-Tabelle für jedes deiner Attribute und notiere die passenden Würfel. (Du wirst später lernen, was man mit diesen Würfeln tut.)
 #### Attributwürfel
@@ -175,6 +179,7 @@ Jeder Attributwert über 0 gibt dir Bonuswürfel, die deine Chancen auf Erfolg e
 | 8            | 3d8            |
 | 9            | 3d10           |
 | 10           | 4d8            |
+
 > ### Schmeiß' die Knochen
 > 
 > Falls du neu im Rollenspiel bist, ist dir die Würfelnotation von z.B. 2d6 vielleicht noch nicht bekannt.
@@ -188,6 +193,7 @@ Jeder Attributwert über 0 gibt dir Bonuswürfel, die deine Chancen auf Erfolg e
 > 5d4 meint fünf vierseitige Würfel.
 > 
 > Und so weiter und so fort.
+
 ## Schritt 3: Verteidigungen berechnen, Trefferpunkte und Geschwindigkeit
 Wenn ein Gegner versucht, dich anzugreifen - egal ob mit dem Schuss eines Gewehrs, einem geschickten Schwertstreich oder einem mentalen Überfall, muss dieser zuerst deine Verteidigungen überwinden. Du hast drei Verteidigungswerte, von denen jeder dich vor einer anderen Art von Attacke schützt. Je höher deine Verteidigung, desto besser bist du darin, Angriffen deiner Feinde zu entgehen oder diese abzuschütteln.
 
@@ -530,12 +536,14 @@ Deine gesamten gesammelten EP bestimmen dein Level, wobei jede 3 EP dir erlauben
 | 21        | 8     | 8                        |
 | 24        | 9     | 9                        |
 | 27        | 10    | 9                        |
+
 ### Fertigkeiten- und Attributpunkte
 Für jeden Erfahrungspunkt, den du dir verdienst, gewinnst du auch 1 Fertigkeitenpunkt und 3 Attributpunke. Diese Punkte kannst du sofort ausgeben oder aber für später sammeln. Du erhälst diese Punkte *jedes Mal*, wenn du EP erhälst, nicht nur wenn du im Level aufsteigst.
 
 Attributpunkte können ausgegeben werden, um ein schon erworbenes Attribut zu erhöhen, oder aber völlig neue Attribute zu kaufen. Die Kosten, um ein Attribut um einen Wert aufsteigen zu lassen sind gleich der Zahl des neuen Wertes. Um zum Beispiel deinen Kraftwert von 3 auf 4 aufsteigen zu lassen, müsstest du 4 Attributpunkte ausgeben. Die Kosten, um ein komplett neues Attribut zu kaufen sind nach dem jeweiligen Wert in der *Attributsüberblick*-Tabelle aufgeführt, die auch Attributwürfel für Werte über 5 aufführt.
 
 Die vollständige Liste aller verfügbaren Fertigkeiten kann [hier](./Listen/Fertigkeiten.md) gefunden werden.
+
 #### Attributsüberblick
 | Attributwert | Kosten | Attributwürfel |
 | ------------ | ------ | -------------- |

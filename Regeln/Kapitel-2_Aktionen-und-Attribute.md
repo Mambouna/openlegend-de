@@ -125,6 +125,7 @@ Es sollte angemerkt werden, dass Herausforderungswerte generell nicht an das Lev
 | 8            | 26                                      |
 | 9            | 28                                      |
 | 10           | 30                                      |
+
 ### Bestrittene Aktionen
 Manchmal werden zwei oder mehr Charaktere bei einer Handlung direkt durch ihre Stärke, Intelligenz oder ihren Charme in Konflikt stehen. Zum Beispiel könnte ein mächtiger Barbar mit einem Minotaurus ringen, um ein magisches Juwel in die Hände zu bekommen. Oder aber drei Repräsentanten verschiedener Sternensysteme versuchen, den Kriegsherrn der intergalaktischen Reaver davon zu überzeugen, sich ihnen anzuschließen. Oder ein verborgener Ninja möchte ungesehen an den Wache stehenden Mönchen vorbeischleichen. Diese Art von Situationen nennt man **bestrittene Aktionen**.
 
@@ -175,6 +176,7 @@ Vorteil und Nachteil können vom GM zugewiesen werden, oder aber durch Fertigkei
 | Einen arkanen Fokus beim Wirken eines Zaubers nutzen       | Einen Zauber inmitten eines Sturms wirken                           |
 | In einer gut bestückten Bibliothek forschen                | Forschen, während man krank ist                                     |
 | Eine große Gruppe verfolgen                                | Eine Kreatur verfolgen, die kleiner als ein Kind ist                |
+
 ## Legendenpunkte
 Eine weitere Form an Tiefe beim Abhandeln von Aktionen gibt es in Form von Legendenpunkten, welche Spielern eine Chance erlauben, die Würfel in besondern legendären Taten in ihrem Sinne wirken zu lassen.
 

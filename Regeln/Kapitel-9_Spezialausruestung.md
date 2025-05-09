@@ -322,6 +322,7 @@ Jedes Attribut, jeder Harm und jedes Wohl erhöhen den Wohlstandswert des Gegens
 | 6 - 7 |       +3       |     +4      |
 |   8   |       +4       |     +5      |
 |   9   |       +5       |     +6      |
+
 #### Schritt 2: Eigenschaften wählen
 Wähle eine beliebige Anzahl weiterer Eigenschaften, die der Gegenstand haben soll. Eigenschaften modifizieren den Wohlstandswert anhand der folgenden Tabelle.
 
@@ -344,10 +345,12 @@ Wähle eine beliebige Anzahl weiterer Eigenschaften, die der Gegenstand haben so
 | Intelligent   | +3                                                                               |
 | Waffe         | Muss zunächst erhalten oder erschafft werden                                     |
 *\* Wert des Nachteils anhand der Fläche für Multi-Zielen Angriffe (siehe [Kapitel 7: Kampf](./Kapitel-7_Kampf.md))*
+
 #### Schritt 3: Besondere Eigenschaften schreiben
 Im letzten Schritt konntest du aus den vordefinierten Eigenschaften auswählen. Nun kannst du deinem Gegenstand einzigartige Effekte verleihen, indem du deine eigenen besonderen Eigenschaften schreibst. Dafür schreibst du eine klare Beschreibung der spielmechanischen Auswirkungen des Gegenstände sowie möglicher Bedingungen oder Einschränkungen dafür.
 
 Nachdem du die besondere Eigenschaft deines Gegenstände beschrieben hast, erstellst du den Wohlstandswertmodifikator anhand der Antworten auf die folgenden Fragen zu der Eigenschaft.
+
 - **Ist sie häufig nützlich?** Wird der Charakter diese Eigenschaft oft nutzen können? Falls ja, Wohlstandswert +1.
 - **Ist sie vielfältig?** Ist die Eigenschaft in vielen verschiedenen Arten von Situationen nützlich? Falls ja, Wohlstandswert +1.
 - **Ist sie machtvoll?** Gibt die Eigenschaft dem Charakter deutlich mehr Macht oder erlaubt einen großen Einfluss auf den Verlauf der Geschichte? Falls ja, Wohlstandswert zwischen +1 und +9.
@@ -474,6 +477,7 @@ Legendäre Gegenstände können alle Eigenschaften besitzen, die auch außergew�
 *Der ultimative Erfolg jedes verrückten Wissenschaftlers und Quantenphysikers. Dieses Fahrzeug kann seine Insassen durch die vierte Dimension transportieren.*
 
 **Zeitreise:** Ein Charakter kann versuchen, forwärts oder rückwärts durch die Zeit zu reisen, indem er einen Wurf auf Logik mit HW 20 macht. Der Wurf erhält Nachteil 1 pro 5 Jahre Distanz in der Zeit. Alle Passagiere des Fahrzeugs werden mittransportiert, egal ob sie wollen oder nicht. Der GM kann einen fehlgeschlagenen Wurf beliebig kreativ interpretieren. Hier ein paar Vorschläge:
+
 - Die Distanz der Zeitreise wird mit 100 multipliziert.
 - Die Maschine transportiert die Reisenden stattdessen in eine andere Dimension.
 - Die Richtung der Reise durch die Zeit wird umgekehrt.

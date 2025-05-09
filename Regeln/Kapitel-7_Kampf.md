@@ -65,6 +65,7 @@ Sobald dein Zug in der Reihenfolge der Initiative dran ist, kannst du eine groß
 *\*Eine große Aktion kann für eine Bewegungsaktion eingetauscht werden.*
 ### Große Aktionen
 Große Aktionen sind die Handlungen, die das Kampfgeschehen stark beeinflussen. Deine große Aktion kann für eine der folgenden Handlungen benutzt werden:
+
 - Einen Angriff mit Schaden ausführen
 - Mit einem Harm angreifen
 - Ein Wohl wirken
@@ -72,12 +73,15 @@ Große Aktionen sind die Handlungen, die das Kampfgeschehen stark beeinflussen. 
 - Eine zusätzliche Bewegungsaktion bekommen
 
 Jede dieser Handlungen wird unten näher erklärt.
+
 #### Einen Angriff mit Schaden ausführen
 Ein Angriff mit Schaden ist eine Attacke, mit der du nur versuchst, die Trefferpunkte deines Gegners zu reduzieren. Wenn du ein Ziel angreifen willst, musst du die folgenden Schritte befolgen:
+
 1. **Attribut vs. Verteidung feststellen.** Jeder Angriff besteht aus einem Attributwurf, welcher gegen eine bestimmte Verteidigung eines Feindes als HW verglichen wird.
 2. **Ziel auswählen.** Die Reichweite deiner Attacke hängt von ihrer Art ab: Nahkampf, Fernkampf oder nicht-körperlicher Angriff.
 3. **Wirf deinen Angriffswurf.** Mach einen Attributwurf. Du richtest so viel Schaden wie an, wie dein Wurfergebnis die Verteidigung deines Gegners übertrifft. Falls du gleich der Verteidigung deines Gegners oder höher wirfst, teilst du immer mindestens 3 Schaden aus.
 Diese drei Schritte werden noch in größerem Detail erklärt.
+
 #### Angriff mit Schaden
 <table>
 	<tr>
@@ -99,7 +103,8 @@ Sobald du das Attribut gewählt hast, mit dem du angreifst, musst du die passend
 Körperliche Angriffe zielen immer auf Deckung.
 
 Nicht-körperliche Angriffe können verschiedene Arten von Verteidigung betreffen, sodass häufig der GM nach den folgenden Leitlinien entscheiden muss, welche Verteidigung genutzt wird:
-- **Deckung** schützt von Angriffen, denen man ausweichen kann, die abgewandt werden können oder vor denen Deckung schützt. Beispiele wären eine Flammenkugel, eine magische Wand aus Klingen oder ein Laserstrahl.
+
+- **Deckung** schützt vor Angriffen, denen man ausweichen kann, die abgewandt werden können oder vor denen Deckung schützt. Beispiele wären eine Flammenkugel, eine magische Wand aus Klingen oder ein Laserstrahl.
 - **Zähigkeit** verteidigt gegen Angriffe, die körperliche Fitness, Gesundheit oder Resillienz angreifen. Beispiele wären Gift oder nekrotische Energie.
 - **Entschlossenheit** schützt vor mentalen Attacken und Täuschung, zum Beispiel Angriffe einer Phasenbestie oder eine illusorischen Falle.
 
@@ -109,6 +114,7 @@ Nicht-körperliche Angriffe können verschiedene Arten von Verteidigung betreffe
 > Einige Attribute kann man so gut wie immer benutzen, um Schaden zuzufügen. Darunter sind Kraft, Geschicklichkeit, Energie und Vergehen. Sie sind der Normalfall für das Schwingen von Waffen, schießen von Gewehren, wirken von Zaubern, entziehen von Lebenskraft, usw. ...
 > ##### Manchmal
 > Manche Attribute können unter bestimmten Umständen benutzt werden, um Angriffe auszuführen, die Schaden zufügen. Hier sollte aus der Geschichte hervorgehen, wie das Können in einem Attribut dazu beiträgt, den Schaden anzurichten. Diese Attribute umfassen Logik, Schutz, Wandlung, Einfluss und Bewegung. Obwohl die Gelegenheiten zum Zufügen von Schaden mit diesen Attributen selten sein können, sind sie verfügbar, wenn die Story es erlaubt. Einige Beispiele für Umstände, in denen diese Attribute für Attacken benutzt werden können, werden aufgeführt:
+> 
 > - **Logik.** Eine Falle auslösen, in die Feinde getappt sind.
 > - **Schutz.** Sich mit einer Wand magischer Klingen schützen.
 > - **Wandlung.** Einen Feind mit einem belebten Ast erwürgen.
@@ -130,10 +136,13 @@ Du musst ein Ziel in Reichweite wählen:
 | 1 - 3        | 25 Fuß     |
 | 4 - 6        | 50 Fuß     |
 | 7 - 9        | 75 Fuß     |
+
 > ##### Fernkampfattacken im Nahkampf
 > Wann immer du einen Fernkampfangriff ausführst, während ein Feind in Nahkampfreichweite zu dir ist, hast du Nachteil 1 auf deinen Angriffswurf. Flächenattacken zählen in diesem Fall als Fernkampfangriffe, solange das Zielgebiet nicht mindestens ein Feld direkt angrenzend zu dir hat.
+
 ##### Wirf deinen Angriffswurf
 Führe einen Attributwurf mit dem in Schritt 1 festgestellten Attribut aus. Du fügst Schaden gleich der Differenz aus deinem Wurfergebnis und der Verteidigung deines Ziels zu, wobei negative Ergebnisse ignoriert werden. Dieser Schaden wird von den Trefferpunkten deines Ziels subtrahiert. Wann immer du den HW des Wurfes triffst oder darüber liegst, fügst du **mindestens 3 Schaden zu.**
+
 ##### Herausragender Erfolg
 Falls dein Angriffswurf die Verteidigung deines Ziels um 10 oder mehr übertrifft, kannst du einen Harm mit Kraftlevel gleich oder kleiner deinem Wert im für den Angriff genutzten Attribut wirken. Damit der Harm tatsächlich erfolgreich gewirkt wird, muss das Ergebnis deines Angriffswurfes auch die für den Harm genutzte Verteidigung übertreffen. Falls dein Angriff mehrere Ziele hatte, kannst du den Harm auf alle Ziele wirken, deren Verteidigung um 10 oder mehr übertroffen wurde und bei denen auch die Verteidigung gegen den Harm übertroffen wurde.
 
@@ -377,6 +386,7 @@ Wer als GM auch im Kampf den normalen Weg zum Interpretieren von Fehlschlägen n
 > - *Was wäre die dramatischste Konsequenz in dieser Situation?* Open Legend will grandiose Geschichten erzählen. Denke darüber nach, welche Option in den Köpfen deiner Spielenden in mehreren Wochen noch hängengeblieben sein wird.
 #### Erfolg mit einem Haken im Kampf
 Kapitel 2 hat die folgenden Arten von Konsequenz für Erfolg mit einem Haken angegeben:
+
 - Versetze einen Charakter in Gefahr.
 - Verschwende eine Ressource.
 - Gewinne einen Feind oder verliere einen Freund.
@@ -404,6 +414,7 @@ Cooks Gewehr qualmt, während er Bandit nach Bandit von seinem Nest auf Hoss Gen
 Im wahrscheinlich mutigsten Moment ihres Lebens schleicht Snitch in Armeslänge des Giftwyvern und versucht, das ruhende Biest mit einem Überraschungsangriff mit dem Harm *Betäubt* zu belegen. Ihr Wurf schlägt fehl und der GM bietet ihr einen Erfolg mit einem Haken an. Der Wyvern bemerkt Snitch im letzten Moment und schafft es, die Schurkin im gleichen Moment mit seinem Schwanz wegzufegen, in dem ihr Dolch seine Haut durchdringt. Der Wyvern ist *Betäubt*, doch Snitch wurde in eine Grube hinuntergeworfen, in der sie eine Brut hungriger Wyvernsäuglinge entdeckt, die auf ihr nächstes Mahl warten.
 #### Fehlschlag, aber die Geschichte schreitet voran im Kampf
 Kapitel 2 macht klar, dass Fehlschlag in Open Legend nie einfach Fehlschlag ist. Ein niedriger Angriffswurf ist mehr als Verfehlen. Ein fehlgeschlagener Versuch, ein Wohl zu wirken bedeutet mehr, als dass die gesammelte Macht wieder verpufft. Stattdessen sollte jeder Fehlschlag die Geschichte bedeutsam vorantreiben. Kapitel 2 hat die folgenden Möglichkeiten zur Interpretation von *Fehlschlag, aber die Geschichte schreitet voran* angeboten:
+
 - Der Spieler findet eine Chance auf Erfolg.
 - Die Gefahr eskaliert.
 - Die Informationen waren falsch.

@@ -25,11 +25,13 @@ Das Abenteuer steht im Mittelpunkt jeder Sitzung von Open Legend. Sind die Spiel
 Diese Sektion gibt dir die Informationen, die du brauchst, um eine breite Anzahl von anregenden Abenteuern zu erschaffen.
 ### Was jedes Abenteuer braucht
 Um zu beginnen, epische Quests zu planen, brauchst du drei wichtige Zutaten:
+
 - **Gefahr**
 - **Motivation**
 - **Twist**
 
 Die **Gefahr** sind die schlechten Konsequenzen, die eintreten, falls die Spielenden im Geschehen nicht eingreifen:
+
 - *Fünf Kinder wurden durch eine Hexe entführt, die sie zum Sonnenuntergang in einem Kessel kochen will.*
 - *Das Librim Protectis ist aus der Universität ihrer Majestät verschwunden und in ihm stehen die Wörter eines Rituals, das unerdenkliches Böse aus einer anderen Dimension beschwören kann.*
 - *Eine Flotte boganischer Zerstörer fegt durch die Galaxis und das Sternensystem der Spielenden liegt direkt auf ihrem Kurs.*
@@ -68,6 +70,7 @@ Ein Sandkastenabenteuer heißt so, weil die Spielenden - ähnlich wie Kinder in 
 > **Motivation:** Die Gruppe reist zufällig durch das Tal der Seelen und wird in den Konflikt verwickelt, als sowohl der Barbarenstamm als auch die Kollektoren sie für Feinde halten und angreifen.
 > 
 > **Orte:**
+> 
 > - Das Lager des Barbarenstamms
 > - Die Friedhöfe der Barbaren
 > - Die Höhlen des Chaos
@@ -95,6 +98,7 @@ Einfach gesagt ist eine Kampagne einfach eine Reihe von Abenteuern, die durch ei
 Häufig wollen aber Spielende (und vor allem der GM) eine größere Tiefe des Narrativs in einer Kampagne. Diese Sektion enthält Informationen dazu, wie du anhaltende Geschichten in Open Legend erzählen kannst.
 ### Plane ein großes Geheimnis
 Einer der besten Wege, die Geschichte interessant zu halten und dich weiter zu inspirieren, ist es, ein oder mehrere große Geheimnisse zu planen, die durch die Kampagne hinweg langsam aufgedeckt werden. Hier sind einige Beispiele von Geheimnissen in Kampagnen:
+
 - *Der weise Universitätsprofessor, der die Gruppe während ihrer Ermittlungen in der Kampagne berät, ist in Wirklichkeit ein eingesperrter Dämon, der sie manipuliert, um seine Freiheit zu gewinnen.*
 - *Die Welt liegt nicht in ewiger Dunkelheit, weil ein uralter Fluch die Sonne hat erlöschen lassen, sondern weil menschliche Zivilisationen vor tausenden Jahren gezwungen waren, in den Erduntergrund zu fliehen. Niemand hat seitdem je die "Decke" der Welt entdeckt, sodass sie annehmen, die Sonne wäre verdunkelt.*
 - *Ein Weltenbaum ist die Quelle des Lebens für den Planet. Wenn der Baum stirbt, wird die Welt selbst nicht sterben, sondern stattdessen in neuer Form wiedergeboren werden. Jedes intelligente Wesen ist an einen unsichtbaren Geist gebunden und einige grausame Magier haben entdeckt, wie sie die Geister sehen und mit ihnen feilschen können. Jetzt manipulieren sie ungesehen die Welt zu ihrem Vorteil.*
@@ -108,6 +112,7 @@ Sobald du dein Geheimnis (oder Geheimnisse) hast, kannst du anfangen, die Kampag
 > **Geheimnis:** Der weise Universitätsprofessor Dr. Livingston, der die Spielendengruppe bei ihren Ermittlungen berät, ist in Wirklichkeit ein interdimensionaler Dämon, der sie manipuliert, um seine Freiheit zu gewinnen.
 > 
 > **Kampagnenbögen:**
+> 
 > - **1. Teil:** Die Ermittler freunden sich mit Dr. Livingston an, während sie die Folge von Ritualmorden untersuchen, die sich gerade durch London zieht.
 > - **2. Teil:** Die Spielenden assistieren Dr. Livingston dabei, verschiedene Artefakte der Macht zu repatriieren, die in der ländlichen Umgebung verstreut sind.
 > - **3. Teil:** Die Ermittler befreien unabsichtlich den Doktor, der seine wahre Gestalt enthüllt und London in Schutt und Asche legt. Die Spielenden sammeln so schnell sie können Ritualmaterialien, um den Dämon ein für alle mal von der Erde zu verbannen.
@@ -128,6 +133,7 @@ In Open Legend ist der normale Weg, wie Spielende mächtiger werden, das Erlange
 Anstatt andauernd verschiedene EP anhand von Gegnertyp oder Art einer Herausforderung zu vergeben, benutzt Open Legend eine simple Methode um festzustellen, wann Spielende aufleveln sollten: den GM. Fertig. Du kannst entscheiden, wann deine Spielenden mehr Macht erlangen. Hier sind einige Methoden zu entscheiden, wann man EP vergeben könnte:
 
 **Große Meilensteine.** Du könntest ein Level Up als Belohnung vergeben, wenn Spielende eine große Quest abschließen, einen mächtigen Feind besiegen oder eine finstere Bedrohung bannen. Mit dieser Methode solltest du vielleicht planen, was für Meilensteine in deiner Kampagne auftreten könnten. Wann immer die Gruppe einen dieser Meilensteine erreicht, gibst du allen 3 EP und so ein Level Up. Eine Liste an Meilensteinen könnte zum Beispiel wie folgt aussehen:
+
 - **Level 2:** Die Helden bezwingen einen der drei Feinde, die Woodshold bedrohen.
 - **Level 3:** Die Helden decken den Kult des Drachen auf.
 - **Level 4:** Die Helden halten den Kult auf, bevor er das Ritual der Drei vollenden kann.
@@ -172,6 +178,7 @@ Wenn deine Spielenden andere Rollenspielsysteme schon kennen, sind sie es vielle
 Wenn ein Kampf endet, musst du also nicht jeden Pfeil abzählen, den die Gruppe bei den besiegten Banditen findet. Stattdessen kannst du der Gruppe einfach sagen, dass sie einige Wertgegenstände finden, die langsam dazu beitragen, später ihren Wohlstandswert zu erhöhen. Falls ein Spieler tatsächlich mehr Munition oder einen neuen Dolch braucht, kannst du überlegen, ob es narrativ Sinn ergibt, dass die NPCs diese Gegenstände haben, oder nicht.
 
 **Wohlstand heißt Einfluss.** Da Spielende nicht einzelne Goldmünzen oder Dollarscheine notieren, könnte es zunächst schwierig wirken, Situationen wie Bestechung oder ähnliches abzubilden. Eine gute Leitlinie, die man hier anwenden kann, ist, dass Charaktere ihr Geld auf die gleiche Weise nutzen können, um jemand zu beeinflussen, wie sie es sonst benutzen würden, um Güter zu kaufen (wie in [Kapitel 6: Wohlstand und Ausrüstung](./Kapitel-6_Wohlstand-und-Ausruestung.md) dargestellt):
+
 - Charaktere können ohne Probleme NPCs eines **niedrigreren Wohlstandswertes** bestechen, als sie selbst haben.
 - Falls ein NPC den **gleichen Wohlstandswert** wie ein Charakter hat, dann zählt eine Bestechung als "signifikante Ausgabe", was bedeutet, dass es getan werden kann, aber der Charakter keine weiteren Güter oder Bestechungen dieser Ausmaße in den nächsten zwei Wochen erwerben kann.
 - Hat der NPC einen **höheren Wohlstandswert** als der bestechende Charakter, dann sind die Kosten so gravierend, dass der Wohlstandswert des Charakter permanent um 1 reduziert wird. Jemand zu bestechen, der mehr als einen Wohlstandswert über dem des Charakters liegt, ist nicht möglich, ohne das erweiternde Umstände im Spiel sind.
@@ -179,11 +186,14 @@ Wenn ein Kampf endet, musst du also nicht jeden Pfeil abzählen, den die Gruppe 
 Ein Charakter mit Wohlstandswert 2 muss also viel von seinem Geld aufwenden, um eine Stadtwache zu bestechen. Um eine wichtige Persönlichkeit in der Politik ohne Probleme zu bestechen, wie einen Stadtbürgermeister oder dergleichen, braucht ein Charakter etwa WW 5. Behalt diese Leitlinien im Kopf, um in ähnlichen Situationen das Spiel zu leiten, zum Beispiel wenn die Gruppe jemand anheuern, Aristokraten um den Finger wickeln oder eine Menge mit ihrem Reichtum beeindrucken möchte.
 ## Non-Player Characters (NPCs)
 Keine Kampagne ist ohne Monster zum Besiegen und Feinde zum Überlisten komplett. Gleichzeitig müssen diese Gefahren nicht allein bezwungen werden und häufig wird der Gruppe von Personen auch geholfen, denen sie auf ihrem Weg begegnen. Allgemein werden sowohl Freunde als auch Feinde dieser Art als "NPCs" bezeichnet (non-player character, dt.: nicht-Spielercharaktere). Während du deine Kampagne planst, werden deine NPCs wahrscheinlich grob in drei Kategorien fallen:
+
 - Handlanger
 - Feinde
 - Verbündete
+
 ### Handlanger
 Handlanger ist ein allgemeiner Begriff, der jegliche Antagonisten beschreibt, die einfach als kleiner Teil einer größeren Bedrohung oder Herausforderung im Weg der Pläne der Gruppe stehen. Beispiele für Handlanger sind eine Gruppe von Raumpiraten, die der Gruppe auflauern, ein riesiger Schleim, der in einem Dungeon umherkriecht oder eine Einheit Assassinen, die vom örtlichen Mob angeheuert wurde, den Eingriffen der Gruppe ein Ende zu bereiten. Handlanger haben generell realistische Motive, aber ihr Einfluss auf die Geschichte ist so gering, dass du nicht viel Zeit darauf verwenden musst, ihnen Tiefe zu verleihen. Die Piraten sind gierig, der Schleim hat Hunger und die Assassinen befolgen die Order ihrer Gilde.
+
 ### Feinde
 Der Feind in einem Geschichtsstrang ist der primäre Antagonist, wobei deine Gruppe sich in ihren Abenteuern wahrscheinlich mit mehreren verschiedenen Bösewichten auseinandersetzen muss. Ein Nekromant, der sich in einem Friedhof eingenistet hat, eine AI, die die Entscheidungen des galaktischen Senats aus den Schatten kontrolliert oder ein Banditenkönig, der die streitenden Stämme unter sich vereint hat. Anders als Handlanger sollten Feine durchdachte Motivationen und Persönlichkeiten haben. Um gute Feinde zu konzipieren, kannst du dir die folgenden Elemente für sie überlegen.
 
@@ -198,6 +208,7 @@ NPCs müssen natürlich nicht immer feindlich gesinnt sein. Viele der wichtigste
 Egal, was für Verbündete der Gruppe beistehen, der GM sollte bei ihnen immer einige Konzept im Kopf haben, damit sie das Spiel bereichern, nicht schmälern.
 
 **Verbündete sollten Helden unterstützen, nicht überflügeln.** Gute Verbündete geben den Spielenden die Chance, größere Heldentaten zu vollbringen. Anders gesagt sollten die Verbündeten die Helden glänzen lassen, nicht selbst in den Mittelpunkt treten. Spielende wollen Protagonisten sein, weshalb es wichtig ist, die eigenen NPCs nicht zu viel Platz im Rampenlicht einnehmen zu lassen. Auch wenn die folgenden Beispiele in manchen Situationen funktionieren können, solltest du sie meistens eher vermeiden:
+
 - Ein NPC rettet die Gruppe aus einem verlorenen Kampf und trägt den Sieg davon.
 - Ein NPC teilt den meisten Schaden in einem Kampf aus.
 - Ein NPC ist in einer Position, in der die Spielenden sich gezwungen fühlen, seine Befehle zu befolgen.
@@ -248,6 +259,7 @@ Nutze die Tabelle *NPC Einfacher Aufbau*, um die wichtigsten Werte des NPCs fest
 | 20        | 48 - 60       | 24 - 30        | 10                  | 9                     |
 
 Sobald du die grundlegenden Werte notiert hast, wähle ein paar der folgenden Fertigkeiten, um deinem NPC Angriffe und besondere Fähigkeiten zu geben. Diese Fertigkeitenbeschreibungen sind vereinfachte Versionen aus der Liste, die du über Kapitel 4 findest. Du kannst auch jede Fertigkeit aus Kapitel 4 wählen, wenn sie für die Handlung passt, die der NPC erzählt. Einige der Einträge hier sind nur für NPCs verfügbar, die vom GM kontrolliert werden, nicht für Spielercharaktere.
+
 - **Angriffsspezialisierung (Rang anhand des NPC-Levels, max. 9):** Du hast Vorteil 1 pro Rang für eine Art Attacke. Dieser Bonus zählt nicht für Harmattacken und Wohlwirken.
 - **Harmfokus:** Wähle einen Harm, den du wirken kannst. Wenn dein Wurf auf einen Angriff mit Schaden die Verteidigung des Ziels um 5 oder mehr übersteigt (anstatt der normalen 10 oder mehr), kannst du den Harm automatisch zufügen. Jeder Angriff kann weiterhin nur einen einzigen Harm zufügen. Weiterhin erhälst du Vorteil 2 auf Harmattacken mit dem gewählten Harm.
 - **Überragender Harmfokus (nur für GM verfügbar):** Wähle einen Harm, den du wirken kannst. Wann immer ein Angriff mit Schaden irgendwelchen Schaden zufügt, kannst du automatisch den Harm wirken. Wenn du den Harm mit einer normalen Harmattacke wirkst, hast du Vorteil 3 auf den Wurf.

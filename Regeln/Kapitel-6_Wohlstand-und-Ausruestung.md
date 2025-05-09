@@ -19,6 +19,7 @@ Jeder Charakter hat einen Wohlstandswert, welcher bei 2 beginnt und die Werte 0 
 | 7              | König, Präsident                                  | eine Festung, ein Kampfjet, eine geheime Spezialeinheit                                              |
 | 8              | Intergalaktischer Herrscher, Level 10 Charakter   | ein großes Landgut, eine große Konzernübernahme, eine Armee von 10.000                               |
 | 9              | Imperator                                         | ein Schloss, eine Raumstation, eine Armee von 50.000, eine Flotte Kriegsschiffe                      |
+
 ### Güter und Dienstleistungen erwerben
 Egal, ob du neue Ausrüstung kaufen, ein Gebäude errichten oder einen Handwerker anheuern willst, dein Wohlstandswert gibt an, ob du dazu in der Lage bist. Alle Güter und Dienstleistungen haben ihren eigenen Wohlstandswert (entweder von den Regeln oder dem GM festgelegt). Dieser Wert wird mit deinem verglichen, um festzustellen, wie viel dich der Erwerb kostet:
 
@@ -171,12 +172,16 @@ Die *Rüstung*-Tabelle fasst die folgenden Eigenschaften jeder Art von Rüstung 
 | Kettenhemd, Kevlarweste, Brustplatte            | Mittel | 2   | 3                   | 2                  | 0                     |
 | Yoroirüstung, Plattenpanzer, Riot-Suit          | Schwer | 2   | 3                   | 3                  | 5'                    |
 | Exopanzer, Elfischer Plattenpanzer              | Schwer | 4   | 1                   | 3                  | 0                     |
+
 ### Rüstung an- und ablegen
 Rüstung anzulegen oder abzulegen dauert für leichte Rüstung 1 Runde, für mittlere Rüstung 1 Minute und 10 Minuten für schwere Rüstung. In mittlerer oder schwerer Rüstung zu schlafen bedarf spezielles Training. Ohne die Fertigkeit *Rüstungsexpertise* leidet dein Charakter nach dem Schlafen in mittlerer oder schwerer Rüstung unter einer Instanz des Harmes *Erschöpft*. Dieser gibt deinem Charakter Nachteil 1 auf alle nicht-Angriffswürfe, bis er eine volle Nacht Schlaf bekommen hat.
+
 ## Eigene Waffen erstellen
 Zuvor haben wir die spielmechanischen Vorzüge verschiedener Waffen aufgeführt. Eventuell möchtest du aber auch deinen Charakter oder die Kampagne mit selbst erstellen Waffen ausstatten. Im Folgenden werden die vier Schritte vorgestellt, mit denen du eine Waffe zusammenstellst. Jede Waffe beginnt mit einem Wohlstandswert von 1, welcher an den verschiedenen Schritten des Prozesses erhöht oder verringert werden kann.
+
 ### Schritt 1: Wähle eine Kategorie
 Typischerweise gehört eine Waffe in eine Kategorie. Manche Waffen, wie zum Beispiel ein Dolch oder ein Schwertgewehr können in zwei Kategorien fallen. Keine Waffe sollte mehr als zwei Kategorien haben, aber ob eine Waffe eine oder zwei Kategorien hat, kann vom Spieler und GM zusammen entschieden werden. Dieser Schritt hat keinen Einfluss auf den Wohlstandswert der Waffe.
+
 ### Schritt 2: Wähle Eigenschaften
 Jede Waffe muss mindestens eine der Eigenschaften *kraftvoll* oder *präzise* haben. Eine Waffe kann auch beide haben. Wähle eine oder beide.
 

@@ -8,6 +8,7 @@ Lizenz: MPL 2.0
 Lizenz der Originalregeln: *Open Legend Community License*
 ### Inhaltsverzeichnis
 Regelwerk:
+
 - [Einführung](./Kapitel-0_Einfuehrung.md)
 - [Kapitel 1: Charaktererstellung](Kapitel-1_Charaktererstellung.md)
 - [Kapitel 2: Aktionen und Attribute](Kapitel-2_Aktionen-und-Attribute.md)
@@ -20,6 +21,7 @@ Regelwerk:
 - [Kapitel 9: Spezialausrüstung](./Kapitel-9_Spezialausruestung.md)
 
 Listen:
+
 - [Fertigkeiten](./Listen/Fertigkeiten.md)
 - [Harme](./Listen/Harme.md)
 - [Wohle](./Listen/Wohle.md)
