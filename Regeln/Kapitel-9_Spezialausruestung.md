@@ -344,6 +344,7 @@ Wähle eine beliebige Anzahl weiterer Eigenschaften, die der Gegenstand haben so
 | Mächtig       | 2 + *Mächtig*-Wert                                                               |
 | Intelligent   | +3                                                                               |
 | Waffe         | Muss zunächst erhalten oder erschafft werden                                     |
+
 *\* Wert des Nachteils anhand der Fläche für Multi-Zielen Angriffe (siehe [Kapitel 7: Kampf](./Kapitel-7_Kampf.md))*
 
 #### Schritt 3: Besondere Eigenschaften schreiben
