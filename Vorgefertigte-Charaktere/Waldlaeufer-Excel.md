@@ -11,5 +11,5 @@
 **Wichtige Ausrüstung:** Fährtenleser, Angriffsspezialisierung I (Langbogen), Flinkfuß I
 
 ## Bevorzugte Aktionen
-***Schuss*** (Angriff mit Schaden): Geschicklichkeit vs. Deckung, Vorteil 1
+***Schuss*** (Angriff mit Schaden): Geschicklichkeit vs. Deckung, Vorteil 1  
 ***Bestechender Blick*** (_Bezaubert_ zufügen): Einfluss vs. Entschlossenheit

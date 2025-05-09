@@ -17,6 +17,11 @@ Charakters so weit es geht wiederspiegeln.
 - [Gefallene Grazie](Gefallene-Grazie.md) - Zwei identisch aussehende Personen,
   die nie preisgeben, wer von ihnen die echte Grazie ist und mit Talent jede
   soziale Situation meistern.
+- [Vampiradel](Vampiradel.md) - Ein Meister der Täuschung und erfüllt von
+  untoten Mächten glänzt diese alte Gestalt im Kampf aber auch in jeder
+  sozialen Situation.
+- [Sprengmeister](Sprengmeister.md) - Ein Fernkämpfer, der auf Flächenangriffe
+  spezialisiert ist, dabei seine Verbündeten aber unversehrt lässt.
 
 ## Charaktere aus dem Regelwerk
 Diese Charaktere sind die gleichen, wie in Kapitel 1 der Regeln. Sie sind hier
@@ -113,10 +118,10 @@ Strategiebeschreibung
 **Wichtige Ausrüstung:** 
 
 ## Bevorzugte Aktionen
-***Name*** (Angriff mit Schaden): Attribus vs. Verteidigung, Vorteil / Nachteil
-***Name*** (_Harm_ zufügen): Attribut vs. Verteidigung, Vorteil / Nachteil
-***Name*** (_Wohl_ wirken): Attribute vs. [kleinster HW] - [größter HW] (KL [kleinstes KL] - [gröstes KL]), Vorteil / Nachteil
-***Name*** (Art der Aktion): Infos zum Ausführen
+***Name*** (Angriff mit Schaden): Attribus vs. Verteidigung, Vorteil / Nachteil  
+***Name*** (_Harm_ zufügen): Attribut vs. Verteidigung, Vorteil / Nachteil  
+***Name*** (_Wohl_ wirken): Attribute vs. [kleinster HW] - [größter HW] (KL [kleinstes KL] - [gröstes KL]), Vorteil / Nachteil  
+***Name*** (Art der Aktion): Infos zum Ausführen  
 ```
 
 _Hinweis:_ Achte darauf, dass explizite Zeilenumbrüche am Ende der Zeilen unter
