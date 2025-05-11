@@ -143,7 +143,7 @@
   description: |
     Selbst bei absoluter Dunkelheit kannst du deine Umgebung ausmachen. Einige Beispiele für Blindsicht wären Vibrationssinne, Echolokation, Hitzesicht, himmlische Einsicht oder außergewöhnlich erhöhte Sinne.
   effect: |
-    Das Ziel ist immun gegen den *geblendet*-Harm und kann auch in Bedingungen mit wenig oder keinem Licht normal sehen. Blindsicht kann auch potentiell Unsichtbarkeit entgegenwirken, allerdings muss der GM hier entscheiden, ob die Quelle der Blindsicht tatsächlich die Quelle der Unsichtbarkeit invalidieren würde.
+    Das Ziel ist immun gegen den *Geblendet*-Harm und kann auch in Bedingungen mit wenig oder keinem Licht normal sehen. Blindsicht kann auch potentiell Unsichtbarkeit entgegenwirken, allerdings muss der GM hier entscheiden, ob die Quelle der Blindsicht tatsächlich die Quelle der Unsichtbarkeit invalidieren würde.
 - !
   name: Detektion
   OGname: Detection
