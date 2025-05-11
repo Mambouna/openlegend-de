@@ -492,7 +492,7 @@ Wenn das Wohl gewirkt wird, wählt der wirkende Charakter eine Art von Angriff u
 <li><strong>Kraftlevel 3</strong> - Die Verteidigungswerte des Ziels sind gegen Angriffe der gewählten Art um 3 erhöht.</li>
 <li><strong>Kraftlevel 5</strong> - Die Verteidigungswerte des Ziels sind gegen Angriffe der gewählten Art um 6 erhöht.</li>
 <li><strong>Kraftlevel 7</strong> - Die Verteidigungswerte des Ziels sind gegen Angriffe der gewählten Art um 9 erhöht.</li>
-<li><strong>Kraftlevel 9</strong> - Das Ziel ist immun gegen Schaden und schadvolle Effekte durch Angriffe der gewählten Art.</li
+<li><strong>Kraftlevel 9</strong> - Das Ziel ist immun gegen Schaden und schadvolle Effekte durch Angriffe der gewählten Art.</li>
 </ul>
 
 > Tags: Außergewöhnlich  
