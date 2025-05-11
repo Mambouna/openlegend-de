@@ -102,7 +102,7 @@ ___
 Selbst bei absoluter Dunkelheit kannst du deine Umgebung ausmachen. Einige Beispiele für Blindsicht wären Vibrationssinne, Echolokation, Hitzesicht, himmlische Einsicht oder außergewöhnlich erhöhte Sinne.
 
 **Effekt**  
-Das Ziel ist immun gegen den *geblendet*-Harm und kann auch in Bedingungen mit wenig oder keinem Licht normal sehen. Blindsicht kann auch potentiell Unsichtbarkeit entgegenwirken, allerdings muss der GM hier entscheiden, ob die Quelle der Blindsicht tatsächlich die Quelle der Unsichtbarkeit invalidieren würde.
+Das Ziel ist immun gegen den *Geblendet*-Harm und kann auch in Bedingungen mit wenig oder keinem Licht normal sehen. Blindsicht kann auch potentiell Unsichtbarkeit entgegenwirken, allerdings muss der GM hier entscheiden, ob die Quelle der Blindsicht tatsächlich die Quelle der Unsichtbarkeit invalidieren würde.
 
 > Tags: Außergewöhnlich, Körperlich  
 > Englisch: _Blindsight_
@@ -152,7 +152,7 @@ ___
 Du erschaffst ein Gebiet illusorischer Dunkelheit oder entropischer Energie, die alles Licht verlischen lässt. Dieses Wohl ist beliebt unter Illusionisten, Schattenwebern, Psionikern und verrückten Wissenschaftlern.
 
 **Effekt**  
-Wähle einen Raum oder ein Objekt in deiner Reichweite. Dunkelheit quillt aus dem Ziel hervor bis zu einem Radius von 5 Fuß pro Kraftlevel des Wohls. Dieser Effekt annuliert die Wirkung von allem natürlichen Licht innerhalb seines Radius und Kreaturen, die sich für ihre Sicht auf Licht verlassen, erleiden die gleichen Nachteile, als würden sie den *geblendet*-Harm haben, während sie in der Fläche dieses Wohls sind. Kreaturen, die sich für ihre Sicht nicht auf Licht verlassen (z.B. durch Vibrationssinne, Blindsicht, usw. ...) werden nicht eingeschränkt. Falls die Fläche der Dunkelheit sich mit der eines Licht-Wohls überschneidet, dann wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen in der betroffenen Fläche wieder die natürlichen Lichtverhältnisse, als gäbe es keine der beiden Wohle.
+Wähle einen Raum oder ein Objekt in deiner Reichweite. Dunkelheit quillt aus dem Ziel hervor bis zu einem Radius von 5 Fuß pro Kraftlevel des Wohls. Dieser Effekt annuliert die Wirkung von allem natürlichen Licht innerhalb seines Radius und Kreaturen, die sich für ihre Sicht auf Licht verlassen, erleiden die gleichen Nachteile, als würden sie den *Geblendet*-Harm haben, während sie in der Fläche dieses Wohls sind. Kreaturen, die sich für ihre Sicht nicht auf Licht verlassen (z.B. durch Vibrationssinne, Blindsicht, usw. ...) werden nicht eingeschränkt. Falls die Fläche der Dunkelheit sich mit der eines Licht-Wohls überschneidet, dann wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen in der betroffenen Fläche wieder die natürlichen Lichtverhältnisse, als gäbe es keine der beiden Wohle.
 
 > Tags: Außergewöhnlich  
 > Englisch: _Darkness_

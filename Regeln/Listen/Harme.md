@@ -154,7 +154,7 @@ Bewusstlos ist ein Sammelbegriff für eine Reihe von Effekten, darunter totale P
 **Effekt**  
 Das Ziel ist immobilisiert (kann sich nicht von seinem momentanen Platz bewegen) und bewusstlos. Es hat Nachteil 5 auf alle Wahrnehmungswürfe und kann sich nicht bewegen. Als Resultat dessen kann ein bewusstloser Charakter das Ziel von Gnadenstößen werden.
 <ul>
-<li><strong>Kraftlevel 5</strong> - Der Effekt kann durch eine moderateStörung gebrochen werden, wie z.B. einem festen Stoß, einem Tritt, Glas voll Wasser, lautem Knall, usw. ...</li>
+<li><strong>Kraftlevel 5</strong> - Der Effekt kann durch eine moderate Störung gebrochen werden, wie z.B. einem festen Stoß, einem Tritt, Glas voll Wasser, lautem Knall, usw. ...</li>
 <li><strong>Kraftlevel 7</strong> - Der Effekt kann nur gebrochen werden, wenn das Ziel 1 TP oder mehr an Schaden nimmt.</li>
 <li><strong>Kraftlevel 9</strong> - Der Effekt kann nicht durch äußere Quellen gebrochen werden. Nur ein erfolgreicher Widerstandswurf durch das Ziel kann den Effekt beenden.</li>
 </ul>
