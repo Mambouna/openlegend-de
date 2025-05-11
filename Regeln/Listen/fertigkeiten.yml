@@ -2339,7 +2339,7 @@
     <li><strong>Rang 2</strong> - Die Schwelle für einen Todesstoß ist auf 10 erhöht. Weiterhin fügst du deinem Feind bei einem erfolgreichen Tödlichen Streich automatisch den Harm <em>betäubt</em> zu, wobei dieser nicht gegen das Limit auf max. einen Harm pro Angriff zählt.</li>
     </ul>
 - !
-  name: Tödlicher Schlag(I - IX)
+  name: Tödlicher Schlag (I - IX)
   OGname: Lethal Strike (I - IX)
   prerequisites:
     tier1:

@@ -1248,7 +1248,7 @@ Du kannst effizient Feinde töten, die dem Ende nahe sind und ihre Todesschreie 
 
 ___
 
-### Tödlicher Schlag(I - IX)
+### Tödlicher Schlag (I - IX)
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
