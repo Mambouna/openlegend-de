@@ -1,4 +1,4 @@
-[Kapitel 1: Charaktererstellung](./Kapitel-1_Charaktererstellung.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 3: Harme und Wohle](./Kapitel-3_Harme-und-Wohle.md)
+[Kapitel 1: Charaktererstellung](<./Kapitel-1_Charaktererstellung.md>) | [Inhaltsverzeichnis](<./Inhaltsverzeichnis.md>) | [Kapitel 3: Harme und Wohle](<./Kapitel-3_Harme-und-Wohle.md>)
 
 # Kapitel 2: Aktionen & Attribute
 Die Einleitung und Kapitel 1 haben dir die Kernmechanik zum Abhandeln von Aktionen vermittelt und dir einen guten Überblick verschafft, wofür Attribute benutzt werden. Dieses Kapitel wird etwas tiefer in sie einsteigen und erklären, wann verschiedene Arten von Aktionswürfen gemacht werden sollten und wie man das Ergebnis interpretieren kann.
@@ -66,7 +66,7 @@ Das oben dargestellte Szenario mit Pelias zeigt nut einen Ansatz, wie ein GM das
 ### Erfolge interpretieren
 Ein erfolgreicher Aktionswurf ist bei weitem am leichtesten zu interpretieren: er bedeutet, dass der Spieler erreicht, was er sich erhofft hatte. Falls er darauf geworfen hat, eine Klippe zu erklimmen, erklimmt er die Klippe. Falls er versucht hat, jemanden zu bestehlen, bestiehlt er sie. Versucht er, einen Ork zu erstechen, ist der Ork erstochen. Und so weiter.
 
-In einigen Fällen ist das Ergebnis eines Erfolgs schon in den Regeln festgeschrieben (zum Beispiel im Gefecht, erklärt in [Kapitel 7: Kampf](./Kapitel-7_Kampf.md)). Oft muss aber der GM entscheiden, was bei einem erfolgreichen Aktionswurf passiert.
+In einigen Fällen ist das Ergebnis eines Erfolgs schon in den Regeln festgeschrieben (zum Beispiel im Gefecht, erklärt in [Kapitel 7: Kampf](<./Kapitel-7_Kampf.md>)). Oft muss aber der GM entscheiden, was bei einem erfolgreichen Aktionswurf passiert.
 
 Es gibt zwei primäre Faktoren, die bedacht werden müssen, wenn man einen Erfolg auslegt:
 
@@ -163,7 +163,7 @@ Vorteil und Nachteil werden nur bei deinem ursprünglichen Würfelpool angewandt
 ### Vorteil & Nachteil ohne Attributwürfel
 Wenn man einen Aktionswurf ohne Attributwürfel macht, wirken Vorteil und Nachteil sich auf den d20 aus. Man wirft zum Beispiel 2d20 und behält den höchsten Wert. Bei Nachteil wirft man 2d20 und behält den niedrigeren Wert. Weiterhin kann man in solchen Situationen nicht mehr als Vorteil 1 oder Nachteil 1 haben. Der Charakter ist so ungeübt bei der Handlung, dass er zusammenfallende Vorzüge nicht ausnutzen und mehr Behinderung ihn nicht weiter stören können.
 
-Diese Regeln gelten sowohl für Aktionen, die mit einem Attributwert von 0 ausgeführt werden, als auch für nicht-Aktionswürfe (wie ein d20 bei einem Widerstandswurf). Dazu kommt, dass man nicht absichtlich Nachteile für einen positiven Effekt bei einem Wurf ohne Attributwürfel sammeln kann. Also kann man mit einem Attributwert von 0 keine Angriffe mit Multi-Zielen verwenden (mehr dazu in [Kapitel 7: Kampf](./Kapitel-7_Kampf.md)).
+Diese Regeln gelten sowohl für Aktionen, die mit einem Attributwert von 0 ausgeführt werden, als auch für nicht-Aktionswürfe (wie ein d20 bei einem Widerstandswurf). Dazu kommt, dass man nicht absichtlich Nachteile für einen positiven Effekt bei einem Wurf ohne Attributwürfel sammeln kann. Also kann man mit einem Attributwert von 0 keine Angriffe mit Multi-Zielen verwenden (mehr dazu in [Kapitel 7: Kampf](<./Kapitel-7_Kampf.md>)).
 ### Vorteil & Nachteil zuweisen
 Vorteil und Nachteil können vom GM zugewiesen werden, oder aber durch Fertigkeiten, Harme oder Wohle erhalten werden. Wenn sie je nach Situation vom GM vergeben werden, sollte dieser nie mehr als Vor- oder Nachteil 1 anwenden. Fertigkeiten, Harme und Wohle auf der anderen Seite werden häufig mehrere Level an Vorteil oder Nachteil mit sich bringen. Die *Vorteil und Nachteil Beispiele*-Tabelle gibt eine Auflistung von typischen Situationen, in denen der GM eventuell Vorteil oder Nachteil zuweisen könnte, wobei die Liste natürlich nicht abschließend ist.
 #### Vorteil und Nachteil Beispiele
@@ -191,4 +191,4 @@ Ein Charakter kann maximal die Anzahl an Legendenpunkten entsprechend seinem eig
 
 Bevor er den Aktionswurf durchführt, gibt der Spieler an, wie viele Legendenpunkte er ausgibt und bekommt Vorteil 1 auf den Wurf pro eingesetztem Legendenpunkt. Zusätzlich wird auf das Ergebnis des Wurfes pro Legendenpunkt +1 aufgerechnet.
 
-[Kapitel 1: Charaktererstellung](./Kapitel-1_Charaktererstellung.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 3: Harme und Wohle](./Kapitel-3_Harme-und-Wohle.md)
+[Kapitel 1: Charaktererstellung](<./Kapitel-1_Charaktererstellung.md>) | [Inhaltsverzeichnis](<./Inhaltsverzeichnis.md>) | [Kapitel 3: Harme und Wohle](<./Kapitel-3_Harme-und-Wohle.md>)

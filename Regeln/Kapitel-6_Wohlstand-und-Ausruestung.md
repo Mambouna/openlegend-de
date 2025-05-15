@@ -1,4 +1,4 @@
-[Kapitel 5: Charakterstärken und -schwächen](./Kapitel-5_Charakterstaerken-und-schwaechen.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 7: Kampf](./Kapitel-7_Kampf.md)
+[Kapitel 5: Charakterstärken und -schwächen](<./Kapitel-5_Charakterstaerken-und-schwaechen.md>) | [Inhaltsverzeichnis](<./Inhaltsverzeichnis.md>) | [Kapitel 7: Kampf](<./Kapitel-7_Kampf.md>)
 
 # Kapitel 6: Wohlstand & Ausrüstung
 Keine Geschichte von Helden ist ohne ebenso heldenhafte Ausrüstung, Waffen und Rüstung vollständig. Indiana Jones hatte seine Peitsche, König Arthur hatte *Exkalibur* und Bilbo hatte das Mithrilkettenhemd. In diesem Kapitel lernst du alles, was du wissen musst, um deinen Charakter auf Level 1 und jenseits davon auszurüsten. Ebenso wird behandelt, wie du deinen Wohlstand verwaltest, während du die Schätze von Weltraumpiraten plünderst oder Hand an die Schatzkammer eines Königs legst.
@@ -199,7 +199,7 @@ Wähle als nächstes eine beliebige Anzahl an weiteren Eigenschaften aus, die di
 | Stationär        | -1                |
 | Schnell          | +1                |
 
-*\* Wert des Nachteils anhand der Fläche für Multi-Zielen Angriffe (siehe [Kapitel 7: Kampf](./Kapitel-7_Kampf.md))*
+*\* Wert des Nachteils anhand der Fläche für Multi-Zielen Angriffe (siehe [Kapitel 7: Kampf](<./Kapitel-7_Kampf.md>))*
 ### Schritt 3: Harme auswählen
 Waffen werden in ihrem Kampfstil durch die Harme differenziert, die sie wirken können. Harme haben keinen Einfluss auf den Wohlstandswert der Waffe und die meisten Waffen haben 2 oder 3 assoziierte Harme. Waffen mit 4 oder mehr Harmen müssen vom GM akzeptiert werden.
 ### Schritt 4: Wohlstandswert berechnen
@@ -216,4 +216,4 @@ Alle Waffen (mit Ausnahme von unbewaffneter Schlag), starten mit einem Wohlstand
 > 
 > **Schritt 4 (Wohlstandswert berechnen)** Die Modifikation des WW nach Schritt 2 ist +1 (*defensiv 1* = +1, *lang* = +1, *langsam* = -1). Auf den Start-WW von 1 addiert, ergibt das einen finalen WW von 2 für die Kusari-Gama.
 
-[Kapitel 5: Charakterstärken und -schwächen](./Kapitel-5_Charakterstaerken-und-schwaechen.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 7: Kampf](./Kapitel-7_Kampf.md)
+[Kapitel 5: Charakterstärken und -schwächen](<./Kapitel-5_Charakterstaerken-und-schwaechen.md>) | [Inhaltsverzeichnis](<./Inhaltsverzeichnis.md>) | [Kapitel 7: Kampf](<./Kapitel-7_Kampf.md>)

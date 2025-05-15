@@ -1,4 +1,4 @@
-[Kapitel 8: Das Spiel leiten](./Kapitel-8_Das-Spiel-leiten.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | kein nächstes Kapitel
+[Kapitel 8: Das Spiel leiten](<./Kapitel-8_Das-Spiel-leiten.md>) | [Inhaltsverzeichnis](<./Inhaltsverzeichnis.md>) | kein nächstes Kapitel
 
 # Kapitel 9: Spezialausrüstung
 Kapitel 6 hat dir die häufigsten Arten von Ausrüstung näher gebracht, die dein Charakter benutzen wird. In diesem Kapitel lernst du Regeln für besondere Ausrüstung kennen, die nicht so allgegenwärtig ist. Als erstes lernst du außergewöhnliche Gegenstände kennen: Waffen, Rüstung und andere Gegenstände, die mit Magie verstärkt, von Meistern geschmiedet, mit futuristischer Technologie ausgestattet oder anderweitig normalen Gegenstände gleicher Art überlegen sind. Danach lernst du, wie Reittiere und Fahrzeuge umgesetzt sind, die deine Charaktere für bessere Beweglichkeit und andere taktische Möglichkeiten reiten oder steuern können.
@@ -13,7 +13,7 @@ Außergewöhnliche Gegenstände sind aber so mächtig, dass sie den Verlauf der 
 ### Beschreibung außergewöhnlicher Gegenstände
 Außergewöhnliche Gegenstände unterscheiden sich von normalen Waffen, Rüstung und anderer Ausrüstung, weil sie dem sie führenden Charakter Zugang zu Attributen, Harmen und Wohlen erlauben, die seine eigene Macht übersteigen. Anders ist es auch möglich, dass sie Attribute, Harme oder Wohle, die der Charakter schon nutzen kann, verstärken oder erweitern. Die Tabelle *Außergewöhnliche Gegenstände* stellt Beispiele dieser Gegenstände aus vielen verschiedenen Genres dar. Die Beispiele umfassen Waffen und Ausrüstung, potente Magie, Alchemie und Technologie und sollten eine Fülle an Inspiration schaffen, mit der du selbst außergewöhnliche Gegenstände für deine eigenen Kampagnen erstellen kannst.
 
-**Wohlstandswert (WW)** gibt den Wohlstandswert an, mit dem der Gegenstand assoziiert ist. Um den Gegenstand zu erwerben, muss der Charakter den nötigen Wohlstand haben, wobei den Regeln aus [Kapitel 6: Wohlstand und Ausrüstung](./Kapitel-6_Wohlstand-und-Ausruestung.md) genau wie bei normalen Gegenstände gefolgt wird.
+**Wohlstandswert (WW)** gibt den Wohlstandswert an, mit dem der Gegenstand assoziiert ist. Um den Gegenstand zu erwerben, muss der Charakter den nötigen Wohlstand haben, wobei den Regeln aus [Kapitel 6: Wohlstand und Ausrüstung](<./Kapitel-6_Wohlstand-und-Ausruestung.md>) genau wie bei normalen Gegenstände gefolgt wird.
 
 **Attribute** geben an, welche Attribute mit dem Gegenstand genutzt werden können. Ein Gegenstand kann Attribute nutzen, um Angriffe zu machen, Harme oder Wohle zu wirken oder andere Aktionen auszuführen, die unter die Möglichkeiten des Gegenstände fallen. Der führende Charakter gibt seine eigenen Aktionen aus, um den Gegenstand zu nutzen, aber alle Attributwürfel und Kraftlevel werden durch den Attributwert des Gegenstände bestimmt. Zutreffende Fertigkeiten des Charakters werden weiterhin angewandt. Falls der Attributwert des Charakters höher ist als der des Gegenstände, kann er sein eigenes Attribut verwenden, wobei der Gegenstand dann Vorteil 1 auf alle Würfe mit diesem Attribut gibt. Dieser Bonus kann nur einmal erhalten werden, egal wie viele Gegenstände du führst, die diese Möglichkeit theoretisch hätten.
 
@@ -345,7 +345,7 @@ Wähle eine beliebige Anzahl weiterer Eigenschaften, die der Gegenstand haben so
 | Intelligent   | +3                                                                               |
 | Waffe         | Muss zunächst erhalten oder erschafft werden                                     |
 
-*\* Wert des Nachteils anhand der Fläche für Multi-Zielen Angriffe (siehe [Kapitel 7: Kampf](./Kapitel-7_Kampf.md))*
+*\* Wert des Nachteils anhand der Fläche für Multi-Zielen Angriffe (siehe [Kapitel 7: Kampf](<./Kapitel-7_Kampf.md>))*
 
 #### Schritt 3: Besondere Eigenschaften schreiben
 Im letzten Schritt konntest du aus den vordefinierten Eigenschaften auswählen. Nun kannst du deinem Gegenstand einzigartige Effekte verleihen, indem du deine eigenen besonderen Eigenschaften schreibst. Dafür schreibst du eine klare Beschreibung der spielmechanischen Auswirkungen des Gegenstände sowie möglicher Bedingungen oder Einschränkungen dafür.
@@ -495,7 +495,7 @@ Typischerweise können Reittiere und Fahrzeuge nicht unabhängig von ihren Reite
 ### Beispielreittiere und -fahrzeuge
 Unten findest du eine Reihe an Reittieren und Fahrzeugen um deine Charaktere über Land, See, Luft und durch den Weltraum zu befördern. Diese Beispiele umfassen verschiedene Genres und sollen keine abschließende Liste darstellen. GMs und Spielende sollten diese Beispiele als Hilfestellung sehen und zusammenarbeiten, um Regeln für weitere Reittiere zu schaffen, die zu ihrer Kampagne passen.
 
-**WW (Wohlstandswert)** gibt den Wohlstand an, der mit diesem bestimmten Reittier oder Fahrzeug assoziiert ist. Um es zu erhalten ist ein ausreichender Wohlstandswert des Charakters notwendig, wie in [Kapitel 6: Wohlstand und Ausrüstung](./Kapitel-6_Wohlstand-und-Ausruestung.md) angegeben.
+**WW (Wohlstandswert)** gibt den Wohlstand an, der mit diesem bestimmten Reittier oder Fahrzeug assoziiert ist. Um es zu erhalten ist ein ausreichender Wohlstandswert des Charakters notwendig, wie in [Kapitel 6: Wohlstand und Ausrüstung](<./Kapitel-6_Wohlstand-und-Ausruestung.md>) angegeben.
 
 **Geschwindigkeit** gibt die Distanz in Fuß an, die das Reittier oder Fahrzeug sich mit einer Bewegungsaktion fortbewegen kann.
 
@@ -539,4 +539,4 @@ Unten findest du eine Reihe an Reittieren und Fahrzeugen um deine Charaktere üb
 | T-Rex                    | 5   | 50'             | Unabhängig 1                                                          | Kraft 6                        | Angriffsspezialisierung II (Biss)                 | 38  | 1   | Deckung: 20, Zähigkeit: 15, Entschlossenheit: 15    |
 | Riesenskorpion           | 4   | 35'             | Unabhängig 1                                                          | Geschicklichkeit 5, Wahrnehmung 5 | Harmfokus I (Anhaltender Schaden)                 | 20  | 2   | Deckung: 15, Zähigkeit: 15, Entschlossenheit: 18    |
 
-[Kapitel 8: Das Spiel leiten](./Kapitel-8_Das-Spiel-leiten.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | kein nächstes Kapitel
+[Kapitel 8: Das Spiel leiten](<./Kapitel-8_Das-Spiel-leiten.md>) | [Inhaltsverzeichnis](<./Inhaltsverzeichnis.md>) | kein nächstes Kapitel

@@ -1,4 +1,4 @@
-[Kapitel 7: Kampf](./Kapitel-7_Kampf.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 9: Spezialausrüstung](./Kapitel-9_Spezialausruestung.md)
+[Kapitel 7: Kampf](<./Kapitel-7_Kampf.md>) | [Inhaltsverzeichnis](<./Inhaltsverzeichnis.md>) | [Kapitel 9: Spezialausrüstung](<./Kapitel-9_Spezialausruestung.md>)
 
 # Kapitel 8: Das Spiel leiten
 ## Der Ruf zum Gamemaster
@@ -189,7 +189,7 @@ Wenn deine Spielenden andere Rollenspielsysteme schon kennen, sind sie es vielle
 
 Wenn ein Kampf endet, musst du also nicht jeden Pfeil abzählen, den die Gruppe bei den besiegten Banditen findet. Stattdessen kannst du der Gruppe einfach sagen, dass sie einige Wertgegenstände finden, die langsam dazu beitragen, später ihren Wohlstandswert zu erhöhen. Falls ein Spieler tatsächlich mehr Munition oder einen neuen Dolch braucht, kannst du überlegen, ob es narrativ Sinn ergibt, dass die NPCs diese Gegenstände haben, oder nicht.
 
-**Wohlstand heißt Einfluss.** Da Spielende nicht einzelne Goldmünzen oder Dollarscheine notieren, könnte es zunächst schwierig wirken, Situationen wie Bestechung oder ähnliches abzubilden. Eine gute Leitlinie, die man hier anwenden kann, ist, dass Charaktere ihr Geld auf die gleiche Weise nutzen können, um jemand zu beeinflussen, wie sie es sonst benutzen würden, um Güter zu kaufen (wie in [Kapitel 6: Wohlstand und Ausrüstung](./Kapitel-6_Wohlstand-und-Ausruestung.md) dargestellt):
+**Wohlstand heißt Einfluss.** Da Spielende nicht einzelne Goldmünzen oder Dollarscheine notieren, könnte es zunächst schwierig wirken, Situationen wie Bestechung oder ähnliches abzubilden. Eine gute Leitlinie, die man hier anwenden kann, ist, dass Charaktere ihr Geld auf die gleiche Weise nutzen können, um jemand zu beeinflussen, wie sie es sonst benutzen würden, um Güter zu kaufen (wie in [Kapitel 6: Wohlstand und Ausrüstung](<./Kapitel-6_Wohlstand-und-Ausruestung.md>) dargestellt):
 
 - Charaktere können ohne Probleme NPCs eines **niedrigreren Wohlstandswertes** bestechen, als sie selbst haben.
 - Falls ein NPC den **gleichen Wohlstandswert** wie ein Charakter hat, dann zählt eine Bestechung als "signifikante Ausgabe", was bedeutet, dass es getan werden kann, aber der Charakter keine weiteren Güter oder Bestechungen dieser Ausmaße in den nächsten zwei Wochen erwerben kann.
@@ -310,7 +310,8 @@ Sobald du die grundlegenden Werte notiert hast, wähle ein paar der folgenden Fe
 	- Dein Ziel ist überrascht oder sieht den Angriff anderweitig nicht kommen, z.B. wenn du vor ihm versteckt, als Freund verkleidet bist oder es erfolgreich getäuscht hast.
 	- Dein Ziel ist in Nahkampfreichweite eines Verbündeten.
 
-	Du hast Vorteil auf Tödliche Schläge mit Vorteil-Level gleich deines Ranges in dieser Fertigkeit. Weiterhin wird ein Teil des Schadens (nie mehr als der Gesamtschaden) als tödlicher Schaden zugefügt, was ihn schwieriger zu heilen macht (siehe [Kapitel 7: Kampf](./Kapitel-7_Kampf.md)).
+	Du hast Vorteil auf Tödliche Schläge mit Vorteil-Level gleich deines Ranges in dieser Fertigkeit. Weiterhin wird ein Teil des Schadens (nie mehr als der Gesamtschaden) als tödlicher Schaden zugefügt, was ihn schwieriger zu heilen macht (siehe [Kapitel 7: Kampf](<./Kapitel-7_Kampf.md>)).
+
 	- **Rang 1** - Vorteil 1. Bis zu 5 tödlicher Schaden.
 	- **Rang 2** - Vorteil 2. Bis zu 5 tödlicher Schaden.
 	- **Rang 3** - Vorteil 3. Bis zu 10 tödlicher Schaden.
@@ -320,6 +321,7 @@ Sobald du die grundlegenden Werte notiert hast, wähle ein paar der folgenden Fe
 	- **Rang 7** - Vorteil 7. Bis zu 20 tödlicher Schaden.
 	- **Rang 8** - Vorteil 8. Bis zu 25 tödlicher Schaden.
 	- **Rang 9** - Vorteil 9. Bis zu 25 tödlicher Schaden.
+
 - **Multi-Angriffsspezialisierung (Rang anhand des NPC-Levels, max. 6):** Zu Beginn deines Zuges kannst du ansagen, dass du eine Multi-Attacke nutzen wirst. Du must angeben, wie viele Extraangriffe du ausführen möchtest. Du erhälst eine dem entsprechende Anzahl an zusätzlichen großen Aktionen, die nur für Angriffe genutzt werden können. <em>Alle</em> deine Angriffe in dieser Runde haben Nachteil gleich 3 x Anzahl an <strong>zusätzlichen</strong> Attacken (z.B. hast du bei insg. 2 Attacken Nachteil 3 auf beide, 3 Angriffe haben alle Nachteil 6, usw. ...) Für jeden Rang dieser Fertigkeit reduzierst du den gesamten Nachteil für alle Angriffe um 1 (nicht die 3 Nachteil pro Zusatzattacke).<br>Du kannst deine Angriffe für eine beliebige Kombination aus Harmen und Attacken mit Schaden nutzen, kannst aber keine Wohle wirken. Handle jede einzelne Attacke ab, wobei du wie normal Multi-Zielen anwenden kannst. Du kannst dich zwischen den Angriffen bewegen und kannst auch die gleiche Kreatur mehrmals angreifen.<br>Die maximale Anzahl an zusätzlichen Angriffen pro Runde ist 1 + die Hälfte deines Levels aufgerundet. Auf Level 1 ist das Limit also 2 zusätzliche Attacken, 3 Attacken auf Level 3 und 6 auf Level 9.
 - **Multi-Harmspezialisierung:** Wähle zwei Harme aus, die du wirken kannst und die ein gemeinsames Attribut zum Wirken haben. Du kannst beide Harme mit einem Angriff zufügen. Der dafür nötige Attributwert ist gleich der Summe der Kraftlevel beider Harme (für <em>Niedergeschlagen</em> und <em>Verlangsamt</em> beide auf Kraftlevel 1 bräuchtest du also Attributwert 2). Falls die Harme auf unterschiedliche Verteidigungen zielen wählst du selbst aus, gegen welche Verteidigung der Angriff zielt. Bei einem erfolgreichen Wurf werden dem Ziel beide Harme zugefügt. Sie beide bleiben unabhängig voneinander bestehen und gegen sie muss separat widerstanden werden.
 - **Multi-Zielen Angriffsspezialisierung (Rang anhand des NPC-Levels, max. 5):** Wenn du diese Fertigkeit wählst, musst du dich für einen Ansatz aus Nahkampf, Fernkampf oder Flächenangriffen entscheiden. Für jeden Rang dieser Fertigkeit reduzierst du den mit Multi-Zielen assoziierten Nachteil für deinen gewählten Ansatz um 1. 
@@ -910,4 +912,4 @@ Entgegen der Warnung ihres Mentors, hat Bell einen Blick in das Buch der Verdamm
 
 **Fehlschlag, aber die Geschichte schreitet voran:** Bells Magie hat nicht die nötige Stärke, um die Mächte der Hölle zu bannen und sie fühlt sich bewegt, das ganze Buch stundenlang zu lesen. Als der mentale Angriff endlich abebbt, ist Bell für immer verändert. Sie hat die Charakterschwäche *Psychotisch* erhalten.
 
-[Kapitel 7: Kampf](./Kapitel-7_Kampf.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 9: Spezialausrüstung](./Kapitel-9_Spezialausruestung.md)
+[Kapitel 7: Kampf](<./Kapitel-7_Kampf.md>) | [Inhaltsverzeichnis](<./Inhaltsverzeichnis.md>) | [Kapitel 9: Spezialausrüstung](<./Kapitel-9_Spezialausruestung.md>)

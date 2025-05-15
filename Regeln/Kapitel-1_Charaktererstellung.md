@@ -1,4 +1,4 @@
-[Einführung](./Kapitel-0_Einfuehrung.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 2: Aktionen und Attribute](./Kapitel-2_Aktionen-und-Attribute.md)
+[Einführung](<./Kapitel-0_Einfuehrung.md>) | [Inhaltsverzeichnis](<./Inhaltsverzeichnis.md>) | [Kapitel 2: Aktionen und Attribute](<./Kapitel-2_Aktionen-und-Attribute.md>)
 
 # Kapitel 1: Charaktererstellung
 Bevor du beginnen kannst, deine eigene Geschichte zu erzählen, brauchst du einen Charakter, den du spielen kannst. Dieses Kapitel wird dir Schritt-für-Schritt-Anweisungen geben, mit denen du deinen eigenen Helden erstellen kannst. In *Open Legend* beginnst du normalerweise als Charakter auf Level 1. Indem du Missionen oder Quests erfüllst und als Held Erfahrung sammelst, steigst du im Level aus und wächst in deiner Macht. Diese Regeln erklären, wie du einen Charakter auf Level 1 erstellen kannst. Später lernst du, was zu tun ist, wenn du im Level aufsteigst.
@@ -23,7 +23,7 @@ Open Legend ist ein Rollenspiel, was bedeutet, dass dein Charakter mehr Tiefe be
 
 **Deine Abstammung.** Deine Entscheidung, welche Abstammung dein Charakter haben soll, ist nur durch deine Vorstellungskraft, das Setting des Spiels und die Rahmenbedingungen deines GM eingeschränkt. Eine typische Fantasykampagne könnte Zwerge, Elfen, Halblinge, Himmlische und Drachenblüter enthalten. Falls ihr in einer futuristischen Space-Opera am Rand der Galaxis spielt, könnte dein GM vielleicht mehrere Alienspezies zur Auswahl haben. Einige Kampagnen, zum Beispiel Mysterien oder Horrorsettings à la Lovecraft, erlauben vielleicht nur ganz normale Menschen. Egal was, solange es vom GM erlaubt ist, kannst du als alles spielen, was du magst, egal ob humanoider Tigerpsion, eine 3 Zoll große Fee oder irgendetwas dazwischen.
 
-Als Teil deiner Entscheidung für eine Abstammung solltest du auch deine **Größe** wählen: klein, mittel oder groß. Ein mittelgroßer Charakter ist etwa so groß wie ein durchschnittlicher Mensch. Kleine Kreaturen sind zwischen 2 und 4 Fuß groß, während große Kreaturen 7 bis 10 Fuß messen. Eine große Kreatur nimmt ein 10'x10' Feld im Kampf ein und hat eine Reichweite von 10' (siehe [Kapitel 7: Kampf](./Kapitel-7_Kampf.md) für die Details). Der GM kann Vor- oder Nachteile für Würfe bestimmen, falls deine Größe in einer Situation relevant ist. Zum Beispiel könnten kleine Kreaturen Vorteile auf Würfe zum Verstecken, aber Nachteile auf Würfe zum Eintreten einer Tür erhalten. Auf die gleiche Weise könnten große Kreaturen Nachteile auf Kampfwürfe erhalten, wenn sie in engen Räumen sind, aber Vorteile auf Einschüchterungswürfe gegenüber kleineren Kreaturen bekommen.
+Als Teil deiner Entscheidung für eine Abstammung solltest du auch deine **Größe** wählen: klein, mittel oder groß. Ein mittelgroßer Charakter ist etwa so groß wie ein durchschnittlicher Mensch. Kleine Kreaturen sind zwischen 2 und 4 Fuß groß, während große Kreaturen 7 bis 10 Fuß messen. Eine große Kreatur nimmt ein 10'x10' Feld im Kampf ein und hat eine Reichweite von 10' (siehe [Kapitel 7: Kampf](<./Kapitel-7_Kampf.md>) für die Details). Der GM kann Vor- oder Nachteile für Würfe bestimmen, falls deine Größe in einer Situation relevant ist. Zum Beispiel könnten kleine Kreaturen Vorteile auf Würfe zum Verstecken, aber Nachteile auf Würfe zum Eintreten einer Tür erhalten. Auf die gleiche Weise könnten große Kreaturen Nachteile auf Kampfwürfe erhalten, wenn sie in engen Räumen sind, aber Vorteile auf Einschüchterungswürfe gegenüber kleineren Kreaturen bekommen.
 
 Nach dem Ermessen des GM kannst du auch noch kleinere oder noch größere Größen wählen, als die oben aufgeführten. Die Reichweite einer großen Kreatur ist immer gleich der Länge ihrer Basis. Ein Riese mit einer 15'x15' großen Basis würde also eine Reichweite von 15' haben. Kleine Kreaturen haben immer eine Reichweite von mindestens 5'.
 
@@ -215,7 +215,7 @@ Wenn ein Gegner versucht, dich anzugreifen - egal ob mit dem Schuss eines Gewehr
 
 **Trefferpunkte** (TP abgekürzt) sind eine abstrakte Repräsentation deiner Fähigkeit, Schmerzen zu ignorieren, tödlichen Angriffen zu entgehen und deine Präsenz auf dem Schlachtfeld trotz Wunden und Erschöpfung aufrechtzuerhalten. Falls sie 0 erreichen, fällst du in Ohnmacht und bist in Lebensgefahr.
 
-**Geschwindigkeit** stellt dar, wie weit dein Charakter sich in einer einzigen Bewegungsaktion fortbewegen kann (siehe [Kapitel 7: Kampf](./Kapitel-7_Kampf.md)). Deine Grundgeschwindigkeit sind 30 Fuß. Andere Effekte wie Harme, Wohle und Fertigkeiten können deine Geschwindigkeit erhöhen oder verringern.
+**Geschwindigkeit** stellt dar, wie weit dein Charakter sich in einer einzigen Bewegungsaktion fortbewegen kann (siehe [Kapitel 7: Kampf](<./Kapitel-7_Kampf.md>)). Deine Grundgeschwindigkeit sind 30 Fuß. Andere Effekte wie Harme, Wohle und Fertigkeiten können deine Geschwindigkeit erhöhen oder verringern.
 ## Schritt 4: Fertigkeiten kaufen
 Während die Attribute deines Charakters seine Expertise im Erbringen heroischer Taten ausmachen, machen seine **Fertigkeiten** ihn einzigartig unter anderen Charakteren. Fertigkeiten erlauben dir, deinen Charakter anzupassen, sodass er spezifischen Anforderungen besonders gut begegnen kann.
 
@@ -223,13 +223,13 @@ Zum Beispiel könnten zwei unterschiedliche Charaktere, die beide auf Nahkampf s
 ### Fertigkeiten wählen
 Fertigkeiten kauft man mit Fertigkeitenpunkten. Auf Level 1 hast du 6 Fertigkeitenpunkte zur Verfügung. Jegliche übriggebliebenen Punkte kannst du dir für später aufheben.
 
-Eine Liste aller verfügbaren Fertigkeiten kann [hier](./Listen/Fertigkeiten.md) gefunden werden.
+Eine Liste aller verfügbaren Fertigkeiten kann [hier](<./Listen/Fertigkeiten.md>) gefunden werden.
 ## Schritt 5: Startausrüstung wählen
 In einem typischen Open Legend-Spiel beginnt dein Charakter mit der nötigen Startausrüstung für das Leben eines Abenteurers. Der GM kann aber auch entscheiden, dass die Kampagne unter besonderen Umständen beginnt (zum Beispiel, dass die gesamte Gruppe eingesperrt in einem Sklavenkonvoi beginnt), die etwas anderes benötigen.
 
 Normalerweise beginnst du aber mit einem Wohlstandswert von 2 und kannst bis zu drei Gegenstände mit Wohlstandswert 2, sowie so viele Gegenstände eines niedrigeren Wohlstandswerten auswählen, wie du willst. Schlage in Kapitel 6 für Regeln zu Wohlstand und Ausrüstungsinformationen nach. Gehe sicher, dass du jegliche Veränderungen an deinen Verteidigungen oder anderen Werten notierst, nachdem du deine Ausrüstung ausgewählt hast.
 ## Schritt 6: Charakterstärken und -schwächen auswählen
-Charakterstärken und -schwächen geben dir weitere Wege, die Persönlichkeit, das Aussehen, die Stärken, Schwächen und den Hintergrund deines Charakters auszuarbeiten. Vollständige Beschreibungen der verfügbaren Charakterstärken und -schwächen sowie wie sie im Spiel genutzt werden, findest du in [Kapitel 5: Charakterstärken und -schwächen](./Kapitel-5_Charakterstaerken-und-schwaechen.md).
+Charakterstärken und -schwächen geben dir weitere Wege, die Persönlichkeit, das Aussehen, die Stärken, Schwächen und den Hintergrund deines Charakters auszuarbeiten. Vollständige Beschreibungen der verfügbaren Charakterstärken und -schwächen sowie wie sie im Spiel genutzt werden, findest du in [Kapitel 5: Charakterstärken und -schwächen](<./Kapitel-5_Charakterstaerken-und-schwaechen.md>).
 
 Bei der Charaktererstellung kannst du bis zu zwei Stärken und Schwächen auswählen. Du kannst auch keine auswählen.
 ## Schritt 7: Erzähl' deine Geschichte
@@ -542,7 +542,7 @@ Für jeden Erfahrungspunkt, den du dir verdienst, gewinnst du auch 1 Fertigkeite
 
 Attributpunkte können ausgegeben werden, um ein schon erworbenes Attribut zu erhöhen, oder aber völlig neue Attribute zu kaufen. Die Kosten, um ein Attribut um einen Wert aufsteigen zu lassen sind gleich der Zahl des neuen Wertes. Um zum Beispiel deinen Kraftwert von 3 auf 4 aufsteigen zu lassen, müsstest du 4 Attributpunkte ausgeben. Die Kosten, um ein komplett neues Attribut zu kaufen sind nach dem jeweiligen Wert in der *Attributsüberblick*-Tabelle aufgeführt, die auch Attributwürfel für Werte über 5 aufführt.
 
-Die vollständige Liste aller verfügbaren Fertigkeiten kann [hier](./Listen/Fertigkeiten.md) gefunden werden.
+Die vollständige Liste aller verfügbaren Fertigkeiten kann [hier](<./Listen/Fertigkeiten.md>) gefunden werden.
 
 #### Attributsüberblick
 | Attributwert | Kosten | Attributwürfel |
@@ -577,4 +577,4 @@ Manchmal stößt ein Charakter zu einer laufenden Kampagne hinzu, in der die and
 | 9     | 24  | 112            | 9                  | 30                 | 7         |
 | 10    | 27  | 121            | 9                  | 33                 | 8         |
 
-[Einführung](./Kapitel-0_Einfuehrung.md) | [Inhaltsverzeichnis](Inhaltsverzeichnis.md) | [Kapitel 2: Aktionen und Attribute](./Kapitel-2_Aktionen-und-Attribute.md)
+[Einführung](<./Kapitel-0_Einfuehrung.md>) | [Inhaltsverzeichnis](<./Inhaltsverzeichnis.md>) | [Kapitel 2: Aktionen und Attribute](<./Kapitel-2_Aktionen-und-Attribute.md>)
