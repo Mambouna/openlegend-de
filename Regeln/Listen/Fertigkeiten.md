@@ -2,6 +2,7 @@
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 - **Rang 2:** Keine
 
@@ -32,6 +33,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Fertigkeit: Defensive Reflexe II
 
 **Beschreibung**  
@@ -49,6 +51,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Geschicklichkeit 3 / Kraft 3 / Beliebiges Außergewöhnliches 3
 - **Rang 2:** Geschicklichkeit 3 / Kraft 3 / Beliebiges Außergewöhnliches 3
 - **Rang 3:** Geschicklichkeit 3 / Kraft 3 / Beliebiges Außergewöhnliches 3
@@ -78,6 +81,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 - **Rang 2:** Keine
 
@@ -112,6 +116,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Schöpfung 5
 
 **Beschreibung**  
@@ -129,6 +134,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Bewegung 2 / Vorwissen 2 / Schutz 2
 - **Rang 2:** Bewegung 3 / Vorwissen 3 / Schutz 3
 - **Rang 3:** Bewegung 4 / Vorwissen 4 / Schutz 4
@@ -148,6 +154,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Beliebiges Außergewöhnliches 1
 
 **Beschreibung**  
@@ -169,6 +176,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Beliebiges Außergewöhnliches 5 / Lernen 5 / Logik 5
 - **Rang 2:** Beliebiges Außergewöhnliches 5 / Lernen 5 / Logik 5
 - **Rang 3:** Beliebiges Außergewöhnliches 5 / Lernen 5 / Logik 5
@@ -177,7 +185,7 @@ ___
 Du bist in der Lage, Gegenstände mit magischer Energie zu durchdringen, futuristische Technologie zu schaffen, Tränke zu brauen oder außergewöhnliche Geräte zu bauen. Ihre Macht ist permanent, aber abhängig von deiner Expertise.
 
 **Effekt**  
-Solange du die notwendigen Materialien und passenden Arbeitsraum hast (nach Abwägung des GM), kannst du außergewöhnliche Gegenstände erschaffen (wie in [Kapitel 9: Spezialausrüstung](./../Kapitel-9_Spezialausruestung.md) beschrieben). Du kannst einem Gegenstand nur Attribute, Harme und Wohle geben, zu denen du selbst Zugang hast. Beispielsweise musst du einen Energiewert von 5 oder höher haben, um einem Schwert das Attribut Energie 5 einzuflößen. Die einzige Ausnahme zu dieser Regelung ist ein ausreichend großer Wert in Schöpfung, Lernen oder Logik. Diese Attribute erlauben es dir, einem Gegenstand beliebige Attribute, Harme oder Wohle zu verleihen, solange ihr Wert / Kraftlevel kleiner oder gleich deinem Attributwert ist. Der GM kann entscheiden, ob die Anwendung dieser Ausnahme in bestimmten Kontexten nicht sinnvoll ist und diese untersagen.
+Solange du die notwendigen Materialien und passenden Arbeitsraum hast (nach Abwägung des GM), kannst du außergewöhnliche Gegenstände erschaffen (wie in [Kapitel 9: Spezialausrüstung](<../Kapitel-9_Spezialausruestung.md>) beschrieben). Du kannst einem Gegenstand nur Attribute, Harme und Wohle geben, zu denen du selbst Zugang hast. Beispielsweise musst du einen Energiewert von 5 oder höher haben, um einem Schwert das Attribut Energie 5 einzuflößen. Die einzige Ausnahme zu dieser Regelung ist ein ausreichend großer Wert in Schöpfung, Lernen oder Logik. Diese Attribute erlauben es dir, einem Gegenstand beliebige Attribute, Harme oder Wohle zu verleihen, solange ihr Wert / Kraftlevel kleiner oder gleich deinem Attributwert ist. Der GM kann entscheiden, ob die Anwendung dieser Ausnahme in bestimmten Kontexten nicht sinnvoll ist und diese untersagen.
 Dein Rang in dieser Fertigkeit bestimmt den maximalen Wohlstandswert von Gegenständen, die du erschaffen kannst, anhand des genutzten Attributs:
 <ul>
 <li><strong>Rang 1</strong> - Maximaler Wohlstandswert = Attributwert - 2.</li>
@@ -204,6 +212,7 @@ ___
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Geschicklichkeit 1
 
 **Beschreibung**  
@@ -221,6 +230,7 @@ ___
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Geschicklichkeit 2 / Vorwissen 2
 - **Rang 2:** Geschicklichkeit 2 / Vorwissen 2
 - **Rang 3:** Geschicklichkeit 4 / Vorwissen 4
@@ -242,6 +252,7 @@ ___
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Kraft 2
 
 **Beschreibung**  
@@ -259,6 +270,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 
 **Beschreibung**  
@@ -276,6 +288,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Geschicklichkeit 3
 - **Rang 2:** Geschicklichkeit 3
 - **Rang 3:** Geschicklichkeit 3
@@ -301,6 +314,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Konstitution 5 / Willenskraft 5
 - **Rang 2:** Konstitution 5 / Willenskraft 5
 - **Rang 3:** Konstitution 5 / Willenskraft 5
@@ -322,6 +336,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Einfluss 4
 
 **Beschreibung**  
@@ -339,6 +354,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 - **Rang 2:** Keine
 - **Rang 3:** Keine
@@ -368,6 +384,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 - **Rang 2:** Keine
 - **Rang 3:** Keine
@@ -387,6 +404,7 @@ ___
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 - **Rang 2:** Keine
 - **Rang 3:** Keine
@@ -415,6 +433,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Geschicklichkeit 4
 - **Rang 2:** Geschicklichkeit 4
 
@@ -436,6 +455,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 
 **Beschreibung**  
@@ -453,6 +473,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Geschicklichkeit 4
 
 **Beschreibung**  
@@ -470,6 +491,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Geschicklichkeit 4 / Konstitution 4 / Bewegung 2
 - **Rang 2:** Geschicklichkeit 5 / Konstitution 5 / Bewegung 4
 - **Rang 3:** Geschicklichkeit 7 / Konstitution 7 / Bewegung 6
@@ -489,6 +511,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 - **Rang 2:** Keine
 - **Rang 3:** Keine
@@ -513,6 +536,7 @@ ___
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Wahrnehmung 4
 
 **Beschreibung**  
@@ -530,6 +554,7 @@ ___
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 - **Rang 2:** Keine
 - **Rang 3:** Keine
@@ -551,6 +576,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 - **Rang 2:** Keine
 - **Rang 3:** Keine
@@ -579,6 +605,7 @@ ___
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Bewegung 2 / Geschicklichkeit 2
 - **Rang 2:** Bewegung 4 / Geschicklichkeit 4
 - **Rang 3:** Bewegung 6 / Geschicklichkeit 6
@@ -598,6 +625,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Einfluss 5
 - **Rang 2:** Einfluss 7
 
@@ -624,6 +652,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Fähigkeit, den gewählten Harm zu wirken
 
 **Beschreibung**  
@@ -644,6 +673,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Fähigkeit, den gewählten Harm zu wirken
 
 **Beschreibung**  
@@ -664,6 +694,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Geschicklichkeit 1 / Kraft 1
 
 **Beschreibung**  
@@ -681,6 +712,7 @@ ___
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 
 **Beschreibung**  
@@ -701,6 +733,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Konstitution 3 / Willenskraft 3
 
 **Beschreibung**  
@@ -718,6 +751,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 
 **Beschreibung**  
@@ -735,6 +769,7 @@ ___
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 
 **Beschreibung**  
@@ -752,6 +787,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Geschicklichkeit 4 / Kraft 4 / Beliebiges Außergewöhnliches 4
 
 **Beschreibung**  
@@ -769,6 +805,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Geschicklichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
 
 **Beschreibung**  
@@ -786,6 +823,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Schöpfung 4 / Präsenz 4 / Schutz 4
 
 **Beschreibung**  
@@ -803,6 +841,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Wandlung 4 & Täuschung 3
 
 **Beschreibung**  
@@ -820,6 +859,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 - **Rang 2:** Keine
 - **Rang 3:** Keine
@@ -845,6 +885,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Fähigkeit, beide Harme zu wirken (siehe Beschreibung)
 
 **Beschreibung**  
@@ -866,6 +907,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 - **Rang 2:** Keine
 - **Rang 3:** Keine
@@ -890,6 +932,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Fertigkeit: Wohlfokus
 
 **Beschreibung**  
@@ -907,6 +950,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 - **Rang 2:** Keine
 - **Rang 3:** Keine
@@ -932,6 +976,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 - **Rang 2:** Konstitution 1
 - **Rang 3:** Konstitution 2
@@ -956,6 +1001,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Lernen 3 / Logik 3
 - **Rang 2:** Lernen 3 / Logik 3
 
@@ -963,7 +1009,7 @@ ___
 Du hast ein bestimmtes Handwerk gemeistert, sodass du mit der nötigen Zeit und Materialien Gegenstände aus diesem Gewerbe erschaffen kannst. Du könntest ein gekonnter Schmied sein, professioneller Ingenieur, Meisteralchemist oder jede andere Art Profession.
 
 **Effekt**  
-Wähle einen spezifischen Beruf oder eine Profession. Du kannst Gegenstände erschaffen, die für deinen gewählten Job plausibel sind, wobei der GM entscheidet, wie schnell du den gewünschten Gegenstand anhand seiner Natur und den dir verfügbaren Materialien erschaffen kannst. Dein Rang in Normalen Gegenstand Erschaffen bestimmt den maximalen Wohlstandswert der Gegenstände, die du erzeugen kannst. Anders als beim Kaufen von Dingen (siehe [Kapitel 6: Wohlstand und Ausrüstung](./../Kapitel-6_Wohlstand-und-Ausruestung.md)), schränkt das Erschaffen von Gegenständen nicht ein, ob du weitere Güter dieses Wohlstandswertes erhalten kannst.
+Wähle einen spezifischen Beruf oder eine Profession. Du kannst Gegenstände erschaffen, die für deinen gewählten Job plausibel sind, wobei der GM entscheidet, wie schnell du den gewünschten Gegenstand anhand seiner Natur und den dir verfügbaren Materialien erschaffen kannst. Dein Rang in Normalen Gegenstand Erschaffen bestimmt den maximalen Wohlstandswert der Gegenstände, die du erzeugen kannst. Anders als beim Kaufen von Dingen (siehe [Kapitel 6: Wohlstand und Ausrüstung](<../Kapitel-6_Wohlstand-und-Ausruestung.md>)), schränkt das Erschaffen von Gegenständen nicht ein, ob du weitere Güter dieses Wohlstandswertes erhalten kannst.
 <ul>
 <li><strong>Rang 1</strong> - Du kannst Gegenstände gleich deinem eigenen Wohlstandswert erschaffen.</li>
 <li><strong>Rang 2</strong> - Du kannst Gegenstände gleich deinem eigenen Wohlstandswert + 1 erschaffen.</li>
@@ -992,6 +1038,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Präsenz 4
 - **Rang 2:** Präsenz 5
 - **Rang 3:** Präsenz 6
@@ -1016,6 +1063,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Willenskraft 5 & Fertigkeit: Kampftrance
 
 **Beschreibung**  
@@ -1033,6 +1081,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Konstitution 3 / Präsenz 3 / Willenskraft 3
 
 **Beschreibung**  
@@ -1050,6 +1099,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 
 **Beschreibung**  
@@ -1067,6 +1117,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Fertigkeit: Kampftrance
 
 **Beschreibung**  
@@ -1084,6 +1135,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 - **Rang 2:** Keine
 
@@ -1106,6 +1158,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Geschicklichkeit 4 / Kraft 4
 - **Rang 2:** Geschicklichkeit 4 / Kraft 4
 - **Rang 3:** Geschicklichkeit 4 / Kraft 4
@@ -1127,6 +1180,7 @@ ___
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 
 **Beschreibung**  
@@ -1144,6 +1198,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Geschicklichkeit 5 & Wahrnehmung 5
 
 **Beschreibung**  
@@ -1161,6 +1216,7 @@ ___
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Geschicklichkeit 3 / Wandlung 3 / Einfluss 3
 
 **Beschreibung**  
@@ -1178,6 +1234,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Präsenz 3 / Konstitution 3
 
 **Beschreibung**  
@@ -1195,6 +1252,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Geschicklichkeit 4
 
 **Beschreibung**  
@@ -1212,6 +1270,7 @@ ___
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Präsenz 3 / Willenskraft 3
 - **Rang 2:** Präsenz 4 / Willenskraft 4
 - **Rang 3:** Präsenz 5 / Willenskraft 5
@@ -1231,6 +1290,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Geschicklichkeit 6 & Fertigkeit: Tödlicher Schlag I
 - **Rang 2:** Geschicklichkeit 7 & Fertigkeit: Tödlicher Schlag III
 
@@ -1252,6 +1312,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Geschicklichkeit 3
 - **Rang 2:** Geschicklichkeit 3
 - **Rang 3:** Geschicklichkeit 3
@@ -1293,6 +1354,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Willenskraft 7 & Fertigkeit: Kampftrance
 
 **Beschreibung**  
@@ -1310,6 +1372,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Konstitution 7 & Fertigkeit: Kampftrance
 
 **Beschreibung**  
@@ -1327,6 +1390,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Kraft 4
 
 **Beschreibung**  
@@ -1344,6 +1408,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Beliebiges Außergewöhnliches 4
 - **Rang 2:** Beliebiges Außergewöhnliches 6
 - **Rang 3:** Beliebiges Außergewöhnliches 9
@@ -1403,6 +1468,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 
 **Beschreibung**  
@@ -1420,6 +1486,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Wandlung 4 / Schöpfung 4 / Vergehen 4 / Energie 4 / Einfluss 4
 - **Rang 2:** Wandlung 5 / Schöpfung 5 / Vergehen 5 / Energie 5 / Einfluss 5
 - **Rang 3:** Wandlung 7 / Schöpfung 7 / Vergehen 7 / Energie 7 / Einfluss 7
@@ -1439,6 +1506,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 - **Rang 2:** Keine
 - **Rang 3:** Keine
@@ -1483,6 +1551,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Fähigkeit, das gewählte Wohl zu wirken
 - **Rang 2:** Fähigkeit, das gewählte Wohl zu wirken
 - **Rang 3:** Fähigkeit, das gewählte Wohl zu wirken
@@ -1521,6 +1590,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 
 **Beschreibung**  
@@ -1538,6 +1608,7 @@ ___
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Keine
 
 **Beschreibung**  
@@ -1561,6 +1632,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Geschicklichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
 - **Rang 2:** Geschicklichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
 - **Rang 3:** Geschicklichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
@@ -1580,6 +1652,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Kraft 6 & Fertigkeit: Überwältigender Schlag
 
 **Beschreibung**  
@@ -1597,6 +1670,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Geschicklichkeit 7 / Kraft 7 / Energie 7 / Vergehen 7
 
 **Beschreibung**  
@@ -1614,6 +1688,7 @@ ___
 **Kosten:** 1 Punkt
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Geschicklichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
 
 **Beschreibung**  
@@ -1635,6 +1710,7 @@ ___
 **Kosten:** 3 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Geschicklichkeit 4 & Kraft 5 & Fertigkeit: Multi-Angriffsspezialisierung
 
 **Beschreibung**  
@@ -1652,6 +1728,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Geschicklichkeit 4 & Fertigkeit: Angriffsspezialisierung
 
 **Beschreibung**  
@@ -1669,6 +1746,7 @@ ___
 **Kosten:** 2 Punkte
 
 **Voraussetzungen:**  
+
 - **Rang 1:** Konstitution 3
 - **Rang 2:** Konstitution 5
 

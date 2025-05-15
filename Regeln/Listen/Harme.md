@@ -8,6 +8,7 @@
 **Angriffsattribute:** Geschicklichkeit, Energie, Vergehen
 
 **Angriff**
+
 - Geschicklichkeit vs. Deckung
 - Energie vs. Deckung
 - Vergehen vs. Zähigkeit
@@ -52,6 +53,7 @@ ___
 **Angriffsattribute:** Schutz
 
 **Angriff**
+
 - Schutz vs. Entschlossenheit
 
 **Beschreibung**  
@@ -89,6 +91,7 @@ ___
 **Angriffsattribute:** Einfluss
 
 **Angriff**
+
 - Einfluss vs. Entschlossenheit
 
 **Beschreibung**  
@@ -115,6 +118,7 @@ ___
 **Angriffsattribute:** Geschicklichkeit, Energie, Vergehen, Kraft
 
 **Angriff**
+
 - Geschicklichkeit vs. Zähigkeit
 - Energie vs. Zähigkeit
 - Vergehen vs. Zähigkeit
@@ -127,7 +131,7 @@ Du verwirrst die Sinne des Ziels, sodass es deutlich weniger effizient handelt. 
 Im Ziel kann in seinem Zug nur eine einzige große Aktion, Bewegungsaktion oder kleine Aktion ausführen. Effekte, die dem Ziel zusätzliche Aktionen geben, werden bis auf weitere kostenlose Aktionen neutrasiliert. Falls das Ziel erfolgreich mit seiner Bewegungsaktion dem Harm widersteht, erhält es den Rest seiner Aktionen schon im gleichen Zug zurück.
 
 **Besonders**  
-Dieser Harm hat besondere Regeln für Boss-NPCs (siehe [Kapitel 8: Das Spiel leiten](./../Kapitel-8_Das-Spiel-leiten.md)). Ein Boss unterliegt dem Effekt von Betäubt nur in seinem normalen Zug in der Initiativereihenfolge. Er kann all seine Boss-Aktionen wie normal ausführen.
+Dieser Harm hat besondere Regeln für Boss-NPCs (siehe [Kapitel 8: Das Spiel leiten](<../Kapitel-8_Das-Spiel-leiten.md>)). Ein Boss unterliegt dem Effekt von Betäubt nur in seinem normalen Zug in der Initiativereihenfolge. Er kann all seine Boss-Aktionen wie normal ausführen.
 
 > Tags: Außergewöhnlich, Körperlich  
 > Englisch: _Stunned_
@@ -144,6 +148,7 @@ ___
 **Angriffsattribute:** Geschicklichkeit, Vergehen, Einfluss
 
 **Angriff**
+
 - Geschicklichkeit vs. Zähigkeit
 - Vergehen vs. Zähigkeit
 - Einfluss vs. Entschlossenheit
@@ -177,6 +182,7 @@ ___
 **Angriffsattribute:** Einfluss
 
 **Angriff**
+
 - Einfluss vs. Entschlossenheit
 
 **Beschreibung**  
@@ -211,6 +217,7 @@ ___
 **Angriffsattribute:** Geschicklichkeit, Energie, Vergehen, Einfluss, Kraft, Überzeugung, Präsenz
 
 **Angriff**
+
 - Geschicklichkeit vs. Entschlossenheit
 - Energie vs. Entschlossenheit
 - Vergehen vs. Entschlossenheit
@@ -232,7 +239,7 @@ Das Ziel hat Nachteil anhand des Kraftlevels auf alle Aktionswürfe.
 
 **Besonders**  
 Diesem Harm zu Widerstehen ist eine kleine Aktion.
-Wird dieser Harm durch Geschicklichkeit oder Kraft gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus [Kapitel 7: Kampf](./../Kapitel-7_Kampf.md) bestimmen.
+Wird dieser Harm durch Geschicklichkeit oder Kraft gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus [Kapitel 7: Kampf](<../Kapitel-7_Kampf.md>) bestimmen.
 
 > Tags: Körperlich, Außergewöhnlich  
 > Englisch: _Demoralized_
@@ -249,6 +256,7 @@ ___
 **Angriffsattribute:** Einfluss
 
 **Angriff**
+
 - Einfluss vs. Entschlossenheit
 
 **Beschreibung**  
@@ -282,6 +290,7 @@ ___
 **Angriffsattribute:** Geschicklichkeit, Wandlung, Energie, Vergehen, Einfluss, Kraft, Bewegung
 
 **Angriff**
+
 - Geschicklichkeit vs. Deckung
 - Wandlung vs. Deckung
 - Energie vs. Deckung
@@ -314,6 +323,7 @@ ___
 **Angriffsattribute:** Vergehen
 
 **Angriff**
+
 - Vergehen vs. Zähigkeit
 
 **Beschreibung**  
@@ -337,6 +347,7 @@ ___
 **Angriffsattribute:** Vergehen
 
 **Angriff**
+
 - Vergehen vs. Zähigkeit
 
 **Beschreibung**  
@@ -371,6 +382,7 @@ ___
 **Angriffsattribute:** Geschicklichkeit, Energie, Kraft, Bewegung
 
 **Angriff**
+
 - Geschicklichkeit vs. Deckung
 - Energie vs. Deckung
 - Kraft vs. Deckung
@@ -403,6 +415,7 @@ ___
 **Angriffsattribute:** Vorwissen
 
 **Angriff**
+
 - Vorwissen vs. Entschlossenheit (Besonders)
 
 **Beschreibung**  
@@ -436,6 +449,7 @@ ___
 **Angriffsattribute:** Schöpfung, Vergehen, Einfluss, Kraft
 
 **Angriff**
+
 - Schöpfung vs. Entschlossenheit
 - Vergehen vs. Entschlossenheit
 - Einfluss vs. Entschlossenheit
@@ -449,7 +463,7 @@ In seinem Zug muss das betroffene Ziel seinen gesamten Zug nutzen, um sich so we
 
 **Besonders**  
 Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel klar denken kann. Gleichzeitig kämpft der logische Teil des Geistes vom Ziel aber darum, die Kontrolle wiederzugewinnen. Am Ende jedes Zuges erhält das Ziel einen Widerstandswurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel mit dem Widerstehen Erfolg, so ist es für die nächste Stunde gegen alle weiteren Versuche durch dich, ihm Furcht einzuflößen, immun.
-Wird dieser Harm durch Kraft gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus [Kapitel 7: Kampf](./../Kapitel-7_Kampf.md) bestimmen.
+Wird dieser Harm durch Kraft gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus [Kapitel 7: Kampf](<../Kapitel-7_Kampf.md>) bestimmen.
 
 > Tags: Außergewöhnlich, Körperlich  
 > Englisch: _Fear_
@@ -466,6 +480,7 @@ ___
 **Angriffsattribute:** Geschicklichkeit, Schöpfung, Energie, Vergehen
 
 **Angriff**
+
 - Geschicklichkeit vs. Deckung
 - Schöpfung vs. Deckung
 - Energie vs. Deckung
@@ -492,6 +507,7 @@ ___
 **Angriffsattribute:** Vorwissen
 
 **Angriff**
+
 - Vorwissen vs. Entschlossenheit
 
 **Beschreibung**  
@@ -524,6 +540,7 @@ ___
 **Angriffsattribute:** Einfluss
 
 **Angriff**
+
 - Einfluss vs. Entschlossenheit
 
 **Beschreibung**  
@@ -557,6 +574,7 @@ ___
 **Angriffsattribute:** Geschicklichkeit, Wandlung, Schöpfung, Energie, Vergehen, Einfluss, Kraft, Bewegung
 
 **Angriff**
+
 - Geschicklichkeit vs. Deckung
 - Wandlung vs. Deckung
 - Schöpfung vs. Zähigkeit
@@ -592,6 +610,7 @@ ___
 **Angriffsattribute:** Geschicklichkeit, Energie, Kraft, Bewegung
 
 **Angriff**
+
 - Geschicklichkeit vs. Deckung
 - Energie vs. Deckung
 - Kraft vs. Deckung
@@ -618,6 +637,7 @@ ___
 **Angriffsattribute:** Einfluss
 
 **Angriff**
+
 - Einfluss vs. Entschlossenheit
 
 **Beschreibung**  
@@ -659,6 +679,7 @@ ___
 **Angriffsattribute:** Wandlung
 
 **Angriff**
+
 - Wandlung vs. Zähigkeit
 
 **Beschreibung**  
@@ -689,6 +710,7 @@ ___
 **Angriffsattribute:** Geschicklichkeit, Schöpfung, Täuschung, Energie, Einfluss, Kraft, Überzeugung, Präsenz
 
 **Angriff**
+
 - Geschicklichkeit vs. Entschlossenheit
 - Schöpfung vs. Entschlossenheit
 - Täuschung vs. Entschlossenheit
@@ -714,7 +736,7 @@ Alle Angriffe, die das Ziel nicht gegen dich ausführt, erleiden Nachteil. Falls
 
 **Besonders**  
 Diesem Harm zu widerstehen ist eine kleine Aktion.
-Wird dieser Harm mit Kraft oder Geschicklichkeit gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus [Kapitel 7: Kampf](./../Kapitel-7_Kampf.md) bestimmen.
+Wird dieser Harm mit Kraft oder Geschicklichkeit gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus [Kapitel 7: Kampf](<../Kapitel-7_Kampf.md>) bestimmen.
 
 > Tags: Außergewöhnlich, Körperlich  
 > Englisch: _Provoked_
@@ -731,6 +753,7 @@ ___
 **Angriffsattribute:** Geschicklichkeit, Energie, Vergehen
 
 **Angriff**
+
 - Geschicklichkeit vs. Deckung
 - Energie vs. Zähigkeit
 - Vergehen vs. Zähigkeit
@@ -756,6 +779,7 @@ ___
 **Angriffsattribute:** Geschicklichkeit, Vergehen
 
 **Angriff**
+
 - Geschicklichkeit vs. Zähigkeit
 - Vergehen vs. Zähigkeit
 
@@ -784,6 +808,7 @@ ___
 **Angriffsattribute:** Geschicklichkeit, Energie, Vergehen, Kraft, Bewegung
 
 **Angriff**
+
 - Geschicklichkeit vs. Deckung
 - Energie vs. Deckung
 - Vergehen vs. Zähigkeit
@@ -811,6 +836,7 @@ ___
 **Angriffsattribute:** Geschicklichkeit, Wandlung, Vergehen, Kraft
 
 **Angriff**
+
 - Geschicklichkeit vs. Zähigkeit
 - Wandlung vs. Zähigkeit
 - Vergehen vs. Zähigkeit
@@ -837,6 +863,7 @@ ___
 **Angriffsattribute:** Einfluss
 
 **Angriff**
+
 - Einfluss vs. Entschlossenheit
 
 **Beschreibung**  
