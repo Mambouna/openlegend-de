@@ -12,11 +12,11 @@ Du erschaffst ein Wesen von weniger als menschlicher Intelligenz, das autonom un
 
 **Effekt**  
 Du bist in der Lage, ein autonomes Wesen auf nichtlebendigen Materialien wie Erde, Knochen, Wasser, Ranken, Schrott, Sand (oder anderen vom GM abgesegneten Stoffen) zu erschaffen. Um dies zu tun, musst du zuerst 8 Stunden mit dem nötigen Ritual, Experiment oder ähnlichem Schaffensprozess verbringen. Danach wirfst du einen Aktionswurf, um dieses Wohl zu wirken. Bei Erfolg wird die Gestalt belebt und erhält ein Bewusstsein.
-Deine Fähigkeit, eine Kreatur zu animieren, gibt dir nicht die Fähigkeit, diese permanent zu kontrollieren. Neu erschaffene Wesen liegen aber unter dem *bezaubert*-Harm (siehe unten) und behandeln dich so direkt nach ihrer Erschaffung wohlwollend.
+Deine Fähigkeit, eine Kreatur zu animieren, gibt dir nicht die Fähigkeit, diese permanent zu kontrollieren. Neu erschaffene Wesen liegen aber unter dem _Bezaubert_-Harm (siehe unten) und behandeln dich so direkt nach ihrer Erschaffung wohlwollend.
 Der GM, nicht der Spieler, ist dafür verantwortlich, die Attribute und Fähigkeiten der animierten Kreatur zu entscheiden und sollte dabei den Leitlinien unter "Einfacher Aufbau" für das Erstellen von NPCs in [Kapitel 8: Das Spiel leiten](<../Kapitel-8_Das-Spiel-leiten.md>) folgen. Kreaturen, die mit diesem Wohl erschaffen werden, sind typischerweise auf weniger als menschliche Intelligenz beschränkt, wie bei Zombies, Kampfdroiden oder Golems.
 <ul>
-<li><strong>Kraftlevel 6 -</strong> Du kannst eine einzige Kreatur animieren. Dein dafür genutztes Attribut muss gleich oder höher dem höchsten Attributwert der Kreatur sein, die du animierst. Bei einem erfolgreichen Wirken, entsteht die Kreatur mit dem <em>Bezaubert</em>-Harm (Leichte Bezauberung) schon auf sie angewendet (kein Wurf ist dafür nötig).</li>
-<li><strong>Kraftlevel 8 -</strong> Du kannst dich entscheiden, eine Gruppe Kreaturen zu animieren: Entweder 10 Kreaturen mit einem maximalen Attributwert von 2, 5 Kreaturen mit einem maximalen Attributwert von 3 oder 2 Kreaturen mit einem maximalen Attributwert von 5. Weiterhin kommen alle diese Kreaturen mit dem Harm <em>Tiefe Bezauberung</em> in ihre Existenz statt <em>Leichte Bezauberung</em>.</li>
+<li><strong>Kraftlevel 6 -</strong> Du kannst eine einzige Kreatur animieren. Dein dafür genutztes Attribut muss gleich oder höher dem höchsten Attributwert der Kreatur sein, die du animierst. Bei einem erfolgreichen Wirken, entsteht die Kreatur mit dem <em>Bezaubert</em>-Harm (Oberflächliche Bezauberung) schon auf sie angewendet (kein Wurf ist dafür nötig).</li>
+<li><strong>Kraftlevel 8 -</strong> Du kannst dich entscheiden, eine Gruppe Kreaturen zu animieren: Entweder 10 Kreaturen mit einem maximalen Attributwert von 2, 5 Kreaturen mit einem maximalen Attributwert von 3 oder 2 Kreaturen mit einem maximalen Attributwert von 5. Weiterhin kommen alle diese Kreaturen mit dem Harm <em>Tiefe Bezauberung</em> in ihre Existenz statt <em>Oberflächliche Bezauberung</em>.</li>
 </ul>
 
 > Tags: Außergewöhnlich  
@@ -102,7 +102,7 @@ ___
 Selbst bei absoluter Dunkelheit kannst du deine Umgebung ausmachen. Einige Beispiele für Blindsicht wären Vibrationssinne, Echolokation, Hitzesicht, himmlische Einsicht oder außergewöhnlich erhöhte Sinne.
 
 **Effekt**  
-Das Ziel ist immun gegen den *Geblendet*-Harm und kann auch in Bedingungen mit wenig oder keinem Licht normal sehen. Blindsicht kann auch potentiell Unsichtbarkeit entgegenwirken, allerdings muss der GM hier entscheiden, ob die Quelle der Blindsicht tatsächlich die Quelle der Unsichtbarkeit invalidieren würde.
+Das Ziel ist immun gegen den _Geblendet_-Harm und kann auch in Bedingungen mit wenig oder keinem Licht normal sehen. Blindsicht kann auch potentiell Unsichtbarkeit entgegenwirken, allerdings muss der GM hier entscheiden, ob die Quelle der Blindsicht tatsächlich die Quelle der Unsichtbarkeit invalidieren würde.
 
 > Tags: Außergewöhnlich, Körperlich  
 > Englisch: _Blindsight_
@@ -152,7 +152,7 @@ ___
 Du erschaffst ein Gebiet illusorischer Dunkelheit oder entropischer Energie, die alles Licht verlischen lässt. Dieses Wohl ist beliebt unter Illusionisten, Schattenwebern, Psionikern und verrückten Wissenschaftlern.
 
 **Effekt**  
-Wähle einen Raum oder ein Objekt in deiner Reichweite. Dunkelheit quillt aus dem Ziel hervor bis zu einem Radius von 5 Fuß pro Kraftlevel des Wohls. Dieser Effekt annuliert die Wirkung von allem natürlichen Licht innerhalb seines Radius und Kreaturen, die sich für ihre Sicht auf Licht verlassen, erleiden die gleichen Nachteile, als würden sie den *geblendet*-Harm haben, während sie in der Fläche dieses Wohls sind. Kreaturen, die sich für ihre Sicht nicht auf Licht verlassen (z.B. durch Vibrationssinne, Blindsicht, usw. ...) werden nicht eingeschränkt. Falls die Fläche der Dunkelheit sich mit der eines Licht-Wohls überschneidet, dann wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen in der betroffenen Fläche wieder die natürlichen Lichtverhältnisse, als gäbe es keine der beiden Wohle.
+Wähle einen Raum oder ein Objekt in deiner Reichweite. Dunkelheit quillt aus dem Ziel hervor bis zu einem Radius von 5 Fuß pro Kraftlevel des Wohls. Dieser Effekt annuliert die Wirkung von allem natürlichen Licht innerhalb seines Radius und Kreaturen, die sich für ihre Sicht auf Licht verlassen, erleiden die gleichen Nachteile, als würden sie den _Geblendet_-Harm haben, während sie in der Fläche dieses Wohls sind. Kreaturen, die sich für ihre Sicht nicht auf Licht verlassen (z.B. durch Vibrationssinne, Blindsicht, usw. ...) werden nicht eingeschränkt. Falls die Fläche der Dunkelheit sich mit der eines Licht-Wohls überschneidet, dann wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen in der betroffenen Fläche wieder die natürlichen Lichtverhältnisse, als gäbe es keine der beiden Wohle.
 
 > Tags: Außergewöhnlich  
 > Englisch: _Darkness_
@@ -394,9 +394,9 @@ Wenn du dieses Wohl erfolgreich wirkst, erhälst du Informationen von einem Obje
 <ul>
 <li><strong>Kraftlevel 5</strong> - Das Ziel kann wage Ideen und Eindrücke lesen, um herauszufinden, was um ein Objekt oder an einem Ort innerhalb der letzten Stunde passiert ist.</li>
 <li><strong>Kraftlevel 6</strong> - Das Ziel kann eine lebhafte Vision vergleichbar mit einer Aufnahme des in der letzten Stunde um das Objekt oder am Ort Geschehenen sehen.</li>
-<li><strong>Kraftlevel 7</strong> - Das Ziel kann den letzten Besitzer eines Objekts oder die Personen erkennen, die zuletzt am gewählten Ort waren. Diese Einsicht ist klar genug, um die Nutzung des Harms Fernsicht mit diesen Personen als Ziel zu erlauben.</li> 
+<li><strong>Kraftlevel 7</strong> - Das Ziel kann den letzten Besitzer eines Objekts oder die Personen erkennen, die zuletzt am gewählten Ort waren. Diese Einsicht ist klar genug, um die Nutzung des Harms _Fernsicht_ mit diesen Personen als Ziel zu erlauben.</li>
 <li><strong>Kraftlevel 8</strong> - Wähle eins: Das Ziel sieht eine Vision des letzten wichtigen Ereignisses, das nahe dem Objekt oder an dem Ort stattfand - ODER - das Ziel fragt, ob ein bestimmtes Ereignis sich besonders auf das Objekt oder den Ort eingeprägt hat.</li>
-<li><strong>Kraftlevel 9</strong> - Das Ziel ist mit genug Zeit in der Lage, alle Erinnerungen hervorzurufen, die auf das Objekt oder den Ort eingeprägt sind. Du musst dafür deine Konzentration aufrechterhalten, wobei du alle 10 Minuten eine neue Vision der Vergangenheit des Objekts oder Ortes ergibt. Der GM bestimmt, in welcher Reihenfolge die Informationen aufgedeckt werden. Nach Abwägen des GM können verborgene oder besonders ferne Erinnerungen deutlich mehr Zeit benötigen, um gefunden zu werden.</li>
+<li><strong>Kraftlevel 9</strong> - Das Ziel ist mit genug Zeit in der Lage, alle Erinnerungen hervorzurufen, die auf das Objekt oder den Ort eingeprägt sind. Du musst dafür deine Konzentration aufrechterhalten, wobei sich alle 10 Minuten eine neue Vision der Vergangenheit des Objekts oder Ortes ergibt. Der GM bestimmt, in welcher Reihenfolge die Informationen aufgedeckt werden. Nach Abwägen des GM können verborgene oder besonders ferne Erinnerungen deutlich mehr Zeit benötigen, um gefunden zu werden.</li>
 </ul>
 
 > Tags: Außergewöhnlich  
@@ -437,7 +437,7 @@ ___
 Indem du deinen physischen Körperaufbau neustrukturierst, einen extradimesionalen Raum schaffst, ein cybernetisches Taschenimplantat oder andere Wege nutzt, kannst du ein Objekt in deinen Körper absorbieren, sodass es vollständig vor anderen verboren ist und jederzeit wieder hervorgeholt werden kann.
 
 **Effekt**  
-Das Objekt verbleibt vollständig vor der Wahrnehmung anderer verborgen in deinem Körper, bis das Ziel es als kleine Aktion wieder hervorruft. Falls etwas passiert, was dieses Wohl auflöst (zum Beispiel das Wohl *nullifizieren*), wird das Objekt sofort aus dem Körper des Ziels herausgeholt, als wäre es absichtlich hervorgeholt.
+Das Objekt verbleibt vollständig vor der Wahrnehmung anderer verborgen in deinem Körper, bis das Ziel es als kleine Aktion wieder hervorruft. Falls etwas passiert, was dieses Wohl auflöst (zum Beispiel de Harm _Annulieren_), wird das Objekt sofort aus dem Körper des Ziels herausgeholt, als wäre es absichtlich hervorgeholt.
 
 > Tags: Außergewöhnlich  
 > Englisch: _Absorb Object_
@@ -513,8 +513,8 @@ ___
 Wird eine Kreatur substanzlos, so ist sie nicht mehr an physische Barrieren gebunden. Geister, Zauberer die eine Gasform annehmen und Kreaturen, die zwischen Ebenen der Realität wechseln können sind Beispiele, die das Wohl Substanzlos nutzen könnten.
 
 **Effekt**  
-Das Ziel erhält die Fähigkeit, frei durch alle physischen Barrieren zu passieren, als wären diese leerer Raum. Weiterhin können sie sich frei in jede Richtung sowohl horizontal als auch vertikal mit ihrer Grundgeschwindigkeit bewegen (30' für die meisten Charaktere). Während sie substanzlos sind ist das Ziel immun gegen alle Attacken, die auf Deckung oder Zähigkeit zielen. Sie können aber selbst auch keine Angriffe gegen Deckung oder Zähigkeit ausführen.
-Falls die Konzentration des Ziel unterbrochen wird oder das Wohl endet, während das Ziel in einer festen Struktur ist, wird das Ziel gewaltsam in die alternative Ebene versetzt, die es für seine substanzlosigkeit genutzt hat (typischerweise eine andere Dimension oder Realitätsebene).
+Das Ziel erhält die Fähigkeit, frei durch alle physischen Barrieren zu passieren, als wären diese leerer Raum. Weiterhin kann es sich frei in jede Richtung sowohl horizontal als auch vertikal mit seiner Grundgeschwindigkeit bewegen (30' für die meisten Charaktere). Während es substanzlos ist, ist das Ziel immun gegen alle Attacken, die auf Deckung oder Zähigkeit zielen. Es kann aber selbst auch keine Angriffe gegen Deckung oder Zähigkeit ausführen.
+Falls die Konzentration des Ziel unterbrochen wird oder das Wohl endet, während das Ziel in einer festen Struktur ist, wird das Ziel gewaltsam in die alternative Ebene versetzt, die es für seine Substanzlosigkeit genutzt hat (typischerweise eine andere Dimension oder Realitätsebene).
 
 > Tags: Außergewöhnlich  
 > Englisch: _Insubstantial_
@@ -588,7 +588,7 @@ Du kannst dich selbst oder einen Verbündeten augenblicklich von einem Ort zu ei
 **Effekt**  
 <ul>
 <li><strong>Kraftlevel 3</strong> - Du kannst das Ziel zu einem freien Raum innerhalb von 5' pro Bewegungswert bewegen, solange du deinen Zielort auf natürliche Weise sehen kannst.</li>
-<li><strong>Kraftlevel 5</strong> - Die Reichweite deiner Teleportation ist unverändert, aber du kannst dein Ziel jetzt an Orte bringen, die du nicht sehen kannst. Falls du einen nichtfreien Raum wählst, landet dein Ziel im nächstgelegenen freien Raum (falls es mehrere Möglichkeiten gibt, wird einen Würfel dafür) und dein Ziel ist für 1 Runde *betäubt* (ein Widerstandswurf ist nötig, um den Effekt zu beenden).</li>
+<li><strong>Kraftlevel 5</strong> - Die Reichweite deiner Teleportation ist unverändert, aber du kannst dein Ziel jetzt an Orte bringen, die du nicht sehen kannst. Falls du einen nichtfreien Raum wählst, landet dein Ziel im nächstgelegenen freien Raum (falls es mehrere Möglichkeiten gibt, wird einen Würfel dafür) und dein Ziel ist für 1 Runde _Betäubt_ (ein Widerstandswurf ist nötig, um den Effekt zu beenden).</li>
 <li><strong>Kraftlevel 7</strong> - Du kannst dich entscheiden, mehr Zeit damit zu verbringen, dieses Wohl zu wirken. Falls du dich dafür entscheidest, kannst du das Ziel 1 Meile weit für jede Minute Wirkzeit (Zeit VOR dem Aktionswurf) teleportieren. Die Maximaldistanz wird durch deinen Bewegungswert bestimmt (1 Meile pro Wert). Obwohl die Distanz größer ist, ist dieser Modus der Teleportation auch gefährlicher, da ein Fehler in der Richtung oder Geographie dein Ziel den Zielort meilenweit verfehlen lassen kann. Du wählst einfach eine Richtung (relativ zu deiner jetzigen Position) und teleportierst dein Ziel eine Distanz maximal gleich deinem Bewegungswert in Meilen. Während der Wirkzeit musst du jede Runde eine Fokusaktion nutzen, um den Wirkprozess in diesem Modus aufrechtzuerhalten.</li>
 <li><strong>Kraftlevel 9</strong> - Indem du die gleiche längere Wirkzeit von Kraftlevel 7 nutzt, kannst du dein Ziel an einen beliebigen Ort ohre Reichweitenbeschränkung teleportieren (wobei du trotzdem für jede Meile eine Minute wirken musst), solange du den Zielort selbst schonmal gesehen hast (durch normale oder magische Mittel).</li>
 </ul>

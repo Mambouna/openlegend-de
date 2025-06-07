@@ -36,6 +36,10 @@
   special: |
     Deine alternative Gestalt kann nicht die Fertigkeit <em>Alternative Gestalt</em> erwerben.
     Mit der Zustimmung des GM kannst du diese Fertigkeit mehr als einmal wählen. Falls du dies tust, erhälst du eine weitere alternative Gestalt. Mehrere Alternative Gestalten können ein mächtiger Weg sein, viele neue Attribute und Fertigkeitenpunkte zu sammeln. Der GM sollte Spielende daran hindern, mithilfe dieser Fertigkeit übermäßig mächtige Charaktere zu gestalten.
+  effect_short: |
+    *TODO*
+  special_short: |
+    *TODO*
 - !
   name: Angriff Umleiten
   OGname: Attack Redirection
@@ -57,6 +61,8 @@
     Du bist darin gekonnt, die Angriffe deiner Feinde umzuleiten. Ob durch elegante Beinarbeit, Magie oder taktische Überlegenheit, weist du feindliche Attacken auf ungewollte Ziele umzuleiten.
   effect: |
     Wenn du eine Verteidigungsaktion ausführst und dein Wurf den Aktionswurf des Angreifers übertrifft, kannst du dich entscheiden, den Angriff auf ein Ziel umzuleiten, das weder du noch der Angreifer ist. Die ursprüngliche Attacke verändert sich nicht, nur das Ziel. Falls der Angriff ein Nahkampfangriff war, kannst du ihn auf ein beliebiges Ziel innerhalb von 5' von dir umleiten (nicht 5' um den Angreifer).
+  effect_short: |
+    *TODO*
 - !
   name: Angriffsspezialisierung (I - IX)
   OGname: Attack Specialization (I - IX)
@@ -189,6 +195,10 @@
     Beispiele von Angriffsarten umfassen unter anderem Feuer, Kälte, Blitz, Säure, Gift, Vergehen, Kraft. Diese Liste ist nicht abschließend.
   special: |
     Zusätzlich dazu, dass du den Rang dieser Fertigkeit erhöhen kannst, kannst du diese Fertigkeit auch mehrmals lernen und jeweils eine neue Waffe oder eine neue Angriffsart auswählen. Dein gesamter Vorteil auf Attacken mit der Waffe oder Angriffsart entspricht deinem Rang der Fertigkeit für diese Waffe oder Art. Beispielsweise könnte ein Charakter Angriffsspezialisierung II (Feuer) für Feuerzauber haben und Angriffsspezialisierung IV (Langschwert) für Angriffe mit dem Schwert.
+  effect_short: |
+    *TODO*
+  special_short: |
+    *TODO*
 - !
   name: Attributsubstitution (I - II)
   OGname: Attribute Substitution (I - II)
@@ -232,6 +242,8 @@
       </ul>
     </ul>
     Die Verbindung zwischen zwei Attributen muss immer Fall für Fall entschieden werden, wobei die Zustimmung des GM nötig ist. Die Verbindung muss im Kontext der Handlung und des Settings Sinn ergeben, in dem die Kampagne spielt. Beispielsweise könnte ein Barbar sein Logikattribut sein Kraftattribut ersetzen lassen, wenn es um die Anwendung von Hebelwirkung im Ringen mit Feinden geht. Das bedeutet aber nicht, dass der gleiche Barbar sein Logikattribut nutzen könnte, um die Stahlstäbe einer Gefängniszelle aufzubiegen. Weiterhin sollte der GM Spielende daran hindern, unlogische Verbindungen zu benutzen, die nur dazu da sind, übermäßig starke Charaktere ohne Handlungsbezug zu schaffen. Zwei sinnvolle Beispiele dieser Fertigkeit wären ein kluger Krieger, der Hebelwirkung, Momentum und Physik zu seinem Vorteil nutzt und so Kraft durch Logik ersetzt oder eine Revolverhelding, die Geschicklichkeit durch Vergehen ersetzt und durch das Beschwören dunkler Energie ihre Sinne schärft und so besser zielen kann.
+  effect_short: |
+    *TODO*
 - !
   name: Außergewöhnliche Heilung
   OGname: Extraordinary Healing
@@ -255,6 +267,8 @@
     Ob du heilige Magie beschwörst, fortgeschrittene Technologie benutzt oder alchemische Mittel anwendest, deine Meisterschaft außergewöhnlicher Heilung erlaubt es dir, Wunden zu heilen, an denen andere scheitern würden.
   effect: |
     Wenn du das Wohl <em>Heilung</em> wirkst, kannst du dich entscheiden, eine Stunde Zeit statt der normalen Wirkzeit aufzuwenden. Falls du das tust, heilst du genauso viel tödlichen Schaden, wie die normale TP-Heilung der Wirkung ergeben hat. Der tödliche Schaden wird zusätzlich zu den TP des Ziels geheilt.
+  effect_short: |
+    *TODO*
 - !
   name: Außergewöhnliche Verteidigung (I - III)
   OGname: Extraordinary Defense (I - III)
@@ -308,6 +322,8 @@
     Ob durch eine magische Barriere, einen Blick in die Zukunft oder übernatürlicher Geschwindigkeit, hast du einen außergewöhnlichen Schutz vor Gefahren. Angriffe haben ein kleinere Chance, dich zu treffen und wenn sie es tun, richten sie weniger Schaden an.
   effect: |
     Du erhälst einen +1 Bonus auf alle Verteidigungen pro Rang in dieser Fertigkeit. Der Bonus gilt für Deckung, Zähigkeit und Entschlossenheit.
+  effect_short: |
+    *TODO*
 - !
   name: Außergewöhnlicher Fokus
   OGname: Extraordinary Focus
@@ -332,6 +348,10 @@
   special: |
     Falls du deinen Fokusgegenstand je verlierst, ob absichtlich oder nicht, erhälst du die Fertigkeitenpunkte zurück, die du für diese Fertigkeit ausgegeben hast und kannst sie wieder normal ausgeben.
     Du kannst diese Fertigkeit mehrmals erhalten. Falls du dich dazu entscheidest, wählst du jedes Mal ein neues Attribut, welches noch keinen Fokus hat. Jede Instanz dieser Fertigkeit kann den gleichen Fokus haben oder aber unterschiedliche.
+  effect_short: |
+    *TODO*
+  special_short: |
+    *TODO*
 - !
   name: Außergewöhnlichen Gegenstand Erschaffen (I - III)
   OGname: Craft Extraordinary Item (I - III)
@@ -384,7 +404,7 @@
   description: |
     Du bist in der Lage, Gegenstände mit magischer Energie zu durchdringen, futuristische Technologie zu schaffen, Tränke zu brauen oder außergewöhnliche Geräte zu bauen. Ihre Macht ist permanent, aber abhängig von deiner Expertise.
   effect: |
-    Solange du die notwendigen Materialien und passenden Arbeitsraum hast (nach Abwägung des GM), kannst du außergewöhnliche Gegenstände erschaffen (wie in [Kapitel 9: Spezialausrüstung](./../Kapitel-9_Spezialausruestung.md) beschrieben). Du kannst einem Gegenstand nur Attribute, Harme und Wohle geben, zu denen du selbst Zugang hast. Beispielsweise musst du einen Energiewert von 5 oder höher haben, um einem Schwert das Attribut Energie 5 einzuflößen. Die einzige Ausnahme zu dieser Regelung ist ein ausreichend großer Wert in Schöpfung, Lernen oder Logik. Diese Attribute erlauben es dir, einem Gegenstand beliebige Attribute, Harme oder Wohle zu verleihen, solange ihr Wert / Kraftlevel kleiner oder gleich deinem Attributwert ist. Der GM kann entscheiden, ob die Anwendung dieser Ausnahme in bestimmten Kontexten nicht sinnvoll ist und diese untersagen.
+    Solange du die notwendigen Materialien und passenden Arbeitsraum hast (nach Abwägung des GM), kannst du außergewöhnliche Gegenstände erschaffen (wie in [Kapitel 9: Spezialausrüstung](<../Kapitel-9_Spezialausruestung.md>) beschrieben). Du kannst einem Gegenstand nur Attribute, Harme und Wohle geben, zu denen du selbst Zugang hast. Beispielsweise musst du einen Energiewert von 5 oder höher haben, um einem Schwert das Attribut Energie 5 einzuflößen. Die einzige Ausnahme zu dieser Regelung ist ein ausreichend großer Wert in Schöpfung, Lernen oder Logik. Diese Attribute erlauben es dir, einem Gegenstand beliebige Attribute, Harme oder Wohle zu verleihen, solange ihr Wert / Kraftlevel kleiner oder gleich deinem Attributwert ist. Der GM kann entscheiden, ob die Anwendung dieser Ausnahme in bestimmten Kontexten nicht sinnvoll ist und diese untersagen.
     Dein Rang in dieser Fertigkeit bestimmt den maximalen Wohlstandswert von Gegenständen, die du erschaffen kannst, anhand des genutzten Attributs:
     <ul>
     <li><strong>Rang 1</strong> - Maximaler Wohlstandswert = Attributwert - 2.</li>
@@ -392,7 +412,7 @@
     <li><strong>Rang 3</strong> - Maximaler Wohlstandswert = Attributwert.</li>
     </ul>
     Beispielsweise kann ein Charakter mit Schöpfung 5 und Rang 1 dieser Fertigkeit einen außerordentlichen Gegenstand bis Wohlstandswert 3 erschaffen.
-    Du kannst einen passenden Wohlstandswert für einen Gegenstand anhand der Beispielgegenstände aus <strong>[Kapitel 9: Spezialausrüstung](./../Kapitel-9_Spezialausruestung.md)</strong> finden oder diesen mit den Regeln aus dem Abschnitt <strong>Eigene außergewöhnliche Gegenstände konzipieren</strong> bestimmen.
+    Du kannst einen passenden Wohlstandswert für einen Gegenstand anhand der Beispielgegenstände aus <strong>[Kapitel 9: Spezialausrüstung](<../Kapitel-9_Spezialausruestung.md>)</strong> finden oder diesen mit den Regeln aus dem Abschnitt <strong>Eigene außergewöhnliche Gegenstände konzipieren</strong> bestimmen.
     Ein Gegenstand mit den Eigenschaften <em>Konsumgut</em> oder <em>Verbrauchsgut</em> zu erschaffen braucht einen vollen ununterbrochenen Tag an 8 Stunden Arbeit. Andere Gegenstände brauchen anhand ihres Wohlstandswertes unterschiedlich viel Zeit:
     <ul>
     <li><strong>Wohlstandswert 1 - 3</strong>: Zwei Tage pro Wohlstandswert.</li>
@@ -400,7 +420,9 @@
     <li><strong>Wohlstandswert 6 - 7</strong>: Eine Woche pro Wohlstandswert.</li>
     <li><strong>Wohlstandswert 8 - 9</strong>: Ein Monat pro Wohlstandswert.</li>
     </ul>
-    Am Ende dieser Zeitspanne ist der Gegenstand erschaffen. Einen Gegenstand zu erschaffen zählt weiterhin als Ausgabe, sodass du einen Wohlstandswert haben musst, der hoch genug ist, um den Gegenstand anhand der in <strong>[Kapitel 6: Wohlstand und Ausrüstung](./../Kapitel-6_Wohlstand-und-Ausruestung.md)</strong> beschriebenen Regeln zu kaufen. Der GM kann nach Abwägung einige oder alle der Kosten, die mit dem Erschaffen eines Gegenstandes assoziiert sind, fallen lassen, falls du besondere Materialien zum Schaffen des Gegenstandes schon besitzt. Hast du z.B. kürzlich die Haut eines roten Drachen erbeutet und möchtest nun daraus eine feuerresistenze Rüstung schaffen, kann der GM bestimmen, dass die Haut den Großteil der mit der Schaffung assoziierten Kosten ausmacht und der Wohlstandswert zur Bestimmung der Beschaffungskosten für den Schaffungsprozess so um 3 reduziert ist.
+    Am Ende dieser Zeitspanne ist der Gegenstand erschaffen. Einen Gegenstand zu erschaffen zählt weiterhin als Ausgabe, sodass du einen Wohlstandswert haben musst, der hoch genug ist, um den Gegenstand anhand der in <strong>[Kapitel 6: Wohlstand und Ausrüstung](<../Kapitel-6_Wohlstand-und-Ausruestung.md>)</strong> beschriebenen Regeln zu kaufen. Der GM kann nach Abwägung einige oder alle der Kosten, die mit dem Erschaffen eines Gegenstandes assoziiert sind, fallen lassen, falls du besondere Materialien zum Schaffen des Gegenstandes schon besitzt. Hast du z.B. kürzlich die Haut eines roten Drachen erbeutet und möchtest nun daraus eine feuerresistenze Rüstung schaffen, kann der GM bestimmen, dass die Haut den Großteil der mit der Schaffung assoziierten Kosten ausmacht und der Wohlstandswert zur Bestimmung der Beschaffungskosten für den Schaffungsprozess so um 3 reduziert ist.
+  effect_short: |
+    *TODO*
 - !
   name: Blitzfinger
   OGname: Fast Draw
@@ -424,6 +446,8 @@
     Ob du ein Samuraikrieger, der schnellste Mann im Westen oder ein perfekt trainierter interstellarer Soldat bist, kannst du deine Waffe schneller ziehen, als deine Feinde blinzeln.
   effect: |
     Einmal pro Runde kannst du eine zusätzliche Waffe als kostenlose Aktion ziehen und eine andere wegstecken. Alternativ kannst du den gleichen Effekt auch für alle kleinen Gegenstände nutzen, die du besitzt.
+  effect_short: |
+    *TODO*
 - !
   name: Blitzreflexe (I - V)
   OGname: Lightning Reflexes (I - V)
@@ -495,6 +519,8 @@
     Du bist allzeit bereit, sodass du deinen Feinden oft zuvorkommst. Ein Revolverheld mit flinken Fingern oder ein Spion, der immer bereit für einen Hinterhalt ist, sind gute Beispiele dieser Fertigkeit.
   effect: |
     Für jeden Rang dieser Fertigkeit hast du Vorteil 1 auf alle Initiativewürfe.
+  effect_short: |
+    *TODO*
 - !
   name: Brutale Einschüchterung
   OGname: Brutal Intimidation
@@ -516,6 +542,8 @@
     Deine Überzeugungskräfte stammen aus roher Gewalt statt sozialem know-how. Wenn du einen Tisch entzweischlägst, deine Klinge zückst oder die Muskeln spielen lässt, halten die Leute ein und hören dir zu.
   effect: |
     Falls du eine Demonstration körperlicher Macht durchführen kannst, kannst du für den Aktionswurf Kraft anstatt von Überzeugung nutzen.
+  effect_short: |
+    *TODO*
 - !
   name: Brutaler Schlag
   OGname: Vicious Strike
@@ -537,6 +565,8 @@
     Durch pure Stärke, tödliche Präzision oder überkochende Magie, deine Angriffe sind besonders verheerend. Berserker, Assassinen und Superhelden sind Beispiele dieser Fertigkeit in Aktion.
   effect: |
     Wann immer du eine natürlich 20 auf einem d20 für einen Angriffswurf wirfst, erhälst du Vorteil 1 auf alle weiteren d20, die du aufgrund der Würfelexplosionen für diesen Angriff wirfst.
+  effect_short: |
+    *TODO*
 - !
   name: Defensive Reflexe (I - IX)
   OGname: Defensive Reflexes (I - IX)
@@ -608,6 +638,8 @@
     Du bist ein Paragon des defensiven Kampfes, der meisterhaft gegnerische Attacken abwendet. Indem du die Bewegungen, Streiche oder Schüsse deiner Feinde voraussiehst, kannst du sie unterbinden, bevor sie zur Gefahr werden.
   effect: |
     Wann immer du eine Verteidigungsaktion einsetzt, erhältst du Vorteil 1 auf den Aktionswurf pro Rang dieser Fertigkeit, den du besitzt.
+  effect_short: |
+    *TODO*
 - !
   name: Endlose Ausdauer (I - V)
   OGname: Indomitable Endurance (I - V)
@@ -673,6 +705,8 @@
     Deine Ausdauer und Willenskraft sind legendär, sodass du weitermachen kannst, wenn andere schon einbrechen. Ein Barbar, der unermüdlich schlachtet oder ein Hacker, der tagelang ein einziges Ziel verfolgen kann, sind gute Beispiele dieser Fertigkeit.
   effect: |
     Du kannst die Auswirkungen des Harms <em>Erschöpft</em> abschütteln. Für jeden Rang in dieser Fertigkeit kannst du dein Level an Erschöpfung als eins weniger behandeln, als es eigentlich ist, um die Effekte des Harms zu bestimmen.
+  effect_short: |
+    *TODO*
 - !
   name: Endlose Bezauberung
   OGname: Unending Charm
@@ -698,6 +732,8 @@
     Ob du ein Verzauberer bist, Psychiker oder verrückter Wissenschaftler, du hast die Kunst andere gefügig zu machen gemeistert. Deine Bezauberungen sind so mächtig, dass deine Opfer ihnen permament verfallen können.
   effect: |
     Wenn du den Harm <em>Bezaubert</em> wirkst, erleiden Ziele, die ihren Widerstandswürfe innerhalb von 24 Stunden nicht bestehen, den Harm permanent. Sie erhalten keine weiteren Widerstandswürfe, um sich von dem Effekt zu befreien. Andere außergewöhnliche Effekte wie z.B. der Harm <em>Annulieren</em> (und weitere passende nach Abwägung des GM) können die permanente Bezauberung weiterhin brechen.
+  effect_short: |
+    *TODO*
 - !
   name: Energieresistenz (I - IV)
   OGname: Energy Resistance (I - IV)
@@ -745,6 +781,10 @@
     </ul>
   special: |
     Zusätzlich dazu, dass mehrere Ränge dieser Fertigkeit erworben werden können, kann die Fertigkeit selbst mehrmals erhalten werden, wobei du jedes Mal eine neue Art Energie auswählst.
+  effect_short: |
+    *TODO*
+  special_short: |
+    *TODO*
 - !
   name: Erhöhte Konzentration (I - III)
   OGname: Superior Concentration (I - III)
@@ -778,6 +818,8 @@
     Dein Fokus ist messerschaft, sodass du dich darauf konzentrieren kannst, mehrere außergewöhnliche Effekte gleichzeitig aufrechtzuerhalten. Diese Fertigkeit ist bei Charakteren verbreitet, die darauf ausgelegt sich, sich und andere zu verstärken, z.B. Barden, Platoonführer oder Ingenieure.
   effect: |
     Wenn du die kleine Aktion <em>Wohl aufrechterhalten</em> benutzt, kannst du pro Rang dieser Fertigkeit ein weiteres Wohl aufrechterhalten, dass du wirken kannst.
+  effect_short: |
+    *TODO*
 - !
   name: Erzfeind (I - IX)
   OGname: Sworn Enemy (I - IX)
@@ -851,6 +893,10 @@
     Wähle eine Spezies, Abstammung oder Fraktion (z.B. Drachen, Leerentemplare, Gnolls oder Vampire). Du lernst die primäre Umgangssprache der Spezies und nach Abwägung des GM auch andere etwas der anderen besonderen Kommunikationsmittel deiner Feinde (wie z.B. geheime Handsignale oder Diebessprech). Weiterhin hast du pro Rang dieser Fertigkeit Vorteil 1 auf alle mentalen Attributwürfe (Lernen, Logik, Wahrnehmung, Willenskraft), die etwas mit der von dir gewählten Gruppe zu tun hat.
   special: |
     Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erwerben kannst, kannst du die Fertigkeit selbst auch mehrmals erhalten, wobei du jedes Mal eine neue Gruppe an Feinden wählst. Die Ränge der Fertigkeit für jede Gruppe werden separat behandelt. Beispielsweise könnte ein Charakter Erzfeind II (Raumtemplar) und Erzfeind IV (Werwolf) haben.
+  effect_short: |
+    *TODO*
+  special_short: |
+    *TODO*
 - !
   name: Fallsicher (I - II)
   OGname: Breakfall (I - II)
@@ -881,6 +927,8 @@
     <li><strong>Rang 1</strong> - Solange du bei Bewusstsein und handlungsfähig bist, reduziere allen Fallschaden um die Hälfte.</li>
     <li><strong>Rang 2</strong> - Solange du bei Bewusstsein und handlungsfähig bist, erleidest du keinen Fallschaden.</li>
     </ul>
+  effect_short: |
+    *TODO*
 - !
   name: Fliegen
   OGname: Flying
@@ -902,6 +950,8 @@
     Du hast die Fähigkeit, zu fliegen, die von himmlischen oder höllischen Flügeln, telekinetischer Kraft oder Mutantenkräften kommen kann.
   effect: |
     Du erhälst eine Fluggeschwindigkeit gleich deiner normalen Geschwindigkeit. Nach Abwägung des GM können bestimmte feindliche Handlungen deine Flugfähigkeit unterbinden, sodass du aus dem Himmel fällst. Falls deine Flugfähigkeit anatomisch bedingt ist, wäre der Harm <em>Immobilisiert</em> ein Beispiel, weil du deine Flügel nicht mehr bewegen könntest. Falls der Flug telekinetischer Art ist könnte <em>Annulieren</em> ihn beenden.
+  effect_short: |
+    *TODO*
 - !
   name: Flinke Beinarbeit
   OGname: Evasive Footwork
@@ -923,6 +973,8 @@
     Du bewegst dich mit dem Fluss des Kampfes und weichst Angriffen aus, die weniger adepte Krieger treffen würden. Vielleicht bist du ein Ninja, der um seine Feinde herum wirbelt oder ein Schlangenalien, das unberührt über das Schlachtfeld gleitet.
   effect: |
     Wenn du dich von einem an einem Feind anliegenden Platz zu einem nicht an einem Feind anliegenden Ort bewegst, erhält der Feind keine Gelegenheitsattacke.
+  effect_short: |
+    *TODO*
 - !
   name: Flinkfuß (I - III)
   OGname: Fleet of Foot (I - III)
@@ -980,6 +1032,8 @@
     Ob durch cybernetische Implantate, telekinetischen Antrieb oder einfach hardcore Training, bist du schneller als die meisten. Dieser Fertigkeit ist unter Degenhelden, Kriegern, Supersoldaten und Psychikern verbreitet.
   effect: |
     Deine Geschwindigkeit ist pro Rang dieser Fertigkeit permanent um 5' erhöht.
+  effect_short: |
+    *TODO*
 - !
   name: Fähigkeitsspezialisierung (I - V)
   OGname: Skill Specialization (I - V)
@@ -1027,6 +1081,10 @@
     Wähle ein Attribut. Wann immer du einen Wurf mit diesem Attribut auf etwas anderes als Initiative, Angriffe, Wirkungen von Harmen oder Wohlen oder Verteidigungsaktionen machst, erhälst du Vorteil 1 pro Rang dieser Fertigkeit.
   special: |
     Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit haben kannst, kannst du auch die Fertigkeit selbst mehrmals erwerben, wobei du jedes Mal ein anderes Attribut wählst. Du hast separate Ränge für jedes Attribut, für das du diese Fertigkeit hast.
+  effect_short: |
+    *TODO*
+  special_short: |
+    *TODO*
 - !
   name: Fährtenleser
   OGname: Master Tracker
@@ -1052,6 +1110,8 @@
     Du bist zur Jagd geboren. Ob du diese Fähigkeiten durch Jahre der Übrung erlangt hast oder sie durch schärfere Sinne besitzt, du verlierst so gut wie nie die Spur deines Ziels, wenn du sie aufgenommen hast.
   effect: |
     Solange du nicht geblendet oder durch außergewöhnliche Mächte verwirrt bist, weist du immer die Richtung nach Norden. Weiterhin hast du automatisch für sieben Tage nach dem Aufnehmen der Spur bei allen Versuchen um ihr zu folgen Erfolg. Nur außergewöhnliche Fähigkeiten der Verborgenheit, fliegende Ziele oder andere ungewöhnliche Umstände können dich dein Ziel verlieren lassen.
+  effect_short: |
+    *TODO*
 - !
   name: Flächenmanipulation (I - V)
   OGname: Area Manipulation (I - V)
@@ -1099,6 +1159,8 @@
     Egal, ob du dein vollautomatisches Sturmgewehr für dich sprechen lässt oder eine Flammenkugel wirfst, bist du besonders präzise darin, die Ziele deiner Flächenattacken anzuvisieren, sodass du Verbündete im Gebiet nicht im Kreuzfeuer hast.
   effect: |
     Für jeden Rang dieser Fertigkeit, den du besitzt, kannst du ein einziges 5' Rechteck aus dem Zielgebiet einer Flächenattacke ausnehmen.
+  effect_short: |
+    *TODO*
 - !
   name: Gefährte (I - III)
   OGname: Companion (I - III)
@@ -1140,6 +1202,10 @@
   special: |
     Falls du deinen Gefährten je verlierst, sei es absichtlich oder nicht, erhälst du die Fertigkeitenpunkte zurück, die du für diese Fertigkeit ausgegeben hast und die du eventuell weitergegeben hast und kannst diese wieder normal ausgeben.
     Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erlangen kannst, kannst du die Fertigkeit auch mehrmals erwerben, wobei du jedes Mal einen neuen Gefährten erhälst.
+  effect_short: |
+    *TODO*
+  special_short: |
+    *TODO*
 - !
   name: Großer Sprung (I - III)
   OGname: Great Leap (I - III)
@@ -1195,6 +1261,8 @@
     Durch außergewöhnliche Kraft oder besondere Geschicklichkeit kannst du deutlich weiter springen als die meisten Kreaturen. Ein telekinetischer Superheld oder eine insektoide Alienrasse könnten diese Fertigkeit haben.
   effect: |
     Du kannst deinen Bewegungs- oder Geschicklichkeitswert anstatt deinem Kraftwert nutzen, wenn du berechnest, wie weit du springen kannst. Zusätzlich erhälst du Vorteil 1 pro Rang dieser Fertigkeit auf Aktionswürfe zum Springen.
+  effect_short: |
+    *TODO*
 - !
   name: Halluzination (I - II)
   OGname: Hallucination (I - II)
@@ -1234,6 +1302,8 @@
       <li><strong>Einfluss 9</strong> - 50 Ziele</li>
       </ul></li>
     </ul>
+  effect_short: |
+    *TODO*
 - !
   name: Harmfokus
   OGname: Bane Focus
@@ -1263,6 +1333,10 @@
     Wähle einen Harm, den du wirken kannst. Wenn dein Wurf auf einen Angriff mit Schaden die Verteidigung des Ziels um 5 oder mehr übersteigt (anstatt der normalen 10 oder mehr), kannst du den Harm automatisch zufügen. Jeder Angriff kann weiterhin nur einen einzigen Harm zufügen. Weiterhin erhälst du Vorteil 2 auf Harmattacken mit dem gewählten Harm.
   special: |
     Du kannst diese Fertigkeit mehrmals erlangen. Für jedes weitere Mal wählst du einen anderen Harm aus.
+  effect_short: |
+    *TODO*
+  special_short: |
+    Du kannst diese Fertigkeit mehrmals erlangen. Für jedes weitere Mal wählst du einen anderen Harm aus.
 - !
   name: Hartnäckiger Harm
   OGname: Potent Bane
@@ -1287,6 +1361,10 @@
   effect: |
     Wähle einen Harm aus, den du wirken kannst und der eine Dauer von "Widerstehen beendet" hat. Wenn ein Ziel dieses Harms von dir versucht, diesen mit einem Widerstandswurf abzuschütteln, hat es Nachteil 1.
   special: |
+    Du kannst diese Fertigkeit mehrmals wählen, wobei du jedes Mal einen anderen Harm wählst.
+  effect_short: |
+    *TODO*
+  special_short: |
     Du kannst diese Fertigkeit mehrmals wählen, wobei du jedes Mal einen anderen Harm wählst.
 - !
   name: Kampffokus
@@ -1315,6 +1393,8 @@
     Wie ein Kensaikämpfer, der sich ganz seinem Katana verschrieben hat, oder ein Assassine der ausschließlich seine Lieblingspistole führt, ist dein Training auf einen einzigen Kampfstil fokussiert.
   effect: |
     Wähle eine einzige Waffe (oder wähle unbewaffneten Kampf) und gib an, auf welches Attribut sich dein Kampffokus verlässt: Geschicklichkeit oder Kraft. Wenn du einen Angriff mit der gewählten Waffe machst, wird dein Attributwert zum Bestimmten der Attributwürfel als eins höher gewertet, als er eigentlich ist. Dein Wert bleibt für alle anderen Anwendungen - wie z.B. Fertigkeiten, Harme und Wohle - unverändert. Aufgrund deines intensiven Trainings in einem Stil, das andere Taktiken vernachlässigt, hast du Nachteil 1 auf alle Angriffe, die du ohne Kampffokus ausführst.
+  effect_short: |
+    *TODO*
 - !
   name: Kampfmoment
   OGname: Combat Momentum
@@ -1338,6 +1418,10 @@
     Wann immer du einen Feind mit einer Kraft- oder Geschicklichkeitsattacke auf 0 TP bringst, kannst du dich sofort als kostenlose Aktion bis zu deiner Geschwidigkeit weit bewegen.
   special: |
     Falls du Zugang zum Wohl <em>Teleportation</em> hast, kannst du es anstatt einer normalen Bewegung benutzen.
+  effect_short: |
+    *TODO*
+  special_short: |
+    Falls du Zugang zum Wohl _Teleportation_ hast, kannst du es anstatt einer normalen Bewegung benutzen.
 - !
   name: Kampftrance
   OGname: Battle Trance
@@ -1363,6 +1447,8 @@
     Du kannst dich in einen Geisteszustand erhöhter Kampfbereitschaft versetzen, in dem dein Körper gestärkt ist und dein Geist Furch und Schmerz hinter sich lässt. Beispiele schließen Barbaren in Rage oder einen unaufhaltsamen Samurai ein, der im Kampf den Fokus einer Rasierklinge hat.
   effect: |
     Als kostenlose Aktion in deinem Zug kannst du dich in Kampftrance versetzen. Während du in der Trance bist, hast du Vorteil 1 auf alle Angriffe. Weiterhin sind dein Zähigkeit und Entschlossenheit um 3 erhöht. Falls dein gesamter Rüstungsbonus weniger als 3 ist, wird er zu 3. Falls du drei Züge in Folge keinen Angriffswurf gegen eine feindliche Kreatur wirfst, endet die Kampftrance. Wenn die Trance endet, erleidest du automatisch 1 Level des Harms <em>Erschöpft</em>.
+  effect_short: |
+    *TODO*
 - !
   name: Kettenschlag
   OGname: Combat Follow-through
@@ -1384,6 +1470,8 @@
     Du bist in der Lage, Feinde in schneller Folge zu dezimieren. Wie ein legendärer Samurai oder überragender Elfenschütze fallen deine Gegner in Reihen.
   effect: |
     Wann immer du einen Feind mit einer Kraft- oder Geschicklichkeitsattacke auf 0 TP bringst, kannst du sofort einen Extraangriff als kostenlose Aktion ausführen.
+  effect_short: |
+    *TODO*
 - !
   name: Klettern
   OGname: Climbing
@@ -1405,6 +1493,8 @@
     Du erhälst die Fähigkeit, perfekt zu klettern oder Parkour zu nutzen, so wie manche Vampire, bizarre Kreaturen, Ninjas oder Insekten.
   effect: |
     Du erhälst eine Klettern-Geschwindigkeit gleich deiner Grundgeschwindigkeit und kannst horizontale und vertikale Flächen erklimmen - sogar kopfüber -, ohne einen Sturz fürchten zu müssen.
+  effect_short: |
+    *TODO*
 - !
   name: Konterschlag
   OGname: Battlefield Retribution
@@ -1440,6 +1530,8 @@
     Du bist ein Meister des Konters. Du könntest flink Vorstöße deiner Gegner auf sie selbst umleiten oder mit einer außergewöhnlichen Barriere die Energie von Angriffen zurückwerfen. Deine Fähigkeiten erlauben es dir nicht nur, Angriffe auf dem Schlachtfeld abzufangen, sondern mit diesen gleichzeitig Vergeltung zu üben.
   effect: |
     Wenn du eine Verteidigungsaktion nutzt, fügst du dem Angreifer Schaden gleich der Anzahl zu, mit der dein Aktionswurf das Ergebnis des Angriffswurfs übertrifft.
+  effect_short: |
+    *TODO*
 - !
   name: Konterschlächter
   OGname: Battlefield Punisher
@@ -1477,6 +1569,8 @@
     Du kannst mit einem Konter nicht nur Schaden zufügen, sondern Feinde auch mit einem spezifischen Sekundäreffekt belegen. Vielleicht bist du ein Paladin, der Feinde mit seinem Konter zu Boden wirft, ein Ninja der bei der Parade Sand in die Augen des Gegners streut oder ein Telekinetist, der seine Feinde von sich schleudert.
   effect: |
     Wähle einen Harm, den du zufügen kannst. Wann immer du eine Verteidigungsaktion mit einem Attribut nutzt, das den gewählten Harm wirken könnte und mit der Fertigkeit Schlachtvergeltung dem Gegner 10 oder mehr Schaden zufügst, kannst du den Harm automatisch auf den Gegner wirken.
+  effect_short: |
+    *TODO*
 - !
   name: Medikus
   OGname: Hospitaler
@@ -1514,6 +1608,8 @@
     Durch inspirierende Worte, magische Heilung oder fortgeschrittene Medizintechnik bist du besonders effektiv dabei, anderen zu helfen, schadhafte Effekte loszuwerden. Paladine, Barden und Kampfmediziner sind typische Beispiele von Charakteren, die diese Fertigkeit haben könnten.
   effect: |
     Du kannst eine große Aktion benutzen, um einem Verbündeten sofort einen Widerstandswurf (eine kostenlose Aktion für den Verbündeten) mit Vorteil 1 zu geben. Weiterhin hast du Vorteil 1 darauf, das Wohl <em>Wiederherstellung</em> zu wirken.
+  effect_short: |
+    *TODO*
 - !
   name: Mimikri
   OGname: Mimic
@@ -1541,6 +1637,8 @@
     Du hast dein Gestaltwandeln perfektioniert und kannst so nicht nur deine Form wandeln, sondern sogar spezifische Kreaturen imitieren. Deine Kräfte könnten aus dem Studium der Täuschungsmagie stammen, von einer Genmutation oder inhärenten außergewöhnlichen Fähigkeiten.
   effect: |
     Wenn du das Wohl <em>Gestaltwandel</em> benutzt, kannst du die Form einer spezifischen Kreatur annehmen. Anstatt dich einfach in einen Elf zu verwandeln, kannst du die Gestalt von Galdion dem Elfenkönig annehmen. Die Verkleidung ist visuell nahezu perfekt. Falls dein Verhalten oder andere Anzeichen jemand misstrauisch werden lassen, kann die Person einen Wahrnehmungswurf mit Herausforderungswert 10 + 3 x dein Wandlungs-/Täuschungswert (höheren Wert nutzen) versuchen. Falls sie Erfolg hat, durschaut die Person deine Verwandlung.
+  effect_short: |
+    *TODO*
 - !
   name: Multi-Angriffsspezialisierung (I - VI)
   OGname: Multi-Attack Specialist (I - VI)
@@ -1595,6 +1693,8 @@
     Du kannst deine Angriffe für eine beliebige Kombination aus Harmen und Attacken mit Schaden nutzen, kannst aber keine Wohle wirken. Handle jede einzelne Attacke ab, wobei du wie normal Multi-Zielen anwenden kannst. Du kannst dich zwischen den Angriffen bewegen und kannst auch die gleiche Kreatur mehrmals angreifen.
     Die maximale Anzahl an zusätzlichen Angriffen pro Runde ist 1 + die Hälfte deines Levels aufgerundet. Auf Level 1 ist das Limit also 2 zusätzliche Attacken, 3 Attacken auf Level 3 und 6 auf Level 9.
     <strong>Beispiel</strong> - Vax der Todbringer hat Multi-Angriffsspezialisierung (Rang III). Er sagt an, dass er diese Runde drei Angriffe (also zwei zusätzliche) ausführen wird. Daher werden all seine Angriffe Nachteil 3 haben (3 x 2 = 6, davon 3 für Rang 3 abziehen). Sein erster Angriff ist ein nekromantischer Energieausbruch, der einen 10'-Würfel als Ziel hat. Aufgrund der Flächenattacke hat Vax weitere 2 Nachteil auf den ersten Angriff, sodass er insgesamt dafür mit Nachteil 5 würfelt. Sein zweiter Angriff ist ein Harmangriff mit <em>Geblendet</em> auf einen einzigen Feind, sodass dieser mit Nachteil 3 stattfindet. Letztlich bewegt sich Vax in den Nahkampf und nutzt seine Todesberührung gegen drei Feinde, was weitere 3 Nachteil bringt. Sein letzter Angriffswurf hat also Nachteil 6.
+  effect_short: |
+    *TODO*
 - !
   name: Multi-Harmspezialisierung
   OGname: Multi-Bane Specialist
@@ -1621,6 +1721,10 @@
   special: |
     Um bei einer Multi-Harm-Attacke von der Fertigkeit <em>Harmfokus</em> zu profitieren, musst du für beide gewählten Harme <em>Harmfokus</em> haben.
     Du kannst diese Fertigkeit mehr als einmal erwerben, wobei du jedes Mal ein neues Paar aus zwei Harmen wählst.
+  effect_short: |
+    *TODO*
+  special_short: |
+    Um Multi-Harm-Attacke und _Harmfokus_ zu kombinieren, brauchst du für beide Harme _Harmfokus_. Du kannst diese Fertigkeit mehr als einmal erwerben, wobei du jedes Mal ein neues Paar aus zwei Harmen wählst.
 - !
   name: Multi-Zielen Angriffsspezialisierung (I - V)
   OGname: Multi-Target Attack Specialist (I - V)
@@ -1668,6 +1772,10 @@
     Wenn du diese Fertigkeit wählst, musst du dich für einen Ansatz aus Nahkampf, Fernkampf oder Flächenangriffen entscheiden. Für jeden Rang dieser Fertigkeit reduzierst du den mit Multi-Zielen assoziierten Nachteil für deinen gewählten Ansatz um 1. 
   special: |
     Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit erwerben kannst, kannst du die Fertigkeit selbst auch mehrmals erhalten, wobei du jedes Mal einen anderen Ansatz (Nahkampf, Fernkampf, Flächenattacken) auswählst. Jede Instanz dieser Fertigkeit hat separate Ränge.
+  effect_short: |
+    *TODO*
+  special_short: |
+    *TODO*
 - !
   name: Multi-Zielen Wohlexperte
   OGname: Multi-Target Boon Expert
@@ -1693,6 +1801,8 @@
     Du bist so geübt darin, Gruppen Verbündeter zu helfen, dass du bestimmte Wohle ohne Anstrengung wirken kannst. Eine Heilnova, ein übernatürlicher Wind der Flugfähigkeiten beschert oder Zeitdilation die eine Gruppe beschleunigt sind alle Beispiele dieser Fertigkeit.
   effect: |
     Wenn du ein Wohl mit Multi-Zielen wirkst, für den du die Fertigkeit Wohlfokus hast, musst du keinen Aktionswurf machen, falls der durch Multi-Zielen erhaltene Nachteil vollständig von deiner Fertigkeit Multi-Zielen Wohlspezialisierung negiert wird. In diesem Fall hat die Wirkung automatisch Erfolg.
+  effect_short: |
+    *TODO*
 - !
   name: Multi-Zielen Wohlspezialisierung (I - IX)
   OGname: Multi-Target Boon Specialist (I - IX)
@@ -1764,6 +1874,8 @@
     Du bist ein Meister darin, Wohle auf mehrere Verbündete zu wirken. Eine Massenteleportation in eine andere Dimension  wäre eine Beispiel dieser Fertigkeit im Spiel.
   effect: |
     Für jeden Rang dieser Fertigkeit reduzierst du den mit Multi-Zielen von Wohlen assoziierten Nachteil um 1.
+  effect_short: |
+    *TODO*
 - !
   name: Natürliche Verteidigung (I - III)
   OGname: Natural Defense (I - III)
@@ -1808,6 +1920,8 @@
     <li><strong>Rang 2</strong> - +2 Bonus auf Deckung und Zähigkeit.</li>
     <li><strong>Rang 3</strong> - +3 Bonus auf Deckung und Zähigkeit.</li>
     </ul>
+  effect_short: |
+    *TODO*
 - !
   name: Normalen Gegenstand Erschaffen (I - II)
   OGname: Craft Mundane Item (I - II)
@@ -1850,7 +1964,7 @@
   description: |
     Du hast ein bestimmtes Handwerk gemeistert, sodass du mit der nötigen Zeit und Materialien Gegenstände aus diesem Gewerbe erschaffen kannst. Du könntest ein gekonnter Schmied sein, professioneller Ingenieur, Meisteralchemist oder jede andere Art Profession.
   effect: |
-    Wähle einen spezifischen Beruf oder eine Profession. Du kannst Gegenstände erschaffen, die für deinen gewählten Job plausibel sind, wobei der GM entscheidet, wie schnell du den gewünschten Gegenstand anhand seiner Natur und den dir verfügbaren Materialien erschaffen kannst. Dein Rang in Normalen Gegenstand Erschaffen bestimmt den maximalen Wohlstandswert der Gegenstände, die du erzeugen kannst. Anders als beim Kaufen von Dingen (siehe [Kapitel 6: Wohlstand und Ausrüstung](./../Kapitel-6_Wohlstand-und-Ausruestung.md)), schränkt das Erschaffen von Gegenständen nicht ein, ob du weitere Güter dieses Wohlstandswertes erhalten kannst.
+    Wähle einen spezifischen Beruf oder eine Profession. Du kannst Gegenstände erschaffen, die für deinen gewählten Job plausibel sind, wobei der GM entscheidet, wie schnell du den gewünschten Gegenstand anhand seiner Natur und den dir verfügbaren Materialien erschaffen kannst. Dein Rang in Normalen Gegenstand Erschaffen bestimmt den maximalen Wohlstandswert der Gegenstände, die du erzeugen kannst. Anders als beim Kaufen von Dingen (siehe [Kapitel 6: Wohlstand und Ausrüstung](<../Kapitel-6_Wohlstand-und-Ausruestung.md>)), schränkt das Erschaffen von Gegenständen nicht ein, ob du weitere Güter dieses Wohlstandswertes erhalten kannst.
     <ul>
     <li><strong>Rang 1</strong> - Du kannst Gegenstände gleich deinem eigenen Wohlstandswert erschaffen.</li>
     <li><strong>Rang 2</strong> - Du kannst Gegenstände gleich deinem eigenen Wohlstandswert + 1 erschaffen.</li>
@@ -1867,6 +1981,10 @@
     <li>Medizin - Medizinwerkzeug, Toniken, Tinkturen, Schmerzmittel, Gegengifte.</li>
     </ul>
   special: |
+    Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit erwerben kannst, kannst du die Fertigkeit selbst mehrmals erhalten, wobei du jedes Mal eine neue Profession wählst.
+  effect_short: |
+    *TODO*
+  special_short: |
     Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit erwerben kannst, kannst du die Fertigkeit selbst mehrmals erhalten, wobei du jedes Mal eine neue Profession wählst.
 - !
   name: Paragon (I - III)
@@ -1910,6 +2028,8 @@
     <li><strong>Rang 2</strong> - Eine Anzahl Verbündeter gleich deinem Präsenzwert, die den Angriff sehen können, heilen 1d4 TP.</li>
     <li><strong>Rang 3</strong> - Alle Verbündeten, die den Angriff sehen können, heilen 2d4 TP.</li>
     </ul>
+  effect_short: |
+    *TODO*
 - !
   name: Reaktive Trance
   OGname: Reactionary Trance
@@ -1941,6 +2061,8 @@
     Dein intensiver Fokus lässt sich nicht brechen, sodass du augenblicklich in eine tiefere Trance verfallen kannst. Beispiele dieser Fertigkeit wären ein Berserker, der im ersten Moment der Gefahr in Rage verfällt oder ein allzeit bereiter Revolverheld.
   effect: |
     Du kannst als kostenlose Aktion in Kampftrance verfallen (anhand der Fertigkeit Kampftrance), selbst wenn es nicht dein Zug ist. Du kannst dies als Reaktion auf eine andere Handlung tun, z.B. ein feindlicher Angriff, ein Zauber oder eine Beleidigung. Du kannst dich auch erst nach dem Wurf für die Handlung entscheiden, die Kampftrance zu nutzen. Der Effekt der Trance beginnt sofort und in diesem Fall bevor die Konsequenzen der auslösenden Handlung abgehandelt sind, sodass du potentiell Schaden oder andere schadhafte Effekte verhindern kannst.
+  effect_short: |
+    *TODO*
 - !
   name: Resilient
   OGname: Resilient
@@ -1972,6 +2094,8 @@
     Ob durch Glück, außergewöhnliche Willenskraft oder großen Mut, kannst du Harme schneller abschütteln als andere. Diese Fertigkeit kann gut zu jedem Charakterkonzept passen: ein Halbling dem das Glück gewogen ist, eine Zauberin mit einer Aura des Schutzes oder ein zerstreuter Professor, der keine Zeit für Störungen seiner Studien hat.
   effect: |
     Du hast Vorteil 1 auf alle Widerstandswürfe.
+  effect_short: |
+    Du hast Vorteil 1 auf alle Widerstandswürfe.
 - !
   name: Rundumtalent
   OGname: Well-Rounded
@@ -1993,6 +2117,8 @@
     Du hast eine breite Erziehung genossen, viele Erfahrungen gemacht oder einfach großes Glück. Das Resultat ist, dass du auch in Dingen, in denen du nicht spezialisiert bist, ziemlich adept bist.
   effect: |
     Wann immer du ein Attribut mit Wert 2 oder weniger für einen Aktionswurf außerhalb des Kampfes nutzt, der nicht zum Wirken eines Harms oder eines Wohls dient, erhälst du Vorteil 1 auf den Wurf.
+  effect_short: |
+    *TODO*
 - !
   name: Rücksichtsloser Angriff
   OGname: Reckless Attack
@@ -2014,6 +2140,8 @@
     Indem du deinen Körper willentlich im Kampf überstrapazierst, führst du eine Reihe verheerender Attacken aus. Das Stimpack eines Supersoldaten oder ein Berserker, der seine eigenen Muskeln mit mächtigen Hieben zerreist sind Beispiele dieser Fertigkeit.
   effect: |
     Während du in einer Kampftrance bist, kannst du dich entscheiden, dir selbst in deinem Zug 5 TP Schaden zuzufügen, um einen Angriff als kleine Aktion zu machen. Effekte, die Schaden verhindern oder reduzieren können diesen selbstverschuldeten Schaden nicht verändern. Du erleidest den Schaden, bevor du den Extraangriff ausgeführt hast, sodass du nach dem Schaden noch bei Bewusstsein sein musst, um die Attacke ausführen zu können.
+  effect_short: |
+    *TODO*
 - !
   name: Rüstungsexpertise (I - II)
   OGname: Armor Mastery (I - II)
@@ -2045,6 +2173,8 @@
     <li><strong>Rang 1</strong> - Die Konstitutionsvoraussetzungen von Rüstungen sind um 1 reduziert. Während du Rüstung trägst, erhälst du +1 Deckung.</li>
     <li><strong>Rang 2</strong> - Die Konstitutionsvoraussetzungen von Rüstungen sind um 2 reduziert. Während du Rüstung trägst, erhälst du +2 Deckung. Jegliches Geschwindigkeitsmalus durch eine Rüstung ist um 5' reduziert.</li>
     </ul>
+  effect_short: |
+    *TODO*
 - !
   name: Schlachtfeldopportunist (I - V)
   OGname: Battlefield Opportunist (I - V)
@@ -2118,6 +2248,8 @@
     Deine Fähigkeiten auf dem Schlachtfeld erlauben es dir, Chancen zu ergreifen, die andere übersehen, sodass du tödlicher im Nahkampf bist. Deine Feinde tun sich schwer, sich im Kampf um dich herum zu bewegen, egal ob du mit Axt, Plasmaklinge oder bloßen Fäusten kämpfst.
   effect: |
     Du kannst eine zusätzliche Gelegenheitsattacke pro Rang dieser Fertigkeit, die du besitzt, in einer Runde ausführen. Du kannst aber nur eine Gelegenheitsattacke für jeden Anlass machen, der eine solche Attacke ermöglicht (du kannst also nicht mehrere Attacken gegen einen Feind ausführen, der den Nahkampf mit dir verlässt).
+  effect_short: |
+    *TODO*
 - !
   name: Schwimmen
   OGname: Swimming
@@ -2139,6 +2271,8 @@
     Du bist für das Wasser geboren und kannst mit der Flinkheit eines Fisches mit großer Geschwindigkeit schwimmen. Der Hintergrund dieser Fertigkeit könnte hartes Training sein oder physiologische Eigenschaften deiner Spezies wie Schwimmhäute.
   effect: |
     Du erhälst eine Schwimmgeschwindigkeit gleich deiner normalen Geschwindigkeit und musst keine Aktionswürfe machen um deine Schwimmgeschwindigkeit aufrechtzuerhalten.
+  effect_short: |
+    *TODO*
 - !
   name: Spurenhund
   OGname: Fast Tracker
@@ -2166,6 +2300,8 @@
     Einer Spur zu folgen ist für dich so normal wie atmen. Du bist ein erfahrener Waldläufer, Kopfgeldjäger des galaktischen Senats oder ein Katzenmensch mit besseren Sinnen. Deine Expertise erlaubt es dir, Spuren schneller zu verfolgen als durchschnittliche Jäger.
   effect: |
     Du bewegst dich unbehindert und mit voller Geschwindigkeit, wenn du ein Ziel verfolgst.
+  effect_short: |
+    *TODO*
 - !
   name: Spurenlos
   OGname: Untrackable
@@ -2199,6 +2335,8 @@
     Ob aufgrund von Ranken, die in deinem Pfad wachsen, einem magischen Schutz gegen Aufklärung oder illusorischem Nebel, der Effekt ist der gleiche: Du bist davor geschützt, verfolgt zu werden.
   effect: |
     Deine Spur und jegliche Hinweise auf deine Durchreise werden durch besondere Mittel verschleiert, sodass es unmöglich ist, dich ohne außergewöhnliche Mittel zu verfolgen.
+  effect_short: |
+    *TODO*
 - !
   name: Stirb Langsam
   OGname: Diehard
@@ -2226,6 +2364,8 @@
     Ob das Glück dir gewogen ist oder du einfach sehr schwer zu töten bist, du hast die Gabe, im Kampf zu bleiben wenn andere schon eingebrochen wären. Vielleicht bist du ein cleverer Schurke, der immer eine Ecke zur Deckung findet oder ein alter Veteran, der trainiert ist, trotz schlechter Karten taff zu bleiben.
   effect: |
     Einmal pro Tag reduziert ein Angriff, der deine TP eigentlich auf unter 1 TP fallen würde, diese stattdessen auf 1.
+  effect_short: |
+    *TODO*
 - !
   name: Stummschlag
   OGname: Silencing Strike
@@ -2249,6 +2389,8 @@
     Wie ein Assassine oder Ninja kannst du verhindern, dass Feinde andere zu Hilfe rufen können. Das könnte sich als Wurfdart in der Luftröhre, Würgestrick um den Hals oder verzaubertes Tuch über dem Mund ausdrücken.
   effect: |
     Wann immer du mit einer Waffe mit der Eigenschaft <em>Defensiv</em> einem Ziel Schaden zufügst, das die Attacke nicht hat kommen sehen oder sonst unvorbereitet darauf war, erleidet es automatisch den Harm <em>Verstummt</em>. Du könntest vor dem Ziel versteckt sein, dich als Freund verkleidet oder es erfolgreich getäuscht haben.
+  effect_short: |
+    *TODO*
 - !
   name: Stählerner Wille (I - III)
   OGname: Indomitable Resolve (I - III)
@@ -2298,6 +2440,8 @@
     Deine Entschlossenheit ist außergewöhnlich, sodass du resistenter gegen mentale Angriffe bist, die andere unterwerfen würden. Ein Raumschiffkapitän mit cleverem Geist oder ein weiser Magier könnten diese Fertigkeit nutzen.
   effect: |
     Für jeden Rang in dieser Fertigkeit ist deine Entschlossenheit um eins erhöht.
+  effect_short: |
+    *TODO*
 - !
   name: Todesstreich (I - II)
   OGname: Death Blow (I - II)
@@ -2338,6 +2482,8 @@
     <li><strong>Rang 1</strong> - Falls du einem Feind mit Tödlicher Schlag Schaden zufügst und ihre Gesamt-TP danach 5 oder niedriger sind, kannst du dich entscheiden, sie stattdessen auf 0 TP fallen zu lassen. Weiterhin kannst du jeden von dir durch eine Attacke auf 0 TP gebrachten Feind verstummen lassen.</li>
     <li><strong>Rang 2</strong> - Die Schwelle für einen Todesstoß ist auf 10 erhöht. Weiterhin fügst du deinem Feind bei einem erfolgreichen Tödlichen Streich automatisch den Harm <em>betäubt</em> zu, wobei dieser nicht gegen das Limit auf max. einen Harm pro Angriff zählt.</li>
     </ul>
+  effect_short: |
+    *TODO*
 - !
   name: Tödlicher Schlag (I - IX)
   OGname: Lethal Strike (I - IX)
@@ -2415,7 +2561,7 @@
     <li>Dein Ziel ist überrascht oder sieht den Angriff anderweitig nicht kommen, z.B. wenn du vor ihm versteckt, als Freund verkleidet bist oder es erfolgreich getäuscht hast.</li>
     <li>Dein Ziel ist in Nahkampfreichweite eines Verbündeten.</li>
     </ul>
-    Du hast Vorteil auf Tödliche Schläge mit Vorteil-Level gleich deines Ranges in dieser Fertigkeit. Weiterhin wird ein Teil des Schadens (nie mehr als der Gesamtschaden) als tödlicher Schaden zugefügt, was ihn schwieriger zu heilen macht (siehe [Kapitel 7: Kampf](./../Kapitel-7_Kampf.md)).
+    Du hast Vorteil auf Tödliche Schläge mit Vorteil-Level gleich deines Ranges in dieser Fertigkeit. Weiterhin wird ein Teil des Schadens (nie mehr als der Gesamtschaden) als tödlicher Schaden zugefügt, was ihn schwieriger zu heilen macht (siehe [Kapitel 7: Kampf](<../Kapitel-7_Kampf.md>)).
     <ul>
     <li><strong>Rang 1</strong> - Vorteil 1. Bis zu 5 tödlicher Schaden.</li>
     <li><strong>Rang 2</strong> - Vorteil 2. Bis zu 5 tödlicher Schaden.</li>
@@ -2427,6 +2573,8 @@
     <li><strong>Rang 8</strong> - Vorteil 8. Bis zu 25 tödlicher Schaden.</li>
     <li><strong>Rang 9</strong> - Vorteil 9. Bis zu 25 tödlicher Schaden.</li>
     </ul>
+  effect_short: |
+    *TODO*
 - !
   name: Unabdingbare Trance
   OGname: Impervious Trance
@@ -2452,6 +2600,8 @@
     Im Fokus des Kampfes wirst du unabdingbar. Wie ein Mönch mit stählernem mentalen Fokus oder ein Berserker, der zu blutrünstig ist, um sich aufhalten zu lassen, kannst du nicht durch Furcht, Bezauberung oder ähnliche Effekte gebremst werden.
   effect: |
     Während du in einer Kampftrance liegst, bist du immun gegen Harme, die auf deine Entschlossenheit zielen. Falls du zu Beginn der Trance unter einem dieser Harme lagst, ist dieser für die Dauer der Trance neutralisiert und kehr zurück, wenn die Trance endet.
+  effect_short: |
+    *TODO*
 - !
   name: Unsterbliche Trance
   OGname: Deathless Trance
@@ -2477,6 +2627,8 @@
     Deine Kampfraserei ist legendär, seist du ein Berserker aus dem kalten Norden, ein Superheld unaufhaltsamer Stärke oder ein cybernetisch abgehärteter Soldat. Du hast die seltene Fähigkeit, weiterzukämpfen, auch wenn dein Körper längst hätte aufgeben sollen.
   effect: |
     Während du in einer Kampftrance bist, kannst du nicht bewusstlos geschlagen werden. Aller Schaden, den du erleidest, muss notiert werden, auch wenn deine Gesamt-TP ins negative gehen. Unabhängig von allem Schaden bleibst du bei Bewusstsein, solange du die Kampftrance aufrechterhalten kannst. Hast du negative TP, wenn die Kampftrance endet, fällst du sofort in Ohnmacht. Wirst du nicht innerhalb von einer Runde danach auf 0 oder mehr TP geheilt, stirbst du.
+  effect_short: |
+    *TODO*
 - !
   name: Überwältigender Schlag
   OGname: Overpowering Strike
@@ -2502,6 +2654,8 @@
     Im Kampf bist du eine überwältigende Lawine, die Feinde dahinrafft. Die reine Kraft deiner Angriffe ist so groß, dass sie Feinde zurückwirft. Ein Halboger mit einem massiven Baumstamm oder ein Supersoldat, der trainiert ist, das Gewicht seines Gegner für sich zu nutzen, sind gute Beispiele dieser Fertigkeit.
   effect: |
     Jedes Mal, wenn du mit einer Waffe mit der Eigenschaft <em>Kraftvoll</em> Schaden zufügst, kannst du dich entscheiden, dein Ziel 5' von dir wegzubewegen.
+  effect_short: |
+    *TODO*
 - !
   name: Vertiefte Wirkung (I - III)
   OGname: Heightened Invocation (I - III)
@@ -2576,6 +2730,10 @@
     </ul>
   special: |
     Permanente Harme und Wohle mit dieser Fertigkeit zu gewähren kann einen dramatischen Einfluss auf die spielmechanische Balance der Geschichte haben. Wie mit anderen Effekten wie z.B. Außergewöhnlichen Gegenstand Erschaffen, unterliegt das Wirken permanenter Harme und Wohle der Abwägung des GM. Der GM sollte besonders darauf achten, dass diese Fertigkeit nicht genutzt wird, um einen Charakter übermäßig mächtig zu machen.
+  effect_short: |
+    *TODO*
+  special_short: |
+    *TODO*
 - !
   name: Verteidigungsexpertise
   OGname: Defensive Mastery
@@ -2597,6 +2755,8 @@
     Du weist, wie man eine gute Offensive in eine noch bessere Defensive verwandelt. Dein besonderes Training oder deine Erfahrung mit Verteidigungsausrüstung erlaubt es dir, diese effizienter zu nutzen als ein normaler Soldat. Beispiele umfassen das defensive Kata eines Kriegers oder einen Soldaten, der mit seinem Riot-Shield trainiert ist.
   effect: |
     Wenn du eine Waffe oder andere Ausrüstung mit der Eigenschaft <em>Defensiv</em> führst, hast du +1 zusätzlichen Rüstungsbonus. Weiterhin wird der Wert von <em>Defensiv</em> um 1 erhöht, während du den Gegenstand führst. <em>Defensiv 1</em> wird also <em>Defensiv 2</em> und <em>Defensiv 2</em> wird <em>Defensiv 3</em>.
+  effect_short: |
+    *TODO*
 - !
   name: Wilde Handlanger (I - III)
   OGname: Ferocious Minions (I - III)
@@ -2662,6 +2822,8 @@
     Nekromanten mit Horden Untoter, Erfinder mit ihren automatischen Verteidigungsdroiden oder Psychiker, die andere ihrem Willen unterwerfen, sie alle führen Handlanger an, die unter ihrem Kommando besonders gefährlich sind.
   effect: |
     Kreaturen unter dem Effekt der Harme <em>Bezaubert</em> oder <em>Dominiert</em> oder des Wohls <em>Kreatur Beschwören</em> haben Vorteil 1 pro Rang dieser Fertigkeit auf alle Angriffswürfe, wenn sie dich beschützen oder in deinem Sinne handeln.
+  effect_short: |
+    *TODO*
 - !
   name: Wissen (I - III)
   OGname: Knowledge (I - III)
@@ -2721,6 +2883,10 @@
     </ul>
   special: |
     Zusätzlich dazu, dass du mehrere Ränge in dieser Fertigkeit haben kannst, kannst du die Fertigkeit selbst auch mehrmals erwerben, wobei du jedes Mal ein neues Wissensgebiet wählst. Die Fertigkeit so mehrmals zu haben bringt keine Vorteile für andere Wissensgebiete.
+  effect_short: |
+    *TODO*
+  special_short: |
+    *TODO*
 - !
   name: Wohlfokus (I - III)
   OGname: Boon Focus (I - III)
@@ -2776,6 +2942,10 @@
     </ul>
   special: |
     Zusätzlich dazu, dass du mehrere Ränge dieser Fertigkeit erwerben kannst, kannst du auch die Fertigkeit selbst mehrmals erhalten und jedes Mal ein weiteres Wohl wählen. Der Rang der Fertigkeit für dieses neue Wohl ist unabhängig von allen anderen Rängen, die du in dieser Fertigkeit für andere Wohle hast.
+  effect_short: |
+    *TODO*
+  special_short: |
+    *TODO*
 - !
   name: Wohlhabend
   OGname: Wealthy
@@ -2796,6 +2966,8 @@
   description: |
     Ob du als Aristokrat geboren wurdest, altes Geld in deiner Familie liegt, du einen großen Schatz geerbt hast oder selbst ein florierendes Geschäft aufgezogen hast, du bist wohlhabender als der durchschnittliche Abenteurer.
   effect: |
+    Dein Wohlstandswert ist um 1 erhöht.
+  effect_short: |
     Dein Wohlstandswert ist um 1 erhöht.
 - !
   name: Wohlzugang
@@ -2831,6 +3003,10 @@
     Du kannst diese Fertigkeit mehrmals erwerben. Jedes Mal wählst du ein neues Wohl aus, zu dem du besonderen Zugang erhälst.
     Da diese Fertigkeit mächtige Wohle freischalten kann, die einen großen Einfluss auf den Verlauf der Geschichte haben können, muss das Erlangen von Wohlen mit Kraftlevel 6 oder höher vom GM je nach Angemessenheit abgesegnet werden.
     Falls du zu einem späteren Zeitpunkt die Attributvoraussetzungen des gewählten Wohls auf normalen Weg erreichst, kannst du dich entscheiden, diese Fertigkeit zu verlieren und die dafür ausgegebenen Fertigkeitenpunkte zurückzuerhalten. Danach kannst du sie neu ausgeben, wie es dir beliebt.
+  effect_short: |
+    *TODO*
+  special_short: |
+    *TODO*
 - !
   name: Wächter (I - III)
   OGname: Sentinel (I - III)
@@ -2886,6 +3062,8 @@
     Deine erhöhte Aufmerksamkeit auf dem Schlachtfeld bedeutet, dass es fast unmöglich ist, dich zu überraschen und du immer bereit bist, dich und deine Verbündeten zu verteidigen. Diese Fertigkeit ist verbreitet bei Charakteren wie Bodyguards, Zauberern und psychischen Schutzbefohlenen.
   effect: |
     Einmal pro Runde, nachdem du deine große Aktion der nächsten Runde für eine Verteidigungsaktion genutzt hast, erhälst du eine weitere große Aktion, die nur vor dem Beginn deines nächsten Zuges und nur für eine Verteidigungsaktion genutzt werden kann. Höhere Ränge dieser Fertigkeit geben jeweils eine weitere große Aktion, die nur für eine Verteidigungsaktion und nur vor deinem nächsten Zug genutzt werden können.
+  effect_short: |
+    *TODO*
 - !
   name: Zermalmender Treffer
   OGname: Crushing Blow
@@ -2917,6 +3095,8 @@
     Wie ein leichtsinniger Oger, der durch den Kampf wadet, werfen deine unermüdlichen Streiche Feinde nicht nur zurück, sondern auch noch zu Boden.
   effect: |
     Wann immer du einem Feind Schaden zufügst, kannst du sie nicht nur durch die Fertigkeit Überwältigender Schlag 5' zurückschieben (wenn du möchtest), sondern sie auch dort zu Boden werfen, wo die erzwungene Bewegung endete. Das Ziel erleidet den Harm <em>Niedergeschlagen</em>.
+  effect_short: |
+    *TODO*
 - !
   name: Zerstörerische Trance
   OGname: Destructive Trance
@@ -2952,6 +3132,8 @@
     Im Kampfgetümmel wirst du zu einer zestörerischen Kraft, die ihresgleichen sucht. Ob du ein rasender Barbar bist oder ein ultra-konzentrierter intergalaktischer Fechter, deine Angriffe werden besonders gefährlich, wenn du in Kampftrance verfällst.
   effect: |
     Wenn du einen Angriffswurf in Kampftrance machst, explodieren alle Würfel mit ihrem Höchstwert oder der Zahl eins unter dem Höchstwert (der gefürfelte Wert selbst ändert sich aber nicht). Das bedeutet, dass ein d4 bei 3 oder 4 explodiert, ein d6 bei 5 oder 6, ein d8 bei 7 oder 8 und so weiter.
+  effect_short: |
+    *TODO*
 - !
   name: Zielwasser
   OGname: Longshot
@@ -2981,6 +3163,10 @@
     Wenn du diese Fertigkeit erwirbst, wähle eine Waffe oder einen Angriffstyp. Beispiele von Angriffstypen umfassen Feuer, Kälte, Blitz, Säure, Gift, Vergehen, Schöpfung und Kraft, wobei die Liste nicht abschließend ist.
     Mit der von dir gewählten Waffe oder Angriffsart ist deine Reichweite verdoppelt.
   special: |
+    Du kannst diese Fertigkeit mehrmals erhalten, wobei du jedes Mal neue Waffen oder Angriffstypen wählst.
+  effect_short: |
+    *TODO*
+  special_short: |
     Du kannst diese Fertigkeit mehrmals erhalten, wobei du jedes Mal neue Waffen oder Angriffstypen wählst.
 - !
   name: Zweiwaffenkämpfer
@@ -3015,6 +3201,8 @@
     Du bist stark als auch schnell und in der Lage, in einer Hand Waffen zu führen, für die andere beide Hände benötigen würden. Gute Beispiele dieser Fertigkeit im Spiel sind orkische Barbaren, die in einer Hand eine Großaxt und in der anderen einen Schild führen oder ein Überlebender in der Zombie-Apokalypse, der zwei Kettensägen führt.
   effect: |
     Du kannst Waffen mit der Eigenschaft <em>zweihändig</em> in einer Hand führen und erhälst die Vorteile sowohl der <em>einhändig</em> als auch <em>zweihändig</em> Eigenschaften. Das bedeutet, dass du insgesamt Vorteil 2 erhälst, wenn du eine zweihändige Waffe in jeder Hand führst, Vorteil 1 von der Kraft zweihändiger Waffen und Vorteil 1 davon, dass du in jeder Hand eine Waffe führst.
+  effect_short: |
+    *TODO*
 - !
   name: Zweiwaffenverteidigung
   OGname: Two Weapon Defense
@@ -3044,6 +3232,8 @@
     Deine Meisterschaft im Kämpfen mit zwei Waffen erlaubt es dir, Feinde nicht nur mit blitzschnellen Angriffen einzudecken, sondern dich auch exzellent durch das Abwenden von Schlägen zu verteidigen. Duelisten, Waldläufer und Raumpiraten sind Konzepte, zu denen diese Fertigkeit gut passen könnte.
   effect: |
     Wenn du eine Waffe, für die du die Fertigkeit <em>Angriffsspezialisierung</em> erworben hast, in jeder Hand führst, erhälst du +1 Rüstungsbonus auf deine Deckung.
+  effect_short: |
+    *TODO*
 - !
   name: Zäh wie Leder (I - II)
   OGname: Tough as Nails (I - II)
@@ -3074,4 +3264,6 @@
   description: |
     Du hast eine besonders hohe Schmerztoleranz. Diese Fertigkeit könnte von einem Chitinpanzer, extremem Kampftraining oder einfach einer Lederhaut nach jahrelangem Leben auf der Straße kommen. 
   effect: |
+    Du erhälst pro Rang dieser Fertigkeit permanent 5 extra TP.
+  effect_short: |
     Du erhälst pro Rang dieser Fertigkeit permanent 5 extra TP.

@@ -193,7 +193,7 @@ Dein Rang in dieser Fertigkeit bestimmt den maximalen Wohlstandswert von Gegenst
 <li><strong>Rang 3</strong> - Maximaler Wohlstandswert = Attributwert.</li>
 </ul>
 Beispielsweise kann ein Charakter mit Schöpfung 5 und Rang 1 dieser Fertigkeit einen außerordentlichen Gegenstand bis Wohlstandswert 3 erschaffen.
-Du kannst einen passenden Wohlstandswert für einen Gegenstand anhand der Beispielgegenstände aus <strong>[Kapitel 9: Spezialausrüstung](./../Kapitel-9_Spezialausruestung.md)</strong> finden oder diesen mit den Regeln aus dem Abschnitt <strong>Eigene außergewöhnliche Gegenstände konzipieren</strong> bestimmen.
+Du kannst einen passenden Wohlstandswert für einen Gegenstand anhand der Beispielgegenstände aus <strong>[Kapitel 9: Spezialausrüstung](<../Kapitel-9_Spezialausruestung.md>)</strong> finden oder diesen mit den Regeln aus dem Abschnitt <strong>Eigene außergewöhnliche Gegenstände konzipieren</strong> bestimmen.
 Ein Gegenstand mit den Eigenschaften <em>Konsumgut</em> oder <em>Verbrauchsgut</em> zu erschaffen braucht einen vollen ununterbrochenen Tag an 8 Stunden Arbeit. Andere Gegenstände brauchen anhand ihres Wohlstandswertes unterschiedlich viel Zeit:
 <ul>
 <li><strong>Wohlstandswert 1 - 3</strong>: Zwei Tage pro Wohlstandswert.</li>
@@ -201,7 +201,7 @@ Ein Gegenstand mit den Eigenschaften <em>Konsumgut</em> oder <em>Verbrauchsgut</
 <li><strong>Wohlstandswert 6 - 7</strong>: Eine Woche pro Wohlstandswert.</li>
 <li><strong>Wohlstandswert 8 - 9</strong>: Ein Monat pro Wohlstandswert.</li>
 </ul>
-Am Ende dieser Zeitspanne ist der Gegenstand erschaffen. Einen Gegenstand zu erschaffen zählt weiterhin als Ausgabe, sodass du einen Wohlstandswert haben musst, der hoch genug ist, um den Gegenstand anhand der in <strong>[Kapitel 6: Wohlstand und Ausrüstung](./../Kapitel-6_Wohlstand-und-Ausruestung.md)</strong> beschriebenen Regeln zu kaufen. Der GM kann nach Abwägung einige oder alle der Kosten, die mit dem Erschaffen eines Gegenstandes assoziiert sind, fallen lassen, falls du besondere Materialien zum Schaffen des Gegenstandes schon besitzt. Hast du z.B. kürzlich die Haut eines roten Drachen erbeutet und möchtest nun daraus eine feuerresistenze Rüstung schaffen, kann der GM bestimmen, dass die Haut den Großteil der mit der Schaffung assoziierten Kosten ausmacht und der Wohlstandswert zur Bestimmung der Beschaffungskosten für den Schaffungsprozess so um 3 reduziert ist.
+Am Ende dieser Zeitspanne ist der Gegenstand erschaffen. Einen Gegenstand zu erschaffen zählt weiterhin als Ausgabe, sodass du einen Wohlstandswert haben musst, der hoch genug ist, um den Gegenstand anhand der in <strong>[Kapitel 6: Wohlstand und Ausrüstung](<../Kapitel-6_Wohlstand-und-Ausruestung.md>)</strong> beschriebenen Regeln zu kaufen. Der GM kann nach Abwägung einige oder alle der Kosten, die mit dem Erschaffen eines Gegenstandes assoziiert sind, fallen lassen, falls du besondere Materialien zum Schaffen des Gegenstandes schon besitzt. Hast du z.B. kürzlich die Haut eines roten Drachen erbeutet und möchtest nun daraus eine feuerresistenze Rüstung schaffen, kann der GM bestimmen, dass die Haut den Großteil der mit der Schaffung assoziierten Kosten ausmacht und der Wohlstandswert zur Bestimmung der Beschaffungskosten für den Schaffungsprozess so um 3 reduziert ist.
 
 > Tags: Außergewöhnlich, Nicht-Kampf  
 > Englisch: _Craft Extraordinary Item (I - III)_
@@ -1332,7 +1332,7 @@ Deine Angriffe werden als Tödlicher Schlag gewertet, wenn <em>mindestens eine</
 <li>Dein Ziel ist überrascht oder sieht den Angriff anderweitig nicht kommen, z.B. wenn du vor ihm versteckt, als Freund verkleidet bist oder es erfolgreich getäuscht hast.</li>
 <li>Dein Ziel ist in Nahkampfreichweite eines Verbündeten.</li>
 </ul>
-Du hast Vorteil auf Tödliche Schläge mit Vorteil-Level gleich deines Ranges in dieser Fertigkeit. Weiterhin wird ein Teil des Schadens (nie mehr als der Gesamtschaden) als tödlicher Schaden zugefügt, was ihn schwieriger zu heilen macht (siehe [Kapitel 7: Kampf](./../Kapitel-7_Kampf.md)).
+Du hast Vorteil auf Tödliche Schläge mit Vorteil-Level gleich deines Ranges in dieser Fertigkeit. Weiterhin wird ein Teil des Schadens (nie mehr als der Gesamtschaden) als tödlicher Schaden zugefügt, was ihn schwieriger zu heilen macht (siehe [Kapitel 7: Kampf](<../Kapitel-7_Kampf.md>)).
 <ul>
 <li><strong>Rang 1</strong> - Vorteil 1. Bis zu 5 tödlicher Schaden.</li>
 <li><strong>Rang 2</strong> - Vorteil 2. Bis zu 5 tödlicher Schaden.</li>

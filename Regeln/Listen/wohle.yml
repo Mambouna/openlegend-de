@@ -22,12 +22,22 @@
     Du erschaffst ein Wesen von weniger als menschlicher Intelligenz, das autonom und dauerhaft geschaffen bleibt. Es könnte eine lebendige Kreatur sein, ein untotes Geschöpf, ein tenisches Konstrukt mit Intelligenz oder jede andere Art Kreation, die lebensartige Eigenschaften hat. Beispiele dieses Wohls im Spiel umfassen Nekromanten, die sich untote Leibwächter schaffen, verrükte Wissenschaftler, die aus Körperteilen ein Meisterwerk animieren oder Ingenieure, die aus Teilen vom Schrotthof einen Cyborg zusammenbauen.
   effect: |
     Du bist in der Lage, ein autonomes Wesen auf nichtlebendigen Materialien wie Erde, Knochen, Wasser, Ranken, Schrott, Sand (oder anderen vom GM abgesegneten Stoffen) zu erschaffen. Um dies zu tun, musst du zuerst 8 Stunden mit dem nötigen Ritual, Experiment oder ähnlichem Schaffensprozess verbringen. Danach wirfst du einen Aktionswurf, um dieses Wohl zu wirken. Bei Erfolg wird die Gestalt belebt und erhält ein Bewusstsein.
-    Deine Fähigkeit, eine Kreatur zu animieren, gibt dir nicht die Fähigkeit, diese permanent zu kontrollieren. Neu erschaffene Wesen liegen aber unter dem *bezaubert*-Harm (siehe unten) und behandeln dich so direkt nach ihrer Erschaffung wohlwollend.
-    Der GM, nicht der Spieler, ist dafür verantwortlich, die Attribute und Fähigkeiten der animierten Kreatur zu entscheiden und sollte dabei den Leitlinien unter "Einfacher Aufbau" für das Erstellen von NPCs in [Kapitel 8: Das Spiel leiten](./../Kapitel-8_Das-Spiel-leiten.md) folgen. Kreaturen, die mit diesem Wohl erschaffen werden, sind typischerweise auf weniger als menschliche Intelligenz beschränkt, wie bei Zombies, Kampfdroiden oder Golems.
+    Deine Fähigkeit, eine Kreatur zu animieren, gibt dir nicht die Fähigkeit, diese permanent zu kontrollieren. Neu erschaffene Wesen liegen aber unter dem _Bezaubert_-Harm (siehe unten) und behandeln dich so direkt nach ihrer Erschaffung wohlwollend.
+    Der GM, nicht der Spieler, ist dafür verantwortlich, die Attribute und Fähigkeiten der animierten Kreatur zu entscheiden und sollte dabei den Leitlinien unter "Einfacher Aufbau" für das Erstellen von NPCs in [Kapitel 8: Das Spiel leiten](<../Kapitel-8_Das-Spiel-leiten.md>) folgen. Kreaturen, die mit diesem Wohl erschaffen werden, sind typischerweise auf weniger als menschliche Intelligenz beschränkt, wie bei Zombies, Kampfdroiden oder Golems.
     <ul>
-    <li><strong>Kraftlevel 6 -</strong> Du kannst eine einzige Kreatur animieren. Dein dafür genutztes Attribut muss gleich oder höher dem höchsten Attributwert der Kreatur sein, die du animierst. Bei einem erfolgreichen Wirken, entsteht die Kreatur mit dem <em>Bezaubert</em>-Harm (Leichte Bezauberung) schon auf sie angewendet (kein Wurf ist dafür nötig).</li>
-    <li><strong>Kraftlevel 8 -</strong> Du kannst dich entscheiden, eine Gruppe Kreaturen zu animieren: Entweder 10 Kreaturen mit einem maximalen Attributwert von 2, 5 Kreaturen mit einem maximalen Attributwert von 3 oder 2 Kreaturen mit einem maximalen Attributwert von 5. Weiterhin kommen alle diese Kreaturen mit dem Harm <em>Tiefe Bezauberung</em> in ihre Existenz statt <em>Leichte Bezauberung</em>.</li>
+    <li><strong>Kraftlevel 6 -</strong> Du kannst eine einzige Kreatur animieren. Dein dafür genutztes Attribut muss gleich oder höher dem höchsten Attributwert der Kreatur sein, die du animierst. Bei einem erfolgreichen Wirken, entsteht die Kreatur mit dem <em>Bezaubert</em>-Harm (Oberflächliche Bezauberung) schon auf sie angewendet (kein Wurf ist dafür nötig).</li>
+    <li><strong>Kraftlevel 8 -</strong> Du kannst dich entscheiden, eine Gruppe Kreaturen zu animieren: Entweder 10 Kreaturen mit einem maximalen Attributwert von 2, 5 Kreaturen mit einem maximalen Attributwert von 3 oder 2 Kreaturen mit einem maximalen Attributwert von 5. Weiterhin kommen alle diese Kreaturen mit dem Harm <em>Tiefe Bezauberung</em> in ihre Existenz statt <em>Oberflächliche Bezauberung</em>.</li>
     </ul>
+  effect_short: |
+    Du kannst ein autonomes Wesen aus nichtlebendigen Materialien erschaffen. Erst am Ende der Wirkzeit machst du den Aktionswurf.
+
+    Du kannst deine Schöpfung nicht direkt kontrollieren, sie ist aber von dir _Bezaubert_.
+
+    Der GM entscheidet die Attribute und Fähigkeiten der Kreatur, wobei die meisten weniger als menschliche Intelligenz haben.
+
+    *KL 6:* Eine Kreatur animieren. Dein genutztes Attribut muss gleich oder höher dem höchsten Wert der Kreatur sein. Die Kreatur entsteht unter _Oberflächlicher Bezauberung_.
+
+    *KL 8:* Alternativ eine Gruppe animierbar: 10 Kreaturen mit max. Wert 2, 5 Kreaturen mit max. Wert 3 oder 2 Kreaturen mit max. Wert 5. Kreaturen entstehen unter _Tiefer Bezauberung_.
 - !
   name: Aura
   OGname: Aura
@@ -77,6 +87,15 @@
     </ul>
   special: |
     Dieses Wohl kann besondere Aufmerksamkeit und Abhandlung durch den GM erfordern, da nicht alle Harme und Wohle gut für die Nutzung als Aura geeignet sind. Telekinese zum Beispiel kann Verbündeten nicht gegeben werden und eignet sich so nicht als Aura.
+  effect_short: |
+    Eine Aura erstreckt sich von einem willigen Ziel aus bis zu einem Radius anhand des Kraftlevels: KL 4 = 5', KL 6 = 10', KL 8 = 15'. Wähle 1 Harm/Wohl mit gleichem Attribut dieser Wirkung. Die Aura strahlt diesen/s mit max. KL = KL #sym.div 2 dieser Wirkung aus.
+    
+    _Harm:_ Alle Kreaturen in der Aura außer dem Ziel erleiden eine Harmattacke mit dem Harm.\
+    _Wohl:_ Alle Verbündeten in der Aura erhalten das Wohl. Bei Verlassen der Aura verfällt es.
+    
+    Effekt der Aura max. einmal pro Runde pro Kreatur. "In der Aura" = Kreatur betritt Fläche willentlich oder beendet ihren Zug in ihr. 
+  special_short: |
+    Nicht alle Harme und Wohle können als Aura gewirkt werden.
 - !
   name: Barriere
   OGname: Barrier
@@ -117,6 +136,22 @@
     <strong>Unpassierbar:</strong> Kreaturen und Objekte können sich nicht durch die Barriere bewegen. Wenn du eine unpassierbare Barriere in einem Raum platzierst, in der sich eine Kreatur befindet, bewege diese Kreatur zum nächsten möglichen Ort der Wahl der Kreatur, der nicht in der Barriere liegt. Diese Bewegung erlaubt keine Gelegenheitsattacken.<br>
     <strong>Harmvoll:</strong> Wähle einen Harm, den du mit einem Kraftlevel gleich oder unter dem deiner Barriere wirken kannst. Wenn eine Kreatur innerhalb der Barriere ihren Zug beendet oder diese willentlich betritt, kannst du sofort eine Harmattacke mit dem gewählten Harm gegen sie durchführen. Eine Kreatur nur einmal pro Runde eine Harmattacke durch diese Barriere erleiden.<br>
     <strong>Mobil:</strong> Du kannst eine große Aktion nutzen, um die Barriere bis zu 30 Fuß zu bewegen.
+  effect_short: |
+    Multi-Zielen für die Fläche der Barriere. Eigenschaften der Wand anhand des Kraftlevels.
+    
+    *KL 3:* 1 aus 1d4, Verbergend, Behindernd.\
+    *KL 5:* 2 aus 1d8, _vorige_, Harmvoll, Mobil.\
+    *KL 7:* 3 aus 1d10, _vorige_, Unpassierbar.\
+    *KL 9:* 4 aus 2d6, _vorige_.
+    
+    _XdY:_ Kreaturen erleiden Schaden nach Wurf.\
+    _Verbergend:_ Die Barriere ist undurchsichtig.\
+    _Behindernd:_ Halbe Geschwindigkeit in Barriere.\
+    _Unpassierbar:_ Kann nicht durchquert werden.\
+    _Harmvoll:_ Harm mit KL #sym.lt.eq KL dieses Wohls wählen. Kreaturen erleiden Harmangriff.\
+    _Mobil_: Große Aktion: Barriere bis 30' bewegen.
+    
+    Effekte nur einmal pro Runde pro Kreatur. Kreatur wird betroffen, falls sie die Fläche willentlich betritt oder ihren Zug darin beendet.
 - !
   name: Blindsicht
   OGname: Blindsight
@@ -143,7 +178,11 @@
   description: |
     Selbst bei absoluter Dunkelheit kannst du deine Umgebung ausmachen. Einige Beispiele für Blindsicht wären Vibrationssinne, Echolokation, Hitzesicht, himmlische Einsicht oder außergewöhnlich erhöhte Sinne.
   effect: |
-    Das Ziel ist immun gegen den *Geblendet*-Harm und kann auch in Bedingungen mit wenig oder keinem Licht normal sehen. Blindsicht kann auch potentiell Unsichtbarkeit entgegenwirken, allerdings muss der GM hier entscheiden, ob die Quelle der Blindsicht tatsächlich die Quelle der Unsichtbarkeit invalidieren würde.
+    Das Ziel ist immun gegen den _Geblendet_-Harm und kann auch in Bedingungen mit wenig oder keinem Licht normal sehen. Blindsicht kann auch potentiell Unsichtbarkeit entgegenwirken, allerdings muss der GM hier entscheiden, ob die Quelle der Blindsicht tatsächlich die Quelle der Unsichtbarkeit invalidieren würde.
+  effect_short: |
+    Das Ziel ist immun gegen den _Geblendet_-Harm und kann auch in Bedingungen mit wenig oder keinem Licht normal sehen.
+
+    Blindsicht kann auch potentiell Unsichtbarkeit entgegenwirken, allerdings muss der GM hier entscheiden, ob die Quelle der Blindsicht tatsächlich die Quelle der Unsichtbarkeit invalidieren würde.
 - !
   name: Detektion
   OGname: Detection
@@ -172,6 +211,12 @@
     </ul>
   special: |
     Anders als bei anderen Wohlen, kann dieses Wohl nicht andere Charaktere als Ziel haben. Nur der Charakter, der dieses Wohl wirkt, kann die Auras wahrnehmen. Weiterhin kann der GM nach eigenem Abwägen viele andere Arten von Auras wahrnehmbar sein lassen, je nachdem ob diese für das Setting der Kampagne angemessen sind.
+  effect_short: |
+    Wenn du dieses Wohl wirkst, musst du eine Art von Aura auswählen, die du wahrnehmen willst: _Heilig_, _Unheilig_, _Leben_, _Tod_ oder _Magisch_. Du kannst unsichtbare Auras dieser Art wahrnehmen und hast eine ungefähre Idee ihrer Stärke (von schwach bis überwältigend). Diese Auras sind normalerweise das Resultat von aktiven Handlungen. Ein sonst freundlicher Händler würde also eine Weile lang eine Aura des Todes ausstrahlen, nachdem er jemanden vergiftet hat.
+    
+    Andere Arten Auras sind nach Abwägung des GM möglich.
+  special_short: |
+    Nur der wirkende Charakter kann Ziel dieses Wohls sein.
 - !
   name: Dunkelheit
   OGname: Darkness
@@ -200,7 +245,9 @@
   description: |
     Du erschaffst ein Gebiet illusorischer Dunkelheit oder entropischer Energie, die alles Licht verlischen lässt. Dieses Wohl ist beliebt unter Illusionisten, Schattenwebern, Psionikern und verrückten Wissenschaftlern.
   effect: |
-    Wähle einen Raum oder ein Objekt in deiner Reichweite. Dunkelheit quillt aus dem Ziel hervor bis zu einem Radius von 5 Fuß pro Kraftlevel des Wohls. Dieser Effekt annuliert die Wirkung von allem natürlichen Licht innerhalb seines Radius und Kreaturen, die sich für ihre Sicht auf Licht verlassen, erleiden die gleichen Nachteile, als würden sie den *geblendet*-Harm haben, während sie in der Fläche dieses Wohls sind. Kreaturen, die sich für ihre Sicht nicht auf Licht verlassen (z.B. durch Vibrationssinne, Blindsicht, usw. ...) werden nicht eingeschränkt. Falls die Fläche der Dunkelheit sich mit der eines Licht-Wohls überschneidet, dann wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen in der betroffenen Fläche wieder die natürlichen Lichtverhältnisse, als gäbe es keine der beiden Wohle.
+    Wähle einen Raum oder ein Objekt in deiner Reichweite. Dunkelheit quillt aus dem Ziel hervor bis zu einem Radius von 5 Fuß pro Kraftlevel des Wohls. Dieser Effekt annuliert die Wirkung von allem natürlichen Licht innerhalb seines Radius und Kreaturen, die sich für ihre Sicht auf Licht verlassen, erleiden die gleichen Nachteile, als würden sie den _Geblendet_-Harm haben, während sie in der Fläche dieses Wohls sind. Kreaturen, die sich für ihre Sicht nicht auf Licht verlassen (z.B. durch Vibrationssinne, Blindsicht, usw. ...) werden nicht eingeschränkt. Falls die Fläche der Dunkelheit sich mit der eines Licht-Wohls überschneidet, dann wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen in der betroffenen Fläche wieder die natürlichen Lichtverhältnisse, als gäbe es keine der beiden Wohle.
+  effect_short: |
+    Wähle einen Raum oder ein Objekt in deiner Reichweite. Dunkelheit quillt aus dem Ziel hervor bis zu einem Radius von 5 Fuß pro Kraftlevel des Wohls. Dieser Effekt annuliert die Wirkung von allem natürlichen Licht innerhalb seines Radius und Kreaturen, die sich für ihre Sicht auf Licht verlassen, erleiden die gleichen Nachteile, als würden sie den _Geblendet_-Harm haben, während sie in der Fläche dieses Wohls sind. Kreaturen, die sich für ihre Sicht nicht auf Licht verlassen werden nicht eingeschränkt. Falls die Fläche der Dunkelheit sich mit der eines Licht-Wohls überschneidet, dann wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen in der betroffenen Fläche wieder die natürlichen Lichtverhältnisse, als gäbe es keine der beiden Wohle.
 - !
   name: Durchblick
   OGname: Truesight
@@ -230,6 +277,14 @@
     <li><strong>Kraftlevel 8</strong> - Das Ziel kann durch feste Wände und Objekte sehen und seine natürliche Sichtweite ist von ihnen unbehindert.</li>
     <li><strong>Kraftlevel 9</strong> - Die übernatürliche Wahrnehmung des Ziels erlaubt es ihm, in andere Dimensionen oder Ebenen der Realität zu blicken. Es kann dimensionale Taschenräume erkennen und mit der eigenen Realität überlappende Ebenen durchschauen. Weiterhin ist seine Sichtweite stark erhöht.</li>
     </ul>
+  effect_short: |
+    Du gibst dem Ziel die Fähigkeit, anhand des KL kummulativ wahrzunehmen, was normalerweise nicht möglich ist.
+    
+    *KL 5:* Präsenz von Magie, Tarntechnologie und anderen Mitteln wahrnehmen, die normal nicht gesehen werden können. Zusätzlich gibt dieses Wohl Vorteil 1 auf Aktionswürfe, mit denen einfache Verstecke durchschaut werden sollen.\
+    *KL 6:* Wahrnehmung durchdringt natürliche und magische Dunkelheit.\
+    *KL 7:* Wahrnehmung durchdring alle Illusionen (auch _Phantom_).\
+    *KL 8:* Sicht durch feste Wände und Objekte. Sichtweite davon uneingeschränkt.\
+    *KL 9:* Sicht in andere Dimensionen / Ebenen / Taschenräume. Sichtweite ist stark erhöht.
 - !
   name: Flug
   OGname: Flight
@@ -257,6 +312,16 @@
     <li><strong>Kraftlevel 6</strong> - Das Ziel erhält eine Fluggeschwindigkeit von 30'.</li>
     <li><strong>Kraftlevel 8</strong> - Das Ziel erhällt eine Fluggeschwindigkeit von 60'.</li>
     </ul>
+    Falls das Wohl annulliert wird, während das Ziel noch fliegt, beginnt es sofort, zu fallen.
+  effect_short: |
+    Das Ziel erhebt sich in die Luft und erhält eine Fluggeschwindigkeit anhand des Kraftlevels der Wirkung.
+
+    *KL 5:* Fluggeschwindigkeit von 10'.
+
+    *KL 6:* Fluggeschwindigkeit von 30'.
+
+    *KL 8:* Fluggeschwindigkeit von 60'.
+
     Falls das Wohl annulliert wird, während das Ziel noch fliegt, beginnt es sofort, zu fallen.
 - !
   name: Genesis
@@ -287,6 +352,12 @@
     <li><strong>Kraftlevel 7</strong> - Du kannst <em>permanente</em> einfache oder komplexe nichtlebendige Materie (Juwelen, Eisen, Marmor usw. ...) erschaffen. Der Wert des resultierenden Gegenstands kann nicht größer sein als Wohlstandswert 2. Du produziert 1 Kubikfuß der Materie pro Attributpunkt des genutzten Attributs. Die Wirkzeit dieses Kraftlevels sind 8 Stunden.</li>
     <li><strong>Kraftlevel 9</strong> - Du kannst nicht nur Rohmaterialien erschaffen, sondern <em>permanente</em> vollständige Gegenstände. Ein Handwerker ist trotzdem nötig, um das Resultat zu exzellenter Qualität weiterzuverarbeiten. Die Wirkzeit dieses Kraftlevels sind 8 Stunden.</li>
     </ul>
+  effect_short: |
+    Auf KL 1 kannst du bis zu 1 Kubikfuß pro Attributwert _temporäre_, nicht-lebendige Materie (Pflanzen, Erde, Wasser, ...) erschaffen, die 1 Stunde anhält. Wirkzeit: 10 Minuten.\
+    *KL 3:* Du kannst Essen für 1 Person oder bis zu 1 Kubikfuß pro Attributwert _permanenter_, nicht-lebender Materie schaffen. Wirkzeit: 1 Stunde.\
+    *KL 5:* Du kannst pro Attributwert bis zu 5 Kubikfuß _permanenter_ nicht-lebendiger Materie erschaffen. Wirkzeit: 1 Stunde.\
+    *KL 7:* Du kannst bis zu 1 Kubikfuß pro Wert _permanente_, komplexe nicht-lebendige Materie (Juwelen, Eisen, Marmor, ...) erschaffen. Deren Wohlstandswert ist max. 2. Wirkzeit: 8 Stunden.\
+    *KL 9:* Du kannst auch _permanente_ vollständige Gegenstände erschaffen. Ein Handwerker ist nötig, um das Resultat zu exzellenter Qualität weiterzuverarbeiten. Wirkzeit: 8 Stunden.\
 - !
   name: Gestaltwandel
   OGname: Shapeshift
@@ -312,7 +383,7 @@
     Die physische Struktur des Ziels ist temporär verändert, sodass es potentiell die Form jeder Kreatur annehmen kann, egal wie fantastisch oder exotisch. Häufige Beispiele von Gestaltwandel schließen Lykantropen (wie Werwölfe), amorphe Aliens, Doppelgänger und bestimmte Arten von Druiden ein.
   effect: |
     Das Ziel verwandelt sich in eine Kreatur, deren höchster Attributwert gleich oder kleiner deinem Wert in Wandlung ist. Mit der Ausnahme von Wandlung, fallen alle außergewöhnlichen Attributwerte des Ziels auf 0 und es erhält in Geschicklichkeit, Konstitution, Kraft und Wahrnehmung die Werte der neuen Form.
-    Der GM, nicht der Spieler, ist dafür verantwortlich, die Attribute und Fähigkeiten der Kreatur zu bestimmen. Es wird empfohlen, dass die Kreatur den Leitlinien in der Sektion "Einfacher Aufbau" zum Erstellen von NPCs in [Kapitel 8: Das Spiel leiten](./../Kapitel-8_Das-Spiel-leiten.md), folgt.
+    Der GM, nicht der Spieler, ist dafür verantwortlich, die Attribute und Fähigkeiten der Kreatur zu bestimmen. Es wird empfohlen, dass die Kreatur den Leitlinien in der Sektion "Einfacher Aufbau" zum Erstellen von NPCs in [Kapitel 8: Das Spiel leiten](<../Kapitel-8_Das-Spiel-leiten.md>), folgt.
     Um seine Trefferpunkte im Blick zu behalten, sollte das Ziel den gesamten Schaden festhalten, den es erlitten hat. Bei der Verwandlung bleibt der Schaden erhalten, selbst wenn maximale Trefferpunkte sich verändern. Beispielsweise hat Vera maximal 20 TP, ist aber in einen Drachen verwandelt, weshalb ihre Konstitution von 5 auf 9 erhöht ist, sodass ihre Trefferpunkte nun 28 sind. Im Kampf erleidet sie 10 Schaden. Später, als sie sich zurückverwandelt, bleiben diese 10 Schaden bestehen und werden von ihrem jetztigen Maximum von 20 subtrahiert, sodass sie nun 10 TP hat. Falls eine Verwandlung die TP eines Charakters auf weniger als 1 fallen lassen würde, werden die TP des Ziels stattdessen auf 1 gesetzt.
     Beschränkungen für die Verwandlung existieren je nach Kraftlevel des Wohls und werden mit zunehmendem Kraftlevel nach und nach entfernt:
     <em>Merke: Die Eigenschaften der Formen sind mit zunehmenden Kraftleveln kummulativ.</em>
@@ -327,6 +398,20 @@
     </ul>
   special: |
     Sich in eine bestimmte Kreatur zu verwandeln (wobei man sich als diese ausgeben möchte) erfordert einen Täuschungswurf, der vom Wahrnehmungsattribut aller bestritten wird, die das verwandelte Ziel sehen. Weiterhin erhält das Ziel bei Kraftlevel 4 und niedriger keine Expertise in besonderen Bewegungsformen der neuen Form, sodass seine Geschwindigkeit in diesen neuen Bewegungsformen halbiert ist. Der GM kann außerdem entscheiden, dass manche Handlungen, die diese Bewegungsformen nutzen, z.B. unter Beschuss zu schwimmen, mit Nachteil durchgeführt werden.
+  effect_short: |
+    Ziel verwandelt sich in Kreatur mit max. Wert #sym.lt.eq deiner Wandlung. Außergewöhnliche Werte außer Wandlung 0, Geschicklichkeit, Konstitution, Kraft und Wahrnehmung der neuen Form (GM bestimmt Werte der Form).
+
+    Schaden bleibt erhalten. TP schlimmstenfalls 1.
+
+    Kummulative Möglichkeiten nach Kraftlevel:\
+    *KL 2:* Gleiche Größe und ähnliche Physiologie. Keine Bewegungen oder außergew. Attribute.\
+    *KL 3/4:* Größe #sym.div/#sym.times 2/4, Bewegung außer Fliegen.\
+    *KL 5:* Fliegende Bewegung falls vorhanden.\
+    *KL 6:* Lebende Form anderer Physiologie.\
+    *KL 7:* Außergewöhnliche Attribute der Form.\
+    *KL 8:* Beliebige Größe.
+  special_short: |
+    Verwandlung in spezifischen Charakter braucht Täuschungswurf. Bis KL 4 besondere Bewegungen halbiert.
 - !
   name: Hast
   OGname: Haste
@@ -356,6 +441,16 @@
     <li><strong>Kraftlevel 6</strong> - Die Geschwindigkeit des Ziels ist um 20' erhöht und es erhält +2 auf seine Deckung. Weiterhin kann das Ziel eine weitere große Aktion in seinem Zug ausführen. Diese Aktion kann aber nicht für eine Unterbrechungsaktion genutzt werden. Falls die Aktion einen Wurf benötigt, wird dieser mit Nachteil 3 ausgeführt.</li>
     <li><strong>Kraftlevel 8</strong> - Die Geschwindigkeit des Ziels ist um 30' erhöht und es erhält +3 auf seine Deckung. Weiterhin kann das Ziel bis zu zwei weitere große Aktionen in seinem Zug ausführen. Diese Aktionen können aber nicht für eine Unterbrechungsaktion genutzt werden. Falls die erste weitere Aktion einen Wurf benötigt, wird dieser mit Nachteil 3 ausgeführt, die zweite weitere Aktion mit Nachteil 6.</li>
     </ul>
+  effect_short: |
+    Die Geschwindigkeit des Ziels ist erhöht und auf hohen KL seine Fähigkeiten erweitert.
+
+    *KL 2:* Geschwindigkeit + 10'.
+
+    *KL 4:* Geschwindigkeit + 15'.
+
+    *KL 6:* Geschwindigkeit + 20' & +2 Deckung. Das Ziel bekommt eine zusätzliche große Aktion, die nicht für Unterbrechungsaktionen genutzt werden kann. Bei einem Wurf für diese Aktion hat das Ziel Nachteil 3.
+
+    *KL 8:* Geschwindigkeit + 30' & +3 Deckung. Das Ziel bekommt zwei zusätzliche große Aktionen, die nicht für Unterbrechungsaktionen genutzt werden können. Bei einem Wurf für die erste Aktion hat das Ziel Nachteil 3, bei einem Wurf für die zweite Aktion Nachteil 6.
 - !
   name: Heilung
   OGname: Heal
@@ -402,6 +497,20 @@
     </ul>
   special: |
     Dieses Wohl heilt keinen tödlichen Schaden.
+  effect_short: |
+    Die TP des Ziels werden um ein Wurfergebnis anhand des Kraftlevels geheilt. Würfel explodieren normal.
+
+    *KL 1:* Heile 1d4.\
+    *KL 2:* Heile 1d6.\
+    *KL 3:* Heile 1d8.\
+    *KL 4:* Heile 1d10.\
+    *KL 5:* Heile 2d6.\
+    *KL 6:* Heile 2d8.\
+    *KL 7:* Heile 2d10.\
+    *KL 8:* Heile 3d8.\
+    *KL 9:* Heile 3d10.\
+  special_short: |
+    Dieses Wohl heilt keinen tödlichen Schaden.
 - !
   name: Kreatur beschwören
   OGname: Summon Creature
@@ -437,6 +546,19 @@
   special: |
     Von diesem Wohl beschworene Kreaturen können nicht geheilt werden, falls sie 0 TP erreichen. Sie sind permanent tot. Kreaturen, die durch dieses Wohl beschworen wurden, können dieses Wohl nicht nutzen.
     Multi-Zielen funktioniert für dieses Wohl nicht wie bei anderen Wohlen. Du kannst ein einziges Wirken dieses Wohls benutzen, um mehrere Kreaturen zu beschwören. Für jede weitere Kreatur, die du beschwören willst, hast du Nachteil 2 auf den Aktionswurf zum Wirken des Wohls. Effekte, die Nachteile durch Multi-Zielen verändern, funktionieren hierfür normal.
+  effect_short: |
+    Du erschaffst einen temporären NPC-Verbündeten unter deiner Kontrolle mit begrenzter Intelligenz. Werte des NPC anhand des Kraftlevels, frei verteilbar unter Geschicklichkeit, Konstitution, Kraft, Wahrnehmung, Energie und Vergehen.
+
+    #v(-0.1cm)
+    #table(columns: (1fr, 1fr, 1fr, 2fr, 1fr, 1fr, 1fr, 2fr), align: center, stroke: none, row-gutter: -3pt,
+        [*KL*], [TP], [VT], [Attr.], table.vline(start:0, stroke: 0.7pt), [*KL*], [TP], [VT], [Attr.], table.hline(start: 0, stroke: 0.7pt),
+        [*4*], [4], [11], [2, 1, 1], [*7*], [7], [14], [5, 4, 4], [*5*], [5], [12], [3, 2, 2], [*8*], [8], [15], [6, 5, 5], [*6*], [6], [13], [4, 3, 3],
+          [*9*], [9], [16], [7, 6, 6]
+    )
+
+    NPC handelt ab 2. Runde in deinem Zug. Max. Beschwörungen anhand Attribut der Wirkung.
+  special_short: |
+    Beschworene Kreaturen sterben auf 0 TP, können _Kreatur beschwören_ nicht nutzen. Multi-Zielen: Nachteil 2 pro weiterer Kreatur.
 - !
   name: Lebensraub
   OGname: Life Drain
@@ -456,6 +578,10 @@
     Wie der Biss eines Vampirs, so kann auch die seelenraubende Berührung eines schwarzen Magiers oder der Strahl des Lebenssaugers eines verrückten Beösewichts dem Ziel erlauben, seinen Feinden die Lebenskraft zu entziehen.
   effect: |
     Während dieses Wohl anhält, heilt das Ziel sich selbst um die Hälfte (aufgerundet) des Schadens, den es mit jeder Attacke zufügt. Falls ein Angriff mehrere Feinde schädigt, heilt das Ziel sich um die Hälfte des gesamten Schadens, der allen Feinden zugefügt wurde.
+  effect_short: |
+    Während dieses Wohl anhält, heilt das Ziel sich selbst um die Hälfte (aufgerundet) des Schadens, den es mit jeder Attacke zufügt.
+
+    Falls ein Angriff mehrere Feinde schädigt, heilt das Ziel sich um die Hälfte des gesamten Schadens, der allen Feinden zugefügt wurde.
 - !
   name: Lesung
   OGname: Reading
@@ -482,10 +608,18 @@
     <ul>
     <li><strong>Kraftlevel 5</strong> - Das Ziel kann wage Ideen und Eindrücke lesen, um herauszufinden, was um ein Objekt oder an einem Ort innerhalb der letzten Stunde passiert ist.</li>
     <li><strong>Kraftlevel 6</strong> - Das Ziel kann eine lebhafte Vision vergleichbar mit einer Aufnahme des in der letzten Stunde um das Objekt oder am Ort Geschehenen sehen.</li>
-    <li><strong>Kraftlevel 7</strong> - Das Ziel kann den letzten Besitzer eines Objekts oder die Personen erkennen, die zuletzt am gewählten Ort waren. Diese Einsicht ist klar genug, um die Nutzung des Harms Fernsicht mit diesen Personen als Ziel zu erlauben.</li> 
+    <li><strong>Kraftlevel 7</strong> - Das Ziel kann den letzten Besitzer eines Objekts oder die Personen erkennen, die zuletzt am gewählten Ort waren. Diese Einsicht ist klar genug, um die Nutzung des Harms _Fernsicht_ mit diesen Personen als Ziel zu erlauben.</li>
     <li><strong>Kraftlevel 8</strong> - Wähle eins: Das Ziel sieht eine Vision des letzten wichtigen Ereignisses, das nahe dem Objekt oder an dem Ort stattfand - ODER - das Ziel fragt, ob ein bestimmtes Ereignis sich besonders auf das Objekt oder den Ort eingeprägt hat.</li>
-    <li><strong>Kraftlevel 9</strong> - Das Ziel ist mit genug Zeit in der Lage, alle Erinnerungen hervorzurufen, die auf das Objekt oder den Ort eingeprägt sind. Du musst dafür deine Konzentration aufrechterhalten, wobei du alle 10 Minuten eine neue Vision der Vergangenheit des Objekts oder Ortes ergibt. Der GM bestimmt, in welcher Reihenfolge die Informationen aufgedeckt werden. Nach Abwägen des GM können verborgene oder besonders ferne Erinnerungen deutlich mehr Zeit benötigen, um gefunden zu werden.</li>
+    <li><strong>Kraftlevel 9</strong> - Das Ziel ist mit genug Zeit in der Lage, alle Erinnerungen hervorzurufen, die auf das Objekt oder den Ort eingeprägt sind. Du musst dafür deine Konzentration aufrechterhalten, wobei sich alle 10 Minuten eine neue Vision der Vergangenheit des Objekts oder Ortes ergibt. Der GM bestimmt, in welcher Reihenfolge die Informationen aufgedeckt werden. Nach Abwägen des GM können verborgene oder besonders ferne Erinnerungen deutlich mehr Zeit benötigen, um gefunden zu werden.</li>
     </ul>
+  effect_short: |
+    Du erhälst Informationen von einem Objekt oder Ort innerhalb deiner Reichweite:
+
+    *KL 5:* Wage Ideen und Eindrücke, was in der letzten Stunde darum oder dort passiert ist.\
+    *KL 6:* Eine lebhafte Vision, was in der letzten Stunde darum oder dort passiert ist.\
+    *KL 7:* Letzten Besitzer oder letzte Person am Ort erkennen. Erlaubt _Fernsicht_ der Person.\
+    *KL 8:* Wähle eins: Vision des letzten wichtigen Ereignisses ODER fragen, ob ein bestimmtes Ereignis sich besonders eingeprägt hat.\
+    *KL 9:* Langsam alle Erinnerungen hervorholen. Konzentration muss gehalten werden. Du bekommst alle 10 Minuten eine neue Vision der Vergangenheit. GM bestimmt Reihenfolge erhaltener Informationen und verborgene oder sehr ferne Erinnerungen können viel Zeit brauchen, bevor sie gefunden werden.
 - !
   name: Licht
   OGname: Light
@@ -515,6 +649,14 @@
     Egal ob durch eine magische Beschwörung, Energiemanipulation oder einen anderen Weg, erhellst du ein Gebiet mit Licht. Ein Androide könnte seinen Kopfstrahler aktivieren, ein Feuermagier eine tanzende Fackelflamme erschaffen und ein Alchemist eine Hellkugel aktivieren.
   effect: |
     Wähle einen Raum oder ein Objekt innerhalb deiner Reichweite. Außergewöhnliches Licht fließt vom Ziel aus bis zu einem Radius von 5' pro Kraftlevel des Wohls. Falls die Lichtfläche sich mit der Fläche eines Dunkelheitswohls überschneidet, wirkt das Wohl mit dem größeren Kraftlevel. Falls beide das gleiche Kraftlevel haben, herrschen in der von beiden betroffenen Fläche wieder das ohne die Wohle herrschende Lichtumstände.
+  effect_short: |
+    Wähle einen Raum oder ein Objekt innerhalb deiner Reichweite.
+
+    Außergewöhnliches Licht fließt vom Ziel aus bis zu einem Radius von 5' pro Kraftlevel des Wohls.
+
+    Falls die Lichtfläche sich mit der Fläche eines Dunkelheitswohls überschneidet, wirkt das Wohl mit dem größeren Kraftlevel.
+
+    Falls beide das gleiche Kraftlevel haben, herrschen in der von beiden betroffenen Fläche wieder das ohne die Wohle herrschende Lichtumstände.
 - !
   name: Objekt absorbieren
   OGname: Absorb Object
@@ -535,7 +677,13 @@
   description: |
     Indem du deinen physischen Körperaufbau neustrukturierst, einen extradimesionalen Raum schaffst, ein cybernetisches Taschenimplantat oder andere Wege nutzt, kannst du ein Objekt in deinen Körper absorbieren, sodass es vollständig vor anderen verboren ist und jederzeit wieder hervorgeholt werden kann.
   effect: |
-    Das Objekt verbleibt vollständig vor der Wahrnehmung anderer verborgen in deinem Körper, bis das Ziel es als kleine Aktion wieder hervorruft. Falls etwas passiert, was dieses Wohl auflöst (zum Beispiel das Wohl *nullifizieren*), wird das Objekt sofort aus dem Körper des Ziels herausgeholt, als wäre es absichtlich hervorgeholt.
+    Das Objekt verbleibt vollständig vor der Wahrnehmung anderer verborgen in deinem Körper, bis das Ziel es als kleine Aktion wieder hervorruft. Falls etwas passiert, was dieses Wohl auflöst (zum Beispiel de Harm _Annulieren_), wird das Objekt sofort aus dem Körper des Ziels herausgeholt, als wäre es absichtlich hervorgeholt.
+  effect_short: |
+    Du kannst ein Objekt in deinen Körper absorbieren und jederzeit wieder hervorholen.
+
+    Das Objekt verbleibt vollständig vor der Wahrnehmung anderer verborgen, bis du es als kleine Aktion wieder hervorrufst.
+
+    Falls etwas passiert, was dieses Wohl auflöst (zum Beispiel der Harm _Annulieren_), wird das Objekt sofort aus deinem Körper herausgeholt, als wäre es absichtlich hervorgeholt.
 - !
   name: Regeneration
   OGname: Regeneration
@@ -569,6 +717,18 @@
     <li><strong>Kraftlevel 9</strong> - 2d6 </li>
     </ul>
   special: |
+    Dieses Wohl heilt keinen tödlichen Schaden.
+  effect_short: |
+    Während das Wohl Regeneration aufrechterhalten wird, heilt das Ziel Trefferpunkte zu Beginn jedes Zugs des _das Wohl wirkenden Charakters_.
+
+    Die Menge der Heilung wird durch das Kraftlevel des Wohls bestimmt.
+
+    *KL 1:* Heile 1d4.\
+    *KL 3:* Heile 1d6.\
+    *KL 5:* Heile 1d8.\
+    *KL 7:* Heile 1d10.\
+    *KL 9.* Heile 2d6.
+  special_short: |
     Dieses Wohl heilt keinen tödlichen Schaden.
 - !
   name: Resistenz
@@ -604,6 +764,17 @@
     <li><strong>Kraftlevel 7</strong> - Die Verteidigungswerte des Ziels sind gegen Angriffe der gewählten Art um 9 erhöht.</li>
     <li><strong>Kraftlevel 9</strong> - Das Ziel ist immun gegen Schaden und schadvolle Effekte durch Angriffe der gewählten Art.</li>
     </ul>
+  effect_short: |
+    Wenn das Wohl gewirkt wird, wählt der wirkende Charakter eine Art von Angriff und erhält Resistenz dagegen.
+
+    Die Arten umfassen Präzise, Kraftvoll, Feuer, Kälte, Blitz, Säure, Einfluss und Vergehen (andere Arten können mit Zustimmung des GM genutzt werden).
+
+    Der Effekt der Resistenz wird durch das Kraftlevel des Wohls bestimmt (die Effekte sind nicht kummulativ):
+
+    *KL 3:* Verteidigungen +3 gegen gewählte Art.\
+    *KL 5:* Verteidigungen +6 gegen gewählte Art.\
+    *KL 7:* Verteidigungen +9 gegen gewählte Art.\
+    *KL 9:* Das Ziel ist immun gegen Schaden und schadvolle Effekte durch Angriffe der Art.
 - !
   name: Substanzlos
   OGname: Insubstantial
@@ -624,8 +795,14 @@
   description: |
     Wird eine Kreatur substanzlos, so ist sie nicht mehr an physische Barrieren gebunden. Geister, Zauberer die eine Gasform annehmen und Kreaturen, die zwischen Ebenen der Realität wechseln können sind Beispiele, die das Wohl Substanzlos nutzen könnten.
   effect: |
-    Das Ziel erhält die Fähigkeit, frei durch alle physischen Barrieren zu passieren, als wären diese leerer Raum. Weiterhin können sie sich frei in jede Richtung sowohl horizontal als auch vertikal mit ihrer Grundgeschwindigkeit bewegen (30' für die meisten Charaktere). Während sie substanzlos sind ist das Ziel immun gegen alle Attacken, die auf Deckung oder Zähigkeit zielen. Sie können aber selbst auch keine Angriffe gegen Deckung oder Zähigkeit ausführen.
-    Falls die Konzentration des Ziel unterbrochen wird oder das Wohl endet, während das Ziel in einer festen Struktur ist, wird das Ziel gewaltsam in die alternative Ebene versetzt, die es für seine substanzlosigkeit genutzt hat (typischerweise eine andere Dimension oder Realitätsebene).
+    Das Ziel erhält die Fähigkeit, frei durch alle physischen Barrieren zu passieren, als wären diese leerer Raum. Weiterhin kann es sich frei in jede Richtung sowohl horizontal als auch vertikal mit seiner Grundgeschwindigkeit bewegen (30' für die meisten Charaktere). Während es substanzlos ist, ist das Ziel immun gegen alle Attacken, die auf Deckung oder Zähigkeit zielen. Es kann aber selbst auch keine Angriffe gegen Deckung oder Zähigkeit ausführen.
+    Falls die Konzentration des Ziel unterbrochen wird oder das Wohl endet, während das Ziel in einer festen Struktur ist, wird das Ziel gewaltsam in die alternative Ebene versetzt, die es für seine Substanzlosigkeit genutzt hat (typischerweise eine andere Dimension oder Realitätsebene).
+  effect_short: |
+    Das Ziel erhält die Fähigkeit, frei durch alle physischen Barrieren zu passieren, als wären diese leerer Raum. Weiterhin kann es sich frei in jede Richtung sowohl horizontal als auch vertikal mit seiner Grundgeschwindigkeit bewegen (30' für die meisten Charaktere).
+
+    Während es substanzlos ist, ist das Ziel immun gegen alle Attacken, die auf Deckung oder Zähigkeit zielen. Es kann aber selbst auch keine Angriffe gegen diese Verteidigungen ausführen.
+    
+    Falls die Konzentration des Ziel unterbrochen wird oder das Wohl endet, während das Ziel in einer festen Struktur ist, wird das Ziel gewaltsam in die alternative Ebene versetzt, die es für seine Substanzlosigkeit genutzt hat (typischerweise eine andere Dimension oder Realitätsebene).
 - !
   name: Telekinese
   OGname: Telekinesis
@@ -654,6 +831,17 @@
     <li><strong>Kraftlevel 7</strong> - Das Objekt muss kleiner als 10 Kubikfuß sein oder leichter als 1.000 Pfund.</li>
     <li><strong>Kraftlevel 9</strong> - Das Objekt muss kleiner als 20 Kubikfuß sein oder leichter als 10.000 Pfund.</li>
     </ul>
+  effect_short: |
+    Sobald du das Wohl wirkst und darauf in jeder folgenden Runde, wenn du das Wohl aufrechterhälst, kannst du das Zielobjekt bis zu 5' pro Attributwert der Wirkung bewegen.
+
+    Als Teil der Bewegung kannst du es auf simple Weise manipulieren (z.B. Drücken einer Klinke). Ein neues Ziel braucht eine neue Wirkung.
+
+    Das KL des Wohls bestimmt Größe und das Gewicht des Objekts, das du bewegen kannst:
+
+    *KL 3:* Kleiner als 1 Kubikfuß oder leichter als 10 Pfund.\
+    *KL 5:* Kleiner als 5 Kubikfuß oder leichter als 100 Pfund.\
+    *KL 7:* Kleiner als 10 Kubikfuß oder leichter als 1.000 Pfund.\
+    *KL 9:* Kleiner als 20 Kubikfuß oder leichter als 10.000 Pfund.\
 - !
   name: Telepathie
   OGname: Telepathy
@@ -684,6 +872,16 @@
     <li><strong>Kraftlevel 6</strong> - Du kannst ein mentales Kommunikationsnetzwerk zwischen dir selbst und bis zu fünf anderen Kreaturen erschaffen, sodass sie alle mit dem Rest der Gruppe kommunizieren können.</li>
     <li><strong>Kraftlevel 7</strong> - Du kannst telepathisch mit allen Kreaturen kommunizieren, die du sehen kannst.</li>
     </ul>
+  effect_short: |
+    Du und dein Ziel können miteinander durch einfaches Denken kommunizieren. Sprach- oder Intelligenzbarrieren der Kommunikation bleiben bestehen.
+
+    *KL 3:* Telepathische Kommunikation zu einer einzigen Kreatur tierischer Intelligenz. Die Kreatur versteht nur ihr bekannte Konzepte. \
+    *KL 5:* Telepathische Kommunikation zu einer einzigen Kreatur humanoider Intelligenz.\
+    *KL 6:* Gegenseitiges Kommunikationsnetzwerk mit bis zu fünf Kreaturen humanoider Intelligenz.\
+    *KL 7:* Telephatische Kommunikation mit allen Kreaturen jeder Intelligenz, die du sehen kannst.
+
+    TODO
+
 - !
   name: Teleportation
   OGname: Teleport
@@ -707,10 +905,17 @@
   effect: |
     <ul>
     <li><strong>Kraftlevel 3</strong> - Du kannst das Ziel zu einem freien Raum innerhalb von 5' pro Bewegungswert bewegen, solange du deinen Zielort auf natürliche Weise sehen kannst.</li>
-    <li><strong>Kraftlevel 5</strong> - Die Reichweite deiner Teleportation ist unverändert, aber du kannst dein Ziel jetzt an Orte bringen, die du nicht sehen kannst. Falls du einen nichtfreien Raum wählst, landet dein Ziel im nächstgelegenen freien Raum (falls es mehrere Möglichkeiten gibt, wird einen Würfel dafür) und dein Ziel ist für 1 Runde *betäubt* (ein Widerstandswurf ist nötig, um den Effekt zu beenden).</li>
+    <li><strong>Kraftlevel 5</strong> - Die Reichweite deiner Teleportation ist unverändert, aber du kannst dein Ziel jetzt an Orte bringen, die du nicht sehen kannst. Falls du einen nichtfreien Raum wählst, landet dein Ziel im nächstgelegenen freien Raum (falls es mehrere Möglichkeiten gibt, wird einen Würfel dafür) und dein Ziel ist für 1 Runde _Betäubt_ (ein Widerstandswurf ist nötig, um den Effekt zu beenden).</li>
     <li><strong>Kraftlevel 7</strong> - Du kannst dich entscheiden, mehr Zeit damit zu verbringen, dieses Wohl zu wirken. Falls du dich dafür entscheidest, kannst du das Ziel 1 Meile weit für jede Minute Wirkzeit (Zeit VOR dem Aktionswurf) teleportieren. Die Maximaldistanz wird durch deinen Bewegungswert bestimmt (1 Meile pro Wert). Obwohl die Distanz größer ist, ist dieser Modus der Teleportation auch gefährlicher, da ein Fehler in der Richtung oder Geographie dein Ziel den Zielort meilenweit verfehlen lassen kann. Du wählst einfach eine Richtung (relativ zu deiner jetzigen Position) und teleportierst dein Ziel eine Distanz maximal gleich deinem Bewegungswert in Meilen. Während der Wirkzeit musst du jede Runde eine Fokusaktion nutzen, um den Wirkprozess in diesem Modus aufrechtzuerhalten.</li>
     <li><strong>Kraftlevel 9</strong> - Indem du die gleiche längere Wirkzeit von Kraftlevel 7 nutzt, kannst du dein Ziel an einen beliebigen Ort ohre Reichweitenbeschränkung teleportieren (wobei du trotzdem für jede Meile eine Minute wirken musst), solange du den Zielort selbst schonmal gesehen hast (durch normale oder magische Mittel).</li>
     </ul>
+  effect_short: |
+    Du bewegst das Ziel augenblicklich und ohne physisches Durchqueren des Raums zu einem anderen Ort.
+
+    *KL 3:* Teleportation bis 5' pro Wert in Bewegung an einen für dich natürlich sichtbaren Ort.\
+    *KL 5:* Gleiche Reichweite, Orte ohne Sichtlinie möglich. Falls der Ort nicht frei ist, Landung an nächstem freien Ort und _Betäubt_ für 1 Runde.\
+    *KL 7:* Längere Wirkart: 1 Meile Distanz (max. Bewegungswert) pro Minute Wirkzeit vor Aktionswurf. Dann Teleportation die Distanz weit in die gewählte Richtung. Jede Runde während Wirkzeit Fokusaktion nötig.\
+    *KL 9:* Längere Wirkart wie KL 8 ohne Reichweitenbeschränkung durch deinen Bewegungswert, falls du den Zielort schonmal gesehen hast. Weiterhin 1 Minute Wirkzeit pro Meile Distanz nötig.\
 - !
   name: Transmutation
   OGname: Transmutation
@@ -741,6 +946,14 @@
     <li><strong>Kraftlevel 8</strong> - Transmutiere ein Objekt <em>permanent</em> in ein anderes Objekt mit bis zu 200% abweichender Größe und/oder 200% abweichendem Gewicht - ODER - transmutiere ein simples Objekt <em>temporär</em> in ein Objekt gewisser Komplexität. Das resultierende Objekt muss Wohlstandswert 2 oder niedriger entsprechen.</li>
     <li><strong>Kraftlevel 9</strong> - Transmutiere ein simples Objekt <em>permanent</em> in ein einfaches oder komplexes Objekt. Das resultierende Objekt muss Wohlstandswert 2 oder niedriger entsprechen.</li>
     </ul>
+  effect_short: |
+    Transmutiere ein Objekt in ein anderes. _Temporäre_ Transmutation muss jede Runde aufrechterhalten werden, _permanente_ Transmutation nicht. Maximalvolumen = 5 Kubikfuß pro Attributwert der Wirkung.
+
+    *KL 3:* _Temporär_, gleiche Größe & Gewicht.\
+    *KL 5:* _Temporär_, 1 aus Größe & Gewicht gleich, 1 50% größer / schwerer oder kleiner / leichter.\
+    *KL 7:* _Permanent_, gleiche Größe & Gewicht ODER _temporär_, 1 aus Größe & Gewicht gleich, 1 200% größer / schwerer oder kleiner / leichter.\
+    *KL 8:* _Permanent_, Größe und / oder Gewicht bis zu 200% verändert ODER _temporär_ simples Objekt zu Objekt gewisser Komplexität machen (max. Wohlstandswert 2).\
+    *KL 9:* _Permanent_, simples Objekt zu einfachem oder komplexen Objekt machen (max. WW 2).
 - !
   name: Treusicht
   OGname: Seeing
@@ -769,6 +982,18 @@
     </ul>
   special: |
     Falls dein Aktionswurf fehlschlägt, kannst du mit diesem Wohl für 1 Stunde nicht den gleichen Verbündeten als Ziel wählen.
+  effect_short: |
+    Solange du dich konzentrierst, kannst du durch die Augen deines Ziels sehen, das ein willender Verbündeter sein muss.
+
+    Das Ziel kann eine befreundete Kreatur sein, darunter Tiere, Biester und Humanoide.
+
+    Die maximale Distanz der Verbindung hängt vom Kraftlevel dieses Wohls ab.
+    
+    *KL 4:* Das Ziel muss innerhalb von 100' bleiben.\
+    *KL 5:* Das Ziel muss innerhalb 1 Meile bleiben.\
+    *KL 6:* Das Ziel muss in der gleichen Dimension / Realitätsebene bleiben.
+  special_short: |
+    Falls dein Aktionswurf fehlschlägt, kannst du mit diesem Wohl für 1 Stunde nicht den gleichen Verbündeten als Ziel wählen.
 - !
   name: Unsichtbar
   OGname: Invisible
@@ -796,6 +1021,17 @@
     <li><strong>Kraftlevel 5</strong> - Vorteil 3 auf Verstecken, +3 Deckung gegen Nah- und Fernkampfangriffe, -2 Deckung für angegriffe Kreaturen, die dich nicht sehen können.</li>
     <li><strong>Kraftlevel 6</strong> - Vorteil 5 auf Verstecken, +5 Deckung gegen Nah- und Fernkampfangriffe, -4 Deckung für angegriffene Kreaturen, die dich nicht sehen können.</li>
     </ul>
+  effect_short: |
+    Das Ziel wird durchsichtig. Es erhält Vorteil anhand des KL auf Geschicklichkeits-würfe, um sich zu verstecken. Steht es vollständig still, wird der Bonus verdoppelt.
+
+    Die Deckung des Ziels ist gegen Nah- und Fernkampfangriffe erhöht, bleibt gegen Flächenattacken aber unverändert.
+
+    Kreaturen, die das Ziel nicht sehen können, haben gegen Attacken durch es reduzierte Deckung. Kreaturen, die das Ziel nicht sehen können, können keine Gelegenheitsattacken gegen es ausführen.
+
+    *KL 5:* Vorteil 3, +3 / -2 Deckung bei Angriffen.\
+    *KL 6:* Vorteil 5, +5 / -4 Deckung bei Angriffen.\
+
+    *MERKE:* Dieses Wohl wurde durch _Verborgenheit_ ersetzt.
 - !
   name: Verborgenheit
   OGname: Concealment
@@ -836,6 +1072,19 @@
     <li><strong>Kraftlevel 7</strong> - Der Wirker kann sich vor bis zu 3 Sinnen gleichzeitig verstecken.</li>
     <li><strong>Kraftlevel 8</strong> - Der Wirker kann sich vor bis zu allen Sinnen gleichzeitig verstecken.</li>
     </ul>
+  effect_short: |
+    Wähle Sinn(e) nach KL. #h(1pt) 5' um das Ziel werden Reize dafür unterdrückt. Das Ziel erhält Vorteil nach KL auf Aktionswürfe um sich zu verstecken oder unentdeckt zu bleiben.
+
+    Unwissende Gegner haben gegen das Ziel reduzierte Deckung und das Ziel hat gegen sie erhöhte Deckung (außer Flächenattacken). Sie können keine Gelegenheitsangriffe nutzen, außer sie kennen auf andere Weise etwa die Position des Ziels (nach GM Nachteil 0 / 3 / 5).
+
+    *KL 3:* Geruch/Klang, Vorteil 1, +1 / -1 Deckung.\
+    *KL 4:* 1 bel. Sinn, Vorteil 1, +1 / -1 Deckung.\
+    *KL 5:* 1 bel. Sinn, Vorteil 3, +3 / -2 Deckung.\
+    *KL 6:* 2 Sinne gl., Vorteil 5, +5 / -4 Deckung.\
+    *KL 7:* 3 Sinne gl., Vorteil 5, +5/-4 Deckung.\
+    *KL 8:* Alle gleichz., Vorteil 5, +5 / -4 Deckung.\
+
+    *MERKE:* Dieses Wohl ersetzt _Unsichtbar_.
 - !
   name: Versorgung
   OGname: Sustenance
@@ -872,6 +1121,16 @@
     </ul>
   special: |
     Du kannst nur eine Instanz dieses Wohls auf einmal aktiv haben. Sobald du das Wohl wirkst, werden alle vorigen Wirkungen automatisch aufgelöst.
+  effect_short: |
+    Du schützt das Ziel vor einer Gefahr der Umgebung, einer biologischen Notwendigkeit oder Ähnlichem, abhängig vom KL.
+
+    *KL 3:* Schutz vor einer Art gefährlicher Witterung (z.B. Hitze, Kälte, Strahlung, ...).\
+    *KL 4:* Eine biologische Notwendigkeit durch alternative Quelle erfüllbar (z.B. unter Wasser atmen, ungenießbares Essen verzehren, ...).\
+    *KL 5:* Das Ziel kann ohne täglich nötige Ressourcen wie Essen und Wasser auskommen.\
+    *KL 7:* Das Ziel kann ohne lebensnotwendige Ressourcen wie Luft zum Atmen auskommen.\
+    *KL 9:* Das Ziel bleibt unberührt, selbst wenn es von allen nötigen Ressourcen abgeschnitten ist.
+  special_short: |
+    Du kannst nur eine Instanz dieses Wohls auf einmal aktiv haben. Sobald du das Wohl wirkst, gehen vorige Wirkungen verloren.
 - !
   name: Verstärken
   OGname: Bolster
@@ -906,6 +1165,16 @@
     <li><strong>Kraftlevel 6</strong> - Vorteil 2</li>
     <li><strong>Kraftlevel 8</strong> - Vorteil 3</li>
     </ul>
+  effect_short: |
+    Wähle ein einziges Attribut.
+
+    Dein Ziel erhält Vorteil auf Aktionswürfe mit diesem Attribut anhand des Kraftlevels des Wohls.
+
+    *KL 3:* Vorteil 1.
+
+    *KL 6:* Vorteil 2.
+
+    *KL 8:* Vorteil 3.
 - !
   name: Voraussicht
   OGname: Precognition
@@ -933,6 +1202,16 @@
     <li><strong>Kraftlevel 5</strong> - Das Ziel stellt eine Frage über ein bestimmtes Ereignis, eine Entscheidung, Person, einen Ort usw.. Der GM gibt eine knappe aber sinnvolle Erklärung in einem oder zwei Sätzen, die eine direkte Antwort für das Wissen ist, das das Ziel sucht. Nur eine Frage kann über ein bestimmtes Thema pro Woche gestellt werden.</li>
     <li><strong>Kraftlevel 7</strong> - Das Ziel wählt ein bestimmtes Ereignis, eine Entscheidung, Person, einen Ort usw.. Nachdem das Wohl gewirkt wurde, beginnt das Ziel, übernatürliche Erlebnisse zu haben (Visionen, Trancen, Träume, außerkörperliche Erfahrungen, usw. ...), durch die der GM detaillierte Informationen über das gewählte Thema kommuniziert. Du kannst nur ein solches Thema auf einmal haben, Konzentration ist aber nicht nötig, um dieses aufrechtzuerhalten. Die Verbindung kannst du selbst beenden, oder aber sie endet, wenn du zu einem neuen Thema wechselst.</li>
     </ul>
+  effect_short: |
+    Du blickst in die Zukunft und erhälst Wissen darüber anhand des Kraftlevels.
+
+    *KL 1:* Eine Frage zu einer in den nächsten 5min. geplanten Handlung. Einsicht durch wage Symbole, Eindrücke oder ein Wort wie "positiv".
+
+    *KL 3:* Gleiche Art Frage zu einer Handlung in der nächsten Stunde. Gleiche Art Einsicht.
+
+    *KL 5:* Eine Frage über ein bestimmtes Ereignis, eine Person, einen Ort, usw.. GM gibt knappe aber sinnvolle Antwort in ein oder zwei Sätzen. Nur eine Frage pro Thema pro Woche möglich.
+
+    *KL 7:* Gleiche Art Thema wie bei KL 5 wählen. Das Ziel bekommt übernatürliche Erlebnisse, die ihm detaillierte Informationen dazu geben. Nur ein solches Thema gleichzeitig möglich, aber keine Konzentration zum Erhalt nötig.
 - !
   name: Wiederherstellung
   OGname: Restoration
@@ -975,6 +1254,10 @@
     </ul>
   special: |
     Du kannst auch Harme über dem Kraftlevel dieses Wohls auflösen. Dafür muss das Wohl mit einem Aktionswurf gewirkt worden sein (diese Anwendung kann also nicht durch automatischen Erfolg wie bei der Fertigkeit <em>Wohlfokus</em> erreicht werden). Der Herausforderungswert, um einen Harm höheren Kraftlevels zu lösen ist gleich 20 + 2 x Kraftlevel des Harms. Ein Harm von Kraftlevel 9 kann also mit einem Wurfergebnis von 38 beim Aktionswurf für dieses Wohl aufgelöst werden, selbst wenn der wirkende Charakter keinen Attributwert von 9 im genutzten Attribut hat.
+  effect_short: |
+    Du kannst alle Harme auf einem Kraftlevel unter oder gleich dem Kraftlevel dieses Wohls auflösen, die auf deinem Ziel liegen.
+  special_short: |
+    Du kannst auch Harme über dem Kraftlevel dieses Wohls auflösen. Dafür muss das Wohl mit einem Aktionswurf gewirkt worden sein (diese Anwendung kann also nicht durch automatischen Erfolg wie bei der Fertigkeit _Wohlfokus_ erreicht werden). Der Herausforderungswert, um einen Harm höheren Kraftlevels zu lösen ist gleich 20 + 2 x Kraftlevel des Harms. Ein Harm von Kraftlevel 9 kann also mit einem Wurfergebnis von 38 beim Aktionswurf für dieses Wohl aufgelöst werden, selbst wenn der wirkende Charakter keinen Attributwert von 9 im genutzten Attribut hat.
 - !
   name: Zungen
   OGname: Tongues
@@ -998,3 +1281,9 @@
     <li><strong>Kraftlevel 5</strong> - Dein Ziel kann eine Sprache deiner Wahl verstehen und sprechen.</li>
     <li><strong>Kraftlevel 6</strong> - Dein Ziel kann eine Sprache deiner Wahl lesen.</li>
     </ul>
+  effect_short: |
+    Das Ziel erlangt die Fähigkeit zur Nutzung einer ihm fremden Sprache anhand des Kraftlevels des Wohles.
+
+    *KL 5:* Das Ziel kann eine Sprache deiner Wahl verstehen und sprechen.
+
+    *KL 6:* Das Ziel kann eine Sprache deiner Wahl verstehen, sprechen und lesen.

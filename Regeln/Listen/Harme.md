@@ -128,7 +128,7 @@ ___
 Du verwirrst die Sinne des Ziels, sodass es deutlich weniger effizient handelt. Ein Ziel kann durch einen Schlag an den Kopf, einen Tritt zwischen die Beine oder einen ohrenbetäubenden Donnerschlag betäubt werden.
 
 **Effekt**  
-Im Ziel kann in seinem Zug nur eine einzige große Aktion, Bewegungsaktion oder kleine Aktion ausführen. Effekte, die dem Ziel zusätzliche Aktionen geben, werden bis auf weitere kostenlose Aktionen neutrasiliert. Falls das Ziel erfolgreich mit seiner Bewegungsaktion dem Harm widersteht, erhält es den Rest seiner Aktionen schon im gleichen Zug zurück.
+Das Ziel kann in seinem Zug nur eine einzige große Aktion, Bewegungsaktion oder kleine Aktion ausführen. Effekte, die dem Ziel zusätzliche Aktionen geben, werden bis auf weitere kostenlose Aktionen neutralisiert. Falls das Ziel erfolgreich mit seiner Bewegungsaktion dem Harm widersteht, erhält es den Rest seiner Aktionen schon im gleichen Zug zurück.
 
 **Besonders**  
 Dieser Harm hat besondere Regeln für Boss-NPCs (siehe [Kapitel 8: Das Spiel leiten](<../Kapitel-8_Das-Spiel-leiten.md>)). Ein Boss unterliegt dem Effekt von Betäubt nur in seinem normalen Zug in der Initiativereihenfolge. Er kann all seine Boss-Aktionen wie normal ausführen.
@@ -267,7 +267,7 @@ Der Harm Dominiert kann sich auf zwei Graden ausdrücken: oberflächlich und tie
 <strong>Oberflächlich Dominiert</strong> - Das Ziel gehorcht einem Befehl, bestehend aus einem Wort, bis zum Ende des nächsten Zuges. An diesem Punkt endet der Harm sofort.
 <strong>Tief Dominiert</strong> - Jede Bewegung und jede Aktion des Ziels steht unter deiner Kontrolle. Anders als beim Harm Bezaubert, verliert das Ziel von Dominiert Kontrolle über seine eigenen Aktionen. Sein Geist dagegen kämpft gegen den eigenen Körper an. Das Ziel kann keine Aktionen ausführen, die nicht explizit von dir befohlen wurden. Jeder Befehl, der dem Ziel gegeben wird, der der eigentlichen Natur des Ziels massiv widerspricht, gibt dem Ziel einen Widerstandswurf als kostenlose Aktion, um den Effekt von Dominiert zu beenden. Der wirkende Charakter erhält keinen Zugang zum Geist des Ziels und kann dem Ziel so nur Befehle für Aktionen geben, von denen er weiß oder vermutet, dass das Ziel zu ihnen in der Lage ist. Jeder mentale Befehl, den der wirkende Charakter dem Ziel gibt, ist eine große Aktion. Der Befehl selbst kann aber aus einer Reihe verbaler Anweisungen bestehen, wie zum Beispiel "Greife den Gegner X an, außer jemand kommt durch die Tür. In diesem Fall sollst du fliehen." Die dominierte Kreatur wird dem letzten erhaltenen mentalen Befehl gehorchen, bis sie einen neuen Befehl von dir erhält. Nur einem Befehl kann gleichzeitig gehorcht werden. Tiefe Dominierung hat eine Dauer von Widerstehen beendet (3 Fehlschläge = 1 Stunde).
   <ul>
-  <li><strong>Kraftlevel 3</strong> - Du kannst Kreaturen nichtmenschlicher Intelligenz (Tiefe, manche Elementare, bestimmte Untote, usw. ...) mit Oberflächlich Dominiert belegen.</li>
+  <li><strong>Kraftlevel 3</strong> - Du kannst Kreaturen nichtmenschlicher Intelligenz (Tiere, manche Elementare, bestimmte Untote, usw. ...) mit Oberflächlich Dominiert belegen.</li>
   <li><strong>Kraftlevel 5</strong> - Du kannst Kreaturen menschlicher Intelligenz oder höher mit Oberflächlich Dominiert belegen - ODER - du kannst Kreaturen nichtmenschlicher Intelligenz mit Tief Dominiert belegen.</li>
   <li><strong>Kraftlevel 9</strong> - Du kannst Kreaturen menschlicher Intelligenz oder höher mit Tief Dominiert belegen.</li>
   </ul>
@@ -422,12 +422,12 @@ ___
 Entweder durch inhärente außersinnliche Wahrnehmung oder durch ein besonderes Werkzeug wie ein Computerterminal, einen brodelnden Kessel oder eine Kristallkugel, kannst du das Ziel aus der Distanz sehen.
 
 **Effekt**  
-Du kannst eine Person oder ein Gebiet ausspionieren, mit dem du vertraut bist. Das Kraftlevel dieses Harmes bestimmt die maximale Distanz zwischen dir und dem Ziel. Falls der Harm erfolgreich gewirkt wird, kannst du alles hören und sehen, was in einem 60' Radius vom Ziel aus passiert. Jeder im Zielgebiet, der einen Entschlossenheit-Wert über dem Ergebnis deines Vorwissenwurfes hat, wird sich der ungesehenen Präsenz am Ort bewusst (egal, ob du mit deinem Wurf Erfolg hattest oder nicht). Bestimmte Kreaturen können in der Lage sich, deine Fernsicht zu identifizieren, falls sie solche Kräfte kennen.
+Du kannst eine Person oder ein Gebiet ausspionieren, mit dem du vertraut bist. Das Kraftlevel dieses Harmes bestimmt die maximale Distanz zwischen dir und dem Ziel. Falls der Harm erfolgreich gewirkt wird, kannst du alles hören und sehen, was in einem 60' Radius vom Ziel aus passiert. Jeder im Zielgebiet, der einen Entschlossenheit-Wert über dem Ergebnis deines Vorwissenwurfes hat, wird sich der ungesehenen Präsenz am Ort bewusst (egal, ob du mit deinem Wurf Erfolg hattest oder nicht). Bestimmte Kreaturen können in der Lage sein, deine Fernsicht zu identifizieren, falls sie solche Kräfte kennen.
 <ul>
 <li><strong>Kraftlevel 5</strong> - 1 Meile oder weniger.</li>
 <li><strong>Kraftlevel 6</strong> - 100 Meilen oder weniger.</li>
 <li><strong>Kraftlevel 7</strong> - Mehr als 100 Meilen, aber in der gleichen Dimension oder auf der gleichen Realitätsebene.</li>
-<li><strong>Kraftlevel 9</strong> - Jede Dimension oder Realitätsebene. (In andere Dimensionen zu blicken kann dich Abwägung des GM anderen Gefahren aussetzen)</li>
+<li><strong>Kraftlevel 9</strong> - Jede Dimension oder Realitätsebene. (In andere Dimensionen zu blicken kann dich nach Abwägung des GM anderen Gefahren aussetzen)</li>
 </ul>
 
 **Besonders**  
@@ -557,7 +557,7 @@ Der Harm Gedächtnismanipulation kann nur durch einen Harmangriff zugefügt werd
 Dieser Harm gibt dem wirkenden Charakter kein Wissen über den Inhalt der Erinnerungen des Ziels. Der wirkende Charakter muss sich über die Erinnerungen, die er oder sie verändern möchte, durch Gerüchte, persönliches Wissen, Voraussicht oder andere Wege bewusst sein.
 
 **Besonders**  
-Denn du bei deinem Aktionswurf zum Zufügen dieses Harms fehlschlägst, ist das Ziel für die nächsten 24 Stunden immun gegen weitere Versuche durch dich, es mit diesem Harm zu belegen.
+Wenn du bei deinem Aktionswurf zum Zufügen dieses Harms fehlschlägst, ist das Ziel für die nächsten 24 Stunden immun gegen weitere Versuche durch dich, es mit diesem Harm zu belegen.
 
 > Tags: Außergewöhnlich  
 > Englisch: _Memory Alteration_
@@ -693,7 +693,7 @@ Dein Kraftlevel bestimmt das Ausmaß, bis zu dem du dein Ziel verwandeln kannst.
 <li><strong>Kraftlevel 8</strong> - Verwandle eine Kreatur in eine andere Kreatur von bis zu viertel oder vierfacher Größe. Alternativ kannst du die Kreatur in ein Objekt gleicher Größe verwandeln. Die neue Form kann die Attributwerte des Ziels um bis zu 5 reduzieren.</li>
 <li><strong>Kraftlevel 9</strong> - Verwandle eine Kreatur in eine andere Kreatur jeder beliebigen Größe. Alternativ kannst du die Kreatur in ein Objekt gleicher Größe verwandeln. Die neue Form kann die Attributwerte des Ziels um bis zu 7 reduzieren.</li>
 </ul>
-Um seine Trefferpunkte im Blick zu behalten, sollte das Ziel den gesamten Schaden festhalten, den es erlitten hat. Bei der Verwandlung bleibt der Schaden erhalten, selbst wenn maximale Trefferpunkte sich verändern. Beispielsweise hat Agent Walker maximal 20 TP, wurde aber in ein Schaf verwandelt und hat so 2 Konstitutionspunkte verloren, weshalb sie jetzt nur noch maximal 16 TP hat. Im Kampf erleidet sie 10 Schaden. Als sie sich später zurückverwandelt, bleiben die 10 Schaden erhalten und werden von ihrem neuen Maximum subtrahiert, sodass sie 10 von 20 TP hat. Falls die Verwandlung die TP des Ziels auf weniger als 1 reduziert, wird das neue TP-Maximum stattdessen 1.
+Um seine Trefferpunkte im Blick zu behalten, sollte das Ziel den gesamten Schaden festhalten, den es erlitten hat. Bei der Verwandlung bleibt der Schaden erhalten, selbst wenn maximale Trefferpunkte sich verändern. Beispielsweise hat Agent Walker maximal 20 TP, wurde aber in ein Schaf verwandelt und hat so 2 Konstitutionspunkte verloren, weshalb sie jetzt nur noch maximal 16 TP hat. Im Kampf erleidet sie 10 Schaden. Als sie sich später zurückverwandelt, bleiben die 10 Schaden erhalten und werden von ihrem neuen Maximum subtrahiert, sodass sie 10 von 20 TP hat. Falls die Verwandlung die TP des Ziels auf weniger als 1 reduzieren würde, werden die TP stattdessen auf 1 gesetzt.
 
 > Tags: Außergewöhnlich  
 > Englisch: _Polymorph_
@@ -846,7 +846,7 @@ ___
 Stille breitet sich um das Ziel aus, egal ob durch das Manipulieren von Schallwellen um das Ziel oder physischen Effekten wie Erwürgen oder Ersticken. Der Harm Verstummt ist verbreitet bei Assassinen, Zauberern, Ingenieuren und verrückten Wissenschaftlern.
 
 **Effekt**  
-Falls Kraft, Geschicklichkeit oder Vergehen benutzt wurden, um diesen Harm zu wirken, leidet der Charakter und Erwürgung und kann nicht sprechen. Falls der Harm mit Wandlung gewirkt wurde, dann erlischt aller Klang innerhalb von 5' um das Ziel durch außergewöhnliche Mittel, sodass z.B. ihre Schritte stumm sind und das Klappern von Ausrüstung nicht gehört werden kann.
+Falls Kraft, Geschicklichkeit oder Vergehen benutzt wurden, um diesen Harm zu wirken, leidet der Charakter unter Erwürgung und kann nicht sprechen. Falls der Harm mit Wandlung gewirkt wurde, dann erlischt aller Klang innerhalb von 5' um das Ziel durch außergewöhnliche Mittel, sodass z.B. seine Stimme nicht mehr gehört werden kann oder Versuche, Lärm zu machen, erfolglos bleiben.
 
 > Tags: Außergewöhnlich, Körperlich  
 > Englisch: _Silenced_

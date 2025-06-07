@@ -49,6 +49,23 @@
       <li>Vergehensschaden wird durch außergewöhnliche oder magische Heilung behoben.</li>
     </ul>
     Diesem Harm kann auch durch die normale Nutzung einer Bewegungsaktion zum Widerstehen von Harmen aufgelöst werden.
+  effect_short: |
+    Zu Beginn seines Zuges (vor seinen Aktionen) erleidet das
+    Ziel Schaden anhand des Kraftlevels des Harmes. Der Schaden umgeht
+    Verteidigungen, aber Reduktion durch Resistenzen ist möglich (siehe das
+    Wohl _Resistenz_).
+
+    *Schaden pro Runde:* KL2 = 1d4, KL4 = 1d6,\ KL6 = 1d8, KL8 = 1d10, KL9 = 2d6. 
+  special_short: |
+    Anhaltender Schaden kann unterschiedlicher Natur sein
+    (z.B. Feuer, Gift, Blutung, Gewicht, usw.). Wird eine Handlung
+    ausgeführt, um die Ursache zu beheben (z.B. gegen Blutung eine Bandage
+    anlegen), erhält der Charakter einen
+    Widerstandswurf mit Vorteil 1 als kostenlose Aktion.
+
+    Normale Widerstandswürfe sind auch möglich.
+  attack_short:
+    - Geschicklichkeit / Energie vs. Deckung, Vergehen vs. Zähigkeit
 - !
   name: Annullieren
   OGname: Nullify
@@ -91,6 +108,17 @@
     </ul>
   special: |
     Wenn das Wohl, das aufgelöst werden soll, eine Fläche abdeckt, kannst du es auflösen, indem du einen beliebigen Abschnitt davon anvisierst, den du sehen kannst oder indem du eine Reihe an 5' Würfeln als Ziele setzt, in denen du die Wirkung des Wohls vermutest. Falls das Wohl eine Fläche abdeckt, statt auf einer Kreatur zu liegen, wirfst du gegen einen HW des Wohls anstatt gegen eine Entschlossenheit-Verteidigung. Der HW ist 10 + 2 x Kraftlevel des Wohls.
+  effect_short: |
+    Du löst ein einziges Wohl mit einem Kraftlevel kleiner oder gleich dem Kraftlevel dieser Harmwirkung auf.
+
+    *KL 1-5:* Aktiv gewirktes Wohl als Ziel. Charakter kann für 1min. nicht vom gleichen Wohl betroffen werden.
+
+    *KL 6-9:* Zusätzlich zu den vorigen Effekten auch permanent oder passiv wirkende Wohle aufheben und das Wirken von Annulieren kann nicht verhindert werden.
+# Du löst ein einziges aktives Wohl mit Kraftlevel gleich der Wirkung dieses Harms oder niedriger auf. Auf KL 1 - 5 kannst du ein aktiv gewirktes Wohl auflösen und der betroffene Charakter kann für eine Minute nicht mehr vom gleichen Wohl betroffen werden. Auf KL 6 - 9 kannst du zusätzlich zu den vorigen Effekten auch permanent oder passiv wirkende Wohle aufheben und das Wirken von Annulieren kann nicht verhindert werden.
+  special_short: |
+    Um ein Wohl auf einer Fläche zu annulieren, musst du einen Abschnitt anvisieren, den du aktiv wahrnehmen kannst oder auf 5' Würfel zielen, wo du das Wohl vermutest. Statt gegen die Entschlossenheit des Ziels wirfst du gegen den HW 10 + 2 #sym.times KL des Wohls.
+  attack_short:
+    - Schutz vs. Entschlossenheit
 - !
   name: Benommen
   OGname: Stupefied
@@ -114,6 +142,12 @@
     Das Ziel hat einen benebelten Geist, sodass seine mentale Verteidigung verringert ist. Während es vom Harm betroffen ist, ist seine Entschlossenheit-Verteidung auf 10 verringert. Weiterhin hat das Ziel etwa die Intelligenz eines Kindes. Falls es angegriffen wird, verteidigt es sich mit seinen natürlichen Waffen (Hände, Füße, Klauen, Schnabel, usw. ...), bis der Angriff aufhört. Das Ziel wird nie komplexe Taktiken oder Fähigkeiten wie Zauber anwenden. Falls das Ziel Feuer sieht oder Schmerzen fühlt, wird es fliehen.
   special: |
     Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel sich dem Harm überhaupt bewusst ist. Das Unterbewusstsein des Ziels ist zwar magisch unterdrückt, kämpft aber konstant um Kontrolle. Aus diesem Grund erhält das Ziel am Ende seines Zuges einen Widerstandswurf als kostenlose Aktion spezifisch gegen diesen Harm. Jeder Angriff, der dem Ziel physischen oder geistigen Schaden zufügt, gibt ihm einen weiteren kostenlosen Widerstandswurf. Aktionen, die ein wildes Tier verschrecken würden (von einem geworfenen Stein getroffen werden, geohrfeigt werden, usw. ...) geben dem Ziel auch einen kostenlosen Widerstandswurf. Anders als normale Widerstandswürfe, zählen diese kostenlos erhaltenen Würfe nicht gegen das normale Limit von 3 fehlgeschlagenen Widerstandswürfen, bevor der Harm länger anhält. Hat das Ziel bei einem Widerstandswurf Erfolg, so wird es für 24 Stunden immun gegen alle weiteren Versuche durch dich, diesen Harm auf es zu wirken.
+  effect_short: |
+    Die Entschlossenheit-Verteidigung des Ziels ist auf 10 verringert und es hat nur noch etwa die Intelligenz eines Kindes. Falls angegriffen, verteidigt es sich mit seinen natürlichen Mitteln (Hände, Schnabel, usw. ...), bis der Angriff aufhört, wird aber nie komplexe Taktiken oder Fähigkeiten anwenden. Falls es Feuer sieht oder Schmerzen fühlt, flieht es.
+  special_short: |
+    Am Ende seines Zuges erhält das Ziel einen Widerstandswurf als kostenlose Aktion spezifisch gegen diesen Harm. Falls es Schaden erleidet oder durch eine Aktion genügend erschreckt wird, erhält es auch einen solchen Wurf. Diese Würfe zählen nicht gegen das Limit von 3 erfolglosen Widerstandswürfen. Widersteht das Ziel dem Harm durch einen Wurf, ist es für 24 Stunden gegen weitere Wirkungen dieses Harms durch dich immun.
+  attack_short:
+    - Einfluss vs. Entschlossenheit
 - !
   name: Betäubt
   OGname: Stunned
@@ -145,9 +179,17 @@
   description: |
     Du verwirrst die Sinne des Ziels, sodass es deutlich weniger effizient handelt. Ein Ziel kann durch einen Schlag an den Kopf, einen Tritt zwischen die Beine oder einen ohrenbetäubenden Donnerschlag betäubt werden.
   effect: |
-    Im Ziel kann in seinem Zug nur eine einzige große Aktion, Bewegungsaktion oder kleine Aktion ausführen. Effekte, die dem Ziel zusätzliche Aktionen geben, werden bis auf weitere kostenlose Aktionen neutrasiliert. Falls das Ziel erfolgreich mit seiner Bewegungsaktion dem Harm widersteht, erhält es den Rest seiner Aktionen schon im gleichen Zug zurück.
+    Das Ziel kann in seinem Zug nur eine einzige große Aktion, Bewegungsaktion oder kleine Aktion ausführen. Effekte, die dem Ziel zusätzliche Aktionen geben, werden bis auf weitere kostenlose Aktionen neutralisiert. Falls das Ziel erfolgreich mit seiner Bewegungsaktion dem Harm widersteht, erhält es den Rest seiner Aktionen schon im gleichen Zug zurück.
   special: |
-    Dieser Harm hat besondere Regeln für Boss-NPCs (siehe [Kapitel 8: Das Spiel leiten](./../Kapitel-8_Das-Spiel-leiten.md)). Ein Boss unterliegt dem Effekt von Betäubt nur in seinem normalen Zug in der Initiativereihenfolge. Er kann all seine Boss-Aktionen wie normal ausführen.
+    Dieser Harm hat besondere Regeln für Boss-NPCs (siehe [Kapitel 8: Das Spiel leiten](<../Kapitel-8_Das-Spiel-leiten.md>)). Ein Boss unterliegt dem Effekt von Betäubt nur in seinem normalen Zug in der Initiativereihenfolge. Er kann all seine Boss-Aktionen wie normal ausführen.
+  effect_short: |
+    Das Ziel kann in seinem Zug nur eine einzige große Aktion, Bewegungsaktion oder kleine Aktion ausführen.
+    
+    Effekte, die dem Ziel zusätzliche Aktionen geben, werden bis auf weitere kostenlose Aktionen neutralisiert. Falls das Ziel erfolgreich mit seiner Bewegungsaktion dem Harm widersteht, erhält es den Rest seiner Aktionen schon im gleichen Zug zurück.
+  special_short: |
+    Dieser Harm hat besondere Regeln für Boss-NPCs (siehe _Kapitel 8: Das Spiel leiten_). Ein Boss unterliegt dem Effekt von Betäubt nur in seinem normalen Zug in der Initiativereihenfolge. Er kann all seine Boss-Aktionen wie normal ausführen.
+  attack_short:
+    - Geschicklichkeit / Energie / Vergehen / Kraft vs. Zähigkeit
 - !
   name: Bewusstlos
   OGname: Incapacitated
@@ -186,6 +228,16 @@
     </ul>
   special: |
     Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel sich seiner Position bewusst ist. Der Körper des Ziels kämpft aber darum, das Bewusstsein wiederzuerlangen. Am Ende jedes Zuges erhält das Ziel einen Widerstandswurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel mit dem Widerstehen Erfolg, so ist es für die nächste Stunde gegen alle weiteren Versuche durch dich, es bewusstlos zu machen, immun.
+  effect_short: |
+    Das Ziel ist immobilisiert und bewusstlos. Es hat Nachteil 5 auf Wahrneh-mungswürfe und kann sich nicht bewegen, weshalb es Gnadenstößen erleiden könnte.
+    - *KL 5* - Der Effekt bricht durch eine moderate Störung, wie z.B. einem festen Stoß, Glas voll Wasser, lauten Knall, ...
+    - *KL 7* - Der Effekt bricht nur, wenn das Ziel 1 TP oder mehr Schaden nimmt.
+    - *KL 9* - Nur ein erfolgreicher Widerstandswurf vom Ziel bricht den Effekt.
+  special_short: |
+    Am Ende seines Zuges erhält das Ziel einen Widerstandswurf als kostenlose Aktion spezifisch gegen diesen Harm. Widersteht das Ziel dem Harm durch einen Wurf, ist es für 24 Stunden gegen weitere Wirkungen dieses Harms durch dich immun.
+  attack_short:
+  - Geschicklichkeit / Vergehen vs. Zähigkeit
+  - Einfluss vs. Entschlossenheit
 - !
   name: Bezaubert
   OGname: Charmed
@@ -219,6 +271,19 @@
       </ul>
   special: |
     Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel sich dem Harm überhaupt bewusst ist. Das Unterbewusstsein des Ziels ist zwar magisch unterdrückt, kämpft aber konstant um Kontrolle. Aus diesem Grund erhält das Ziel am Ende seines Zuges einen Widerstandswurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel beim Widerstandswurf Erfolg, so wird es für 24 Stunden immun gegen alle weiteren Versuche durch dich, es wieder zu bezaubern.
+  effect_short: |
+    Dieser Harm kann nur durch einen Harmangriff zugefügt werden und hat zwei Grade: oberflächlich & tief.
+    
+    _Oberflächlich:_ Das Ziel ändert seine Haltung zu dir moderat.\
+    _Tief:_ Du wählst, ob das Ziel sich in dich verliebt oder zu deinem treuesten Begleiter wird.
+    
+    *KL 3:* Tierische Intel. oberflächlich bezaubern.\
+    *KL 4:* Humanoide Intel. oberflächlich ODER tierische Intelligenz tief bezaubern.\
+    *KL 6:* Humanoide Intelligenz tief bezaubern.
+  special_short: |
+    Am Ende seines Zuges erhält das Ziel einen Widerstandswurf als kostenlose Aktion spezifisch gegen diesen Harm. Widersteht das Ziel dem Harm durch einen Wurf, ist es für 24 Stunden gegen weitere Wirkungen dieses Harms durch dich immun.
+  attack_short:
+  - Einfluss vs. Entschlossenheit
 - !
   name: Demoralisiert
   OGname: Demoralized
@@ -269,7 +334,19 @@
     </ul>
   special: |
     Diesem Harm zu Widerstehen ist eine kleine Aktion.
-    Wird dieser Harm durch Geschicklichkeit oder Kraft gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus [Kapitel 7: Kampf](./../Kapitel-7_Kampf.md) bestimmen.
+    Wird dieser Harm durch Geschicklichkeit oder Kraft gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus [Kapitel 7: Kampf](<../Kapitel-7_Kampf.md>) bestimmen.
+  effect_short: |
+    Das Ziel hat Nachteil anhand des Kraftlevels auf alle Aktionswürfe.
+    
+    - *KL 3* - Nachteil 1
+    - *KL 6* - Nachteil 2
+    - *KL 8* - Nachteil 3
+  special_short: |
+    Diesem Harm zu Widerstehen ist eine kleine Aktion. 
+    
+    Wird dieser Harm durch Geschicklichkeit oder Kraft gewirkt, kannst du die Reichweite mit der Tabelle _Nicht-körperliche Angriffsreichweite_ aus _Kapitel 7: Kampf_ bestimmen.
+  attack_short:
+    - Geschicklichkeit / Energie / Vergehen / Einfluss / Kraft / Überzeugung / Präsenz vs. Entschlossenheit
 - !
   name: Dominiert
   OGname: Dominated
@@ -296,12 +373,25 @@
     <strong>Oberflächlich Dominiert</strong> - Das Ziel gehorcht einem Befehl, bestehend aus einem Wort, bis zum Ende des nächsten Zuges. An diesem Punkt endet der Harm sofort.
     <strong>Tief Dominiert</strong> - Jede Bewegung und jede Aktion des Ziels steht unter deiner Kontrolle. Anders als beim Harm Bezaubert, verliert das Ziel von Dominiert Kontrolle über seine eigenen Aktionen. Sein Geist dagegen kämpft gegen den eigenen Körper an. Das Ziel kann keine Aktionen ausführen, die nicht explizit von dir befohlen wurden. Jeder Befehl, der dem Ziel gegeben wird, der der eigentlichen Natur des Ziels massiv widerspricht, gibt dem Ziel einen Widerstandswurf als kostenlose Aktion, um den Effekt von Dominiert zu beenden. Der wirkende Charakter erhält keinen Zugang zum Geist des Ziels und kann dem Ziel so nur Befehle für Aktionen geben, von denen er weiß oder vermutet, dass das Ziel zu ihnen in der Lage ist. Jeder mentale Befehl, den der wirkende Charakter dem Ziel gibt, ist eine große Aktion. Der Befehl selbst kann aber aus einer Reihe verbaler Anweisungen bestehen, wie zum Beispiel "Greife den Gegner X an, außer jemand kommt durch die Tür. In diesem Fall sollst du fliehen." Die dominierte Kreatur wird dem letzten erhaltenen mentalen Befehl gehorchen, bis sie einen neuen Befehl von dir erhält. Nur einem Befehl kann gleichzeitig gehorcht werden. Tiefe Dominierung hat eine Dauer von Widerstehen beendet (3 Fehlschläge = 1 Stunde).
       <ul>
-      <li><strong>Kraftlevel 3</strong> - Du kannst Kreaturen nichtmenschlicher Intelligenz (Tiefe, manche Elementare, bestimmte Untote, usw. ...) mit Oberflächlich Dominiert belegen.</li>
+      <li><strong>Kraftlevel 3</strong> - Du kannst Kreaturen nichtmenschlicher Intelligenz (Tiere, manche Elementare, bestimmte Untote, usw. ...) mit Oberflächlich Dominiert belegen.</li>
       <li><strong>Kraftlevel 5</strong> - Du kannst Kreaturen menschlicher Intelligenz oder höher mit Oberflächlich Dominiert belegen - ODER - du kannst Kreaturen nichtmenschlicher Intelligenz mit Tief Dominiert belegen.</li>
       <li><strong>Kraftlevel 9</strong> - Du kannst Kreaturen menschlicher Intelligenz oder höher mit Tief Dominiert belegen.</li>
       </ul>
   special: |
     Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel sich dem Harm überhaupt bewusst ist. Das Unterbewusstsein des Ziels ist zwar magisch unterdrückt, kämpft aber konstant um Kontrolle. Aus diesem Grund erhält das Ziel am Ende seines Zuges einen Widerstandswurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel beim Widerstandswurf Erfolg, so wird es für 24 Stunden immun gegen alle weiteren Versuche durch dich, es wieder zu dominieren.
+  effect_short: |
+    Zwei Grade: oberflächlich & tief.
+    
+    _Oberflächlich:_ Das Ziel gehorcht 1 Befehl aus 1 Wort für 1 Zug. Danach endet der Harm sofort.\
+    _Tief:_ Das Ziel gehorcht jedem deiner Befehle. Befehle sind große Aktionen, können aber komplexe Anweisungen sein. Falls ein Befehl dem Ziel massiv widerspricht, erhält es einen kostenlosen Widerstandswurf. Dauer dieses Grades: Widerstehen beendet (3 #sym.crossmark = 1 Stunde).
+    
+    *KL 3:* Tierische Intel. oberflächlich dominieren.\
+    *KL 5:* Tierische Intel. oberflächlich ODER humanoide Intel. tief dominieren.\
+    *KL 9:* Humanoide Intelligenz tief dominieren.
+  special_short: |
+    An seinem Zugende erhält das Ziel einen kostenlosen Widerstandswurf hiergegen. Erfogreiches Widerstehen durch Wurf = 24h gegen weitere Wirkungen durch dich immun.
+  attack_short:
+    - Einfluss vs. Entschlossenheit
 - !
   name: Entwaffnet
   OGname: Disarmed
@@ -347,6 +437,16 @@
     <li><strong>Kraftlevel 3</strong> - Das Ziel lässt ein Objekt deiner Wahl an einem Punkt in einer Reichweite von 15' vom Ziel aus fallen.</li>
     <li><strong>Kraftlevel 6</strong> - Als Alternative dazu, den Gegenstand zu bewegen, kannst du auch entscheiden, die Kontrolle darüber zu übernehmen. Falls du dich dafür entscheidest, wirst du der das Objekt führende Charakter. Um die Kontrolle wiederzuerlangen, kann der ursprüngliche Charakter selbst mit einem Entwaffnet-Harm reagieren, um den Effekt zu kontern oder einen Attributwurf (typischerweise Kraft) mit einem Herausforderungswert von 10 + 2 x Attributwert des den Harm wirkenden Charakters nutzen.</li>
     </ul>
+  effect_short: |
+    Du zwingst einen Feind, die Kontrolle über ein Objekt zu verlieren, welches er hält.
+
+    *KL 3:* Das Ziel lässt ein Objekt deiner Wahl an einem Punkt innerhalb von 15' von sich fallen.
+    
+    *KL 6:* Stattdessen kannst du die Kontrolle über den Gegenstand übernehmen. In diesem Fall wirst du der das Objekt führende Charakter. Um die Kontrolle wiederzuerlangen, kann der ursprüngliche Charakter selbst mit einem Entwaffnet-Harm reagieren, um den Effekt zu kontern oder einen Attributwurf (typischerweise Kraft) mit einem Herausforderungswert von 10 + 2 #sym.times Attributwert des den Harm wirkenden Charakters nutzen.
+  attack_short:
+    - Geschicklichkeit / Wandlung / Energie / Kraft / Bewegung vs. Deckung
+    - Vergehen vs. Zähigkeit
+    - Einfluss vs. Entschlossenheit
 - !
   name: Erkrankt
   OGname: Sickened
@@ -370,6 +470,10 @@
     Energie des Vergehens überkommt das Ziel und bombardiert dessen Metabolismus, was Übelkeit hervorruft, die Selbstverteidigung und jede andere Art Aktion schwierig macht. Dieser Harm kann vom Fluch einer Hexe, Biowaffen, starkem Gift oder Kontakt mit außerirdischen Toxinen kommen.
   effect: |
     Das Ziel hat Nachteil 1 auf alle Aktionswürfe und -1 auf alle Verteidigungen.
+  effect_short: |
+    Das Ziel hat Nachteil 1 auf alle Aktionswürfe und -1 auf alle Verteidigungen.
+  attack_short:
+    - Vergehen vs. Zähigkeit
 - !
   name: Erschöpft
   OGname: Fatigued
@@ -401,6 +505,19 @@
     </ul>
   special: |
     Anders als bei anderen Harmen, braucht es Zeit und Ruhe, um diesen Harm zu lösen. Alle 24 Stunden, die ein Charakter mit wenig oder keiner Anstrengung ausruht, löst ein Level des Harms Erschöpft. Falls das Wohl <em>Wiederherstellung</em> erfolgreich gewirkt wird, um diesen Harm zu annulieren, wird nur ein Level von Erschöpft aufgehoben (zusätzlich zu Leveln, die möglicherweise durch Ruhe aufgehoben werden). Falls der genutzte Attributwert des Wirkers von <em>Wiederherstellung</em> 7 oder höher beträgt, werden stattdessen alle Level von Erschöpft aufgehoben. Ein Ziel kann nur einmal alle 24 Stunden durch das Wirken von <em>Wiederherstellung</em> ein Level Erschöpft annuliert bekommen.
+  effect_short: |
+    Jedes Erleiden erhöht das Harmlevel um 1 und fügt dem Ziel kummulative Effekte zu.
+    
+    *Level 1:* Nachteil 1 auf alle nicht-Angriffswürfe.\
+    *Level 2:* _Verlangsamt_, bis _Erschöpft_ aufgelöst ist.\
+    *Level 3:* Nachteil 1 auf alle Angriffswürfe.\
+    *Level 4:* Verlust von Attributboni auf Verteidigungen. Boni von Rüstungen, Fertigkeiten und andere Boni bleiben.\
+    *Level 5:* Bewusstlos & hilflos. Lvl. sinkt in 24h.\
+    *Level 6:* Tod.
+  special_short: |
+    Dem Harm kann nicht per Wurf widerstanden werden. Alle 24h mit wenig oder keiner Anstrengung lösen ein Level des Harms. _Wiederherstelilung_ mit Attributwert zur Wirkung unter 7 löst nur ein Level dieses Harms, 7 und darüber löst alle Level. Lösen durch _Wiederherstellung_ nur einmal pro 24h möglich.
+  attack_short:
+  - Vergehen vs. Zähigkeit
 - !
   name: Erzwungene Bewegung
   OGname: Forced Move
@@ -442,6 +559,15 @@
     <li><strong>Kraftlevel 6</strong> - Das Ziel wird um 15' bewegt.</li>
     <li><strong>Kraftlevel 8</strong> - Das Ziel wird um 20' bewegt.</li>
     </ul>
+  effect_short: |
+    Das Ziel wird eine durch das Kraftlevel bestimmte Distanz gegen seinen Willen bewegt. Der Zielort der Bewegung wird durch den wirkenden Charakter bestimmt.
+    
+    *KL 2:* Das Ziel wird um 5' bewegt.\
+    *KL 4:* Das Ziel wird um 10' bewegt.\
+    *KL 6:* Das Ziel wird um 15' bewegt.\
+    *KL 8:* Das Ziel wird um 20' bewegt.\
+  attack_short:
+  - Geschicklichkeit / Energie / Kraft / Bewegung vs. Deckung
 - !
   name: Fernsicht
   OGname: Spying
@@ -465,16 +591,28 @@
   description: |
     Entweder durch inhärente außersinnliche Wahrnehmung oder durch ein besonderes Werkzeug wie ein Computerterminal, einen brodelnden Kessel oder eine Kristallkugel, kannst du das Ziel aus der Distanz sehen.
   effect: |
-    Du kannst eine Person oder ein Gebiet ausspionieren, mit dem du vertraut bist. Das Kraftlevel dieses Harmes bestimmt die maximale Distanz zwischen dir und dem Ziel. Falls der Harm erfolgreich gewirkt wird, kannst du alles hören und sehen, was in einem 60' Radius vom Ziel aus passiert. Jeder im Zielgebiet, der einen Entschlossenheit-Wert über dem Ergebnis deines Vorwissenwurfes hat, wird sich der ungesehenen Präsenz am Ort bewusst (egal, ob du mit deinem Wurf Erfolg hattest oder nicht). Bestimmte Kreaturen können in der Lage sich, deine Fernsicht zu identifizieren, falls sie solche Kräfte kennen.
+    Du kannst eine Person oder ein Gebiet ausspionieren, mit dem du vertraut bist. Das Kraftlevel dieses Harmes bestimmt die maximale Distanz zwischen dir und dem Ziel. Falls der Harm erfolgreich gewirkt wird, kannst du alles hören und sehen, was in einem 60' Radius vom Ziel aus passiert. Jeder im Zielgebiet, der einen Entschlossenheit-Wert über dem Ergebnis deines Vorwissenwurfes hat, wird sich der ungesehenen Präsenz am Ort bewusst (egal, ob du mit deinem Wurf Erfolg hattest oder nicht). Bestimmte Kreaturen können in der Lage sein, deine Fernsicht zu identifizieren, falls sie solche Kräfte kennen.
     <ul>
     <li><strong>Kraftlevel 5</strong> - 1 Meile oder weniger.</li>
     <li><strong>Kraftlevel 6</strong> - 100 Meilen oder weniger.</li>
     <li><strong>Kraftlevel 7</strong> - Mehr als 100 Meilen, aber in der gleichen Dimension oder auf der gleichen Realitätsebene.</li>
-    <li><strong>Kraftlevel 9</strong> - Jede Dimension oder Realitätsebene. (In andere Dimensionen zu blicken kann dich Abwägung des GM anderen Gefahren aussetzen)</li>
+    <li><strong>Kraftlevel 9</strong> - Jede Dimension oder Realitätsebene. (In andere Dimensionen zu blicken kann dich nach Abwägung des GM anderen Gefahren aussetzen)</li>
     </ul>
   special: |
     Wenn du diesen Harm erfolgreich wirkst kannst du zum Ende seiner Dauer einen Wurf auf Vorwissen machen, um zu versuchen, den Harm anhalten zu lassen. Bei Erfolg hält der Harm an, ohne die Wirkzeit erneut aufwenden zu müssen. Im Zielgebiet wird der Entschlossenheitswert der Betroffenen wieder mit deinem Wurfergebnis verglichen, um festzustellen, ob sie sich der Präsenz der Fernsicht bewusst werden.
     Du kannst Fernsicht beliebig oft auf das gleiche Ziel wirken, aber falls du deinen Aktionswurf zum Wirken verfehlst, ist das Ziel für die nächsten 24 Stunden immun.
+  effect_short: |
+    Du kannst eine Person oder ein Gebiet ausspionieren, mit dem du vertraut bist, wobei das Kraftlevel die maximale Distanz bestimmt. Jede Kreatur, deren Entschlossenheit deinen Wurf übersteigt, wird sich deiner ungesehenen Präsenz bewusst. Manche Kreaturen können deine Fernsicht genau identifizieren.
+    
+    *KL 5:* Reichweite von einer Meile oder weniger.\
+    *KL 6:* Reichweite von 100 Meilen oder weniger.\
+    *KL 7:* #sym.gt 100 Meilen, gleiche Dimension / Ebene.\
+    *KL 9:* Jede Distanz, jede Dimension / Ebene.
+  special_short: |
+    Bei Ende des Harms kannst du eine erneute Wirkung ohne weitere Wirkzeit versuchen.
+    Beliebige Wiederholungen möglich, aber bei Fehlschlag ist das Ziel 24h immun.
+  attack_short:
+  - Vorwissen vs. Entschlossenheit (Besonders)
 - !
   name: Furcht
   OGname: Fear
@@ -509,7 +647,14 @@
     In seinem Zug muss das betroffene Ziel seinen gesamten Zug nutzen, um sich so weit wie möglich von dir wegzubewegen. Es kann seine Aktionen zu nichts anderem verwenden und kann sich nicht willentlich näher zu dir bewegen, solange der Harm anhält.
   special: |
     Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel klar denken kann. Gleichzeitig kämpft der logische Teil des Geistes vom Ziel aber darum, die Kontrolle wiederzugewinnen. Am Ende jedes Zuges erhält das Ziel einen Widerstandswurf als kostenlose Aktion spezifisch gegen diesen Harm. Hat das Ziel mit dem Widerstehen Erfolg, so ist es für die nächste Stunde gegen alle weiteren Versuche durch dich, ihm Furcht einzuflößen, immun.
-    Wird dieser Harm durch Kraft gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus [Kapitel 7: Kampf](./../Kapitel-7_Kampf.md) bestimmen.
+    Wird dieser Harm durch Kraft gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus [Kapitel 7: Kampf](<../Kapitel-7_Kampf.md>) bestimmen.
+  effect_short: |
+    In seinem Zug muss das betroffene Ziel seinen gesamten Zug nutzen, um sich so weit wie möglich von dir wegzubewegen. Es kann seine Aktionen zu nichts anderem verwenden und kann sich nicht willentlich näher zu dir bewegen, solange der Harm anhält.
+  special_short: |
+    Am Ende seines Zuges erhält das Ziel einen Widerstandswurf als kostenlose Aktion spezifisch gegen diesen Harm. Widersteht das Ziel dem Harm durch einen Wurf, ist es für eine Stunde gegen weitere Wirkungen dieses Harms durch dich immun.\
+    Bei Wirkung mit Kraft als Attribut kannst du die Reichweite mit der Tabelle _Nicht-körperliche Angriffsreichweite_ aus _Kapitel 7: Kampf_ bestimmen.
+  attack_short:
+  - Schöpfung / Vergehen / Einfluss / Kraft vs. Entschlossenheit
 - !
   name: Geblendet
   OGname: Blinded
@@ -542,6 +687,17 @@
     Du blendest deinen Feind mit einer massiven Explosion, einer handvoll Sand, einem kalten Windstoß oder einem grellen Lichtblitz. Piraten, Sniper, Schurken und Nekromanten nutzen diesen Harm oft im Kampf.
   effect: |
     Das Ziel kann nicht sehen, solange der Effekt besteht. Das Ziel schlägt automatisch bei allen Wahrnehmungswürfen fehl, die sich nur auf seine Sehfähigkeit verlassen. Angriffswürfe und Wahrnehmungswürfe, die sich teilweise auf seine Sehfähigkeit verlassen erleiden Nachteil 5. Die Deckung des Ziels ist um 3 reduziert.
+  effect_short: |
+    Das Ziel kann nicht sehen, solange der Effekt besteht.
+
+    Das Ziel schlägt automatisch bei allen Wahrnehmungswürfen fehl, die sich nur auf seine Sehfähigkeit verlassen.
+
+    Angriffswürfe und Wahrnehmungswürfe, die sich teilweise auf seine Sehfähigkeit verlassen erleiden Nachteil 5.
+
+    Die Deckung des Ziels ist um 3 reduziert.
+  attack_short:
+  - Geschicklichkeit / Schöpfung / Energie vs. Deckung
+  - Vergehen vs. Zähigkeit
 - !
   name: Gedankenraub
   OGname: Mind Dredge
@@ -575,6 +731,17 @@
     </ul>
   special: |
     Hat dein Ziel Erfolg mit seinem Widerstandswurf gegen diesen Harm, wird es für die nächsten 24 Stunden immun gegen alle weiteren Versuche durch dich, es erneut mit diesem Harm zu belegen.
+  effect_short: |
+    Du erhälst Zugang zu den Gedanken des Ziels. KL 2 trifft nur Kreaturen tierischer Intel..
+  
+    *KL 2 & 4:* Zugang zu momentanen Gedanken.\
+    *KL 6:* Mom. Gedanken und neue Erinnerungen. 1 Tag der Vergangenheit pro Runde des Harmes.\
+    *KL 8:* Mom. Gedanken und ferne Erinnerungen. 1 Jahr der Vergangenheit pro Runde des Harmes. Alternativ spezifische Erinnerungen sehen, die mit einem bestimmten Ort, Objekt oder Ereignis verbunden sind.\
+    *KL 9:* Mom. Gedanken und alle Erinnerungen, egal wann. Gleiche Alternative wie KL 8.
+  special_short: |
+    Hat dein Ziel Erfolg mit seinem Widerstandswurf gegen diesen Harm, wird es für die nächsten 24 Stunden immun gegen alle weiteren Versuche durch dich, es erneut mit diesem Harm zu belegen.
+  attack_short:
+  - Vorwissen vs. Entschlossenheit
 - !
   name: Gedächtnismanipulation
   OGname: Memory Alteration
@@ -606,7 +773,20 @@
     Der Harm Gedächtnismanipulation kann nur durch einen Harmangriff zugefügt werden. Angriffe mit Schaden, die Harme bewirken, können diesen Harm nicht zufügen.
     Dieser Harm gibt dem wirkenden Charakter kein Wissen über den Inhalt der Erinnerungen des Ziels. Der wirkende Charakter muss sich über die Erinnerungen, die er oder sie verändern möchte, durch Gerüchte, persönliches Wissen, Voraussicht oder andere Wege bewusst sein.
   special: |
-    Denn du bei deinem Aktionswurf zum Zufügen dieses Harms fehlschlägst, ist das Ziel für die nächsten 24 Stunden immun gegen weitere Versuche durch dich, es mit diesem Harm zu belegen.
+    Wenn du bei deinem Aktionswurf zum Zufügen dieses Harms fehlschlägst, ist das Ziel für die nächsten 24 Stunden immun gegen weitere Versuche durch dich, es mit diesem Harm zu belegen.
+  effect_short: |
+    Du manipulierst die Erinnerungen des Ziels bestimmt durch das Kraftlevel des Harms.
+    
+    *KL 5:* Kleinen Aspekt verändern, Original kehrt nach 1 Stunde zurück, Ziel bemerkt den Harm.\
+    *KL 6:* Letzte 5 Minuten löschen oder verändern. Weitere Nutzungen löschen weitere 5 Minuten.\
+    *KL 8:* Beliebigen Zeitraum löschen oder ändern.
+    
+    Dieser Harm kann nur durch einen Harmangriff zugefügt werden. Der wirkende Charakter erfährt nichts über die Erinnerungen und kann nur solche manipulieren, von denen er weiß oder die er begründet vermutet.
+  special_short: |
+    Wenn du bei deinem Aktionswurf zum Zufügen dieses Harms fehlschlägst, ist das Ziel für die nächsten 24 Stunden immun gegen weitere Versuche durch dich, es mit diesem Harm zu belegen.
+  attack_short:
+  - Einfluss vs. Entschlossenheit
+  name_short: Gedächtnis- manipulation
 - !
   name: Immobilisiert
   OGname: Immobile
@@ -655,6 +835,18 @@
     Du kannst dich entscheiden, das Ziel als kostenlose Aktion freizugeben, was den Harm sofort beendet.
   special: |
     Hat ein betroffenes Ziel mit einem Widerstandswurf Erfolg, um diesen Harm zu brechen, kann es sich bis zu 15' als kostenlose Aktion bewegen.
+  effect_short: |
+    Das Ziel kann sich von seinem momentanen Platz nicht bewegen.
+    
+    Falls du den Harm mit Kraft und im Nahkampf gewirkt hast, bist auch du immobilisiert. Du kannst eine erneute Wirkung versuchen. Bei Erfolg kannst du dich bis zu deiner normalen Geschwindigkeit bewegen und das Ziel mitnehmen. Bei Fehlschlag kannst du nur dich selbst bewegen, wenn du den Harm abbrichst.
+    
+    Du kannst den Harm als kostenlose Aktion abbrechen, was das Ziel sofort freigibt.
+  special_short: |
+    Bricht das Ziel den Harm mit einem Widerstandswurf, kann es sich bis zu 15' als kostenlose Aktion bewegen.
+  attack_short:
+    - Geschicklichkeit / Wandlung / Kraft / Bewegung vs. Deckung
+    - Schöpfung / Energie / Vergehen vs. Zähigkeit
+    - Einfluss vs. Entschlossenheit
 - !
   name: Niedergeschlagen
   OGname: Knockdown
@@ -687,6 +879,17 @@
     Egal ob durch einen donnernden Schlag deiner Axt, einen überwältigenden Strahl von Energie oder einen kräftigen Stoß über eine unebene Stelle Boden, schlägst du das Ziel von seinen Füßen. Niedergeschlagen ist bei muskelbepackten Hooligans, Telekinetisten, Kampfmeistern und Erdelementalisten beliebt.
   effect: |
     Das Ziel fällt zu Boden. Ziele am Boden haben Nachteil 1 auf alle Angriffe, die sich ausführen. Charaktere, die am Boden liegen, haben +2 Deckung gegen Fernkampfangriffe und -2 Deckung auf Nahkampfangriffe. Aufzustehen bedarf einer Bewegungsaktion und kostet einen Charakter die Hälfte (abgerundet) seiner Geschwindigkeit für die Runde.
+  effect_short: |
+    Das Ziel fällt zu Boden.
+
+    Ziele am Boden haben Nachteil 1 auf alle Angriffe, die sich ausführen.
+
+    Charaktere, die am Boden liegen, haben +2 Deckung gegen Fernkampfangriffe und -2 Deckung auf Nahkampfangriffe.
+
+    Aufzustehen bedarf einer Bewegungsaktion und kostet einen Charakter die Hälfte (abgerundet) seiner Geschwindigkeit für die Runde.
+  attack_short:
+  - Geschicklichkeit / Energie / Kraft / Bewegung vs. Deckung
+  name_short: Nieder- geschlagen
 - !
   name: Phantom
   OGname: Phantasm
@@ -733,6 +936,17 @@
     Falls die Illusion eine Person, einen oder oder ein Objekt nachahmt, mit dem die wahrnehmenden Ziele sehr vertraut sind, kann der GM entscheiden, ob ihre Entschlossenheit-Verteidigung für diese Situation erhöht sein sollte.
     Charaktere, die von einem Phantom überzeugt sind, können normale Widerstandswürfe machen, um den Harm abzuschütteln. Falls sie Erfolg haben, werden sie nicht weiter durch die Illusion getäuscht. Weiterhin musst du jede Runde eine kleine Aktion nutzen, um den Harm aufrechtzuerhalten. Tust du dies nicht, löst sich das Phantom zum Ende deines Zuges auf.
     Hat ein betroffener Charakter mit seinem Widerstandswurf Erfolg, so ist er für 1 Stunde immun gegen alle weiteren Phantome, die von dir gewirkt werden.
+  effect_short: |
+    Du erschaffst ein Phantom deiner Wahl, wobei KL kummulativ betroffene Sinne und Größe der Illusion bestimmt.
+    
+    *KL 1:* Geschmackssinn, 5' Würfel.\
+    *KL 2:* Geruch, Hören und Berührung, 5' Würfel.\
+    *KL 3/4/5:* Sehsinn, 5'/10'/15' Würfel.\
+    *KL 6/7/8/9:* Alle Sinne, 15'/20'/30'/50' Würfel.
+  special_short: |
+    Wurfergebnis vs. Entschlossenheit aller, die die Illusion wahrnehmen könnten. Bei Erfolg empfindet das Ziel das Phantom als real. Bei Fehlschlag nimmt das Wesen die Illusion nicht wahr. Beim Nachahmen von Vertrautem können Ziele erhöhte Entschlossenheit haben. Normale Widerstandswürfe sind möglich und bei Erfolg ist der Charakter 1 Stunde immun. Du musst jede Runde eine kleine Aktion nutzen, um das Phantom aufrechtzuerhalten.
+  attack_short:
+  - Einfluss vs. Entschlossenheit
 - !
   name: Polymorph
   OGname: Polymorph
@@ -763,7 +977,18 @@
     <li><strong>Kraftlevel 8</strong> - Verwandle eine Kreatur in eine andere Kreatur von bis zu viertel oder vierfacher Größe. Alternativ kannst du die Kreatur in ein Objekt gleicher Größe verwandeln. Die neue Form kann die Attributwerte des Ziels um bis zu 5 reduzieren.</li>
     <li><strong>Kraftlevel 9</strong> - Verwandle eine Kreatur in eine andere Kreatur jeder beliebigen Größe. Alternativ kannst du die Kreatur in ein Objekt gleicher Größe verwandeln. Die neue Form kann die Attributwerte des Ziels um bis zu 7 reduzieren.</li>
     </ul>
-    Um seine Trefferpunkte im Blick zu behalten, sollte das Ziel den gesamten Schaden festhalten, den es erlitten hat. Bei der Verwandlung bleibt der Schaden erhalten, selbst wenn maximale Trefferpunkte sich verändern. Beispielsweise hat Agent Walker maximal 20 TP, wurde aber in ein Schaf verwandelt und hat so 2 Konstitutionspunkte verloren, weshalb sie jetzt nur noch maximal 16 TP hat. Im Kampf erleidet sie 10 Schaden. Als sie sich später zurückverwandelt, bleiben die 10 Schaden erhalten und werden von ihrem neuen Maximum subtrahiert, sodass sie 10 von 20 TP hat. Falls die Verwandlung die TP des Ziels auf weniger als 1 reduziert, wird das neue TP-Maximum stattdessen 1.
+    Um seine Trefferpunkte im Blick zu behalten, sollte das Ziel den gesamten Schaden festhalten, den es erlitten hat. Bei der Verwandlung bleibt der Schaden erhalten, selbst wenn maximale Trefferpunkte sich verändern. Beispielsweise hat Agent Walker maximal 20 TP, wurde aber in ein Schaf verwandelt und hat so 2 Konstitutionspunkte verloren, weshalb sie jetzt nur noch maximal 16 TP hat. Im Kampf erleidet sie 10 Schaden. Als sie sich später zurückverwandelt, bleiben die 10 Schaden erhalten und werden von ihrem neuen Maximum subtrahiert, sodass sie 10 von 20 TP hat. Falls die Verwandlung die TP des Ziels auf weniger als 1 reduzieren würde, werden die TP stattdessen auf 1 gesetzt.
+  effect_short: |
+    Du veränderst die Gestalt deines Ziels, wobei das Ausmaß vom KL abhängt. Falls du es in eine andere Kreatur verwandelst, nutzt das Ziel dessen Werte für Kraft, Geschicklichkeit, Konstitution und Wahrnehmung, allerdings mit Grenzen für die Veränderung.
+    
+    *KL 5:* Kreatur gleicher Größe, Werte max. -2.\
+    *KL 6:* Kreatur max. #sym.div/#sym.times 2 Größe, Werte max. -3.\
+    *KL 8:* Kreatur max. #sym.div/#sym.times 4 Größe ODER Objekt gleicher Größe, Attributwerte max. -5.\
+    *KL 9:* Kreatur beliebiger Größe ODER Objekt gleicher Größe, Attributwerte max. -7.
+
+    Der vom Ziel erlittene Schaden bleibt durch die Verwandlung (oder Rückverwandlung) hinweg gleich. Nach der Verwandlung wird der Schaden vom neuen TP-Maximum abgezogen. Falls die TP so unter 1 fallen würden, werden sie 1.
+  attack_short:
+    - Wandlung vs. Zähigkeit
 - !
   name: Provoziert
   OGname: Provoked
@@ -823,7 +1048,15 @@
     </ul>
   special: |
     Diesem Harm zu widerstehen ist eine kleine Aktion.
-    Wird dieser Harm mit Kraft oder Geschicklichkeit gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus [Kapitel 7: Kampf](./../Kapitel-7_Kampf.md) bestimmen.
+    Wird dieser Harm mit Kraft oder Geschicklichkeit gewirkt, kannst du die Reichweite mit der Tabelle *Nicht-körperliche Angriffsreichweite* aus [Kapitel 7: Kampf](<../Kapitel-7_Kampf.md>) bestimmen.
+  effect_short: |
+    Das Ziel hat Nachteil auf alle Angriffe, die nicht auf dich zielen. Bei mehrfachem _Provoziert_ haben Angriffe keinen Nachteil, wenn sie irgendeinen _Provoziert_ wirkenden Charakter angreifen. Dieser Harm kann bei einem Angriff gegen ein Ziel gewirkt werden, welches NICHT Ziel deines Angriffs ist. Dafür muss dein Wurf dessen Entschlossenheit übersteigen.
+    
+    *Nachteil:* Kraftlevel des Harms - 3
+  special_short: |
+    Diesem Harm zu Widerstehen ist eine kleine Aktion. Wird dieser Harm durch Geschicklichkeit oder Kraft gewirkt, kannst du die Reichweite mit der Tabelle _Nicht-körperliche Angriffsreichweite_ aus _Kapitel 7: Kampf_ bestimmen.
+  attack_short:
+    - Geschicklichkeit / Schöpfung / Täuschung / Energie / Einfluss / Kraft / Überzeugung / Präsenz vs. Entschlossenheit
 - !
   name: Taub
   OGname: Deafened
@@ -853,6 +1086,15 @@
     Du lässt deinen Feind nach einem Donnerschlag, schnellem Tritt gegen das Ohr oder dem Wirken von dunkler Magie taub zurück. Dieser Harm ist verbreitet bei Sturmmagiern, verrückten Wissenschaftlern und Assassinen.
   effect: |
     Das Ziel kann nichts hören, solange der Harm anhält. Das Ziel schlägt automatsich bei Wahrnehmungswürfen fehl, die sich auf das Gehör verlassen. Wahrnehmungswürfe, die sich teilweise auf das Gehör verlassen erleiden Nachteil 3.
+  effect_short: |
+    Das Ziel kann nichts hören, solange der Harm anhält.
+
+    Das Ziel schlägt automatsich bei Wahrnehmungswürfen fehl, die sich auf das Gehör verlassen.
+
+    Wahrnehmungswürfe, die sich teilweise auf das Gehör verlassen erleiden Nachteil 3.
+  attack_short:
+  - Geschicklichkeit vs. Deckung
+  - Energie / Vergehen vs. Zähigkeit
 - !
   name: Tod
   OGname: Death
@@ -882,6 +1124,14 @@
     Falls das Ziel bei drei Widerstandswürfen gegen diesen Harm fehlschlägt, stirbt es. Der Tod ist permanent und kann nur auf Zustimmung des GM durch eine besondere Mission, seltene Technologie oder lang vergessene Magie wieder aufgehoben werden.
   special: |
     Während die meisten Harme anhalten, bis das Ziel aktiv versucht, ihnen zu widerstehen, verhindert dieser Harm, dass das Ziel Aktionen ausführt und so auch, dass es dem Harm entkommen kann. Der Körper des Ziels kämpft aber instinktiv gegen die Wirkung des Harms an und versucht, dem kommenden Tod zu widerstehen. Am Ende jedes Zuges des Ziels erhält das Ziel einen Widerstandswurf als kostenlose Aktion, um diesem Harm zu widerstehen. Hat das Ziel Erfolg bei einem Widerstandswurf gegen diesen Harm, ist es danach für 24 Stunden immun gegen weitere Versuche durch dich, diesen Harm auf es zu wirken. 
+  effect_short: |
+    Beim erfolgreichen Wirken des Harms wird das Ziel sofort immobilisiert, bewusstlos und kann keine Aktionen ausführen. Es hat Nachteil 5 auf alle Wahrnehmungswürfe und alle Angriffe gegen es zählen als Gnadenstoß.
+    
+    Falls das Ziel bei drei Widerstandswürfen gegen diesen Harm fehlschlägt, stirbt es. Der Tod ist permanent und kann nur auf Zustimmung des GM durch eine besondere Mission, Technologie oder Magie aufgehoben werden.
+  special_short: |
+    Am Ende seines Zuges erhält das Ziel einen Widerstandswurf als kostenlose Aktion spezifisch gegen diesen Harm. Widersteht das Ziel dem Harm durch einen Wurf, ist es für 24 Stunden gegen weitere Wirkungen dieses Harms durch dich immun.
+  attack_short:
+    - Geschicklichkeit / Vergehen vs. Zähigkeit
 - !
   name: Verlangsamt
   OGname: Slowed
@@ -917,6 +1167,14 @@
     Die Bewegung des Ziels ist erschwert, z.B. durch extreme Kälte, andauernde Hitze, Gift oder die Verwundung beider Beine. Diesen Harm findet man bei Schurken, Eismagiern, Telekinetisten und Revolverhelden.
   effect: |
     Die Geschwindigkeit des betroffenen Ziels ist um die Hälfte reduziert, abgerundet zum nächsten Vielfachen von 5'. Das gilt für alle körperliche Bewegung (Flug, Laufen, Klettern, usw. ...). Falls das Ziel momentan einen magischen Effekt hat, der seine Geschwindigkeit erhöht, neutralisieren sich beide Effekte, solange sie auf das Ziel wirken.
+  effect_short: |
+    Die Geschwindigkeit des betroffenen Ziels ist um die Hälfte reduziert, abgerundet zum nächsten Vielfachen von 5'.
+
+    Das gilt für alle körperliche Bewegung (Flug, Laufen, Klettern, usw. ...).
+
+    Falls das Ziel momentan einen magischen Effekt hat, der seine Geschwindigkeit erhöht, neutralisieren sich beide Effekte, solange sie auf das Ziel wirken.
+  attack_short:
+  - Geschicklichkeit / Energie / Vergehen / Kraft / Bewegung vs. Deckung
 - !
   name: Verstummt
   OGname: Silenced
@@ -948,7 +1206,13 @@
   description: |
     Stille breitet sich um das Ziel aus, egal ob durch das Manipulieren von Schallwellen um das Ziel oder physischen Effekten wie Erwürgen oder Ersticken. Der Harm Verstummt ist verbreitet bei Assassinen, Zauberern, Ingenieuren und verrückten Wissenschaftlern.
   effect: |
-    Falls Kraft, Geschicklichkeit oder Vergehen benutzt wurden, um diesen Harm zu wirken, leidet der Charakter und Erwürgung und kann nicht sprechen. Falls der Harm mit Wandlung gewirkt wurde, dann erlischt aller Klang innerhalb von 5' um das Ziel durch außergewöhnliche Mittel, sodass z.B. ihre Schritte stumm sind und das Klappern von Ausrüstung nicht gehört werden kann.
+    Falls Kraft, Geschicklichkeit oder Vergehen benutzt wurden, um diesen Harm zu wirken, leidet der Charakter unter Erwürgung und kann nicht sprechen. Falls der Harm mit Wandlung gewirkt wurde, dann erlischt aller Klang innerhalb von 5' um das Ziel durch außergewöhnliche Mittel, sodass z.B. seine Stimme nicht mehr gehört werden kann oder Versuche, Lärm zu machen, erfolglos bleiben.
+  effect_short: |
+    Falls Kraft, Geschicklichkeit oder Vergehen benutzt wurden, um diesen Harm zu wirken, leidet der Charakter und Erwürgung und kann nicht sprechen.
+
+    Falls der Harm mit Wandlung gewirkt wurde, dann erlischt aller Klang innerhalb von 5' um das Ziel durch außergewöhnliche Mittel, sodass z.B. seine Stimme nicht mehr gehört werden kann oder Versuche, Lärm zu machen erfolglos bleiben.
+  attack_short:
+  - Geschicklichkeit / Wandlung / Vergehen / Kraft vs. Zähigkeit
 - !
   name: Wahrheitsgebunden
   OGname: Truthfulness
@@ -973,3 +1237,11 @@
   special: |
     Wenn du den Harm erfolgreich wirkst, kannst du zum Ende seiner Dauer einen weiteren Einflusswurf machen, um den Harm zu verlängern. Bei Erfolg hält der Harm an, ohne dass du erneut die Wirkzeit aufbringen musst.
     Hat ein Ziel beim bestrittenen Wurf Willenskraft gegen deinen Einfluss Erfolg, wird es 24 Stunden gegen deine Wirkung dieses Harms immun.
+  effect_short: |
+    Das Ziel beantwortet alle Fragen so gut es kann ehrlich. Falls eine Antwort etwas enthüllen würde, was das Ziel normalerweise verborgen halten wollte, macht das Ziel einen Willenskraftwurf gegen einen Einflusswurf durch dich. Falls der Willenskraftwurf höher ist, widersteht das Ziel dem Harm und der Effekt wird aufgelöst.
+  special_short: |
+    Wenn du den Harm erfolgreich wirkst, kannst du zum Ende seiner Dauer einen weiteren Einflusswurf machen, um den Harm zu verlängern. Bei Erfolg hält der Harm an, ohne dass du erneut die Wirkzeit aufbringen musst.
+    Hat ein Ziel beim bestrittenen Wurf Willenskraft gegen deinen Einfluss Erfolg, wird es 24 Stunden gegen deine Wirkung dieses Harms immun.
+  attack_short:
+  - Einfluss vs. Entschlossenheit
+  name_short: Wahrheits- gebunden
