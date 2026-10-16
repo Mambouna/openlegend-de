@@ -18,8 +18,12 @@ Für den einfachen Einstieg oder etwas Inspiration beim eigenen Tüfteln stehen 
 
 Um einen solchen zu benutzen, musst du dir nur einen Namen überlegen, Charakterstärken und -schwächen wählen und das Äußere deines Charakters festlegen. Dabei gibt es keine Einschränkungen durch die Spielregeln. Ein Zwerg kann ein wendiger Assassine sein oder eine fluffige Alienspezies ein rasender Leerendämon.
 
-### Stand der Regeln
-Alle Kapitel und Listen des Regelwerkes sind vollständig übersetzt. Die meisten Übersetzungen sind finalisiert. Bei manchen Begriffen wurde keine vollständig befriedigende Übersetzung gefunden. Anmerkungen, Hinweise auf Fehler und Änderungsvorschläge sind weiterhin willkommen.
+### Dateien zum Ausdrucken
+Eine Reihe druckbare Dateien im A4-Format stehen [hier](<./Ausdrucken/README.md>) zur Verfügung, darunter Charakterbögen, Regelreferenzen für Spieler\*innen und GMs und der gesamte Regeltext nochmal als druckbares Buch formatiert.
+
+Alle Druckdateien sind für Heimdrucker oder Copyshops geeignet, da sie sich auf schwarz-weiß beschränken und große Blockflächen vermeiden, die viel Tinte nutzen.
+
+Für das druckbare Regelbuch gilt  außerdem LadyofHats ein riesiges Dankeschön, da sie freundlicherweise die Illustrationen gemalt und gemeinfrei veröffentlicht hat.
 
 ## English
 German translation of the rules of the open-source TTRPG system Open Legend.
@@ -36,8 +40,12 @@ To be able to jump right into play or give you inspiration when building yoursel
 
 To use one of these, simply choose a name, pick perks and flaws and think of an appearance for your character. There are no restriction on this in the rules. A dwarf can be a nimble assassin and a fluffy alien race a raging demon from the void.
 
-### State of the rules
-All chapters and listings of the rules have been fully translated. Most of the translations are finalized. A perfect translation has not been found for every single word though. Thoughts, notice of any errors or suggestions for changes continue to be appreciated.
+### Printable files
+A number of printable files are available [here](<./Ausdrucken/README.md>) in A4-format, among them character sheets, rules-references for players and GMs as well as the full rulestext formatted as a printable book.
+
+All printable files are suited for home printers or copy-shops, sticking to black and white and avoiding large solid color blocks that use a lot of ink.
+
+For the printable rulebook, LadyofHats deserves a massive thank you, since she was kind enough to draw the illustrations and release them into the public domain.
 
 ## License Notice
 License Notice of the Open Legend Community Notice:  
