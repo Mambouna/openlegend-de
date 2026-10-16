@@ -14,6 +14,7 @@ ___
 *Eine Elfenmaid, hochgewachsen und in Kampfkleidung gewandt, antwortet: "Ich werde keinen Barden von Luthiel der Feigen singen lassen, die sich Orkabschaum ergeben hat, während sie noch atmete."*
 
 *Während Elfe und Zwerg sich streiten, erhebt sich ein grauhaariger Mann, gekleidet in Smaragd, auf einem Fels in der Mitte der Ruinen. Seine Augen durchbohren die Distanz zur goldenen Sonne, die sich dem Horizont neigt, wie scharfe Dolche. Mit einem verborgenen Lächeln hebt er seinen verzogenen Eichenstab zum Himmel, unter dem sich Sturmwolken sammeln, die mit dem Zorn der Natur knistern. "Gentleman, Lady..." spricht der Druide mit dezentem Selbstbewusstsein, "Ich glaube, die Winde haben sich zu unserem Vorteil gewandt."*
+
 ## Warum Open Legend?
 Falls du schon mal Rollenspiele gespielt hast, fragst du dich vielleicht *Was macht Open Legend meiner Zeit wert? Was macht es anders?*
 
@@ -86,7 +87,7 @@ Summiere alle Würfelergebnisse um das Gesamtergebnis deines Aktionswurfes zu be
 	</tr>
 </table>
 
-> #### Beispiel Aktionswurf
+> #### Beispiel: Aktionswurf
 > Eine Abenteurergruppe reist durch den Dunkelwald, der von bösartiger Energie durchzogen und zu jeder Zeit in Schatten gehüllt ist. Die Gruppe erspäht eine Sammlung an Lichtern durch den Dunst in der Ferne. Gleichzeitig nähert sich ein Schattendämon ungesehen hinter den Helden. Der GM fordert von Imladril - der Elfenwaldläuferin am Ende der Gruppenformation - einen Wahrnehmungswurf gegen einen Herausforderungswert von 18. Imladrils Wahrnehmungswert ist 5 und gibt ihm so 2d6 Bonuswürfel für Aktionswürfe auf Wahrnehmung. Er greift also nach 1d20 + 2d6 und lässt die Würfel rollen.
 > 
 > Imladril würfelt eine 7 auf dem d20 und die d6er zeigen 1 und 6. Da die 6 explodiert, wird der Würfel erneut geworfen und zeigt nun 3. Das Gesamtergebnis ist 17 (7 + 1 + 6 + 3), was knapp den Herausforderungswert von 18 verfehlt. Der GM entscheidet sich, dass Imladril **mit einem Haken Erfolg hat**, sodass Imladril den Dämon rechtzeitig kommen hört, um die Gruppe zu warnen. Der Dämon ist aber schon nah genug, ihr den Bogen aus den Händen zu reißen, bevor der Kampf beginnt.

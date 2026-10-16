@@ -656,7 +656,7 @@
 
     Falls die Lichtfläche sich mit der Fläche eines Dunkelheitswohls überschneidet, wirkt das Wohl mit dem größeren Kraftlevel.
 
-    Falls beide das gleiche Kraftlevel haben, herrschen in der von beiden betroffenen Fläche wieder das ohne die Wohle herrschende Lichtumstände.
+    Falls beide das gleiche Kraftlevel haben, herrschen in der von beiden betroffenen Fläche wieder die ohne die Wohle herrschenden Lichtumstände.
 - !
   name: Objekt absorbieren
   OGname: Absorb Object
@@ -875,13 +875,13 @@
   effect_short: |
     Du und dein Ziel können miteinander durch einfaches Denken kommunizieren. Sprach- oder Intelligenzbarrieren der Kommunikation bleiben bestehen.
 
-    *KL 3:* Telepathische Kommunikation zu einer einzigen Kreatur tierischer Intelligenz. Die Kreatur versteht nur ihr bekannte Konzepte. \
-    *KL 5:* Telepathische Kommunikation zu einer einzigen Kreatur humanoider Intelligenz.\
-    *KL 6:* Gegenseitiges Kommunikationsnetzwerk mit bis zu fünf Kreaturen humanoider Intelligenz.\
+    *KL 3:* Telepathische Kommunikation zu einer einzigen Kreatur tierischer Intelligenz. Die Kreatur versteht nur ihr bekannte Konzepte.
+
+    *KL 5:* Telepathische Kommunikation zu einer einzigen Kreatur humanoider Intelligenz.
+
+    *KL 6:* Gegenseitiges Kommunikationsnetzwerk mit bis zu fünf Kreaturen humanoider Intelligenz.
+
     *KL 7:* Telephatische Kommunikation mit allen Kreaturen jeder Intelligenz, die du sehen kannst.
-
-    TODO
-
 - !
   name: Teleportation
   OGname: Teleport
@@ -988,9 +988,11 @@
     Das Ziel kann eine befreundete Kreatur sein, darunter Tiere, Biester und Humanoide.
 
     Die maximale Distanz der Verbindung hängt vom Kraftlevel dieses Wohls ab.
-    
-    *KL 4:* Das Ziel muss innerhalb von 100' bleiben.\
-    *KL 5:* Das Ziel muss innerhalb 1 Meile bleiben.\
+
+    *KL 4:* Das Ziel muss innerhalb von 100' bleiben.
+
+    *KL 5:* Das Ziel muss innerhalb 1 Meile bleiben.
+
     *KL 6:* Das Ziel muss in der gleichen Dimension / Realitätsebene bleiben.
   special_short: |
     Falls dein Aktionswurf fehlschlägt, kannst du mit diesem Wohl für 1 Stunde nicht den gleichen Verbündeten als Ziel wählen.

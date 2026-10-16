@@ -358,7 +358,7 @@ Nachdem du die besondere Eigenschaft deines Gegenstände beschrieben hast, erste
 	- Ein guter Weg, zu entscheiden, wie groß der Modifikator sein soll, ist es, die Eigenschaft mit Harmen oder Wohlen ähnlichen Effektes zu vergleichen. Daraufhin kannst du die Tabelle aus Schritt 1 benutzen, um einen ähnlichen Modifikator anhand des passenden Kraftlevels dieses Harms oder Wohls zu wählen.
 - **Schränkt sie ein?** Mindert die Eigenschaft die Effektivität einer anderen Fähigkeit oder ist sonst nur in sehr spezifischen Situationen nützlich? Falls ja, Wohlstandswert -1.
 
-> ### BeispielGegenstände mit besonderen Eigenschaften
+> ### Beispiel: Gegenstände mit besonderen Eigenschaften
 > #### Hydraulische Schubimplantate
 > Jeder Sprung zählt für dich als Sprung mit Anlauf und deine Sprungdistanz ist verdoppelt.
 > 

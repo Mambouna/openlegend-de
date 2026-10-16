@@ -88,7 +88,7 @@ Diese drei Schritte werden noch in größerem Detail erklärt.
 		<td><b>Wurfergebnis des Angriffswurfes - Verteidigung des Ziels = zugefügter Schaden</b> <i> (mindestens 3 bei Erfolg)</i></td>
 	</tr>
 	<tr>
-		<td><b><i>Herausragender Erfolg:</b> Falls du die Verteidigung um 10 oder mehr übertriffst, wirke einen Harm oder breche die Konzentration des Gegners.</i></td>
+		<td><i><b>Herausragender Erfolg:</b> Falls du die Verteidigung um 10 oder mehr übertriffst, wirke einen Harm oder breche die Konzentration des Gegners.</i></td>
 	</tr>
 </table>
 ##### Attribut vs. Verteidigung feststellen

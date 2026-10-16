@@ -33,7 +33,7 @@ Jede Beschreibung eines Harmes enthält die folgenden Elemente:
 
 **Beschreibung.** Dieser Eintrag gibt einfach eine grundlegende Idee davon, wie der Harm im Kontext der Geschichte aussehen könnte.
 
-**Effekt.** Dieser Eintrag führt den spielmechanischen Einfluss des Harmes nach den Regeln auf. Manche Harme haben zusätzlich noch eine Sektion Besonders mit erweiterten spielmechanischen Auswirkungen.
+**Effekt.** Dieser Eintrag führt den spielmechanischen Einfluss des Harmes nach den Regeln auf. Manche Harme haben zusätzlich noch eine Sektion _Besonders_ mit erweiterten spielmechanischen Auswirkungen.
 ### Die Beschreibung eines Wohles lesen
 Die vollständige Liste an Wohlen kann [hier](<./Listen/Wohle.md>) gefunden werden.
 
@@ -49,6 +49,6 @@ Jede Beschreibung eines Wohls enthält die folgenden Elemente:
 
 **Beschreibung.** Dieser Eintrag gibt einfach eine grundlegende Idee davon, wie das Wohl im Kontext der Geschichte aussehen könnte.
 
-**Effekt.** Dieser Eintrag führt den spielmechanischen Einfluss des Wohls nach den Regeln auf. Manche Wohle haben zusätzlich noch eine Sektion Besonders mit erweiterten spielmechanischen Auswirkungen.
+**Effekt.** Dieser Eintrag führt den spielmechanischen Einfluss des Wohls nach den Regeln auf. Manche Wohle haben zusätzlich noch eine Sektion _Besonders_ mit erweiterten spielmechanischen Auswirkungen.
 
 [Kapitel 2: Aktionen und Attribute](<./Kapitel-2_Aktionen-und-Attribute.md>) | [Inhaltsverzeichnis](<./Inhaltsverzeichnis.md>) | [Kapitel 4: Fertigkeiten](<./Kapitel-4_Fertigkeiten.md>)

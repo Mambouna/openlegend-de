@@ -3,8 +3,7 @@
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Keine
-- **Rang 2:** Keine
+- **Rang 1, 2:** Keine
 
 **Beschreibung**  
 Du hast die Fähigkeit, dich von einer Gestalt in eine andere zu verwandeln, egal ob durch körperliche Transformation wie bei einem Werwolf oder durch externe Mechanisemen, wie einem cybernetischen Supersoldaten, der einen symbiotischen Mechanzug hervorrufen kann.
@@ -52,15 +51,9 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Geschicklichkeit 3 / Kraft 3 / Beliebiges Außergewöhnliches 3
-- **Rang 2:** Geschicklichkeit 3 / Kraft 3 / Beliebiges Außergewöhnliches 3
-- **Rang 3:** Geschicklichkeit 3 / Kraft 3 / Beliebiges Außergewöhnliches 3
-- **Rang 4:** Geschicklichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
-- **Rang 5:** Geschicklichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
-- **Rang 6:** Geschicklichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
-- **Rang 7:** Geschicklichkeit 7 / Kraft 7 / Beliebiges Außergewöhnliches 7
-- **Rang 8:** Geschicklichkeit 7 / Kraft 7 / Beliebiges Außergewöhnliches 7
-- **Rang 9:** Geschicklichkeit 7 / Kraft 7 / Beliebiges Außergewöhnliches 7
+- **Rang 1, 2, 3:** Geschicklichkeit 3 / Kraft 3 / Beliebiges Außergewöhnliches 3
+- **Rang 4, 5, 6:** Geschicklichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
+- **Rang 7, 8, 9:** Geschicklichkeit 7 / Kraft 7 / Beliebiges Außergewöhnliches 7
 
 **Beschreibung**  
 Wie ein Samurai, der die Kunst seines Katana gemeistert hat oder ein Elementalist, der auf Flammenbeschwörungen spezialisiert ist, bist auch du in einer bestimmten Art von Angriff besonder gut trainiert, mit der du deine Feinde effektiver dezimieren kannst als ein durchschnittlicher Kämpfer.
@@ -82,8 +75,7 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Keine
-- **Rang 2:** Keine
+- **Rang 1, 2:** Keine
 
 **Beschreibung**  
 Dein Können mit einem außergewöhnlichen, geistigen oder sozialen Attribut ist mit einem anderen auf besondere Weise verbunden, sodass du es für Aufgaben nutzen kannst, die normalerweise mit dem anderen Attribut angegangen werden müssten. Beispiele von Attributsubstitution im Spiel wären z.B. ein Krieger, der körperlich schwach ist, seine Feinde aber mit internem Chi werfen und außer Gefecht setzen kann, ein Anatomiegenie, das Feinde durch logisch hergeleitetes Zielen auf Schwachpunkte anstatt durch Geschicklichkeit niederstreckt oder eine Revolverheldin, deren Zielsicherheit das Resultat eines dunklen Paktes ist.
@@ -177,9 +169,7 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Beliebiges Außergewöhnliches 5 / Lernen 5 / Logik 5
-- **Rang 2:** Beliebiges Außergewöhnliches 5 / Lernen 5 / Logik 5
-- **Rang 3:** Beliebiges Außergewöhnliches 5 / Lernen 5 / Logik 5
+- **Rang 1, 2, 3:** Beliebiges Außergewöhnliches 5 / Lernen 5 / Logik 5
 
 **Beschreibung**  
 Du bist in der Lage, Gegenstände mit magischer Energie zu durchdringen, futuristische Technologie zu schaffen, Tränke zu brauen oder außergewöhnliche Geräte zu bauen. Ihre Macht ist permanent, aber abhängig von deiner Expertise.
@@ -231,11 +221,8 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Geschicklichkeit 2 / Vorwissen 2
-- **Rang 2:** Geschicklichkeit 2 / Vorwissen 2
-- **Rang 3:** Geschicklichkeit 4 / Vorwissen 4
-- **Rang 4:** Geschicklichkeit 4 / Vorwissen 4
-- **Rang 5:** Geschicklichkeit 4 / Vorwissen 4
+- **Rang 1, 2:** Geschicklichkeit 2 / Vorwissen 2
+- **Rang 3, 4, 5:** Geschicklichkeit 4 / Vorwissen 4
 
 **Beschreibung**  
 Du bist allzeit bereit, sodass du deinen Feinden oft zuvorkommst. Ein Revolverheld mit flinken Fingern oder ein Spion, der immer bereit für einen Hinterhalt ist, sind gute Beispiele dieser Fertigkeit.
@@ -289,15 +276,9 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Geschicklichkeit 3
-- **Rang 2:** Geschicklichkeit 3
-- **Rang 3:** Geschicklichkeit 3
-- **Rang 4:** Geschicklichkeit 5
-- **Rang 5:** Geschicklichkeit 5
-- **Rang 6:** Geschicklichkeit 5
-- **Rang 7:** Geschicklichkeit 7
-- **Rang 8:** Geschicklichkeit 7
-- **Rang 9:** Geschicklichkeit 7
+- **Rang 1, 2, 3:** Geschicklichkeit 3
+- **Rang 4, 5, 6:** Geschicklichkeit 5
+- **Rang 7, 8, 9:** Geschicklichkeit 7
 
 **Beschreibung**  
 Du bist ein Paragon des defensiven Kampfes, der meisterhaft gegnerische Attacken abwendet. Indem du die Bewegungen, Streiche oder Schüsse deiner Feinde voraussiehst, kannst du sie unterbinden, bevor sie zur Gefahr werden.
@@ -315,11 +296,7 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Konstitution 5 / Willenskraft 5
-- **Rang 2:** Konstitution 5 / Willenskraft 5
-- **Rang 3:** Konstitution 5 / Willenskraft 5
-- **Rang 4:** Konstitution 5 / Willenskraft 5
-- **Rang 5:** Konstitution 5 / Willenskraft 5
+- **Rang 1, 2, 3, 4, 5:** Konstitution 5 / Willenskraft 5
 
 **Beschreibung**  
 Deine Ausdauer und Willenskraft sind legendär, sodass du weitermachen kannst, wenn andere schon einbrechen. Ein Barbar, der unermüdlich schlachtet oder ein Hacker, der tagelang ein einziges Ziel verfolgen kann, sind gute Beispiele dieser Fertigkeit.
@@ -355,10 +332,7 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Keine
-- **Rang 2:** Keine
-- **Rang 3:** Keine
-- **Rang 4:** Keine
+- **Rang 1, 2, 3, 4:** Keine
 
 **Beschreibung**  
 Ob durch angeborene Abstammungsfähigkeiten, Spezialisierung in einer bestimmten Art Energie oder inhärentem außergewöhnlichem Schutz, bist du restent gegen eine bestimmte Art Energie. Eine Feuermagierin ist immun gegen die heißesten Flammen oder ein biologisch anormales Alien bleibt von Giften unberührt.
@@ -385,9 +359,7 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Keine
-- **Rang 2:** Keine
-- **Rang 3:** Keine
+- **Rang 1, 2, 3:** Keine
 
 **Beschreibung**  
 Dein Fokus ist messerschaft, sodass du dich darauf konzentrieren kannst, mehrere außergewöhnliche Effekte gleichzeitig aufrechtzuerhalten. Diese Fertigkeit ist bei Charakteren verbreitet, die darauf ausgelegt sich, sich und andere zu verstärken, z.B. Barden, Platoonführer oder Ingenieure.
@@ -405,15 +377,7 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Keine
-- **Rang 2:** Keine
-- **Rang 3:** Keine
-- **Rang 4:** Keine
-- **Rang 5:** Keine
-- **Rang 6:** Keine
-- **Rang 7:** Keine
-- **Rang 8:** Keine
-- **Rang 9:** Keine
+- **Rang 1, 2, 3, 4, 5, 6, 7, 8, 9:** Keine
 
 **Beschreibung**  
 Du bist darauf spezialisiert, gegen eine bestimmte Spezies, Abstammung oder Fraktion zu kämpfen. Vielleicht wurde deine Familie von Werwölfen getötet und du hast dich seitdem in all ihren Stärken und Schwächen geschult, um sie zu jagen. Vielleicht wurde in einem Gefängnis auf Vogax Prime aufgezogen und kennst die Vogax daher besser als sie sich selbst.
@@ -434,8 +398,7 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Geschicklichkeit 4
-- **Rang 2:** Geschicklichkeit 4
+- **Rang 1, 2:** Geschicklichkeit 4
 
 **Beschreibung**  
 Du bist so anmutig wie ein Schwan. Wie die Krieger und draufgängerische Helden aus den Legenden kannst du unbeschadet aus großen Höhen fallen.
@@ -512,11 +475,7 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Keine
-- **Rang 2:** Keine
-- **Rang 3:** Keine
-- **Rang 4:** Keine
-- **Rang 5:** Keine
+- **Rang 1, 2, 3, 4, 5:** Keine
 
 **Beschreibung**  
 Du hast Adleraugen, Ausdauer wie eine Stier, den Witz eines Fuchses oder eine ähnlich beeindruckende Fähigkeit außerhalb von Kämpfen. Eventuell hast du hart trainiert, lang gelernt oder einfach ein angeborenes Talent.
@@ -555,11 +514,7 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Keine
-- **Rang 2:** Keine
-- **Rang 3:** Keine
-- **Rang 4:** Keine
-- **Rang 5:** Keine
+- **Rang 1, 2, 3, 4, 5:** Keine
 
 **Beschreibung**  
 Egal, ob du dein vollautomatisches Sturmgewehr für dich sprechen lässt oder eine Flammenkugel wirfst, bist du besonders präzise darin, die Ziele deiner Flächenattacken anzuvisieren, sodass du Verbündete im Gebiet nicht im Kreuzfeuer hast.
@@ -577,9 +532,7 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Keine
-- **Rang 2:** Keine
-- **Rang 3:** Keine
+- **Rang 1, 2, 3:** Keine
 
 **Beschreibung**  
 Ob es sich um einen Bodyguard, treues Tier oder einen Bruder handelt, der dir überall hin folgt, du hast einen konstanten und vollständig loyalen Gefährtencharakter.
@@ -860,12 +813,7 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Keine
-- **Rang 2:** Keine
-- **Rang 3:** Keine
-- **Rang 4:** Keine
-- **Rang 5:** Keine
-- **Rang 6:** Keine
+- **Rang 1, 2, 3, 4, 5, 6:** Keine
 
 **Beschreibung**  
 Ob du deine Schläge blitzschnell niederregnen lässt, zwei Waffen führst oder einen Kugelblitz vom Himmel beschwörst, hast du die Kunst gemeistert, viele Angriffe gleichzeitig auszuführen.
@@ -908,11 +856,7 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Keine
-- **Rang 2:** Keine
-- **Rang 3:** Keine
-- **Rang 4:** Keine
-- **Rang 5:** Keine
+- **Rang 1, 2, 3, 4, 5:** Keine
 
 **Beschreibung**  
 Du bist ein Meister darin, viele Feinde gleichzeitig niederzustrecken, sei es mit einem Wirbel deiner Zwillingsschwerter, einem Kugelhagel, einer Welle psionischer Energie oder einem vernichtenden Feuerball.
@@ -951,15 +895,7 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Keine
-- **Rang 2:** Keine
-- **Rang 3:** Keine
-- **Rang 4:** Keine
-- **Rang 5:** Keine
-- **Rang 6:** Keine
-- **Rang 7:** Keine
-- **Rang 8:** Keine
-- **Rang 9:** Keine
+- **Rang 1, 2, 3, 4, 5, 6, 7, 8, 9:** Keine
 
 **Beschreibung**  
 Du bist ein Meister darin, Wohle auf mehrere Verbündete zu wirken. Eine Massenteleportation in eine andere Dimension  wäre eine Beispiel dieser Fertigkeit im Spiel.
@@ -1002,8 +938,7 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Lernen 3 / Logik 3
-- **Rang 2:** Lernen 3 / Logik 3
+- **Rang 1, 2:** Lernen 3 / Logik 3
 
 **Beschreibung**  
 Du hast ein bestimmtes Handwerk gemeistert, sodass du mit der nötigen Zeit und Materialien Gegenstände aus diesem Gewerbe erschaffen kannst. Du könntest ein gekonnter Schmied sein, professioneller Ingenieur, Meisteralchemist oder jede andere Art Profession.
@@ -1136,8 +1071,7 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Keine
-- **Rang 2:** Keine
+- **Rang 1, 2:** Keine
 
 **Beschreibung**  
 Ob du ein schwer gepanzerter Mecharitter bist oder ein flinker Schurke in gestutztem Leder, sind du und deine Rüstung eins. Dein Training und deine Erfahrung im Tragen von Rüstung erlauben es dir, ihren Schutzt zu maximieren und ihre Nachteile zu minimieren.
@@ -1159,11 +1093,7 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Geschicklichkeit 4 / Kraft 4
-- **Rang 2:** Geschicklichkeit 4 / Kraft 4
-- **Rang 3:** Geschicklichkeit 4 / Kraft 4
-- **Rang 4:** Geschicklichkeit 4 / Kraft 4
-- **Rang 5:** Geschicklichkeit 4 / Kraft 4
+- **Rang 1, 2, 3, 4, 5:** Geschicklichkeit 4 / Kraft 4
 
 **Beschreibung**  
 Deine Fähigkeiten auf dem Schlachtfeld erlauben es dir, Chancen zu ergreifen, die andere übersehen, sodass du tödlicher im Nahkampf bist. Deine Feinde tun sich schwer, sich im Kampf um dich herum zu bewegen, egal ob du mit Axt, Plasmaklinge oder bloßen Fäusten kämpfst.
@@ -1313,15 +1243,9 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Geschicklichkeit 3
-- **Rang 2:** Geschicklichkeit 3
-- **Rang 3:** Geschicklichkeit 3
-- **Rang 4:** Geschicklichkeit 5
-- **Rang 5:** Geschicklichkeit 5
-- **Rang 6:** Geschicklichkeit 5
-- **Rang 7:** Geschicklichkeit 7
-- **Rang 8:** Geschicklichkeit 7
-- **Rang 9:** Geschicklichkeit 7
+- **Rang 1, 2, 3:** Geschicklichkeit 3
+- **Rang 4, 5, 6:** Geschicklichkeit 5
+- **Rang 7, 8, 9:** Geschicklichkeit 7
 
 **Beschreibung**  
 Hochtrainierte Sniper, legendäre Ninja oder Nahkampfderwische können Feinde mit präzise platzierten Vorstößen ausschalten, wenn sie sie kalt erwischen.
@@ -1507,9 +1431,7 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Keine
-- **Rang 2:** Keine
-- **Rang 3:** Keine
+- **Rang 1, 2, 3:** Keine
 
 **Beschreibung**  
 Eingängige Studien oder jahrelange Erfahrung geben dir ein Wissen über ein bestimmtes Thema, das deine generelle Intelligenz weit übersteigt. Ein Navigator kennt die galaktische Karte in-und-auswendig, ein Barbarenlord hat lebenslage Erfahrung in Militärstrategie und ein Professor des Abnormalen wären alle Beispiele dieser Fertigkeit.
@@ -1552,9 +1474,7 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Fähigkeit, das gewählte Wohl zu wirken
-- **Rang 2:** Fähigkeit, das gewählte Wohl zu wirken
-- **Rang 3:** Fähigkeit, das gewählte Wohl zu wirken
+- **Rang 1, 2, 3:** Fähigkeit, das gewählte Wohl zu wirken
 
 **Beschreibung**  
 Du bist in der Nutzung eines bestimmten Wohles spezialisiert, das bezeichnend für deinen Charakter ist. Vielleicht bist du eine Druidin, die ihre Gestalt nach Willen ändert, vielleicht ein Kriegsmedicus, der viele Verwundete mit müheloser Expertise versorgt oder ein verrückter Wissenschaftler, der Horden mechanischer Handlanger ohne viel Aufwand mobilisiert.
@@ -1633,9 +1553,7 @@ ___
 
 **Voraussetzungen:**  
 
-- **Rang 1:** Geschicklichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
-- **Rang 2:** Geschicklichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
-- **Rang 3:** Geschicklichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
+- **Rang 1, 2, 3:** Geschicklichkeit 5 / Kraft 5 / Beliebiges Außergewöhnliches 5
 
 **Beschreibung**  
 Deine erhöhte Aufmerksamkeit auf dem Schlachtfeld bedeutet, dass es fast unmöglich ist, dich zu überraschen und du immer bereit bist, dich und deine Verbündeten zu verteidigen. Diese Fertigkeit ist verbreitet bei Charakteren wie Bodyguards, Zauberern und psychischen Schutzbefohlenen.
