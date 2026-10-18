@@ -16,6 +16,7 @@ Jetzt, wo du einige deiner Lieblinge im Kopf hast, lass uns deinen Charakter ers
 >  Falls du Inspiration für deinen Charakter oder einen einfachen Punkt zum Starten brauchst, kannst du die vorerstellten Charaktere durchsehen, die unten verlinkt sind. Falls du einen Charakter findest, den du gerne benutzen würdest, kopiere einfach die Tabellendatei und verändere sie so, wie es dir richtig scheint. Die Tabellen schließen Gleichungen ein, die die meisten Berechnungen für dich übernehmen. Du kannst auch das **Level**-Feld anpassen, um die korrekte Anzahl an Fertigkeiten- und Attributpunkte generieren zu lassen, falls du einen Charakter über Level 1 erstellst.
 > 
 > [Bereitgestellte Charaktere durchsehen](https://drive.google.com/drive/folders/0Bx_UrXHMi3wmUlJjbDZiaGtIX00?resourcekey=0-xjZXrB5pSASVlYDvxvQR9A&usp=sharing)
+
 ## Schritt 1: Beschreibe deinen Charakter
 Open Legend ist ein Rollenspiel, was bedeutet, dass dein Charakter mehr Tiefe benötigt, als nur eine Sammlung von Attributen, Fähigkeiten, Charakterstärken und Ausrüstung. Um deinen Charakter zum Leben erwachen zu lassen, gib ihm einige der folgenden Details. Falls dir noch nichts einfällt, versuche, die Lücken während der ersten paar Spielsitzungen auszufüllen, während du deinen Charakter besser kennenlernst.
 
@@ -42,6 +43,7 @@ Nach dem Ermessen des GM kannst du auch noch kleinere oder noch größere Größ
 > *Sir Thomas Tuckburrough diente der örtlichen Diebesgilde als Assassine, bevor ein Auftrag schiefging und er ein schuldloses Kind ermordete - nach diesem Moment begab er sich auf den Weg zur Priesterschaft.*
 > ___
 > *Thalia war als Kind Opfer eines schrecklichen Autounfalls. Sie überlebte nur, weil ein verrückter Straßenarzt ihren Körper fand und mit cybernetischen Implantaten am Leben hielt, die sie halb zur Maschine machten. Physisch, als auch mental.*
+
 ## Schritt 2: Wähle Attribute
 Attribute sind das Rückgrat jedes Charakters in Open Legend. Sie bestimmen was dein Charakter tun kann und was nicht, worin sie sich auszeichnen und was ihre größten Schwächen sind. Wann immer dein Charakter eine heroische Tat in Open Legend anstrebt, wirst du dich deinen Attributen zuwenden, um zu sehen, wie gut du dich dabei schlägst.
 
@@ -53,7 +55,7 @@ Der Durchschnittsbürger oder einfache Handwerker hat generell Werte zwischen 1 
 
 Die *Attribute auf einen Blick*-Tabellen geben dir einen schnellen Überblick einiger häufiger Handlungen, die die jeweiligen Attribute dir erleichtern werden.
 
-##### Körperliche Attribute auf einen Blick
+#### Körperliche Attribute auf einen Blick
 <table>
 	<tr>
 		<th>Geschicklichkeit</th>
@@ -68,7 +70,8 @@ Die *Attribute auf einen Blick*-Tabellen geben dir einen schnellen Überblick ei
 		<td>Einen Kriegshammer schwingen, über einen Abgrund springen, eine Tür aufbrechen, einen Feind zu Boden ringen</td>
 	</tr>
 </table>
-##### Geistige Attribute auf einen Blick
+
+#### Geistige Attribute auf einen Blick
 <table>
 	<tr>
 		<th>Lernen</th>
@@ -87,7 +90,8 @@ Die *Attribute auf einen Blick*-Tabellen geben dir einen schnellen Überblick ei
 		<td>Die eigene Entschlossenheit wahren, Folter widerstehen, bis in die Nacht lernen, auf der Wachschicht wach bleiben, Wahnsinn abwenden</td>
 	</tr>
 </table>
-##### Soziale Attribute auf einen Blick
+
+#### Soziale Attribute auf einen Blick
 <table>
 	<tr>
 		<th>Täuschung</th>
@@ -102,7 +106,8 @@ Die *Attribute auf einen Blick*-Tabellen geben dir einen schnellen Überblick ei
 		<td>Eine Rede geben, ein Lied singen, eine Armee inspirieren, die Macht der eigenen Persönlichkeit ausdrücken, Glück haben</td>
 	</tr>
 </table>
-##### Außergewöhnliche Attribute auf einen Blick
+
+#### Außergewöhnliche Attribute auf einen Blick
 <table>
 	<tr>
 		<th>Wandlung</th>
@@ -139,6 +144,7 @@ Die *Attribute auf einen Blick*-Tabellen geben dir einen schnellen Überblick ei
 </table>
 
 In Open Legend kannst du die Stärken und Schwächen deines Charakters durch das Wählen von Attributen, die zu deiner Vorstellung des Charakters passen, definieren. Als nächstes werden mehrere Wege beschrieben, wie du deine Attribute zuweisen kannst.
+
 ### Schnelle Charaktererstellung
 Falls Rollenspiele für dich neu sind, oder du deinen Charakter einfach schnell zusammenstellen möchtest, kannst du eines der Attributsets unten aus der *Schnelle Charaktererstellung: Attribute*-Tabelle auswählen. Weise die aufgelisteten Werte den Attributen zu, die deinen Charakter ausmachen. Der Rest deiner Attribute beginnt mit einem Wert von 0.
 
@@ -166,6 +172,7 @@ Wenn du mehr Kontrolle über deine Attribute haben möchtest, kannst du dein eig
 
 ### Attributwürfel erfassen
 Jeder Attributwert über 0 gibt dir Bonuswürfel, die deine Chancen auf Erfolg erhöhen. Nutze die *Attributwürfel*-Tabelle für jedes deiner Attribute und notiere die passenden Würfel. (Du wirst später lernen, was man mit diesen Würfeln tut.)
+
 #### Attributwürfel
 | Attributwert | Attributwürfel |
 | ------------ | -------------- |
@@ -216,34 +223,45 @@ Wenn ein Gegner versucht, dich anzugreifen - egal ob mit dem Schuss eines Gewehr
 **Trefferpunkte** (TP abgekürzt) sind eine abstrakte Repräsentation deiner Fähigkeit, Schmerzen zu ignorieren, tödlichen Angriffen zu entgehen und deine Präsenz auf dem Schlachtfeld trotz Wunden und Erschöpfung aufrechtzuerhalten. Falls sie 0 erreichen, fällst du in Ohnmacht und bist in Lebensgefahr.
 
 **Geschwindigkeit** stellt dar, wie weit dein Charakter sich in einer einzigen Bewegungsaktion fortbewegen kann (siehe [Kapitel 7: Kampf](<./Kapitel-7_Kampf.md>)). Deine Grundgeschwindigkeit sind 30 Fuß. Andere Effekte wie Harme, Wohle und Fertigkeiten können deine Geschwindigkeit erhöhen oder verringern.
+
 ## Schritt 4: Fertigkeiten kaufen
 Während die Attribute deines Charakters seine Expertise im Erbringen heroischer Taten ausmachen, machen seine **Fertigkeiten** ihn einzigartig unter anderen Charakteren. Fertigkeiten erlauben dir, deinen Charakter anzupassen, sodass er spezifischen Anforderungen besonders gut begegnen kann.
 
 Zum Beispiel könnten zwei unterschiedliche Charaktere, die beide auf Nahkampf spezialisiert sind, mit einem Machtwert von 5 beginnen. Einer der Charaktere ist ein verwegener Pirat, also nimmt er die *Kampfmomentum*-Fertigkeit um sich wie ein Derwisch schnell von einem Gegner zum anderen bewegen zu können. Der andere, ein kampfgezeichneter Barbar, nimmt *Kampftrance*, sodass er in rasende Wut fallen kann, um seine Feinde zu dezimieren.
+
 ### Fertigkeiten wählen
 Fertigkeiten kauft man mit Fertigkeitenpunkten. Auf Level 1 hast du 6 Fertigkeitenpunkte zur Verfügung. Jegliche übriggebliebenen Punkte kannst du dir für später aufheben.
 
 Eine Liste aller verfügbaren Fertigkeiten kann [hier](<./Listen/Fertigkeiten.md>) gefunden werden.
+
 ## Schritt 5: Startausrüstung wählen
 In einem typischen Open Legend-Spiel beginnt dein Charakter mit der nötigen Startausrüstung für das Leben eines Abenteurers. Der GM kann aber auch entscheiden, dass die Kampagne unter besonderen Umständen beginnt (zum Beispiel, dass die gesamte Gruppe eingesperrt in einem Sklavenkonvoi beginnt), die etwas anderes benötigen.
 
 Normalerweise beginnst du aber mit einem Wohlstandswert von 2 und kannst bis zu drei Gegenstände mit Wohlstandswert 2, sowie so viele Gegenstände eines niedrigeren Wohlstandswerten auswählen, wie du willst. Schlage in Kapitel 6 für Regeln zu Wohlstand und Ausrüstungsinformationen nach. Gehe sicher, dass du jegliche Veränderungen an deinen Verteidigungen oder anderen Werten notierst, nachdem du deine Ausrüstung ausgewählt hast.
+
 ## Schritt 6: Charakterstärken und -schwächen auswählen
 Charakterstärken und -schwächen geben dir weitere Wege, die Persönlichkeit, das Aussehen, die Stärken, Schwächen und den Hintergrund deines Charakters auszuarbeiten. Vollständige Beschreibungen der verfügbaren Charakterstärken und -schwächen sowie wie sie im Spiel genutzt werden, findest du in [Kapitel 5: Charakterstärken und -schwächen](<./Kapitel-5_Charakterstaerken-und-schwaechen.md>).
 
 Bei der Charaktererstellung kannst du bis zu zwei Stärken und Schwächen auswählen. Du kannst auch keine auswählen.
+
 ## Schritt 7: Erzähl' deine Geschichte
 Nachdem dein Charakter erstellt ist, bist du bereit, Open Legend zu spielen. Egal, ob du mit alten Freunden oder dir bisher Unbekannten spielst und egal, ob du komplett neu in Rollenspielen bist oder ein erfahrener Veteran bist, die folgenden Tips werden dabei helfen, dass alle am Tisch eine gute Zeit haben.
+
 ### Entspann dich
 Open Legend gibt dir die Chance, für ein paar Stunden aus deinem Alltagsleben heraus und in eine fantastische Welt hineinzutreten, in der du heroische Taten vollbringen kannst. Schenk das Red Bull ein oder hol dir ein Bier, bestell etwas zu essen oder öffne die Chipstüte - egal was du tust, schüttel die Würfel, als ob das Leben deines Charakters davon abhängt, und hab Spaß. Falls du einen Zwerg spielst, kram vielleicht deinen besten Schottenakzent raus. Falls dein Charakter eine Hexe ist, kneif die Augen zusammen und sprich in Rätseln. Falls du kein Mimenexperte bist, denk dir andere Wege aus, Spaß zu haben: spiele abenteuerliche Musik auf dem Handy, zeichne die Großtaten deiner Gruppe, und so weiter.
+
 ### Respektiere den GM
 Falls du noch nie GM warst, weist du vielleicht nicht, wie viel Arbeit dahintersteckt. Wahrscheinlich hat dein GM stundenlang daran gearbeitet, die Kampagne zusammenzustellen und sich auf diese Sitzung vorzubereiten. Nimm an der Geschichte teil, sieh über versehentliche Ungereimtheiten hinweg und veranstalte nicht für nichts Radau. Falls es Unstimmigkeiten über die Regeln gibt, akzeptiere die finale Entscheidung des GM, damit das Spiel weitergeht und einigt euch, es später nachzuschauen.
+
 ### Respektiere die anderen Spieler
 Unterschiedliche Leute spielen Rollenspiele aus unterschiedlichen Gründen. Manche finden Gefallen an dem taktischen, schachartigen Kampfgeschehen. Andere wollen einfach eine epische Geschichte erzählen. Wieder andere sind geborene Schauspieler und genießen die Konversation mit jedem neuen Charakter. Egal, was dir am Open Legend-Spielen gefällt, behalte im Kopf, dass nicht allen am Tisch das gleiche gefallen muss. Der GM ist dazu da, alle Charaktere glänzen zu lassen, aber du kannst dabei helfen, indem du dich nicht ins Rampenlicht drängst und andere Spieler ermutigst, auf ihre Weise Spaß zu haben.
+
 ## Charakterarchetypen
 Diese Sektion enthält eine Ansammlung an typischen Charakterarten, die für verschiedene Genres verwendet werden können. Falls du deinen Charakter nicht komplett von Null an erstellen willst, kannst du die hier gefundenen nutzen. Füge einfach deine eigenen Charakterstärken, -schwächen und körperlichen Merkmale hinzu und schon bist du bereit loszulegen. Alternativ kannst du diese Vorlagen auch als Startpunkt benutzen, von dem aus du Attribute und Fertigkeiten austauscht, um deinen eigenen einzigartigen Charakter für das Setting, in dem du spielen wirst, zu erstellen.
+
 ### Barde
 Barden sind ein bisschen von allem: Anführer, Geschichtenerzähler, Künstler, Performer, Magier, Säbelrassler und vieles mehr. Ein Barde ist ein Alleskönner, der seine Verbündeten so oft aus dem Feuer rettet, wie er sie auch hineinwirft.
+
 #### Strategie
 Barden können in fast allen Situationen außerhalb des Kampfes andere mit ihrer Fertigkeit *Rundumtalent* unterstützen, wobei sie sich besonders in sozialen Situationen durch ihre hohen Werte in Präsenz und Überzeugung profilieren. Ihr Einflusswert gibt ihnen außerdem Zugang zu Flüchen wie *Bezaubert* und *Phantom*, die zum Täuschen, Verhören oder Befreunden von Feinden nützlich sind.
 
@@ -264,8 +282,10 @@ Im Kampf unterstützt ein Barde seine Verbündeten mit *Verstärken*, wobei er d
 ***Rapier*** (Angriff mit Schaden): Geschicklichkeit vs. Deckung<br>***En Garde!*** (*Entwaffnet* zufügen): Geschicklichkeit vs. Deckung, Vorteil 1  
 ***Inspirierende Zeilen*** (*Verstärken* wirken):<br>=> 1 Ziel: Auto-Erfolg auf KL 3 durch *Wohlfokus*<br>=> 10' Würfel: Präsenz vs. 16 (KL 3)<br>***Heilende Zeilen*** (*Heilen* wirken): Präsenz vs. 12 - 18 (KL 1 - 4)<br>***Lied der Erquickung*** (5' *Aura: Heilen* wirken): Präsenz vs. 18 (KL 4)<br>***Gewinnendes Lächeln*** (*Bezaubert* zufügen): Einfluss vs. Entschlossenheit<br>***Magischer Kniff*** (*Phantom* zufügen): Einfluss vs. Entschlossenheit
 ___
+
 ### Kampfmagier
 Kampfmagier sind Meister der Kraft und Magie. Mit angeborenem Talent für den Kampf und elementarer Zauberei gewappnet, sind diese Elitesoldaten eine ernstzunehmende Einheit auf dem Schlachtfeld. Der Kampfmagier ist typischerweise schwer gepanzert, mit einer Vielzahl an Waffen für den Nahkampf ausgestattet und knistert vor roher magischer Energie.
+
 #### Strategie
 Kampfmagier wurden für den Kampf geboren, können sich aber trotzdem auch in einigen Situationen außerhalb des Kampfes beweisen. Sie sind generell starke Anführer, die eine einschüchternde Aura abstrahlen, sodass ihre Anweisungen auf Gehör treffen, wenn die Umstände es verlangen.
 
@@ -276,11 +296,14 @@ In der Schlacht sind Kampfmagier die Ein-Mann-Front. Ihre schwere Rüstung läss
 **Fertigkeiten:** Multi-Zielen Angriffsspezialisierung II (Fläche), Rüstungsexpertise I
 
 **Wichtige Ausrüstung:** Plattenpanzer, kleiner Schild, Langschwert, Speer, Kriegshammer
+
 #### Bevorzugte Aktionen
 ***Eiszapfen*** (Angriff mit Schaden): Energie vs. Deckung<br>***Erdbeben*** (Angriff mit Schaden, 10' Würfel): Energie vs. Deckung<br>***Frostbiss*** (*Anhaltender Schaden* zufügen, 10' Würfel): Energie vs. Deckung<br>***Beben*** (*Niedergeschlagen* zufügen, 10' Würfel): Energie vs. Deckung<br>***Treibsand*** (*Immobilisiert* zufügen, 10' Würfel): Energie vs. Zähigkeit<br>***Langschwert*** (Angriff mit Schaden): Kraft vs. Deckung<br>***Speer*** (Angriff mit Schaden, 10' Reichweite): Kraft vs. Deckung, Vorteil 1
 ___
+
 ### Herr der Tiere
 Der Herr der Tiere beschwört und kommandiert die Kreaturen der Wildnis und ist in der Lage, sogar legendäre Monster wie Drachen oder Mantikore zu zähmen.
+
 #### Strategie
 Der Herr der Tiere kommandiert einen legendären Mantikor, der als Reittier und Kämpfer agiert. Die Flugfähigkeit des Mantikors erlaubt dem Herr der Tiere Zugang zu Gebieten, die der Rest der Gruppe vielleicht nicht erreichen könnte. Außerhalb des Kampfes kann der Herr der Tiere sein Einflussattribut nutzen, um mit der Zeit die Loyalität einer Fülle an Tieren und mythischen Wesen zu gewinnen.
 
@@ -291,15 +314,20 @@ Sobald der Kampf beginnt, schwingt der Herr der Tiere sich in den Himmel und nut
 **Fertigkeiten:** Gefährte III
 
 **Wichtige Ausrüstung:** Brustplatte, Langbogen, Speer
+
 #### Bevorzugte Aktionen
 ***Langbogen*** (Angriff mit Schaden): Geschicklichkeit vs. Deckung<br>***Gezackter Pfeil*** (*Anhaltender Schaden* zufügen): Geschicklichkeit vs. Deckung, Vorteil 1<br>***Speer*** (Angriff mit Schaden, 10' Reichweite): Geschicklichkeit vs. Deckung, Vorteil 1<br>***Kreatur zähmen*** (*Bezaubert* zufügen): Einfluss vs. Entschlossenheit<br>***Kreatur befehlen*** (*Dominiert* zufügen): Einfluss vs. Entschlossenheit
+
 #### Mantikor-Gefährte
 **Attribute:** Geschicklichkeit 1 (1d4), Konstitution 3 (1d8), Kraft 4 (1d10), Wahrnehmung 1 (1d4), Willenskraft 2 (1d6), Vergehen 5 (2d6)<br>**Trefferpunkte:** 20<br>**Deckung:** 15 (Geschicklichkeit 1, Kraft 4)<br>**Zähigkeit:** 15<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30' fliegend
+
 ##### Bevorzugte Aktionen
 ***Klauen*** (Angriff mit Schaden): Kraft vs. Deckung<br>***Tödlicher Stachel*** (Angriff mit Schaden): Vergehen vs. Deckung<br>***Giftiger Stachel*** (*Anhaltender Schaden* zufügen): Vergehen vs. Zähigkeit<br>***Bodycheck*** (*Niedergeschlagen* zufügen): Kraft vs. Deckung<br>***Verwirrender Stachel*** (*Betäubt* zufügen): Vergehen vs. Zähigkeit
 ___
+
 ### Berserker
 Berserker sind die Elitestreiter der Barbarenhorden, bekannt dafür, gegen unmögliche Chancen anzutreten. Diejenigen, die nicht dem Terror ihrer geifernden Rage zum Opfer fallen, werden von den mächtigen Schwüngen der Waffen der Berserker ihr Leben lang mit Ehrfurcht sprechen.
+
 #### Strategie
 Das einzige Ziel eines Berserkers ist es, Feinde niederzustrecken. Außerhalb des Kampfes können sie gelegentlich aushelfen, indem sie Stahl biegen, Fallgatter aufstemmen oder Feinde einschüchtern.
 
@@ -310,11 +338,14 @@ Sobald der Kampf beginnt, ist der Berserker nicht mehr zu stoppen. Die Zweihanda
 **Fertigkeiten:** Kampftrance, Rücksichtsloser Angriff
 
 **Wichtige Ausrüstung:** Großaxt, Kettenhemd, Wurfaxt
+
 #### Bevorzugte Aktionen
 ***Großaxt*** (Angriff mit Schaden): Kraft vs. Deckung, Vorteil 1<br>***Kraftvoller Schlag*** (*Erzwungene Bewegung* zufügen): Kraft vs. Deckung, Vorteil 2<br>***Vernichtender Schlag*** (*Betäubt* zufügen): Kraft vs. Zähigkeit, Vorteil 2<br>***Kampfschrei*** (*Furcht* zufügen): Kraft vs. Entschlossenheit<br>***Schaum vor dem Mund*** (*Provoziert* zufügen): Kraft vs. Entschlossenheit<br>***Kriegsmantra*** (*Verstärken* wirken): Präsenz vs. 16 (KL 3)
 ___
+
 ### Chronomagier
 Chronomagier sehen und manipulieren die größte Kraft des Universums: die Zeit. Sie besitzen die Macht, die Fäden des Universums selbst neu anzuordnen, um ihrem Willen zu entsprechen. Vergangenheit, Gegenwart und Zukunft sind alles ein und dasselbe für den Chronomagie und ihre inhärente Verbindung zur vierten Dimension kann zu Kommunikationsproblemen mit denjenigen führen, die einem konventionellen Verständnis der Zeit unterliegen.
+
 #### Strategie
 Chronomagier können den Fluss der Zeit kontrollieren und jenseits ihrer Grenzen sehen. Außerhalb von Kämpfen benutzen sie ihren sechsten Sinn mithilfe des Wohls *Voraussicht*, um vergangene und zukünftige Vorkommnisse jenseits der physischen Welt zu sehen.
 
@@ -325,11 +356,14 @@ Beginnt der Kampf, dann bietet die Macht des Chronomagiers über die Zeit der Gr
 **Fertigkeiten:** Wohlfokus I (Aura), Blitzreflexe I, Attributsubstitution I (Bewegung > Geschicklichkeit)
 
 **Wichtige Ausrüstung:** Stahlseidenrüstung
+
 #### Bevorzugte Aktionen
 ***Der Zahn der Zeit*** (Angriff mit Schaden): Vergehen vs. Deckung<br>***Stasefeld*** (*5' Aura: Immobilisiert* wirken): Auto-Erfolg auf KL 1 durch *Wohlfokus*<br>***Zeitdehnungsfeld*** (*5' Aura: Verlangsamt* wirken): Auto-Erfolg auf KL 1 durch *Wohlfokus*<br>***Vorspulen*** (*Hast* wirken): Bewegung vs. 14 - 18 (KL 2 - 4)<br>***Massen-Vorspulen*** (*5' Aura: Hast* wirken): Auto-Erfolg auf KL 2 durch *Wohlfokus*<br>***Zurückspulen*** (*Heilen* wirken): Schöpfung vs. 12 - 16 (KL 1 - 3)<br>***Zeitschritt*** (*Teleportation* wirken): Bewegung vs. 16 (KL 3)<br>***Zukunftsblick*** (*Voraussicht* wirken): Vorwissen vs. 12 - 16 (KL 1 - 3)
 ___
+
 ### Höfling
 Höflinge sind Karrierepolitiker, die majestätische Grazie zum Ziel ihres Lebens machen. Ihre strenge Ausstrahlung macht jeden im Umfeld des Höflings gefügig. Als Gastgeber plant der Höfling seine Feiern oft bis ins letzte Detail, sodass seine Gäste genau die Erfahrung haben, die er ihnen angedacht hat. Sein Antlitz verlangt Respekt, sei es königliche Brokade, fernöstliche Seide oder die eleganten Linien eines Corpo-Anzugs.
+
 #### Strategie
 Da er primär auf soziale Situationen spezialisiert und in Kämpfen größtenteils hilflos ist, tut er sein bestes, um die Umstände so zu gestalten, dass es gar nicht erst zum Kampf kommt. Ist der Kampf unumgänglich, schlägt der Höfling sich durch seine Täuschung, Überzeugung, Präsenz und Einfluss auf die siegende Seite. Hat der Höfling das Vertrauen seiner mächtigen Bekanntschaften durch den Harm *Bezaubert* gewonnen, kommt das Opfer typischerweise aufgrund der Fertigkeiten *Hartnäckiger Harm* und *Endlose Bezauberung* nie wieder frei.
 
@@ -338,12 +372,15 @@ Da er primär auf soziale Situationen spezialisiert und in Kämpfen größtentei
 **Fertigkeiten:** Hartnäckiger Harm (Bezaubert), Endlose Bezauberung
 
 **Wichtige Ausrüstung:** Vornehme Kleidung, Dolch, Kompaktpistole (Pistole), Stahlseidenrüstung
+
 #### Bevorzugte Aktionen
 ***Schmeichelnde Worte*** (*Bezaubert* zufügen): Einfluss vs. Entschlossenheit<br>***Mörderische Beleidigung*** (*Demoralisiert* zufügen): Einfluss vs. Entschlossenheit<br>***Widersprüchliche Aussagen*** (*Gedächtnismanipulation* zufügen): Einfluss vs. Entschlossenheit<br>***Vertrauensvolles Ohr*** (*Wahrheitsgebunden* zufügen): Einfluss vs. Entschlossenheit<br>***Persönlicher Gefallen*** (*Dominiert* zufügen): Einfluss vs. Entschlossenheit
 ***Versteckter Abzug*** (Angriff mit Schaden): Geschicklichkeit vs. Deckung
 ___
+
 ### Druide
 Druiden sind Schützer der Natur, die aus ihr durch einen engen Bund ihre Kraft ziehen, um sich z.B. in eine mächtige Kreatur ihres Heimathabitats zu verwandeln. Nicht alle Druiden sind den Wäldern gewogen. Manche verwandeln sich in Unterwasserspezies und verbringen einen Großteil ihrer Zeit in den Tiefen, während andere als Vögel in Bergketten jenseits der Wolken leben. Unabhängig von ihrem bevorzugten Habitat sind alle Druiden eins: flexibel.
+
 #### Strategie
 Aufgrund ihrer engen Verbindung zur Natur neigen Druiden dazu, ihre Umgebung zum eigenen Vorteil zu nutzen, zum Beispiel indem sie eine imposante Wand aus Hecken mit dem Wohl *Barriere* beschwören, ein Ziel mithilfe einer dicken Ranke *Immobilisieren* oder natürliche Heilung durch das Wohl *Regeneration* beschleunigen. Druiden sind außerdem exzellente Kämpfer und Späher. Als Späher können sie in Form eines kleinen Tieres ungesehen in ein feindliches Lager eindringen. Als Kämpfer können sie sich in eine massive Kreatur wie einen Bären verwandeln, um ihre Feinde zu dezimieren.
 
@@ -352,17 +389,23 @@ Aufgrund ihrer engen Verbindung zur Natur neigen Druiden dazu, ihre Umgebung zum
 **Fertigkeiten:** Wohlfokus II (Gestaltwandel)
 
 **Wichtige Ausrüstung:** Schienenrüstung (als Plattenpanzer gewertet), Stab, Kurzspeer
+
 #### Bevorzugte Aktionen
 ***Gestaltwandel*** (*Gestaltwandel* wirken): Auto-Erfolg auf KL 5 durch *Wohlfokus*<br>***Klammernde Ranken*** (*Immobilisiert* zufügen): Schöpfung vs. Zähigkeit<br>***Dornenhecke*** (*Barriere* wirken): Schöpfung vs. 16 (KL 3)<br>***Pflanzen animieren*** (*Kreatur beschwören* wirken): Wandlung vs. 18 - 20 (KL 4 - 5)<br>***Wiederwuchs*** (*Regeneration* wirken): Wandlung vs. 12 - 20 (KL 1 - 5)
+
 #### Bärenform
 **Attribute:** Kraft 5 (2d6), Geschicklichkeit 1 (1d4), Konstitution 3 (1d8), Wahrnehmung 2 (1d6)<br>**Trefferpunkte:** 20<br>**Deckung:** 19 (Geschicklichkeit 1, Kraft 5, Schienenrüstung 3)<br>**Geschwindigkeit:** 25'
+
 #### Falkenform
 **Attribute:** Kraft 1 (1d4), Geschicklichkeit 3 (1d8), Konstitution 1 (1d4), Wahrnehmung 5 (2d6)<br>**Trefferpunkte:** 16<br>**Deckung:** 14 (Geschicklichkeit 3, Kraft 1)<br>**Geschwindigkeit:** 30' fliegend
+
 #### Haiform
 **Attribute:** Kraft 4 (1d10), Geschicklichkeit 2 (1d6), Konstitution 3 (1d8), Wahrnehmung 3 (1d8)<br>**Trefferpunkte:** 20<br>**Deckung:** 19 (Geschicklichkeit 2, Kraft 4, Schienenrüstung 3)<br>**Geschwindigkeit:** 30' schwimmend
 ___
+
 ### Ingenieur
 Ingenieure haben einen Funken Schöpfung in sich und können die Funktionsweise extrem komplexer Systeme durchschauen. Auch wenn Ingenieure selbst typischerweise flink sind und eine Haut zäh wie Leder haben, liegt ihre wahre Stärke in den cleveren Maschinen, die sie aus Schrott und Ersatzteilen zusammenbauen. Diese zischenden Dampfgestalten und mechanische Werkzeuge stellen sicher, dass der Ingenieur für jede Situation gewappnet ist.
+
 #### Strategie
 Wenn sie nicht im Kampf sind, verlassen Ingenieure sich auf ihre cleveren Erfindungen. Mit genug Zeit können sie *Außergewöhnlichen Gegenstand Erschaffen* nutzen, um sich auf eine Reihe verschiedener Situationen vorzubereiten. Ob sie eine 100' lange Leiter basteln, die sich auf die Größe eines Rucksacks zusammenfalten lässt, einen ferngesteuerten Spähroboter oder einen tragbaren Wundversorger, ein Ingenieur kann immer einen Weg finden, seine Kreativität mit flexiblen Lösungen und praktischen Gegenständen zum Wohl der Gruppe anzuwenden.
 
@@ -374,11 +417,14 @@ Im Kampf richten sich Ingenieure nach der momentanen Situation, um ihre Verbünd
 
 **Wichtige Ausrüstung:** Handkanone (Revolver), Kevlarweste, 2
 Granaten, Ingenieurswerkzeug
+
 #### Bevorzugte Aktionen
 _**Handkanone**_ (Angriff mit Schaden): Geschicklichkeit vs. Deckung<br>_**Granate**_ (Angriff mit Schaden, 10' Würfel): Geschicklichkeit vs. Deckung<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Geschicklichkeit vs. Deckung, Vorteil 1<br>_**Verstärkung!**_ (_Kreatur Beschwören_ wirken): Auto-Erfolg auf KL 5 durch _Wohlfokus_<br>_**Gadgets & Gizmos**_ (_Verstärken_ wirken): Schöpfung vs. 16 (KL 3)<br>_**DIY-Wunder**_ (_Genesis_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)<br>_**Wunde ausbrennen**_ (_Heilen_ wirken): Schöpfung vs. 12 - 20 (KL 1 - 5)
 ___
+
 ### Revolverheld
 Manch einer ist Richter und Henker zugleich. Andere sind Kopfgeldjäger, die eine alte Schuld begleichen müssen. Wieder andere sind Söldner, die nur für den Höchstbietenden ihr Eisen ziehen. Egal, woher ihre Motivation kommt, alle Revolverhelden bringen diejenigen zum Bangen, die am falschen Ende ihrer Colts landen.
+
 #### Strategie
 Revolverhelden tun mehr, als nur um sich zu schießen. Ihre Expertise im Fernkampf wird durch Energie des Vergehens gespeist, die sie von außerweltlichen Mächten, einem Pakt mit dem Teufel oder durch die Verschmelzung von Geist und Seele erlangt haben. Außerhalb des Kampfes sind Revolverhelden aufmerksam und einschüchternd, sodass sie einfache Leute mühelos gefügig machen. Die meisten Revolverhelden sind Einzelgänger, die sich allein ihrer Mission verschrieben haben, doch manch andere zeigen sich als gekonnte Anführer, die eine Bande einsamer Wölfe in eine effektive Einheit verwandeln können.
 
@@ -389,11 +435,14 @@ Beginnt ein Gefecht, so bleibt der Revolverheld auf Distanz und benutzt seine be
 **Fertigkeiten:** Multiangriffsspezialisierung II
 
 **Wichtige Ausrüstung:** Schwerer Trenchcoat (als Kevlarweste gewertet), 2 Revolver, Gewehr
+
 #### Bevorzugte Aktionen
 _**Zwei-Knarren-Ansturm**_ (Fokusaktion, Angriff mit Schaden, 2 Angriffe): Geschicklichkeit vs. Deckung<br>_**Den Spahn schlagen**_ (Fokusaktion, Angriff mit Schaden, 3 Angriffe): Geschicklichkeit vs. Deckung, Nachteil 3<br>_**Ziel verfluchen**_ (_Betäubt_ zufügen): Vergehen vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Geschicklichkeit vs. Deckung. Vorteil 1<br>_**Handschuss**_ (_Entwaffnet_ zufügen): Geschicklichkeit vs. Deckung, Vorteil 1<br>_**Gewehr**_ (Angriff mit Schaden): Geschicklichkeit vs. Deckung<br>_**Miasmaschuss**_ (_Erkrankt_ zufügen): Vergehen vs. Zähigkeit<br>_**Missgünstiger Schatten**_ (5' _Aura: Anhaltender Schaden_ wirken): Vergehen vs. 18 (KL 4)<br>_**Seelenriss**_ (_Lebensraub_ wirken): Vergehen vs. 20 (KL 5)<br>_**Gnadenloser Blick**_ (_Furcht_ zufügen): Vergehen vs. Entschlossenheit
 ___
+
 ### Hacker
 Wissen ist Macht, wie das alte Sprichtwort mahnt. Der Hacker ist der Beweis, dass so gut wie jeder mit der richtigen Information zu Fall gebracht werden kann. Manche Hacker sind Söldner, die für den höchsten Lohn arbeiten und den Thrill lieben, riesige Mengen an Daten zu kontrollieren, von denen Leben abhängen. Andere verschreiben sich einem höheren Ziel, um die Welt zum Besseren oder Schlechteren zu wenden.
+
 #### Strategie
 Der Hacker ist ein Meister von Daten und Information und sucht, ihre Macht zu nutzen. Hacker stückeln aus Infofetzen Geheimnisse und Daten zusammen, die andere für verschlüsselt halten. Außerhalb des Kampfes nutzt der Hacker Harme und Wohle wie *Treusicht* um durch seine Drohne zu sehen und *Fernsicht* oder *Voraussicht*, um Informationen und Personen durch Datenbanken, Server, Sicherheitskameras, Kreditkarteneinträge und andere schlecht gesicherte Datenströme zu verfolgen. Falls Täuschung gebraucht wird, nutzt der Hacker die fast allgegenwärtigen Content-Streams, um mit dem Harm *Phantom* Videos, Hologramme und Audiosignale zu fabrizieren.
 
@@ -404,17 +453,22 @@ Wenn ein Kampf ausbricht, meidet ein Hacker die Front und lässt seine Drohnen f
 **Fertigkeiten:** Gefährte I (Drohne), Harmfokus (Fernsicht), Spurenlos
 
 **Wichtige Ausrüstung:** Tablet, Laptop, VR-Brille
+
 #### Bevorzugte Aktionen
 _**Dark-Web Recherche**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Algorithmische Voraussage**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Multivalente Sensorenaufnahme**_ (_Wahrsicht_ wirken): Vorwissen vs. 20 (KL 5)<br>_**IoT Zombienetzwerk**_ (_Fernsicht_ zufügen): Vorwissen vs. Entschlossenheit, Vorteil 2<br>_**Hologrammprojektion**_ (_Phantom_ zufügen): Einfluss vs. Entschlossenheit<br>_**Neuronen neulegen**_ (_Bezaubert_ zufügen): Einfluss vs. Entschlossenheit
+
 #### Drohnengefährte
 **Attribute:** Geschicklichkeit 3 (1d8), Konstitution 1 (1d4), Logik 1 (1d4), Wahrnehmung 2 (1d6), Willenskraft 2 (1d6), Energie 4 (1d10)<br>**Trefferpunkte:** 16<br>**Deckung:** 13 (Geschicklichkeit 3)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
 
 **Fertigkeiten:** keine
+
 #### Bevorzugte Aktionen
 _**Laser**_ (Angriff mit Schaden): Energie vs. Deckung<br>_**Betäubungsstrahl**_ (_Immobilisiert_ zufügen): Energie vs. Zähigkeit
 ___
+
 ### Mystiker
-Mystiker finden sich meist abseits des Trubels der Stadt, da sie die Fortschritte der Gesellschaft hinter sich gelassen haben. Sie ziehen es vor, der leisen Stimme im Inneren zu lauschen, wobei sie materiellen Besitz ablehnen und ein asketisches Leben auf der Suche danach führen, allen selbstzentrierten Gedanken zu entsagen. 
+Mystiker finden sich meist abseits des Trubels der Stadt, da sie die Fortschritte der Gesellschaft hinter sich gelassen haben. Sie ziehen es vor, der leisen Stimme im Inneren zu lauschen, wobei sie materiellen Besitz ablehnen und ein asketisches Leben auf der Suche danach führen, allen selbstzentrierten Gedanken zu entsagen.
+
 #### Strategie
 Außerhalb des Kampfes führen Mystiker eine breite Auswahl an Fähigkeiten, die sie zu guten Informationssammlern, Detektiven, und übernatürlichen forensischen Analytikern machen. Sie sind in der Lage, zukünftige Gefahr mit dem Wohl *Voraussicht* kommen zu sehen, allerlei Informationen mit *Lesung* aus der Vergangenheit eines Gegenstands zu ziehen, mit *Fernsicht* gegnerische Bewegungen aus der Ferne zu beobachten und mit jeglicher Kreatur durch *Telepathie* zu kommunizieren.
 
@@ -425,36 +479,45 @@ Mystiker, die sich einer größeren Gruppe angeschlossen haben, nutzen ihre Krä
 **Fertigkeiten:** Vertiefte Wirkung I, Defensive Reflexe I, Medikus
 
 **Wichtige Ausrüstung:** Stab, Robe
+
 #### Bevorzugte Aktionen
 _**Den Pfad vorhersehen**_ (Verteidigungsaktion): Schutz vs. Angriffswurf des Ziels, Vorteil 1<br>_**Freimachen**_ (Besondere Aktion): Fertigkeit _Medikus_ einsetzen, um einem Verbündeten einen Widerstandswurf zu geben<br>_**Geteilte Einsicht**_ (_Verstärken_ wirken): Vorwissen vs. 16 (KL 3)<br>_**Sicht aus der Ferne**_ (_Fernsicht_ zufügen): Vorwissen vs. Entschlossenheit<br>_**Gedankenbrücke**_ (_Telepathie_ wirken): Vorwissen vs. 16 - 20 (KL 3 - 5)<br>_**Kraftraub**_ (_Annulieren_ zufügen): Schutz vs. Entschlossenheit<br>_**Gedanken lesen**_ (_Gedankenraub_ zufügen): Vorwissen vs. Entschlossenheit<br>_**Blick in die Vergangenheit**_ (_Lesung_ wirken): Vorwissen vs. 20 (KL 5)<br>_**Blick in die Zukunft**_ (_Voraussicht_ wirken): Vorwissen vs. 12 - 20 (KL 1 - 5)<br>_**Verjüngung**_ (_Heilen_ wirken): Schöpfung vs. 12 - 14 (KL 1 - 2)
 ___
+
 ### Ningyozukai
 Die Ningyozukai - oder Puppenspieler - sind Zauberer, die in der Lage sind, ihren Geist verzauberte Yoroirüstungen beleben zu lassen, sodass diese zu mächtigen Waffen werden. Die Ningyozukai, die darüber hinaus außerdem Magie der Heilung und des Schutzes besitzen, rufen ihren Yoroirüstungen nur hervor, wenn die Situation Waffengewalt und roher Kraft bedarf.
+
 #### Strategie
 Die Ningyozukai nutzen *Alternative Gestalt*, um je nach Bedarf zwischen zwei separaten Charakterarten zu wechseln. In ihrer normalen Form sind sie physisch schwache Zauberer, die Verbündete mit Wohlen wie *Resistenz*, *Heilen* und *Verstärken* unterstützen. Im Kampf können sie nur mit *Kreatur beschwören* Schaden zufügen, indem sie niedere Schutzgeister berufen.
 
 Wenn die Situation es erfordert, ruft der Zauberer seine Yoroirüstung hervor, die ihm als unverwüstbarer Nahkämpfer dient. Die Yoroigestalt hat starke Verteidigungen und hohe TP. Ihr Kraftwert von 5 sichert ihr zusammen mit dem zweihändigen Naginata hohen Schaden zu, während sie das Schlachtfeld mit Harmen wie *Niedergeschlagen*, *Erzwungene Bewegung* und *Immobilisiert* bestimmt. In besonders harten Kämpfen verfällt die Yoroirüstung in *Kampftrance* und gewinnt so noch stärkere Verteidigungen und Angriffe.
 
 Auch wenn Ningyozukai die Fertigkeit *Alternative Gestalt* nutzen, verwandeln sie sich nicht selbst physisch beim Wechsel zwischen Zauberer- und Yoroirüstungsform. Stattdessen hüllt die Yoroirüstung unter der mentalen Kontrolle des Ningyozukai den Zauberer zum Schutz in ihr magisches Metall. *Alternative Gestalt* zu aktivieren repräsentiert die volle Konzentrations des Zauberers auf die Kontrolle der Rüstung, sodass er währenddessen seine eigenen Fähigkeiten nicht nutzen kann und vollständig von der Rüstung repräsentiert wird.
+
 #### Zauberergestalt
 **Attribute:** Geschicklichkeit 1 (1d4), Lernen 3 (1d8), Wahrnehmung 1 (1d4), Willenskraft 3 (1d8), Überzeugung 3 (1d8), Schöpfung 4 (1d10), Schutz 4 (1d10)<br>**Trefferpunkte:** 16<br>**Deckung:** 11 (Geschicklichkeit 1)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 13<br>**Geschwindigkeit:** 30'
 
 **Fertigkeiten:** Alternative Gestalt II
 
 **Wichtige Ausrüstung:** Keine
+
 #### Bevorzugte Aktionen
 _**Geisterführer**_ (_Verstärken_ wirken): Schöpfung vs. 16 (KL 3)<br>_**Geisterbeschützer**_ (_Kreatur beschwören_ wirken): Schöpfung vs. 18 (KL 4)<br>_**Kreis der Wunder**_ (5' _Aura: Immobilisiert_ wirken): Schöpfung vs. 18 (KL 4)<br>_**Schutzrunen**_ (_Resistenz_ wirken): Schutz vs. 16 (KL 3)<br>_**Heilendes Wort**_ (_Heilen_ wirken): Schöpfung vs. 12 - 18 (KL 1 - 4)
+
 #### Yoroirüstungsgestalt
 **Attribute:** Geschicklichkeit 3 (1d8), Konstitution 4 (1d10), Kraft 5 (2d6), Willenskraft 2 (1d6), Präsenz 3 (1d8)<br>**Trefferpunkte:** 28<br>**Deckung:** 21 (Kraft 5, Geschicklichkeit 3, Yoroirüstung 3)<br>**Zähigkeit:** 16 (19 in _Kampftrance_)<br>**Entschlossenheit:** 15 (18 in _Kampftrance_)<br>**Geschwindigkeit:** 25'
 
 **Fertigkeiten:** Kampftrance
 
 **Wichtige Ausrüstung:** Yoroirüstung, Naginata, 3 Wurfspeere
+
 #### Bevorzugte Aktionen
 _**Naginata**_ (Angriff mit Schaden): Kraft vs. Deckung, Vorteil 1<br>_**Fang und Klaue**_ (Angriff mit Schaden, 2 Ziele): Kraft vs. Deckung, Nachteil 1<br>_**Wurfspeer**_ (Angriff mit Schaden): Kraft vs. Deckung<br>_**Ausholender Schlag**_ (_Niedergeschlagen_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Naginataschwung**_ (_Erzwungene Bewegung_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Skorpionstich**_ (_Immobilisiert_ zufügen): Kraft vs. Deckung, Vorteil 2<br>_**Demonstration der Stärke**_ (_Furcht_ zufügen): Kraft vs. Entschlossenheit<br>_**Schlachtkommando**_ (_Heilen_ wirken): Präsenz vs. 12 - 16 (KL 1 - 3)
 ___
+
 ### Waldläufer
 Waldläufer sind Menschen der Wildnis, Jäger und Tierzähmer. Sie können das widerste Terrain navigieren und ihre scharfen Augen erkennen selbst tagelang kalte Spuern. Mit einem treuen Tiergefährten an ihrer Seite ist der Waldläufer auf der Pirsch nie allein.
+
 #### Strategie
 Waldläufer sind Experten im Verfolgen von Spuren, wobei sie die Fertigkeiten *Spurenhund* und *Fährtenleser* nutzen, um Ziele mühelos und rasch zu verfolgen. Sein hoher Wahrnehmungswert macht den Waldläufer auch zu den Augen der Gruppe: Fallen finden, Feinde ausspähen und geheime Durchgänge entdecken. Die außergewöhnliche Fähigkeit, extrem gut zu klettern erlaubt ihnen außerdem, Pfade zu beschreiten, die ihre Verbündeten nicht erreichen können.
 
@@ -466,17 +529,22 @@ Lernen 2 (1d6), Wahrnehmung 5 (2d6), Willenskraft 2 (1d6)<br>**Trefferpunkte:** 
 **Fertigkeiten:** Flinkfuß I, Fährtenleser, Klettern, Gefährte I
 
 **Wichtige Ausrüstung:** Langschwert, Dolch, Langbogen, Kettenhemd
+
 #### Bevorzugte Aktionen
 _**Langschwert & Dolch**_ (Angriff mit Schaden): Geschicklichkeit vs. Deckung, Vorteil 1<br>_**Verwundender Streich**_ (_Anhaltender Schaden_ zufügen): Geschicklichkeit vs. Deckung, Vorteil 2<br>_**Elegante Parade**_ (_Entwaffnet_ zufügen): Geschicklichkeit vs. Deckung, Vorteil 2<br>_**Langbogen**_ (Angriff mit Schaden): Geschicklichkeit vs. Deckung<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Geschicklichkeit vs. Deckung, Vorteil 1
+
 #### Wolfsgefährte
 **Attribute:** Geschicklichkeit 4 (1d10), Konstitution 2 (1d6), Kraft 2 (1d6), Wahrnehmung 3 (1d8), Willenskraft 1 (1d4), Präsenz 1 (1d4)<br>**Trefferpunkte:** 18<br>**Deckung:** 16 (Geschicklichkeit 4, Kraft 2)<br>**Zähigkeit:** 13<br>**Entschlossenheit:** 12<br>**Geschwindigkeit:** 30'
 
 **Fertigkeiten:** keine
+
 #### Bevorzugte Aktionen
 _**Biss**_ (Angriff mit Schaden): Geschicklichkeit vs. Deckung<br>_**Takedown**_ (_Niedergeschlagen_ zufügen): Geschicklichkeit vs. Deckung
 ___
+
 ### Schatten
 Schatten sind hoch trainierte Assassinen, die ihre unnatürliche Macht aus dem Zwischen der Welt ziehen, der Leere an Schatten, in der die meisten Sterblichen nicht verweilen würden. Nachdem sie eins mit der Dunkelheit werden, nutzen sie ihre Kräfte um zu täuschen und in die Irre zu führen, sodass sie ihre Ziele auf dem falschen Fuß erwischen. Diese Nachtjäger sind trainiert, aus der Distanz zu töten - ungesehen, ungehört und ohne eine Spur zu hinterlassen.
+
 #### Strategie
 Während Schatten speziell dazu ausgebildet sind, Ziele zu neutralisieren, geben ihre Fähigkeiten, die Schatten zu manipulieren, ihnen auch viele verschiede nützliche Optionen außerhalb des Kampfes. Sie sind exzellente Späher und in der Lage, Waffen in dimensionalen Taschen mit *Objekt absorbieren* zu verstecken. Ihre Fähigkeit, durch die Leere hindurchzutreten macht sie auch zu adepten Infiltratoren. Vor ihrer *Teleportation* ist auch keine Titantür gefeit.
 
@@ -487,11 +555,14 @@ Schatten ziehen es vor, so lange wie möglich versteckt zu bleiben, wenn ein Kam
 **Fertigkeiten:** Wohlfokus I (Teleportation), Tödlicher Schlag I
 
 **Wichtige Ausrüstung:** Scharfschützengewehr, Maschinenpistole, Pistole, Messer, Trenchcoat (als Lederrüstung gewertet)
+
 #### Bevorzugte Aktionen
 _**Verborgener Schuss**_ (Angriff mit Schaden): Geschicklichkeit vs. Deckung, Vorteil 1 falls das Ziel überrascht wird oder mit einem Verbündeten im Kampf liegt<br>_**Gewehr**_ (Angriff mit Schaden): Geschicklichkeit vs. Deckung<br>_**Betäubungskugel**_ (_Bewusstlos_ zufügen): Geschicklichkeit vs. Zähigkeit<br>_**Schuss ins Knie**_ (_Verlangsamt_ zufügen): Geschicklichkeit vs. Deckung, Vorteil 1<br>_**Maschinenpistole**_ (Angriff mit Schaden, 10' Würfel): Geschicklichkeit vs. Deckung<br>_**Leerenschritt**_ (_Teleportation_ wirken): Auto-Erfolg auf KL 5 durch _Wohlfokus_<br>_**Schattenschleier**_ (_Dunkelheit_ wirken): Vergehen vs. 12 - 16 (KL 1 - 3)<br>_**Schattenrolle**_ (_Resistenz_ wirken): Bewegung vs. 16 (KL 3)<br>_**Extradimensionale Tasche**_ (_Objekt absorbieren_ wirken): Bewegung vs. 18 (KL 4)
 ___
+
 ### Hexenschwert
 Ebenso gekonnt mit dem Schwert wie mit der Zauberei weben Hexenschwerter aus Magie und Kampfkunst eine mächtige Kombination. Ob sie Feinde mit flammendem Schwert in Brand setzen, Kraftbarrieren beschwören, um Angriffe abzuwenden oder Gegner mit Teleportation im Staub lassen, Hexenschwerter kontrollieren das Schlachtfeld mit unanfechtbarer Magie.
+
 #### Strategie
 Das Hexenschwert ist ein Meister der Vielfalt. Obwohl sie am meisten in der Hitze des Gefechts hervortreten, können Hexenschwerter auch ihre Schutz- und Bewegungsattribute nutzen, um verschiedene andere Hindernisse zu überwinden.
 
@@ -502,11 +573,14 @@ Im Kampf erlaubt die Fertigkeit *Attributsubstitution* Hexenschwertern, ihren ho
 **Fertigkeiten:** Attributsubstitution II (Energie -> Geschicklichkeit), Kampfmoment, Blitzreflexe I
 
 **Wichtige Ausrüstung:** Kettenhemd, Falchion
+
 #### Bevorzugte Aktionen
 _**Falchion**_ (Angriff mit Schaden): Energie vs. Deckung, Vorteil 1<br>_**Entflammen**_ (_Anhaltender Schaden_ zufügen): Energie vs. Deckung (Vorteil 1 falls Falchion geführt wird)<br>_**Betäubender Schlag**_ (_Betäubt_ zufügen): Energie vs. Zähigkeit<br>_**Feuerwand**_ (_Barriere, 10' Linie_ wirken): Energie vs. 16 - 20 (KL 1 - 5), Nachteil 1<br>_**Rauchschritt**_ (_Teleportation_ wirken): Bewegung vs. 16 (KL 3)<br>_**Kraftschild**_ (_Resistenz_ wirken): Schutz vs. 16 (KL 3)
 ___
+
 ### Leerentemplar
 Leerentemplare eines uralten Ordens von Schlachtmagiern erfahren mindestens 10 Jahre Training, bevor sie auch nur ihren ersten Versuch der rigorosen Tests beginnen können, um ein voller Leerentemplar zu werden. Als tödliche Mischung aus Soldat und Leerenmagier bilden sie eine schwer gepanzerte Einheit, die andere Soldaten vor Gefahren bewahrt. Ihre hoch begehrte Wächterrüstung verstärkt ihre Kontrolle über die Leere, sodass ihre Fähigkeiten, feindliche Angriffe zu neutralisieren, erhöht sind.
+
 #### Strategie
 Leerentemplare sind auf Verteidigung spezialisiert und führen ihre Leerenkräfte, um Angriffe von Lasern, Magie und anderer Art zu verschlucken. Mit ihrem hohen Energieattribut rufen die Templare die Leere an um so gut wie jede Attacke aufzulösen. Auch wenn ihre schwere Rüstung sie langsamer macht als manch anderen Soldaten können sie sich und Verbündete mit *Aura: Hast* schneller machen und *Teleportation* erlaubt ihnen Zugang zu Gebieten, die anderen verwehrt blieben.
 
@@ -517,12 +591,15 @@ Im Kampf ist die Hauptaufgabe des Templars, seine Verbündeten am Leben zu halte
 **Fertigkeiten:** Defensive Reflexe I, Konterschlag I, Wächter I
 
 **Wichtige Ausrüstung:** Kampfschild, Pistole, Templarrüstung (als Plattenpanzer gewertet), 1 Granate
+
 #### Bevorzugte Aktionen
 _**Leereneutralisierung**_ (Verteidigungsaktion): Energie vs. Angriffswurf des Ziels, Vorteil 1<br>_**Leerenmatrix**_ (10' Linie _Barriere_ wirken): Energie vs. 16 - 20 (KL 3 - 5)<br>_**Erquickungsaura**_ (_Aura: Hast_ wirken): Bewegung vs. 18 (KL 4)<br>_**Kraftstoß**_ (_Erzwungene Bewegung_ zufügen): Bewegung vs. Deckung<br>_**Paralysestrahl**_ (_Immobilisiert_ zufügen): Bewegung vs. Deckung<br>_**Telekinese**_ (_Telekinese_ wirken): Bewegung vs. 16 (KL 3)<br>_**Unterdrückungsfeld**_ (5' _Aura: Erzwungene Bewegung_ zufügen): Energie vs. 18 (KL 4)
+
 ## EP erhalten und im Level aufsteigen
 Während die Legende, die du erschaffst, ihren Lauf nimmt und in Gefahr und Gravitas steigt, wird die Macht deines Charakters ebenso wachsen, um den Herausforderungen zu entsprechen. Diese Macht erhält er in Form von Erfahrungspunkten (EP), die der GM als Belohnung vergibt und die es dir erlauben, im Level aufzusteigen und so Zugang zu neuen Fertigkeiten, Attributen, Harmen und Wohlen zu erhalten.
 
 Deine gesamten gesammelten EP bestimmen dein Level, wobei jede 3 EP dir erlauben, auf das nächste Level aufzusteigen. Dein Level bestimmt dabei die möglichen Höchstwerte für deine Attribute und gibt einen groben Hinweis deiner Macht im Vergleich mit anderen Charakteren, NPCs und Monstern. Die *Spielercharakter Levelfortschritt*-Tabelle gibt die EP-Voraussetzungen und Höchstwerte für Attribute für jedes Level an.
+
 #### Spielercharakter Levelfortschritt
 | Gesamt-EP | Level | Höchstwert für Attribute |
 | --------- | ----- | ------------------------ |
@@ -559,10 +636,13 @@ Die vollständige Liste aller verfügbaren Fertigkeiten kann [hier](<./Listen/Fe
 | 10           | -      | 4d8            |
 
 **Anmerkung:** Ein Attributwert von 10 kann nicht mit Attributpunkten gekauft werden. Er kann nur durch Fertigkeiten, Wohle oder andere besondere Umstände erreicht werden. Kein Attribut kann über den Wert 10 hinaus ansteigen.
+
 ### Neue Trefferpunkte
 In *Open Legend* sind Attribute der Weg, wie du deine Trefferpunkte erhöhen kann. Wenn du deinen Charakter widerstandsfähiger machen willst, erhöhe dein Zähigkeit-, Präsenz- oder Willenskraft-Attribut. Wie in der Gleichung der Standardtrefferpunkte dargelegt, wirst du jedes Mal, wenn du eines dieser Attribute um 1 erhöhst, 2 Trefferpunkte gewinnen.
+
 ## Jenseits dem ersten Level starten
 Manchmal stößt ein Charakter zu einer laufenden Kampagne hinzu, in der die anderen Spielercharaktere schon mehrere Level aufgestiegen sind. In diesem Fall wäre es nicht ausgewogen, einen Charakter auf Level 1 der Gruppe hinzuzufügen. In solchen Situationen kannst du die *Charaktere jenseits dem ersten Level*-Tabelle nutzen, um Attributpunkte, Fertigkeiten und Wohlstand des Charakters zu bestimmen. Beim Wählen deiner Startausrüstung kannst du drei Gegenstände deines momentanen Wohlstandes sowie eine beliebige Anzahl an Gegenständen niedrigeren Wertes wählen.
+
 #### Charaktere jenseits dem ersten Level
 
 | Level | EP  | Attributpunkte | Attributhöchstwert | Fertigkeitenpunkte | Wohlstand |

@@ -2,14 +2,17 @@
 
 # Kapitel 9: Spezialausrüstung
 Kapitel 6 hat dir die häufigsten Arten von Ausrüstung näher gebracht, die dein Charakter benutzen wird. In diesem Kapitel lernst du Regeln für besondere Ausrüstung kennen, die nicht so allgegenwärtig ist. Als erstes lernst du außergewöhnliche Gegenstände kennen: Waffen, Rüstung und andere Gegenstände, die mit Magie verstärkt, von Meistern geschmiedet, mit futuristischer Technologie ausgestattet oder anderweitig normalen Gegenstände gleicher Art überlegen sind. Danach lernst du, wie Reittiere und Fahrzeuge umgesetzt sind, die deine Charaktere für bessere Beweglichkeit und andere taktische Möglichkeiten reiten oder steuern können.
+
 ## Außergewöhnliche Gegenstände
 In Kapitel 6 wurde schon besprochen, wie wichtig einprägsame und besondere Gegenstände in Geschichten sind, z.B. Arthurs **Exkalibur**, Lovecrafts **Necronomicon**, Thors Hammer **Mjolnir** oder **Spice** aus Frank Herberts Roman *Dune*. Viele großartige Geschichten brauchen diese Relikte und in diesem Abschnitt zeigen wir dir, wie du sie für dein Open Legend Spiel selbst erstellen kannst.
 
 In Open Legend werden solche Gegenstände großer Kraft als *Außergewöhnliche Gegenstände* bezeichnet, da sie Mächte jenseits derer normaler Waffen, Rüstung oder Gegenstände verleihen.
+
 ### Außergewöhnliche Gegenstände erhalten
 Außergewöhnliche Gegenstände können auf viele verschiedene Weise erhalten werden. Sie können aus dem Schatz eines besiegten Feindes gezogen, von einem Wohltäter als Belohnung vergeben, einem mysteriösen reisenden Händler abgekauft oder von einem Spielercharakter mit der Fertigkeit *Außergewöhnlichen Gegenstand Erschaffen* geschmiedet werden.
 
 Außergewöhnliche Gegenstände sind aber so mächtig, dass sie den Verlauf der Geschichte und die Fähigkeiten ihres Führers stark beeinflussen können. Daher brauchen sie immer die Zustimmung des GM, wenn sie erhalten werden sollen. Der GM kann den Wohlstandswert als grobe Einordnung der relativen Macht des außergewöhnlichen Gegenstände benutzen, aber die Entscheidung, ob ein Charakter einen solchen Gegenstand erhalten sollte oder nicht, sollte immer auch von anderen Faktoren abhängig gemacht werden. Was trägt der Gegenstand zur Geschichte bei? Wie wird das Machtverhältnis innerhalb der Spieler\*innengruppe dadurch beeinflusst? Solche und andere Fragen kann der GM sich bei seiner Abwägung stellen.
+
 ### Beschreibung außergewöhnlicher Gegenstände
 Außergewöhnliche Gegenstände unterscheiden sich von normalen Waffen, Rüstung und anderer Ausrüstung, weil sie dem sie führenden Charakter Zugang zu Attributen, Harmen und Wohlen erlauben, die seine eigene Macht übersteigen. Anders ist es auch möglich, dass sie Attribute, Harme oder Wohle, die der Charakter schon nutzen kann, verstärken oder erweitern. Die Tabelle *Außergewöhnliche Gegenstände* stellt Beispiele dieser Gegenstände aus vielen verschiedenen Genres dar. Die Beispiele umfassen Waffen und Ausrüstung, potente Magie, Alchemie und Technologie und sollten eine Fülle an Inspiration schaffen, mit der du selbst außergewöhnliche Gegenstände für deine eigenen Kampagnen erstellen kannst.
 
@@ -91,6 +94,7 @@ Außergewöhnliche Gegenstände unterscheiden sich von normalen Waffen, Rüstung
 **Besonders** - Der Gegenstand hat eine besondere Eigenschaft, deren spezifische Regelauswirkunken vollständig in der Beschreibung dieser Eigenschaft erklärt werden.
 
 **Waffe (Typ)** - Dieser Gegenstand ist eine Waffe des angegebenen Typs. Es hat alle Vorzüge und Nachteile dieser Art Waffe und kann diese beim Angreifen nutzen.
+
 #### Ausführliche Gegenstandsliste
 ##### Haftstiefel
 **Wohlstandswert:** 2
@@ -98,12 +102,14 @@ Außergewöhnliche Gegenstände unterscheiden sich von normalen Waffen, Rüstung
 *Aus einem ultrawiderstandsfähigen Leder geschaffen, halten diese Stiefel das gesamte Gewicht ihres Trägers. Mithilfe von biotechnischen Nanogewebesohlen haften sie an allen Oberflächen, bis sie deaktiviert werden.*
 
 **Besonders:** Diese Stiefel erlauben dem sie tragenden Charakter, automatisch bei Würfen erfolgreich zu sein, die klettern involvieren und lassen ihn an Oberflächen haften, selbst wenn er kopfüber ist. Weil das Haften automatisch ist, sind keine Aktionen nötig, um diesen Effekt aufrechtzuerhalten und ein bewusstloser Charakter bleibt haften.
+
 ##### Adrenalin-Biomod
 **Wohlstandswert:** 4
 
 *Diejenigen, die bereit sind, die hoch invasive Installation dieses Biomods durchzustehen, werden sich das nächste Mal danken, wenn sie im Kampf eine Kugel abbekommen und der Biomod ihnen automatisch den Schmerz mit einem Adrenalinschuss nimmt.*
 
 **Eigenschaften:** Heilen 3, Anhaltend (Heilen)
+
 ##### Aegis des Schutzes
 **Wohlstandswert:** 4
 
@@ -112,18 +118,21 @@ Außergewöhnliche Gegenstände unterscheiden sich von normalen Waffen, Rüstung
 **Eigenschaften:** Energie 5, Autonom
 
 **Besonders:** Sobald eine Aegis des Schutzes an einer Oberfläche angebracht und aktiviert wurde, kann der Gegenstand nicht mehr bewegt werden. Ihn erfolgreich zu entfernen zerstört den Gegenstand. Aller Schaden, der von Aegis des Schutzes zugefügt wird, ist tödlicher Schaden.
+
 ##### Schwarzer Lotus Extrakt
 **Wohlstandswert:** 6
 
 *Unter denjenigen, die sich mit den dunklen Künsten beschäftigen, wird kein Gift mehr gefürchtet als das Extrakt der Blätter des schwarzen Lotus.*
 
 **Eigenschaften:** Tod 9, Augmentierend, Verbrauchsgut, Hartnäckig
+
 ##### Kugelfischgift
 **Wohlstandswert:** 3
 
 *Mit nur einem Tropfen im unbeobachteten Kelch oder einer guten Menge auf einer Klinge macht dieses Gift sein Ziel still und starr, sodass es nicht mehr fliehen kann.*
 
 **Eigenschaften:** Immobilisiert 5, Augmentierend, Verbrauchsgut
+
 ##### Buch der Schatten
 **Wohlstandswert:** 5
 
@@ -132,6 +141,7 @@ Außergewöhnliche Gegenstände unterscheiden sich von normalen Waffen, Rüstung
 **Eigenschaften:** Dunkelheit 5, Kreatur beschwören 5, Geblendet 5
 
 **Besonders:** Die Kräfte des Buches zu nutzen entzieht normalsterblichen ihre Lebenskraft. Jedes Mal, wenn eine Kreatur dieses Buch nutzt und erfolgreich einen Harm oder ein Wohl von Kraftlevel 5 oder höher damit wirkt, muss sie einen Wurf auf Willenskraft mit HW 15 machen. Bei einem Fehlschlag erleidet sie eine Instanz des Harmes *Erschöpft*.
+
 ##### Großhirnsonde
 **Wohlstandswert:** 3
 
@@ -140,30 +150,35 @@ Außergewöhnliche Gegenstände unterscheiden sich von normalen Waffen, Rüstung
 **Eigenschaften:** Gedankenraub 8
 
 **Besonders:** Diese Maschine muss vorsichtig am Ziel angebracht werden. Damit das möglich ist, muss das Ziel also bewusstlos oder anderweitig vollständig immobilisiert oder hilflos sein, bevor der *Gedankenraub*-Angriff ausgeführt werden kann. Solange das Ziel von einem Harm dieses Gegenstände betroffen ist, leidet es automatisch unter dem Harm *Immobilisiert*, bis der erste Harm (*Gedankenraub*) beendet ist.
+
 ##### Würgehalsband
 **Wohlstandswert:** 1
 
 *Dieses einfache Halsband aus Stahl würgt jeden, der es anlegt.*
 
 **Eigenschaften:** Verflucht (Anhaltender Schaden 2)
+
 ##### Colt 45
 **Wohlstandswert:** 3
 
 *Mit seinem ziervoll geschnitzten Elfenbeingriff und dem Ingenieurswitz der Prärie ist dieses Eisen der einzige Schutz, den ein Revolverheld braucht.*
 
 **Eigenschaften:** Fatal 1, Hartnäckig, Waffe (Revolver)
+
 ##### Kristallkugel
 **Wohlstandswert:** 3
 
 *Keine Mystikerin sollte ohne das zentrale Werkzeug ihrer Zunft - zum hinter die Kulissen der normalen Welt lugen - sein.*
 
 **Eigenschaften:** Fernsicht 6
+
 ##### Digitale Tarnkleidung
 **Wohlstandswert:** 4
 
 *Diese Spezialkleidung wird von verdeckten Eliteeinheiten bei top-secret Spionagemissionen genutzt. 360 Grad Kameras nehmen die Umgebung auf, mit denen die Außenseite der Kleidung aus jeder Perspektive eine fotorealistische Sicht ohne den Träger darin projiziert.*
 
 **Eigenschaften:** Verborgenheit 5, Zuverlässig
+
 ##### Dotanuki
 **Wohlstandswert:** 5
 
@@ -172,36 +187,42 @@ Außergewöhnliche Gegenstände unterscheiden sich von normalen Waffen, Rüstung
 **Eigenschaften:** Fatal 2, Waffe (Katana)
 
 **Besonders:** Ein guter Schlag mit dem Dotanuki kann ein Ziel schnell ausbluten lassen. Wann immer ein Angriff mit dem Dotanuki die Verteidigung eines Ziels um 20 oder mehr übertrifft, fügt es dem Ziel automatisch den Harm *Anhaltender Schaden 9* zu.
+
 ##### Explosive Munition
 **Wohlstandswert:** 2
 
 *Diese besondere Munition entflammt beim Einschlag, sodass das Ziel in eine Flammenwolke gehüllt wird.*
 
 **Eigenschaften:** Anhaltender Schaden 4, Augmentierend, Verbrauchsgut
+
 ##### Feuerbrand
 **Wohlstandswert:** 4
 
 *Ein Langschwert mit einem goldenen Griff. An der Klinge entlang glühen rote Runen der Macht. Auf Befehl hüllt das Schwert sich in Flammen.*
 
 **Eigenschaften:** Anhaltender Schaden 4, Harmvoll (Anhaltender Schaden), Schaden (Feuer), Waffe (Langschwert)
+
 ##### Frostbiss
 **Wohlstandswert:** 4
 
 *Mit winterlichen Mustern arkaner Magie überzogen und eiskalt auf der Haut friert dieser Plattenpanzer Feinde ein, bevor sie angreifen können.*
 
 **Eigenschaften:** Energie 3, Anhaltend (Aura), Rüstung (Plattenpanzer)
+
 ##### Geisterfeuer
 **Wohlstandswert:** 2
 
 *Diese weiße alchemische Flüssigkeit entzündet sich bei Kontakt mit Luft. Normalerweise ist sie fest in einer Glasflasche versiegelt und wird auf Feinde geworfen.*
 
 **Eigenschaften:** Energie 5, Verbrauchsgut
+
 ##### Helm der Wahrheit
 **Wohlstandswert:** 5
 
 *Dieser reich verzierte Helm gibt dem Tragenden ein Bewusstsein des Mutes, der Wahrheit und Gerechtigkeit. Manche meinen aber, dass die Magie sogar zu weit geht, da der Tragende nur noch die Wahrheit sprechen kann.*
 
 **Eigenschaften:** Verstärken 3, Anhaltend (Verstärken), Verflucht (Wahrheitsgebunden 5)
+
 ##### Horn des Donners
 **Wohlstandswert:** 5
 
@@ -210,18 +231,21 @@ Außergewöhnliche Gegenstände unterscheiden sich von normalen Waffen, Rüstung
 **Eigenschaften:** Fläche (20' Kegel)
 
 **Besonders:** Der nutzende Charakter kann mit einer großen Aktion in das Horn blasen um einen Flächenangriff als 20' Kegel auszuführen. Der Angriff hat Kraft 5 gegen Zähigkeit. Kreaturen, die von der Attacke getroffen werden, erleiden die Harme *Taub* (Kraftlevel 4) und *Niedergeschlagen* (Kraftlevel 1). Objekte in der Umgebung werden statt den Harmen der Attacke dem doppelten Schaden ausgesetzt. Das Horn kann ohne Risiko einmal pro Tag geblasen werden. Wann immer es öfter geblasen wird, gibt es eine 25% Chance, dass das Horn beim Versuch zerbirst.
+
 ##### Jetpack
 **Wohlstandswert:** 3
 
 *Als Meisterwerk der Technologie erlaubt dieses Jetpack seinem Nutzer, frei wie ein Vogel am Himmel zu fliegen.*
 
 **Eigenschaften:** Fliegen 6
+
 ##### Laserkanone
 **Wohlstandswert:** 6
 
 *Dieses Laserturret entfesselt einen massiven Strahl stark aufgeladener Photonen, um Feinde zu dezimieren. Ihre gigantische Kraft wird durch die nötige Zeit, sie aufzuladen, ausgeglichen.*
 
 **Eigenschaften:** Fläche (50' Linie), Fatal 2, Waffe (Kanone)
+
 ##### Kriegshammer der Dominanz
 **Wohlstandswert:** 4
 
@@ -230,12 +254,14 @@ Außergewöhnliche Gegenstände unterscheiden sich von normalen Waffen, Rüstung
 **Eigenschaften:** Aura 8, Waffe (Kriegshammer)
 
 **Besonders:** Das Aura-Wohl des Kriegshammers kann nur den Harm *Provoziert* verbreiten. In der ersten Runde eines Kampfes, kann die Aura als kleine Aktion aktiviert werden.
+
 ##### Phasergewehr
 **Wohlstandswert:** 4
 
 *Dieses kompakte Gewehr aus dem 30. Jahrhundert wurde für optimale Präzision auf Reichweiten konstruiert, die das eigene Auge gar nicht mehr sehen kann. Indem ein kurzer Strom reiner Energie verschossen wird, bleibt das Gewehr lautlos und ohne Rückstoß.*
 
 **Eigenschaften:** Schaden (Energie), Fatal 2, Waffe (Scharfschützengewehr)
+
 ##### Plasmaklinge
 **Wohlstandswert:** 5
 
@@ -244,18 +270,21 @@ Außergewöhnliche Gegenstände unterscheiden sich von normalen Waffen, Rüstung
 **Eigenschaften:** Entwaffnet 3, Harmvoll (Entwaffnet), Schaden (Energie), Fatal 1, Waffe (Katana)
 
 **Besonders:** Wenn ein Angriff mit der Plasmaklinge die Verteidigung eines Ziels um 10 oder mehr übertrifft, wird der getroffene Körperteil abgetrennt und der gesamte Schaden des Angriffs ist tödlich. Außerdem erleidet das Ziel den Harm *Demoralisiert* (Kraftlevel 3) für den Rest des Kampfes. Dieser Effekt kann nicht gebrochen werden.
+
 ##### Trank der großen Heilung
 **Wohlstandswert:** 2
 
 *Diese tiefblaue Flüssigkeit in einer größeren Flasche kann sogar schwere Wunden schließen und findet sich meist in einer größeren Flasche als bei den schwächeren Varianten.*
 
 **Eigenschaften:** Heilen 7, Konsumgut
+
 ##### Trank der kleinen Heilung
 **Wohlstandswert:** 1
 
 *Diese kleine Flasche enthält eine dicke blaue Flüssigkeit, die leichte Wunden in Sekunden schließen kann.*
 
 **Eigenschaften:** Heilen 3, Konsumgut
+
 ##### Raketenwerfer
 **Wohlstandswert:** 3
 
@@ -264,36 +293,42 @@ Außergewöhnliche Gegenstände unterscheiden sich von normalen Waffen, Rüstung
 **Eigenschaften:** Fatal 2, Verbrauchsgut, Waffe (Kanone)
 
 **Besonders:** Diese Waffe hat extreme Reichweite und die Eigenschaften Präzise, Verzögert bereit, Schwer und Fläche (15' Würfel). Weiterhin hat sie die Harme *Anhaltender Schaden*, *Betäubt* und *Erzwungene Bewegung*. Die Eigenschaft *Verbrauchsgut* bezieht sich auf die Munition. Jeder Schuss verbraucht einen außergewöhnlichen Gegenstand.
+
 ##### Stab der Furcht
 **Wohlstandswert:** 3
 
 *Dieser kurze Stab ist aus Menschenknochen geschaffen und seinen Kopf ziert der Schädel eines schreienden Menschen.*
 
 **Eigenschaften:** Furcht 7
+
 ##### Schlafgas
 **Wohlstandswert:** 4
 
 *Manche Granaten zerfetzen deine Feinde. Diese ist eher für diejenigen geeignet, die einen subtileren Angang bevorzugen.*
 
 **Eigenschaften:** Bewusstlos 5, Verbrauchsgut, Fläche (15' Würfel)
+
 ##### Seelensauger
 **Wohlstandswert:** 2
 
 *Dieser dünne schwarze Stab gibt grüne nekrotische Energie von sich, die in der Lage ist, die Seelen aus seinen Feinden zu reißen.*
 
 **Eigenschaften:** Erschöpft 5
+
 ##### Fernglas der Weitsicht
 **Wohlstandswert:** 4
 
 *Diese Steampunk-Erfindung gibt seinem Nutzer die Sicht eines Adlers.*
 
 **Eigenschaften:** Wahrnehmung 6
+
 ##### Transmogrifizierungsstrahl
 **Wohlstandswert:** 5
 
 *Beliebt bei verrückten Wissenschaftlern weit und breit, verschießt diese Waffe einen lila Energiestrahl, der das Ziel in verschiedene kümmerliche Kreaturen verwandeln kann.*
 
 **Eigenschaften:** Polymorph 6, Hartnäckig, Kraftvoll 1
+
 ##### Universalzugangs-Implantat
 **Wohlstandswert:** 6
 
@@ -302,14 +337,17 @@ Außergewöhnliche Gegenstände unterscheiden sich von normalen Waffen, Rüstung
 **Eigenschaften:** Überzeugung 7, Autonom
 
 **Besonders:** Das UZI kann nur durch eine (illegale) Operation entfernt werden. Der Nutzer wird von Scans immer als hochrangiger Regierungsbeamter erkannt, sodass er mit seinem Rang an Überzeugungskraft gewinnt. Dazu gibt das UZI dem Charakter außerdem einen Wohlstandswert von 6 für örtliche Ausgaben. Letztlich zeichnet das Gerät alles auf, was der Nutzer tut und sendet Berichte darüber an den Schaffer des Implantats. Das Implantat hat Wahrnehmung 5, allerdings nur für die Gedanken und Handlungen des Nutzers. Falls der Nutzer einen bestrittenen Wurf nicht schafft, um seine Handlung zu verschleiern, schickt das Implantat ohne Warnung einen Alarm und versucht, den Nutzer zu überreden, von seinem Pfad abzulassen.
+
 ##### Arbeiterroboter
 **Wohlstandswert:** 4
 
 *Dieser kleine Roboter von Flaschengröße besteht aus unzähligen beweglichen Teilen, Zahnrädern, Lüftern und Reglern. Obwohl er Schwierigkeiten mit komplexen Anweisungen hat, ist er als täglicher Assistent im Ingenieurswesen sehr nützlich.*
 
 **Eigenschaften:** Kraft 3, Autonom
+
 ### Eigene außergewöhnliche Gegenstände konzipieren
 Die hier aufgeführten außergewöhnlichen Gegenstände sollen als Startpunkt der Inspiration für dich wirken, wie diese Gegenstände aussehen und in deine Kampagne passen könnten. Um deine eigenen Gegenstände zu erstellen, kannst du vier einfachen Schritten folgen. Attribute sowie Harme und Wohle festlegen, Eigenschaften festlegen, besondere Eigenschaft schreiben, Wohlstandswert als grobe Repräsentation der Macht des Gegenstände berechnen.
+
 #### Schritt 1: Attribute, Harme und Wohle wählen
 Ein außergewöhnlicher Gegenstand kann Zugang zu einem oder mehreren Attributen, Harmen und Wohlen gewähren. Wähle eine beliebige Kombination daraus aus.
 
@@ -413,14 +451,18 @@ Nachdem du die besondere Eigenschaft deines Gegenstände beschrieben hast, erste
 
 #### Schritt 4: Gesamtwohlstandswert berechnen
 Berechne den totalen Wohlstandswert anhand aller Modifikatoren aus den vorigen Schritten. Vergleiche den Gegenstand dann mit anderen Gegenstände ähnlicher Macht. Falls nötig, setze den WW etwas höher oder niedriger, um eine akkurate Repräsentation des Einflusses des Gegenstände auf das Spielgeschehen im Vergleich zu anderen außergewöhnlichen Gegenstände zu schaffen. Kein außergewöhnlicher Gegenstand kann einen Wohlstandswert unter 1 haben.
+
 ## Liste legendärer Gegenstände
 Legendäre Gegenstände sind außergewöhnlichen Gegenstände insofern ähnlich, als das sie auch Zugang zu Attributen, Harmen und Wohlen geben. Sie haben aber zwei wichtige Unterschiede: Erstens können sie weitere Eigenschaften haben, die außergewöhnliche Gegenstände nicht haben können. Zweitens geben sie so große und einzigartige Kräfte, dass ihr Einfluss oft nicht einfach mit einem Wohlstandswert numerisch dargestellt werden kann.
+
 ### Legendäre Gegenstände erhalten
 Legendäre Gegenstände sollten mehr sein als nur einfache Belohnungen. Wird ein legendärer Gegenstand in eine Kampagne eingeführt, sollte es meistens der Geschichte in einer bestimmten Weise dienen. Beispielsweise könnten die Spielenden den Bogen *Riesenbann* erhalten, der das Bewusstsein vier legendärer Jäger enthält und ihnen hilft, die Frostriesen zu erschlagen, die das Reich seit einem Jahrhundert plagen.
 
 Weiterhin sollte der GM auf die potentiell Kampagnen-ändernden Konsequenzen von legendären Gegenstände vorbereitet sein. Gibst du den Spielenden eine *Zeitmaschine*, eine *Allkanone* oder eine *Wunderlampe*, musst du darauf gefasst sein, dass diese zu ihrem vollen Potential ausgenutzt werden. Versuche vor allem nicht, die Gruppe legendäre Gegenstände nur auf eine bestimmte Weise nutzen zu lassen, obwohl diese offensichtlich mehr Potential haben.
+
 ### Attribute, Harme und Wohle
 Legendäre Gegenstände nutzen die gleichen Regeln wie außergewöhnliche Gegenstände, wenn es darum geht, Attribute, Harme und Wohle zu bestimmen.
+
 ### Eigenschaften
 Legendäre Gegenstände können alle Eigenschaften besitzen, die auch außergewöhnliche Gegenstände haben können. Weiterhin können sie auch eine beliebige Anzahl der folgenden Eigenschaften haben.
 
@@ -448,6 +490,7 @@ Legendäre Gegenstände können alle Eigenschaften besitzen, die auch außergew�
 **Eigenschaften:** Waffe (Langbogen), Fatal 2, Niederstrecken (Riesen), Geschicklichkeit +1, Wahrnehmung +2, Intelligent
 
 **Intelligent:** Der Bogen kann mit jedem innerhalb von 30' telepathisch kommunizieren und enthält vier separate Persönlichkeiten vergangener Helden. Der GM kann diese Persönlichkeiten so weit entwickeln, wie gewünscht, aber sie alle sehnen sich danach, ihre alte Niederlage gegen den König der Riesen zu sühnen. Solange die Gruppe auf ihr Ziel hinarbeitet teilen die Seelen frei ihren Hort an Wissen über Taktiken, Orte und Heerzahlen der Riesen aus ihrer Zeit. Wird der König der Riesen getötet, so werden die Seelen aus dem Bogen befreit. Zu diesem Zeitpunkt wird der Bogen ein außergewöhnlicher Gegenstand mit den Eigenschaften Waffe (Langbogen) und Fatal 2. Zusätzlich gibt er Vorteil 2 auf alle Angriffe gegen Riesen.
+
 ##### Unendlichkeitsanzug
 *Es wird gemunkelt, dass in den tiefen Weiten des Weltalls auf einem abgelegenen Mond der Unendlichkeitsanzug verborgen liegt. Ein Mechanzug, der so mächtig ist, dass sein Pilot beinahe unbezwingbar wird.*
 
@@ -456,24 +499,28 @@ Legendäre Gegenstände können alle Eigenschaften besitzen, die auch außergew�
 **Besonders:** Der Unendlichkeitsanzug kann zu jeder Zeit eines der ihm zugänglichen Wohle mit der Eigenschaft Anhaltend (Wohl) automatisch aufrechterhalten. Der tragende Charakter kann kann entscheiden, ob der Anzug gerade die Eigenschaft Anhaltend (Verstärken), Anhaltend (Regeneration) oder Anhaltend (Fliegen) hat, wobei eine kleine Aktion zum wechseln genutzt wird.
 
 **Unzerstörbar:** Während er den Anzug trägt, ist der Pilot gegen tödlichen Schaden und alle Effekte immun, die sofortigen Tod auslösen. Weiterhin erhält der Pilot 30 zusätzliche TP, während er den Anzug trägt.
+
 ##### Wunderlampe
 *Wird an ihr gerieben, so entfaltet sich aus der Lampe ein uralter Djinni unvorstellbarer Macht, bereit, die Wünsche seines Besitzers zu erfüllen. Die Dienste des Djinnis kommen aber oft mit einigem an Humbug daher.*
 
 **Eigenschaften:** Präsenz +3
 
 **Wünsche:** Der Djinni erfüllt dem Besitzer der Lampe 3 Wünsche. Der Djinni wird diese Wünsche oft auf seine eigene Art interpretieren, sodass der Besitzer seinen Willen auf sehr unerwartete und nicht wünschenswerte Weise erhält. Wünscht sich jemand zum Beispiel, König des Reichs zu sein, so könnte der Djinni ihn 1000 Jahre in die Zukunft schicken und dort zum König machen, in der das Königreich längst ein desolates Ödland ist. Sobald jemand von der Lampe Besitz ergriffen hat, kann sie keinen neuen Besitzer erhalten, bis alle drei Wünsche ausgesprochen wurden. Nachdem drei Wünsche gemacht wurden, teleportiert sich die Lampe zu einem völlig zufälligen Punkt auf der Welt.
+
 ##### Reaver
 *Diese brutale Axt hat eine gezackte Klinge auf einem Schaft aus Ebenholz, in den vor Qual heulende Gesichter geschnitzt sind. Wird sie im Kampf geschwungen, schickt sie ein außerweltliches Brüllen aus, das Terror in die Herzen aller Feinde schickt.*
 
 **Eigeschaften:** Waffe (Großaxt), Furcht 8, Kraft +2, Präsenz +2, Unfehlbahr
 
 **Brüllen:** Jeder Feind, der seinen Zug innerhalb von 10' vom Träger der Waffe beginnt, erleidet automatisch den Harm *Demoralisiert* auf Kraftlevel 8.
+
 ##### Stab des Erzmagiers
 *Aus dem Eichenholz des Weltenbaums geschnitzt und mit Juwelen der Elementarebenen bestückt, ist dieser Stab eine der mächtigsten Bereicherungen zum Arsenal jedes Magiers.*
 
 **Eigenschaften:** Energie 7, Energie +2, Kraftvoll, Anhaltender Schaden 9, Harmvoll (Anhaltender Schaden)
 
 **Kehrschlag:** Der Träger kann den Stab absichtlich entzweibrechen, um seine Macht in einer verheerenden Explosion elementarer Energie zu entfesseln. Der Träger wird sofort getötet und alle Kreaturen innerhalb von 100 Fuß werden von einem Angriff mit Schaden getroffen: 1d20 + 4d8, Vorteil 9 gegen Deckung.
+
 ##### Zeitmaschine
 *Der ultimative Erfolg jedes verrückten Wissenschaftlers und Quantenphysikers. Dieses Fahrzeug kann seine Insassen durch die vierte Dimension transportieren.*
 
@@ -484,14 +531,17 @@ Legendäre Gegenstände können alle Eigenschaften besitzen, die auch außergew�
 - Die Richtung der Reise durch die Zeit wird umgekehrt.
 - Die Reisenden verfehlen ihr Ziel um 2d4 Jahre.
 - Die Reisenden werden von einer Horde vierdimensionaler Chronobiester angegriffen.
+
 ## Reittiere & Fahrzeuge
 In diesem Abschnitt findest du Regeln zum Reiten deines kampfgestählten Kriegsrosses oder Fliegen deines guten alten Raumjägers. In spielmechanischer Sicht werden Reittiere und Fahrzeuge gleich behandelt. Diese Regeln greifen, wann immer ein Charakter eine Kreatur oder ein Fahrzeug als Primärmodus der Fortbewegung nutzt. Du bewegst dich mit dem Reittier oder dem Fahrzeug (siehe unten für Aktionen beim Reiten oder Fahren), wirst aber sonst als gesonderte Entität gesehen für Zielen, Harme und Wohle und andere solche Regeln.
 
 In diesem Text werden die Worte "Reittier" und "Fahrzeug" austauschbar genutzt. Spielmechanisch sind die Regeln die gleichen, egal ob es sich um ein Pony oder um einen Sternenkreuzer handelt, sodass jeder Verweis auf "Reittier" auch für "Fahrzeug" gilt und umgekehrt.
+
 ### Aktionen als Reiter / Fahrer
 Sitzt du auf einem Reittier, kannst du eine beliebige Anzahl deiner Aktionen deinem Reittier überlassen. Reitest du z.B. auf einem Velociraptor, kannst du deine Bewegungsaktion ausgeben, um deinen Raptor sich 40' bewegen zu lassen. Wann immer dein Reittier sich bewegt, bewegst du dich mit. Anstatt mit eigenen Waffen anzugreifen, kannst du deine große Aktion auch ausgeben, um deinen Raptor mit seinen Klauen angreifen zu lassen. Dein Reittier hat seine eigenen Attribute und Fertigkeiten, sodass es bei Aktionen nicht von deinen Fertigkeiten oder Attributen profitiert.
 
 Typischerweise können Reittiere und Fahrzeuge nicht unabhängig von ihren Reitern handeln und haben so nur Aktionen, wenn sie ihnen vom Reiter gegeben werden.
+
 ### Beispielreittiere und -fahrzeuge
 Unten findest du eine Reihe an Reittieren und Fahrzeugen um deine Charaktere über Land, See, Luft und durch den Weltraum zu befördern. Diese Beispiele umfassen verschiedene Genres und sollen keine abschließende Liste darstellen. GMs und Spielende sollten diese Beispiele als Hilfestellung sehen und zusammenarbeiten, um Regeln für weitere Reittiere zu schaffen, die zu ihrer Kampagne passen.
 
@@ -510,6 +560,7 @@ Unten findest du eine Reihe an Reittieren und Fahrzeugen um deine Charaktere üb
 **SG (Schadensgrenze)** gibt an, wie viel Schaden das Reittier aushalten kann. Fallen die TP eines Reittiers auf 0, erhält es ein Level an Verwundung/Beschädigung und seine TP kehren auf ihren Maximalwert zurück. Jeder noch überbleibende Schaden wird von den wieder aufgefüllten TP abgezogen. Ein Reittier kann also mit einer Attacke auch mehrere Level an Wunden erleiden. Ein Reittier hat Nachteil anhand seines Levels an Wunden / Schaden auf alle Aktionswürfe. Sobald das Level an Wunden des Reittiers seine Schadensgrenze erreicht, fällt es in Ohnmacht / wird es gestoppt und kann nicht mehr handeln, bis es geheilt oder repariert ist. Ein Level an Wunden / Schaden zu heilen oder reparieren dauert ohne andere Mittel einen Tag pro Wohlstandswert des Reittiers.
 
 **Verteidigung** gibt die Zähigkeit, Deckung und Entschlossenheit des Reittiers oder Fahrzeugs an. Falls "immun" aufgeführt ist, bedeutet das, dass Angriffe gegen diese Verteidigung auf das Reittier keinen Einfluss haben.
+
 #### Eigenschaften
 **Schneller als Licht (FTL)** - Das Fahrzeug kann schneller als die Lichtgeschwindigkeit reisen. Um sich so zu bewegen muss der Pilot drei Runden in Folge eine Fokusaktion dafür verwenden.
 

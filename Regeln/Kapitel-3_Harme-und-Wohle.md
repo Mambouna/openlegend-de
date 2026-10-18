@@ -4,6 +4,7 @@
 Harme und Wohle sind ein großer Teil dessen, was Open Legend so offen macht. Sie repräsentieren die unendlichen Möglichkeiten, wie dein Charakter andere jenseits von einfachem Schaden beeinflussen kann. Harme sind negative Zustände, mit denen du Feinde belegst, zum Beispiel indem du sie betäubst, demoralisierst oder in Flammen setzt. Wohle sind das Gegenteil: hilfreiche Effekte, die deine Verbündeten beispielsweise fliegen, Schaden widerstehen oder sich mit übermenschlicher Geschwindigkeit bewegen lassen.
 
 Harme und Wohle sind nicht an spezifische Zauber, Attacken oder Gegenstände gebunden. Jeder Charakter kann jeden Harm oder jedes Wohl wirken, solange er die vorausgesetzten Attributwerte hat. Attributvoraussetzungen sollen die Macht von Harmen und Wohlen einschränken, sodass sie in ihrer Stärke mit der Entwicklung deines Charakter mitsteigen. Deshalb kann ein Nekromant auf Level 1 zum Beispiel den Harm *erblinden* mit dem Vergehenswert 5 einsetzen, aber nicht das Wohl *Substanzlos* für sich oder seine Verbündeten, bis er durch genug Erfahrung seinen Vergehenswert auf 7 erhöht hat.
+
 ## Erzähl deine Geschichte mit Harm und Wohl
 Weil Open Legend darauf bedacht ist, Spielmechaniken von der Geschichte zu trennen, kannst du selbst entscheiden, wie es aussieht, wenn du einen Harm oder ein Wohl einsetzt. Hast du zum Beispiel den Harm *Niedergeworfen* durch einen schnellen Tritt, einen Body-Check oder einen telekinetischen Stoß ausgeführt? Wenn du deinen Verbündeten das Wohl *Widerstand* gibst, werden sie in Eisrüstung gekleidet oder von einem Schwarm Droiden gedeckt, der für sie Attacken abwehrt?
 
@@ -18,6 +19,7 @@ Um einen Harm zu wirken, ist die primäre Methode ein Attributwurf mit einem fü
 Um ein Wohl zu wirken, musst du bei einem Attributwurf Erfolg habe, dessen Herausforderungswert anhand des Kraftlevels des Wohls bestimmt wird. Der HW entspricht 10 + 2 x Kraftlevel. Falls ein Wohl mit verschiedenen Kraftleveln genutzt werden kann, entscheidest du nach dem Attributwurf, auf welchem Kraftlevel du es tun möchtest. Während Ziele verschiedene Wohle auf sich liegen haben können, können auch Wohle nicht gestapelt werden. Falls ein zweites Wirken eines gleichen Wohls einen Charakter betreffen würde, entscheidet der Charakter welche Instanz des Wohls er behalten möchte und welche negiert wird. 
 
 Weitere Details zum Wirken von Harmen und Wohlen wie zum Beispiel Reichweite und das Zielen auf mehrere Kreaturen, können in [Kapitel 7: Kampf](<./Kapitel-7_Kampf.md>) gefunden werden.
+
 ### Die Beschreibung eines Harmes lesen
 Die vollständige Liste an Harmen kann [hier](<./Listen/Harme.md>) gefunden werden.
 
@@ -34,6 +36,7 @@ Jede Beschreibung eines Harmes enthält die folgenden Elemente:
 **Beschreibung.** Dieser Eintrag gibt einfach eine grundlegende Idee davon, wie der Harm im Kontext der Geschichte aussehen könnte.
 
 **Effekt.** Dieser Eintrag führt den spielmechanischen Einfluss des Harmes nach den Regeln auf. Manche Harme haben zusätzlich noch eine Sektion _Besonders_ mit erweiterten spielmechanischen Auswirkungen.
+
 ### Die Beschreibung eines Wohles lesen
 Die vollständige Liste an Wohlen kann [hier](<./Listen/Wohle.md>) gefunden werden.
 

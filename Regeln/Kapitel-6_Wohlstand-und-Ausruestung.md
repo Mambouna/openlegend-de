@@ -2,10 +2,12 @@
 
 # Kapitel 6: Wohlstand & Ausrüstung
 Keine Geschichte von Helden ist ohne ebenso heldenhafte Ausrüstung, Waffen und Rüstung vollständig. Indiana Jones hatte seine Peitsche, König Arthur hatte *Exkalibur* und Bilbo hatte das Mithrilkettenhemd. In diesem Kapitel lernst du alles, was du wissen musst, um deinen Charakter auf Level 1 und jenseits davon auszurüsten. Ebenso wird behandelt, wie du deinen Wohlstand verwaltest, während du die Schätze von Weltraumpiraten plünderst oder Hand an die Schatzkammer eines Königs legst.
+
 ## Wohlstand
 Anstatt jedes einzelne Goldstück, jeden Credit oder jedes Kunstwerk im Blick zu behalten, das du auf deinen Abenteuern erhälst, benutzt Open Legend ein vereinfachtes System des Wohlstands.
 
 Jeder Charakter hat einen Wohlstandswert, welcher bei 2 beginnt und die Werte 0 bis 9 annehmen kann, wenn du Reichtum anhäufst oder ausgibst. Dein Wohlstandswert gibt dir eine grundlegende Idee davon, wie dein momentaner Lebensstandard ist und was für Güter und Dienstleistungen du dir leisten kannst. Die *Wohlstandsüberblick*-Tabelle beschreibt den typischen Lifestyle und verfügbare Güter für jeden Wert.
+
 #### Wohlstandsüberblick
 | Wohlstandswert | Lifestyle                                         | bsp. Ausgaben                                                                                        |
 | -------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -40,20 +42,26 @@ Du kannst nichts kaufen, was mehr als einen Wert über deinem eigenen Wohlstands
 
 #### Gesunder Menschenverstand
 Dein Wohlstandswert gibt an, was für Ausgaben unter den jeweiligen Umständen angemessen sind. Falls du in einer Wüste feststeckst, kannst du natürlich trotz des Wohlstands eines Imperators kein Fass Wasser erwerben. Auf die gleiche Weise könnte zum Beispiel der GM entscheiden, dass du neben den finanziellen Mitteln zum Ausheben einer Armee auch noch die nötige Zeit, den nötigen Einsatz und das nötige Charisma brauchst, um die Soldaten zu überzeugen, dir zu folgen.
+
 ### Wohlstand erweitern
 Während du durch die Sterne ziehst, mythische Bestien bezwingst und reiche Aristokraten für dich gewinnst, wird dein Wohlstand wachsen. Der GM entscheidet, wann der Wohlstandswert eines Charakters erhöht wird und die *Wohlstandsüberblick*-Tabelle von oben gibt dir eine Idee, was für Wohlstandswerte Charaktere verschiedener Level generell haben.
 
 Typischerweise könnte der GM Wohlstandswerte erhöhen, nachdem du den Schatz aus der Höhle eines Monsters geborgen, einen Käufer für einen mächtigen magischen Gegenstand gefunden hast oder durch einen Herrscher belohnt wirst.
+
 ## Tragelimit
 Open Legend ist am Werfen von Würfeln, erzählen großer Geschichten und Spaß haben interessiert. Die Regeln, wie viel du tragen kannst sind daher absichtlich vereinfacht, damit du und deine Freunde euch auf das konzentrieren könnt, was zählt: das Spiel.
+
 ### Maximal zwanzig Gegenstände
 Du kannst bis zu 20 Ausrüstungsgegenstände tragen. Nicht eins mehr. Behalte dabei nur die Gegenstände im Blick, die tatsächlich das Spielgeschehen beeinflussen. Du musst also nicht die Hosen oder das Hemd deines Helden auf deinem Charakterbogen aufführen. Deine Rüstung zählt aber.
 
 Mehrere ähnliche Gegenstände können zusammengruppiert werden, zum Beispiel zwanzig Pfeile in einem Köcher oder mehrere Heiltränke an deinem Gürtel, und werden für das Tragelimit nur als ein Gegenstand gezählt. Der GM kann anhand seiner eigenen Einschätzung weitere Einschränkungen einführen. Obwohl 1000 Magazine an Munition nach dieser Regel theoretisch als ein Gegenstand gelten könnten, kann der GM entscheiden, dass ein Charakter so viel nicht tragen kann, oder dass diese Menge als *sperrig* zählt (siehe unten).
+
 ### Maximale Anzahl schwerer Gegenstände anhand des Kraftwertes
 Einige Gegenstände haben die Eigenschaft *schwer*. Du kannst maximal so viele *schwere* Gegenstände mit dir tragen, wie dein Kraftwert groß ist. Sobald du deine Maximalzahl an *schweren* Gegenständen trägst, wird deine Geschwindigkeit halbiert. Ein Charakter mit Kraftwert 0 kann keine schweren Gegenstände tragen. 
+
 ### Ein (oder zwei) sperrige Gegenstände
 Manche Gegenstände haben die *sperrig* Eigenschaft. Du kannst einen einzigen *sperrigen* Gegenstand ohne negative Auswirkungen mit dir tragen. Einen zweiten *sperrigen* Gegenstand kannst du mitführen, aber deine Geschwindigkeit wird dann auf 5' reduziert.
+
 ## Waffen & Geräte
 Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an Ausrüstung an, die du im Kampf benutzen kannst. Sie enthält Beispiele verschiedener Genres und Settings und du kannst existierende Waffen an deine Kampagne anpassen, indem du einfach den Namen änderst aber die spielmechanischen Eigenschaften beibehälst. Ein Flammenwerfer zum Beispiel kann genauso gut ein alchemischer Säurespucker sein. **Beispiele** führen eine oder mehrere Waffen auf, die spielmechanisch equivalent sind. Es handelt sich um keine abschließende Liste, aber es kann dir helfen, loszulegen. Besprich' am besten mit deinem GM, was für Gegenstände in eurem Spiel Sinn ergeben.
 
@@ -112,6 +120,7 @@ Die *Waffen & Geräte*- Tabelle gibt Informationen über eine breite Auswahl an 
 
 > ### Waffen und Spielbalance
 > Open Legend legt meist mehr Wert auf eine gute Geschichte, als auf ein wahrliches ausgewogenes Spiel. Das ist besonders relevant für Waffen. Genauso wie in der Realität, werden nicht alle Waffen in Open Legend ausgewogen sein und manche werden über andere bevorzugt werden. Spielmechanisch hat ein Charakter keinen Anreiz, statt einem Langschwert ein Kurzschwert zu nutzen, da sie bis auf die Möglichkeit, das Langschwert mit einer oder zwei Händen zu führen, gleich sind. Das bedeutet aber nicht, dass die Geschichte nie Situationen hervorbringen kann, in denen ein Kurzschwert einem Langschwert vorzuziehen wäre oder besser passen könnte. Eine neu aufgestellte Diebesgilde könnte zu Beginn nicht die Mittel haben, alle Mitglieder mit Langschwertern auszurüsten, sodass die weniger prominenten Agenten zunächst mit Kurzschwertern ausgerüstet werden könnten.
+
 ### Eigenschaften
 **Fläche** - Eine Flächenwaffe führt immer Multiziel-Attacken der aufgeführten Größe und Form aus und kann nicht für einfache Attacken mit einem Ziel genutzt werden. Falls eine Waffe mehrere verschiedene Flächengrößen hat, kann der Angreifer für jede Attacke entscheiden, welche er nutzen will. Die Attacken dieser Waffen leiden nicht unter dem normalen Nachteil für das Ausführen von Multiziel-Attacken.
 
@@ -200,8 +209,10 @@ Wähle als nächstes eine beliebige Anzahl an weiteren Eigenschaften aus, die di
 | Schnell          | +1                |
 
 *\* Wert des Nachteils anhand der Fläche für Multi-Zielen Angriffe (siehe [Kapitel 7: Kampf](<./Kapitel-7_Kampf.md>))*
+
 ### Schritt 3: Harme auswählen
 Waffen werden in ihrem Kampfstil durch die Harme differenziert, die sie wirken können. Harme haben keinen Einfluss auf den Wohlstandswert der Waffe und die meisten Waffen haben 2 oder 3 assoziierte Harme. Waffen mit 4 oder mehr Harmen müssen vom GM akzeptiert werden.
+
 ### Schritt 4: Wohlstandswert berechnen
 Alle Waffen (mit Ausnahme von unbewaffneter Schlag), starten mit einem Wohlstandswert von 1. Von hier aus berechnest du den finalen Wohlstandswert anhand der Entscheidungen, die du in Schritt 2 und 3 gemacht hast. Vergleiche danach die Waffe mit Gegenständen ähnlicher Macht. Falls nötig, verändere den Wohlstandswert der Waffe noch leicht, damit der WW am Ende eine passende Repräsentation der Wichtigkeit der Waffe in der Geschichte und ihrer Macht im Vergleich zu anderen Gegenständen ist.
 

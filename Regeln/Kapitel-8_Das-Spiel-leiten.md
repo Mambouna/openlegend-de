@@ -19,10 +19,12 @@ Bevor wir uns all diese schönen Sachen anschauen, lass uns kurz überlegen, was
 **Ein guter GM weiß, wenn die Spielenden Spaß haben.** GM zu sein ist ein wichtiger Job. Es ist ähnlich, wie Gastgeber einer Hausparty zu sein. Für rund 2 bis 6 Stunden bist du dafür verantwortlich, dass alle Spaß haben. Während du das Spiel leitest, schau dich im Raum um und frag dich: "Haben hier gerade alle Spaß?"
 
 **Ein guter GM denkt nicht, dass alle auf die gleiche Weise Spaß haben.** Wenn du dich am Spieltisch umschaust und überlegst, wer gerade Spaß hat, ist es auch wichtig zu beachten, dass Spielende aus unterschiedlichen Gründen zum Rollenspiel gezogen werden. Manch einer will einfach nur das Böse bezwingen, andere mögen die schachartige Taktiknatur der Kämpfe, andere möchten epische Geschichten erzählen und wieder andere wollen in ihre realistischen Charaktere eintauchen und diese wachsen sehen. Manche Spieler sind auch gar nicht so am Rollenspiel selbst interessiert, mögen aber den sozialen Aspekt des Zusammenkommens für das Spiel. Ein guter GM weiß, dass alle diese Arten von Spaß legitim sind. Meistens wirst du nicht allen Spielenden gleichzeitig ihre Art von Spaß bieten können, aber du solltest anstreben, dass alle Spielenden an unterschiedlichen Punkten in einer Sitzung ihren Spaß finden.
+
 ## Abenteuer erstellen
 Das Abenteuer steht im Mittelpunkt jeder Sitzung von Open Legend. Sind die Spielenden gerade nicht dabei, Ruinen zu erkunden, in angespannten politischen Situationen zu verhandeln oder epische Monster zu bezwingen, braucht dein Spiel mehr Abenteuer.
 
 Diese Sektion gibt dir die Informationen, die du brauchst, um eine breite Anzahl von anregenden Abenteuern zu erschaffen.
+
 ### Was jedes Abenteuer braucht
 Um zu beginnen, epische Quests zu planen, brauchst du drei wichtige Zutaten:
 
@@ -45,6 +47,7 @@ Der **Twist** in einem Abenteuer ist ein Überraschung, die die Gruppe aus der B
 Zum Anfang ist es generell okay, erst mal mit einer Gefahr und einer Motivation anzufangen, die die Gruppe bewegt, einzugreifen. Du kannst dir direkt zu Anfang einen Twist ausdenken, aber einige der besten Twists entstehen dynamisch aus den Handlungen der Spielenden heraus.
 
 Sobald du die groben Teile eines Abenteuers gefunden hast, kannst du dir überlegen, wie du das Abenteuer organisieren willst. Zwei gern benutzte Wege werden nun beschrieben: Das Sequenzabenteuer und das Sandkastenabenteuer.
+
 ### Das Sequenzabenteuer
 In dieser Art Quest plant der GM eine logische Reihe von Kämpfen und Szenen, durch die die Gruppe sich bewegen wird. Diese Ereignisse könnten anhand eines Ortes geordnet werden (z.B. erkundet die Gruppe Raum für Raum die Türme des Königs) oder aber durch die Zeit gereiht sein (z.B. Verhandlungen eines Friedens zwischen zwei Überlebendencamps in der Zombie-Apokalypse). Ein Abenteuer enthält oft eine gesunde Mischung aus ortsbasierten und zeitbasierten Szenen, wie in der Beispielskizze eines Abenteuers *The System is Down* zu sehen ist.
 
@@ -294,7 +297,11 @@ Sobald du die grundlegenden Werte notiert hast, wähle ein paar der folgenden Fe
 		- 1 Stunde -> 10 Minuten
 		- 8 Stunden -> 1 Stunde
 		- 1 kleine Aktion -> Wohl kann ein Mal als kleine Aktion gewirkt werden. Danach ist noch eine Wirkung per großer Aktion oder Bewegungsaktion möglich.
-	- **Rang 3:** Der Effekt auf Rang 3 hängt von der Dauer des Wohls ab:<br>**Falls das gewählte Wohl eine Dauer von "Aufrechterhalten verlängert" hat**, hast du Vorteil 4 auf deinen Aktionswurf, falls du nur ein einziges Ziel hast. Weiterhin kann eine Instanz des Wohls jede Runde als kostenlose Aktion aufrechterhalten werden, anstatt als kleine Aktion. Falls das Wohl irgendwie zeitweise neutralisiert wird, kannst du es als kostenlose Aktion neu wirken, außer dies wird durch andere spielmechanische Regeln unterbunden. Falls das Wohl Ziel des Harms <em>Annulieren</em> wird, kann dieser Effekt nur mit einer Wirkung des Harms auf Kraftlevel 6 oder höher neutralisiert werden.<br>**Falls das Wohl eine andere Dauer hat**, erhälst du Vorteil 5 auf deinen Aktionswurf, falls du nur ein einziges Ziel hast.
+	- **Rang 3:** Der Effekt auf Rang 3 hängt von der Dauer des Wohls ab:
+        
+        **Falls das gewählte Wohl eine Dauer von "Aufrechterhalten verlängert" hat**, hast du Vorteil 4 auf deinen Aktionswurf, falls du nur ein einziges Ziel hast. Weiterhin kann eine Instanz des Wohls jede Runde als kostenlose Aktion aufrechterhalten werden, anstatt als kleine Aktion. Falls das Wohl irgendwie zeitweise neutralisiert wird, kannst du es als kostenlose Aktion neu wirken, außer dies wird durch andere spielmechanische Regeln unterbunden. Falls das Wohl Ziel des Harms <em>Annulieren</em> wird, kann dieser Effekt nur mit einer Wirkung des Harms auf Kraftlevel 6 oder höher neutralisiert werden.
+        
+	    **Falls das Wohl eine andere Dauer hat**, erhälst du Vorteil 5 auf deinen Aktionswurf, falls du nur ein einziges Ziel hast.
 - **Schadensresistenz (Rang 1 - 4, deine Wahl, nur für GM verfügbar):** Wähle aus *Kraftvoll* und *Präzise* eines aus. Wenn du mit dieser Art von Waffe angegriffen wirst, erhälst du Resistenz anhand des Ranges dieser Fertigkeit:
 	- **Rang 1:** Deine Verteidigungswerte sind um 3 erhöht.
 	- **Rang 2:** Deine Verteidigungswerte sind um 6 erhöht.
@@ -514,6 +521,7 @@ Während Terri Gizmo den gnomigen Kopfgeldjäger durch die Korridore der Raumsta
 **Erfolg mit einem Haken:** Terri gleitet elegant über den Schleim, bemerkt aber erst im letzten Moment das Rohr, dass aus der Decke hervorsteht. Sie schafft es, auszuweichen, indem sie sich mit den Händen davon abstößt, muss aber ihre Schrotflinte fallen lassen. Wenn sie Gizmo weiterverfolgen will, muss sie es unbewaffnet tun.
 
 **Fehlschlag, aber die Geschichte schreitet voran:** Mit all der Grazie eines betrunkenen Elefanten fällt Terri im Schleim auf die Nase. Als sie wieder hochkommt, ist Gizmo schon nicht mehr zu sehen. Jetzt muss sie blitzschnell eine Entscheidung an der nächsten Kreuzung treffen, wenn sie ihr Ziel nicht völlig verlieren will.
+
 #### Heldenhafter Test der Geschicklichkeit (HW 20)
 Jax sitzt am Steuer seines Raumjets inmitten eines Raumkampfes gegen zwei dalturische Zerstörer. Sie sind ihm beide auf den Fersen und wenn er sie nicht bald abschüttelt, werden sie ihre Suchraketen feuern können. Jax rammt den Schubhebel nach vorn und versucht, durch einen schmalen Canyon vor sich zu entkommen.
 

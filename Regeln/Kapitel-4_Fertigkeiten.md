@@ -2,8 +2,10 @@
 
 # Kapitel 4: Fertigkeiten
 In diesem Kapitel findest du die Fertigkeiten, die verfügbar sind, um deinen Charakter in Open Legend zu verfeinern. Fertigkeiten sind dazu da, die Expertisen deines Charakters zu definieren - die Aktionen, Aufgaben und Fähigkeiten, in denen sie allen anderen überlegen sind. Manche Fertigkeiten werden deine großen Aktionen erweitern, zum Beispiel indem sie dich mehrere Ziele mit weniger Nachteil beim Wurf angreifen lassen, während andere dir komplett neue Kräfte geben, wie zum Beispiel die Fähigkeit, deine Gestalt zu verändern.
+
 ## Fertigkeiten erhalten
 Während deiner Abenteuer wird der GM dich mit Erfahrungspunkten (EP) für das Erfüllen von Quests und Vorantreiben der Geschichte belohnen. Jedes Mal, wenn du einen EP erhälst, bekommst du auch einen Fertigkeitenpunkt, der wie bei der Charaktererstellung benutzt werden kann, um neue Fertigkeiten zu kaufen. Du musst diese Punkte nicht sofort ausgeben, wenn du sie erhälst. Du kannst unbenutzte Fertigkeitenpunkte aufheben, um sie später zu benutzen.
+
 ## Die Beschreibung einer Fertigkeit lesen
 Die vollständige Liste an Fertigkeiten kann [hier](<./Listen/Fertigkeiten.md>) gefunden werden.
 

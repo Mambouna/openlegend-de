@@ -35,6 +35,7 @@ Der Rest der Spielenden übernimmt die Rolle der **Player Characters** (PCs). Di
 Egal, was die Motivation jedes einzelnen Charakters ist, die Spielenden teilen ein gemeinsames Ziel: das vom GM vorbereitete Setting und den Beginn der Geschichte zu nehmen und Spaß zu haben. An manchen Tischen mag das wie *Der Herr der Ringe* von J.R.R Tolkien aussehen. An anderen eher wie *Monty Python und der heilige Gral*. Egal, was Spaß an deinem Tisch bedeutet, Open Legend ist ein Teil davon.
 
 Dies ist deine Geschichte. Erzähl sie.
+
 ## Was macht Open Legend aus?
 Open Legend ist ein Spiel, das für Spielende designed wurde, die genug Regeln für ein faires Spiel wollen, aber nicht so viele, dass die Regeln dem Spaß oder der Kreativität in die Quere kommen. *Open Legend* erlaubt es, das Spielgeschehen ausbalanciert zu halten, während die Geschichte durch die Taten der Charaktere im Flug angepasst wird. Die Regeln sollten robust sein, aber ihr einziger Wert liegt darin, die Geschichte zu unterstützen.
 
@@ -59,6 +60,7 @@ Wir hoffen, dass wir ein Spiel für Spieler\*innen geschaffen haben, die eine gu
 Wir hoffen, dass wir ein Spiel für Spieler\*innen geschaffen haben, die es lieben, die Würfel zu werfen aber gleichzeitig nicht stundenlang ihren Charakter min-maxen wollen.
 
 Allem anderen voran aber hoffen wir, dass wir ein Spiel für Spieler\*innen wie dich geschaffen haben.
+
 ## Die Kernmechanik: Der Aktionswurf
 Die meisten relevanten Aufgaben, die dein Charakter in Open Legend versuchen wird, werden durch den Wurf eines Würfels bestimmt.
 

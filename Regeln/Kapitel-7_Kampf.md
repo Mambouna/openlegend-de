@@ -8,14 +8,18 @@ Manchmal ballert der Revolverheld einfach drauf los.
 Manchmal gehen Verhandlungen den Bach runter.
 
 In diesen Fällen beginnt der Kampf. In diesem Kapitel lernst du alle Regeln, die zum Ausfechten von strategischen und epischen Schlachten nötig sind.
+
 ## Wann der Kampf beginnt
 Als erstes musst du erkennen, dass nicht alle Vorkommnisse von Gewalt in deinem Spiel tatsächlich mit Schlag-für-Schlag Action nach den Regeln abgehandelt werden muss. Das Ergebnis einer einfachen Barschlägerei, die vielleicht für die Geschichte wichtig, aber nicht allzu interessant als Kampf ist, kann auch mit ein paar passenden Aktionswürfen abgehandelt werden, wie in [Kapitel 2: Aktionen und Attribute](<./Kapitel-2_Aktionen-und-Attribute.md>) erklärt. Ein letzter Showdown mit einem bösartigen Nekromanten, ausgetragen auf Luftschiffen, die durch die Wolken kreuzen aber, ist interessant genug, dass eine Schlag-für-Schlag Abhandlung Spaß macht. Der GM ist der, der letztendlich entscheidet, wann ein Kampf beginnt. Seine Entscheidung macht er mit drei einfachen Worten bekannt: "Werft eure Initiative!"
+
 ## Den Kampf beginnen
 Wenn der GM angibt, dass ein Kampf beginnt, wird das Spiel in Runden aufgeteilt. Jede Runde repräsentiert um die 6 Sekunden an Zeit und alle Charaktere und Kreaturen erhalten einen Zug pro Runde. Bevor der Kampf beginnt, müssen aber noch zwei Dinge getan werden: Überraschung feststellen und Initiative werfen.
+
 ### Überraschung feststellen
 In jedem Kampf können einer oder mehrere der Beteiligten überrascht sein, falls ihre Feinde sie unerwartet angreifen. Beispielsweise könnte eine Bande Banditen auf einem felsigen Pfad einen Hinterhalt für die Spielergruppe legen. Der GM lässt die Spielenden einen bestrittenen Wahrnehmungswurf gegen den Geschicklichkeitswurf der Banditen machen. Alle Spieler\*innen, die ihren Wurf nicht bestehen, sind überrascht. Der GM kann auch selbst entscheiden, ob einige oder alle Kämpfenden überrascht sind.
 
 Überraschte Charaktere handeln immer nach nicht-überraschten Charakteren, wie in den Regeln zur Initiative erklärt wird. Weiterhin kann ein überraschter Charakter keine Unterbrechungsaktionen ausführen und alle Angriffe gegen ihn haben Vorteil 1, bis er seinen ersten Zug hatte.
+
 ### Initiative werfen
 Nachdem Überraschung festgestellt wurde, würfelt jeder Kampfbeteiligte einen Geschicklichkeitswurf. Das Ergebnis des Wurfs ist der Initiativewert der Person. Der GM kann entscheiden, einen Wurf für eine Gruppe von Charakteren oder Kreaturen zu machen, anstatt für jeden einzelnen NPC individuell Initiative festzustellen.
 
@@ -42,12 +46,14 @@ Falls Charaktere überrascht sind, werden zwei Reihenfolgen der Initiative gefü
 > 2\. Schwerkraftwürmer 11
 > #### Überraschte Kämpfende
 > 3\. Zak 14
+
 ### Auf Handlung warten
 Wenn du nicht im Moment deines Zuges handeln willst, kannst du dich entscheiden, deinen Zug für später aufzuheben. Dazu kannst du entweder einfach warten oder aber eine Reaktion auf eine kommende Situation vorbereiten. Falls du wartest, kannst du deinen Zug beginnen, wann immer ein anderer Charakter seinen Zug beendet hat, aber bevor ein weiterer Charakter seinen Zug begonnen hat.
 
 Für eine Reaktion solltest du eine grobe Beschreibung dessen geben, worauf du reagieren willst, zum Beispiel "Ich werde handeln, sobald eine Gefahr durch die Tür kommt", oder "Ich bereite mich vor, mit meinem Bogen auf einen Gegner zu schießen, der sich dem Altar nähert". Wenn die auslösende Handlung stattfindet, kannst du deinen Zug beginnen, selbst wenn dies den Zug eines anderen Kämpfenden unterbricht (z.B. falls dieser gerade in seiner Bewegungsaktion war). Sobald dein Zug beendet ist, machen von dir unterbrochene Kämpfende mit ihren jeweiligen Zügen weiter.
 
 Falls die auslösende Situation bis zum Ende der Runde nicht eingetreten ist, kannst du deinen Zug normal ausführen.
+
 ## Deinen Zug ausführen
 Sobald dein Zug in der Reihenfolge der Initiative dran ist, kannst du eine große Aktion, eine Bewegungsaktion und eine beliebige Anzahl an kleinen Aktionen (aber nicht mehr als ein Mal die gleiche) ausführen. Anstatt all dieser Aktionen kannst du auch eine Fokusaktion in deiner Runde nutzen.
 
@@ -63,6 +69,7 @@ Sobald dein Zug in der Reihenfolge der Initiative dran ist, kannst du eine groß
 </table>
 
 *\*Eine große Aktion kann für eine Bewegungsaktion eingetauscht werden.*
+
 ### Große Aktionen
 Große Aktionen sind die Handlungen, die das Kampfgeschehen stark beeinflussen. Deine große Aktion kann für eine der folgenden Handlungen benutzt werden:
 
@@ -91,6 +98,7 @@ Diese drei Schritte werden noch in größerem Detail erklärt.
 		<td><i><b>Herausragender Erfolg:</b> Falls du die Verteidigung um 10 oder mehr übertriffst, wirke einen Harm oder breche die Konzentration des Gegners.</i></td>
 	</tr>
 </table>
+
 ##### Attribut vs. Verteidigung feststellen
 Als erstes musst du das sinnvollste Attribut für die Art deines Angriffs feststellen. Jede Attacke ist entweder körperlich oder außergewöhnlich.
 
@@ -130,6 +138,7 @@ Du musst ein Ziel in Reichweite wählen:
 **Körperliche Fernkampfattacken** können ohne Malus auf Feinde zielen, die sich in ihrer Reichweite befinden. Bis zu doppelter Reichweite können Feinde mit Nachteil 1 angegriffen werden, bis zu dreifacher Reichweite mit Nachteil 2. Weiter entfernte Feinde können nicht als Ziel genutzt werden.
 
 **Nicht-körperliche Angriffe** haben eine Reichweite, die durch den Wert des benutzten Attributs bestimmt wird und in der Tabelle *Nicht-körperliche Angriffsreichweite* gefunden werden kann. Anders als Fernkampfwaffen, können mit nicht-körperlichen Angriffen keine Attachen über der gegebenen Reichweite gemacht werden.
+
 #### Nicht-körperliche Angriffsreichweite
 | Attributwert | Reichweite |
 | ------------ | ---------- |
@@ -150,14 +159,18 @@ Alternativ dazu, einen Harm zu wirken, kannst du auch die Konzentration deines Z
 
 > #### Kampf auf einem Raster
 > Viele Spielende ziehen es vor, Kampf auf einem Raster mit Miniaturen oder Tokens als Beteiligte abzuhandeln. In diesem Vorgehen repräsentiert jedes Feld des Rasters eine Fläche von 5 mal 5 Fuß. Bewegung wird dann nur in Schritten von 5 Fuß ausgeführt und du musst mindestens 5' zur Verfügung haben, um ein neues Feld zu betreten. Kämpfende können sich hier nur dann diagonal über Felder bewegen, wenn keines der an die Diagonale angrenzenden Felder ein Hindernis enthält, welches Bewegung erschwert. Beispiele solcher Hindernisse wären etwa Bäume, Gebäude oder Felsen.
+
 ##### Multi-Zielen
 Grundsätzlich zielen deine Angriffe jeweils auf einen einzelnen Feind. Du kannst dich aber auch entscheiden, mit einem Angriff mehrere Feinde ins Visier zu nehmen oder auf eine Fläche zu zielen, die mehrere Feinde enthält.
 
 Auf mehrere Feinde zu zielen fügt deinem Angriffswurf wie unten ausgeführt Nachteil hinzu.
+
 ##### Nahkampf Multi-Zielen
 Du kannst auf eine beliebige Anzahl an Feinden in Nahkampfreichweite zielen. Wenn du auf mehr als einen Feind zielst leidet dein Angriffswurf unter einem Grad an Nachteil gleich der Anzahl an Feinden, auf die du zielst (2 Ziele = Nachteil 2, 3 Ziele = Nachteil 3, usw. ...).
+
 ##### Fernkampf Multi-Zielen
 Du kannst auf bis zu fünf Ziele innerhalb eines Rechtecks von 25' Länge und Breite zielen. Wenn du auf mehrere Feinde zielst, leidest du unter Nachteil gleich der Anzahl an Zielen, genauso wie bei Nahkampf Multi-Zielen.
+
 ##### Fläche Multi-Zielen
 Flächenattacken sind grundsätzlich nur mit außergewöhnlichen Attributen möglich, außer eine bestimmte Waffeneigenschaft oder andere Regel erlaubt explizit Flächenattacken ohne ein außergewöhnliches Attribut. Sowohl Feind als auch Freund werden von Flächenattacken getroffen, wenn sie sich im Zielgebiet befinden.
 
@@ -166,6 +179,7 @@ Flächenattacken sind grundsätzlich nur mit außergewöhnlichen Attributen mög
 **Linie.** Du zielst auf eine 5' breite Linie, die 10' lang und hoch ist. Du kannst mehrere Linien als Ziele aneinanderhängen, solange sie jeweils verbunden sind. Pro Linie leidet die Attacke unter Nachteil 1.
 
 **Kegel.** Du zielst auf einen Kegel, der sich von deinem Standort bis zu einer vor dir gewählten Länge erstreckt. An jedem Punkt ist der Kegel so breit, wie seine Distanz von dir. Dein Angriff leidet pro 5' Länge des Kegels unter Nachteil 1. Ausnahme ist ein Kegel mit der Länge 5', welcher nicht unter Nachteil leidet.
+
 ##### Multi-Zielen Übersicht
 <table>
 	<tr>
@@ -205,12 +219,14 @@ Einen Harmangriff abzuhandeln funktioniert ähnlich, wie einen Angriff mit Schad
 > Von einer schnell wachsenden Horde Zombies umzingelt, lädt Selene ihre abgesägte Schrotflinte nach und bereitet sich vor, sich ihren Weg freizuschießen und um ihr Leben zu rennen. Ihre Waffe gibt ihr in dieser Situation drei Vorzüge: die Option, eine 10' Kegel-Attacke ohne Nachteil zu nutzen, Vorteil 1 auf den Harm *Erzwungene Bewegung* und die Möglichkeit, *Erzwungene Bewegung* auf einem Kraftlevel um eins höher als ihren Attributwert zu nutzen. Da sie die Zombies nur aus dem Weg schaffen will, greift sie 3 von ihnen (die Anzahl Ziele mit einem 10' Kegel) mit der Harmattacke *Erzwungene Bewegung* an. Selenes Geschicklichkeit hat den Wert 5, sodass sie normalerweise 1d20 + 2d6 werfen würde, aber aufgrund ihrer Schrotflinte hat sie Vorteil 1 auf den Wurf. Sie nutzt also 1d20 + 3d6 (den niedrigsten Würfel entfernend) und erhält ein Ergebnis von 23, womit sie mit Leichtigkeit die Deckung der Zombies von 15 übertrifft. Da die Schrotflinte sie den Harm außerdem auf einem Kraftlevel eins höher wirken lässt, als ihr Attribut normalerweise zulassen würde, kann sie den Harm *Erzwungene Bewegung* auf Kraftlevel 6 anwenden (eins über ihrem Geschicklichkeitswert 5). Selene fegt die Zombies vor sich 15' von sich und fängt an, um ihr Leben zu laufen.
 > ___
 > Zarthakis, der große Wyrm, wird von 4 Abenteurern umringt. Er entfaltet seine mächtigen Schwingen und gibt ein schreckliches Brüllen von sich, mit dem er den Harm *Demoralisiert* mit seinem Präsenz-Attribut zufügen will. Die Präsenz des Drachen ist 8, sodass er eine Reichweite von 75' hat, was ohne Probleme für alle Abenteurer reicht. Weil Zarthakis 4 Gegner durch Multi-Zielen angreift, erhält er Nachteil 4 auf seinen Wurf. Normalerweise würde er 1d20 + 3d8 werfen, aber aufgrund des Nachteils wirft er 1d20 + 7d8 (wobei die vier höchsten Würfel verfallen). Sein Endwert ist 22, was er jeweils mit der Entschlossenheit-Verteidigung der Helden vergleicht. Die Charaktere haben Entschlossenheit von 14, 17, 22 und 25. Der Drache fügt drei der vier Abenteurer *Demoralisiert* zu.
+
 #### Ein Wohl wirken
 Du kannst ein Wohl wirken, um dir oder Verbündeten zu helfen. Um ein Wohl zu wirken, musst du ein passendes Attribut mit mindestens einem Wert gleich dem Kraftlevel des Wohls besitzen, so wie in der [Beschreibung des Wohls](<./Listen/Wohle.md>) angegeben. Befolge diese Schritte, um das Wohl anzuwenden:
 
 1. **Wähle ein Ziel.** Ein Ziel für ein Wohl zu wählen und die Reichweite eines Wohls festzustellen ist identisch zum Prozess, ein Ziel für einen Angriff mit Schaden auszuwählen, auch in Bezug auf Multi-Zielen. Wenn du das Wohl später aufrechterhälst, gilt dies für alle Ziele, die von der ursprünglichen Anwendung des Wohls betroffen wurden.
 2. **Wirf zum Wirken.** Mache einen Aktionswurf mit den gewählten Attribut, wie in der [Beschreibung des Wohls](<./Listen/Wohle.md>) aufgeführt.
 3. **Ermittle das Kraftlevel.** Manche Wohle haben nur ein einziges Kraftlevel, während andere mit verschieden viel Macht gewirkt werden können. Nutze die *Wohl Herausforderungswert*-Tabelle, um zu ermitteln, mit welchem Kraftlevel du das Wohl mit deinem Wurf maximal wirken kannst. Unabhängig vom Kraftlevel, kannst du ein Wohl nie auf einem Kraftlevel über dem Attributwert wirken, mit dem du das Wohl anwendest. Falls du den Herausforderungswert des niedrigsten Kraftlevels des Wohls nicht erreichst, schlägst du im Wirken des Wohls fehl.
+
 ##### Wohl Herausforderungswert
 <table>
 	<tr>
@@ -227,17 +243,22 @@ Du kannst ein Wohl wirken, um dir oder Verbündeten zu helfen. Um ein Wohl zu wi
 > Jade versucht, ihren Realitätswarper zu nutzen, um sich und ihren Verbündeten *Unsichtbar* zu machen. Das Wandlung-Attribut von Jade ist 6, aber sie hat Nachteil 2, weil sie zwei Ziele hat. Sie wirft 1d20 + 4d8 (wobei sie die zwei höchsten Würfel verwirft) und bekommt eine 20. *Unsichtbar* hat Kraftlevel 6, sodass Jade den Herausforderungswert von 22 verfehlt hat. Das Wohl hat keinen Effekt.
 > ___
 > Stitch ist dabei, die Wunde eines Verbündeten zu verpflegen und möchte das *Heilen*-Wohl nutzen. Sein Lernen-Attribut hat den Wert 5, also wirft er 1d20 + 2d6 mit einem Ergebnis von 24. Anhand der *Wohl Herausforderungswert*-Tabelle kann er das Wohl so mit Kraftlevel 7 wirken. Weil sein Lernen-Attribut aber nur 5 hat, kann auch das Wohl nur maximal auf diesem Level gewirkt werden. Er heilt seinem Kamerad anhand der Beschreibung des Wohls für Kraftlevel 5 um 2d6 Trefferpunkte.
+
 #### Einem Verbündeten helfen
 Du kannst eine große Aktion nutzen, um einem Verbündeten mit einem Aktionswurf zu helfen, falls er ein Attribut benutzt, in dem du einen Wert von 1 oder höher hast. Der Verbündete erhält automatisch Vorteil 1 auf den Wurf.
+
 #### Eine zusätzliche Bewegungsaktion bekommen
 In jedem Zug kannst du statt einer großen Aktion eine weitere Bewegungsaktion benutzen.
+
 ### Bewegungsaktionen
 Bewegungsaktionen werden generell benutzt, um durch das Schlachtfeld zu maneuvrieren, allerdings kannst du sie auch für einige andere Zwecke nutzen. Bewegungsaktionen können wie folgt genutzt werden:
 - Bewege dich um deine Geschwindigkeit
 - Spezielle Bewegungen ausführen
 - Harmen widerstehen
+
 ##### Bewege dich um deine Geschwindigkeit
 Du kannst dich um eine Distanz gleich deinem Geschwindigkeitswert bewegen. Die normale Geschwindigkeit eines Charakters ist 30'. Diese Bewegung kann durch andere Handlungen unterbrochen werden. Du kannst dich also zum Beispiel um 10' bewegen, eine kleine Aktion benutzen um eine Tür zu öffnen, dich um weitere 10 Fuß bewegen und danach eine große Aktion nutzen, um einen Feind anzugreifen.
+
 ##### Spezielle Bewegungen ausführen
 Spezielle Bewegungen umfassen Klettern, Springen, Schwimmen und andere Bewegungsarten, die restriktiver sind, als einfach über das Kampffeld zu rennen.
 
@@ -248,6 +269,7 @@ Spezielle Bewegungen umfassen Klettern, Springen, Schwimmen und andere Bewegungs
 **Klettern.** Du kletterst mit der Hälfte deiner normalen Geschwindigkeit. Der GM kann nach eigener Erwägung Kraft- oder Geschicklichkeitswürfe fordern, falls die Situation ausreichend gefährlich ist.
 
 **Schwimmen.** Du schwimmst mit der Hälfte deiner normalen Geschwindigkeit. Der GM kann nach eigener Erwägung Kraft- oder Konstitutionswürfe fordern, falls du eine weite Distanz, gegen den Strom oder in anderen gefährlichen Umständen schwimmst.
+
 #### Harmen widerstehen
 Du kannst eine Bewegungsaktion nutzen, um dich von einem Harm zu erholen. Die Bewegungsaktion ist dabei eine vereinfachte Repräsentation vieler verschiedener Wege, wie du die Effekte eines Harmes abschütteln könntest. Wirf 1d20 (ohne Attributwürfel). Falls dein Wurf 10 oder höher ergibt, ist der Harm aufgehoben. Manche Harme haben andere Regeln, wie ihnen widerstanden werden kann.
 
@@ -255,6 +277,7 @@ Manche Harme halten für längere Zeit an, wenn drei Versuche, dem Harm zu wider
 
 > ##### Beispiel für Harm widerstehen
 > Nachdem Garcon sechs Runden lang mit einem Ikorus-Dämon im Ring stand, leidet er unter drei Harmen: *Anhaltender Schaden*, *Verlangsamt* und *Geblendet*. Er benutzt seine Bewegungsaktion um zu versuchen, die Harme aufzuheben, also wirft er einen d20 für jeden der Harme. Die Ergebnisse sind 8, 16 und 9. Garcon schafft es, *Verlangsamt* abzuschütteln, aber er leidet weiter unter *Anhaltender Schaden* und *Geblendet*. Er notiert auf seinem Charakterblatt, dass er beiden Harmen einmal nicht widerstehen konnte.
+
 ### Kleine Aktionen
 Kleine Aktionen sind Handlungen, die nicht viel Zeit oder Einsatz erfordern, aber oft große Aktionen vorbereiten. Du kannst eine beliebige Anzahl an kleinen Aktionen in deinem Zug nutzen, aber du kannst nie die gleiche Art kleine Aktion mehrmals pro Zug nutzen. Kleine Aktionen umfassen die folgenden Handlungen:
 - Eine Gelegenheitsattacke nutzen
@@ -264,6 +287,7 @@ Kleine Aktionen sind Handlungen, die nicht viel Zeit oder Einsatz erfordern, abe
 - Einen Wahrnehmungswurf ausführen, um die Umgebung zu betrachten
 - Einen Lernenwurf nutzen, um sich an nützliche Informationen zu erinnern
 - Eine Tür, Kiste, einen Schrank usw. ... öffnen
+
 #### Eine Gelegenheitsattacke nutzen
 Eine Gelegenheitsattacke ist eine besondere Art kleine Aktion, weil sie nicht in deinem Zug stattfindet. Falls du eine Nahkampfwaffe führst und ein Gegner sich von einem Feld in deiner Reichweite in ein Feld nicht in deiner Reichweite bewegt, kannst du einen kostenlosen Angriff gegen ihn ausführen. (Als kleine Aktion kannst du nur eine Attacke dieser Art pro Runde nutzen.)
 
@@ -275,6 +299,7 @@ Nur willentliche Bewegung eines Kämpfenden kann eine Gelgenheitsattacke auslös
 > Vera steht dräuhend über den zwei Schnupflingen, die in Panik fliehen, als sie in ihre Berserkerwut verfällt. Beide Schupflinge lösen eine Gelegenheitsattacke aus. Da Vera aber nur einen solchen Angriff pro Runde benutzen kann, kann sie nur einen der beiden attackieren.
 > ___
 > Sergeant Rage führt eine Schrotflinte. Ein Rattenmann flizt zu ihm hinüber, greift mit einem Dolch an und schnellt wieder fort. Weil Sarge keine Nahkampfwaffe gezogen hat, kann er keine Gelegenheitsattacke gegen den Rattenmann ausführen.
+
 #### Ein Wohl aufrechterhalten
 Viele Wohle haben eine grundlegende Dauer von *Aufrechterhalten verlängert*, was bedeutet, dass sie jedes Mal eine weitere Runde länger anhalten, wenn ein Charakter die kleine Aktion *Ein Wohl aufrechterhalten* benutzt. Falls du ein Wohl aktiv hast und dieses nicht aufrechterhälst, endet das Wohl, sobald dein Zug zu Ende ist. Weil das Aufrechterhalten eines Wohles eine kleine Aktion ist, kannst du normalerweise nur ein Wohl pro Runde aufrechterhalten und kannst dies gar nicht tun, falls du eine Fokusaktion benutzt. Solange du keine anderen Wohle aktiv hast, musst du in der Runde, in der du ein Wohl wirkst, dieses nicht aufrechterhalten. Jedes Mal, wenn du ein Wohl aufrechterhälst, bleibt es für alle Ziele aktiv, die beim ersten Wirken betroffen waren. Bei einem Wohl mit Multi-Zielen hält der Effekt des Wohls also bei allen ursprünglichen Zielen an.
 
@@ -282,20 +307,24 @@ Viele Wohle haben eine grundlegende Dauer von *Aufrechterhalten verlängert*, wa
 > Ruby wirkt das *Fliegen*-Wohl und erhebt sich in die Luft. In ihrem nächsten Zug will sie *Fliegen* aktiv halten, also benutzt sie eine kleine Aktion dazu. Ein Gegner trifft sie danach mit dem Harm *Betäubt*, sodass sie im nächsten Zug nur noch eine große, kleine oder Bewegungsaktion ausführen kann. Sie benutzt eine einzige Bewegungsaktion, um zu einem sicheren Landepunkt zu kommen. Weil sie *Betäubt* ist, hat sie danach keine kleine Aktion zur Verfügung, um das Wohl aufrechtzuerhalten, sodass es mit dem Ende ihres Zuges vergeht.
 > ___
 > Doktor van Strankenkloff hat das Wohl *Dunkelheit* mit seinem patentierten Lichtschlucker Mark IV benutzt. In seinem nächsten Zug aktiviert er im Schutz der Schatten seinen persönlichen Transmog-Gürtel, um das Wohl *Gestaltwandel* zu aktivieren und sich in eine Maus zu verwandeln. Weil beide Wohle eine Dauer von *Aufrechterhalten verlängert* haben und der Doktor nur ein Wohl auf einmal aktiv halten kann, wählt er dafür *Gestaltwandel*. Am Ende seines Zuges ist die *Dunkelheit* aufgelöst und *Gestaltwandel* hält an.
+
 ### Fokusaktionen
 Eine Fokusaktion zu nutzen bedarf all deiner Konzentration und Aufmerksamkeit in einer Runde. Wenn du dich entscheidest, all deine anderen Aktionen aufzugeben, kannst du eine Fokusaktion ausführen. Wähle einer der beiden möglichen Fokusaktionen:
 - Überragende Aktion
 - Stürmen
+
 #### Überragende Aktion
 Wirf einen beliebigen Aktionswurf mit Vorteil 1.
 #### Stürmen
 Bewege dich bis zu zwei Mal deiner Geschwindigkeit und führe eine Nahkampfattacke mit Nachteil 1 aus.
+
 ### Unterbrechungsaktionen
 In manchen Situationen würdest du vielleicht gerne eine Aktion im Zug eines anderen Charakters nutzen. In diesen Fällen kannst du eine Unterbrechungsaktion nehmen. Tust du dies, verlierst du aber deine große Aktion in deinem nächsten regulären Zug in der Initiativereihenfolge.
 
 Du kannst eine Unterbrechungsaktion nutzen, um die folgenden zwei Dinge zu tun:
 - Verteidigen
 - Improvisieren
+
 #### Verteidigen
 Du kannst eine Verteidigungsaktion nutzen, nachdem ein Gegner einen erfolgreichen Angriffswurf gegen dich oder einen Verbündeten geworfen hat, um zu versuchen, dagegen zu verteidigen. Beschreibe, wie du verteidigen willst und mache dann einen Aktionswurf mit einem passenden Attribut (Schutz, Geschicklichkeit und Kraft sind typische Beispiele für Attribute, mit denen man verteidigen kann). Eine Verteidigungsaktion kann nur ein einziges Ziel verteidigen.
 
@@ -307,21 +336,28 @@ Einmal pro Runde kannst du dich als Teil deiner Verteidigen-Aktion bis zur Hälf
 > Vera ist dem Tod nahe, als der Flusstroll auf sie zuspringt. Der Troll wirft eine 23 gegen Veras Deckung von 17, also benutzt sie eine Verteidigungsaktion, um den Arm des Trolls aufzuhalten, bevor er sie zerfleischt. Vera wirft auf Kraft und erhält 20, sodass ihr Wurf ihren Verteidigungswert ersetzt. Sie erleidet 3 Schaden, anstatt von 6. Weil Verteidigen eine Unterbrechungsaktion ist, kann Vera in ihrem nächsten normalen Zug keine große Aktion nutzen.
 > ___
 > Eine Granate landet zwischen Zak und Tomlinson. Der Angriff mit der Granate hat als Wurfergebnis 25 gegen die Deckung der beiden von 12 und 18, sodass sie 13 und 7 Schaden zufügen könnte. Tomlinson benutzt eine Verteidigungsaktion um sich um die Hälfte seiner Geschwindigkeit zu bewegen (15 Fuß) und nimmt Zak dabei mit. Daraufhin führt er einen Geschicklichkeitswurf aus, um seinen Verbündeten zu schützen. Tomlinson führt einen Riot-Schild, sodass er auf den Wurf Vorteil 2 hat und bekommt am Ende 26 als Ergebnis. Zak nimmt keinen Schaden. Weil die Verteidigungsaktion aber nur eine Person schützen kann, nimmt Tomlinson trotzdem 7 Schaden. Aufgrund der Unterbrechungsaktion wird Tomlinson in seinem nächsten Zug keine große Aktion haben.
+
 #### Improvisieren
 Du kannst eine Unterbrechungsaktion auch benutzen, um eine improvisierte Reaktion auf eine Situation im Kampf zu machen. Falls eine Verbündete zum Beispiel von einer Klippe fällt, kannst du eine Unterbrechungsaktion nutzen, um das Wohl *Fliegen* zu wirken um sie zu retten oder ihr hinterherzuspringen und gerade noch ihre Hand zu greifen. Improvisierte Unterbrechungsaktionen sollten normalerweise nicht-offensive Handlungen sein, die Verbündeten helfen. Sie sollten die Geschichte unterstützen. Der GM kann entscheiden, eine Improvisation, die nicht zur Handlung passt, zu untersagen.
+
 ### Kostenlose Aktionen
 Falls eine Fertigkeit, eine Charakterstärke, ein Wohl oder eine andere Quelle dir kostenlose Aktionen gibt, werden diese genutzt, ohne dein normales Repertoire an Aktionen pro Zug zu verringern.
+
 ## Schaden und Heilung
 Deine Trefferpunkte (TP) sind eine abstrakte Repräsentation deiner Fähigkeit, Schmerzen zu ignorieren, tödlichen Angriffen zu entgehen und deine Präsenz auf dem Schlachtfeld trotz Wunden und Erschöpfung aufrechtzuerhalten. Wann immer du Schaden erleidest, werden deine TP reduziert und wann immer du geheilt wirst, werden sie erhöht.
+
 ### Gnadenstöße
 Wenn du von einer Attacke mit Schaden getroffen wirst, während du ohnmächtig, unbeweglich oder sonst nicht in der Lage bist, dich zu verteidigen, zählt der Angriff als *Gnadenstoß* und kann sofortigen Tod bedeuten. Deine Verteidigung gegen einen Gnadenstoß erhält keinerlei Boni durch deine Attribute (berechne deinen Verteidigungswert, ohne Attributwerte einzubeziehen). Weiterhin musst du, wann immer dir ein Gnadenstoß Schaden zufügt, einen Konstitutionswurf gegen HW 10 + den zugefügten Schaden machen. Falls der Wurf fehlschlägt, stirbst du.
 
 > #### Beispiel Gnadenstoß
 > Ulrics normale Deckung ist 20 (+3 Plattenpanzer, +5 Kraft, +2 Geschicklichkeit). Da er aber ohnmächtig ist, als ein Assassine seine Kehle durchschlitzt, zählt dessen Angriff als *Gnadenstoß*. Gegen diese Attacke kann Ulric seine Verteidigung nicht nutzen, sodass seine Deckung auf 13 reduziert ist (+3 Plattenpanzer zählt weiterhin). Der Assassine wirft eine 22 und fügt Ulric damit 9 Schaden zu. Weiterhin muss Ulric einen Konstitutionswurf mit HW 19 erfolgreich bestehen, sonst stirbt er.
+
 ### Null Trefferpunkte erreichen
 Wenn deine TP auf 0 sinken, fällst du in Ohnmacht. Deine TP können nicht unter 0 fallen. Während du ohnmächtig bist, bist du hilflos und alle Angriffe gegen dich zählen als Gnadenstöße. Jede Art von Heilung, die deine TP auf über 0 anhebt, bringt dich auch wieder zu Bewusstsein.
+
 ### Nach einem Kampf heilen
 Bist du zum Ende eines Kampes bei Bewusstsein und hast zumindest 10 Minuten, um dich auszuruhen und zu sammeln, werden deine TP vollständig geheilt. Wenn du zum Ende eines Kampfes ohnmächtig bist, erlangst du dein Bewusstsein und all deine TP nach 2d4 Stunden zurück.
+
 ### Tödlicher Schaden
 Tödlicher Schaden wird in Open Legend nur mit Bedacht eingesetzt, um vom GM die Konsequenzen von Verletzungen darzustellen. Dieses Konzept ist besonders in dunklen Settings mit ernsten Geschichten effektiv, in denen jede Wunde auch nach einem Kampf weiter relevant bleiben soll. Tödlicher Schaden passt auch gut zu Fallen oder Gefahren der Umgebung, die häufig außerhalb eines Kampfes ins Spiel kommen und nach den normalen Regeln der Heilung nach einem Kampf keine Konsequenz hätten.
 
@@ -329,6 +365,7 @@ Erleidet ein Charakter tödlichen Schaden, wird neben dem normalen Schaden auch 
 
 > #### Beispiel Tödlicher Schaden
 > Trish hat ihre vollen 22 TP, als sie auf eine Landmine tritt, die ihr 8 Punkte tödlichen Schaden zufügt. Ihre momentanen TP sind nun 14 und auch ihr TP-Maximum wurde darauf reduziert, bis sie den tödlichen Schaden heilen kann.
+
 #### Tödlichen Schaden heilen
 Tödlicher Schaden ist schwieriger zu heilen, als normale Formen von Schaden. Ohne andere Methoden wird 1 TP pro Tag pro Wert in Zähigkeit natürlich geheilt (mindestens 1 TP pro Tag). Mit der vollen Fürsorge eines talentierten Heilers, werden alle Charaktere in dessen Umgebung, die anstrengende Taten meiden, zusätzlich um 1 TP pro Tag pro Wert des Heilers in Schöpfung, Präsenz oder Lernen geheilt. Mehrere Heilende wirken sich nicht weiter positiv auf die Heilung aus (der angewandte Bonus ist der höchste unter den sich kümmernden Heilenden).
 
@@ -338,6 +375,7 @@ Ein Krieger mit Zähigkeit 4 zum Beispiel heilt natürlicherweise 4 TP tödliche
 > Um einem Spiel mehr Realismus zu geben, kann der GM diese optionale Regel für kritische Treffer nutzen.
 > 
 > Mit dieser Regel wird bei einer natürlichen 20 des d20 bei einem Angriffswurf ein Teil des Schadens als tödlicher Schaden zugefügt. Der tödliche Schaden ist gleich der Summe explodierter d20 Würfe nach dem ersten normalen d20, wobei maximal der gesamte Schaden der Attacke tödlich sein kann.
+
 ## Die Kernmechanik im Kampf
 Die Kernmechanik von Open Legend ist dazu da, die Kreativität der Spielenden und des GM anzuregen, sodass die Geschichte sich immer weiterentwickelt und kein Würfelwurf sich nutzlos anfühlt. Im Kampf wird aber meistens generell schon deutlich mehr mit Würfeln geworfen als sonst, sodass der GM eventuell davon überwältigt werden könnte, für jeden Wurf individuelle Szenarien beim Fehlschlag zu finden.
 
@@ -370,8 +408,10 @@ Mit dieser modifizierten Regel bedeutet eine fehlgeschlagene Attacke zwar, dass 
 > Vera wirft sich auf den roten Drachen und versucht, seinen Schuppenpanzer zu durchstoßen. Ihr Angriffswurf verfehlt die 25 Deckung des Drachen. Vera entscheidet sich, 3 Schaden zuzufügen, doch auch der GM kann wählen.
 > 
 > Er entscheidet sich, den Harm *Niedergeschlagen* zu wirken: Der Schwanz des Drachen zuckt und Vera wird zu Boden geworfen.
+
 ### Warum bei einem Fehlschlag trotzdem Erfolg haben?
 Manche Spielende fragen sich vielleicht, warum ein Spielercharakter bei einem fehlgeschlagenen Wurf trotzdem einen Tropfen Erfolg schmecken sollte. Wenn man an Filme oder Bücher denkt, erscheint dies unrealistisch, da dort dauernd Schüsse verfehlen oder Schwerter Rüstung nicht durchschlagen. In Open Legend stellt die Regel "Erfolg mit einem Haken" sicher, dass ein Kampf nie stillsteht. Selbst wenn die Würfel sich gegen die Spielenden wenden, baut der Kampf trotzdem einen epischen Abschluss auf, während Kämpfende sich über das Schlachtfeld bewegen und gegenseitig zermürben. Trefferpunkte repräsentieren nicht einfach physische Unversehrtheit und die Verteidigung eines Feindes zu verfehlen heißt nicht, dass eine Attacke völlig umsonst war. Selbst wenn ein Kugelhagel die Kevlarweste eines Feindes nicht durchdringt, kann er ihm trotzdem den Atem stehlen (*3 Schaden zufügen*), zwingen in Deckung zu springen (*Niedergeschlagen wirken*) oder dem Angreifer ein Zeitfenster zum Maneuvrieren geben (*10' bewegen*).
+
 ### Haken und Fehlschläge im Kampf interpretieren
 Wer als GM auch im Kampf den normalen Weg zum Interpretieren von Fehlschlägen nutzen möchte, hat vielleicht Schwierigkeiten, schnell interessante Konsequenzen zu erfinden, vor allem wenn man Vorerfahrung mit mehr binären Regelsystemen hat. Diese Sektion soll GMs mit mehreren Beispielen inspirieren, wie man *Erfolg mit einem Haken* und *Fehlschlag, aber die Handlung schreitet voran* im Kampf einsetzen kann.
 
@@ -384,6 +424,7 @@ Wer als GM auch im Kampf den normalen Weg zum Interpretieren von Fehlschlägen n
 > - *Sind die Würfel bisher sehr einseitig gefallen?* Hier kann Erfolg mit einem Haken oder Fehlschlag, aber die Handlung schreitet voran den Extremfällen von Glück oder Unglück entgegenwirken.
 > - *Läuft der Kampf schon zu lange?* Wähle die Option, die den Kampf schneller beendet.
 > - *Was wäre die dramatischste Konsequenz in dieser Situation?* Open Legend will grandiose Geschichten erzählen. Denke darüber nach, welche Option in den Köpfen deiner Spielenden in mehreren Wochen noch hängengeblieben sein wird.
+
 #### Erfolg mit einem Haken im Kampf
 Kapitel 2 hat die folgenden Arten von Konsequenz für Erfolg mit einem Haken angegeben:
 
@@ -396,22 +437,31 @@ Kapitel 2 hat die folgenden Arten von Konsequenz für Erfolg mit einem Haken ang
 - Finde etwas, womit du nicht gerechnet hast.
 
 In den folgenden Beispielen findest du Möglichkeiten, wie diese Konzepte im Kampf umgesetzt werden können.
+
 ##### Versetze einen Charakter in Gefahr
 Hilfsscheriff Grey verfällt inmitten des tobenden Überfalls durch die Kannibalen in Panik. Er ballert mit seiner Schrotflinte auf einen auf ihn zustürmenden Feind, ohne zu merken, dass sein Verbündeter Doc direkt hinter seinem Ziel steht. Der GM interpretiert den fehlgeschlagenen Wurf von Grey als Erfolg mit einem Haken und lässt ihn dem Kannibalen 5 Schaden zufügen. Doc aber muss aus dem Weg hechten, um nicht Kollateralschaden zu werden. Jetzt liegt er zwei weiteren hungrigen Kannibalen zu Füßen.
+
 ##### Verschwende eine Ressource
 Slade kämpft mit seinem Plasmaschwert gegen zwei riesige Spinnen, während er mit der anderen Hand das Seil umklammert, an dem er hängt. Als er eine der Spinnen tödlich treffen will, verlässt ihn sein Glück mit den Würfeln. Der Erfolg mit einem Haken durch den GM erlaubt ihm einen harten Deal: "Du kannst die Spinne erschlagen, aber dein Schwert wird in ihrer Leiche steckenbleiben, während sie in die Dunkelheit hinabfällt. Oder du kannst einfach verfehlen. Was wählst du?"
+
 ##### Gewinne einen Feind
 Zwei Psi-Mech-Gangs rasen über den Dächern von New Tokyo dahin, während sie ihren Streit auf die einzige Weise lösen, die sie kennen: Plasmaschüsse und Schrapnelraketen. Trish schießt einen wärmesuchenden Sprengkopf auf einen der Feinde, aber die Würfel sind ihr nicht gewogen. Der GM entscheidet, dass die Rakete trifft, sodass der gegnerische Psi-Mech zerstört wird und in die Fenster des Dentsu-Gebäudes einschlägt. Sekunden später sind die Dentsu-Sicherheitsdrohnen mitten im Kampfgetümmel und schießen mit ihren Ionenkanonen auf alles, was sich bewegt.
+
 ##### Verliere einen Freund
 Das taktische Sturmteam kommt in den gähnenden Tunneln der Bogan-Heimatwelt unter schweren Beschuss, als Jaaxy ihre Granate wirft, um die Feinde zu dezimieren. Leider war sie nie besonders gründlich in ihren Ausrüstungschecks und zwei Pins ihrer Granaten waren verhakt. Mit beiden Granaten aktiv wirft sie die eine auf die Gegner, doch die andere fällt auf den Boden. Ihr Team ist gezwungen, aus dem Weg zu hechten und die Explosion lässt den Tunnel einstürzen. Als der Staub sich wieder legt wird klar, dass beide Gruppen voneinander getrennt sind und es immer noch genug Bogans für alle gibt.
+
 ##### Übersehe ein wichtiges Detail
 Die Gruppe drängt gerade einen bösen Geist zurück, den sie in den alten Gemäuern von Harden-Manor entfesselt haben, als Jade versucht, ihre psychokinetischen Kräfte zu sammeln um den Harm *Dominiert* zu nutzen um den Geist zu zwingen, das Landgut zu verlassen. Ihr Wurf schlägt fehl, doch der GM erlaubt ihr, den Geist trotzdem zu bannen. Was sie nicht hat kommen sehen, war, das der Geist seit Jahrhunderten versuchte, dem Gebäude zu entfliehen. Jade hat aus Versehen den Fluch gebrochen, der ihn gefangen hielt.
+
 ##### Verschwende Zeit
 Melchior ist dabei, einen mächtigen Zauber zu wirken, um den Harm *Verlangsamt* auf eine Horde riesenzähniger Nager zu legen, doch sein Wurf schlägt fehl. Der GM interpretiert ihn als Erfolg mit einem Haken, indem er erklärt, dass der Zauber mehr Zeit beansprucht, als Melchior zunächst dachte. Wenn er ihn erfolgreich wirken will, muss er ihn noch länger weben, sodass er auch die große Aktion seiner nächsten Runde dafür aufwenden muss.
+
 ##### Zieh Aufmerksamkeit auf dich
 Cooks Gewehr qualmt, während er Bandit nach Bandit von seinem Nest auf Hoss General Store niederstreckt. Endlich erspäht er El Hombre, den Anführer der Bande, doch sein Wurf will nicht wie er will. Der GM erlaubt ihm, 3 Schaden anzurichten, aber es hat einen Preis. Cooks Position ist aufgedeckt und der erzürnte Banditenanführer schickt fünf seiner besten Männer auf das Dach des Ladens.
+
 ##### Finde etwas, womit du nicht gerechnet hast
 Im wahrscheinlich mutigsten Moment ihres Lebens schleicht Snitch in Armeslänge des Giftwyvern und versucht, das ruhende Biest mit einem Überraschungsangriff mit dem Harm *Betäubt* zu belegen. Ihr Wurf schlägt fehl und der GM bietet ihr einen Erfolg mit einem Haken an. Der Wyvern bemerkt Snitch im letzten Moment und schafft es, die Schurkin im gleichen Moment mit seinem Schwanz wegzufegen, in dem ihr Dolch seine Haut durchdringt. Der Wyvern ist *Betäubt*, doch Snitch wurde in eine Grube hinuntergeworfen, in der sie eine Brut hungriger Wyvernsäuglinge entdeckt, die auf ihr nächstes Mahl warten.
+
 #### Fehlschlag, aber die Geschichte schreitet voran im Kampf
 Kapitel 2 macht klar, dass Fehlschlag in Open Legend nie einfach Fehlschlag ist. Ein niedriger Angriffswurf ist mehr als Verfehlen. Ein fehlgeschlagener Versuch, ein Wohl zu wirken bedeutet mehr, als dass die gesammelte Macht wieder verpufft. Stattdessen sollte jeder Fehlschlag die Geschichte bedeutsam vorantreiben. Kapitel 2 hat die folgenden Möglichkeiten zur Interpretation von *Fehlschlag, aber die Geschichte schreitet voran* angeboten:
 
@@ -419,14 +469,17 @@ Kapitel 2 macht klar, dass Fehlschlag in Open Legend nie einfach Fehlschlag ist.
 - Die Gefahr eskaliert.
 - Die Informationen waren falsch.
 In den folgenden Szenarios werden Beispiele angeboten, wie diese Interpretationen im Kampf angewandt werden können.
+
 ##### Der Spieler findet eine Chance auf Erfolg
 Durgin beschwört einen Kugelblitz, um ein Rudel Wölfe zu braten, das auf ihn zustürmt. Sein Energiewurf reicht nicht aus, um die Deckung der Wölfe zu treffen. Da der GM ihn nicht mit einem einfachen "du verfehlst" abfrühstücken will, lässt der GM den Blitz zur Seite schleifen und einen nahen Baum treffen, der umfällt und nun eine kleine Barriere zwischen den Zwergen und Wölfen bildet.
 
 Axel entleert das Magazin seiner Gatling Gun in Richtung der Sicherheitsbots, die zwischen seinem Team und dem Terminal stehen, dass die Gruppe anzapfen muss. Leider sind die Würfel nicht für Alex da. Der GM entscheidet, dass der Angriff die Bots nicht trifft, sie aber ihre Formation auflösen müssen, um keinen Schaden zu nehmen. Obwohl die Bots nicht beeinträchtigt wurden, kann Axels Team nun besser an das Terminal herankommen.
+
 ##### Die Gefahr eskaliert
 Raz wehrt einen intelligenten Schleimpool ab, als er versucht, ihn mit einem Plasmastreich zu zerteilen. Die Würfel sind ihm nicht gewogen und Raz sieht entgeistert, wie die zwei Hälften einfach weiter agieren und er jetzt zwei motivierte Feinde vor sich glibbern hat.
 
 Drustina wirkt einen Zauber, um den Boden mit Eis zu bedecken und dem auf sie zukommenden Troll den Harm *Niedergeschlagen* zuzufügen. Da ihr Wurf fehlschlägt, entscheidet der GM, dass der Troll nicht hinfällt, sondern durch das rutschige Eis sogar Geschwindigkeit gewinnt und er fast sofort die Distanz zwischen sich und der Zauberin überwunden hat.
+
 ##### Die Informationen waren falsch
 Sergeant O'Dell versucht, das Wohl *Heilen* zu wirken, um eine Schusswunde ihres Kameraden zu schließen. Leider hat sie die Verletzung falsch eingeschätzt und sucht nach einer Kugel, die sauber durch den Körper geflogen ist. Der Patient wird von den Schmerzen ohnmächtig, da O'Dell in seinem Fleisch nach einer nicht existierenden Kugel gegraben hat.
 
