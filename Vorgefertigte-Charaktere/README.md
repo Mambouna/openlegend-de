@@ -21,7 +21,7 @@ Charakters so weit es geht wiederspiegeln.
   untoten Mächten glänzt diese alte Gestalt in Ballsälen aber auch im Gefecht.
 - [Sprengmeister](<./Sprengmeister.md>) - Ein Fernkämpfer, der auf Flächenangriffe
   spezialisiert ist, dabei seine Verbündeten aber unversehrt lässt.
-- [Phoenixmaid](<Phoenixmaid.md>) - Das mystische Wesen verehrend verwandelt die
+- [Phoenixmaid](<./Phoenixmaid.md>) - Das mystische Wesen verehrend verwandelt die
   Phönixmaid ihren Körper in Flammen, die ihren Verbündeten neues
   Leben schenkt und das ihrer Feinde auslischt.
 
