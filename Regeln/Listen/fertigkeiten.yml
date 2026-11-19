@@ -1415,7 +1415,7 @@
   description: |
     Ob durch rohe Kraft oder Blitzreflexe, kannst du dein Momentum im Kampf nutzen, um mit Leichtigkeit über das Schlachtfeld zu maneuvrieren.
   effect: |
-    Wann immer du einen Feind mit einer Kraft- oder Geschicklichkeitsattacke auf 0 TP bringst, kannst du dich sofort als kostenlose Aktion bis zu deiner Geschwidigkeit weit bewegen.
+    Wann immer du einen Feind mit einer Kraft- oder Geschicklichkeitsattacke auf 0 TP bringst, kannst du dich sofort als kostenlose Aktion bis zu deiner Geschwindigkeit weit bewegen.
   special: |
     Falls du Zugang zum Wohl <em>Teleportation</em> hast, kannst du es anstatt einer normalen Bewegung benutzen.
   effect_short: |
@@ -1871,7 +1871,7 @@
   cost:
   - 2
   description: |
-    Du bist ein Meister darin, Wohle auf mehrere Verbündete zu wirken. Eine Massenteleportation in eine andere Dimension  wäre eine Beispiel dieser Fertigkeit im Spiel.
+    Du bist ein Meister darin, Wohle auf mehrere Verbündete zu wirken. Eine Massenteleportation in eine andere Dimension wäre eine Beispiel dieser Fertigkeit im Spiel.
   effect: |
     Für jeden Rang dieser Fertigkeit reduzierst du den mit Multi-Zielen von Wohlen assoziierten Nachteil um 1.
   effect_short: |
